@@ -234,12 +234,12 @@ def scrape_ontario_laws(main_base_url, start_page=0, end_page=6000, step=50):
 
 # %%
 #Create a function to sanitize filenames
-def sanitize_filename(name):
+def sanitize_filename(name, max_length=249):
     if isinstance(name, pd.Series):
         name = name.iloc[0] if not name.empty else "default_name"
     valid_chars = "-_.() %s%s" % (string.ascii_letters, string.digits)
     sanitized_name = ''.join(c for c in name if c in valid_chars)
-    return sanitized_name
+    return sanitized_name[:max_length]
 
 # %%
 #Function to Scrape Versions to csv

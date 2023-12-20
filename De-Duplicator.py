@@ -21,7 +21,7 @@ def delete_duplicate_json_files(json_folder):
     PermissionError: If the function fails to delete a file due to permission issues.
 
     Example:
-    >>> json_folder = r'C:\example_json_folder'
+    >>> json_folder = r'C:\\example_json_folder'
     >>> delete_duplicate_json_files(json_folder)
     """
     seen_combinations = set()  # Set to store unique combinations of full_title and url
@@ -49,3 +49,5 @@ def delete_duplicate_json_files(json_folder):
                     else:
                         # New combination, add to the set
                         seen_combinations.add(unique_key)
+
+

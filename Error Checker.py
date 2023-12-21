@@ -13,36 +13,37 @@ laws_and_regs =  pd.read_csv(laws_and_regs_f)
 # %%
 #Function to check for failed acts (empty content; empty revoked regs)
 def check_jsons_act_content(json_folder):
+    # Define the column names
+    columns = ['citation', 'url']
     data = []
 
     for file in os.listdir(json_folder):
         if file.endswith(".json"):
-            with open(os.path.join(json_folder, file), 'r', encoding='utf-8') as f:
-                json_data = json.load(f)
+            try:
+                with open(os.path.join(json_folder, file), 'r', encoding='utf-8') as f:
+                    json_data = json.load(f)
 
-                # Using get method with default values
-                revoked_regs = json_data.get('revoked_regs', None)
-                versions = json_data.get('versions', [])
-                content = json_data.get('content', None)
+                    # Using get method with default values
+                    revoked_regs = json_data.get('revoked_regs', None)
+                    versions = json_data.get('versions', [])
+                    content = json_data.get('content', None)
 
-                # Check if 'act_info' is present
-                if 'act_info' in json_data:
-                    # Conditions for including the data
-                    include_data = (content is None) or (revoked_regs is None and len(versions) < 3)
+                    # Check if 'act_info' is present
+                    if 'act_info' in json_data:
+                        # Conditions for including the data
+                        include_data = (content is None) or (revoked_regs is None and len(versions) < 3)
 
-                    if include_data:
-                        data.append({
-                            'citation': json_data['act_info']['full_title'],
-                            'url': json_data['act_info']['url']
-                        })
+                        if include_data:
+                            data.append({
+                                'citation': json_data['act_info']['full_title'],
+                                'url': json_data['act_info']['url']
+                })
+            except Exception as e:
+                print(f"Error processing {file}: {e}")
 
         #print(f"Processing {file}")
 
-    return pd.DataFrame(data)
-
-# Example usage
-df_acts = check_jsons_act_content(r'C:\Users\horat\Codingz\Elaws Scraping Scripts\Python Pit\dbtest')
-df_acts
+    return pd.DataFrame(data, columns=columns)
 
 # %%
 #Function to check for failed regs, empty content
@@ -58,7 +59,7 @@ def check_jsons_reg_content(json_folder):
                 if 'reg_info' in json_data and not json_data.get('content'):
                     data.append({
                         'citation': json_data['reg_info']['full_title'],
-                        'url': json_data['reg_info']['current_url']
+                        'url': json_data['reg_info']['url']
                     })
 
     return pd.DataFrame(data)
@@ -107,7 +108,7 @@ def get_missed_items(json_folder, laws_and_regs):
                     data.append({'type': 'Act', 'citation': citation, 'url': url})
                 elif 'reg_info' in json_data:
                     citation = json_data['reg_info'].get('full_title', 'No Title')
-                    url = json_data['reg_info'].get('current_url', 'No URL')
+                    url = json_data['reg_info'].get('url', 'No URL')
                     data.append({'type': 'Regulation', 'citation': citation, 'url': url})
 
     #DF Data
@@ -166,7 +167,7 @@ def check_for_fails(db_folder, laws_and_regs):
     ```
     """
     #Make laws_and_regs DF
-    laws_and_regs = pd.read_csv(laws_and_regs)
+    laws_and_regs = pd.read_csv('laws_and_regs.csv')
 
     #Compile 3 basic lists, error acts, error regs, and missed items
     df_acts = check_jsons_act_content(db_folder)
@@ -199,7 +200,7 @@ def check_for_fails(db_folder, laws_and_regs):
                             'date_scraped']]
 
     # Define save path
-    save_path = os.path.join(db_folder, 'failed', 'rescrape_list.csv')
+    save_path = os.path.join('failed', 'rescrape_list.csv')
 
     # Check if the directory exists, and create it if it does not
     save_dir = os.path.dirname(save_path)

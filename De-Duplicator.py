@@ -26,28 +26,48 @@ def delete_duplicate_json_files(json_folder):
     """
     seen_combinations = set()  # Set to store unique combinations of full_title and url
 
+    print(f"Starting to process files in {json_folder}")
     for file in os.listdir(json_folder):
         if file.endswith(".json"):
-            file_path = os.path.join(json_folder, file)
-            with open(file_path, 'r', encoding='utf-8') as f:
-                try:
-                    json_data = json.load(f)
-                except json.JSONDecodeError:
-                    continue  # Skip files that are not valid JSON
+#            file_path = os.path.join(json_folder, file)
+            print(f"Processing file: {file_path}")
 
-                # Extract full_title and url
-                if 'act_info' in json_data:
-                    full_title = json_data['act_info'].get('full_title', '')
-                    url = json_data['act_info'].get('url', '')
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    json_data = json.load(f)
+#                    print(f"Successfully read JSON data from {file}")
+
+            except json.JSONDecodeError as e:
+                print(f"JSON decode error in file {file}: {e}")
+                continue  # Skip files that are not valid JSON
+            except Exception as e:
+                print(f"Unexpected error while reading file {file}: {e}")
+                traceback.print_exc()
+                continue
+
+            # Extract full_title and url
+            for key in ['act_info', 'reg_info']:
+                if key in json_data:
+                    full_title = json_data[key].get('full_title', '')
+                    url = json_data[key].get('url', '')
                     unique_key = (full_title, url)
 
                     # Check if this combination has been seen before
                     if unique_key in seen_combinations:
-                        # Duplicate found, delete the file
-                        os.remove(file_path)
-                        print(f"Deleted duplicate file: {file}")
+                        try:
+                            os.remove(file_path)
+                            print(f"Deleted duplicate file: {file}")
+                        except PermissionError as e:
+                            print(f"PermissionError while deleting file {file}: {e}")
+                            traceback.print_exc()
+                        except Exception as e:
+                            print(f"Unexpected error while deleting file {file}: {e}")
+                            traceback.print_exc()
                     else:
-                        # New combination, add to the set
                         seen_combinations.add(unique_key)
+#                        print(f"Added new combination to seen: {unique_key}")
+
+    print("Finished processing all files.")
+
 
 

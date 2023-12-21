@@ -1789,7 +1789,7 @@ def scrape_law_page(driver, soup, url, valid_from, valid_to):
 
 
 #If Normal
-    elif toc.find('p', class_='table'):
+    elif toc.find('p', class_='table') or toc.find('p', class_='table-e'):
         print("Structure Type: Regular Law TOC (regular logic)")
 
         #Get LeftHead Law Content

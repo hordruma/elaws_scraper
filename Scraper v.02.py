@@ -381,12 +381,12 @@ def extract_revoked_regs_data(soup, url):
                 
                 for row in revoked_regs_rows:
                     td_cells = row.find_all('td')
-                if len(td_cells) >= 2:
-                        a_tag = td_cells[1].find('a')
-                        if a_tag:
-                            citations.append(td_cells[0].get_text().strip())
-                            titles.append(a_tag.get_text().strip())
-                            hrefs.append(a_tag['href'])
+                    if len(td_cells) >= 2:
+                            a_tag = td_cells[1].find('a')
+                            if a_tag:
+                                citations.append(td_cells[0].get_text().strip())
+                                titles.append(a_tag.get_text().strip())
+                                hrefs.append(a_tag['href'])
 
                 # Create DataFrame
                 revoked_regs_data = pd.DataFrame({
@@ -404,10 +404,10 @@ def extract_revoked_regs_data(soup, url):
         print("Revoked Regulations (RR) not found for " + url + ".")
         pass
 
-        # Convert DataFrame to JSON object
-        revoked_regs_dict = revoked_regs_data.to_dict(orient='records')
+    # Convert DataFrame to JSON object
+    revoked_regs_dict = revoked_regs_data.to_dict(orient='records')
 
-        return revoked_regs_dict
+    return revoked_regs_dict
 
 # %%
 # Function to extract current regs
@@ -1759,6 +1759,7 @@ def scrape_law_page(driver, soup, url, valid_from, valid_to):
     #Scrape Act Info/MetaData for filename parameters
     act_info_json = parse_act_info(soup, url)
 
+
 #If TOCless
     if not toc:
         print("Structure Type: No Law TOC (TOCless logic) for " + str(url))
@@ -1771,7 +1772,6 @@ def scrape_law_page(driver, soup, url, valid_from, valid_to):
 
         #Save File
         save_law_data(combined_data, act_info_json, valid_from, valid_to)
-        
 
 
 #If LeftHead
@@ -1789,7 +1789,7 @@ def scrape_law_page(driver, soup, url, valid_from, valid_to):
 
 
 #If Normal
-    elif toc.find('p', class_='table') or toc.find('p', class_='table-e'):
+    elif toc.find('p', class_='TOCid') or toc.find('p', class_='TOCid-e'):
         print("Structure Type: Regular Law TOC (regular logic)")
 
         #Get LeftHead Law Content
@@ -1800,6 +1800,21 @@ def scrape_law_page(driver, soup, url, valid_from, valid_to):
 
         #Save File
         save_law_data(combined_data, act_info_json, valid_from, valid_to)
+
+
+# If No-TOC, but with MsoNormal Table
+    elif toc and not toc.find('p', class_='TOCid-e') or toc.find('p', class_='TOCid'):
+        print("Structure Type: TOCless Law w/ Table " + str(url))
+        
+        # Get TOC-less Content
+        noTOC_content = scrape_noTOC_law(url)
+
+        #Combine into dict
+        combined_data = combine_law_data(driver, soup, url, noTOC_content)
+
+        #Save File
+        save_law_data(combined_data, act_info_json, valid_from, valid_to)
+
 
 #If Unexpected
     else:
@@ -2008,7 +2023,7 @@ def scrape_reg_page(driver, soup, url, valid_from, valid_to):
 
 # %%
 #Function to Scrape Versions and return a dataframe
-def scrape_versions_to_df(driver, soup, url):
+def scrape_versions_to_df1(driver, soup, url):
     """
     Scrape versions of legislation from a web page and return them as a DataFrame.
 
@@ -2079,22 +2094,29 @@ def scrape_versions_to_df(driver, soup, url):
 
                 # Check if current legislation
                 current_label = td_cells[0].find('span', class_='label')
-                if current_label and current_label.get_text().strip().lower() == 'current':
-                    valid_from = td_cells[1].find('span', class_='time').get_text().strip()
+                no_date_label = td_cells[1].find('span', class_='no-date')
+
+                if current_label and no_date_label:
+                    # Handle the 'current' law row
+                    valid_from = 'N/A'  # Or an appropriate value
+                    valid_to = 'current'
+                elif current_label and current_label.get_text().strip().lower() == 'current':
+                    valid_from = td_cells[1].find('span', class_='time').get_text().strip() if td_cells[1].find('span', class_='time') else 'N/A'
                     valid_to = 'current'
                 else:
                     # Extract valid dates
                     span_tags = td_cells[1].find_all('span', class_='time')
                     if len(span_tags) == 1:
                         valid_from = 'Repealed'
-                        valid_to = span_tags[0].get_text().strip()
+                        valid_to = span_tags[0].get_text().strip() if span_tags[0] else 'N/A'
                     elif len(span_tags) > 1:
-                        valid_from = span_tags[0].get_text().strip()
-                        valid_to = span_tags[1].get_text().strip()
+                        valid_from = span_tags[0].get_text().strip() if span_tags[0] else 'N/A'
+                        valid_to = span_tags[1].get_text().strip() if len(span_tags) > 1 and span_tags[1] else 'N/A'
                     else:
                         valid_from = 'N/A'
                         valid_to = 'N/A'
 
+                #print(f"valid_from: {valid_from}, valid_to: {valid_to}")
                 valid_froms.append(valid_from)
                 valid_tos.append(valid_to)
 

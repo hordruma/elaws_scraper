@@ -1,0 +1,875 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 596/94: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "O. Reg. 596/94: ",
+        "act_under": "Respiratory Therapy Act, 1991   Loi de 1991 sur les thérapeutes respiratoires",
+        "url": "https://www.ontario.ca/laws/regulation/940596",
+        "date_scraped": "2023-12-18 03:19:22"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "August 31, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/940596/v9",
+            "valid_from": "August 21, 2023",
+            "valid_to": "August 30, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/940596/v8",
+            "valid_from": "March 28, 2014",
+            "valid_to": "August 20, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/940596/v7",
+            "valid_from": "August 30, 2013",
+            "valid_to": "March 27, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/940596/v6",
+            "valid_from": "November 19, 2012",
+            "valid_to": "August 29, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/940596/v5",
+            "valid_from": "November  5, 2012",
+            "valid_to": "November 18, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/940596/v4",
+            "valid_from": "February 17, 2012",
+            "valid_to": "November  4, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/940596/v3",
+            "valid_from": "January 24, 2008",
+            "valid_to": "February 16, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/940596/v2",
+            "valid_from": "May 19, 2005",
+            "valid_to": "January 23, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/940596/v1",
+            "valid_from": "September 24, 1999",
+            "valid_to": "May 18, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "PART III",
+            "Section": "None",
+            "Section1": "CONFLICT OF INTEREST",
+            "Section2": "1-5.-19",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "PART V",
+            "Section": "None",
+            "Section1": "ADVERTISING",
+            "Section2": "23",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "PART VI",
+            "Section": "None",
+            "Section1": "NOTICE OF MEETINGS AND HEARINGS",
+            "Section2": "30-31",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "PART VII",
+            "Section": "None",
+            "Section1": "QUALITY ASSURANCE",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "General",
+            "Section2": "32-34",
+            "part_id": "PART VII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Professional Development and Self-Assessment",
+            "Section2": "35",
+            "part_id": "PART VII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Peer and Practice Assessment",
+            "Section2": "36-42.-47",
+            "part_id": "PART VII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "PART VII.1",
+            "Section": "None",
+            "Section1": "PRESCRIBED PROCEDURES",
+            "Section2": "48-49",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "PART VIII",
+            "Section": "None",
+            "Section1": "PRESCRIBED SUBSTANCES",
+            "Section2": "49.1",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "PART VIII",
+            "Section": "None",
+            "Section1": "REGISTRATION",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Classes of Certificate, General",
+            "Section2": "50",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Application for Certificate of Registration",
+            "Section2": "51-52",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Requirement for the Issuance of Certificates of Registration, Any Class",
+            "Section2": "53",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Conditions of Every Certificate",
+            "Section2": "54",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Additional Requirements, General Certificate",
+            "Section2": "55",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Mobility — Unregulated Canadian Practitioner",
+            "Section2": "56",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Mobility — Regulated Canadian Practitioner",
+            "Section2": "57",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Additional Requirements, Graduate Certificate",
+            "Section2": "58",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Mobility — Graduate Certificate",
+            "Section2": "59",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Conditions, Graduate Certificate of Registration",
+            "Section2": "60",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Limited Certificate of Registration",
+            "Section2": "61",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Inactive Certificate of Registration",
+            "Section2": "62",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Conditions, Inactive Certificate of Registration",
+            "Section2": "63",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Emergency Certificate of Registration",
+            "Section2": "63.1-63.3",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Conditions, Emergency Certificate of Registration",
+            "Section2": "63.4",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Resignation",
+            "Section2": "64",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Suspensions, Revocations, etc.",
+            "Section2": "65-66",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Titles",
+            "Section2": "67",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  1. (1) A member shall not practise the profession while in a conflict of interest. O. Reg. 250/13, s. 1. (2) A member shall not participate in an arrangement that constitutes a conflict of interest as described in this Part, even if the arrangement is initiated by a partner, associate, employer, patient or other person. O. Reg. 250/13, s. 1. (3) For greater certainty, practising the profession while in a conflict of interest within the meaning of this Part constitutes “practising the profession while the member is in a conflict of interest” for the purposes of Ontario Regulation 753/93 (Professional Misconduct) made under the Act. O. Reg. 250/13, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>(1) A member shall not practise the profession while in a conflict of interest. O. Reg. 250/13, s. 1.</p> <p class=\"subsection-e\"><b> </b>(2) A member shall not participate in an arrangement that constitutes a conflict of interest as described in this Part, even if the arrangement is initiated by a partner, associate, employer, patient or other person. O. Reg. 250/13, s. 1.</p> <p class=\"subsection-e\">  (3) For greater certainty, practising the profession while in a conflict of interest within the meaning of this Part constitutes “practising the profession while the member is in a conflict of interest” for the purposes of Ontario Regulation 753/93 (Professional Misconduct) made under the Act. O. Reg. 250/13, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  2. A member is in a conflict of interest if the member’s personal or financial interest, or the personal or financial interest of another person who is in a non-arm’s length relationship with the member conflicts, appears to conflict or potentially conflicts with the member’s professional or ethical duty to a patient or the exercise of the member’s professional judgment. O. Reg. 250/13, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>  2. </b>A member is in a conflict of interest if the member’s personal or financial interest, or the personal or financial interest of another person who is in a non-arm’s length relationship with the member conflicts, appears to conflict or potentially conflicts with the member’s professional or ethical duty to a patient or the exercise of the member’s professional judgment. O. Reg. 250/13, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) Without limiting the generality of section 2, a member is in a conflict of interest when the member, directly or indirectly, (a) has a relationship with a patient, in addition to a professional one, that would reasonably be seen as affecting the member’s professional judgment or would reasonably be seen as affecting the patient’s confidence in the member; (b) requests or accepts a benefit that is related to the member referring a patient to any other person; (c) offers or gives a benefit to a person that is related to the referral of a patient to the member; (d) offers or gives a benefit to a patient where the service is paid in whole or in part by a third party except for the provision to the patient, at no charge, of a product of nominal value to be used in the maintaining or promoting of well-being; (e) accepts or gives a benefit relating to any professional goods or services, intended to be provided to a patient, that influences or appears to influence the exercise of a member’s professional judgment respecting the purchase or use of those professional goods or services; (f) enters into any agreement or arrangement, including one involving the member’s employment, that influences or appears to influence the exercise of his or her professional expertise or judgment respecting a patient’s assessment or treatment, or the provision of professional goods or services to a patient or his or her referral, or causes another member to enter into an agreement or arrangement of such a nature; (g) engages in any form of revenue, fee or income sharing with any person with respect to the practice of the profession, other than, (i) with another member, (ii) with a member of another College to which the Health Professions Procedural Code applies, (iii) under an arrangement with a non-profit organization that has been approved by the Executive Committee, or (iv) in accordance with a written agreement that states that the member has the responsibility for and control over all professional aspects of the practice, including record keeping and billing. O. Reg. 250/13, s. 1. (2) Where, immediately before August 30, 2013, the member was practising in accordance with an oral or written agreement that would after that date be required to comply with subclause (1) (g) (iv), the agreement is not required to so comply until August 30, 2015. O. Reg. 250/13, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) Without limiting the generality of section 2, a member is in a conflict of interest when the member, directly or indirectly,</p> <p class=\"clause-e\">  (a) has a relationship with a patient, in addition to a professional one, that would reasonably be seen as affecting the member’s professional judgment or would reasonably be seen as affecting the patient’s confidence in the member; </p> <p class=\"clause-e\">  (b) requests or accepts a benefit that is related to the member referring a patient to any other person; </p> <p class=\"clause-e\">  (c) offers or gives a benefit to a person that is related to the referral of a patient to the member;</p> <p class=\"clause-e\">  (d) offers or gives a benefit to a patient where the service is paid in whole or in part by a third party except for the provision to the patient, at no charge, of a product of nominal value to be used in the maintaining or promoting of well-being; </p> <p class=\"clause-e\">  (e) accepts or gives a benefit relating to any professional goods or services, intended to be provided to a patient, that influences or appears to influence the exercise of a member’s professional judgment respecting the purchase or use of those professional goods or services;</p> <p class=\"clause-e\">  (f) enters into any agreement or arrangement, including one involving the member’s employment, that influences or appears to influence the exercise of his or her professional expertise or judgment respecting a patient’s assessment or treatment, or the provision of professional goods or services to a patient or his or her referral, or causes another member to enter into an agreement or arrangement of such a nature; </p> <p class=\"clause-e\">  (g) engages in any form of revenue, fee or income sharing with any person with respect to the practice of the profession, other than,</p> <p class=\"subclause-e\">  (i) with another member,</p> <p class=\"subclause-e\">  (ii) with a member of another College to which the Health Professions Procedural Code applies,</p> <p class=\"subclause-e\">  (iii) under an arrangement with a non-profit organization that has been approved by the Executive Committee, or</p> <p class=\"subclause-e\">  (iv) in accordance with a written agreement that states that the member has the responsibility for and control over all professional aspects of the practice, including record keeping and billing. O. Reg. 250/13, s. 1.</p> <p class=\"subsection-e\">  (2) Where, immediately before August 30, 2013, the member was practising in accordance with an oral or written agreement that would after that date be required to comply with subclause (1) (g) (iv), the agreement is not required to so comply until August 30, 2015. O. Reg. 250/13, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. (1) A member is not in a conflict of interest in connection with making a recommendation about the referral of a patient to a person who is in a non-arm’s length relationship with the member, if, before making the recommendation, the member, orally and in writing, (a) discloses to the patient the nature of the relationship between the member and the person in the non-arm’s length relationship; and (b) advises the patient that professional services provided to the patient will not be affected if the patient chooses to decline the recommended referral. O. Reg. 250/13, s. 1. (2) A member is not in a conflict of interest in connection with making a recommendation to a patient about a treatment or product that has the potential to benefit a person who is in a non-arm’s length relationship with the member, if, before making the recommendation, the member, orally and in writing, (a) discloses to the patient the nature of the benefit and the nature of the relationship between the member and the person in the non-arm’s length relationship with the member; and (b) advises the patient that professional services provided to the client will not be affected if the patient chooses to decline the member’s recommendation. O. Reg. 250/13, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) A member is not in a conflict of interest in connection with making a recommendation about the referral of a patient to a person who is in a non-arm’s length relationship with the member, if, before making the recommendation, the member, orally and in writing,</p> <p class=\"clause-e\">  (a) discloses to the patient the nature of the relationship between the member and the person in the non-arm’s length relationship; and</p> <p class=\"clause-e\">  (b) advises the patient that professional services provided to the patient will not be affected if the patient chooses to decline the recommended referral. O. Reg. 250/13, s. 1.</p> <p class=\"subsection-e\">  (2) A member is not in a conflict of interest in connection with making a recommendation to a patient about a treatment or product that has the potential to benefit a person who is in a non-arm’s length relationship with the member, if, before making the recommendation, the member, orally and in writing,</p> <p class=\"clause-e\">  (a) discloses to the patient the nature of the benefit and the nature of the relationship between the member and the person in the non-arm’s length relationship with the member; and</p> <p class=\"clause-e\">  (b) advises the patient that professional services provided to the client will not be affected if the patient chooses to decline the member’s recommendation. O. Reg. 250/13, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#5.-19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5.-19. Revoked: O. Reg. 470/99, s. 1. Part II (ss. 20-22) Revoked:  O. Reg. 470/99, s. 1. PART III   ADVERTISING",
+            "raw_html": "<p class=\"section-e\"> <b>5.-19.</b><span class=\"ovboldallcaps\"><span> </span></span><span class=\"ovsmallcap\">Revoked:</span> O. Reg. 470/99, s. 1.</p> <p class=\"partnumRevoked-e\"><span class=\"ovboldallcaps\">Part II</span> (ss. 20-22) <span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 470/99, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK1\"></a>PART III <br/>  ADVERTISING</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23. (1) In this Part, an advertisement with respect to a member’s practice includes an advertisement for gases used for medical purposes, equipment, supplies or services that includes a reference to the member’s name. O. Reg. 596/94, s. 23 (1). (2) An advertisement with respect to a member’s practice must not contain, (a) anything that is false or misleading; (b) anything that, because of its nature, cannot be verified; (c) a claim of expertise in any area of practice, or with respect to any procedure or treatment, unless the advertisement discloses the basis of the expertise; (d) an endorsement other than an endorsement by an organization that is known to have expertise relevant to the subject-matter of the endorsement; (e) a testimonial by a patient or client or former patient or client or by a friend or relative of a patient or client or former patient or client; or (f) anything that promotes or is likely to promote excessive or unnecessary use of services. O. Reg. 596/94, s. 23 (2). (3) An advertisement must be readily comprehensible to the persons to whom it is directed. O. Reg. 596/94, s. 23 (3). (4) A member must not permit his or her name to be used in an advertisement that contravenes subsection (2) or (3). O. Reg. 596/94, s. 23 (4). (5) A member must not advertise by initiating contact, or causing or allowing any person to initiate contact, with potential patients or clients or their personal representatives either in person or by telephone, in an attempt to solicit business. O. Reg. 596/94, s. 23 (5). (6) Despite subsection (5), a member may advertise by initiating contact with a potential client or a personal representative of a potential client if the potential client does not personally use or consume the gases, equipment, supplies or services that are the subject of the advertisement. O. Reg. 596/94, s. 23 (6). (7) A member must not appear in, or permit the use of his or her name in, an advertisement that implies, or could reasonably be interpreted to imply, that the professional expertise of the member is relevant to the subject-matter of the advertisement if it is not relevant.  O. Reg. 596/94, s. 23 (7). Part IV (ss. 24-29) Revoked:  O. Reg. 470/99, s. 1. PART V   NOTICE OF MEETINGS AND HEARINGS",
+            "raw_html": "<p class=\"section-e\"> <b>23. </b>(1) In this Part, an advertisement with respect to a member’s practice includes an advertisement for gases used for medical purposes, equipment, supplies or services that includes a reference to the member’s name. O. Reg. 596/94, s. 23 (1).</p> <p class=\"subsection-e\">  (2) An advertisement with respect to a member’s practice must not contain,</p> <p class=\"clause-e\">  (a) anything that is false or misleading;</p> <p class=\"clause-e\">  (b) anything that, because of its nature, cannot be verified;</p> <p class=\"clause-e\">  (c) a claim of expertise in any area of practice, or with respect to any procedure or treatment, unless the advertisement discloses the basis of the expertise;</p> <p class=\"clause-e\">  (d) an endorsement other than an endorsement by an organization that is known to have expertise relevant to the subject-matter of the endorsement;</p> <p class=\"clause-e\">  (e) a testimonial by a patient or client or former patient or client or by a friend or relative of a patient or client or former patient or client; or</p> <p class=\"clause-e\">  (f) anything that promotes or is likely to promote excessive or unnecessary use of services. O. Reg. 596/94, s. 23 (2).</p> <p class=\"subsection-e\">  (3) An advertisement must be readily comprehensible to the persons to whom it is directed. O. Reg. 596/94, s. 23 (3).</p> <p class=\"subsection-e\">  (4) A member must not permit his or her name to be used in an advertisement that contravenes subsection (2) or (3). O. Reg. 596/94, s. 23 (4).</p> <p class=\"subsection-e\">  (5) A member must not advertise by initiating contact, or causing or allowing any person to initiate contact, with potential patients or clients or their personal representatives either in person or by telephone, in an attempt to solicit business. O. Reg. 596/94, s. 23 (5).</p> <p class=\"subsection-e\">  (6) Despite subsection (5), a member may advertise by initiating contact with a potential client or a personal representative of a potential client if the potential client does not personally use or consume the gases, equipment, supplies or services that are the subject of the advertisement. O. Reg. 596/94, s. 23 (6).</p> <p class=\"subsection-e\">  (7) A member must not appear in, or permit the use of his or her name in, an advertisement that implies, or could reasonably be interpreted to imply, that the professional expertise of the member is relevant to the subject-matter of the advertisement if it is not relevant.  O. Reg. 596/94, s. 23 (7).</p> <p class=\"partnumRevoked-e\"><span class=\"ovboldallcaps\">Part IV</span> (ss. 24-29) <span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 470/99, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK2\"></a>PART V <br/>  NOTICE OF MEETINGS AND HEARINGS</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. (1) The Registrar shall ensure that notice is given in accordance with this Part with respect to each of the following that is required to be open to the public under the Act: 1. A meeting of the Council. 2. A hearing of the Discipline Committee respecting allegations of a member’s professional misconduct or incompetence.  O. Reg. 6/08, s. 1. (2) The notice must, where possible, be posted not less than 14 days before the date of the meeting or hearing on the website of the College.  O. Reg. 6/08, s. 1. (3) The notice must be published in English and in French.  O. Reg. 6/08, s. 1. (4) The notice must include, (a) the date, time and location of the meeting or hearing; (b) a statement of the purpose of the meeting or hearing including, in the case of a hearing, the name of the member against whom the allegations have been made and the member’s principal place of practice; and (c) an address and telephone number at which further information about the meeting or hearing may be obtained.  O. Reg. 6/08, s. 1. (5) The Registrar shall give notice of a meeting or hearing that is open to the public to every person who requests it.  O. Reg. 6/08, s. 1. (6) No meeting or hearing is invalid simply because a person has not complied with a requirement of this Part.  O. Reg. 6/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>30. </b>(1) The Registrar shall ensure that notice is given in accordance with this Part with respect to each of the following that is required to be open to the public under the Act:</p> <p class=\"paragraph-e\">  1. A meeting of the Council.</p> <p class=\"paragraph-e\">  2. A hearing of the Discipline Committee respecting allegations of a member’s professional misconduct or incompetence.  O. Reg. 6/08, s. 1.</p> <p class=\"subsection-e\">  (2) The notice must, where possible, be posted not less than 14 days before the date of the meeting or hearing on the website of the College.  O. Reg. 6/08, s. 1.  </p> <p class=\"subsection-e\">  (3) The notice must be published in English and in French.  O. Reg. 6/08, s. 1.</p> <p class=\"subsection-e\">  (4) The notice must include,</p> <p class=\"clause-e\">  (a) the date, time and location of the meeting or hearing;</p> <p class=\"clause-e\">  (b) a statement of the purpose of the meeting or hearing including, in the case of a hearing, the name of the member against whom the allegations have been made and the member’s principal place of practice; and </p> <p class=\"clause-e\">  (c) an address and telephone number at which further information about the meeting or hearing may be obtained.  O. Reg. 6/08, s. 1.</p> <p class=\"subsection-e\">  (5) The Registrar shall give notice of a meeting or hearing that is open to the public to every person who requests it.  O. Reg. 6/08, s. 1. </p> <p class=\"subsection-e\">  (6) No meeting or hearing is invalid simply because a person has not complied with a requirement of this Part.  O. Reg. 6/08, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#31.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31. Revoked:  O. Reg. 6/08, s. 1. part vi   quality assurance General",
+            "raw_html": "<p class=\"section-e\"> <b>31. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 6/08, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK3\"></a>part vi <br/>  quality assurance</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>General</p>"
+        },
+        {
+            "ahref_id": "#32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32. In this Part, “assessor” means a person appointed under section 81 of the Health Professions Procedural Code; “Committee” means the Quality Assurance Committee required by subsection 10 (1) of the Health Professions Procedural Code; “stratified random sampling” means a sampling where groups of members are, (a) removed from the pool of members to be sampled, or (b) weighted to increase or decrease the likelihood of their being selected. O. Reg. 379/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>32. </b>In this Part,</p> <p class=\"firstdef-e\">“assessor” means a person appointed under section 81 of the Health Professions Procedural Code;</p> <p class=\"definition-e\">“Committee” means the Quality Assurance Committee required by subsection 10 (1) of the Health Professions Procedural Code;</p> <p class=\"definition-e\">“stratified random sampling” means a sampling where groups of members are,</p> <p class=\"defclause-e\">  (a) removed from the pool of members to be sampled, or</p> <p class=\"defclause-e\">  (b) weighted to increase or decrease the likelihood of their being selected. O. Reg. 379/12, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. (1) The Committee shall administer the quality assurance program. O. Reg. 379/12, s. 1. (2) The quality assurance program shall include the following components: 1. Professional development designed to, i. promote continuing competence and continuing quality improvement among the members, ii. address changes in practice environments, and iii. incorporate standards of practice, advances in technology, changes made to entry to practice competencies and other relevant issues at the discretion of the Council. 2. Self-assessments. 3. Peer and practice assessments. O. Reg. 379/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>33. </b>(1) The Committee shall administer the quality assurance program. O. Reg. 379/12, s. 1.</p> <p class=\"subsection-e\">  (2) The quality assurance program shall include the following components:</p> <p class=\"paragraph-e\">  1. Professional development designed to,</p> <p class=\"subpara-e\">  i. promote continuing competence and continuing quality improvement among the members,</p> <p class=\"subpara-e\">  ii. address changes in practice environments, and</p> <p class=\"subpara-e\">  iii. incorporate standards of practice, advances in technology, changes made to entry to practice competencies and other relevant issues at the discretion of the Council.</p> <p class=\"paragraph-e\">  2. Self-assessments.</p> <p class=\"paragraph-e\">  3. Peer and practice assessments. O. Reg. 379/12, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#34.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34. The College shall monitor its members’ compliance with the quality assurance program. O. Reg. 379/12, s. 1. Professional Development and Self-Assessment",
+            "raw_html": "<p class=\"section-e\"> <b>34. </b>The College shall monitor its members’ compliance with the quality assurance program. O. Reg. 379/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Professional Development and Self-Assessment</p>"
+        },
+        {
+            "ahref_id": "#35.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 35. (1) Every member shall, in the form and manner required by the College, (a) participate in professional development activities, including a professional development cycle; and (b) conduct self-assessments of his or her knowledge, skill and judgment. O. Reg. 379/12, s. 1. (2) Every member shall, in the form and manner required by the College, maintain records of his or her professional development activities and self-assessments. O. Reg. 379/12, s. 1. (3) At the request of an assessor, the Committee or an employee of the College, a member shall provide to the College within the time period specified in the request or, where no time period is specified, within 30 days after receiving the request, his or her records described in subsection (2). O. Reg. 379/12, s. 1. Peer and Practice Assessment",
+            "raw_html": "<p class=\"section-e\"> <b>35. </b>(1) Every member shall, in the form and manner required by the College,</p> <p class=\"clause-e\">  (a) participate in professional development activities, including a professional development cycle; and</p> <p class=\"clause-e\">  (b) conduct self-assessments of his or her knowledge, skill and judgment. O. Reg. 379/12, s. 1.</p> <p class=\"subsection-e\">  (2) Every member shall, in the form and manner required by the College, maintain records of his or her professional development activities and self-assessments. O. Reg. 379/12, s. 1. </p> <p class=\"subsection-e\">  (3) At the request of an assessor, the Committee or an employee of the College, a member shall provide to the College within the time period specified in the request or, where no time period is specified, within 30 days after receiving the request, his or her records described in subsection (2). O. Reg. 379/12, s. 1. </p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Peer and Practice Assessment</p>"
+        },
+        {
+            "ahref_id": "#36.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 36. (1) Each year, the Committee shall select members to undergo peer and practice assessments in order to determine whether the members’ knowledge, skill and judgment are satisfactory. O. Reg. 379/12, s. 1.  (2) A member may be selected to undergo a peer and practice assessment, (a) at random, including by stratified random sampling; (b) on the basis of criteria specified by the Committee and published on the College’s website at least three months before the member is selected on the basis of that criteria; (c) if a request is made to review the member’s professional development or self-assessment records and, (i) the member does not provide the requested records, (ii) the member provides the requested records and the Committee or an assessor is of the opinion that the records provided are either inaccurate or incomplete, or (iii) the member provides the requested records and the Committee or an assessor is of the opinion that the member has not engaged in sufficient professional development activities or self-assessments; or (d) if the member has previously undergone a peer and practice assessment and the Committee is of the opinion that the member should be reassessed. O. Reg. 379/12, s. 1. (3) A peer and practice assessment may include, (a) requiring the member to answer, orally or in writing, including online, questions about the member’s practice; (b) interviewing or surveying the member or the member’s employer, employees, colleagues, supervisors, peers or patients; (c) inspecting the premises where the member practises, including reviewing information respecting patient care or the member’s records of the care of patients or of equipment maintenance and quality control; (d) reviewing the member’s records of professional development and self-assessments; and (e) requiring the member to participate in simulations, peer assessments, practice setting reviews, case studies or any other mechanism designed to assess the member’s knowledge, skill and judgment. O. Reg. 379/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>36. </b>(1) Each year, the Committee shall select members to undergo peer and practice assessments in order to determine whether the members’ knowledge, skill and judgment are satisfactory. O. Reg. 379/12, s. 1. </p> <p class=\"subsection-e\">  (2) A member may be selected to undergo a peer and practice assessment,</p> <p class=\"clause-e\">  (a) at random, including by stratified random sampling;</p> <p class=\"clause-e\">  (b) on the basis of criteria specified by the Committee and published on the College’s website at least three months before the member is selected on the basis of that criteria;</p> <p class=\"clause-e\">  (c) if a request is made to review the member’s professional development or self-assessment records and,</p> <p class=\"subclause-e\">  (i) the member does not provide the requested records,</p> <p class=\"subclause-e\">  (ii) the member provides the requested records and the Committee or an assessor is of the opinion that the records provided are either inaccurate or incomplete, or</p> <p class=\"subclause-e\">  (iii) the member provides the requested records and the Committee or an assessor is of the opinion that the member has not engaged in sufficient professional development activities or self-assessments; or</p> <p class=\"clause-e\">  (d) if the member has previously undergone a peer and practice assessment and the Committee is of the opinion that the member should be reassessed. O. Reg. 379/12, s. 1.</p> <p class=\"subsection-e\">  (3) A peer and practice assessment may include,</p> <p class=\"clause-e\">  (a) requiring the member to answer, orally or in writing, including online, questions about the member’s practice;</p> <p class=\"clause-e\">  (b) interviewing or surveying the member or the member’s employer, employees, colleagues, supervisors, peers or patients;</p> <p class=\"clause-e\">  (c) inspecting the premises where the member practises, including reviewing information respecting patient care or the member’s records of the care of patients or of equipment maintenance and quality control;</p> <p class=\"clause-e\">  (d) reviewing the member’s records of professional development and self-assessments; and</p> <p class=\"clause-e\">  (e) requiring the member to participate in simulations, peer assessments, practice setting reviews, case studies or any other mechanism designed to assess the member’s knowledge, skill and judgment. O. Reg. 379/12, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#37.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 37. (1) A peer and practice assessment shall be conducted by an assessor. O. Reg. 379/12, s. 1.  (2) An assessor may be appointed to conduct a peer and practice assessment even though the person is an employee of the College or is acquainted with the member selected to undergo the assessment. O. Reg. 379/12, s. 1. (3) An assessor may obtain the assistance of other persons for the purposes of conducting a peer and practice assessment. O. Reg. 379/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>37. </b>(1) A peer and practice assessment shall be conducted by an assessor. O. Reg. 379/12, s. 1. </p> <p class=\"subsection-e\">  (2) An assessor may be appointed to conduct a peer and practice assessment even though the person is an employee of the College or is acquainted with the member selected to undergo the assessment. O. Reg. 379/12, s. 1.</p> <p class=\"subsection-e\">  (3) An assessor may obtain the assistance of other persons for the purposes of conducting a peer and practice assessment. O. Reg. 379/12, s. 1. </p>"
+        },
+        {
+            "ahref_id": "#38.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 38. (1) When a member is selected to undergo a peer and practice assessment, the chair of the Committee shall select at least three members of the Committee, in accordance with subsection (2), to form a panel for purposes of reviewing the assessment. O. Reg. 379/12, s. 1.  (2) A panel of the Committee shall meet the following requirements: 1. At least one of the members shall be a member of the Council who was appointed by the Lieutenant Governor in Council. 2. At least one of the members shall be both a member of the College and a member of the Council. O. Reg. 379/12, s. 1. (3) If a member of a panel becomes ill or is otherwise unable to continue as a member of the panel, (a) the panel may continue to act with respect to the assessment if there are at least two members remaining on the panel; or (b) the chair of the Committee may appoint other members to replace the panel member who is ill or otherwise unable to continue. O. Reg. 379/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>38. </b>(1) When a member is selected to undergo a peer and practice assessment, the chair of the Committee shall select at least three members of the Committee, in accordance with subsection (2), to form a panel for purposes of reviewing the assessment. O. Reg. 379/12, s. 1. </p> <p class=\"subsection-e\">  (2) A panel of the Committee shall meet the following requirements:</p> <p class=\"paragraph-e\">  1. At least one of the members shall be a member of the Council who was appointed by the Lieutenant Governor in Council.</p> <p class=\"paragraph-e\">  2. At least one of the members shall be both a member of the College and a member of the Council. O. Reg. 379/12, s. 1. </p> <p class=\"subsection-e\">  (3) If a member of a panel becomes ill or is otherwise unable to continue as a member of the panel,</p> <p class=\"clause-e\">  (a) the panel may continue to act with respect to the assessment if there are at least two members remaining on the panel; or</p> <p class=\"clause-e\">  (b) the chair of the Committee may appoint other members to replace the panel member who is ill or otherwise unable to continue. O. Reg. 379/12, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#39.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 39. (1) An assessor shall, after completing an assessment, provide to the panel, (a) a written report of the results of the assessment and any recommendations the assessor may wish to make, if the assessor is of the opinion that a member’s knowledge, skill or judgment is not satisfactory; or (b) a written summary of the results of the assessment, if the assessor is of the opinion that the member’s knowledge, skill and judgment are satisfactory. O. Reg. 379/12, s. 1. (2) The panel shall review the assessor’s report or summary of the results of the assessment and any recommendations made by the assessor. O. Reg. 379/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>39. </b>(1) An assessor shall, after completing an assessment, provide to the panel,</p> <p class=\"clause-e\">  (a) a written report of the results of the assessment and any recommendations the assessor may wish to make, if the assessor is of the opinion that a member’s knowledge, skill or judgment is not satisfactory; or</p> <p class=\"clause-e\">  (b) a written summary of the results of the assessment, if the assessor is of the opinion that the member’s knowledge, skill and judgment are satisfactory. O. Reg. 379/12, s. 1.</p> <p class=\"subsection-e\">  (2) The panel shall review the assessor’s report or summary of the results of the assessment and any recommendations made by the assessor. O. Reg. 379/12, s. 1. </p>"
+        },
+        {
+            "ahref_id": "#40.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 40. (1) After considering the report or summary of results provided to it by an assessor, any submissions made by the member and any other relevant material, the panel may take no further action or may take any action listed in section 80.2 of the Health Professions Procedural Code. O. Reg. 379/12, s. 1. (2) If the panel is considering taking action under section 80.2 of the Health Professions Procedural Code, the panel shall provide to the member, (a) notice that the member may make written submissions to the panel within 30 days after receiving the notice; and (b) a copy of the assessor’s report or summary of results required under subsection 39 (1). O. Reg. 379/12, s. 1. (3) If a member receives notice under subsection (2), the member may make written submissions to the panel within 30 days after receiving the notice. O. Reg. 379/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>40. </b>(1) After considering the report or summary of results provided to it by an assessor, any submissions made by the member and any other relevant material, the panel may take no further action or may take any action listed in section 80.2 of the Health Professions Procedural Code. O. Reg. 379/12, s. 1.</p> <p class=\"subsection-e\">  (2) If the panel is considering taking action under section 80.2 of the Health Professions Procedural Code, the panel shall provide to the member,</p> <p class=\"clause-e\">  (a) notice that the member may make written submissions to the panel within 30 days after receiving the notice; and</p> <p class=\"clause-e\">  (b) a copy of the assessor’s report or summary of results required under subsection 39 (1). O. Reg. 379/12, s. 1.</p> <p class=\"subsection-e\">  (3) If a member receives notice under subsection (2), the member may make written submissions to the panel within 30 days after receiving the notice. O. Reg. 379/12, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#41.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 41. (1) If a panel takes action under section 80.2 of the Health Professions Procedural Code, the panel may, at the time it communicates its decision to take action to the member, or at any time after that, require the member to undergo a reassessment to determine whether the member’s knowledge, skill and judgment are satisfactory. O. Reg. 379/12, s. 1. (2) Subsection 36 (3) and sections 37 to 41 apply with necessary modifications to a reassessment. O. Reg. 379/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>41. </b>(1) If a panel takes action under section 80.2 of the Health Professions Procedural Code, the panel may, at the time it communicates its decision to take action to the member, or at any time after that, require the member to undergo a reassessment to determine whether the member’s knowledge, skill and judgment are satisfactory. O. Reg. 379/12, s. 1.</p> <p class=\"subsection-e\">  (2) Subsection 36 (3) and sections 37 to 41 apply with necessary modifications to a reassessment. O. Reg. 379/12, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#42.-47.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 42.-47.  Revoked:  O. Reg. 379/12, s. 1. PART VII   PRESCRIBED PROCEDURES",
+            "raw_html": "<p class=\"section-e\"> <b>42.-47.  </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 379/12, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK7\"></a>PART VII <br/>  PRESCRIBED PROCEDURES</p>"
+        },
+        {
+            "ahref_id": "#48.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 48. The following procedures are prescribed as procedures below the dermis for the purposes of paragraph 1 of section 4 of the Act: 1. Basic procedures: i. Arterial, venous and capillary puncture. ii. Insertion, suturing, aspiration, repositioning, manipulation and removal of an arterial cannula. iii. Insertion, suturing, aspiration, repositioning, manipulation and removal of a venous cannula. 2. Advanced procedures: i. Manipulation or repositioning of a cannula balloon. ii. Chest needle insertion, aspiration, reposition and removal. iii. Chest tube insertion, aspiration, reposition and removal. iv. Bronchoscopic tissue sample for the purpose of bronchoalveolar lavage and endobronchial brushing. v. Intraosseous needle insertion. vi. Subcutaneous electrode placement for interoperative and perinatal fetal monitoring. 3.  Revoked: O. Reg. 86/14, s. 1. O. Reg. 68/99, s. 1; O. Reg. 86/14, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>48. </b>The following procedures are prescribed as procedures below the dermis for the purposes of paragraph 1 of section 4 of the Act:</p> <p class=\"paragraph-e\">  1. Basic procedures:</p> <p class=\"subpara-e\">  i. Arterial, venous and capillary puncture.</p> <p class=\"subpara-e\">  ii. Insertion, suturing, aspiration, repositioning, manipulation and removal of an arterial cannula.</p> <p class=\"subpara-e\">  iii. Insertion, suturing, aspiration, repositioning, manipulation and removal of a venous cannula.</p> <p class=\"paragraph-e\">  2. Advanced procedures:</p> <p class=\"subpara-e\">  i. Manipulation or repositioning of a cannula balloon.</p> <p class=\"subpara-e\">  ii. Chest needle insertion, aspiration, reposition and removal.</p> <p class=\"subpara-e\">  iii. Chest tube insertion, aspiration, reposition and removal.</p> <p class=\"subpara-e\">  iv. Bronchoscopic tissue sample for the purpose of bronchoalveolar lavage and endobronchial brushing.</p> <p class=\"subpara-e\">  v. Intraosseous needle insertion.</p> <p class=\"subpara-e\">  vi. Subcutaneous electrode placement for interoperative and perinatal fetal monitoring.</p> <p class=\"paragraph-e\">  3.  <span>Revoked</span>: O. Reg. 86/14, s. 1.</p> <p class=\"footnote-e\">O. Reg. 68/99, s. 1; O. Reg. 86/14, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#49.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 49. (1) It is a condition of a general or emergency certificate of registration that a member not perform an advanced procedure unless the member has, within two years before the procedure is performed, successfully completed a certification process or program approved by the Registration Committee of the College. O. Reg. 68/99, s. 1; O. Reg. 299/23, s. 1. (2) It is a condition of a graduate certificate of registration that a member not perform an advanced procedure. O. Reg. 86/14, s. 2. (3) The following are conditions of a limited certificate of registration: 1. A member shall not perform an advanced procedure. 2. A member shall not perform a basic procedure unless the member is permitted to perform the procedure by the terms and conditions of his or her certificate of registration. O. Reg. 86/14, s. 2. part vii.1   prescribed substances",
+            "raw_html": "<p class=\"section-e\"> <b>49. </b>(1) It is a condition of a general or emergency certificate of registration that a member not perform an advanced procedure unless the member has, within two years before the procedure is performed, successfully completed a certification process or program approved by the Registration Committee of the College. O. Reg. 68/99, s. 1; O. Reg. 299/23, s. 1.</p> <p class=\"subsection-e\">  (2) It is a condition of a graduate certificate of registration that a member not perform an advanced procedure. O. Reg. 86/14, s. 2.</p> <p class=\"subsection-e\">  (3) The following are conditions of a limited certificate of registration:</p> <p class=\"paragraph-e\">  1. A member shall not perform an advanced procedure.</p> <p class=\"paragraph-e\">  2. A member shall not perform a basic procedure unless the member is permitted to perform the procedure by the terms and conditions of his or her certificate of registration. O. Reg. 86/14, s. 2.</p> <p class=\"partnum-e\"><a name=\"BK8\"></a>part vii.1 <br/>  prescribed substances</p>"
+        },
+        {
+            "ahref_id": "#49.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 49.1 (1) For the purposes of paragraph 5 of section 4 of the Act, a member holding a general or emergency certificate of registration is authorized, in the course of engaging in the practice of the profession, and subject to the terms, conditions and limitations imposed on his or her certificate of registration, to administer therapeutic oxygen by inhalation. O. Reg. 334/12, s. 1; O. Reg. 299/23, s. 2. (2) It is a condition of every other certificate of registration that the member not administer a prescribed substance by inhalation in the course of engaging in the practice of the profession. O. Reg. 334/12, s. 1. PART VIII   REGISTRATION Classes of Certificate, General",
+            "raw_html": "<p class=\"section-e\"> <b>49.1 </b>(1) For the purposes of paragraph 5 of section 4 of the Act, a member holding a general or emergency certificate of registration is authorized, in the course of engaging in the practice of the profession, and subject to the terms, conditions and limitations imposed on his or her certificate of registration, to administer therapeutic oxygen by inhalation. O. Reg. 334/12, s. 1; O. Reg. 299/23, s. 2.</p> <p class=\"subsection-e\">  (2) It is a condition of every other certificate of registration that the member not administer a prescribed substance by inhalation in the course of engaging in the practice of the profession. O. Reg. 334/12, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK9\"></a>PART VIII <br/>  REGISTRATION</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Classes of Certificate, General</p>"
+        },
+        {
+            "ahref_id": "#50.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  50. The following are prescribed as classes of certificates of registration: 1. General. 2. Graduate. 3. Limited. 4. Inactive. 5. Emergency. O. Reg. 17/12, s. 1; O. Reg. 299/23, s. 3. Application for Certificate of Registration",
+            "raw_html": "<p class=\"section-e\"><b>  50. </b>The following are prescribed as classes of certificates of registration:</p> <p class=\"paragraph-e\">  1. General.</p> <p class=\"paragraph-e\">  2. Graduate.</p> <p class=\"paragraph-e\">  3. Limited.</p> <p class=\"paragraph-e\">  4. Inactive.</p> <p class=\"paragraph-e\">  5. Emergency. O. Reg. 17/12, s. 1; O. Reg. 299/23, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Application for Certificate of Registration</p>"
+        },
+        {
+            "ahref_id": "#51.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  51. A person may apply for a certificate of registration by submitting a completed application in the form provided by the Registrar, together with the application fee.  O. Reg. 17/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>  51.</b> A person may apply for a certificate of registration by submitting a completed application in the form provided by the Registrar, together with the application fee.  O. Reg. 17/12, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#52.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 52. It is a requirement for the issuing of a certificate of registration of any class that the applicant pay the required annual fee for that class of certificate.  O. Reg. 17/12, s. 1. Requirement for the Issuance of Certificates of Registration, Any Class",
+            "raw_html": "<p class=\"section-e\"> <b>52.</b> It is a requirement for the issuing of a certificate of registration of any class that the applicant pay the required annual fee for that class of certificate.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Requirement for the Issuance of Certificates of Registration, Any Class</p>"
+        },
+        {
+            "ahref_id": "#53.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 53. (1) An applicant for a certificate of registration of any class must satisfy the following requirements: 1. The applicant must fully disclose details of any criminal offence of which the applicant has been found guilty, including any offence under the Controlled Drugs and Substances Act (Canada) or the Food and Drugs Act (Canada). 2. The applicant must fully disclose details of every professional misconduct, incompetence, incapacity or other similar proceeding that he or she is the subject of  and that relates to his or her registration or licensure in Ontario in another profession or in another jurisdiction in respiratory therapy or another profession. 3. The applicant must fully disclose details of every finding of professional misconduct, incompetence, incapacity or other similar finding that he or she previously has been the subject of while registered or licensed in Ontario in another profession or in another jurisdiction in respiratory therapy or another profession. 4. The applicant’s past and present conduct afford reasonable grounds for belief that the applicant, i. is mentally competent to practise respiratory therapy, ii. will practise respiratory therapy with decency, integrity and honesty and in accordance with the law, and iii. will display an appropriately professional attitude. 5. The applicant must be able to communicate effectively in English or French in a health care environment. 6. The applicant must be a Canadian citizen or a permanent resident of Canada or be authorized under the Immigration and Refugee Protection Act (Canada) to engage in the practice of respiratory therapy.  O. Reg. 17/12, s. 1. (2) An applicant shall be deemed not to have satisfied the requirements for a certificate of registration if the applicant made a false or misleading statement or representation in the application.  O. Reg. 17/12, s. 1. (3) An applicant who, after having applied but before being issued a certificate, is found guilty of an offence referred to in paragraph 1 of subsection (1) or becomes the subject of a proceeding or of a finding described in paragraph 2 or 3 of that subsection shall immediately inform the Registrar.  O. Reg. 17/12, s. 1. Conditions of Every Certificate",
+            "raw_html": "<p class=\"section-e\"> <b>53. </b>(1) An applicant for a certificate of registration of any class must satisfy the following requirements:</p> <p class=\"paragraph-e\">  1. The applicant must fully disclose details of any criminal offence of which the applicant has been found guilty, including any offence under the<i> <i>Controlled Drugs and Substances Act</i> </i>(Canada) or the <i>Food and Drugs Act</i><i> </i>(Canada). </p> <p class=\"paragraph-e\">  2. The applicant must fully disclose details of every professional misconduct, incompetence, incapacity or other similar proceeding that he or she is the subject of  and that relates to his or her registration or licensure in Ontario in another profession or in another jurisdiction in respiratory therapy or another profession.</p> <p class=\"paragraph-e\">  3. The applicant must fully disclose details of every finding of professional misconduct, incompetence, incapacity or other similar finding that he or she previously has been the subject of while registered or licensed in Ontario in another profession or in another jurisdiction in respiratory therapy or another profession.</p> <p class=\"paragraph-e\">  4. The applicant’s past and present conduct afford reasonable grounds for belief that the applicant,</p> <p class=\"subpara-e\">  i. is mentally competent to practise respiratory therapy,</p> <p class=\"subpara-e\">  ii. will practise respiratory therapy with decency, integrity and honesty and in accordance with the law, and</p> <p class=\"subpara-e\">  iii. will display an appropriately professional attitude.</p> <p class=\"paragraph-e\">  5. The applicant must be able to communicate effectively in English or French in a health care environment.</p> <p class=\"paragraph-e\">  6. The applicant must be a Canadian citizen or a permanent resident of Canada or be authorized under the <i>Immigration and Refugee Protection Act</i><i> </i>(Canada) to engage in the practice of respiratory therapy.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (2) An applicant shall be deemed not to have satisfied the requirements for a certificate of registration if the applicant made a false or misleading statement or representation in the application.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (3) An applicant who, after having applied but before being issued a certificate, is found guilty of an offence referred to in paragraph 1 of subsection (1) or becomes the subject of a proceeding or of a finding described in paragraph 2 or 3 of that subsection shall immediately inform the Registrar.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK13\"></a>Conditions of Every Certificate</p>"
+        },
+        {
+            "ahref_id": "#54.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 54. Every certificate of registration is subject to the following conditions: 1. The member shall provide to the Registrar at the first reasonable opportunity of the details of any of the following that relate to the member and that occur or arise after the registration of the member, i. a finding of guilt relating to any offence, ii. a finding of professional misconduct, incompetence, incapacity or other similar finding in Ontario in relation to another profession or in another jurisdiction in relation to respiratory therapy or another profession, iii. a proceeding for professional misconduct, incompetence, incapacity or other similar proceeding in Ontario in relation to another profession or in another jurisdiction in relation to respiratory therapy or another profession. 2. The member must maintain professional liability insurance in the amount and in the form as required under the by-laws. 3. The member must provide information about himself or herself in the manner and in the form as required under the by-laws. 4. The member must pay any fees required under the by-laws.  O. Reg. 17/12, s. 1. Additional Requirements, General Certificate",
+            "raw_html": "<p class=\"section-e\"> <b>54. </b>Every certificate of registration is subject to the following conditions:</p> <p class=\"paragraph-e\">  1. The member shall provide to the Registrar at the first reasonable opportunity of the details of any of the following that relate to the member and that occur or arise after the registration of the member,</p> <p class=\"subpara-e\">  i. a finding of guilt relating to any offence, </p> <p class=\"subpara-e\">  ii. a finding of professional misconduct, incompetence, incapacity or other similar finding in Ontario in relation to another profession or in another jurisdiction in relation to respiratory therapy or another profession,</p> <p class=\"subpara-e\">  iii. a proceeding for professional misconduct, incompetence, incapacity or other similar proceeding in Ontario in relation to another profession or in another jurisdiction in relation to respiratory therapy or another profession.  </p> <p class=\"paragraph-e\">  2. The member must maintain professional liability insurance in the amount and in the form as required under the by-laws.</p> <p class=\"paragraph-e\">  3. The member must provide information about himself or herself in the manner and in the form as required under the by-laws. </p> <p class=\"paragraph-e\">  4. The member must pay any fees required under the by-laws.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Additional Requirements, General Certificate</p>"
+        },
+        {
+            "ahref_id": "#55.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 55. (1) In addition to the requirements set out in section 53, an applicant for a general certificate of registration must satisfy the requirements set out in subsections (2), (4) and (5).  O. Reg. 17/12, s. 1. (2) Subject to subsection (7), an applicant must, (a) have successfully completed a respiratory therapy program offered in Canada that, at the time of completion, was approved or accredited by the Council or by a body approved by the Council; or (b) have, (i) successfully completed a program offered outside Canada either in respiratory  therapy or in a closely related field that is acceptable to the Registration Committee, along with any additional education that is required by the Registration Committee, and (ii) demonstrated through an assessment process acceptable to the Registration Committee that he or she has knowledge, skills and judgment equivalent to those of a person who has successfully completed a program referred to in clause (a).  O. Reg. 17/12, s. 1. (3) The College shall provide the applicant with a copy of the list of programs referred to in clause (2) (a) upon request.  O. Reg. 17/12, s. 1. (4) An applicant must have successfully completed the examinations set or approved from time to time by the Council which assess the generally accepted competencies for respiratory therapy.  O. Reg. 17/12, s. 1. (5) An applicant must have met the requirements of subsection (2) within the two years immediately preceding the application for registration unless the applicant was practising respiratory therapy within that two-year period.  O. Reg. 17/12, s. 1. (6) Subject to subsection (7) and to sections 56 and 57, the requirements in subsections (2) and (4) are non-exemptible.  O. Reg. 17/12, s. 1. (7) An applicant for a general certificate of registration is exempt from the requirements of subsection (2) if the applicant previously held a general certificate of registration and, before being issued the general certificate, held a limited certificate of registration.  O. Reg. 17/12, s. 1. Mobility — Unregulated Canadian Practitioner",
+            "raw_html": "<p class=\"section-e\"> <b>55. </b>(1) In addition to the requirements set out in section 53, an applicant for a general certificate of registration must satisfy the requirements set out in subsections (2), (4) and (5).  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (2) Subject to subsection (7), an applicant must,</p> <p class=\"clause-e\">  (a) have successfully completed a respiratory therapy program offered in Canada that, at the time of completion, was approved or accredited by the Council or by a body approved by the Council; or</p> <p class=\"clause-e\">  (b) have,</p> <p class=\"subclause-e\">  (i) successfully completed a program offered outside Canada either in respiratory  therapy or in a closely related field that is acceptable to the Registration Committee, along with any additional education that is required by the Registration Committee, and</p> <p class=\"subclause-e\">  (ii) demonstrated through an assessment process acceptable to the Registration Committee that he or she has knowledge, skills and judgment equivalent to those of a person who has successfully completed a program referred to in clause (a).  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (3) The College shall provide the applicant with a copy of the list of programs referred to in clause (2) (a) upon request.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (4) An applicant must have successfully completed the examinations set or approved from time to time by the Council which assess the generally accepted competencies for respiratory therapy.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (5) An applicant must have met the requirements of subsection (2) within the two years immediately preceding the application for registration unless the applicant was practising respiratory therapy within that two-year period.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (6) Subject to subsection (7) and to sections 56 and 57, the requirements in subsections (2) and (4) are non-exemptible.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (7) An applicant for a general certificate of registration is exempt from the requirements of subsection (2) if the applicant previously held a general certificate of registration and, before being issued the general certificate, held a limited certificate of registration.  O. Reg. 17/12, s. 1. </p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Mobility — Unregulated Canadian Practitioner</p>"
+        },
+        {
+            "ahref_id": "#56.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 56. An applicant for a general certificate of registration is exempt from the requirements of subsections 55 (2) and (4) if, (a) the applicant is a member of a professional association of practitioners of respiratory therapy in another jurisdiction in Canada that does not have a statutory regulatory body for practitioners of respiratory therapy, if the professional association is recognized by the Registration Committee and the applicant has a general or full membership status in the professional association; (b) the applicant has safely practised the profession in that jurisdiction, while holding the general or full membership status, in a manner that demonstrates that he or she could meet the current standards of practice of the profession in Ontario, within the two years immediately before the date of the application; and (c) the occupational standards and requirements for practitioners of respiratory therapy who are members of a recognized professional association in that jurisdiction are, in the opinion of the Registration Committee, substantially equivalent to those for respiratory therapists registered in Ontario.  O. Reg. 17/12, s. 1. Mobility — Regulated Canadian Practitioner",
+            "raw_html": "<p class=\"section-e\"> <b>56. </b>An applicant for a general certificate of registration is exempt from the requirements of subsections 55 (2) and (4) if,</p> <p class=\"clause-e\">  (a) the applicant is a member of a professional association of practitioners of respiratory therapy in another jurisdiction in Canada that does not have a statutory regulatory body for practitioners of respiratory therapy, if the professional association is recognized by the Registration Committee and the applicant has a general or full membership status in the professional association;</p> <p class=\"clause-e\">  (b) the applicant has safely practised the profession in that jurisdiction, while holding the general or full membership status, in a manner that demonstrates that he or she could meet the current standards of practice of the profession in Ontario, within the two years immediately before the date of the application; and</p> <p class=\"clause-e\">  (c) the occupational standards and requirements for practitioners of respiratory therapy who are members of a recognized professional association in that jurisdiction are, in the opinion of the Registration Committee, substantially equivalent to those for respiratory therapists registered in Ontario.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Mobility — Regulated Canadian Practitioner</p>"
+        },
+        {
+            "ahref_id": "#57.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 57. (1) Where section 22.18 of the Health Professions Procedural Code applies to an applicant for a general certificate of registration, the requirements of subsections 55 (2), (4) and (5) are deemed to have been met by the applicant.  O. Reg. 17/12, s. 1. (2) Despite subsection (1), it is a non-exemptible requirement that an applicant referred to in subsection (1) provide a certificate, letter or other evidence satisfactory to the Registrar that the applicant is in good standing as a respiratory therapist in every jurisdiction where the applicant holds an out-of-province certificate.  O. Reg. 17/12, s. 1. (3) Where an applicant referred to in subsection (1) is unable to satisfy the Registrar that the applicant practised the profession to the extent that would be permitted by a general certificate of registration at any time in the two years immediately prior to the date of that applicant’s application, that applicant must meet any further requirement to undertake, obtain or undergo material additional training, experience, examinations or assessments, if any, that may be specified by a panel of the Registration Committee.  O. Reg. 17/12, s. 1. (4) An applicant referred to in subsection (1) is deemed to have met the requirements of paragraph 5 of subsection 53 (1) where the requirements for the issuance of the applicant’s out-of-province certificate included language proficiency requirements equivalent to those required by that paragraph.  O. Reg. 17/12, s. 1. (5) Despite subsection (1), an applicant is not deemed to have met a requirement if that requirement is described in subsection 22.18 (3) of the Health Professions Procedural Code.  O. Reg. 17/12, s. 1. Additional Requirements, Graduate Certificate",
+            "raw_html": "<p class=\"section-e\"> <b>57. </b>(1) Where section 22.18 of the Health Professions Procedural Code applies to an applicant for a general certificate of registration, the requirements of subsections 55 (2), (4) and (5) are deemed to have been met by the applicant.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (2) Despite subsection (1), it is a non-exemptible requirement that an applicant referred to in subsection (1) provide a certificate, letter or other evidence satisfactory to the Registrar that the applicant is in good standing as a respiratory therapist in every jurisdiction where the applicant holds an out-of-province certificate.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (3) Where an applicant referred to in subsection (1) is unable to satisfy the Registrar that the applicant practised the profession to the extent that would be permitted by a general certificate of registration at any time in the two years immediately prior to the date of that applicant’s application, that applicant must meet any further requirement to undertake, obtain or undergo material additional training, experience, examinations or assessments, if any, that may be specified by a panel of the Registration Committee.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (4) An applicant referred to in subsection (1) is deemed to have met the requirements of paragraph 5 of subsection 53 (1) where the requirements for the issuance of the applicant’s out-of-province certificate included language proficiency requirements equivalent to those required by that paragraph.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (5) Despite subsection (1), an applicant is not deemed to have met a requirement if that requirement is described in subsection 22.18 (3) of the Health Professions Procedural Code.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>Additional Requirements, Graduate Certificate</p>"
+        },
+        {
+            "ahref_id": "#58.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 58. (1) In addition to the requirements set out in section 53, an applicant for a graduate certificate of registration must meet the following requirements: 1. The applicant must have successfully completed the requirements of subsection 55 (2). 2. The applicant must not yet have completed the examinations referred to in subsection 55 (4).  O. Reg. 17/12, s. 1. (2) The College shall provide the applicant with a copy of the list of programs referred to in clause 55 (2) (a) upon request.  O. Reg. 17/12, s. 1. (3) An applicant must have met the requirements of subsection 55 (2) within the two years immediately preceding the application for registration unless the applicant was practising respiratory therapy in a jurisdiction outside Ontario within that two-year period.  O. Reg. 17/12, s. 1. (4) Subject to section 59, the requirements referred to in paragraphs 1 and 2 of subsection (1) are non-exemptible.  O. Reg. 17/12, s. 1. Mobility — Graduate Certificate",
+            "raw_html": "<p class=\"section-e\"> <b>58. </b>(1) In addition to the requirements set out in section 53, an applicant for a graduate certificate of registration must meet the following requirements:</p> <p class=\"paragraph-e\">  1. The applicant must have successfully completed the requirements of subsection 55 (2).</p> <p class=\"paragraph-e\">  2. The applicant must not yet have completed the examinations referred to in subsection 55 (4).  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (2) The College shall provide the applicant with a copy of the list of programs referred to in clause 55 (2) (a) upon request.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (3) An applicant must have met the requirements of subsection 55 (2) within the two years immediately preceding the application for registration unless the applicant was practising respiratory therapy in a jurisdiction outside Ontario within that two-year period.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (4) Subject to section 59, the requirements referred to in paragraphs 1 and 2 of subsection (1) are non-exemptible.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK18\"></a>Mobility — Graduate Certificate</p>"
+        },
+        {
+            "ahref_id": "#59.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 59. (1) Where section 22.18 of the Health Professions Procedural Code applies to an applicant for a graduate certificate of registration, the requirements of subsections 58 (1) and (3) are deemed to have been met by the applicant.  O. Reg. 17/12, s. 1. (2) Despite subsection (1), it is a non-exemptible requirement that an applicant referred to in subsection (1) provide a certificate, letter or other evidence satisfactory to the Registrar or a panel of the Registration Committee that the applicant is in good standing as a respiratory therapist in every jurisdiction where the applicant holds an out-of-province certificate.  O. Reg. 17/12, s. 1. (3) Where an applicant referred to in subsection (1) is unable to satisfy the Registrar that the applicant practised the profession to the extent that would be permitted by a graduate certificate of registration at any time in the two years immediately before the date of that applicant’s application, that applicant must meet any further requirement to undertake, obtain or undergo material additional training, experience, examinations or assessments, if any, that may be specified by a panel of the Registration Committee.  O. Reg. 17/12, s. 1. (4) An applicant referred to in subsection (1) is deemed to have met the requirements of paragraph 5 of subsection 53 (1) where the requirements for the issuance of the applicant’s out-of-province certificate included language proficiency requirements equivalent to those required by that paragraph.  O. Reg. 17/12, s. 1. (5) Despite subsection (1), an applicant is not deemed to have met a requirement if that requirement is described in subsection 22.18 (3) of the Health Professions Procedural Code.  O. Reg. 17/12, s. 1. Conditions, Graduate Certificate of Registration",
+            "raw_html": "<p class=\"section-e\"> <b>59. </b>(1) Where section 22.18 of the Health Professions Procedural Code applies to an applicant for a graduate certificate of registration, the requirements of subsections 58 (1) and (3) are deemed to have been met by the applicant.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (2) Despite subsection (1), it is a non-exemptible requirement that an applicant referred to in subsection (1) provide a certificate, letter or other evidence satisfactory to the Registrar or a panel of the Registration Committee that the applicant is in good standing as a respiratory therapist in every jurisdiction where the applicant holds an out-of-province certificate.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (3) Where an applicant referred to in subsection (1) is unable to satisfy the Registrar that the applicant practised the profession to the extent that would be permitted by a graduate certificate of registration at any time in the two years immediately before the date of that applicant’s application, that applicant must meet any further requirement to undertake, obtain or undergo material additional training, experience, examinations or assessments, if any, that may be specified by a panel of the Registration Committee.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (4) An applicant referred to in subsection (1) is deemed to have met the requirements of paragraph 5 of subsection 53 (1) where the requirements for the issuance of the applicant’s out-of-province certificate included language proficiency requirements equivalent to those required by that paragraph.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (5) Despite subsection (1), an applicant is not deemed to have met a requirement if that requirement is described in subsection 22.18 (3) of the Health Professions Procedural Code.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK19\"></a>Conditions, Graduate Certificate of Registration</p>"
+        },
+        {
+            "ahref_id": "#60.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 60. (1) In addition to the conditions set out in section 54, it is a condition of a graduate certificate of registration that the member shall, (a) at the first reasonable opportunity, advise every employer of any terms, conditions and limitations that apply to the member’s graduate certificate of registration if their employment is in the field of respiratory therapy; (b) subject to subsection 49 (2), only perform a controlled act that is authorized to the profession if it is performed under the general supervision of a member of a College within the meaning of the Regulated Health Professions Act, 1991\r\nwho, the member holding the graduate certificate has reasonable grounds to believe, is authorized to perform the controlled act and is competent to do so and who is available to be personally present at the site where the authorized act is performed on ten minutes notice; and (c) not delegate a controlled act.  O. Reg. 17/12, s. 1. (2) A graduate certificate is deemed to have been revoked 18 months after its date of issue.  O. Reg. 17/12, s. 1. Limited Certificate of Registration",
+            "raw_html": "<p class=\"section-e\"> <b>60. </b>(1) In addition to the conditions set out in section 54, it is a condition of a graduate certificate of registration that the member shall,</p> <p class=\"clause-e\">  (a) at the first reasonable opportunity, advise every employer of any terms, conditions and limitations that apply to the member’s graduate certificate of registration if their employment is in the field of respiratory therapy;</p> <p class=\"clause-e\">  (b) subject to subsection 49 (2), only perform a controlled act that is authorized to the profession if it is performed under the general supervision of a member of a College within the meaning of the <i>Regulated Health Professions Act, 1991</i>\r\nwho, the member holding the graduate certificate has reasonable grounds to believe, is authorized to perform the controlled act and is competent to do so and who is available to be personally present at the site where the authorized act is performed on ten minutes notice; and </p> <p class=\"clause-e\">  (c) not delegate a controlled act.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (2) A graduate certificate is deemed to have been revoked 18 months after its date of issue.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK20\"></a>Limited Certificate of Registration</p>"
+        },
+        {
+            "ahref_id": "#61.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 61. (1) A member who, on or before February 25, 1999, held a limited certificate of registration may continue to hold such a certificate, subject to such terms, conditions or limitations as may be specified on the certificate.  O. Reg. 17/12, s. 1. (2) A limited certificate of registration shall not be issued to a person other than a person referred to in subsection (1).  O. Reg. 17/12, s. 1. (3) A holder of a limited certificate who wishes to obtain registration in another class must satisfy the requirements for the certificate of the other class.  O. Reg. 17/12, s. 1. Inactive Certificate of Registration",
+            "raw_html": "<p class=\"section-e\"> <b>61. </b>(1) A member who, on or before February 25, 1999, held a limited certificate of registration may continue to hold such a certificate, subject to such terms, conditions or limitations as may be specified on the certificate.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (2) A limited certificate of registration shall not be issued to a person other than a person referred to in subsection (1).  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (3) A holder of a limited certificate who wishes to obtain registration in another class must satisfy the requirements for the certificate of the other class.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK21\"></a>Inactive Certificate of Registration</p>"
+        },
+        {
+            "ahref_id": "#62.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 62. (1) In addition to the requirements set out in section 53, an applicant for an inactive certificate of registration must meet the following requirements: 1. The applicant must be a member who holds a general or limited certificate of registration. 2. The applicant must notify the Registrar in writing of his or her intention to become an inactive member. 3. The applicant must pay any outstanding fees, including any annual fee owing for the current membership, penalty or other amount owed to the College.  O. Reg. 17/12, s. 1. (2) A member who holds an inactive certificate of registration may be reissued a general or limited certificate of registration, as the case may be, if the member, (a) applies in writing to the Registrar for reinstatement; (b) pays the annual fee in respect of the class of certificate of registration which is the subject of the application for reinstatement together with any other outstanding fee, penalty or other amount owed to the College; and (c) satisfies a panel of the Registration Committee that he or she possesses the current knowledge, skill and judgment relating to the practice of the profession that would be expected of a member holding a certificate of registration of the type which is the subject of the application for reinstatement.  O. Reg. 17/12, s. 1. Conditions, Inactive Certificate of Registration",
+            "raw_html": "<p class=\"section-e\"> <b>62. </b>(1) In addition to the requirements set out in section 53, an applicant for an inactive certificate of registration must meet the following requirements:</p> <p class=\"paragraph-e\">  1. The applicant must be a member who holds a general or limited certificate of registration.</p> <p class=\"paragraph-e\">  2. The applicant must notify the Registrar in writing of his or her intention to become an inactive member.</p> <p class=\"paragraph-e\">  3. The applicant must pay any outstanding fees, including any annual fee owing for the current membership, penalty or other amount owed to the College.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (2) A member who holds an inactive certificate of registration may be reissued a general or limited certificate of registration, as the case may be, if the member,</p> <p class=\"clause-e\">  (a) applies in writing to the Registrar for reinstatement; </p> <p class=\"clause-e\">  (b) pays the annual fee in respect of the class of certificate of registration which is the subject of the application for reinstatement together with any other outstanding fee, penalty or other amount owed to the College; and</p> <p class=\"clause-e\">  (c) satisfies a panel of the Registration Committee that he or she possesses the current<b> </b>knowledge, skill and judgment relating to the practice of the profession that would be expected of a member holding a certificate of registration of the type which is the subject of the application for reinstatement.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK22\"></a>Conditions, Inactive Certificate of Registration</p>"
+        },
+        {
+            "ahref_id": "#63.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 63. In addition to the conditions set out in section 54, it is a condition of an inactive certificate of registration that the member shall not, (a) engage in providing direct patient care; (b) use any title or designation listed in the Table to section 67; (c) supervise the practice of the profession; or (d) make any claim or representation to having any competence in the profession.  O. Reg. 17/12, s. 1. Emergency Certificate of Registration",
+            "raw_html": "<p class=\"section-e\"> <b>63. </b>In addition to the conditions set out in section 54, it is a condition of an inactive certificate of registration that the member shall not,</p> <p class=\"clause-e\">  (a) engage in providing direct patient care;</p> <p class=\"clause-e\">  (b) use any title or designation listed in the Table to section 67; </p> <p class=\"clause-e\">  (c) supervise the practice of the profession; or</p> <p class=\"clause-e\">  (d) make any claim or representation to having any competence in the profession.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK23\"></a>Emergency Certificate of Registration</p>"
+        },
+        {
+            "ahref_id": "#63.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 63.1 (1) In addition to the requirements set out in section 53, the following are registration requirements for an emergency certificate of registration: 1. The Minister has requested the College to initiate registrations under this class based on the Minister’s opinion that emergency circumstances call for it, or the Council has determined, after taking into account all of the relevant circumstances that impact the ability of applicants to meet the ordinary registration requirements, that there are emergency circumstances, and that it is in the public interest that the College issue emergency certificates of registration. 2. The applicant must have satisfied the requirements of clause 55 (2) (a) or (b). O. Reg. 299/23, s. 4. (2) The applicant must have met the requirements of paragraph 2 of subsection (1) within the three years immediately preceding the application for registration unless the applicant was practising respiratory therapy for at least 1,125 hours in a jurisdiction outside Ontario in which respiratory therapy is regulated within that three-year period. O. Reg. 299/23, s. 4. (3) The requirements set out in paragraphs 1 and 2 of subsection (1) are non-exemptible. O. Reg. 299/23, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>63.1 </b>(1) In addition to the requirements set out in section 53, the following are registration requirements for an emergency certificate of registration:</p> <p class=\"paragraph-e\">  1. The Minister has requested the College to initiate registrations under this class based on the Minister’s opinion that emergency circumstances call for it, or the Council has determined, after taking into account all of the relevant circumstances that impact the ability of applicants to meet the ordinary registration requirements, that there are emergency circumstances, and that it is in the public interest that the College issue emergency certificates of registration.</p> <p class=\"paragraph-e\">  2. The applicant must have satisfied the requirements of clause 55 (2) (a) or (b). O. Reg. 299/23, s. 4.</p> <p class=\"subsection-e\">  (2) The applicant must have met the requirements of paragraph 2 of subsection (1) within the three years immediately preceding the application for registration unless the applicant was practising respiratory therapy for at least 1,125 hours in a jurisdiction outside Ontario in which respiratory therapy is regulated within that three-year period. O. Reg. 299/23, s. 4.</p> <p class=\"subsection-e\">  (3) The requirements set out in paragraphs 1 and 2 of subsection (1) are non-exemptible. O. Reg. 299/23, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#63.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 63.2 (1) Unless stated otherwise on the certificate, an emergency class certificate of registration expires 12 months after it is issued unless it is renewed. O. Reg. 299/23, s. 4. (2) Unless stated otherwise on the certificate, a renewed emergency class certificate of registration expires 12 months after it is issued unless it is renewed again. O. Reg. 299/23, s. 4. (3) Despite subsections (1) and (2), an emergency class certificate of registration expires six months after the date the Council determines that emergency circumstances no longer exist. O. Reg. 299/23, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>63.2 </b>(1) Unless stated otherwise on the certificate, an emergency class certificate of registration expires 12 months after it is issued unless it is renewed. O. Reg. 299/23, s. 4.</p> <p class=\"subsection-e\">  (2) Unless stated otherwise on the certificate, a renewed emergency class certificate of registration expires 12 months after it is issued unless it is renewed again. O. Reg. 299/23, s. 4.</p> <p class=\"subsection-e\">  (3) Despite subsections (1) and (2), an emergency class certificate of registration expires six months after the date the Council determines that emergency circumstances no longer exist. O. Reg. 299/23, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#63.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 63.3 A person who holds, or held within the previous six months, a certificate of registration in the emergency class may be issued a certificate of registration in the general class despite not having met the requirements set out in subsection 55 (4), if the person, (a) applies for the certificate of registration in the general class; (b) satisfies all other requirements for the certificate of registration in the general class; and (c) either provides satisfactory evidence to the Registrar based on their practice of at least 500 hours under the certificate of registration in the emergency class, that they will practise competently and ethically even though practising without supervision, or successfully completes the practice assessment designed to assess the practice competencies of a holder of a certification of registration in the emergency class. O. Reg. 299/23, s. 4. Conditions, Emergency Certificate of Registration",
+            "raw_html": "<p class=\"section-e\"> <b>63.3 </b>A person who holds, or held within the previous six months, a certificate of registration in the emergency class may be issued a certificate of registration in the general class despite not having met the requirements set out in subsection 55 (4), if the person,</p> <p class=\"clause-e\">  (a) applies for the certificate of registration in the general class;</p> <p class=\"clause-e\">  (b) satisfies all other requirements for the certificate of registration in the general class; and</p> <p class=\"clause-e\">  (c) either provides satisfactory evidence to the Registrar based on their practice of at least 500 hours under the certificate of registration in the emergency class, that they will practise competently and ethically even though practising without supervision, or successfully completes the practice assessment designed to assess the practice competencies of a holder of a certification of registration in the emergency class. O. Reg. 299/23, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK24\"></a>Conditions, Emergency Certificate of Registration</p>"
+        },
+        {
+            "ahref_id": "#63.4",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 63.4 In addition to the conditions set out in section 54, it is a condition of an emergency certificate of registration that the member shall, (a) at the first reasonable opportunity, advise every employer of any terms, conditions and limitations that apply to the member’s emergency certificate of registration if their employment is in the field of respiratory therapy; (b) only perform a controlled act that is authorized to the profession if it is performed under the general supervision of a member who holds a certificate in the general class of registration and who is available to be present at the site on 10 minutes notice; and (c) not delegate a controlled act. O. Reg. 299/23, s. 4. Resignation",
+            "raw_html": "<p class=\"section-e\"> <b>63.4 </b>In addition to the conditions set out in section 54, it is a condition of an emergency certificate of registration that the member shall,</p> <p class=\"clause-e\">  (a) at the first reasonable opportunity, advise every employer of any terms, conditions and limitations that apply to the member’s emergency certificate of registration if their employment is in the field of respiratory therapy;</p> <p class=\"clause-e\">  (b) only perform a controlled act that is authorized to the profession if it is performed under the general supervision of a member who holds a certificate in the general class of registration and who is available to be present at the site on 10 minutes notice; and</p> <p class=\"clause-e\">  (c) not delegate a controlled act. O. Reg. 299/23, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK25\"></a>Resignation</p>"
+        },
+        {
+            "ahref_id": "#64.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 64. A member may resign his or her membership by giving written notice to that effect to the Registrar and paying all outstanding fees, penalties or other amounts owed to the College.  O. Reg. 17/12, s. 1. Suspensions, Revocations, etc.",
+            "raw_html": "<p class=\"section-e\"> <b>64. </b>A member may resign his or her membership by giving written notice to that effect to the Registrar and paying all outstanding fees, penalties or other amounts owed to the College.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK26\"></a>Suspensions, Revocations, etc.</p>"
+        },
+        {
+            "ahref_id": "#65.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 65. (1) If a member fails to provide information about the member in the manner and in the form as required under the by-laws, the Registrar may give the member notice of intention to suspend the member and may suspend the member’s certificate of registration for failure to provide the information 30 days after notice is given.  O. Reg. 17/12, s. 1. (2) Where the Registrar suspends a member’s certificate of registration under subsection (1), the Registrar shall lift the suspension upon being satisfied that the required information has been filed with the College and that any fee required for the lifting of the suspension has been paid.  O. Reg. 17/12, s. 1. (3) Where the Registrar suspends a member’s certificate of registration pursuant to section 24 of the Health Professions Procedural Code, the Registrar shall lift the suspension upon being satisfied that any fee required for the lifting of that suspension has been paid.  O. Reg. 17/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>65. </b>(1) If a member fails to provide information about the member in the manner and in the form as required under the by-laws, the Registrar may give the member notice of intention to suspend the member and may suspend the member’s certificate of registration for failure to provide the information 30 days after notice is given.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (2) Where the Registrar suspends a member’s certificate of registration under subsection (1), the Registrar shall lift the suspension upon being satisfied that the required information has been filed with the College and that any fee required for the lifting of the suspension has been paid.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (3) Where the Registrar suspends a member’s certificate of registration pursuant to section 24 of the Health Professions Procedural Code, the Registrar shall lift the suspension upon being satisfied that any fee required for the lifting of that suspension has been paid.  O. Reg. 17/12, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#66.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 66. (1) The Registrar may revoke a member’s certificate of registration if, after giving the member written notice and an opportunity to respond the Registrar is of the opinion that the member made, by commission or omission, a false or misleading representation or declaration on or in connection with their application.  O. Reg. 17/12, s. 1. (2) The Registrar shall revoke a member’s certificate of registration if the member’s certificate of registration was suspended under subsection 65 (1) or under section 24 of the Health Professions Procedural Code and that suspension has not been lifted under subsection 65 (2) or (3) by the last day of the College fiscal year in which the suspension was imposed.  O. Reg. 17/12, s. 1. Titles",
+            "raw_html": "<p class=\"section-e\"> <b>66. </b>(1) The Registrar may revoke a member’s certificate of registration if, after giving the member written notice and an opportunity to respond the Registrar is of the opinion that the member made, by commission or omission, a false or misleading representation or declaration on or in connection with their application.  O. Reg. 17/12, s. 1.</p> <p class=\"subsection-e\">  (2) The Registrar shall revoke a member’s certificate of registration if the member’s certificate of registration was suspended under subsection 65 (1) or under section 24 of the Health Professions Procedural Code and that suspension has not been lifted under subsection 65 (2) or (3) by the last day of the College fiscal year in which the suspension was imposed.  O. Reg. 17/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK27\"></a>Titles</p>"
+        },
+        {
+            "ahref_id": "#67.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  67. A member who holds a certificate of registration listed in Column 1 of the Table to this section, (a) may use a title listed in Column 2 or 3 opposite the certificate of registration; and (b) shall use the designation listed in Column 4 opposite the certificate of registration.  O. Reg. 17/12, s. 1. table  Column 1   Column 2   Column 3   Column 4 \n\n  Certificate of Registration   English Title   French Title   Designation \n\n  Emergency   Respiratory Therapist (Emergency)   Thérapeute Respiratoire (Urgence)   RT(E) \n\n  General   Registered Respiratory Therapist; or Respiratory Therapist   Thérapeute Respiratoire Autorisé(e); or Thérapeute Respiratoire   RRT \n\n  Graduate   Graduate Respiratory Therapist   Thérapeute Respiratoire Diplômé(e)   GRT \n\n  Limited   Practical Respiratory Therapist   Thérapeute Respiratoire Auxiliaire   PRT O. Reg. 17/12, s. 1; O. Reg. 299/23, s. 5.    ",
+            "raw_html": "<p class=\"section-e\"><b>  67. </b>A member who holds a certificate of registration listed in Column 1 of the Table to this section,</p> <p class=\"clause-e\">  (a) may use a title listed in Column 2 or 3 opposite the certificate of registration; and </p> <p class=\"clause-e\">  (b) shall use the designation listed in Column 4 opposite the certificate of registration.  O. Reg. 17/12, s. 1.</p> <p class=\"headingx-e\">table</p> <p class=\"MsoNormal\"> </p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"672\">\n<tr> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Column 1</p> </td> <td valign=\"top\" width=\"205\"> <p class=\"table-e\">Column 2</p> </td> <td valign=\"top\" width=\"217\"> <p class=\"table-e\">Column 3</p> </td> <td valign=\"top\" width=\"93\"> <p class=\"table-e\">Column 4</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Certificate of Registration</p> </td> <td valign=\"top\" width=\"205\"> <p class=\"table-e\">English Title</p> </td> <td valign=\"top\" width=\"217\"> <p class=\"table-e\">French Title</p> </td> <td valign=\"top\" width=\"93\"> <p class=\"table-e\">Designation</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Emergency</p> </td> <td valign=\"top\" width=\"205\"> <p class=\"table-e\">Respiratory Therapist (Emergency)</p> </td> <td valign=\"top\" width=\"217\"> <p class=\"table-e\">Thérapeute Respiratoire (Urgence)</p> </td> <td valign=\"top\" width=\"93\"> <p class=\"table-e\">RT(E)</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">General</p> </td> <td valign=\"top\" width=\"205\"> <p class=\"table-e\">Registered Respiratory Therapist; or Respiratory Therapist</p> </td> <td valign=\"top\" width=\"217\"> <p class=\"table-e\">Thérapeute Respiratoire Autorisé(e); or Thérapeute Respiratoire</p> </td> <td valign=\"top\" width=\"93\"> <p class=\"table-e\">RRT</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Graduate</p> </td> <td valign=\"top\" width=\"205\"> <p class=\"table-e\">Graduate Respiratory Therapist</p> </td> <td valign=\"top\" width=\"217\"> <p class=\"table-e\">Thérapeute Respiratoire Diplômé(e)</p> </td> <td valign=\"top\" width=\"93\"> <p class=\"table-e\">GRT</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Limited</p> </td> <td valign=\"top\" width=\"205\"> <p class=\"table-e\">Practical Respiratory Therapist</p> </td> <td valign=\"top\" width=\"217\"> <p class=\"table-e\">Thérapeute Respiratoire Auxiliaire</p> </td> <td valign=\"top\" width=\"93\"> <p class=\"table-e\">PRT</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 17/12, s. 1; O. Reg. 299/23, s. 5.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

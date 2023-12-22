@@ -1,0 +1,463 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 622: STOPPING OF VEHICLES ON PARTS OF THE KING'S HIGHWAY",
+        "reg_name_text": "STOPPING OF VEHICLES ON PARTS OF THE KING’S HIGHWAY",
+        "citation": "R.R.O. 1990, Reg. 622: STOPPING OF VEHICLES ON PARTS OF THE KING'S HIGHWAY",
+        "act_under": "Highway Traffic Act   Code de la route",
+        "url": "https://www.ontario.ca/laws/regulation/900622",
+        "date_scraped": "2023-12-18 23:10:56"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "May 14, 2019",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v32",
+            "valid_from": "March 20, 2019",
+            "valid_to": "May 13, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v31",
+            "valid_from": "October  3, 2018",
+            "valid_to": "March 19, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v30",
+            "valid_from": "April 13, 2018",
+            "valid_to": "October  2, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v29",
+            "valid_from": "March 29, 2018",
+            "valid_to": "April 12, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v28",
+            "valid_from": "February 12, 2018",
+            "valid_to": "March 28, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v27",
+            "valid_from": "October 23, 2017",
+            "valid_to": "February 11, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v26",
+            "valid_from": "April  6, 2016",
+            "valid_to": "October 22, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v25",
+            "valid_from": "June 30, 2015",
+            "valid_to": "April  5, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v24",
+            "valid_from": "November 19, 2014",
+            "valid_to": "June 29, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v23",
+            "valid_from": "June 21, 2013",
+            "valid_to": "November 18, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v22",
+            "valid_from": "March 28, 2013",
+            "valid_to": "June 20, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v21",
+            "valid_from": "December 19, 2012",
+            "valid_to": "March 27, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v20",
+            "valid_from": "December  4, 2012",
+            "valid_to": "December 18, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v19",
+            "valid_from": "September 28, 2012",
+            "valid_to": "December  3, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v18",
+            "valid_from": "September 27, 2012",
+            "valid_to": "September 27, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v17",
+            "valid_from": "August 21, 2012",
+            "valid_to": "September 26, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v16",
+            "valid_from": "June 28, 2012",
+            "valid_to": "August 20, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v15",
+            "valid_from": "March  7, 2012",
+            "valid_to": "June 27, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v14",
+            "valid_from": "November  3, 2011",
+            "valid_to": "March  6, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v13",
+            "valid_from": "September 14, 2011",
+            "valid_to": "November  2, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v12",
+            "valid_from": "August 29, 2011",
+            "valid_to": "September 13, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v11",
+            "valid_from": "December 10, 2010",
+            "valid_to": "August 28, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v10",
+            "valid_from": "December  6, 2010",
+            "valid_to": "December  9, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v9",
+            "valid_from": "December 16, 2009",
+            "valid_to": "December  5, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v8",
+            "valid_from": "October 30, 2009",
+            "valid_to": "December 15, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v7",
+            "valid_from": "April 29, 2009",
+            "valid_to": "October 29, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v6",
+            "valid_from": "February 13, 2009",
+            "valid_to": "April 28, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v5",
+            "valid_from": "February  2, 2009",
+            "valid_to": "February 12, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v4",
+            "valid_from": "July 11, 2008",
+            "valid_to": "February  1, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v3",
+            "valid_from": "September  4, 2007",
+            "valid_to": "July 10, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v2",
+            "valid_from": "September 21, 2005",
+            "valid_to": "September  3, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900622/v1",
+            "valid_from": "August 22, 2001",
+            "valid_to": "September 20, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": " 1. (1) No person shall stop a vehicle on a part of the King’s Highway described in a Schedule to Appendix A.  R.R.O. 1990, Reg. 622, s. 1 (1). (2) No person shall stop a vehicle on a part of the King’s Highway described in Column 1 of a Schedule to Appendix B between the limits set out in Column 2 during the period set out in Column 3 for a longer period of time than that set out in Column 4.  R.R.O. 1990, Reg. 622, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) No person shall stop a vehicle on a part of the King’s Highway described in a Schedule to Appendix A.  R.R.O. 1990, Reg. 622, s. 1 (1).</p> <p class=\"subsection-e\">  (2) No person shall stop a vehicle on a part of the King’s Highway described in Column 1 of a Schedule to Appendix B between the limits set out in Column 2 during the period set out in Column 3 for a longer period of time than that set out in Column 4.  R.R.O. 1990, Reg. 622, s. 1 (2).</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": " 2. Where a highway is referred to in a Schedule by number or name, the reference is to that part of the King’s Highway known by it.  R.R.O. 1990, Reg. 622, s. 2. APPENDIX A Schedule 1   HIGHWAY No. 58",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>Where a highway is referred to in a Schedule by number or name, the reference is to that part of the King’s Highway known by it.  R.R.O. 1990, Reg. 622, s. 2.</p> <p class=\"partnum-e\">APPENDIX A</p> <p class=\"headingx-e\">Schedule 1 <br/>  HIGHWAY No. 58</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. That part of the King’s Highway known as No. 58 in the Town of Thorold in The Regional Municipality of Niagara beginning at a point situate 150 metres measured northerly from its intersection with the roadway known as Regional Road No. 553 and extending southerly along it for a distance of 457 metres. R.R.O. 1990, Reg. 622, App. A, Sched. 1. Schedule 2   HIGHWAY No. 124",
+            "raw_html": "<p class=\"section-e\">  1. That part of the King’s Highway known as No. 58 in the Town of Thorold in The Regional Municipality of Niagara beginning at a point situate 150 metres measured northerly from its intersection with the roadway known as Regional Road No. 553 and extending southerly along it for a distance of 457 metres.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 622, App. A, Sched. 1.</p> <p class=\"headingx-e\">Schedule 2 <br/>  HIGHWAY No. 124</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the west side of that part of the King’s Highway known as No. 124 in the Village of Sundridge in the Territorial District of Parry Sound beginning at a point situate 91 metres measured southerly from its intersection with the southerly limit of the roadway known as Albert Street and extending northerly along it for a distance of 188 metres.",
+            "raw_html": "<p class=\"section-e\">  1. On the west side of that part of the King’s Highway known as No. 124 in the Village of Sundridge in the Territorial District of Parry Sound beginning at a point situate 91 metres measured southerly from its intersection with the southerly limit of the roadway known as Albert Street and extending northerly along it for a distance of 188 metres.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. On the east side of that part of the King’s Highway known as No. 124 in the Village of Sundridge in the Territorial District of Parry Sound lying between a point situate 85 metres measured northerly from its intersection with the centre line of the roadway known as John Street and a point situate 200 metres measured northerly from its intersection with the centre line of the roadway known as Paget Street.",
+            "raw_html": "<p class=\"section-e\">  2. On the east side of that part of the King’s Highway known as No. 124 in the Village of Sundridge in the Territorial District of Parry Sound lying between a point situate 85 metres measured northerly from its intersection with the centre line of the roadway known as John Street and a point situate 200 metres measured northerly from its intersection with the centre line of the roadway known as Paget Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  3. On the west side of that part of the King’s Highway known as No. 124 in the Village of Sundridge in the Territorial District of Parry Sound lying between a point situate 100 metres measured southerly from its intersection with the centre line of the roadway known as John Street and a point situate 230 metres measured northerly from its intersection with the centre line of the roadway known as Paget Street.",
+            "raw_html": "<p class=\"section-e\">  3. On the west side of that part of the King’s Highway known as No. 124 in the Village of Sundridge in the Territorial District of Parry Sound lying between a point situate 100 metres measured southerly from its intersection with the centre line of the roadway known as John Street and a point situate 230 metres measured northerly from its intersection with the centre line of the roadway known as Paget Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  4. On the east side of that part of the King’s Highway known as No. 124 in the Village of Sundridge in the Territorial District of Parry Sound lying between a point situate at its intersection with the northerly limit of the roadway known as Albert Street and a point situate at its intersection with the southerly limit of the roadway known as Mill Street.",
+            "raw_html": "<p class=\"section-e\">  4. On the east side of that part of the King’s Highway known as No. 124 in the Village of Sundridge in the Territorial District of Parry Sound lying between a point situate at its intersection with the northerly limit of the roadway known as Albert Street and a point situate at its intersection with the southerly limit of the roadway known as Mill Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  5. On the north and south sides of that part of the King’s Highway known as No. 124 in the Township of McDougall in the Territorial District of Parry Sound beginning at a point situate 180 metres measured easterly from its intersection with the centre line of the roadway known as Burnside Bridge Road and extending easterly for a distance of 365 metres. O. Reg. 451/11, s. 1; O. Reg. 289/12, s. 1. Schedule 3   HIGHWAY NO. 511",
+            "raw_html": "<p class=\"section-e\">  5. On the north and south sides of that part of the King’s Highway known as No. 124 in the Township of McDougall in the Territorial District of Parry Sound beginning at a point situate 180 metres measured easterly from its intersection with the centre line of the roadway known as Burnside Bridge Road and extending easterly for a distance of 365 metres.</p> <p class=\"footnote-e\">O. Reg. 451/11, s. 1; O. Reg. 289/12, s. 1.</p> <p class=\"headingx-e\">Schedule 3 <br/>  HIGHWAY NO. 511</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the east side of that part of the King’s Highway known as No. 511 in the Village of Lanark in the County of Lanark beginning at a point situate at its intersection with the roadway known as Hillier Street and extending northerly along it for a distance of 100 metres. R.R.O. 1990, Reg. 622, App. A, Sched. 3. Schedule 4   AURORA ROAD (YORK ROAD 15)",
+            "raw_html": "<p class=\"section-e\">  1. On the east side of that part of the King’s Highway known as No. 511 in the Village of Lanark in the County of Lanark beginning at a point situate at its intersection with the roadway known as Hillier Street and extending northerly along it for a distance of 100 metres.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 622, App. A, Sched. 3.</p> <p class=\"headingx-e\">Schedule 4 <br/>  AURORA ROAD (YORK ROAD 15)</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. That part of the King’s Highway known as Aurora Road (York Road 15) in the Town of Whitchurch-Stouffville in The Regional Municipality of York lying between a point situate at its intersection with the freeway off-ramp known as Highway 404 northbound and a point situate 360 metres measured easterly from the easterly limit of its intersection and the freeway off-ramp known as Highway 404 northbound. R.R.O. 1990, Reg. 622, App. A, Sched. 4. Schedule 5   HIGHWAY NO. 16",
+            "raw_html": "<p class=\"section-e\">  1. That part of the King’s Highway known as Aurora Road (York Road 15) in the Town of Whitchurch-Stouffville in The Regional Municipality of York lying between a point situate at its intersection with the freeway off-ramp known as Highway 404 northbound and a point situate 360 metres measured easterly from the easterly limit of its intersection and the freeway off-ramp known as Highway 404 northbound.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 622, App. A, Sched. 4.</p> <p class=\"headingx-e\">Schedule 5 <br/>  HIGHWAY NO. 16</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. That part of the King’s Highway known as No. 16 in the City of Nepean in The Regional Municipality of Ottawa-Carleton lying between a point situate at its intersection with the southerly limit of the roadway known as MacFarlane Road and a point situate at its intersection with the northerly limit of the roadway known as Amberwood Crescent. R.R.O. 1990, Reg. 622, App. A, Sched. 5. Schedule 6   HIGHWAY NO. 2",
+            "raw_html": "<p class=\"section-e\">  1. That part of the King’s Highway known as No. 16 in the City of Nepean in The Regional Municipality of Ottawa-Carleton lying between a point situate at its intersection with the southerly limit of the roadway known as MacFarlane Road and a point situate at its intersection with the northerly limit of the roadway known as Amberwood Crescent.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 622, App. A, Sched. 5.</p> <p class=\"headingx-e\">Schedule 6 <br/>  HIGHWAY NO. 2</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. That part of the King’s Highway known as No. 2 in the Township of Sidney in the County of Hastings lying between a point situate at its intersection with the easterly limit of the roadway known as Hastings County Road 21 and a point situate at its intersection with the westerly limit of the roadway known as Quinte View Road. R.R.O. 1990, Reg. 622, App. A, Sched. 6. Schedule 7   DAVIS DRIVE (YORK ROAD 31)",
+            "raw_html": "<p class=\"section-e\">  1. That part of the King’s Highway known as No. 2 in the Township of Sidney in the County of Hastings lying between a point situate at its intersection with the easterly limit of the roadway known as Hastings County Road 21 and a point situate at its intersection with the westerly limit of the roadway known as Quinte View Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 622, App. A, Sched. 6.</p> <p class=\"headingx-e\">Schedule 7 <br/>  DAVIS DRIVE (YORK ROAD 31)</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. That part of the King’s Highway known as Davis Drive (York Road 31) in the towns of Newmarket and Whitchurch-Stouffville in The Regional Municipality of York beginning at a point situate 472 metres measured westerly from its intersection with the centre line of the bridge over the King’s Highway known as No. 404 and extending easterly for a distance of 1,438 metres. R.R.O. 1990, Reg. 622, App. A, Sched. 7. Schedule 8   HIGHWAY NO. 17",
+            "raw_html": "<p class=\"section-e\">  1. That part of the King’s Highway known as Davis Drive (York Road 31) in the towns of Newmarket and Whitchurch-Stouffville in The Regional Municipality of York beginning at a point situate 472 metres measured westerly from its intersection with the centre line of the bridge over the King’s Highway known as No. 404 and extending easterly for a distance of 1,438 metres.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 622, App. A, Sched. 7.</p> <p class=\"headingx-e\">Schedule 8 <br/>  HIGHWAY NO. 17</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the south side of that part of the King’s Highway known as No. 17 in the Town of Massey in the Territorial District of Sudbury lying between a point situate at its intersection with the westerly limit of the roadway known as Bell Street and a point situate at its intersection with the easterly limit of the roadway known as Third Street.",
+            "raw_html": "<p class=\"section-e\">  1. On the south side of that part of the King’s Highway known as No. 17 in the Town of Massey in the Territorial District of Sudbury lying between a point situate at its intersection with the westerly limit of the roadway known as Bell Street and a point situate at its intersection with the easterly limit of the roadway known as Third Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. On the east side of that part of the King’s Highway known as No. 17 in the Township of Fisher in the Territorial District of Algoma beginning at a point situate 50 metres measured southerly from its intersection with the centre line of the Carp River Bridge and extending southerly for a distance of 250 metres.",
+            "raw_html": "<p class=\"section-e\">  2. On the east side of that part of the King’s Highway known as No. 17 in the Township of Fisher in the Territorial District of Algoma beginning at a point situate 50 metres measured southerly from its intersection with the centre line of the Carp River Bridge and extending southerly for a distance of 250 metres.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  3. On the east side of that part of the King’s Highway known as No. 17 in the Township of Fisher in the Territorial District of Algoma beginning at a point situate 550 metres measured northerly from its intersection with the centre line of the Pancake River Bridge and extending northerly for a distance of 300 metres.",
+            "raw_html": "<p class=\"section-e\">  3. On the east side of that part of the King’s Highway known as No. 17 in the Township of Fisher in the Territorial District of Algoma beginning at a point situate 550 metres measured northerly from its intersection with the centre line of the Pancake River Bridge and extending northerly for a distance of 300 metres.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  4. On the north and south sides of that part of the King’s Highway known as No. 17 in the Township of Fisher in the Territorial District of Algoma beginning at a point situate 50 metres measured southerly from its intersection with the centre line of the Carp River Bridge and extending southerly for a distance of 1025 metres.",
+            "raw_html": "<p class=\"section-e\">  4. On the north and south sides of that part of the King’s Highway known as No. 17 in the Township of Fisher in the Territorial District of Algoma beginning at a point situate 50 metres measured southerly from its intersection with the centre line of the Carp River Bridge and extending southerly for a distance of 1025 metres.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  5. On the north and south sides of that part of the King’s Highway known as No. 17 in the Township of Fisher in the Territorial District of Algoma beginning at a point situate 410 metres measured northerly from its intersection with the centre line of the Pancake River Bridge and extending northerly for a distance of 400 metres.",
+            "raw_html": "<p class=\"section-e\">  5. On the north and south sides of that part of the King’s Highway known as No. 17 in the Township of Fisher in the Territorial District of Algoma beginning at a point situate 410 metres measured northerly from its intersection with the centre line of the Pancake River Bridge and extending northerly for a distance of 400 metres.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  6. On the north side of that part of the King’s Highway known as No. 17 in the Town of Mattawa in the Territorial District of Nipissing beginning at a point situate at its intersection with the centre line of the roadway known as Turcotte Park Road and extending easterly for a distance of 530 metres.",
+            "raw_html": "<p class=\"section-e\">  6. On the north side of that part of the King’s Highway known as No. 17 in the Town of Mattawa in the Territorial District of Nipissing beginning at a point situate at its intersection with the centre line of the roadway known as Turcotte Park Road and extending easterly for a distance of 530 metres.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  7. On the north and south sides of that part of the King’s Highway known as No. 17 in the Town of Deep River in the County of Renfrew beginning at a point situate 280 metres measured westerly from its intersection with the centre line of the roadway known as Deep River Road and extending westerly for a distance of 200 metres.",
+            "raw_html": "<p class=\"section-e\">  7. On the north and south sides of that part of the King’s Highway known as No. 17 in the Town of Deep River in the County of Renfrew beginning at a point situate 280 metres measured westerly from its intersection with the centre line of the roadway known as Deep River Road and extending westerly for a distance of 200 metres.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  8. Revoked: O. Reg. 425/18, s. 1.",
+            "raw_html": "<p class=\"section-e\">  8. <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 425/18, s. 1.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  9. On the east and west sides of that part of the King’s Highway known as No. 17 in Lake Superior Provincial Park in the Township of Giles in the Territorial District of Algoma beginning at a point situate 1550 metres measured northerly from its intersection with the centre line of the Sand River Bridge and extending northerly for a distance of 710 metres. O. Reg. 233/00, s. 1; O. Reg. 247/08, s. 1; O. Reg. 44/09, s. 1; O. Reg. 432/12, s. 1 (2); O. Reg. 123/13, s. 1; O. Reg. 92/16, s. 1; O. Reg. 16/18, s. 1; O. Reg. 425/18, s. 1. Schedule 9   highway no. 69",
+            "raw_html": "<p class=\"section-e\">  9. On the east and west sides of that part of the King’s Highway known as No. 17 in Lake Superior Provincial Park in the Township of Giles in the Territorial District of Algoma beginning at a point situate 1550 metres measured northerly from its intersection with the centre line of the Sand River Bridge and extending northerly for a distance of 710 metres.</p> <p class=\"footnote-e\">O. Reg. 233/00, s. 1; O. Reg. 247/08, s. 1; O. Reg. 44/09, s. 1; O. Reg. 432/12, s. 1 (2); O. Reg. 123/13, s. 1; O. Reg. 92/16, s. 1; O. Reg. 16/18, s. 1; O. Reg. 425/18, s. 1.</p> <p class=\"headingx-e\">Schedule 9 <br/>  highway no. 69</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the east and west sides of the part of the King’s Highway known as No. 69 in the Township of Wallbridge in the Territorial District of Parry Sound beginning at a point situate 360 metres measured northerly from its intersection with the centre line of the roadway known as Highway No. 529 and extending southerly for a distance of 860 metres.",
+            "raw_html": "<p class=\"section-e\">  1. On the east and west sides of the part of the King’s Highway known as No. 69 in the Township of Wallbridge in the Territorial District of Parry Sound beginning at a point situate 360 metres measured northerly from its intersection with the centre line of the roadway known as Highway No. 529 and extending southerly for a distance of 860 metres.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. On the east and west sides of that part of the King’s Highway known as No. 69 in the Town of Pointe au Baril in the Township of Archipelago beginning at a point situate at its intersection with the centre line of the King’s Highway known as No. 644 and extending southerly for a distance of 300 metres.  O. Reg. 336/01, s. 1; O. Reg. 457/11, s. 1; O. Reg. 241/12, s. 1; O. Reg. 392/17, s. 1. Schedule 10   Highway No. 35",
+            "raw_html": "<p class=\"section-e\">  2. On the east and west sides of that part of the King’s Highway known as No. 69 in the Town of Pointe au Baril in the Township of Archipelago beginning at a point situate at its intersection with the centre line of the King’s Highway known as No. 644 and extending southerly for a distance of 300 metres. </p> <p class=\"footnote-e\">O. Reg. 336/01, s. 1; O. Reg. 457/11, s. 1; O. Reg. 241/12, s. 1; O. Reg. 392/17, s. 1.</p> <p class=\"headingx-e\">Schedule 10 <br/>  Highway No. 35</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the east side of that part of the King’s Highway known as No. 35 in the Township of Algonquin Highlands in the County of Haliburton lying between a point situate 235 metres measured westerly from its intersection with the centre line of the roadway known as Shangri-LA Road and a point situate 10 metres measured easterly from its intersection with the centre line of the roadway known as Saskatchewan Lake Road.",
+            "raw_html": "<p class=\"section-e\">  1. On the east side of that part of the King’s Highway known as No. 35 in the Township of Algonquin Highlands in the County of Haliburton lying between a point situate 235 metres measured westerly from its intersection with the centre line of the roadway known as Shangri-LA Road and a point situate 10 metres measured easterly from its intersection with the centre line of the roadway known as Saskatchewan Lake Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. On the west side of that part of the King’s Highway known as No. 35 in the Township of Algonquin Highlands in the County of Haliburton lying between a point situate 70 metres measured westerly from its intersection with the centre line of the roadway known as Shangri-LA Road and a point situate 25 metres measured easterly from its intersection with the centre line of the roadway known as Saskatchewan Lake Road.",
+            "raw_html": "<p class=\"section-e\">  2. On the west side of that part of the King’s Highway known as No. 35 in the Township of Algonquin Highlands in the County of Haliburton lying between a point situate 70 metres measured westerly from its intersection with the centre line of the roadway known as Shangri-LA Road and a point situate 25 metres measured easterly from its intersection with the centre line of the roadway known as Saskatchewan Lake Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  3. That part of the King’s Highway known as No. 35 in the Township of Minden Hills in the County of Haliburton lying between a point situate at its intersection with the northerly limit of the roadway known as Booth Street and a point situate at its intersection with the southerly limit of the roadway known as Water Street. O. Reg. 496/05, s. 1; O. Reg. 170/09, s. 1. Schedule 11   highway no. 101",
+            "raw_html": "<p class=\"section-e\">  3. That part of the King’s Highway known as No. 35 in the Township of Minden Hills in the County of Haliburton lying between a point situate at its intersection with the northerly limit of the roadway known as Booth Street and a point situate at its intersection with the southerly limit of the roadway known as Water Street.</p> <p class=\"footnote-e\">O. Reg. 496/05, s. 1; O. Reg. 170/09, s. 1.</p> <p class=\"headingx-e\">Schedule 11 <br/>  highway no. 101</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. That part of the King’s Highway known as No. 101 in the Township of Michipicoten in the Territorial District of Algoma beginning at a point situate 50 metres measured westerly from its intersection with the centre line of the roadway known as Golf Course Road and extending westerly for a distance of 350 metres. O. Reg. 525/07, s. 1. SCHEDULE 12   HIGHWAY NO. 520",
+            "raw_html": "<p class=\"section-e\">  1. That part of the King’s Highway known as No. 101 in the Township of Michipicoten in the Territorial District of Algoma beginning at a point situate 50 metres measured westerly from its intersection with the centre line of the roadway known as Golf Course Road and extending westerly for a distance of 350 metres.</p> <p class=\"footnote-e\">O. Reg. 525/07, s. 1.</p> <p class=\"headingx-e\">SCHEDULE 12 <br/>  HIGHWAY NO. 520</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the east and west sides of that part of the King’s Highway known as No. 520 in the Village of Burk’s Falls in the Township of Armour in the Territorial District of Parry Sound lying between a point situate at its intersection with the off-ramp of the King’s Highway known as No. 11 northbound and a point situate 100 metres measured northerly from its intersection with the centre line of the roadway known as Commercial Drive. O. Reg. 52/09, s. 1. SCHEDULE 13   HIGHWAY NO. 60",
+            "raw_html": "<p class=\"section-e\">  1. On the east and west sides of that part of the King’s Highway known as No. 520 in the Village of Burk’s Falls in the Township of Armour in the Territorial District of Parry Sound lying between a point situate at its intersection with the off-ramp of the King’s Highway known as No. 11 northbound and a point situate 100 metres measured northerly from its intersection with the centre line of the roadway known as Commercial Drive.</p> <p class=\"footnote-e\">O. Reg. 52/09, s. 1.</p> <p class=\"headingx-e\">SCHEDULE 13 <br/>  HIGHWAY NO. 60</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. That part of the King’s Highway known as No. 60 in the Town of Huntsville in The District Municipality of Muskoka beginning at a point situate 300 metres measured easterly from its intersection with the centre line of the roadway known as Hidden Valley Road and extending westerly for a distance of approximately 8.5 kilometres to its intersection with the centre line of the King’s Highway known as No. 11. O. Reg. 410/09, s. 1. SCHEDULE 14   HIGHWAY NO. 144",
+            "raw_html": "<p class=\"section-e\">  1. That part of the King’s Highway known as No. 60 in the Town of Huntsville in The District Municipality of Muskoka beginning at a point situate 300 metres measured easterly from its intersection with the centre line of the roadway known as Hidden Valley Road and extending westerly for a distance of approximately 8.5 kilometres to its intersection with the centre line of the King’s Highway known as No. 11.</p> <p class=\"footnote-e\">O. Reg. 410/09, s. 1.</p> <p class=\"headingx-e\">SCHEDULE 14 <br/>  HIGHWAY NO. 144</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the east side of that part of the King’s Highway known as No. 144 in the Town of Dowling in the City of Greater Sudbury lying between a point situate at its intersection with the northerly limit of the roadway known as Leonard Street and a point situate at its intersection with the southerly limit of the roadway known as Houle Avenue. O. Reg. 482/09, s. 1. SCHEDULE 15   HIGHWAY NO. 559",
+            "raw_html": "<p class=\"section-e\">  1. On the east side of that part of the King’s Highway known as No. 144 in the Town of Dowling in the City of Greater Sudbury lying between a point situate at its intersection with the northerly limit of the roadway known as Leonard Street and a point situate at its intersection with the southerly limit of the roadway known as Houle Avenue.</p> <p class=\"footnote-e\">O. Reg. 482/09, s. 1.</p> <p class=\"headingx-e\">SCHEDULE 15 <br/>  HIGHWAY NO. 559</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the north and south sides of that part of the King’s Highway known as No. 559 in the Township of Carling in the Territorial District of Parry Sound beginning at a point situate 1230 metres measured easterly from its intersection with the centre line of the roadway known as Carling Bay Road West and extending easterly for a distance of 250 metres. O. Reg. 97/19, s. 1. Schedule 16   HIGHWAY No. 7087 (e. c. row expressway)",
+            "raw_html": "<p class=\"section-e\">  1. On the north and south sides of that part of the King’s Highway known as No. 559 in the Township of Carling in the Territorial District of Parry Sound beginning at a point situate 1230 metres measured easterly from its intersection with the centre line of the roadway known as Carling Bay Road West and extending easterly for a distance of 250 metres.</p> <p class=\"footnote-e\">O. Reg. 97/19, s. 1.</p> <p class=\"headingx-e\">Schedule 16 <br/>  HIGHWAY No. 7087 (e. c. row expressway)</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. That part of the King’s Highway known as No. 7087 (E. C. Row Expressway) in the City of Windsor in the County of Essex lying between a point situate at its intersection with the northerly limit of the King’s Highway known as No. 7902 (Ojibway Parkway) and a point situate 365 metres measured easterly from its intersection with the centre line of the King’s Highway known as No. 3 (Huron Church Road). O. Reg. 478/10, s. 1. Schedule 17   HIGHWAY No. 7902 (ojibway parkway)",
+            "raw_html": "<p class=\"section-e\">  1. That part of the King’s Highway known as No. 7087 (E. C. Row Expressway) in the City of Windsor in the County of Essex lying between a point situate at its intersection with the northerly limit of the King’s Highway known as No. 7902 (Ojibway Parkway) and a point situate 365 metres measured easterly from its intersection with the centre line of the King’s Highway known as No. 3 (Huron Church Road).</p> <p class=\"footnote-e\">O. Reg. 478/10, s. 1.</p> <p class=\"headingx-e\">Schedule 17 <br/>  HIGHWAY No. 7902 (ojibway parkway)</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. That part of the King’s Highway known as No. 7902 (Ojibway Parkway) in the City of Windsor in the County of Essex lying between a point situate at its intersection with the northerly limit of the south junction of the roadway known as Broadway Street and a point situate at its intersection with the easterly limit of the Essex Terminal Railway right-of-way. O. Reg. 478/10, s. 1. SCHEDULE 18   HIGHWAY NO. 7042",
+            "raw_html": "<p class=\"section-e\">  1. That part of the King’s Highway known as No. 7902 (Ojibway Parkway) in the City of Windsor in the County of Essex lying between a point situate at its intersection with the northerly limit of the south junction of the roadway known as Broadway Street and a point situate at its intersection with the easterly limit of the Essex Terminal Railway right-of-way.</p> <p class=\"footnote-e\">O. Reg. 478/10, s. 1.</p> <p class=\"headingx-e\">SCHEDULE 18 <br/>  HIGHWAY NO. 7042</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the west side of that part of the King’s Highway known as No. 7042 (Old Wanup Road) in the Township of Dill in the City of Greater Sudbury beginning at a point situate 70 metres measured northerly from its intersection with the centre line of the bridge over the King’s Highway known as No. 69 and extending northerly for a distance of 160 metres. O. Reg. 407/11, s. 1. Schedule 19   HIGHWAY No. 64",
+            "raw_html": "<p class=\"section-e\">  1. On the west side of that part of the King’s Highway known as No. 7042 (Old Wanup Road) in the Township of Dill in the City of Greater Sudbury beginning at a point situate 70 metres measured northerly from its intersection with the centre line of the bridge over the King’s Highway known as No. 69 and extending northerly for a distance of 160 metres.</p> <p class=\"footnote-e\">O. Reg. 407/11, s. 1.</p> <p class=\"headingx-e\">Schedule 19 <br/>  HIGHWAY No. 64</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the south side of that part of the King’s Highway known as No. 64 in the hamlet of Alban in the Municipality of French River in the Territorial District of Sudbury beginning at a point situate 1095 metres measured westerly from its intersection with the centre line of the roadway known as Courchesne Road and extending easterly for a distance of 125 metres.  O. Reg. 410/11, s. 1. Schedule 20   HIGHWAY No. 637",
+            "raw_html": "<p class=\"section-e\">  1. On the south side of that part of the King’s Highway known as No. 64 in the hamlet of Alban in the Municipality of French River in the Territorial District of Sudbury beginning at a point situate 1095 metres measured westerly from its intersection with the centre line of the roadway known as Courchesne Road and extending easterly for a distance of 125 metres. </p> <p class=\"footnote-e\">O. Reg. 410/11, s. 1.</p> <p class=\"headingx-e\">Schedule 20 <br/>  HIGHWAY No. 637</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the north and south sides of that part of the King’s Highway known as No. 637 in the Township of Sale in the Municipality of Killarney in the Territorial District of Sudbury beginning at a point situate at its intersection with the centre line of the Wolf Creek Bridge and extending westerly for a distance of 500 metres. O. Reg. 30/12, s. 1. Schedule 21   Highway No. 7",
+            "raw_html": "<p class=\"section-e\">  1. On the north and south sides of that part of the King’s Highway known as No. 637 in the Township of Sale in the Municipality of Killarney in the Territorial District of Sudbury beginning at a point situate at its intersection with the centre line of the Wolf Creek Bridge and extending westerly for a distance of 500 metres.</p> <p class=\"footnote-e\">O. Reg. 30/12, s. 1.</p> <p class=\"headingx-e\">Schedule 21 <br/>  Highway No. 7</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the south side of that part of the King’s Highway known as No. 7 in the City of Ottawa beginning at a point situate 27 metres measured westerly from its intersection with the centre line of the roadway known as Dwyer Hill Road and extending westerly for a distance of 58 metres.",
+            "raw_html": "<p class=\"section-e\">  1. On the south side of that part of the King’s Highway known as No. 7 in the City of Ottawa beginning at a point situate 27 metres measured westerly from its intersection with the centre line of the roadway known as Dwyer Hill Road and extending westerly for a distance of 58 metres.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. That part of the King’s Highway known as No. 7 in the Town of Halton Hills in The Regional Municipality of Halton beginning at a point situate 164 metres measured northerly from its intersection with the centre line of the roadway known as 22 Side Road and extending southerly for a distance of 464 metres. O. Reg. 188/12, s. 1; O. Reg. 219/14, s. 1. Schedule 22   Highway No. 64",
+            "raw_html": "<p class=\"section-e\">  2. That part of the King’s Highway known as No. 7 in the Town of Halton Hills in The Regional Municipality of Halton beginning at a point situate 164 metres measured northerly from its intersection with the centre line of the roadway known as 22 Side Road and extending southerly for a distance of 464 metres.</p> <p class=\"footnote-e\">O. Reg. 188/12, s. 1; O. Reg. 219/14, s. 1.</p> <p class=\"headingx-e\">Schedule 22 <br/>  Highway No. 64</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the east and west sides of that part of the King’s Highway known as No. 64 in the Township of MacPherson in the Municipality of West Nipissing in the District of Nipissing lying between a point situate at the centre line of the Northwest Bay Bridge and a point situate at its intersection with the centre line of the roadway known as Eglise Road. O. Reg. 295/12, s. 1. Schedule 23   Highway No. 11",
+            "raw_html": "<p class=\"section-e\">  1. On the east and west sides of that part of the King’s Highway known as No. 64 in the Township of MacPherson in the Municipality of West Nipissing in the District of Nipissing lying between a point situate at the centre line of the Northwest Bay Bridge and a point situate at its intersection with the centre line of the roadway known as Eglise Road.</p> <p class=\"footnote-e\">O. Reg. 295/12, s. 1.</p> <p class=\"headingx-e\">Schedule 23 <br/>  Highway No. 11</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the east side of that part of the King’s Highway known as No. 11 in the Town of Gravenhurst in the District Municipality of Muskoka beginning at a point situate 180 metres measured southerly from its intersection with the centre line of the south entrance of the Muskoka Tourism Information Centre and extending northerly for a distance of 560 metres.",
+            "raw_html": "<p class=\"section-e\">  1. On the east side of that part of the King’s Highway known as No. 11 in the Town of Gravenhurst in the District Municipality of Muskoka beginning at a point situate 180 metres measured southerly from its intersection with the centre line of the south entrance of the Muskoka Tourism Information Centre and extending northerly for a distance of 560 metres.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. That part of the King’s Highway known as No. 11 in the Town of Englehart in the Territorial District of Timiskaming beginning at a point situate 110 metres measured southerly from its intersection with the southerly limit of the roadway known as Fourth Avenue and extending northerly for a distance of 315 metres. O. Reg. 394/12, s. 1; O. Reg. 35/19, s. 1. Schedule 24   Highway No. 3",
+            "raw_html": "<p class=\"section-e\">  2. That part of the King’s Highway known as No. 11 in the Town of Englehart in the Territorial District of Timiskaming beginning at a point situate 110 metres measured southerly from its intersection with the southerly limit of the roadway known as Fourth Avenue and extending northerly for a distance of 315 metres.</p> <p class=\"footnote-e\">O. Reg. 394/12, s. 1; O. Reg. 35/19, s. 1.</p> <p class=\"schedule-e\">Schedule 24 <br/>  Highway No. 3</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. That part of the King’s Highway known as No. 3 in the Municipality of Central Elgin in the County of Elgin lying between a point situate 500 metres measured westerly from its intersection with the centre line of the roadway known as Yarmouth Centre Road and a point situate 500 metres measured easterly from its intersection with the centre line of the roadway known as Quaker Road. O. Reg. 190/13, s. 1. schedule 25   highway no. 540",
+            "raw_html": "<p class=\"section-e\">  1. That part of the King’s Highway known as No. 3 in the Municipality of Central Elgin in the County of Elgin lying between a point situate 500 metres measured westerly from its intersection with the centre line of the roadway known as Yarmouth Centre Road and a point situate 500 metres measured easterly from its intersection with the centre line of the roadway known as Quaker Road.</p> <p class=\"footnote-e\">O. Reg. 190/13, s. 1.</p> <p class=\"schedule-e\">schedule 25 <br/>  highway no. 540</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. On the north and south sides of that part of the King’s Highway known as No. 540 in the Territorial District of Manitoulin lying between a point situate 400 metres measured easterly from its intersection with the centre line of the entrance to the Cup and Saucer Trail in the Township of Bidwell and a point situate 400 metres measured westerly from that intersection in the Township of Billings.",
+            "raw_html": "<p class=\"section-e\">  1. On the north and south sides of that part of the King’s Highway known as No. 540 in the Territorial District of Manitoulin lying between a point situate 400 metres measured easterly from its intersection with the centre line of the entrance to the Cup and Saucer Trail in the Township of Bidwell and a point situate 400 metres measured westerly from that intersection in the Township of Billings.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. On the east side of that part of the King’s Highway known as No. 540 in the Township of Billings in the Territorial District of Manitoulin beginning at a point situate 9 metres measured southerly from its intersection with the centre line of the roadway known as Younge Street and extending southerly for a distance of 360 metres.",
+            "raw_html": "<p class=\"section-e\">  2. On the east side of that part of the King’s Highway known as No. 540 in the Township of Billings in the Territorial District of Manitoulin beginning at a point situate 9 metres measured southerly from its intersection with the centre line of the roadway known as Younge Street and extending southerly for a distance of 360 metres.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  3. On the west side of that part of the King’s Highway known as No. 540 in the Township of Billings in the Territorial District of Manitoulin beginning at a point situate 9 metres measured southerly from its intersection with the centre line of the roadway known as Younge Street and extending southerly for a distance of 350 metres. O. Reg. 127/18, s. 1; O. Reg. 243/18, s. 1. APPENDIX B Schedule 1   HIGHWAY NO. 8  Item   Column 1 Highway   Column 2 Limits   Column 3 Period   Column 4 Maximum Period \n\n  1.   Highway No. 8 in the City of Stoney Creek in The Regional Municipality of Hamilton-Wentworth   Between a point situate at its intersection with the roadway known as Green Road and extending easterly for a distance of 230 metres   From 8 a.m. to 4 p.m. Monday to Friday, inclusive   No stopping at any time R.R.O. 1990, Reg. 622, App. B, Sched.1.    ",
+            "raw_html": "<p class=\"section-e\">  3. On the west side of that part of the King’s Highway known as No. 540 in the Township of Billings in the Territorial District of Manitoulin beginning at a point situate 9 metres measured southerly from its intersection with the centre line of the roadway known as Younge Street and extending southerly for a distance of 350 metres.</p> <p class=\"footnote-e\">O. Reg. 127/18, s. 1; O. Reg. 243/18, s. 1.</p> <p class=\"partnum-e\">APPENDIX B</p> <p class=\"headingx-e\">Schedule 1 <br/>  HIGHWAY NO. 8</p> <p class=\"MsoNormal\"> </p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"672\">\n<tr> <td valign=\"top\" width=\"33\"> <p class=\"table-e\">Item</p> </td> <td valign=\"top\" width=\"215\"> <p class=\"table-e\">Column 1</p> <p class=\"table-e\">Highway</p> </td> <td valign=\"top\" width=\"258\"> <p class=\"table-e\">Column 2</p> <p class=\"table-e\">Limits</p> </td> <td valign=\"top\" width=\"83\"> <p class=\"table-e\">Column 3</p> <p class=\"table-e\">Period</p> </td> <td valign=\"top\" width=\"83\"> <p class=\"table-e\">Column 4</p> <p class=\"table-e\">Maximum Period</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"33\"> <p class=\"table-e\">1.</p> </td> <td valign=\"top\" width=\"215\"> <p class=\"table-e\">Highway No. 8 in the City of Stoney Creek in The Regional Municipality of Hamilton-Wentworth</p> </td> <td valign=\"top\" width=\"258\"> <p class=\"table-e\">Between a point situate at its intersection with the roadway known as Green Road and extending easterly for a distance of 230 metres</p> </td> <td valign=\"top\" width=\"83\"> <p class=\"table-e\">From 8 a.m. to 4 p.m. Monday to Friday, inclusive</p> </td> <td valign=\"top\" width=\"83\"> <p class=\"table-e\">No stopping at any time</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">R.R.O. 1990, Reg. 622, App. B, Sched.1.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

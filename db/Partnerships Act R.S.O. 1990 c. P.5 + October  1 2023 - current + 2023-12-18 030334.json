@@ -1,0 +1,623 @@
+{
+    "act_info": {
+        "full_title": "Partnerships Act, R.S.O. 1990, c. P.5",
+        "act_name_text": "Partnerships Act",
+        "citation": "R.S.O. 1990, c. P.5",
+        "url": "https://www.ontario.ca/laws/statute/90p05",
+        "date_scraped": "2023-12-18 03:03:35"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "October  1, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/90p05/v7",
+            "valid_from": "June  8, 2023",
+            "valid_to": "September 30, 2023"
+        },
+        {
+            "a_href": "/laws/statute/90p05/v6",
+            "valid_from": "December 15, 2009",
+            "valid_to": "June  7, 2023"
+        },
+        {
+            "a_href": "/laws/statute/90p05/v5",
+            "valid_from": "August  1, 2007",
+            "valid_to": "December 14, 2009"
+        },
+        {
+            "a_href": "/laws/statute/90p05/v4",
+            "valid_from": "December 20, 2006",
+            "valid_to": "July 31, 2007"
+        },
+        {
+            "a_href": "/laws/statute/90p05/v3",
+            "valid_from": "June 22, 2006",
+            "valid_to": "December 19, 2006"
+        },
+        {
+            "a_href": "/laws/statute/90p05/v2",
+            "valid_from": "March  9, 2005",
+            "valid_to": "June 21, 2006"
+        },
+        {
+            "a_href": "/laws/statute/90p05/v1",
+            "valid_from": "February 15, 2001",
+            "valid_to": "March  8, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Definitions",
+            "content": "1 (1) In this Act, “business” includes every trade, occupation and profession; (“entreprise”) “court” includes every court and judge having jurisdiction in the case; (“tribunal”) “extra-provincial limited liability partnership” means a limited liability partnership formed under the laws of another jurisdiction but does not include an extra-provincial limited partnership within the meaning of the Limited Partnerships Act; (“société à responsabilité limitée extraprovinciale”) “limited liability partnership” means a partnership, other than a limited partnership, that is formed or continued as a limited liability partnership under section 44.1 or that is an extra-provincial limited liability partnership. (“société à responsabilité limitée”)  R.S.O. 1990, c. P.5, s. 1 (1); 1998, c. 2, s. 1. Idem (2) A person is deemed to be “insolvent” within the meaning of this Act if the person is adjudged a bankrupt under the Bankruptcy and Insolvency Act (Canada) or if the person makes an assignment for the general benefit of his or her creditors, and “insolvency” has a meaning corresponding with “insolvent”.  R.S.O. 1990, c. P.5, s. 1 (2). Section Amendments with date in force (d/m/y) 1998, c. 2, s. 1 - 01/07/1998 CTS 02 AU 17 - 2 - 02/08/2017 Nature of Partnership",
+            "raw_html": "<p class=\"section\"><a name=\"BK0\"></a><b>1 </b>(1) In this Act,</p> <p class=\"definition\">“business” includes every trade, occupation and profession; (“entreprise”)</p> <p class=\"definition\">“court” includes every court and judge having jurisdiction in the case; (“tribunal”)</p> <p class=\"definition\">“extra-provincial limited liability partnership” means a limited liability partnership formed under the laws of another jurisdiction but does not include an extra-provincial limited partnership within the meaning of the <i>Limited Partnerships Act</i>; (“société à responsabilité limitée extraprovinciale”)</p> <p class=\"definition\">“limited liability partnership” means a partnership, other than a limited partnership, that is formed or continued as a limited liability partnership under section 44.1 or that is an extra-provincial limited liability partnership. (“société à responsabilité limitée”)  R.S.O. 1990, c. P.5, s. 1 (1); 1998, c. 2, s. 1.</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) A person is deemed to be “insolvent” within the meaning of this Act if the person is adjudged a bankrupt under the <i>Bankruptcy and Insolvency Act</i> (Canada) or if the person makes an assignment for the general benefit of his or her creditors, and “insolvency” has a meaning corresponding with “insolvent”.  R.S.O. 1990, c. P.5, s. 1 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 2, s. 1 - 01/07/1998</p> <p class=\"footnoteLeft\"><a href=\"http://www.ontario.ca/laws/consolidated-statutes-change-notices\">CTS 02 AU 17 - 2</a> - 02/08/2017</p> <p class=\"heading1\"><a name=\"BK1\"></a>Nature of Partnership</p>"
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "Nature of Partnership",
+            "section_x": "Nature of Partnership",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "2.",
+            "section_x": "Partnership",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Partnership",
+            "content": "2 Partnership is the relation that subsists between persons carrying on a business in common with a view to profit, but the relation between the members of a company or association that is incorporated by or under the authority of any special or general Act in force in Ontario or elsewhere, or registered as a corporation under any such Act, is not a partnership within the meaning of this Act.  R.S.O. 1990, c. P.5, s. 2.",
+            "raw_html": "<p class=\"section\"><a name=\"BK2\"></a><b>2 </b>Partnership is the relation that subsists between persons carrying on a business in common with a view to profit, but the relation between the members of a company or association that is incorporated by or under the authority of any special or general Act in force in Ontario or elsewhere, or registered as a corporation under any such Act, is not a partnership within the meaning of this Act.  R.S.O. 1990, c. P.5, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "3.",
+            "section_x": "Rules for determining existence of partnership",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Rules for determining existence of partnership",
+            "content": "3 In determining whether a partnership does or does not exist, regard shall be had to the following rules: 1.  Joint tenancy, tenancy in common, joint property, common property, or part ownership does not of itself create a partnership as to anything so held or owned, whether the tenants or owners do or do not share any profits made by the use thereof. 2.  The sharing of gross returns does not of itself create a partnership, whether the persons sharing such returns have or have not a joint or common right or interest in any property from which or from the use of which the returns are derived. 3.  The receipt by a person of a share of the profits of a business is proof, in the absence of evidence to the contrary, that the person is a partner in the business, but the receipt of such a share or payment, contingent on or varying with the profits of a business, does not of itself make him or her a partner in the business, and in particular, (a)  the receipt by a person of a debt or other liquidated amount by instalments or otherwise out of the accruing profits of a business does not of itself make him or her a partner in the business or liable as such; (b)  a contract for the remuneration of a servant or agent or a person engaged in a business by a share of the profits of the business does not of itself make the servant or agent a partner in the business or liable as such; (c)  a person who, (i)  was married to a deceased partner immediately before the deceased partner died, (ii)  was living with a deceased partner in a conjugal relationship outside marriage immediately before the deceased partner died, or (iii)  is a child of a deceased partner, and who receives by way of annuity a portion of the profits made in the business in which the deceased partner was a partner is not by reason only of such receipt a partner in the business or liable as such; (d)  the advance of money by way of loan to a person engaged or about to engage in a business on a contract with that person that the lender is to receive a rate of interest varying with the profits, or is to receive a share of the profits arising from carrying on the business, does not of itself make the lender a partner with the person or persons carrying on the business or liable as such, provided that the contract is in writing and signed by or on behalf of all parties thereto; (e)  a person receiving by way of annuity or otherwise a portion of the profits of a business in consideration of the sale by him or her of the goodwill of the business, is not by reason only of such receipt a partner in the business or liable as such.  R.S.O. 1990, c. P.5, s. 3; 1999, c. 6, s. 52; 2005, c. 5, s. 55. Section Amendments with date in force (d/m/y) 1999, c. 6, s. 52 - 01/03/2000 2005, c. 5, s. 55\r\n- 09/03/2005",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>3 </b>In determining whether a partnership does or does not exist, regard shall be had to the following rules:</p> <p class=\"paragraph\">  1.  Joint tenancy, tenancy in common, joint property, common property, or part ownership does not of itself create a partnership as to anything so held or owned, whether the tenants or owners do or do not share any profits made by the use thereof.</p> <p class=\"paragraph\">  2.  The sharing of gross returns does not of itself create a partnership, whether the persons sharing such returns have or have not a joint or common right or interest in any property from which or from the use of which the returns are derived.</p> <p class=\"paragraph\">  3.  The receipt by a person of a share of the profits of a business is proof, in the absence of evidence to the contrary, that the person is a partner in the business, but the receipt of such a share or payment, contingent on or varying with the profits of a business, does not of itself make him or her a partner in the business, and in particular,</p> <p class=\"subpara\">  (a)  the receipt by a person of a debt or other liquidated amount by instalments or otherwise out of the accruing profits of a business does not of itself make him or her a partner in the business or liable as such;</p> <p class=\"subpara\">  (b)  a contract for the remuneration of a servant or agent or a person engaged in a business by a share of the profits of the business does not of itself make the servant or agent a partner in the business or liable as such;</p> <p class=\"subpara\">  (c)  a person who,</p> <p class=\"subsubpara\">  (i)  was married to a deceased partner immediately before the deceased partner died,</p> <p class=\"subsubpara\">  (ii)  was living with a deceased partner in a conjugal relationship outside marriage immediately before the deceased partner died, or</p> <p class=\"subsubpara\">  (iii)  is a child of a deceased partner,</p> <p class=\"subpara\">and who receives by way of annuity a portion of the profits made in the business in which the deceased partner was a partner is not by reason only of such receipt a partner in the business or liable as such;</p> <p class=\"subpara\">  (d)  the advance of money by way of loan to a person engaged or about to engage in a business on a contract with that person that the lender is to receive a rate of interest varying with the profits, or is to receive a share of the profits arising from carrying on the business, does not of itself make the lender a partner with the person or persons carrying on the business or liable as such, provided that the contract is in writing and signed by or on behalf of all parties thereto;</p> <p class=\"subpara\">  (e)  a person receiving by way of annuity or otherwise a portion of the profits of a business in consideration of the sale by him or her of the goodwill of the business, is not by reason only of such receipt a partner in the business or liable as such.  R.S.O. 1990, c. P.5, s. 3; 1999, c. 6, s. 52; 2005, c. 5, s. 55.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1999, c. 6, s. 52 - 01/03/2000</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S05005#s55\">2005, c. 5, s. 55</a></span>\r\n- 09/03/2005</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "4.",
+            "section_x": "Insolvency",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Insolvency",
+            "content": "4 In the event of a person to whom money has been advanced by way of loan upon such a contract as is mentioned in section 3, or of a buyer of the goodwill in consideration of a share of the profits of the business, becoming insolvent or entering into an arrangement to pay his or her creditors less than 100 cents on the dollar or dying in insolvent circumstances, the lender of the loan is not entitled to recover anything in respect of the loan, and the seller of the goodwill is not entitled to recover anything in respect of the share of profits contracted for, until the claims of the other creditors of the borrower or buyer, for valuable consideration in money or money’s worth, are satisfied.  R.S.O. 1990, c. P.5, s. 4.",
+            "raw_html": "<p class=\"section\"><a name=\"BK4\"></a><b>4 </b>In the event of a person to whom money has been advanced by way of loan upon such a contract as is mentioned in section 3, or of a buyer of the goodwill in consideration of a share of the profits of the business, becoming insolvent or entering into an arrangement to pay his or her creditors less than 100 cents on the dollar or dying in insolvent circumstances, the lender of the loan is not entitled to recover anything in respect of the loan, and the seller of the goodwill is not entitled to recover anything in respect of the share of profits contracted for, until the claims of the other creditors of the borrower or buyer, for valuable consideration in money or money’s worth, are satisfied.  R.S.O. 1990, c. P.5, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "5.",
+            "section_x": "Meaning of “firm”",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Meaning of “firm”",
+            "content": "5 Persons who have entered into partnership with one another are, for the purposes of this Act, called collectively a firm, and the name under which their business is carried on is called the firm name.  R.S.O. 1990, c. P.5, s. 5. Relation of Partners to Persons Dealing with Them",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>5 </b>Persons who have entered into partnership with one another are, for the purposes of this Act, called collectively a firm, and the name under which their business is carried on is called the firm name.  R.S.O. 1990, c. P.5, s. 5.</p> <p class=\"heading1\"><a name=\"BK6\"></a>Relation of Partners to Persons Dealing with Them</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "Relation of Partners to Persons Dealing with Them",
+            "section_x": "Relation of Partners to Persons Dealing with Them",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "6.",
+            "section_x": "Power of partner to bind firm",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Power of partner to bind firm",
+            "content": "6 Every partner is an agent of the firm and of the other partners for the purpose of the business of the partnership, and the acts of every partner who does any act for carrying on in the usual way business of the kind carried on by the firm of which he or she is a member, bind the firm and the other partners unless the partner so acting has in fact no authority to act for the firm in the particular matter and the person with whom the partner is dealing either knows that the partner has no authority, or does not know or believe him or her to be a partner.  R.S.O. 1990, c. P.5, s. 6.",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>6 </b>Every partner is an agent of the firm and of the other partners for the purpose of the business of the partnership, and the acts of every partner who does any act for carrying on in the usual way business of the kind carried on by the firm of which he or she is a member, bind the firm and the other partners unless the partner so acting has in fact no authority to act for the firm in the particular matter and the person with whom the partner is dealing either knows that the partner has no authority, or does not know or believe him or her to be a partner.  R.S.O. 1990, c. P.5, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "7.",
+            "section_x": "Partners bound by acts on behalf of firm",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Partners bound by acts on behalf of firm",
+            "content": "7 An act or instrument relating to the business of the firm and done or executed in the firm name, or in any other manner showing an intention to bind the firm by a person thereto authorized, whether a partner or not, is binding on the firm and all the partners, but this section does not affect any general rule of law relating to the execution of deeds or negotiable instruments.  R.S.O. 1990, c. P.5, s. 7.",
+            "raw_html": "<p class=\"section\"><a name=\"BK8\"></a><b>7 </b>An act or instrument relating to the business of the firm and done or executed in the firm name, or in any other manner showing an intention to bind the firm by a person thereto authorized, whether a partner or not, is binding on the firm and all the partners, but this section does not affect any general rule of law relating to the execution of deeds or negotiable instruments.  R.S.O. 1990, c. P.5, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "8.",
+            "section_x": "Partner using credit of firm for private purposes",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Partner using credit of firm for private purposes",
+            "content": "8 Where one partner pledges the credit of the firm for a purpose apparently not connected with the firm’s ordinary course of business, the firm is not bound, unless he or she is in fact specially authorized by the other partners, but this section does not affect any personal liability incurred by an individual partner.  R.S.O. 1990, c. P.5, s. 8.",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>8 </b>Where one partner pledges the credit of the firm for a purpose apparently not connected with the firm’s ordinary course of business, the firm is not bound, unless he or she is in fact specially authorized by the other partners, but this section does not affect any personal liability incurred by an individual partner.  R.S.O. 1990, c. P.5, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "9.",
+            "section_x": "Effect of notice that firm not bound by act of partner",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Effect of notice that firm not bound by act of partner",
+            "content": "9 If it is agreed between the partners to restrict the power of any one or more of them to bind the firm, no act done in contravention of the agreement is binding on the firm with respect to persons having notice of the agreement.  R.S.O. 1990, c. P.5, s. 9.",
+            "raw_html": "<p class=\"section\"><a name=\"BK10\"></a><b>9 </b>If it is agreed between the partners to restrict the power of any one or more of them to bind the firm, no act done in contravention of the agreement is binding on the firm with respect to persons having notice of the agreement.  R.S.O. 1990, c. P.5, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "10.",
+            "section_x": "Liability of partners",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Liability of partners",
+            "content": "10 (1) Except as provided in subsection (2), every partner in a firm is liable jointly with the other partners for all debts and obligations of the firm incurred while the person is a partner, and after the partner’s death the partner’s estate is also severally liable in a due course of administration for such debts and obligations so far as they remain unsatisfied, but subject to the prior payment of his or her separate debts.  R.S.O. 1990, c. P.5, s. 10; 1998, c. 2, s. 2 (1). Limited liability partnerships (2) Subject to subsections (3) and (3.1), a partner in a limited liability partnership is not liable, by means of indemnification, contribution or otherwise, for, (a)  the debts, liabilities or obligations of the partnership or any partner arising from the negligent or wrongful acts or omissions that another partner or an employee, agent or representative of the partnership commits in the course of the partnership business while the partnership is a limited liability partnership; or (b)  any other debts or obligations of the partnership that are incurred while the partnership is a limited liability partnership.  2006, c. 34, s. 19. Limitations (3) Subsection (2) does not relieve a partner in a limited liability partnership from liability for, (a)  the partner’s own negligent or wrongful act or omission; (b)  the negligent or wrongful act or omission of a person under the partner’s direct supervision; or (c)  the negligent or wrongful act or omission of another partner or an employee of the partnership not under the partner’s direct supervision, if, (i)  the act or omission was criminal or constituted fraud, even if there was no criminal act or omission, or (ii)  the partner knew or ought to have known of the act or omission and did not take the actions that a reasonable person would have taken to prevent it.  2006, c. 34, s. 19. Same (3.1) Subsection (2) does not protect a partner’s interest in the partnership property from claims against the partnership respecting a partnership obligation.  2006, c. 34, s. 19. Partner not proper party to action (4) A partner in a limited liability partnership is not a proper party to a proceeding by or against the limited liability partnership for the purpose of recovering damages or enforcing obligations arising out of the negligent acts or omissions described in subsection (2).  1998, c. 2, s. 2 (2). Extra-provincial limited liability partnerships (5) This section does not apply to an extra-provincial limited liability partnership.  1998, c. 2, s. 2 (2). Section Amendments with date in force (d/m/y) 1998, c. 2, s. 2 (1, 2) - 01/07/1998 2006, c. 34, s. 19\r\n- 01/08/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>10 </b>(1) Except as provided in subsection (2), every partner in a firm is liable jointly with the other partners for all debts and obligations of the firm incurred while the person is a partner, and after the partner’s death the partner’s estate is also severally liable in a due course of administration for such debts and obligations so far as they remain unsatisfied, but subject to the prior payment of his or her separate debts.  R.S.O. 1990, c. P.5, s. 10; 1998, c. 2, s. 2 (1).</p> <p class=\"headnote\">Limited liability partnerships</p> <p class=\"subsection\">(2) Subject to subsections (3) and (3.1), a partner in a limited liability partnership is not liable, by means of indemnification, contribution or otherwise, for,</p> <p class=\"paragraph\">  (a)  the debts, liabilities or obligations of the partnership or any partner arising from the negligent or wrongful acts or omissions that another partner or an employee, agent or representative of the partnership commits in the course of the partnership business while the partnership is a limited liability partnership; or</p> <p class=\"paragraph\">  (b)  any other debts or obligations of the partnership that are incurred while the partnership is a limited liability partnership.  2006, c. 34, s. 19.</p> <p class=\"headnote\">Limitations</p> <p class=\"subsection\">(3) Subsection (2) does not relieve a partner in a limited liability partnership from liability for,</p> <p class=\"paragraph\">  (a)  the partner’s own negligent or wrongful act or omission;</p> <p class=\"paragraph\">  (b)  the negligent or wrongful act or omission of a person under the partner’s direct supervision; or</p> <p class=\"paragraph\">  (c)  the negligent or wrongful act or omission of another partner or an employee of the partnership not under the partner’s direct supervision, if,</p> <p class=\"subclause\">  (i)  the act or omission was criminal or constituted fraud, even if there was no criminal act or omission, or</p> <p class=\"subclause\">  (ii)  the partner knew or ought to have known of the act or omission and did not take the actions that a reasonable person would have taken to prevent it.  2006, c. 34, s. 19.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3.1) Subsection (2) does not protect a partner’s interest in the partnership property from claims against the partnership respecting a partnership obligation.  2006, c. 34, s. 19.</p> <p class=\"headnote\">Partner not proper party to action</p> <p class=\"subsection\">(4) A partner in a limited liability partnership is not a proper party to a proceeding by or against the limited liability partnership for the purpose of recovering damages or enforcing obligations arising out of the negligent acts or omissions described in subsection (2).  1998, c. 2, s. 2 (2).</p> <p class=\"headnote\">Extra-provincial limited liability partnerships</p> <p class=\"subsection\">(5) This section does not apply to an extra-provincial limited liability partnership.  1998, c. 2, s. 2 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 2, s. 2 (1, 2) - 01/07/1998</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06034#s19\">2006, c. 34, s. 19</a></span>\r\n- 01/08/2007</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "11.",
+            "section_x": "Liability of firm for wrongs",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Liability of firm for wrongs",
+            "content": "11 Where by any wrongful act or omission of a partner acting in the ordinary course of the business of the firm, or with the authority of the co-partners, loss or injury is caused to a person not being a partner of the firm, or any penalty is incurred, the firm is liable therefor to the same extent as the partner so acting or omitting to act.  R.S.O. 1990, c. P.5, s. 11.",
+            "raw_html": "<p class=\"section\"><a name=\"BK12\"></a><b>11 </b>Where by any wrongful act or omission of a partner acting in the ordinary course of the business of the firm, or with the authority of the co-partners, loss or injury is caused to a person not being a partner of the firm, or any penalty is incurred, the firm is liable therefor to the same extent as the partner so acting or omitting to act.  R.S.O. 1990, c. P.5, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "12.",
+            "section_x": "Misapplication of money or property received for or in custody of the firm",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Misapplication of money or property received for or in custody of the firm",
+            "content": "12 In the following cases, namely, (a)  where one partner, acting within the scope of the partner’s apparent authority, receives the money or property of a third person and misapplies it; and (b)  where a firm in the course of its business receives money or property of a third person, and the money or property so received is misapplied by one or more of the partners while it is in the custody of the firm, the firm is liable to make good the loss.  R.S.O. 1990, c. P.5, s. 12.",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>12 </b>In the following cases, namely,</p> <p class=\"paragraph\">  (a)  where one partner, acting within the scope of the partner’s apparent authority, receives the money or property of a third person and misapplies it; and</p> <p class=\"paragraph\">  (b)  where a firm in the course of its business receives money or property of a third person, and the money or property so received is misapplied by one or more of the partners while it is in the custody of the firm,</p> <p class=\"section\">the firm is liable to make good the loss.  R.S.O. 1990, c. P.5, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "13.",
+            "section_x": "Liability for wrongs joint and several",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Liability for wrongs joint and several",
+            "content": "13 Except as provided in subsection 10 (2), every partner is liable jointly with the co-partners and also severally for everything for which the firm, while the person is a partner therein, becomes liable under section 11 or 12.  R.S.O. 1990, c. P.5, s. 13; 1998, c. 2, s. 3. Section Amendments with date in force (d/m/y) 1998, c. 2, s. 3 - 01/07/1998",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>13 </b>Except as provided in subsection 10 (2), every partner is liable jointly with the co-partners and also severally for everything for which the firm, while the person is a partner therein, becomes liable under section 11 or 12.  R.S.O. 1990, c. P.5, s. 13; 1998, c. 2, s. 3.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 2, s. 3 - 01/07/1998</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "14.",
+            "section_x": "Improper employment of trust property for partnership purposes",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Improper employment of trust property for partnership purposes",
+            "content": "14 If a partner, being a trustee, improperly employs trust property in the business or on the account of the partnership, no other partner is liable for the trust property to the persons beneficially interested therein, but, (a)  this section does not affect any liability incurred by any partner by reason of the partner having notice of a breach of trust; and (b)  nothing in this section prevents trust money from being followed and recovered from the firm if still in its possession or under its control.  R.S.O. 1990, c. P.5, s. 14.",
+            "raw_html": "<p class=\"section\"><a name=\"BK15\"></a><b>14 </b>If a partner, being a trustee, improperly employs trust property in the business or on the account of the partnership, no other partner is liable for the trust property to the persons beneficially interested therein, but,</p> <p class=\"paragraph\">  (a)  this section does not affect any liability incurred by any partner by reason of the partner having notice of a breach of trust; and</p> <p class=\"paragraph\">  (b)  nothing in this section prevents trust money from being followed and recovered from the firm if still in its possession or under its control.  R.S.O. 1990, c. P.5, s. 14.</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "15.",
+            "section_x": "Persons liable by “holding out”",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Persons liable by “holding out”",
+            "content": "15 (1) Every person, who by words spoken or written or by conduct represents himself or herself or who knowingly suffers himself or herself to be represented as a partner in a particular firm, is liable as a partner to any person who has on the faith of any such representation given credit to the firm, whether the representation has or has not been made or communicated to the persons so giving credit by or with the knowledge of the apparent partner making the representation or suffering it to be made.  R.S.O. 1990, c. P.5, s. 15 (1). Continuing business after death of partner (2) Where after a partner’s death the partnership business is continued in the old firm name, the continued use of that name or of the deceased partner’s name as part thereof does not of itself make his or her executor’s or administrator’s estate or effects liable for any partnership debts contracted after his or her death.  R.S.O. 1990, c. P.5, s. 15 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK16\"></a><b>15 </b>(1) Every person, who by words spoken or written or by conduct represents himself or herself or who knowingly suffers himself or herself to be represented as a partner in a particular firm, is liable as a partner to any person who has on the faith of any such representation given credit to the firm, whether the representation has or has not been made or communicated to the persons so giving credit by or with the knowledge of the apparent partner making the representation or suffering it to be made.  R.S.O. 1990, c. P.5, s. 15 (1).</p> <p class=\"headnote\">Continuing business after death of partner</p> <p class=\"subsection\">(2) Where after a partner’s death the partnership business is continued in the old firm name, the continued use of that name or of the deceased partner’s name as part thereof does not of itself make his or her executor’s or administrator’s estate or effects liable for any partnership debts contracted after his or her death.  R.S.O. 1990, c. P.5, s. 15 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "16.",
+            "section_x": "Admissions and representations of partners",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Admissions and representations of partners",
+            "content": "16 An admission or representation made by a partner concerning the partnership affairs and in the ordinary course of its business is evidence against the firm.  R.S.O. 1990, c. P.5, s. 16.",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>16 </b>An admission or representation made by a partner concerning the partnership affairs and in the ordinary course of its business is evidence against the firm.  R.S.O. 1990, c. P.5, s. 16.</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "17.",
+            "section_x": "Notice to acting partner to be notice to the firm",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Notice to acting partner to be notice to the firm",
+            "content": "17 Notice to a partner who habitually acts in the partnership business of any matter relating to partnership affairs operates as notice to the firm, except in the case of a fraud on the firm committed by or with the consent of that partner.  R.S.O. 1990, c. P.5, s. 17.",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>17 </b>Notice to a partner who habitually acts in the partnership business of any matter relating to partnership affairs operates as notice to the firm, except in the case of a fraud on the firm committed by or with the consent of that partner.  R.S.O. 1990, c. P.5, s. 17.</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "18.",
+            "section_x": "Liability commences with admission to firm",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Liability commences with admission to firm",
+            "content": "18 (1) A person who is admitted as a partner into an existing firm does not thereby become liable to the creditors of the firm for anything done before the person became a partner.  R.S.O. 1990, c. P.5, s. 18 (1). Liability for debts, etc., incurred before retirement (2) A partner who retires from a firm does not thereby cease to be liable for partnership debts or obligations incurred before the partner’s retirement.  R.S.O. 1990, c. P.5, s. 18 (2). Agreement discharging retiring partner (3) A retiring partner may be discharged from any existing liabilities by an agreement to that effect between the partner and the members of the firm as newly constituted and the creditors, and this agreement may be either express or inferred as a fact from the course of dealing between the creditors and the firm as newly constituted.  R.S.O. 1990, c. P.5, s. 18 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>18 </b>(1) A person who is admitted as a partner into an existing firm does not thereby become liable to the creditors of the firm for anything done before the person became a partner.  R.S.O. 1990, c. P.5, s. 18 (1).</p> <p class=\"headnote\">Liability for debts, etc., incurred before retirement</p> <p class=\"subsection\">(2) A partner who retires from a firm does not thereby cease to be liable for partnership debts or obligations incurred before the partner’s retirement.  R.S.O. 1990, c. P.5, s. 18 (2).</p> <p class=\"headnote\">Agreement discharging retiring partner</p> <p class=\"subsection\">(3) A retiring partner may be discharged from any existing liabilities by an agreement to that effect between the partner and the members of the firm as newly constituted and the creditors, and this agreement may be either express or inferred as a fact from the course of dealing between the creditors and the firm as newly constituted.  R.S.O. 1990, c. P.5, s. 18 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "19.",
+            "section_x": "Revocation of continuing guaranty by change in firm",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Revocation of continuing guaranty by change in firm",
+            "content": "19 A continuing guaranty or cautionary obligation given either to a firm or to a third person in respect of the transactions of a firm is, in the absence of agreement to the contrary, revoked as to future transactions by any change in the constitution of the firm to which, or of the firm in respect of the transaction of which, the guaranty or obligation was given.  R.S.O. 1990, c. P.5, s. 19. Relation of Partners to One Another",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>19 </b>A continuing guaranty or cautionary obligation given either to a firm or to a third person in respect of the transactions of a firm is, in the absence of agreement to the contrary, revoked as to future transactions by any change in the constitution of the firm to which, or of the firm in respect of the transaction of which, the guaranty or obligation was given.  R.S.O. 1990, c. P.5, s. 19.</p> <p class=\"heading1\"><a name=\"BK21\"></a>Relation of Partners to One Another</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "Relation of Partners to One Another",
+            "section_x": "Relation of Partners to One Another",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "20.",
+            "section_x": "Variation by consent of terms of partnership",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Variation by consent of terms of partnership",
+            "content": "20 The mutual rights and duties of partners, whether ascertained by agreement or defined by this Act, may be varied by the consent of all the partners, and such consent may be either expressed or inferred from a course of dealing.  R.S.O. 1990, c. P.5, s. 20.",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>20 </b>The mutual rights and duties of partners, whether ascertained by agreement or defined by this Act, may be varied by the consent of all the partners, and such consent may be either expressed or inferred from a course of dealing.  R.S.O. 1990, c. P.5, s. 20.</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "21.",
+            "section_x": "Partnership property",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Partnership property",
+            "content": "21 (1) All property and rights and interests in property originally brought into the partnership stock or acquired, whether by purchase or otherwise, on account of the firm, or for the purposes and in the course of the partnership business, are called in this Act “partnership property”, and must be held and applied by the partners exclusively for the purposes of the partnership and in accordance with the partnership agreement.  R.S.O. 1990, c. P.5, s. 21 (1). Devolution of land (2) The legal estate or interest in land that belongs to a partnership devolves according to the nature and tenure thereof and the general rules of law thereto applicable, but in trust, so far as necessary, for the persons beneficially interested in the land under this section.  R.S.O. 1990, c. P.5, s. 21 (2). Co-owners of land (3) Where co-owners of an estate or interest in land, not being itself partnership property, are partners as to profits made by the use of that land or estate, and purchase other land or estate out of the profits to be used in like manner, the land or estate so purchased belongs to them, in the absence of an agreement to the contrary, not as partners, but as co-owners for the same respective estates and interests as are held by them in the land or estate first mentioned at the date of purchase.  R.S.O. 1990, c. P.5, s. 21 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>21 </b>(1) All property and rights and interests in property originally brought into the partnership stock or acquired, whether by purchase or otherwise, on account of the firm, or for the purposes and in the course of the partnership business, are called in this Act “partnership property”, and must be held and applied by the partners exclusively for the purposes of the partnership and in accordance with the partnership agreement.  R.S.O. 1990, c. P.5, s. 21 (1).</p> <p class=\"headnote\">Devolution of land</p> <p class=\"subsection\">(2) The legal estate or interest in land that belongs to a partnership devolves according to the nature and tenure thereof and the general rules of law thereto applicable, but in trust, so far as necessary, for the persons beneficially interested in the land under this section.  R.S.O. 1990, c. P.5, s. 21 (2).</p> <p class=\"headnote\">Co-owners of land</p> <p class=\"subsection\">(3) Where co-owners of an estate or interest in land, not being itself partnership property, are partners as to profits made by the use of that land or estate, and purchase other land or estate out of the profits to be used in like manner, the land or estate so purchased belongs to them, in the absence of an agreement to the contrary, not as partners, but as co-owners for the same respective estates and interests as are held by them in the land or estate first mentioned at the date of purchase.  R.S.O. 1990, c. P.5, s. 21 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "22.",
+            "section_x": "Property bought with partnership money",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Property bought with partnership money",
+            "content": "22 Unless the contrary intention appears, property bought with money belonging to the firm shall be deemed to have been bought on the account of the firm.  R.S.O. 1990, c. P.5, s. 22.",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>22 </b>Unless the contrary intention appears, property bought with money belonging to the firm shall be deemed to have been bought on the account of the firm.  R.S.O. 1990, c. P.5, s. 22.</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "23.",
+            "section_x": "Conversion of land bought with partnership money into personalty",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Conversion of land bought with partnership money into personalty",
+            "content": "23 Where land or any heritable interest therein becomes partnership property, unless the contrary intention appears, it is to be treated as between the partners, including the representatives of a deceased partner, and also as between the heirs of a deceased partner and his or her executors or administrators as personal or movable and not real or heritable estate.  R.S.O. 1990, c. P.5, s. 23.",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>23 </b>Where land or any heritable interest therein becomes partnership property, unless the contrary intention appears, it is to be treated as between the partners, including the representatives of a deceased partner, and also as between the heirs of a deceased partner and his or her executors or administrators as personal or movable and not real or heritable estate.  R.S.O. 1990, c. P.5, s. 23.</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "24.",
+            "section_x": "Rules as to interests and duties of partners",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Rules as to interests and duties of partners",
+            "content": "24 The interests of partners in the partnership property and their rights and duties in relation to the partnership shall be determined, subject to any agreement express or implied between the partners, by the following rules: 1.  All the partners are entitled to share equally in the capital and profits of the business, and must contribute equally towards the losses, whether of capital or otherwise, sustained by the firm, but a partner shall not be liable to contribute toward losses arising from a liability for which the partner is not liable under subsection 10 (2). 2.  The firm must indemnify every partner in respect of payments made and personal liabilities incurred by him or her, (a)  in the ordinary and proper conduct of the business of the firm; or (b)  in or about anything necessarily done for the preservation of the business or property of the firm. 2.1  A partner is not required to indemnify the firm or other partners in respect of debts or obligations of the partnership for which a partner is not liable under subsection 10 (2). 3.  A partner making, for the purpose of the partnership, any actual payment or advance beyond the amount of capital that he or she has agreed to subscribe is entitled to interest at the rate of 5 per cent per annum from the date of the payment or advance. 4.  A partner is not entitled, before the ascertainment of profits, to interest on the capital subscribed by the partner. 5.  Every partner may take part in the management of the partnership business. 6.  No partner is entitled to remuneration for acting in the partnership business. 7.  No person may be introduced as a partner without the consent of all existing partners. 8.  Any difference arising as to ordinary matters connected with the partnership business may be decided by a majority of the partners, but no change may be made in the nature of the partnership business without the consent of all existing partners. 9.  The partnership books are to be kept at the place of business of the partnership, or the principal place, if there is more than one, and every partner may, when he or she thinks fit, have access to and inspect and copy any of them.  R.S.O. 1990, c. P.5, s. 24; 1998, c. 2, s. 4 . Inspection by remote means (2) Subject to any agreement express or implied between the partners, the firm may, but is not required to, permit a partner to inspect the partnership books mentioned in paragraph 9 of subsection (1) remotely at any time by means of any technology and may also permit the person to make copies by such means. 2023, c. 9, Sched. 26, s. 1. Regulations (3) The Minister may make regulations governing inspections of the partnership books. 2023, c. 9, Sched. 26, s. 1. Definition (4) In this section, “Minister” means the member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act. 2023, c. 9, Sched. 26, s. 1. Section Amendments with date in force (d/m/y) 1998, c. 2, s. 4 (1, 2) - 01/07/1998 2023, c. 9, Sched. 26, s. 1 - 01/10/2023",
+            "raw_html": "<p class=\"section\"><a name=\"BK26\"></a><b>24 </b>The interests of partners in the partnership property and their rights and duties in relation to the partnership shall be determined, subject to any agreement express or implied between the partners, by the following rules:</p> <p class=\"paragraph\">  1.  All the partners are entitled to share equally in the capital and profits of the business, and must contribute equally towards the losses, whether of capital or otherwise, sustained by the firm, but a partner shall not be liable to contribute toward losses arising from a liability for which the partner is not liable under subsection 10 (2).</p> <p class=\"paragraph\">  2.  The firm must indemnify every partner in respect of payments made and personal liabilities incurred by him or her,</p> <p class=\"subpara\">  (a)  in the ordinary and proper conduct of the business of the firm; or</p> <p class=\"subpara\">  (b)  in or about anything necessarily done for the preservation of the business or property of the firm.</p> <p class=\"paragraph\">  2.1  A partner is not required to indemnify the firm or other partners in respect of debts or obligations of the partnership for which a partner is not liable under subsection 10 (2).</p> <p class=\"paragraph\">  3.  A partner making, for the purpose of the partnership, any actual payment or advance beyond the amount of capital that he or she has agreed to subscribe is entitled to interest at the rate of 5 per cent per annum from the date of the payment or advance.</p> <p class=\"paragraph\">  4.  A partner is not entitled, before the ascertainment of profits, to interest on the capital subscribed by the partner.</p> <p class=\"paragraph\">  5.  Every partner may take part in the management of the partnership business.</p> <p class=\"paragraph\">  6.  No partner is entitled to remuneration for acting in the partnership business.</p> <p class=\"paragraph\">  7.  No person may be introduced as a partner without the consent of all existing partners.</p> <p class=\"paragraph\">  8.  Any difference arising as to ordinary matters connected with the partnership business may be decided by a majority of the partners, but no change may be made in the nature of the partnership business without the consent of all existing partners.</p> <p class=\"paragraph\">  9.  The partnership books are to be kept at the place of business of the partnership, or the principal place, if there is more than one, and every partner may, when he or she thinks fit, have access to and inspect and copy any of them.  R.S.O. 1990, c. P.5, s. 24; 1998, c. 2, s. 4 .</p> <p class=\"headnote\">Inspection by remote means</p> <p class=\"subsection\">(2) Subject to any agreement express or implied between the partners, the firm<b> </b>may, but is not required to, permit a partner to inspect the partnership books mentioned in paragraph 9 of subsection (1) remotely at any time by means of any technology and may also permit the person to make copies by such means. 2023, c. 9, Sched. 26, s. 1.</p> <p class=\"headnote\">Regulations</p> <p class=\"subsection\">(3) The Minister may make regulations governing inspections of the partnership books. 2023, c. 9, Sched. 26, s. 1.</p> <p class=\"headnote\">Definition</p> <p class=\"subsection\">(4) In this section,</p> <p class=\"definition\">“Minister” means the member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the <i>Executive Council Act</i>. 2023, c. 9, Sched. 26, s. 1.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 2, s. 4 (1, 2) - 01/07/1998</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23009#sched26s1\">2023, c. 9, Sched. 26, s. 1</a></span> - 01/10/2023</p>"
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "25.",
+            "section_x": "Expulsion of partner",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Expulsion of partner",
+            "content": "25 No majority of the partners can expel any partner unless a power to do so has been conferred by express agreement between the partners.  R.S.O. 1990, c. P.5, s. 25.",
+            "raw_html": "<p class=\"section\"><a name=\"BK27\"></a><b>25 </b>No majority of the partners can expel any partner unless a power to do so has been conferred by express agreement between the partners.  R.S.O. 1990, c. P.5, s. 25.</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "26.",
+            "section_x": "Retirement from partnership at will",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Retirement from partnership at will",
+            "content": "26 (1) Where no fixed term is agreed upon for the duration of the partnership, any partner may determine the partnership at any time on giving notice of his or her intention to do so to all the other partners.  R.S.O. 1990, c. P.5, s. 26 (1). Notice of retirement (2) Where the partnership was originally constituted by deed, a notice in writing, signed by the partner giving it, is sufficient for that purpose.  R.S.O. 1990, c. P.5, s. 26 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK28\"></a><b>26 </b>(1) Where no fixed term is agreed upon for the duration of the partnership, any partner may determine the partnership at any time on giving notice of his or her intention to do so to all the other partners.  R.S.O. 1990, c. P.5, s. 26 (1).</p> <p class=\"headnote\">Notice of retirement</p> <p class=\"subsection\">(2) Where the partnership was originally constituted by deed, a notice in writing, signed by the partner giving it, is sufficient for that purpose.  R.S.O. 1990, c. P.5, s. 26 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "27.",
+            "section_x": "Presumption of continuance after expiry of term",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Presumption of continuance after expiry of term",
+            "content": "27 (1) Where a partnership entered into for a fixed term is continued after the term has expired and without any express new agreement, the rights and duties of the partners remain the same as they were at the expiration of the term, so far as is consistent with the incidents of a partnership at will.  R.S.O. 1990, c. P.5, s. 27 (1). Arises from continuance of business (2) A continuance of the business by the partners or such of them as habitually acted therein during the term without any settlement or liquidation of the partnership affairs shall be presumed to be a continuance of the partnership.  R.S.O. 1990, c. P.5, s. 27 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>27 </b>(1) Where a partnership entered into for a fixed term is continued after the term has expired and without any express new agreement, the rights and duties of the partners remain the same as they were at the expiration of the term, so far as is consistent with the incidents of a partnership at will.  R.S.O. 1990, c. P.5, s. 27 (1).</p> <p class=\"headnote\">Arises from continuance of business</p> <p class=\"subsection\">(2) A continuance of the business by the partners or such of them as habitually acted therein during the term without any settlement or liquidation of the partnership affairs shall be presumed to be a continuance of the partnership.  R.S.O. 1990, c. P.5, s. 27 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "28.",
+            "section_x": "Duty as to rendering accounts",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Duty as to rendering accounts",
+            "content": "28 Partners are bound to render true accounts and full information of all things affecting the partnership to any partner or the partner’s legal representatives.  R.S.O. 1990, c. P.5, s. 28.",
+            "raw_html": "<p class=\"section\"><a name=\"BK30\"></a><b>28 </b>Partners are bound to render true accounts and full information of all things affecting the partnership to any partner or the partner’s legal representatives.  R.S.O. 1990, c. P.5, s. 28.</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "29.",
+            "section_x": "Accountability for private profits",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Accountability for private profits",
+            "content": "29 (1) Every partner must account to the firm for any benefit derived by the partner without the consent of the other partners from any transaction concerning the partnership or from any use by the partner of the partnership property, name or business connection.  R.S.O. 1990, c. P.5, s. 29 (1). Extends to survivors and representatives of deceased (2) This section applies also to transactions undertaken after a partnership has been dissolved by the death of a partner and before its affairs have been completely wound up, either by a surviving partner or by the representatives of the deceased partner.  R.S.O. 1990, c. P.5, s. 29 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK31\"></a><b>29 </b>(1) Every partner must account to the firm for any benefit derived by the partner without the consent of the other partners from any transaction concerning the partnership or from any use by the partner of the partnership property, name or business connection.  R.S.O. 1990, c. P.5, s. 29 (1).</p> <p class=\"headnote\">Extends to survivors and representatives of deceased</p> <p class=\"subsection\">(2) This section applies also to transactions undertaken after a partnership has been dissolved by the death of a partner and before its affairs have been completely wound up, either by a surviving partner or by the representatives of the deceased partner.  R.S.O. 1990, c. P.5, s. 29 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "30.",
+            "section_x": "Duty of partner not to compete with firm",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Duty of partner not to compete with firm",
+            "content": "30 If a partner, without the consent of the other partners, carries on a business of the same nature as and competing with that of the firm, the partner must account for and pay over to the firm all profits made by the partner in that business.  R.S.O. 1990, c. P.5, s. 30.",
+            "raw_html": "<p class=\"section\"><a name=\"BK32\"></a><b>30 </b>If a partner, without the consent of the other partners, carries on a business of the same nature as and competing with that of the firm, the partner must account for and pay over to the firm all profits made by the partner in that business.  R.S.O. 1990, c. P.5, s. 30.</p>"
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "31.",
+            "section_x": "Rights of assignee of share in partnership",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Rights of assignee of share in partnership",
+            "content": "31 (1) An assignment by a partner of the partner’s share in the partnership, either absolute or by way of mortgage or redeemable charge, does not, as against the other partners, entitle the assignee, during the continuance of the partnership, to interfere in the management or administration of the partnership business or affairs, or to require any accounts of the partnership transactions, or to inspect the partnership books, but entitles the assignee only to receive the share of profits to which the assigning partner would otherwise be entitled, and the assignee must accept the account of profits agreed to by the partners.  R.S.O. 1990, c. P.5, s. 31 (1). On dissolution (2) In the case of a dissolution of the partnership, whether as respects all the partners or as respects the assigning partner, the assignee is entitled to receive the share of the partnership assets to which the assigning partner is entitled as between the assigning partner and the other partners, and, for the purpose of ascertaining that share, to an account as from the date of the dissolution.  R.S.O. 1990, c. P.5, s. 31 (2). Dissolution of Partnership",
+            "raw_html": "<p class=\"section\"><a name=\"BK33\"></a><b>31 </b>(1) An assignment by a partner of the partner’s share in the partnership, either absolute or by way of mortgage or redeemable charge, does not, as against the other partners, entitle the assignee, during the continuance of the partnership, to interfere in the management or administration of the partnership business or affairs, or to require any accounts of the partnership transactions, or to inspect the partnership books, but entitles the assignee only to receive the share of profits to which the assigning partner would otherwise be entitled, and the assignee must accept the account of profits agreed to by the partners.  R.S.O. 1990, c. P.5, s. 31 (1).</p> <p class=\"headnote\">On dissolution</p> <p class=\"subsection\">(2) In the case of a dissolution of the partnership, whether as respects all the partners or as respects the assigning partner, the assignee is entitled to receive the share of the partnership assets to which the assigning partner is entitled as between the assigning partner and the other partners, and, for the purpose of ascertaining that share, to an account as from the date of the dissolution.  R.S.O. 1990, c. P.5, s. 31 (2).</p> <p class=\"heading1\"><a name=\"BK34\"></a>Dissolution of Partnership</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "Dissolution of Partnership",
+            "section_x": "Dissolution of Partnership",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "32.",
+            "section_x": "Dissolution by expiry of term or notice",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Dissolution by expiry of term or notice",
+            "content": "32 Subject to any agreement between the partners, a partnership is dissolved, (a)  if entered into for a fixed term, by the expiration of that term; (b)  if entered into for a single adventure or undertaking, by the termination of that adventure or undertaking; or (c)  if entered into for an undefined time, by a partner giving notice to the other or others of his or her intention to dissolve the partnership, in which case the partnership is dissolved as from the date mentioned in the notice as the date of dissolution, or, if no date is so mentioned, as from the date of the communication of the notice.  R.S.O. 1990, c. P.5, s. 32.",
+            "raw_html": "<p class=\"section\"><a name=\"BK35\"></a><b>32 </b>Subject to any agreement between the partners, a partnership is dissolved,</p> <p class=\"paragraph\">  (a)  if entered into for a fixed term, by the expiration of that term;</p> <p class=\"paragraph\">  (b)  if entered into for a single adventure or undertaking, by the termination of that adventure or undertaking; or</p> <p class=\"paragraph\">  (c)  if entered into for an undefined time, by a partner giving notice to the other or others of his or her intention to dissolve the partnership, in which case the partnership is dissolved as from the date mentioned in the notice as the date of dissolution, or, if no date is so mentioned, as from the date of the communication of the notice.  R.S.O. 1990, c. P.5, s. 32.</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "33.",
+            "section_x": "Dissolution by death or insolvency of partner",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Dissolution by death or insolvency of partner",
+            "content": "33 (1) Subject to any agreement between the partners, every partnership is dissolved as regards all the partners by the death or insolvency of a partner.  R.S.O. 1990, c. P.5, s. 33 (1). Where partner’s share charged for separate debt (2) A partnership may, at the option of the other partners, be dissolved if any partner suffers that partner’s share of the partnership property to be charged under this Act for that partner’s separate debt.  R.S.O. 1990, c. P.5, s. 33 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK36\"></a><b>33 </b>(1) Subject to any agreement between the partners, every partnership is dissolved as regards all the partners by the death or insolvency of a partner.  R.S.O. 1990, c. P.5, s. 33 (1).</p> <p class=\"headnote\">Where partner’s share charged for separate debt</p> <p class=\"subsection\">(2) A partnership may, at the option of the other partners, be dissolved if any partner suffers that partner’s share of the partnership property to be charged under this Act for that partner’s separate debt.  R.S.O. 1990, c. P.5, s. 33 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "34.",
+            "section_x": "By illegality of business",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "By illegality of business",
+            "content": "34 A partnership is in every case dissolved by the happening of any event that makes it unlawful for the business of the firm to be carried on or for the members of the firm to carry it on in partnership.  R.S.O. 1990, c. P.5, s. 34.",
+            "raw_html": "<p class=\"section\"><a name=\"BK37\"></a><b>34 </b>A partnership is in every case dissolved by the happening of any event that makes it unlawful for the business of the firm to be carried on or for the members of the firm to carry it on in partnership.  R.S.O. 1990, c. P.5, s. 34.</p>"
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "35.",
+            "section_x": "By the court",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "By the court",
+            "content": "35 (1) On application by a partner, the court may order a dissolution of the partnership, (a)  when a partner is found to be incapable as defined in the Substitute Decisions Act, 1992; (b)  when a partner, other than the partner suing, becomes in any other way permanently incapable of performing the partner’s part of the partnership contract; (c)  when a partner, other than the partner suing, has been guilty of such conduct as, in the opinion of the court, regard being had to the nature of the business, is calculated to prejudicially affect the carrying on of the business; (d)  when a partner, other than the partner suing, wilfully or persistently commits a breach of the partnership agreement, or otherwise so conducts himself or herself in matters relating to the partnership business that it is not reasonably practicable for the other partner or partners to carry on the business in partnership with the partner; (e)  when the business of the partnership can only be carried on at a loss; or (f)  when in any case circumstances have arisen that in the opinion of the court render it just and equitable that the partnership be dissolved.  R.S.O. 1990, c. P.5, s. 35; 2009, c. 33, Sched. 2, s. 57 (1). Application where incapacity (2) In the case of an application under clause (1) (a), the application may be made by the litigation guardian of the partner found to be incapable, on the partner’s behalf.  2009, c. 33, Sched. 2, s. 57 (2). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 2, s. 57 (1, 2) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK38\"></a><b>35 </b>(1) On application by a partner, the court may order a dissolution of the partnership,</p> <p class=\"paragraph\">  (a)  when a partner is found to be incapable as defined in the <i>Substitute Decisions Act, 1992</i>;</p> <p class=\"paragraph\">  (b)  when a partner, other than the partner suing, becomes in any other way permanently incapable of performing the partner’s part of the partnership contract;</p> <p class=\"paragraph\">  (c)  when a partner, other than the partner suing, has been guilty of such conduct as, in the opinion of the court, regard being had to the nature of the business, is calculated to prejudicially affect the carrying on of the business;</p> <p class=\"paragraph\">  (d)  when a partner, other than the partner suing, wilfully or persistently commits a breach of the partnership agreement, or otherwise so conducts himself or herself in matters relating to the partnership business that it is not reasonably practicable for the other partner or partners to carry on the business in partnership with the partner;</p> <p class=\"paragraph\">  (e)  when the business of the partnership can only be carried on at a loss; or</p> <p class=\"paragraph\">  (f)  when in any case circumstances have arisen that in the opinion of the court render it just and equitable that the partnership be dissolved.  R.S.O. 1990, c. P.5, s. 35; 2009, c. 33, Sched. 2, s. 57 (1).</p> <p class=\"headnote\">Application where incapacity</p> <p class=\"subsection\">(2) In the case of an application under clause (1) (a), the application may be made by the litigation guardian of the partner found to be incapable, on the partner’s behalf.  2009, c. 33, Sched. 2, s. 57 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched2s57s1\">2009, c. 33, Sched. 2, s. 57 (1, 2)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "36.",
+            "section_x": "Rights of persons dealing with firm against apparent members",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Rights of persons dealing with firm against apparent members",
+            "content": "36 (1) Where a person deals with a firm after a change in its constitution, the person is entitled to treat all apparent members of the old firm as still being members of the firm until the person has notice of the change.  R.S.O. 1990, c. P.5, s. 36 (1). Notice (2) An advertisement in The Ontario Gazette shall be notice as to persons who had not dealings with the firm before the dissolution or change so advertised.  R.S.O. 1990, c. P.5, s. 36 (2). Estate of dead or insolvent partner, how far liable (3) The estate of a partner who dies, or who becomes insolvent, or of a partner who, not having been known to the person dealing with the firm to be a partner, retires from the firm, is not liable for partnership debts contracted after the date of the death, insolvency, or retirement.  R.S.O. 1990, c. P.5, s. 36 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK39\"></a><b>36 </b>(1) Where a person deals with a firm after a change in its constitution, the person is entitled to treat all apparent members of the old firm as still being members of the firm until the person has notice of the change.  R.S.O. 1990, c. P.5, s. 36 (1).</p> <p class=\"headnote\">Notice</p> <p class=\"subsection\">(2) An advertisement in <i>The Ontario Gazette</i> shall be notice as to persons who had not dealings with the firm before the dissolution or change so advertised.  R.S.O. 1990, c. P.5, s. 36 (2).</p> <p class=\"headnote\">Estate of dead or insolvent partner, how far liable</p> <p class=\"subsection\">(3) The estate of a partner who dies, or who becomes insolvent, or of a partner who, not having been known to the person dealing with the firm to be a partner, retires from the firm, is not liable for partnership debts contracted after the date of the death, insolvency, or retirement.  R.S.O. 1990, c. P.5, s. 36 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "37.",
+            "section_x": "Right to give notice of dissolution",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Right to give notice of dissolution",
+            "content": "37 On the dissolution of a partnership or retirement of a partner, any partner may publicly give notice of the same, and may require the other partner or partners to concur for that purpose in all necessary or proper acts, if any, that cannot be done without his, her or their concurrence.  R.S.O. 1990, c. P.5, s. 37.",
+            "raw_html": "<p class=\"section\"><a name=\"BK40\"></a><b>37 </b>On the dissolution of a partnership or retirement of a partner, any partner may publicly give notice of the same, and may require the other partner or partners to concur for that purpose in all necessary or proper acts, if any, that cannot be done without his, her or their concurrence.  R.S.O. 1990, c. P.5, s. 37.</p>"
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "38.",
+            "section_x": "Continuing authority of partners for purposes of winding up",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Continuing authority of partners for purposes of winding up",
+            "content": "38 After the dissolution of a partnership, the authority of each partner to bind the firm and the other rights and obligations of the partners continue despite the dissolution so far as is necessary to wind up the affairs of the partnership and to complete transactions begun but unfinished at the time of the dissolution, but not otherwise; provided that the firm is in no case bound by the acts of a partner who has become insolvent; but this proviso does not affect the liability of a person who has, after the insolvency, represented himself or herself or knowingly suffered himself or herself to be represented as a partner of the insolvent.  R.S.O. 1990, c. P.5, s. 38.",
+            "raw_html": "<p class=\"section\"><a name=\"BK41\"></a><b>38 </b>After the dissolution of a partnership, the authority of each partner to bind the firm and the other rights and obligations of the partners continue despite the dissolution so far as is necessary to wind up the affairs of the partnership and to complete transactions begun but unfinished at the time of the dissolution, but not otherwise; provided that the firm is in no case bound by the acts of a partner who has become insolvent; but this proviso does not affect the liability of a person who has, after the insolvency, represented himself or herself or knowingly suffered himself or herself to be represented as a partner of the insolvent.  R.S.O. 1990, c. P.5, s. 38.</p>"
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "39.",
+            "section_x": "Rights of partners as to application of partnership property",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Rights of partners as to application of partnership property",
+            "content": "39 On the dissolution of a partnership every partner is entitled, as against the other partners in the firm and all persons claiming through them in respect of their interests as partners, to have the property of the partnership applied in payment of the debts and liabilities of the firm and to have the surplus assets after such payment applied in payment of what may be due to the partners respectively after deducting what may be due from them as partners to the firm, and for that purpose any partner or the partner’s representative may, on the termination of the partnership, apply to the court to wind up the business and affairs of the firm.  R.S.O. 1990, c. P.5, s. 39.",
+            "raw_html": "<p class=\"section\"><a name=\"BK42\"></a><b>39 </b>On the dissolution of a partnership every partner is entitled, as against the other partners in the firm and all persons claiming through them in respect of their interests as partners, to have the property of the partnership applied in payment of the debts and liabilities of the firm and to have the surplus assets after such payment applied in payment of what may be due to the partners respectively after deducting what may be due from them as partners to the firm, and for that purpose any partner or the partner’s representative may, on the termination of the partnership, apply to the court to wind up the business and affairs of the firm.  R.S.O. 1990, c. P.5, s. 39.</p>"
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "40.",
+            "section_x": "Apportionment of premium on premature dissolution",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Apportionment of premium on premature dissolution",
+            "content": "40 Where one partner paid a premium to another on entering into a partnership for a fixed term and the partnership is dissolved before the expiration of that term otherwise than by the death of a partner, the court may order the repayment of the premium, or of such part thereof as it thinks just, having regard to the terms of the partnership contract and to the length of time during which the partnership has continued, unless, (a)  the dissolution is, in the judgment of the court, wholly or chiefly due to the misconduct of the partner who paid the premium; or (b)  the partnership has been dissolved by an agreement containing no provision for a return of a part of the premium.  R.S.O. 1990, c. P.5, s. 40.",
+            "raw_html": "<p class=\"section\"><a name=\"BK43\"></a><b>40 </b>Where one partner paid a premium to another on entering into a partnership for a fixed term and the partnership is dissolved before the expiration of that term otherwise than by the death of a partner, the court may order the repayment of the premium, or of such part thereof as it thinks just, having regard to the terms of the partnership contract and to the length of time during which the partnership has continued, unless,</p> <p class=\"paragraph\">  (a)  the dissolution is, in the judgment of the court, wholly or chiefly due to the misconduct of the partner who paid the premium; or</p> <p class=\"paragraph\">  (b)  the partnership has been dissolved by an agreement containing no provision for a return of a part of the premium.  R.S.O. 1990, c. P.5, s. 40.</p>"
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "41.",
+            "section_x": "Rights where partnership dissolved for fraud or misrepresentations",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Rights where partnership dissolved for fraud or misrepresentations",
+            "content": "41 Where a partnership contract is rescinded on the ground of the fraud or misrepresentation of one of the parties thereto, the party entitled to rescind is, without prejudice to any other right, entitled, (a)  to a lien on, or right of retention of, the surplus of the partnership assets, after satisfying the partnership liabilities, for any sum of money paid by the party for the purchase of a share in the partnership and for any capital contributed by him or her; and (b)  to stand in the place of the creditors of the firm for any payments made by the party in respect of the partnership liabilities; and (c)  to be indemnified by the person guilty of the fraud or making the representation against all the debts and liabilities of the firm.  R.S.O. 1990, c. P.5, s. 41.",
+            "raw_html": "<p class=\"section\"><a name=\"BK44\"></a><b>41 </b>Where a partnership contract is rescinded on the ground of the fraud or misrepresentation of one of the parties thereto, the party entitled to rescind is, without prejudice to any other right, entitled,</p> <p class=\"paragraph\">  (a)  to a lien on, or right of retention of, the surplus of the partnership assets, after satisfying the partnership liabilities, for any sum of money paid by the party for the purchase of a share in the partnership and for any capital contributed by him or her; and</p> <p class=\"paragraph\">  (b)  to stand in the place of the creditors of the firm for any payments made by the party in respect of the partnership liabilities; and</p> <p class=\"paragraph\">  (c)  to be indemnified by the person guilty of the fraud or making the representation against all the debts and liabilities of the firm.  R.S.O. 1990, c. P.5, s. 41.</p>"
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "42.",
+            "section_x": "Right of outgoing partner as to share in profits after dissolution",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Right of outgoing partner as to share in profits after dissolution",
+            "content": "42 (1) Where any member of a firm dies or otherwise ceases to be a partner and the surviving or continuing partners carry on the business of the firm with its capital or assets without any final settlement of accounts as between the firm and the outgoing partner or his or her estate, then, in the absence of an agreement to the contrary, the outgoing partner or his or her estate is entitled, at the option of the outgoing partner or his or her representatives, to such share of the profits made since the dissolution as the court finds to be attributable to the use of the outgoing partner’s share of the partnership assets, or to interest at the rate of 5 per cent per annum on the amount of his or her share of the partnership assets.  R.S.O. 1990, c. P.5, s. 42 (1). Proviso as to option of remaining partners to purchase share (2) Where by the partnership contract an option is given to surviving or continuing partners to purchase the interest of a deceased or outgoing partner and that option is duly exercised, the estate of the deceased partner, or the outgoing partner or his or her estate, as the case may be, is not entitled to any further or other share of profits, but if any partner, assuming to act in exercise of the option, does not in all material respects comply with the terms thereof, he or she is liable to account under the foregoing provisions of this section.  R.S.O. 1990, c. P.5, s. 42 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK45\"></a><b>42 </b>(1) Where any member of a firm dies or otherwise ceases to be a partner and the surviving or continuing partners carry on the business of the firm with its capital or assets without any final settlement of accounts as between the firm and the outgoing partner or his or her estate, then, in the absence of an agreement to the contrary, the outgoing partner or his or her estate is entitled, at the option of the outgoing partner or his or her representatives, to such share of the profits made since the dissolution as the court finds to be attributable to the use of the outgoing partner’s share of the partnership assets, or to interest at the rate of 5 per cent per annum on the amount of his or her share of the partnership assets.  R.S.O. 1990, c. P.5, s. 42 (1).</p> <p class=\"headnote\">Proviso as to option of remaining partners to purchase share</p> <p class=\"subsection\">(2) Where by the partnership contract an option is given to surviving or continuing partners to purchase the interest of a deceased or outgoing partner and that option is duly exercised, the estate of the deceased partner, or the outgoing partner or his or her estate, as the case may be, is not entitled to any further or other share of profits, but if any partner, assuming to act in exercise of the option, does not in all material respects comply with the terms thereof, he or she is liable to account under the foregoing provisions of this section.  R.S.O. 1990, c. P.5, s. 42 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "43.",
+            "section_x": "Retiring or deceased partner’s share to be a debt",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Retiring or deceased partner’s share to be a debt",
+            "content": "43 Subject to any agreement between the partners, the amount due from surviving or continuing partners to an outgoing partner or the representatives of a deceased partner in respect of the outgoing or deceased partner’s share, is a debt accruing at the date of the dissolution or death.  R.S.O. 1990, c. P.5, s. 43.",
+            "raw_html": "<p class=\"section\"><a name=\"BK46\"></a><b>43 </b>Subject to any agreement between the partners, the amount due from surviving or continuing partners to an outgoing partner or the representatives of a deceased partner in respect of the outgoing or deceased partner’s share, is a debt accruing at the date of the dissolution or death.  R.S.O. 1990, c. P.5, s. 43.</p>"
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "44.",
+            "section_x": "Rules for distribution of assets on final settlement of accounts",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Rules for distribution of assets on final settlement of accounts",
+            "content": "44 In settling accounts between the partners after a dissolution of partnership, the following rules shall, subject to any agreement, be observed: 1.  Losses, including losses and deficiencies of capital, are to be paid first out of profits, next out of capital, and lastly, if necessary, by the partners individually in the proportion in which they were entitled to share profits, but a partner is not required to pay any loss arising from a liability for which the partner is not liable under subsection 10 (2). 2.  The assets of the firm, including the sums, if any, contributed by the partners to make up losses or deficiencies of capital, are to be applied in the following manner and order, (a)  in paying the debts and liabilities of the firm to persons who are not partners therein; (b)  in paying to each partner rateably what is due from the firm to him or her for advances as distinguished from capital; (c)  in paying to each partner rateably what is due from the firm to him or her in respect of capital. 3.  After making the payments required by paragraph 2, the ultimate residue, if any, is to be divided among the partners in the proportion in which profits are divisible.  R.S.O. 1990, c. P.5, s. 44; 1998, c. 2, s. 5. Section Amendments with date in force (d/m/y) 1998, c. 2, s. 5 - 01/07/1998 Limited Liability Partnerships",
+            "raw_html": "<p class=\"section\"><a name=\"BK47\"></a><b>44 </b>In settling accounts between the partners after a dissolution of partnership, the following rules shall, subject to any agreement, be observed:</p> <p class=\"paragraph\">  1.  Losses, including losses and deficiencies of capital, are to be paid first out of profits, next out of capital, and lastly, if necessary, by the partners individually in the proportion in which they were entitled to share profits, but a partner is not required to pay any loss arising from a liability for which the partner is not liable under subsection 10 (2).</p> <p class=\"paragraph\">  2.  The assets of the firm, including the sums, if any, contributed by the partners to make up losses or deficiencies of capital, are to be applied in the following manner and order,</p> <p class=\"subpara\">  (a)  in paying the debts and liabilities of the firm to persons who are not partners therein;</p> <p class=\"subpara\">  (b)  in paying to each partner rateably what is due from the firm to him or her for advances as distinguished from capital;</p> <p class=\"subpara\">  (c)  in paying to each partner rateably what is due from the firm to him or her in respect of capital.</p> <p class=\"paragraph\">  3.  After making the payments required by paragraph 2, the ultimate residue, if any, is to be divided among the partners in the proportion in which profits are divisible.  R.S.O. 1990, c. P.5, s. 44; 1998, c. 2, s. 5.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 2, s. 5 - 01/07/1998</p> <p class=\"heading1\"><a name=\"BK48\"></a>Limited Liability Partnerships</p>"
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "Limited Liability Partnerships",
+            "section_x": "Limited Liability Partnerships",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "44.1",
+            "section_x": "Formation",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Formation",
+            "content": "44.1 (1) A limited liability partnership that is not an extra-provincial limited liability partnership is formed when two or more persons enter into a written agreement that, (a)  designates the partnership as a limited liability partnership; and (b)  states that this Act governs the agreement.  1998, c. 2, s. 6. Continuance (2) A partnership may be continued as a limited liability partnership that is not an extra-provincial limited liability partnership if all of the partners, (a)  enter into an agreement that continues the partnership as a limited liability partnership and states that this Act governs the agreement; or (b)  if there is an existing agreement between the partners that forms the partnership, amend the agreement to designate the partnership as a limited liability partnership and to state that this Act governs the agreement.  1998, c. 2, s. 6. Effect of continuance (3) Upon the continuance of a partnership as a limited liability partnership under subsection (2), (a)  the limited liability partnership possesses all the property, rights, privileges and franchises and is subject to all liabilities, including civil, criminal and quasi-criminal, and all contracts, disabilities and debts of the partnership which were in existence immediately before the continuance; and (b)  all persons who were partners immediately before the continuance remain liable for all debts, obligations and liabilities of the partnership or all partners with respect to the other partners that arose before the continuance.  1998, c. 2, s. 6. Section Amendments with date in force (d/m/y) 1998, c. 2, s. 6 - 01/07/1998",
+            "raw_html": "<p class=\"section\"><a name=\"BK49\"></a><b>44.1</b> (1) A limited liability partnership that is not an extra-provincial limited liability partnership is formed when two or more persons enter into a written agreement that,</p> <p class=\"paragraph\">  (a)  designates the partnership as a limited liability partnership; and</p> <p class=\"paragraph\">  (b)  states that this Act governs the agreement.  1998, c. 2, s. 6.</p> <p class=\"headnote\">Continuance</p> <p class=\"subsection\">(2) A partnership may be continued as a limited liability partnership that is not an extra-provincial limited liability partnership if all of the partners,</p> <p class=\"paragraph\">  (a)  enter into an agreement that continues the partnership as a limited liability partnership and states that this Act governs the agreement; or</p> <p class=\"paragraph\">  (b)  if there is an existing agreement between the partners that forms the partnership, amend the agreement to designate the partnership as a limited liability partnership and to state that this Act governs the agreement.  1998, c. 2, s. 6.</p> <p class=\"headnote\">Effect of continuance</p> <p class=\"subsection\">(3) Upon the continuance of a partnership as a limited liability partnership under subsection (2),</p> <p class=\"paragraph\">  (a)  the limited liability partnership possesses all the property, rights, privileges and franchises and is subject to all liabilities, including civil, criminal and quasi-criminal, and all contracts, disabilities and debts of the partnership which were in existence immediately before the continuance; and</p> <p class=\"paragraph\">  (b)  all persons who were partners immediately before the continuance remain liable for all debts, obligations and liabilities of the partnership or all partners with respect to the other partners that arose before the continuance.  1998, c. 2, s. 6.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 2, s. 6 - 01/07/1998</p>"
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "44.2",
+            "section_x": "Limitation on business activity",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Limitation on business activity",
+            "content": "44.2 A limited liability partnership may carry on business in Ontario only for the purpose of practising a profession governed by an Act and only if, (a)  that Act expressly permits a limited liability partnership to practise the profession; (b)  the governing body of the profession requires the partnership to maintain a minimum amount of liability insurance; and (c)  the partnership complies with section 44.3 if it is not an extra-provincial limited liability partnership or section 44.4 if it is an extra-provincial limited liability partnership.  1998, c. 2, s. 6. Section Amendments with date in force (d/m/y) 1998, c. 2, s. 6 - 01/07/1998",
+            "raw_html": "<p class=\"section\"><a name=\"BK50\"></a><b>44.2</b> A limited liability partnership may carry on business in Ontario only for the purpose of practising a profession governed by an Act and only if,</p> <p class=\"paragraph\">  (a)  that Act expressly permits a limited liability partnership to practise the profession;</p> <p class=\"paragraph\">  (b)  the governing body of the profession requires the partnership to maintain a minimum amount of liability insurance; and</p> <p class=\"paragraph\">  (c)  the partnership complies with section 44.3 if it is not an extra-provincial limited liability partnership or section 44.4 if it is an extra-provincial limited liability partnership.  1998, c. 2, s. 6.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 2, s. 6 - 01/07/1998</p>"
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "44.3",
+            "section_x": "Business name",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Business name",
+            "content": "44.3 (1) No limited liability partnership formed or continued by an agreement governed by this Act shall carry on business unless it has registered its firm name under the Business Names Act.  1998, c. 2, s. 6. Amendments, cancellations and renewals (2) To amend, renew or cancel a registration of its firm name, a limited liability partnership mentioned in subsection (1) shall register an amendment, renewal or cancellation of a registration in accordance with the requirements of the Business Names Act.  1998, c. 2, s. 6. Firm name (3) The firm name of a limited liability partnership mentioned in subsection (1) shall contain the words “limited liability partnership” or “société à responsabilité limitée” or the abbreviations “LLP”, “L.L.P.” or “s.r.l.” as the last words or letters of the firm name.  1998, c. 2, s. 6; 2006, c. 19, Sched. G, s. 7 (1). Same (3.1) A limited liability partnership mentioned in subsection (1) may have a firm name that is in, (a)  an English form only; (b)  a French form only; (c)  a French and English form, where the French and English are used together in a combined form; or (d)  a French form and an English form, where the French and English forms are equivalent but are used separately.  2006, c. 19, Sched. G, s. 7 (2). Same (3.2) A limited liability partnership mentioned in subsection (1) that has a firm name described in clause (3.1) (d) may be legally designated by the French or English version of its firm name.  2006, c. 19, Sched. G, s. 7 (2). Use of registered name only (4) No limited liability partnership mentioned in subsection (1) shall carry on business under a name other than its registered firm name.  1998, c. 2, s. 6. Right to carry on business outside of Ontario (5) Nothing in this Act prevents a limited liability partnership mentioned in subsection (1) from carrying on its business and exercising its powers in any province or territory of Canada or any other country.  1998, c. 2, s. 6. Section Amendments with date in force (d/m/y) 1998, c. 2, s. 6 - 01/07/1998 2006, c. 19, Sched. G, s. 7 (1) - 22/06/2006; 2006, c. 19, Sched. G, s. 7 (2) - 01/08/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK51\"></a><b>44.3</b> (1) No limited liability partnership formed or continued by an agreement governed by this Act shall carry on business unless it has registered its firm name under the <i>Business Names Act</i>.  1998, c. 2, s. 6.</p> <p class=\"headnote\">Amendments, cancellations and renewals</p> <p class=\"subsection\">(2) To amend, renew or cancel a registration of its firm name, a limited liability partnership mentioned in subsection (1) shall register an amendment, renewal or cancellation of a registration in accordance with the requirements of the <i>Business Names Act</i>.  1998, c. 2, s. 6.</p> <p class=\"headnote\">Firm name</p> <p class=\"subsection\">(3) The firm name of a limited liability partnership mentioned in subsection (1) shall contain the words “limited liability partnership” or “société à responsabilité limitée” or the abbreviations “LLP”, “L.L.P.” or “s.r.l.” as the last words or letters of the firm name.  1998, c. 2, s. 6; 2006, c. 19, Sched. G, s. 7 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3.1) A limited liability partnership mentioned in subsection (1) may have a firm name that is in,</p> <p class=\"paragraph\">  (a)  an English form only;</p> <p class=\"paragraph\">  (b)  a French form only;</p> <p class=\"paragraph\">  (c)  a French and English form, where the French and English are used together in a combined form; or</p> <p class=\"paragraph\">  (d)  a French form and an English form, where the French and English forms are equivalent but are used separately.  2006, c. 19, Sched. G, s. 7 (2).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3.2) A limited liability partnership mentioned in subsection (1) that has a firm name described in clause (3.1) (d) may be legally designated by the French or English version of its firm name.  2006, c. 19, Sched. G, s. 7 (2).</p> <p class=\"headnote\">Use of registered name only</p> <p class=\"subsection\">(4) No limited liability partnership mentioned in subsection (1) shall carry on business under a name other than its registered firm name.  1998, c. 2, s. 6.</p> <p class=\"headnote\">Right to carry on business outside of Ontario</p> <p class=\"subsection\">(5) Nothing in this Act prevents a limited liability partnership mentioned in subsection (1) from carrying on its business and exercising its powers in any province or territory of Canada or any other country.  1998, c. 2, s. 6.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 2, s. 6 - 01/07/1998</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedgs7s1\">2006, c. 19, Sched. G, s. 7 (1)</a></span> - 22/06/2006; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedgs7s2\">2006, c. 19, Sched. G, s. 7 (2)</a></span> - 01/08/2007</p>"
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "44.4",
+            "section_x": "Extra-provincial limited liability partnerships",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Extra-provincial limited liability partnerships",
+            "content": "44.4 (1) No extra-provincial limited liability partnership shall carry on business in Ontario unless it has registered its firm name under the Business Names Act.  1998, c. 2, s. 7; 2006, c. 19, Sched. G, s. 7 (3). Amendments, cancellations and renewals (2) To amend, renew or cancel a registration of its firm name, an extra-provincial limited liability partnership shall register an amendment, renewal or cancellation of a registration in accordance with the requirements of the Business Names Act.  1998, c. 2, s. 7. Use of registered name only (3) No extra-provincial limited liability partnership shall carry on business under a name other than its registered firm name.  1998, c. 2, s. 7. Laws of other jurisdiction (4) The laws of the jurisdiction under which an extra-provincial limited liability partnership is formed shall govern, (a)  its organization and internal affairs; and (b)  the liability of its partners for debts, obligations and liabilities of or chargeable to the partnership or any of its partners.  1998, c. 2, s. 7. Service (5) A person may serve a notice or document on an extra-provincial limited liability partnership at its Ontario place of business, if any, or its address required to be maintained under the laws of the jurisdiction of formation or its principal office address.  1998, c. 2, s. 7. Section Amendments with date in force (d/m/y) 1998, c. 2, s. 7 - 15/02/2001 2006, c. 19, Sched. G, s. 7 (3) - 22/06/2006 General",
+            "raw_html": "<p class=\"section\"><a name=\"BK52\"></a><b>44.4</b> (1) No extra-provincial limited liability partnership shall carry on business in Ontario unless it has registered its firm name under the <i>Business Names Act</i>.  1998, c. 2, s. 7; 2006, c. 19, Sched. G, s. 7 (3).</p> <p class=\"headnote\">Amendments, cancellations and renewals</p> <p class=\"subsection\">(2) To amend, renew or cancel a registration of its firm name, an extra-provincial limited liability partnership shall register an amendment, renewal or cancellation of a registration in accordance with the requirements of the <i>Business Names Act</i>.  1998, c. 2, s. 7.</p> <p class=\"headnote\">Use of registered name only</p> <p class=\"subsection\">(3) No extra-provincial limited liability partnership shall carry on business under a name other than its registered firm name.  1998, c. 2, s. 7.</p> <p class=\"headnote\">Laws of other jurisdiction</p> <p class=\"subsection\">(4) The laws of the jurisdiction under which an extra-provincial limited liability partnership is formed shall govern,</p> <p class=\"paragraph\">  (a)  its organization and internal affairs; and</p> <p class=\"paragraph\">  (b)  the liability of its partners for debts, obligations and liabilities of or chargeable to the partnership or any of its partners.  1998, c. 2, s. 7.</p> <p class=\"headnote\">Service</p> <p class=\"subsection\">(5) A person may serve a notice or document on an extra-provincial limited liability partnership at its Ontario place of business, if any, or its address required to be maintained under the laws of the jurisdiction of formation or its principal office address.  1998, c. 2, s. 7.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 2, s. 7 - 15/02/2001</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedgs7s3\">2006, c. 19, Sched. G, s. 7 (3)</a></span> - 22/06/2006</p> <p class=\"heading1\"><a name=\"BK53\"></a>General</p>"
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "General",
+            "section_x": "General",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK54",
+            "TOCid": "45.",
+            "section_x": "Saving as to rules of equity and common law",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Saving as to rules of equity and common law",
+            "content": "45 The rules of equity and of common law applicable to partnership continue in force, except so far as they are inconsistent with the express provisions of this Act.  R.S.O. 1990, c. P.5, s. 45.",
+            "raw_html": "<p class=\"section\"><a name=\"BK54\"></a><b>45 </b>The rules of equity and of common law applicable to partnership continue in force, except so far as they are inconsistent with the express provisions of this Act.  R.S.O. 1990, c. P.5, s. 45.</p>"
+        },
+        {
+            "ahref_id": "#BK55",
+            "TOCid": "46.",
+            "section_x": "Construction",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Construction",
+            "content": "46 This Act is to be read and construed as subject to the Limited Partnerships Act\r\nand the Business Names Act.  R.S.O. 1990, c. P.5, s. 46. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK55\"></a><b>46 </b>This Act is to be read and construed as subject to the <i>Limited Partnerships Act</i>\r\nand the <i>Business Names Act</i>.  R.S.O. 1990, c. P.5, s. 46.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/90p05\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,559 @@
+{
+    "act_info": {
+        "full_title": "Horse Racing Licence Act, 2015, S.O. 2015, c. 38, Sched. 9",
+        "act_name_text": "Horse Racing Licence Act, 2015",
+        "citation": "S.O. 2015, c. 38, Sched. 9",
+        "url": "https://www.ontario.ca/laws/statute/15h38",
+        "date_scraped": "2023-12-18 13:40:22"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November 29, 2021",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/15h38/v7",
+            "valid_from": "December 10, 2019",
+            "valid_to": "November 28, 2021"
+        },
+        {
+            "a_href": "/laws/statute/15h38/v6",
+            "valid_from": "July  1, 2019",
+            "valid_to": "December  9, 2019"
+        },
+        {
+            "a_href": "/laws/statute/15h38/v5",
+            "valid_from": "May 29, 2019",
+            "valid_to": "June 30, 2019"
+        },
+        {
+            "a_href": "/laws/statute/15h38/v4",
+            "valid_from": "November 16, 2018",
+            "valid_to": "May 28, 2019"
+        },
+        {
+            "a_href": "/laws/statute/15h38/v3",
+            "valid_from": "October 17, 2018",
+            "valid_to": "November 15, 2018"
+        },
+        {
+            "a_href": "/laws/statute/15h38/v2",
+            "valid_from": "April  1, 2016",
+            "valid_to": "October 16, 2018"
+        },
+        {
+            "a_href": "/laws/statute/15h38/v1",
+            "valid_from": "December 10, 2015",
+            "valid_to": "March 31, 2016"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/160061",
+            "Citation": "O. Reg. 61/16",
+            "title": "GENERAL"
+        }
+    ],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I  ",
+            "section_x": "PART I INTERPRETATION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION",
+            "section_y": "Definitions",
+            "content": "1 In this Act, “Board” means the board of the Alcohol and Gaming Commission of Ontario continued under the Alcohol and Gaming Commission of Ontario Act, 2019; (“conseil”) “Commission” means the Alcohol and Gaming Commission of Ontario continued under the Alcohol and Gaming Commission of Ontario Act, 2019; (“Commission”) “conveyance” means a vehicle, vessel or other thing used to transport horses or equipment used in the business of horse racing; (“moyen de transport”) “licence” means a licence issued under this Act; (“licence”) “licensee” means the holder of a licence; (“titulaire de licence”) “Panel” means the Horse Racing Appeal Panel established under subsection 7 (1); (“Comité”) “prescribed” means prescribed in the regulations; (“prescrit”) “proceeds”, in relation to an offence under this Act, means, (a) personal property, other than money, derived in whole or in part, directly or indirectly, from the commission of the offence, and (b) money derived directly or indirectly from the commission of the offence; (“produit”) “Registrar” means the Registrar under the Alcohol and Gaming Commission of Ontario Act, 2019; (“registrateur”) “record” includes a book of account, bank book, voucher, invoice, receipt, contract, correspondence and any other document regardless of whether the record is on paper or is in electronic, photographic or other form; (“document”) “regulations” means the regulations made under this Act; (“règlements”) “rules of racing” means the rules for the conduct of horse racing made under section 5; (“règles sur les courses”) “Tribunal” means the Licence Appeal Tribunal established under the Licence Appeal Tribunal Act, 1999 or whatever other tribunal is provided for in the regulations. (“Tribunal”) 2015, c. 38, Sched. 9, s. 1; 2018, c. 12, Sched. 2, s. 53; 2019, c. 15, Sched. 1, s. 22. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 2, s. 53 - 16/11/2018 2019, c. 15, Sched. 1, s. 22 (1, 2) - 29/11/2021 Part II   Registrar, rules of racing and non-licensing appeals",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>1 </b>In this Act,</p> <p class=\"definition\">“Board” means the board of the Alcohol and Gaming Commission of Ontario continued under the <i>Alcohol and Gaming Commission of Ontario Act, 2019</i>; (“conseil”)</p> <p class=\"definition\">“Commission” means the Alcohol and Gaming Commission of Ontario continued under the <i>Alcohol and Gaming Commission of Ontario Act, 2019</i>; (“Commission”)</p> <p class=\"definition\">“conveyance” means a vehicle, vessel or other thing used to transport horses or equipment used in the business of horse racing; (“moyen de transport”)</p> <p class=\"definition\">“licence” means a licence issued under this Act; (“licence”)</p> <p class=\"definition\">“licensee” means the holder of a licence; (“titulaire de licence”)</p> <p class=\"definition\">“Panel” means the Horse Racing Appeal Panel established under subsection 7 (1); (“Comité”)</p> <p class=\"definition\">“prescribed” means prescribed in the regulations; (“prescrit”)</p> <p class=\"definition\">“proceeds”, in relation to an offence under this Act, means,</p> <p class=\"paragraph\">  (a) personal property, other than money, derived in whole or in part, directly or indirectly, from the commission of the offence, and</p> <p class=\"paragraph\">  (b) money derived directly or indirectly from the commission of the offence; (“produit”)</p> <p class=\"definition\">“Registrar” means the Registrar under the <i>Alcohol and Gaming Commission of Ontario Act, 2019</i>; (“registrateur”)</p> <p class=\"definition\">“record” includes a book of account, bank book, voucher, invoice, receipt, contract, correspondence and any other document regardless of whether the record is on paper or is in electronic, photographic or other form; (“document”)</p> <p class=\"definition\">“regulations” means the regulations made under this Act; (“règlements”)</p> <p class=\"definition\">“rules of racing” means the rules for the conduct of horse racing made under section 5; (“règles sur les courses”)</p> <p class=\"definition\">“Tribunal” means the Licence Appeal Tribunal established under the <i>Licence Appeal Tribunal Act, 1999</i> or whatever other tribunal is provided for in the regulations. (“Tribunal”) 2015, c. 38, Sched. 9, s. 1; 2018, c. 12, Sched. 2, s. 53; 2019, c. 15, Sched. 1, s. 22.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched2s53\">2018, c. 12, Sched. 2, s. 53</a> </span>- 16/11/2018</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19015#sched1s22s1\">2019, c. 15, Sched. 1, s. 22 (1, 2)</a></span> - 29/11/2021</p> <p class=\"partnum\"><a name=\"BK2\"></a>Part II <br/>  Registrar, rules of racing and non-licensing appeals</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "PART II  ",
+            "section_x": "PART II REGISTRAR, RULES OF RACING AND NON-LICENSING APPEALS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "2.",
+            "section_x": "Powers of Registrar, general",
+            "part_id": "PART II  ",
+            "part_type": "PART II REGISTRAR, RULES OF RACING AND NON-LICENSING APPEALS",
+            "section_y": "Powers of Registrar, general",
+            "content": "2 The Registrar has the power, subject to this Act and the regulations, (a) to govern, direct, control and regulate horse racing in Ontario in any or all of its forms; and (b) to govern, control and regulate the operation of race tracks and off-track betting facilities in Ontario at which any form of horse racing is carried on or televised.",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>2 </b>The Registrar has the power, subject to this Act and the regulations,</p> <p class=\"paragraph\">  (a) to govern, direct, control and regulate horse racing in Ontario in any or all of its forms; and</p> <p class=\"paragraph\">  (b) to govern, control and regulate the operation of race tracks and off-track betting facilities in Ontario at which any form of horse racing is carried on or televised.</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "3.",
+            "section_x": "Examples",
+            "part_id": "PART II  ",
+            "part_type": "PART II REGISTRAR, RULES OF RACING AND NON-LICENSING APPEALS",
+            "section_y": "Examples",
+            "content": "3 Without in any way restricting the generality of section 2, some examples of matters with respect to horse racing over which the Registrar may exercise power are, (a) all forms of licensing; (b) the appointment and discharge of race track officials and other persons whose duties relate to the actual running of horse races; (c) registration of matters that the Registrar considers appropriate; (d) the keeping of books and accounts; (e) the assessment of penalties for contravention of the rules of racing, and the enforcement of the penalties; (f) imposing conditions on licences that the Registrar considers expedient, and removing such conditions; and (g) examinations and standards.",
+            "raw_html": "<p class=\"section\"><a name=\"BK4\"></a><b>3 </b>Without in any way restricting the generality of section 2, some examples of matters with respect to horse racing over which the Registrar may exercise power are,</p> <p class=\"paragraph\">  (a) all forms of licensing;</p> <p class=\"paragraph\">  (b) the appointment and discharge of race track officials and other persons whose duties relate to the actual running of horse races;</p> <p class=\"paragraph\">  (c) registration of matters that the Registrar considers appropriate;</p> <p class=\"paragraph\">  (d) the keeping of books and accounts;</p> <p class=\"paragraph\">  (e) the assessment of penalties for contravention of the rules of racing, and the enforcement of the penalties;</p> <p class=\"paragraph\">  (f) imposing conditions on licences that the Registrar considers expedient, and removing such conditions; and</p> <p class=\"paragraph\">  (g) examinations and standards.</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "4.",
+            "section_x": "Additional matters",
+            "part_id": "PART II  ",
+            "part_type": "PART II REGISTRAR, RULES OF RACING AND NON-LICENSING APPEALS",
+            "section_y": "Additional matters",
+            "content": "4 The Registrar may also exercise power over any matter provided for in the regulations.",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>4 </b>The Registrar may also exercise power over any matter provided for in the regulations.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "5.",
+            "section_x": "Rules of racing",
+            "part_id": "PART II  ",
+            "part_type": "PART II REGISTRAR, RULES OF RACING AND NON-LICENSING APPEALS",
+            "section_y": "Rules of racing",
+            "content": "5 (1) Subject to the regulations, the Commission, through the Registrar, shall make rules for the conduct of horse racing in any of its forms. Same (2) The rules of racing may provide for any matter over which the Registrar may exercise power under this Act. Adoption of other rules (3) The rules of racing may adopt by reference, in whole or in part, with the changes that the Registrar considers necessary, rules and procedures of racing associations or bodies, as amended from time to time, with respect to any matter except hearings held under Part III. Accessible to public (4) The Registrar shall ensure that the rules of racing are made readily accessible to the public. Conflict (5) In the case of any conflict or inconsistency between the rules of racing and this Act or the regulations, this Act or the regulations prevail to the extent of the conflict or inconsistency. Not regulations (6) The rules of racing are not regulations for the purposes of Part III of the Legislation Act, 2006.",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>5 </b>(1) Subject to the regulations, the Commission, through the Registrar, shall make rules for the conduct of horse racing in any of its forms.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The rules of racing may provide for any matter over which the Registrar may exercise power under this Act.</p> <p class=\"headnote\">Adoption of other rules</p> <p class=\"subsection\">(3) The rules of racing may adopt by reference, in whole or in part, with the changes that the Registrar considers necessary, rules and procedures of racing associations or bodies, as amended from time to time, with respect to any matter except hearings held under Part III.</p> <p class=\"headnote\">Accessible to public</p> <p class=\"subsection\">(4) The Registrar shall ensure that the rules of racing are made readily accessible to the public.</p> <p class=\"headnote\">Conflict</p> <p class=\"subsection\">(5) In the case of any conflict or inconsistency between the rules of racing and this Act or the regulations, this Act or the regulations prevail to the extent of the conflict or inconsistency.</p> <p class=\"headnote\">Not regulations</p> <p class=\"subsection\">(6) The rules of racing are not regulations for the purposes of Part III of the <i>Legislation Act, 2006</i>.</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "6.",
+            "section_x": "Delegation",
+            "part_id": "PART II  ",
+            "part_type": "PART II REGISTRAR, RULES OF RACING AND NON-LICENSING APPEALS",
+            "section_y": "Delegation",
+            "content": "6 The rules of racing may delegate to stewards, judges, veterinarians, race track officials, racing associations or bodies, racing association or racing body officials, licensing agents or officers, racing officials, inspectors, investigators or to any other persons any of the following powers that the Registrar considers expedient: 1. The power to collect fees or other charges for the issuance or renewal of licences and to provide for refunds of the fees and charges. 2. The power to enforce the carrying out of this Act, the regulations, the rules of racing and all requirements of the Registrar made under this Act. 3. The power to fix, impose and collect penalties for a contravention of the rules of racing. 4. The power to impose conditions on licences, and to remove such conditions.",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>6 </b>The rules of racing may delegate to stewards, judges, veterinarians, race track officials, racing associations or bodies, racing association or racing body officials, licensing agents or officers, racing officials, inspectors, investigators or to any other persons any of the following powers that the Registrar considers expedient:</p> <p class=\"paragraph\">  1. The power to collect fees or other charges for the issuance or renewal of licences and to provide for refunds of the fees and charges.</p> <p class=\"paragraph\">  2. The power to enforce the carrying out of this Act, the regulations, the rules of racing and all requirements of the Registrar made under this Act.</p> <p class=\"paragraph\">  3. The power to fix, impose and collect penalties for a contravention of the rules of racing.</p> <p class=\"paragraph\">  4. The power to impose conditions on licences, and to remove such conditions.</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "7.",
+            "section_x": "Horse Racing Appeal Panel",
+            "part_id": "PART II  ",
+            "part_type": "PART II REGISTRAR, RULES OF RACING AND NON-LICENSING APPEALS",
+            "section_y": "Horse Racing Appeal Panel",
+            "content": "7 (1) The Horse Racing Appeal Panel is established under that name in English and Comité d’appel des courses de chevaux in French. Members (2) The Board may appoint members to the Panel as part-time or full-time members for terms of up to three years or such other period that is prescribed. Eligibility for appointment (3) A person is not eligible to be appointed to the Panel unless the person meets the prescribed requirements, but no person who is a member of the Board shall be appointed to the Panel. Reappointment (4) A person appointed as a member of the Panel is eligible for reappointment if the person meets the eligibility requirements in subsection (3). Remuneration and expenses (5) Panel members are to be paid such remuneration and expenses as the Board may determine. Practice and procedure (6) The Panel may, subject to this Act and the Statutory Powers Procedure Act, determine its own practice and procedure. Chair and vice-chair (7) The Board shall designate one of the members to be the chair and one of the members to be the vice-chair of the Panel. Duties of chair (8) The chair shall have general supervision and direction over the conduct of the affairs of the Panel and shall arrange the sittings of the Panel and assign members to panels to conduct hearings as circumstances require. Acting chair (9) If the chair is absent or otherwise unable to act or if the office is vacant, the vice-chair has all the powers and shall perform the duties of the chair.",
+            "raw_html": "<p class=\"section\"><a name=\"BK8\"></a><b>7 </b>(1) The Horse Racing Appeal Panel is established under that name in English and Comité d’appel des courses de chevaux in French.</p> <p class=\"headnote\">Members</p> <p class=\"subsection\">(2) The Board may appoint members to the Panel as part-time or full-time members for terms of up to three years or such other period that is prescribed.</p> <p class=\"headnote\">Eligibility for appointment</p> <p class=\"subsection\">(3) A person is not eligible to be appointed to the Panel unless the person meets the prescribed requirements, but no person who is a member of the Board shall be appointed to the Panel.</p> <p class=\"headnote\">Reappointment</p> <p class=\"subsection\">(4) A person appointed as a member of the Panel is eligible for reappointment if the person meets the eligibility requirements in subsection (3).</p> <p class=\"headnote\">Remuneration and expenses</p> <p class=\"subsection\">(5) Panel members are to be paid such remuneration and expenses as the Board may determine.</p> <p class=\"headnote\">Practice and procedure</p> <p class=\"subsection\">(6) The Panel may, subject to this Act and the <i>Statutory Powers Procedure Act</i>, determine its own practice and procedure.</p> <p class=\"headnote\">Chair and vice-chair</p> <p class=\"subsection\">(7) The Board shall designate one of the members to be the chair and one of the members to be the vice-chair of the Panel.</p> <p class=\"headnote\">Duties of chair</p> <p class=\"subsection\">(8) The chair shall have general supervision and direction over the conduct of the affairs of the Panel and shall arrange the sittings of the Panel and assign members to panels to conduct hearings as circumstances require.</p> <p class=\"headnote\">Acting chair</p> <p class=\"subsection\">(9) If the chair is absent or otherwise unable to act or if the office is vacant, the vice-chair has all the powers and shall perform the duties of the chair.</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "8.",
+            "section_x": "Appeals to Panel",
+            "part_id": "PART II  ",
+            "part_type": "PART II REGISTRAR, RULES OF RACING AND NON-LICENSING APPEALS",
+            "section_y": "Appeals to Panel",
+            "content": "8 (1) If the rules of racing provide for an appeal to the Panel, a person who considers themself aggrieved by a decision of a steward, judge, veterinarian, race track official, racing association official, licensing agent or officer or employee of the Commission may appeal the decision to the Panel and the hearing of the appeal shall be held in accordance with the Panel’s rules of procedure. Powers of panel (2) On hearing the appeal, or without a hearing if the circumstances referred to in section 4.1 of the Statutory Powers Procedure Act apply, the Panel may confirm or vary the decision being appealed or set it aside. No consideration of constitutional validity (3) The Panel shall not inquire into or make a decision concerning the constitutional validity of a provision of an Act or a regulation. Decision final (4) A decision of the Panel under subsection (2) is final and not subject to appeal. Part III   Licensing",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>8 </b>(1) If the rules of racing provide for an appeal to the Panel, a person who considers themself aggrieved by a decision of a steward, judge, veterinarian, race track official, racing association official, licensing agent or officer or employee of the Commission may appeal the decision to the Panel and the hearing of the appeal shall be held in accordance with the Panel’s rules of procedure.</p> <p class=\"headnote\">Powers of panel</p> <p class=\"subsection\">(2) On hearing the appeal, or without a hearing if the circumstances referred to in section 4.1 of the <i>Statutory Powers Procedure Act</i> apply, the Panel may confirm or vary the decision being appealed or set it aside.</p> <p class=\"headnote\">No consideration of constitutional validity</p> <p class=\"subsection\">(3) The Panel shall not inquire into or make a decision concerning the constitutional validity of a provision of an Act or a regulation.</p> <p class=\"headnote\">Decision final</p> <p class=\"subsection\">(4) A decision of the Panel under subsection (2) is final and not subject to appeal.</p> <p class=\"partnum\"><a name=\"BK10\"></a>Part III <br/>  Licensing</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "PART III  ",
+            "section_x": "PART III LICENSING",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "9.",
+            "section_x": "Licence to operate",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Licence to operate",
+            "content": "9 No person shall operate a race track at which horse racing in any of its forms is carried on unless the person holds a licence.",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>9 </b>No person shall operate a race track at which horse racing in any of its forms is carried on unless the person holds a licence.</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "10.",
+            "section_x": "Licences, other persons involved in racing",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Licences, other persons involved in racing",
+            "content": "10 No person shall, with respect to horse racing in any of its forms, act as an owner, trainer, driver, jockey, apprentice jockey, groom, jockey’s agent, jockey’s valet, exercise rider, tradesperson, horsepersons’ association, veterinarian or in any capacity provided for in the regulations unless the person holds a licence for that purpose.",
+            "raw_html": "<p class=\"section\"><a name=\"BK12\"></a><b>10 </b>No person shall, with respect to horse racing in any of its forms, act as an owner, trainer, driver, jockey, apprentice jockey, groom, jockey’s agent, jockey’s valet, exercise rider, tradesperson, horsepersons’ association, veterinarian or in any capacity provided for in the regulations unless the person holds a licence for that purpose.</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "11.",
+            "section_x": "Application for licence",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Application for licence",
+            "content": "11 An application for a licence or the renewal of a licence must be made to the Registrar in the form provided by the Registrar.",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>11 </b>An application for a licence or the renewal of a licence must be made to the Registrar in the form provided by the Registrar.</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "12.",
+            "section_x": "Inquiries",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Inquiries",
+            "content": "12 (1) The Registrar may make those inquiries and conduct those investigations into the character, financial history and competence of an applicant for a licence or the renewal of a licence that are necessary to determine whether the applicant meets the requirements of this Act, the regulations and the rules of racing. Corporations, partnerships (2) If the applicant is a corporation or partnership, the Registrar may make the inquiries into or conduct the investigations of the officers, directors or partners of the applicant. Costs (3) The applicant shall pay the reasonable costs of the inquiries or investigations or provide security to the Registrar in a form acceptable to the Registrar for the payment. Collection of information (4) The Registrar may require information, including personal information, or material from any person who is the subject of the inquiries or investigations and may request information or material from any person who the Registrar has reason to believe can provide information or material relevant to the inquiries or investigations. Disclosure of information (5) If the Registrar requires information or material from a person under subsection (4), the person shall disclose to the Registrar the information or material required, unless it is the subject of solicitor-client privilege. Verification of information (6) The Registrar may require that any information provided under subsection (4) be verified by statutory declaration. Disclosure by head of institution (7) Nothing in the Freedom of Information and Protection of Privacy Act or the Municipal Freedom of Information and Protection of Privacy Act\r\nprevents the head of an institution within the meaning of those Acts from disclosing to the Registrar the information or material that the Registrar requires under subsection (4).",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>12 </b>(1) The Registrar may make those inquiries and conduct those investigations into the character, financial history and competence of an applicant for a licence or the renewal of a licence that are necessary to determine whether the applicant meets the requirements of this Act, the regulations and the rules of racing.</p> <p class=\"headnote\">Corporations, partnerships</p> <p class=\"subsection\">(2) If the applicant is a corporation or partnership, the Registrar may make the inquiries into or conduct the investigations of the officers, directors or partners of the applicant.</p> <p class=\"headnote\">Costs</p> <p class=\"subsection\">(3) The applicant shall pay the reasonable costs of the inquiries or investigations or provide security to the Registrar in a form acceptable to the Registrar for the payment.</p> <p class=\"headnote\">Collection of information</p> <p class=\"subsection\">(4) The Registrar may require information, including personal information, or material from any person who is the subject of the inquiries or investigations and may request information or material from any person who the Registrar has reason to believe can provide information or material relevant to the inquiries or investigations.</p> <p class=\"headnote\">Disclosure of information</p> <p class=\"subsection\">(5) If the Registrar requires information or material from a person under subsection (4), the person shall disclose to the Registrar the information or material required, unless it is the subject of solicitor-client privilege.</p> <p class=\"headnote\">Verification of information</p> <p class=\"subsection\">(6) The Registrar may require that any information provided under subsection (4) be verified by statutory declaration.</p> <p class=\"headnote\">Disclosure by head of institution</p> <p class=\"subsection\">(7) Nothing in the <i>Freedom of Information and Protection of Privacy Act</i> or the <i>Municipal Freedom of Information and Protection of Privacy Act</i>\r\nprevents the head of an institution within the meaning of those Acts from disclosing to the Registrar the information or material that the Registrar requires under subsection (4).</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "13.",
+            "section_x": "Examinations",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Examinations",
+            "content": "13 The Registrar may require as a condition for the issuance of a licence, that an applicant for a licence or the renewal of a licence pass the examinations or attain the standards that the regulations or the rules of racing may provide for.",
+            "raw_html": "<p class=\"section\"><a name=\"BK15\"></a><b>13 </b>The Registrar may require as a condition for the issuance of a licence, that an applicant for a licence or the renewal of a licence pass the examinations or attain the standards that the regulations or the rules of racing may provide for.</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "14.",
+            "section_x": "Refusal to issue licence or renewal",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Refusal to issue licence or renewal",
+            "content": "14 The Registrar shall refuse to issue a licence to an applicant or to renew the licence of an applicant if, (a) there are reasonable grounds to believe that, when acting as a licensee, the applicant will not act in accordance with the law, or with integrity, honesty, or in the public interest, having regard to the past conduct of the applicant; or (b) the applicant is carrying on activities that are, or will be, if the applicant is licensed, in contravention of this Act, the regulations, the rules of racing or the conditions of the licence.",
+            "raw_html": "<p class=\"section\"><a name=\"BK16\"></a><b>14 </b>The Registrar shall refuse to issue a licence to an applicant or to renew the licence of an applicant if,</p> <p class=\"paragraph\">  (a) there are reasonable grounds to believe that, when acting as a licensee, the applicant will not act in accordance with the law, or with integrity, honesty, or in the public interest, having regard to the past conduct of the applicant; or</p> <p class=\"paragraph\">  (b) the applicant is carrying on activities that are, or will be, if the applicant is licensed, in contravention of this Act, the regulations, the rules of racing or the conditions of the licence.</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "15.",
+            "section_x": "Conditions of licence",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Conditions of licence",
+            "content": "15 (1) A licence is subject to those conditions to give effect to the purposes of this Act, (a) that the Registrar proposes and the applicant consents to; (b) that are imposed by virtue of sections 16 and 20; or (c) that are imposed under this Act or that are required to be imposed under the regulations. Compliance with rules (2) Every licence is subject to the condition that the licensee comply with every applicable requirement under the rules of racing.",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>15 </b>(1) A licence is subject to those conditions to give effect to the purposes of this Act,</p> <p class=\"paragraph\">  (a) that the Registrar proposes and the applicant consents to;</p> <p class=\"paragraph\">  (b) that are imposed by virtue of sections 16 and 20; or</p> <p class=\"paragraph\">  (c) that are imposed under this Act or that are required to be imposed under the regulations.</p> <p class=\"headnote\">Compliance with rules</p> <p class=\"subsection\">(2) Every licence is subject to the condition that the licensee comply with every applicable requirement under the rules of racing.</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "16.",
+            "section_x": "Review",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Review",
+            "content": "16 The Registrar may at any time review a licence and may, (a) attach to the licence any further conditions consented to by the licensee; or (b) issue a proposal under section 20 to attach to the licence any further conditions that the Registrar considers proper to give effect to the purposes of this Act.",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>16 </b>The Registrar may at any time review a licence and may,</p> <p class=\"paragraph\">  (a) attach to the licence any further conditions consented to by the licensee; or</p> <p class=\"paragraph\">  (b) issue a proposal under section 20 to attach to the licence any further conditions that the Registrar considers proper to give effect to the purposes of this Act.</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "17.",
+            "section_x": "Removal of conditions",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Removal of conditions",
+            "content": "17 (1) The Registrar may, on the application of a licensee, and if the Registrar considers it appropriate in the public interest, remove a condition to which the licensee had consented. Same (2) The Tribunal may, on the application of a licensee, and if the Tribunal considers it appropriate in the public interest, remove a condition other than a condition to which the licensee had consented, unless the condition is required to be imposed under this Act or the regulations.",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>17 </b>(1) The Registrar may, on the application of a licensee, and if the Registrar considers it appropriate in the public interest, remove a condition to which the licensee had consented.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The Tribunal may, on the application of a licensee, and if the Tribunal considers it appropriate in the public interest, remove a condition other than a condition to which the licensee had consented, unless the condition is required to be imposed under this Act or the regulations.</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "18.",
+            "section_x": "No transfers",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "No transfers",
+            "content": "18 A licence is not transferable.",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>18 </b>A licence is not transferable.</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "19.",
+            "section_x": "Suspension or revocation of licence",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Suspension or revocation of licence",
+            "content": "19 The Registrar may propose to suspend or to revoke a licence for any reason that would disentitle the applicant to the issuance or the renewal of the licence.",
+            "raw_html": "<p class=\"section\"><a name=\"BK21\"></a><b>19 </b>The Registrar may propose to suspend or to revoke a licence for any reason that would disentitle the applicant to the issuance or the renewal of the licence.</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "20.",
+            "section_x": "Registrar’s proposed order",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Registrar’s proposed order",
+            "content": "20 (1) If the Registrar refuses to issue or renew a licence, proposes to suspend or revoke a licence, or to add conditions to a licence to which the licensee has not consented, the Registrar shall serve notice of a proposed order, together with written reasons, on the applicant or licensee. Right to hearing (2) The notice of the proposed order shall inform the applicant or licensee that the person is entitled to a hearing before the Tribunal. Request for hearing (3) To request a hearing, the applicant or licensee shall serve a written request on the Registrar and the Tribunal within 15 days after the Registrar serves the notice of the proposed order. If no hearing (4) The Registrar may make the proposed order, if the applicant or licensee does not request a hearing within the allowed time. Hearing (5) If the person requests a hearing, the Tribunal shall schedule and hold the hearing. Order of Tribunal (6) After holding a hearing, the Tribunal may by order, (a) confirm or set aside the proposed order; (b) direct the Registrar to take the action that the Tribunal considers the Registrar ought to take to give effect to the purposes of this Act. Discretion of Tribunal (7) In making an order, the Tribunal may substitute its opinion for that of the Registrar. Conditions of order (8) The Tribunal may attach the conditions to its order or to the licence that it considers appropriate.",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>20 </b>(1) If the Registrar refuses to issue or renew a licence, proposes to suspend or revoke a licence, or to add conditions to a licence to which the licensee has not consented, the Registrar shall serve notice of a proposed order, together with written reasons, on the applicant or licensee.</p> <p class=\"headnote\">Right to hearing</p> <p class=\"subsection\">(2) The notice of the proposed order shall inform the applicant or licensee that the person is entitled to a hearing before the Tribunal.</p> <p class=\"headnote\">Request for hearing</p> <p class=\"subsection\">(3) To request a hearing, the applicant or licensee shall serve a written request on the Registrar and the Tribunal within 15 days after the Registrar serves the notice of the proposed order.</p> <p class=\"headnote\">If no hearing</p> <p class=\"subsection\">(4) The Registrar may make the proposed order, if the applicant or licensee does not request a hearing within the allowed time.</p> <p class=\"headnote\">Hearing</p> <p class=\"subsection\">(5) If the person requests a hearing, the Tribunal shall schedule and hold the hearing.</p> <p class=\"headnote\">Order of Tribunal</p> <p class=\"subsection\">(6) After holding a hearing, the Tribunal may by order,</p> <p class=\"paragraph\">  (a) confirm or set aside the proposed order;</p> <p class=\"paragraph\">  (b) direct the Registrar to take the action that the Tribunal considers the Registrar ought to take to give effect to the purposes of this Act.</p> <p class=\"headnote\">Discretion of Tribunal</p> <p class=\"subsection\">(7) In making an order, the Tribunal may substitute its opinion for that of the Registrar.</p> <p class=\"headnote\">Conditions of order</p> <p class=\"subsection\">(8) The Tribunal may attach the conditions to its order or to the licence that it considers appropriate.</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "21.",
+            "section_x": "Immediate suspension",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Immediate suspension",
+            "content": "21 (1) The Registrar may by order suspend a licence without serving notice of a proposed order under section 20, if the Registrar considers it to be necessary in the public interest. Service (2) The Registrar shall serve a copy of the order made together with written reasons for it on the licensee. Time of effectiveness (3) An order to suspend a licence under subsection (1) takes effect immediately upon being served. Right to hearing (4) Subsections 20 (2), (3) and (5) to (8) apply to the order in the same way as to a proposed order under that section. Combined hearing (5) If the Registrar makes an order under this section with respect to a licensee before a hearing is held under section 20 with respect to a notice of a proposed order that the Registrar has served on the licensee, the Tribunal may hold only one hearing to deal with both the order made and the proposed order.",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>21 </b>(1) The Registrar may by order suspend a licence without serving notice of a proposed order under section 20, if the Registrar considers it to be necessary in the public interest.</p> <p class=\"headnote\">Service</p> <p class=\"subsection\">(2) The Registrar shall serve a copy of the order made together with written reasons for it on the licensee.</p> <p class=\"headnote\">Time of effectiveness</p> <p class=\"subsection\">(3) An order to suspend a licence under subsection (1) takes effect immediately upon being served.</p> <p class=\"headnote\">Right to hearing</p> <p class=\"subsection\">(4) Subsections 20 (2), (3) and (5) to (8) apply to the order in the same way as to a proposed order under that section.</p> <p class=\"headnote\">Combined hearing</p> <p class=\"subsection\">(5) If the Registrar makes an order under this section with respect to a licensee before a hearing is held under section 20 with respect to a notice of a proposed order that the Registrar has served on the licensee, the Tribunal may hold only one hearing to deal with both the order made and the proposed order.</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "22.",
+            "section_x": "Cancellation of licence on request",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Cancellation of licence on request",
+            "content": "22 The Registrar may cancel a licence upon the request in writing of the licensee and section 20 does not apply.",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>22 </b>The Registrar may cancel a licence upon the request in writing of the licensee and section 20 does not apply.</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "23.",
+            "section_x": "Further applications",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Further applications",
+            "content": "23 (1) No person who is refused a licence or renewal of a licence or whose licence is revoked may apply to the Registrar for a licence until at least two years have passed since the refusal or revocation. Suspended licences (2) No person whose licence is suspended may apply to the Registrar for a licence during the suspension. Rejection of further application (3) Despite section 20, the Registrar may, without giving written reasons, reject an application made after the time period specified in subsection (1) if, in the Registrar’s opinion, the application discloses no substantial new evidence or no material change in circumstances since the refusal, revocation or suspension took effect. Not statutory power of decision (4) The Statutory Powers Procedure Act does not apply to the exercise of the Registrar’s power under subsection (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>23 </b>(1) No person who is refused a licence or renewal of a licence or whose licence is revoked may apply to the Registrar for a licence until at least two years have passed since the refusal or revocation.</p> <p class=\"headnote\">Suspended licences</p> <p class=\"subsection\">(2) No person whose licence is suspended may apply to the Registrar for a licence during the suspension.</p> <p class=\"headnote\">Rejection of further application</p> <p class=\"subsection\">(3) Despite section 20, the Registrar may, without giving written reasons, reject an application made after the time period specified in subsection (1) if, in the Registrar’s opinion, the application discloses no substantial new evidence or no material change in circumstances since the refusal, revocation or suspension took effect.</p> <p class=\"headnote\">Not statutory power of decision</p> <p class=\"subsection\">(4) The <i>Statutory Powers Procedure Act</i> does not apply to the exercise of the Registrar’s power under subsection (3).</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "24.",
+            "section_x": "Change in address for service",
+            "part_id": "PART III  ",
+            "part_type": "PART III LICENSING",
+            "section_y": "Change in address for service",
+            "content": "24 Every licensee shall, not later than five days after the change, serve the Registrar with a written notice of any change in address for service. Part IV   Enforcement",
+            "raw_html": "<p class=\"section\"><a name=\"BK26\"></a><b>24 </b>Every licensee shall, not later than five days after the change, serve the Registrar with a written notice of any change in address for service.</p> <p class=\"partnum\"><a name=\"BK27\"></a>Part IV <br/>  Enforcement</p>"
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "PART IV  ",
+            "section_x": "PART IV ENFORCEMENT",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "25.",
+            "section_x": "Inspectors",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Inspectors",
+            "content": "25 (1) The Registrar may designate persons employed by the Alcohol and Gaming Commission of Ontario as inspectors for the purpose of ensuring compliance with this Act, the regulations and the rules of racing. Certificate of designation (2) A person designated under subsection (1) who is acting as an inspector under this Act shall, on request, produce his or her certificate of designation.",
+            "raw_html": "<p class=\"section\"><a name=\"BK28\"></a><b>25 </b>(1) The Registrar may designate persons employed by the Alcohol and Gaming Commission of Ontario as inspectors for the purpose of ensuring compliance with this Act, the regulations and the rules of racing.</p> <p class=\"headnote\">Certificate of designation</p> <p class=\"subsection\">(2) A person designated under subsection (1) who is acting as an inspector under this Act shall, on request, produce his or her certificate of designation.</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "26.",
+            "section_x": "Inspections",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Inspections",
+            "content": "26 (1) For the purposes of carrying out an inspection, an inspector may enter any place or conveyance used in the business of horse racing at any reasonable time, and for that purpose may stop and detain any conveyance. Dwellings (2) The power to enter and inspect under this section shall not be exercised as a power to enter and inspect a place or conveyance or a part of a place or conveyance that is actually used as a dwelling. Powers of inspector (3) An inspector conducting an inspection may, (a) examine records or anything else that is relevant to the inspection; (b) demand the production of a record or any other thing that is relevant to the inspection; (c) on issuing a written receipt for it, remove a record or any other thing that is relevant to the inspection for review, examination or testing; (d) on issuing a written receipt for it, remove a record or any other thing that is relevant to the inspection for copying; (e) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the place; (f) take photographs or make any other kind of recording; and (g) inquire into all financial transactions, records and other matters that are relevant to the inspection. Written demand (4) A demand under this section that a record or any other thing be produced must be in writing and must include a statement of the nature of the record or thing required. Obligation to produce and assist (5) If an inspector demands that a record or any other thing be produced under this section, the person who has custody of the record or thing shall produce it and, in the case of a record, shall on request provide any assistance that is reasonably necessary to interpret the record or to produce it in a readable form. Records and things removed from place (6) A record or other thing that has been removed for review, examination, testing or copying, (a) shall be made available on request to the person from whom it was removed and at a time and place that are convenient for the person and for the inspector; and (b) shall be returned to the person within a reasonable time, unless, in the case of a thing that has been subject to testing, the thing has been made unsuitable for return as a result of the testing. Copy admissible in evidence (7) A copy of a record or other thing that purports to be certified by an inspector as being a true copy of the original is admissible in evidence to the same extent as the original and has the same evidentiary value. Seizure (8) An inspector conducting an inspection may seize anything the inspector discovers that the inspector reasonably believes not to be in compliance with this or any other Act, the regulations, or the rules for racing, and, subject to section 33, shall dispose of the thing seized in accordance with the direction of the Registrar, subject to anything provided for in the regulations. Obstruction (9) No person shall hinder, obstruct or interfere with or attempt to hinder, obstruct or interfere with an inspector conducting an inspection, refuse to answer questions on matters relevant to the inspection or provide the inspector with false information on matters relevant to the inspection. Experts (10) An inspector is entitled to call upon such experts as are necessary to assist in an inspection. Condition of licence (11) It is a condition of every licence that the licensee must facilitate inspections under this Act.",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>26 </b>(1) For the purposes of carrying out an inspection, an inspector may enter any place or conveyance used in the business of horse racing<b> </b>at any reasonable time, and for that purpose may stop and detain any conveyance.</p> <p class=\"headnote\">Dwellings</p> <p class=\"subsection\">(2) The power to enter and inspect under this section shall not be exercised as a power to enter and inspect a place or conveyance or a part of a place or conveyance that is actually used as a dwelling.</p> <p class=\"headnote\">Powers of inspector</p> <p class=\"subsection\">(3) An inspector conducting an inspection may,</p> <p class=\"paragraph\">  (a) examine records or anything else that is relevant to the inspection;</p> <p class=\"paragraph\">  (b) demand the production of a record or any other thing that is relevant to the inspection;</p> <p class=\"paragraph\">  (c) on issuing a written receipt for it, remove a record or any other thing that is relevant to the inspection for review, examination or testing;</p> <p class=\"paragraph\">  (d) on issuing a written receipt for it, remove a record or any other thing that is relevant to the inspection for copying;</p> <p class=\"paragraph\">  (e) in order to produce a record in readable form, use data storage, information processing or retrieval devices or systems that are normally used in carrying on business in the place;</p> <p class=\"paragraph\">  (f) take photographs or make any other kind of recording; and</p> <p class=\"paragraph\">  (g) inquire into all financial transactions, records and other matters that are relevant to the inspection.</p> <p class=\"headnote\">Written demand</p> <p class=\"subsection\">(4) A demand under this section that a record or any other thing be produced must be in writing and must include a statement of the nature of the record or thing required.</p> <p class=\"headnote\">Obligation to produce and assist</p> <p class=\"subsection\">(5) If an inspector demands that a record or any other thing be produced under this section, the person who has custody of the record or thing shall produce it and, in the case of a record, shall on request provide any assistance that is reasonably necessary to interpret the record or to produce it in a readable form.</p> <p class=\"headnote\">Records and things removed from place</p> <p class=\"subsection\">(6) A record or other thing that has been removed for review, examination, testing or copying,</p> <p class=\"paragraph\">  (a) shall be made available on request to the person from whom it was removed and at a time and place that are convenient for the person and for the inspector; and</p> <p class=\"paragraph\">  (b) shall be returned to the person within a reasonable time, unless, in the case of a thing that has been subject to testing, the thing has been made unsuitable for return as a result of the testing.</p> <p class=\"headnote\">Copy admissible in evidence</p> <p class=\"subsection\">(7) A copy of a record or other thing that purports to be certified by an inspector as being a true copy of the original is admissible in evidence to the same extent as the original and has the same evidentiary value.</p> <p class=\"headnote\">Seizure</p> <p class=\"subsection\">(8) An inspector conducting an inspection may seize anything the inspector discovers that the inspector reasonably believes not to be in compliance with this or any other Act, the regulations, or the rules for racing,<b> </b>and, subject to section 33, shall dispose of the thing seized in accordance with the direction of the Registrar, subject to anything provided for in the regulations.</p> <p class=\"headnote\">Obstruction</p> <p class=\"subsection\">(9) No person shall hinder, obstruct or interfere with or attempt to hinder, obstruct or interfere with an inspector conducting an inspection, refuse to answer questions on matters relevant to the inspection or provide the inspector with false information on matters relevant to the inspection.</p> <p class=\"headnote\">Experts</p> <p class=\"subsection\">(10) An inspector is entitled to call upon such experts as are necessary to assist in an inspection.</p> <p class=\"headnote\">Condition of licence</p> <p class=\"subsection\">(11) It is a condition of every licence that the licensee must facilitate inspections under this Act.</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "27.",
+            "section_x": "Investigators",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Investigators",
+            "content": "27 (1) The Registrar may appoint any person to be an investigator for the purpose of determining whether there has been a contravention of this Act or the regulations. Certificate of appointment (2) The Registrar shall issue a certificate of appointment to every investigator. Police officers (3) Police officers are investigators by virtue of office but subsection (2) does not apply to them. Proof of appointment (4) Every investigator who exercises powers under this Act shall, upon request, produce the certificate of appointment as an investigator or identification as a police officer, as the case may be.",
+            "raw_html": "<p class=\"section\"><a name=\"BK30\"></a><b>27 </b>(1) The Registrar may appoint any person to be an investigator for the purpose of determining whether there has been a contravention of this Act or the regulations.</p> <p class=\"headnote\">Certificate of appointment</p> <p class=\"subsection\">(2) The Registrar shall issue a certificate of appointment to every investigator.</p> <p class=\"headnote\">Police officers</p> <p class=\"subsection\">(3) Police officers are investigators by virtue of office but subsection (2) does not apply to them.</p> <p class=\"headnote\">Proof of appointment</p> <p class=\"subsection\">(4) Every investigator who exercises powers under this Act shall, upon request, produce the certificate of appointment as an investigator or identification as a police officer, as the case may be.</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "28.",
+            "section_x": "Warrants",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Warrants",
+            "content": "28 (1) Upon application made without notice by an investigator, a justice of the peace may issue a warrant, if satisfied on information under oath that there are reasonable grounds to believe that, (a) there has been or is likely to be a contravention of this Act or the regulations; and (b) there is, in any place or conveyance anything relating to the contravention of this Act or the regulations. Powers under warrant (2) Subject to any conditions contained in it, a warrant obtained under subsection (1) authorizes an investigator, (a) to enter or access the place or conveyance specified in the warrant and examine and seize anything described in the warrant; (b) to use any data storage, processing or retrieval device or system used in carrying on business in order to produce information or evidence described in the warrant, in any form; (c) to exercise any of the powers specified in subsection (10); and (d) to use any investigative technique or procedure or do anything described in the warrant. Entry of dwelling (3) Despite subsection (2), an investigator shall not exercise the power under a warrant to enter a place or conveyance, or part of a place or conveyance, actually used as a dwelling, unless, (a) the justice of the peace is informed that the warrant is being sought to authorize entry into a dwelling; and (b) the justice of the peace authorizes the entry into the dwelling. Conditions on warrant (4) A warrant obtained under subsection (1) shall contain the conditions that the justice of the peace considers advisable to ensure that any search authorized by the warrant is reasonable in the circumstances. Execution of warrant (5) A warrant issued under this section shall specify the hours and days during which it may be executed. Expiry (6) Unless renewed, a warrant under this section expires not later than 30 days after the date on which it is made. Renewal of warrant (7) A warrant under this section may be renewed for any reason for which it may be issued. Assistance (8) An investigator acting under the authority of a warrant issued under this section is authorized to call on police officers and experts to assist in the execution of the warrant and to use such force as is necessary in the execution of the warrant. No obstruction (9) No person shall obstruct an investigator executing a warrant under this section or withhold from the investigator or conceal, alter or destroy anything relevant to the investigation being conducted pursuant to the warrant. Assistance (10) An investigator may, in the course of executing a warrant, require a person to produce the evidence or information described in the warrant and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the evidence or information described in the warrant and the person shall produce the evidence or information or provide the assistance. Return of seized items (11) Subject to section 33, an investigator who seizes anything under this section or section 29 may make a copy of it and shall return it within a reasonable time or shall dispose of it in accordance with the direction of the Registrar, subject to anything provided for in the regulations. Admissibility (12) A copy of a document or record certified by an investigator as being a true copy of the original is admissible in evidence to the same extent as the original and has the same evidentiary value.",
+            "raw_html": "<p class=\"section\"><a name=\"BK31\"></a><b>28 </b>(1) Upon application made without notice by an investigator, a justice of the peace may issue a warrant, if satisfied on information under oath that there are reasonable grounds to believe that,</p> <p class=\"paragraph\">  (a) there has been or is likely to be a contravention of this Act or the regulations; and</p> <p class=\"paragraph\">  (b) there is, in any place or conveyance anything relating to the contravention of this Act or the regulations.</p> <p class=\"headnote\">Powers under warrant</p> <p class=\"subsection\">(2) Subject to any conditions contained in it, a warrant obtained under subsection (1) authorizes an investigator,</p> <p class=\"paragraph\">  (a) to enter or access the place or conveyance specified in the warrant and examine and seize anything described in the warrant;</p> <p class=\"paragraph\">  (b) to use any data storage, processing or retrieval device or system used in carrying on business in order to produce information or evidence described in the warrant, in any form;</p> <p class=\"paragraph\">  (c) to exercise any of the powers specified in subsection (10); and</p> <p class=\"paragraph\">  (d) to use any investigative technique or procedure or do anything described in the warrant.</p> <p class=\"headnote\">Entry of dwelling</p> <p class=\"subsection\">(3) Despite subsection (2), an investigator shall not exercise the power under a warrant to enter a place or conveyance, or part of a place or conveyance, actually used as a dwelling, unless,</p> <p class=\"paragraph\">  (a) the justice of the peace is informed that the warrant is being sought to authorize entry into a dwelling; and</p> <p class=\"paragraph\">  (b) the justice of the peace authorizes the entry into the dwelling.</p> <p class=\"headnote\">Conditions on warrant</p> <p class=\"subsection\">(4) A warrant obtained under subsection (1) shall contain the conditions that the justice of the peace considers advisable to ensure that any search authorized by the warrant is reasonable in the circumstances.</p> <p class=\"headnote\">Execution of warrant</p> <p class=\"subsection\">(5) A warrant issued under this section shall specify the hours and days during which it may be executed.</p> <p class=\"headnote\">Expiry</p> <p class=\"subsection\">(6) Unless renewed, a warrant under this section expires not later than 30 days after the date on which it is made.</p> <p class=\"headnote\">Renewal of warrant</p> <p class=\"subsection\">(7) A warrant under this section may be renewed for any reason for which it may be issued.</p> <p class=\"headnote\">Assistance</p> <p class=\"subsection\">(8) An investigator acting under the authority of a warrant issued under this section is authorized to call on police officers and experts to assist in the execution of the warrant and to use such force as is necessary in the execution of the warrant.</p> <p class=\"headnote\">No obstruction</p> <p class=\"subsection\">(9) No person shall obstruct an investigator executing a warrant under this section or withhold from the investigator or conceal, alter or destroy anything relevant to the investigation being conducted pursuant to the warrant.</p> <p class=\"headnote\">Assistance</p> <p class=\"subsection\">(10) An investigator may, in the course of executing a warrant, require a person to produce the evidence or information described in the warrant and to provide whatever assistance is reasonably necessary, including using any data storage, processing or retrieval device or system to produce, in any form, the evidence or information described in the warrant and the person shall produce the evidence or information or provide the assistance.</p> <p class=\"headnote\">Return of seized items</p> <p class=\"subsection\">(11) Subject to section 33, an investigator who seizes anything under this section or section 29 may make a copy of it and shall return it within a reasonable time or shall dispose of it in accordance with the direction of the Registrar, subject to anything provided for in the regulations.</p> <p class=\"headnote\">Admissibility</p> <p class=\"subsection\">(12) A copy of a document or record certified by an investigator as being a true copy of the original is admissible in evidence to the same extent as the original and has the same evidentiary value.</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "29.",
+            "section_x": "Seizure of things not specified",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Seizure of things not specified",
+            "content": "29 An investigator who is lawfully present in a place or conveyance pursuant to a warrant or otherwise in the execution of the investigator’s duties may, without a warrant, seize anything in plain view that the investigator believes on reasonable grounds will afford evidence relating to a contravention of this Act or the regulations or the rules of racing.",
+            "raw_html": "<p class=\"section\"><a name=\"BK32\"></a><b>29 </b>An investigator who is lawfully present in a place or conveyance pursuant to a warrant or otherwise in the execution of the investigator’s duties may, without a warrant, seize anything in plain view that the investigator believes on reasonable grounds will afford evidence relating to a contravention of this Act or the regulations or the rules of racing.</p>"
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "30.",
+            "section_x": "Searches in exigent circumstances",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Searches in exigent circumstances",
+            "content": "30 (1) An investigator may exercise any of the powers described in subsection 28 (2) without a warrant if the conditions for obtaining the warrant exist but by reason of exigent circumstances it would be impracticable to obtain the warrant. Dwellings (2) Subsection (1) does not apply to a building or conveyance or part of a building or conveyance that is actually being used as a dwelling. Use of force (3) The investigator may, in executing any authority given by this section, call upon police officers for assistance and use whatever force is reasonably necessary. Applicability of s. 28 (4) Subsections 28 (8), (9), (10), (11) and (12) apply with necessary modifications to a search under this section.",
+            "raw_html": "<p class=\"section\"><a name=\"BK33\"></a><b>30 </b>(1) An investigator may exercise any of the powers described in subsection 28 (2) without a warrant if the conditions for obtaining the warrant exist but by reason of exigent circumstances it would be impracticable to obtain the warrant.</p> <p class=\"headnote\">Dwellings</p> <p class=\"subsection\">(2) Subsection (1) does not apply to a building or conveyance or part of a building or conveyance that is actually being used as a dwelling.</p> <p class=\"headnote\">Use of force</p> <p class=\"subsection\">(3) The investigator may, in executing any authority given by this section, call upon police officers for assistance and use whatever force is reasonably necessary.</p> <p class=\"headnote\">Applicability of s. 28</p> <p class=\"subsection\">(4) Subsections 28 (8), (9), (10), (11) and (12) apply with necessary modifications to a search under this section.</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "31.",
+            "section_x": "Application of Public Inquiries Act, 2009",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Application of Public Inquiries Act, 2009",
+            "content": "31 Section 33 of the Public Inquiries Act, 2009 applies to an investigation by an investigator under this Act.",
+            "raw_html": "<p class=\"section\"><a name=\"BK34\"></a><b>31 </b>Section 33 of the <i>Public Inquiries Act, 2009</i> applies to an investigation by an investigator under this Act.</p>"
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "32.",
+            "section_x": "Possession of proceeds",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Possession of proceeds",
+            "content": "32 No person shall knowingly possess the proceeds of an offence under this Act.",
+            "raw_html": "<p class=\"section\"><a name=\"BK35\"></a><b>32 </b>No person shall knowingly possess the proceeds of an offence under this Act.</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "33.",
+            "section_x": "Order of restoration",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Order of restoration",
+            "content": "33 (1) The Ontario Court of Justice may, upon the application of any person made within 30 days of a seizure authorized under this Act, order that the things seized be restored forthwith to the applicant if the court is satisfied that, (a) the applicant is entitled to possession of the things seized; (b) the things seized are not required as evidence in any proceeding; (c) continued detention of the things seized is not necessary to prevent the commission of an offence; (d) the best interests of the horse racing industry and of animal welfare do not require the continued detention of the things seized; and (e) it is unlikely that the things will be forfeited on conviction under subsection (4). Same (2) If the court is satisfied that an applicant under subsection (1) is entitled to possession of the things seized but is not satisfied as to all of the matters mentioned in clauses (1) (b), (c) and (d), it shall order that the things seized be restored to the applicant, (a) upon the expiration of three months from the date of the seizure, if no proceeding in respect of an offence has been commenced; or (b) upon the final conclusion of such a proceeding. Forfeiture (3) If no application has been made for the return of a thing seized under this section or an application has been made but upon the hearing of the application no order of restoration has been made, the thing seized is forfeited to the Crown. Same (4) If a person is convicted of an offence under this Act, the court shall order that anything seized in connection with the offence be forfeited to the Crown, unless the court considers that the forfeiture would be unjust in the circumstances. Relief against forfeiture (5) Any person with an interest in a thing forfeited under this section may apply to the Superior Court of Justice for relief against the forfeiture and the court may make an order providing for any relief that it considers just, including, but not limited to, one or more of the following orders: 1. An order directing that the thing or any part of the thing be returned to the applicant. 2. An order directing that any interest in the thing be vested in the applicant. Same (6) The court shall not order any relief under subsection (5) unless the court is satisfied that the applicant did not, directly or indirectly, participate in, or benefit from, any offence in connection with which the thing was seized.",
+            "raw_html": "<p class=\"section\"><a name=\"BK36\"></a><b>33 </b>(1) The Ontario Court of Justice may, upon the application of any person made within 30 days of a seizure authorized under this Act, order that the things seized be restored forthwith to the applicant if the court is satisfied that,</p> <p class=\"paragraph\">  (a) the applicant is entitled to possession of the things seized;</p> <p class=\"paragraph\">  (b) the things seized are not required as evidence in any proceeding;</p> <p class=\"paragraph\">  (c) continued detention of the things seized is not necessary to prevent the commission of an offence;</p> <p class=\"paragraph\">  (d) the best interests of the horse racing industry and of animal welfare do not require the continued detention of the things seized; and</p> <p class=\"paragraph\">  (e) it is unlikely that the things will be forfeited on conviction under subsection (4).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) If the court is satisfied that an applicant under subsection (1) is entitled to possession of the things seized but is not satisfied as to all of the matters mentioned in clauses (1) (b), (c) and (d), it shall order that the things seized be restored to the applicant,</p> <p class=\"paragraph\">  (a) upon the expiration of three months from the date of the seizure, if no proceeding in respect of an offence has been commenced; or</p> <p class=\"paragraph\">  (b) upon the final conclusion of such a proceeding.</p> <p class=\"headnote\">Forfeiture</p> <p class=\"subsection\">(3) If no application has been made for the return of a thing seized under this section or an application has been made but upon the hearing of the application no order of restoration has been made, the thing seized is forfeited to the Crown.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(4) If a person is convicted of an offence under this Act, the court shall order that anything seized in connection with the offence be forfeited to the Crown, unless the court considers that the forfeiture would be unjust in the circumstances.</p> <p class=\"headnote\">Relief against forfeiture</p> <p class=\"subsection\">(5) Any person with an interest in a thing forfeited under this section may apply to the Superior Court of Justice for relief against the forfeiture and the court may make an order providing for any relief that it considers just, including, but not limited to, one or more of the following orders:</p> <p class=\"paragraph\">  1. An order directing that the thing or any part of the thing be returned to the applicant.</p> <p class=\"paragraph\">  2. An order directing that any interest in the thing be vested in the applicant.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(6) The court shall not order any relief under subsection (5) unless the court is satisfied that the applicant did not, directly or indirectly, participate in, or benefit from, any offence in connection with which the thing was seized.</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "34.",
+            "section_x": "Arrest without warrant",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Arrest without warrant",
+            "content": "34 If an investigator who is a police officer finds a person apparently in contravention of this Act or apparently in contravention of a prescribed provision of the regulations and the person refuses to give his or her name and address or there are reasonable grounds to believe that the name or address given is false, the investigator may arrest the person without warrant.",
+            "raw_html": "<p class=\"section\"><a name=\"BK37\"></a><b>34 </b>If an investigator who is a police officer finds a person apparently in contravention of this Act or apparently in contravention of a prescribed provision of the regulations and the person refuses to give his or her name and address or there are reasonable grounds to believe that the name or address given is false, the investigator may arrest the person without warrant.</p>"
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "35.",
+            "section_x": "Testimony in civil proceeding",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Testimony in civil proceeding",
+            "content": "35 No person engaged in the administration of this Act shall be required to give testimony in any civil proceeding with regard to information obtained by the person in the course of the person’s duties except in a proceeding under this Act.",
+            "raw_html": "<p class=\"section\"><a name=\"BK38\"></a><b>35 </b>No person engaged in the administration of this Act shall be required to give testimony in any civil proceeding with regard to information obtained by the person in the course of the person’s duties except in a proceeding under this Act.</p>"
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "36.",
+            "section_x": "Immunity",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Immunity",
+            "content": "36 (1) No action or other proceeding for damages may be instituted against any person engaged in the administration of this Act for any act done in good faith in the execution or intended execution of the person’s duty or for any alleged neglect or default in the execution in good faith of the person’s duty. 2015, c. 38, Sched. 9, s. 36 (1). Crown liability (2) Despite subsection 8 (3) of the Crown Liability and Proceedings Act, 2019, subsection (1) does not relieve the Crown of liability in respect of a tort committed by a person mentioned in subsection (1) to which it would otherwise be subject. 2015, c. 38, Sched. 9, s. 36 (2); 2019, c. 7, Sched. 17, s. 91. Section Amendments with date in force (d/m/y) 2019, c. 7, Sched. 17, s. 91 - 01/07/2019",
+            "raw_html": "<p class=\"section\"><a name=\"BK39\"></a><b>36 </b>(1) No action or other proceeding for damages may be instituted against any person engaged in the administration of this Act for any act done in good faith in the execution or intended execution of the person’s duty or for any alleged neglect or default in the execution in good faith of the person’s duty. 2015, c. 38, Sched. 9, s. 36 (1).</p> <p class=\"headnote\">Crown liability</p> <p class=\"subsection\">(2) Despite subsection 8 (3) of the <i>Crown Liability and Proceedings Act, 2019</i>, subsection (1) does not relieve the Crown of liability in respect of a tort committed by a person mentioned in subsection (1) to which it would otherwise be subject. 2015, c. 38, Sched. 9, s. 36 (2); 2019, c. 7, Sched. 17, s. 91.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19007#sched17s91\">2019, c. 7, Sched. 17, s. 91</a></span> - 01/07/2019</p>"
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "37.",
+            "section_x": "Information",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Information",
+            "content": "37 (1) The Commission and any other agencies responsible for regulating horse racing and transfer payments to racetracks may disclose information to the Registrar for the purpose of conducting research and analysis, including statistical analysis, of the horse racing industry or such other purposes as may be prescribed. Collection and use (2) The Registrar may collect and use information, including personal information, from the Commission, other agencies, ministries and other sources for the purpose of conducting research and analysis, including statistical analysis, of the horse racing industry or such other purposes related to the administration and regulation of the horse racing industry as may be prescribed. Personal information (3) The Registrar shall not collect or use personal information under this section if other information will serve the purpose of the collection or use. Same (4) The Registrar shall not collect or use more personal information under this section than is reasonably necessary to meet the purpose of the collection or use. Delegation (5) The Registrar may delegate the collection and use powers set out in this section to a Deputy Minister of a Ministry or a public servant employed under Part III of the Public Service of Ontario Act, 2006.",
+            "raw_html": "<p class=\"section\"><a name=\"BK40\"></a><b>37 </b>(1) The Commission and any other agencies responsible for regulating horse racing and transfer payments to racetracks may disclose information to the Registrar for the purpose of conducting research and analysis, including statistical analysis, of the horse racing industry or such other purposes as may be prescribed.</p> <p class=\"headnote\">Collection and use</p> <p class=\"subsection\">(2) The Registrar may collect and use information, including personal information, from the Commission, other agencies, ministries and other sources for the purpose of conducting research and analysis, including statistical analysis, of the horse racing industry or such other purposes related to the administration and regulation of the horse racing industry as may be prescribed.</p> <p class=\"headnote\">Personal information</p> <p class=\"subsection\">(3) The Registrar shall not collect or use personal information under this section if other information will serve the purpose of the collection or use.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(4) The Registrar shall not collect or use more personal information under this section than is reasonably necessary to meet the purpose of the collection or use.</p> <p class=\"headnote\">Delegation</p> <p class=\"subsection\">(5) The Registrar may delegate the collection and use powers set out in this section to a Deputy Minister of a Ministry or a public servant employed under Part III of the <i>Public Service of Ontario Act, 2006</i>.</p>"
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "38.",
+            "section_x": "No cruelty to race horses",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "No cruelty to race horses",
+            "content": "38 (1) No person shall commit an act of cruelty or neglect to a race horse in any place. “Race horse” (2) In this section, “race horse” means a horse that has participated in racing within the past 60 days or is within 60 days of participating in racing. Generally accepted practices (3) This section does not apply to generally accepted practices of agricultural animal care, management or husbandry.",
+            "raw_html": "<p class=\"section\"><a name=\"BK41\"></a><b>38 </b>(1) No person shall commit an act of cruelty or neglect to a race horse in any place.</p> <p class=\"headnote\">“Race horse”</p> <p class=\"subsection\">(2) In this section,</p> <p class=\"definition\">“race horse” means a horse that has participated in racing within the past 60 days or is within 60 days of participating in racing.</p> <p class=\"headnote\">Generally accepted practices</p> <p class=\"subsection\">(3) This section does not apply to generally accepted practices of agricultural animal care, management or husbandry.</p>"
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "39.",
+            "section_x": "Improper interference",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Improper interference",
+            "content": "39 No person shall benefit financially or otherwise from any activity that wrongfully affects or attempts to affect the outcome of a horse race or other officially timed horse racing event.",
+            "raw_html": "<p class=\"section\"><a name=\"BK42\"></a><b>39 </b>No person shall benefit financially or otherwise from any activity that wrongfully affects or attempts to affect the outcome of a horse race or other officially timed horse racing event.</p>"
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "40.",
+            "section_x": "Adverse impact on integrity",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Adverse impact on integrity",
+            "content": "40 No person shall engage in any activity that adversely impacts upon the integrity of horse racing.",
+            "raw_html": "<p class=\"section\"><a name=\"BK43\"></a><b>40 </b>No person shall engage in any activity that adversely impacts upon the integrity of horse racing.</p>"
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "41.",
+            "section_x": "Offences",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV ENFORCEMENT",
+            "section_y": "Offences",
+            "content": "41 (1) A person is guilty of an offence if the person, (a) knowingly furnishes false information in any application under this Act; (b) knowingly fails to comply with a Registrar’s order under this Act; or (c) contravenes any provision of this Act or the regulations. Directors, officers (2) It is an offence for any director or officer of a corporation to cause, authorize, permit, or participate or acquiesce in the commission by the corporation of an offence mentioned in subsection (1). Penalty, non-corporations (3) Every individual convicted of an offence under this Act is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both. Penalty, corporations (4) Every corporation convicted of an offence under this Act is liable to a fine of not more than $500,000. Limitation (5) No proceeding under this section shall be commenced more than five years after the time when the subject matter of the proceeding arose. Part V   General",
+            "raw_html": "<p class=\"section\"><a name=\"BK44\"></a><b>41 </b>(1) A person is guilty of an offence if the person,</p> <p class=\"paragraph\">  (a) knowingly furnishes false information in any application under this Act;</p> <p class=\"paragraph\">  (b) knowingly fails to comply with a Registrar’s order under this Act; or</p> <p class=\"paragraph\">  (c) contravenes any provision of this Act or the regulations.</p> <p class=\"headnote\">Directors, officers</p> <p class=\"subsection\">(2) It is an offence for any director or officer of a corporation to cause, authorize, permit, or participate or acquiesce in the commission by the corporation of an offence mentioned in subsection (1).</p> <p class=\"headnote\">Penalty, non-corporations</p> <p class=\"subsection\">(3) Every individual convicted of an offence under this Act is liable to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both.</p> <p class=\"headnote\">Penalty, corporations</p> <p class=\"subsection\">(4) Every corporation convicted of an offence under this Act is liable to a fine of not more than $500,000.</p> <p class=\"headnote\">Limitation</p> <p class=\"subsection\">(5) No proceeding under this section shall be commenced more than five years after the time when the subject matter of the proceeding arose.</p> <p class=\"partnum\"><a name=\"BK45\"></a>Part V <br/>  General</p>"
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "PART V  ",
+            "section_x": "PART V GENERAL",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "42.",
+            "section_x": "Regulations",
+            "part_id": "PART V  ",
+            "part_type": "PART V GENERAL",
+            "section_y": "Regulations",
+            "content": "42 (1) The Lieutenant Governor in Council may make regulations for implementing the purposes, provisions and intent of this Act. Same (2) Without restricting the generality of subsection (1), the Lieutenant Governor in Council may make regulations, (a) governing anything that this Act describes as being prescribed, provided for or required in the regulations; (b) governing horse racing, race tracks and off-track betting; (c) respecting the powers of the Registrar; (d) governing the contents and enforcement of the rules of racing; (e) governing licensing under this Act; (f) governing the service of documents for the purposes of this Act; (g) providing for exemptions from this Act or any provision of this Act subject to the conditions, if any, provided for in the regulations; (h) governing transitional matters arising from the repeal of the Racing Commission Act, 2000.",
+            "raw_html": "<p class=\"section\"><a name=\"BK46\"></a><b>42 </b>(1) The Lieutenant Governor in Council may make regulations for implementing the purposes, provisions and intent of this Act.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) Without restricting the generality of subsection (1), the Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a) governing anything that this Act describes as being prescribed, provided for or required in the regulations;</p> <p class=\"paragraph\">  (b) governing horse racing, race tracks and off-track betting;</p> <p class=\"paragraph\">  (c) respecting the powers of the Registrar;</p> <p class=\"paragraph\">  (d) governing the contents and enforcement of the rules of racing;</p> <p class=\"paragraph\">  (e) governing licensing under this Act;</p> <p class=\"paragraph\">  (f) governing the service of documents for the purposes of this Act;</p> <p class=\"paragraph\">  (g) providing for exemptions from this Act or any provision of this Act subject to the conditions, if any, provided for in the regulations;</p> <p class=\"paragraph\">  (h) governing transitional matters arising from the repeal of the <i>Racing Commission Act, 2000</i>.</p>"
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "43.",
+            "section_x": "Transition, corporate matters",
+            "part_id": "PART V  ",
+            "part_type": "PART V GENERAL",
+            "section_y": "Transition, corporate matters",
+            "content": "43 The following occurs when section 2 comes into force: 1. The Ontario Racing Commission is dissolved. 2. All rights, property and assets that belonged to the Ontario Racing Commission immediately before this section came into force become the rights, property and assets of the Commission. 3. All debts, liabilities and obligations of the Ontario Racing Commission immediately before this section came into force become the debts, liabilities and obligations of the Commission.",
+            "raw_html": "<p class=\"section\"><a name=\"BK47\"></a><b>43 </b>The following occurs when section 2 comes into force:</p> <p class=\"paragraph\">  1. The Ontario Racing Commission is dissolved.</p> <p class=\"paragraph\">  2. All rights, property and assets that belonged to the Ontario Racing Commission immediately before this section came into force become the rights, property and assets of the Commission.</p> <p class=\"paragraph\">  3. All debts, liabilities and obligations of the Ontario Racing Commission immediately before this section came into force become the debts, liabilities and obligations of the Commission.</p>"
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "44.",
+            "section_x": "Transition, licensing matters and rules of racing",
+            "part_id": "PART V  ",
+            "part_type": "PART V GENERAL",
+            "section_y": "Transition, licensing matters and rules of racing",
+            "content": "44 The following occurs when section 9 comes into force: 1. Licences and registrations issued under the Racing Commission Act, 2000 are continued as licences and registrations respectively issued under this Act. 2. The rules for racing and any orders and delegations made by the Ontario Racing Commission under the Racing Commission Act, 2000 are continued as the rules of racing and as orders and delegations respectively made by the Registrar under this Act until they are amended, repealed or replaced by the Registrar. 3. The by-laws made by the Ontario Racing Commission under the Racing Commission Act, 2000 are continued as by-laws of the Alcohol and Gaming Commission of Ontario with respect to this Act until they are amended, repealed or replaced by that Commission. 45.-47 Omitted (amends, repeals or revokes other legislation). 48 Omitted\r\n(provides for coming into force of provisions of this Act). 49 Omitted (enacts short title of this Act). ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK48\"></a><b>44 </b>The following occurs when section 9 comes into force:</p> <p class=\"paragraph\">  1. Licences and registrations issued under the <i>Racing Commission Act, 2000</i> are continued as licences and registrations respectively issued under this Act.</p> <p class=\"paragraph\">  2. The rules for racing and any orders and delegations made by the Ontario Racing Commission under the <i>Racing Commission Act, 2000</i> are continued as the rules of racing and as orders and delegations respectively made by the Registrar under this Act until they are amended, repealed or replaced by the Registrar.</p> <p class=\"paragraph\">  3. The by-laws made by the Ontario Racing Commission under the <i>Racing Commission Act, 2000</i> are continued as by-laws of the Alcohol and Gaming Commission of Ontario with respect to this Act until they are amended, repealed or replaced by that Commission.</p> <p class=\"section\"><b>45</b><b>.-47 </b><span class=\"ovsmallcap\">Omitted (amends, repeals or revokes other legislation).</span></p> <p class=\"section\"><b>48 </b><span class=\"ovsmallcap\">Omitted</span>\r\n(<span class=\"ovsmallcap\">provides for coming into force of provisions of this Act</span>).</p> <p class=\"section\"><b>49</b><b> </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act).</span></p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/15h38\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

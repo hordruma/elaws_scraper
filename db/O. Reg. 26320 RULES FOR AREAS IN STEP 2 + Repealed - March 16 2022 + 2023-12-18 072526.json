@@ -1,0 +1,331 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 263/20: RULES FOR AREAS IN STEP 2",
+        "reg_name_text": "Rules for Areas in SteP 2",
+        "citation": "O. Reg. 263/20: RULES FOR AREAS IN STEP 2",
+        "act_under": "Reopening Ontario (A Flexible Response to COVID-19) Act, 2020",
+        "url": "https://www.ontario.ca/laws/regulation/200263",
+        "date_scraped": "2023-12-18 07:25:28"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/200263/v51",
+            "valid_from": "March 10, 2022",
+            "valid_to": "March 15, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v50",
+            "valid_from": "January 18, 2022",
+            "valid_to": "March  9, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v49",
+            "valid_from": "January 17, 2022",
+            "valid_to": "January 17, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v48",
+            "valid_from": "January  3, 2022",
+            "valid_to": "January 16, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v47",
+            "valid_from": "January  1, 2022",
+            "valid_to": "January  2, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v46",
+            "valid_from": "December 10, 2021",
+            "valid_to": "December 31, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v45",
+            "valid_from": "July  7, 2021",
+            "valid_to": "December  9, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v44",
+            "valid_from": "June 29, 2021",
+            "valid_to": "July  6, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v43",
+            "valid_from": "June 23, 2021",
+            "valid_to": "June 28, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v42",
+            "valid_from": "May 20, 2021",
+            "valid_to": "June 22, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v41",
+            "valid_from": "April 23, 2021",
+            "valid_to": "May 19, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v40",
+            "valid_from": "March 29, 2021",
+            "valid_to": "April 22, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v39",
+            "valid_from": "March 26, 2021",
+            "valid_to": "March 28, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v38",
+            "valid_from": "March 20, 2021",
+            "valid_to": "March 25, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v37",
+            "valid_from": "March 19, 2021",
+            "valid_to": "March 19, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v36",
+            "valid_from": "March  5, 2021",
+            "valid_to": "March 18, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v35",
+            "valid_from": "February 26, 2021",
+            "valid_to": "March  4, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v34",
+            "valid_from": "February 19, 2021",
+            "valid_to": "February 25, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v33",
+            "valid_from": "February 16, 2021",
+            "valid_to": "February 18, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v32",
+            "valid_from": "February 12, 2021",
+            "valid_to": "February 15, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v31",
+            "valid_from": "February 10, 2021",
+            "valid_to": "February 11, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v30",
+            "valid_from": "February  9, 2021",
+            "valid_to": "February  9, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v29",
+            "valid_from": "January  9, 2021",
+            "valid_to": "February  8, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v28",
+            "valid_from": "November 27, 2020",
+            "valid_to": "January  8, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v27",
+            "valid_from": "November 23, 2020",
+            "valid_to": "November 26, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v26",
+            "valid_from": "November 22, 2020",
+            "valid_to": "November 22, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v25",
+            "valid_from": "November 14, 2020",
+            "valid_to": "November 21, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v24",
+            "valid_from": "November 13, 2020",
+            "valid_to": "November 13, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v23",
+            "valid_from": "November  7, 2020",
+            "valid_to": "November 12, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v22",
+            "valid_from": "November  6, 2020",
+            "valid_to": "November  6, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v21",
+            "valid_from": "October 19, 2020",
+            "valid_to": "November  5, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v20",
+            "valid_from": "October 17, 2020",
+            "valid_to": "October 18, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v19",
+            "valid_from": "October 16, 2020",
+            "valid_to": "October 16, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v18",
+            "valid_from": "October 13, 2020",
+            "valid_to": "October 15, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v17",
+            "valid_from": "October 10, 2020",
+            "valid_to": "October 12, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v16",
+            "valid_from": "October  9, 2020",
+            "valid_to": "October  9, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v15",
+            "valid_from": "August 21, 2020",
+            "valid_to": "October  8, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v14",
+            "valid_from": "August 20, 2020",
+            "valid_to": "August 20, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v13",
+            "valid_from": "August 15, 2020",
+            "valid_to": "August 19, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v12",
+            "valid_from": "August 14, 2020",
+            "valid_to": "August 14, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v11",
+            "valid_from": "August  7, 2020",
+            "valid_to": "August 13, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v10",
+            "valid_from": "July 31, 2020",
+            "valid_to": "August  6, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v9",
+            "valid_from": "July 30, 2020",
+            "valid_to": "July 30, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v8",
+            "valid_from": "July 15, 2020",
+            "valid_to": "July 29, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v7",
+            "valid_from": "July  6, 2020",
+            "valid_to": "July 14, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v6",
+            "valid_from": "July  2, 2020",
+            "valid_to": "July  5, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v5",
+            "valid_from": "June 26, 2020",
+            "valid_to": "July  1, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v4",
+            "valid_from": "June 24, 2020",
+            "valid_to": "June 25, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v3",
+            "valid_from": "June 23, 2020",
+            "valid_to": "June 23, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v2",
+            "valid_from": "June 16, 2020",
+            "valid_to": "June 22, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200263/v1",
+            "valid_from": "June 11, 2020",
+            "valid_to": "June 15, 2020"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "1.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Terms of Order",
+            "content": " 1. The terms of this Order are set out in Schedules 1, 2 and 3. O. Reg. 572/20, s. 1; O. Reg. 641/20, s. 1; O. Reg. 648/20, s. 1. 2. Revoked: O. Reg. 427/20, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK0\"></a><b>1. </b>The terms of this Order are set out in Schedules 1, 2 and 3. O. Reg. 572/20, s. 1; O. Reg. 641/20, s. 1; O. Reg. 648/20, s. 1.</p> <p class=\"section-e\"> <b>2. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 427/20, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "3.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Application",
+            "content": " 3. This Order applies to the areas listed in Schedule 2 to Ontario Regulation 363/20 (Steps of Reopening) made under the Act. O. Reg. 488/21, s. 2. 3.1 Revoked: O. Reg. 488/21, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK1\"></a><b>3. </b>This Order applies to the areas listed in Schedule 2 to Ontario Regulation 363/20 (Steps of Reopening) made under the Act. O. Reg. 488/21, s. 2.</p> <p class=\"section-e\"> <b>3.1 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 488/21, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "4.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Indoor vs. outdoor",
+            "content": " 4. (1) The outdoor capacity limits set out in this Order apply to a business, place, event or gathering if the people attending it are only permitted to access an indoor area, (a) to use a washroom; (b) to access an outdoor area that can only be accessed through an indoor route; or (c) as may be necessary for the purposes of health and safety. O. Reg. 572/20, s. 2. (2) The indoor capacity limits set out in this Order apply to a business, place, event or gathering if the business, place, event or gathering is fully or partially indoors. O. Reg. 572/20, s. 2. (3) An indoor event or gathering cannot be combined with an outdoor event or gathering so as to increase the applicable limit on the number of people at the event or gathering. O. Reg. 572/20, s. 2. 5. Revoked: O. Reg. 97/21, s. 2. Schedule 1   General Rules",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK2\"></a><b>4. </b>(1) The outdoor capacity limits set out in this Order apply to a business, place, event or gathering if the people attending it are only permitted to access an indoor area,</p> <p class=\"clause-e\">  (a) to use a washroom;</p> <p class=\"clause-e\">  (b) to access an outdoor area that can only be accessed through an indoor route; or</p> <p class=\"clause-e\">  (c) as may be necessary for the purposes of health and safety. O. Reg. 572/20, s. 2.</p> <p class=\"subsection-e\">  (2) The indoor capacity limits set out in this Order apply to a business, place, event or gathering if the business, place, event or gathering is fully or partially indoors. O. Reg. 572/20, s. 2.</p> <p class=\"subsection-e\">  (3) An indoor event or gathering cannot be combined with an outdoor event or gathering so as to increase the applicable limit on the number of people at the event or gathering. O. Reg. 572/20, s. 2.</p> <p class=\"section-e\"> <b>5. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 97/21, s. 2.</p> <p class=\"schedule-e\"><a name=\"BK3\"></a>Schedule 1 <br/>  General Rules</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Schedule 1",
+            "part_id": null,
+            "part_type": null,
+            "section": "General rules",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "Schedule 2",
+            "part_id": null,
+            "part_type": null,
+            "section": "Specific rules",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "Schedule 3",
+            "part_id": null,
+            "part_type": null,
+            "section": "Organized public events, certain gatherings",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

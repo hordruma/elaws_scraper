@@ -1,0 +1,40 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 3/16: MINISTER'S ORDER",
+        "reg_name_text": "MINISTER’S ORDER",
+        "citation": "O. Reg. 3/16: MINISTER'S ORDER",
+        "act_under": "Far North Act, 2010",
+        "url": "https://www.ontario.ca/laws/regulation/160003",
+        "date_scraped": "2023-12-18 13:30:14"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/160003/v1",
+            "valid_from": "January  6, 2016",
+            "valid_to": "December  8, 2021"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": " 1. For the purposes of clause 12 (2) (b) of the Act, a person may submit an application to the Minister on or before January 31, 2018.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>For the purposes of clause 12 (2) (b) of the Act, a person may submit an application to the Minister on or before January 31, 2018.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/160003\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

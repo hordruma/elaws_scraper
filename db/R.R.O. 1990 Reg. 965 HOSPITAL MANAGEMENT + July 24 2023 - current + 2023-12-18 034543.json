@@ -1,0 +1,952 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 965: HOSPITAL MANAGEMENT",
+        "reg_name_text": "HOSPITAL MANAGEMENT",
+        "citation": "R.R.O. 1990, Reg. 965: ",
+        "act_under": "Public Hospitals Act",
+        "url": "https://www.ontario.ca/laws/regulation/900965",
+        "date_scraped": "2023-12-18 03:45:45"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July 24, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v31",
+            "valid_from": "July  1, 2023",
+            "valid_to": "July 23, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v30",
+            "valid_from": "June  5, 2023",
+            "valid_to": "June 30, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v29",
+            "valid_from": "November 20, 2022",
+            "valid_to": "June  4, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v28",
+            "valid_from": "September 21, 2022",
+            "valid_to": "November 19, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v27",
+            "valid_from": "September 14, 2022",
+            "valid_to": "September 20, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v26",
+            "valid_from": "May 13, 2020",
+            "valid_to": "September 13, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v25",
+            "valid_from": "April  1, 2020",
+            "valid_to": "May 12, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v24",
+            "valid_from": "March 19, 2020",
+            "valid_to": "March 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v23",
+            "valid_from": "October  1, 2019",
+            "valid_to": "March 18, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v22",
+            "valid_from": "August 22, 2019",
+            "valid_to": "September 30, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v21",
+            "valid_from": "July  1, 2017",
+            "valid_to": "August 21, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v20",
+            "valid_from": "May 30, 2017",
+            "valid_to": "June 30, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v19",
+            "valid_from": "December 20, 2016",
+            "valid_to": "May 29, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v18",
+            "valid_from": "September 12, 2013",
+            "valid_to": "December 19, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v17",
+            "valid_from": "May 15, 2013",
+            "valid_to": "September 11, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v16",
+            "valid_from": "July  1, 2012",
+            "valid_to": "May 14, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v15",
+            "valid_from": "July  1, 2011",
+            "valid_to": "June 30, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v14",
+            "valid_from": "June  3, 2011",
+            "valid_to": "June 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v13",
+            "valid_from": "January  1, 2011",
+            "valid_to": "June  2, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v12",
+            "valid_from": "December  2, 2010",
+            "valid_to": "December 31, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v11",
+            "valid_from": "July  1, 2010",
+            "valid_to": "December  1, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v10",
+            "valid_from": "May  3, 2010",
+            "valid_to": "June 30, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v9",
+            "valid_from": "July 24, 2008",
+            "valid_to": "May  2, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v8",
+            "valid_from": "July  1, 2008",
+            "valid_to": "July 23, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v7",
+            "valid_from": "September  4, 2007",
+            "valid_to": "June 30, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v6",
+            "valid_from": "August 24, 2007",
+            "valid_to": "September  3, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v5",
+            "valid_from": "July 27, 2007",
+            "valid_to": "August 23, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v4",
+            "valid_from": "May 19, 2006",
+            "valid_to": "July 26, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v3",
+            "valid_from": "November  1, 2004",
+            "valid_to": "May 18, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v2",
+            "valid_from": "October 21, 2004",
+            "valid_to": "October 31, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900965/v1",
+            "valid_from": "May 16, 2003",
+            "valid_to": "October 20, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation",
+            "Section2": "1-1.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Board",
+            "Section2": "2",
+            "part_id": null,
+            "part_type": null,
+            "content": " 1.1 (1) Subject to subsection (2), for the purposes of the Act and this Regulation, a “physician” includes a person who is exempted from subsections 9 (1) and (3) of the Medicine Act, 1991. O. Reg. 206/23, s. 2. (2) For the purposes of section 37 of the Act, a “physician” also includes a person who meets all of the requirements in a regulation made under the Medicine Act, 1991 to be exempted from subsections 9 (1) and (3) of that Act, except for the requirement to provide professional services in a public hospital, the University of Ottawa Heart Institute or a long-term care home. O. Reg. 206/23, s. 2. Board",
+            "raw_html": "<p class=\"section-e\"><a name=\"BK2\"></a> <b>1.1 </b>(1) Subject to subsection (2), for the purposes of the Act and this Regulation, a “physician” includes a person who is exempted from subsections 9 (1) and (3) of the <i>Medicine Act, 1991</i>. O. Reg. 206/23, s. 2.</p> <p class=\"subsection-e\">  (2) For the purposes of section 37 of the Act, a “physician” also includes a person who meets all of the requirements in a regulation made under the <i>Medicine Act, 1991</i> to be exempted from subsections 9 (1) and (3) of that Act, except for the requirement to provide professional services in a public hospital, the University of Ottawa Heart Institute or a long-term care home. O. Reg. 206/23, s. 2.</p> <p class=\"heading1-e\">Board</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Responsibility of Administrator",
+            "Section2": "3",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "By-laws",
+            "Section2": "4",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Fiscal Advisory Committee",
+            "Section2": "5",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Medical Staff",
+            "Section2": "6",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Medical Advisory Committee",
+            "Section2": "7",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Nursing Advisory Committee",
+            "Section2": "7.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Fiscal Year and Annual Meeting",
+            "Section2": "8-9",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Inspectors",
+            "Section2": "10",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Obtaining Drugs",
+            "Section2": "10.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Admission to Hospital",
+            "Section2": "11",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Register Number",
+            "Section2": "12",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Identification Number",
+            "Section2": "13",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Dangerous or Infectious Patient",
+            "Section2": "14-15",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Discharge of Patient from Hospital",
+            "Section2": "16",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Report of Death",
+            "Section2": "17",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Physician or Dentist Unable to Perform Duties",
+            "Section2": "18",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Records of Personal Health Information",
+            "Section2": "19-21",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Disclosure of Records",
+            "Section2": "22-23.2",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Orders for Treatment",
+            "Section2": "24-26",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Sterilization of Persons under Sixteen",
+            "Section2": "27",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Anaesthesia",
+            "Section2": "28",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Surgery",
+            "Section2": "29-32",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Charges for Special Services",
+            "Section2": "33-34",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Definition of Hospital Subsidiary",
+            "Section2": "35",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Dissolution of Hospital Corporations",
+            "Section2": "36",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. (1) In this Regulation, “admitted” means received and lodged in a hospital but does not include registered as an out-patient; (“admis”) “anaesthetic” means a general, spinal, or epidural anaesthetic or an intravenous anaesthetic or a regional nerve block for procedural anaesthesia, but does not include a mandibular nerve block for a dental procedure; (“anesthésie”) “attending dentist” means a member of the dental staff who attends a patient in the hospital; (“dentiste traitant”) “attending midwife” means a member of the midwifery staff who attends a patient in the hospital; (“sage-femme traitante”) “attending physician” means a member of the medical staff who attends a patient in the hospital; (“médecin traitant”) “attending registered nurse in the extended class” means a registered nurse in the extended class who attends a patient in the hospital; (“infirmière autorisée traitante de la catégorie supérieure, infirmier autorisé traitant”) “authenticate” means to identify oneself as the author of a document or a record by personal signature or by any other means authorized by the board; (“authentifier”) “birth” means the complete expulsion or extraction from its mother of a foetus that did at any time after being completely expelled or extracted from the mother breathe or show any other sign of life, whether or not the umbilical cord was cut or the placenta attached; (“naissance”) “chief nursing executive” means the senior nurse employed by the hospital who reports directly to the administrator and is responsible for nursing services provided in the hospital; (“chef de direction des soins infirmiers”) “critical incident” means any unintended event that occurs when a patient receives treatment in the hospital, (a) that results in death, or serious disability, injury or harm to the patient, and (b) does not result primarily from the patient’s underlying medical condition or from a known risk inherent in providing the treatment; (“incident critique”) “dental staff” means, (a) the oral and maxillofacial surgeons to whom the board has granted the privilege of diagnosing, prescribing for or treating patients in the hospital, and (b) the dentists to whom the board has granted the privilege of attending patients in the hospital in co-operation with a member of the medical staff; (“personnel dentaire”) “dentist” means a member of the Royal College of Dental Surgeons of Ontario; (“dentiste”) “extended class nursing staff” means those registered nurses in the extended class in a hospital, (a) who are employed by the hospital and are authorized to diagnose, prescribe for or treat patients in the hospital, and (b) who are not employed by the hospital and to whom the board has granted privileges to diagnose, prescribe for or treat patients in the hospital; (“personnel infirmier de la catégorie supérieure”) “medical staff” means those physicians to whom the board has granted privileges of diagnosing, prescribing for or treating patients in the hospital; (“personnel médical”) “midwife” means a member of the College of Midwives of Ontario; (“sage-femme”) “midwifery staff” means those midwives to whom the board has granted privileges of assessing, monitoring, prescribing for or treating patients in the hospital; (“personnel maïeutique”) “neonatal death” means the death of a child before the end of the six hundred and seventy-second hour after the birth of the child; (“décès néonatal”) “nurse” means, (a) a member of the College of Nurses of Ontario who is a registered nurse, or (b) a person who is exempted from subsections 11 (1) and (5) of the Nursing Act, 1991\r\nby a regulation made under that Act and who holds, in another Canadian jurisdiction, the equivalent of a certificate of registration in the general or extended class for registered nurses in Ontario; (“infirmière ou infirmier”) “oral and maxillofacial surgeon” means a dentist who holds a specialty certificate from the Royal College of Dental Surgeons of Ontario authorizing practice in oral and maxillofacial surgery; (“chirurgien buccal et maxillo-facial”) “photograph” means a reproduction made by any process that makes an exact copy of the original, whether or not the copy is the same size as the original; (“photographie”) “records of personal health information”, in respect to a patient, includes the patient’s medical record, notes, charts and any other material relating to patient care; (“dossiers de renseignements personnels sur la santé”) “registered nurse in the extended class” means, (a) a member of the College of Nurses of Ontario who is a registered nurse and who holds an extended certificate of registration under the Nursing Act, 1991, or (b) a person who is exempted from subsections 11 (1) and (5) of the Nursing Act, 1991\r\nby a regulation made under that Act and who holds, in another Canadian jurisdiction, the equivalent of a certificate of registration in the extended class for registered nurses in Ontario; (“infirmière autorisée ou infirmier autorisé de la catégorie supérieure”) “still-birth” means still-birth within the meaning of the Vital Statistics Act; (“mortinaissance”) “surgeon” means a member of the medical staff or dental staff who performs a surgical operation on a patient in the hospital; (“chirurgien”) “writing” includes an entry in a computer. (“écrit”)  R.R.O. 1990, Reg. 965, s. 1 (1); O. Reg. 761/93, s. 1; O. Reg. 45/98, s. 1; O. Reg. 346/01, s. 1 (1-3); O. Reg. 64/03, s. 1; O. Reg. 332/04, s. 1; O. Reg. 423/07, s. 1; O. Reg. 216/11, s. 1; O. Reg. 159/17, s. 1, 2; O. Reg. 289/19, s. 1; O. Reg. 206/23, s. 1. (2) For the purposes of this Regulation, a reference to a patient includes an out-patient, except where the context otherwise requires.  R.R.O. 1990, Reg. 965, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>1.</b> (1) In this Regulation,</p> <p class=\"firstdef-e\">“admitted” means received and lodged in a hospital but does not include registered as an out-patient; (“admis”)</p> <p class=\"definition-e\">“anaesthetic” means a general, spinal, or epidural anaesthetic or an intravenous anaesthetic or a regional nerve block for procedural anaesthesia, but does not include a mandibular nerve block for a dental procedure; (“anesthésie”)</p> <p class=\"definition-e\">“attending dentist” means a member of the dental staff who attends a patient in the hospital; (“dentiste traitant”)</p> <p class=\"definition-e\">“attending midwife” means a member of the midwifery staff who attends a patient in the hospital; (“sage-femme traitante”)</p> <p class=\"definition-e\">“attending physician” means a member of the medical staff who attends a patient in the hospital; (“médecin traitant”)</p> <p class=\"definition-e\">“attending registered nurse in the extended class” means a registered nurse in the extended class who attends a patient in the hospital; (“infirmière autorisée traitante de la catégorie supérieure, infirmier autorisé traitant”)</p> <p class=\"definition-e\">“authenticate” means to identify oneself as the author of a document or a record by personal signature or by any other means authorized by the board; (“authentifier”)</p> <p class=\"definition-e\">“birth” means the complete expulsion or extraction from its mother of a foetus that did at any time after being completely expelled or extracted from the mother breathe or show any other sign of life, whether or not the umbilical cord was cut or the placenta attached; (“naissance”)</p> <p class=\"definition-e\">“chief nursing executive” means the senior nurse employed by the hospital who reports directly to the administrator and is responsible for nursing services provided in the hospital; (“chef de direction des soins infirmiers”)</p> <p class=\"definition-e\">“critical incident” means any unintended event that occurs when a patient receives treatment in the hospital,</p> <p class=\"defclause-e\">  (a) that results in death, or serious disability, injury or harm to the patient, and</p> <p class=\"defclause-e\">  (b) does not result primarily from the patient’s underlying medical condition or from a known risk inherent in providing the treatment; (“incident critique”)</p> <p class=\"definition-e\">“dental staff” means,</p> <p class=\"defclause-e\">  (a) the oral and maxillofacial surgeons to whom the board has granted the privilege of diagnosing, prescribing for or treating patients in the hospital, and</p> <p class=\"defclause-e\">  (b) the dentists to whom the board has granted the privilege of attending patients in the hospital in co-operation with a member of the medical staff; (“personnel dentaire”)</p> <p class=\"definition-e\">“dentist” means a member of the Royal College of Dental Surgeons of Ontario; (“dentiste”)</p> <p class=\"definition-e\">“extended class nursing staff” means those registered nurses in the extended class in a hospital,</p> <p class=\"defclause-e\">  (a) who are employed by the hospital and are authorized to diagnose, prescribe for or treat patients in the hospital, and</p> <p class=\"defclause-e\">  (b) who are not employed by the hospital and to whom the board has granted privileges to diagnose, prescribe for or treat patients in the hospital; (“personnel infirmier de la catégorie supérieure”)</p> <p class=\"definition-e\">“medical staff” means those physicians to whom the board has granted privileges of diagnosing, prescribing for or treating patients in the hospital; (“personnel médical”)</p> <p class=\"definition-e\">“midwife” means a member of the College of Midwives of Ontario; (“sage-femme”)</p> <p class=\"definition-e\">“midwifery staff” means those midwives to whom the board has granted privileges of assessing, monitoring, prescribing for or treating patients in the hospital; (“personnel maïeutique”)</p> <p class=\"definition-e\">“neonatal death” means the death of a child before the end of the six hundred and seventy-second hour after the birth of the child; (“décès néonatal”)</p> <p class=\"definition-e\">“nurse” means,</p> <p class=\"defclause-e\">  (a) a member of the College of Nurses of Ontario who is a registered nurse, or</p> <p class=\"defclause-e\">  (b) a person who is exempted from subsections 11 (1) and (5) of the <i>Nursing Act, 1991</i>\r\nby a regulation made under that Act and who holds, in another Canadian jurisdiction, the equivalent of a certificate of registration in the general or extended class for registered nurses in Ontario; (“infirmière ou infirmier”)</p> <p class=\"definition-e\">“oral and maxillofacial surgeon” means a dentist who holds a specialty certificate from the Royal College of Dental Surgeons of Ontario authorizing practice in oral and maxillofacial surgery; (“chirurgien buccal et maxillo-facial”)</p> <p class=\"definition-e\">“photograph” means a reproduction made by any process that makes an exact copy of the original, whether or not the copy is the same size as the original; (“photographie”)</p> <p class=\"definition-e\">“records of personal health information”, in respect to a patient, includes the patient’s medical record, notes, charts and any other material relating to patient care; (“dossiers de renseignements personnels sur la santé”)</p> <p class=\"definition-e\">“registered nurse in the extended class” means,</p> <p class=\"defclause-e\">  (a) a member of the College of Nurses of Ontario who is a registered nurse and who holds an extended certificate of registration under the <i>Nursing Act, 1991</i>, or</p> <p class=\"defclause-e\">  (b) a person who is exempted from subsections 11 (1) and (5) of the <i>Nursing Act, 1991</i>\r\nby a regulation made under that Act and who holds, in another Canadian jurisdiction, the equivalent of a certificate of registration in the extended class for registered nurses in Ontario; (“infirmière autorisée ou infirmier autorisé de la catégorie supérieure”)</p> <p class=\"definition-e\">“still-birth” means still-birth within the meaning of the <i>Vital Statistics Act</i>; (“mortinaissance”)</p> <p class=\"definition-e\">“surgeon” means a member of the medical staff or dental staff who performs a surgical operation on a patient in the hospital; (“chirurgien”)</p> <p class=\"definition-e\">“writing” includes an entry in a computer. (“écrit”)  R.R.O. 1990, Reg. 965, s. 1 (1); O. Reg. 761/93, s. 1; O. Reg. 45/98, s. 1; O. Reg. 346/01, s. 1 (1-3); O. Reg. 64/03, s. 1; O. Reg. 332/04, s. 1; O. Reg. 423/07, s. 1; O. Reg. 216/11, s. 1; O. Reg. 159/17, s. 1, 2; O. Reg. 289/19, s. 1; O. Reg. 206/23, s. 1.</p> <p class=\"subsection-e\">  (2) For the purposes of this Regulation, a reference to a patient includes an out-patient, except where the context otherwise requires.  R.R.O. 1990, Reg. 965, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. (1) Every hospital shall be governed and managed by a board.  R.R.O. 1990, Reg. 965, s. 2 (1). (1.1) In addition to the members of the board appointed or elected in accordance with the authority whereby the hospital is established, the following persons shall be members of the board: (a) the administrator of the hospital; (b) the president of the hospital’s medical staff; (c) the chief of staff of the hospital or, where there is no chief of staff, the chair of the hospital’s medical advisory committee; and (d) the chief nursing executive of the hospital.  O. Reg. 448/10, s. 1 (1). (2) Where the following persons are members of the board, they may not be voting members: 1. Any member of the medical staff, dental staff, extended class nursing staff or midwifery staff of the hospital. 2. Any employee of the hospital.  O. Reg. 156/10, s. 1 (1); O. Reg. 159/17, s. 2. (3) The board shall, (a) monitor activities in the hospital for compliance with the Act, the regulations and the by-laws of the hospital; (b) take such measures as the board considers necessary to ensure that the provisions of the Act, the regulations and the by-laws of the hospital are being complied with; (c) in the case of a hospital whose by-laws provide for the position of chief of staff, appoint the chief of staff as chair of the medical advisory committee; (d) in the case of a hospital whose by-laws do not provide for the position of chief of staff, appoint a member of the medical advisory committee to be chair of the medical advisory committee; (d.1) in the case of a hospital whose by-laws provide for a nursing advisory committee, appoint the chief nursing executive as chair of the nursing advisory committee; and (e) ensure that the administrator, medical staff, chief nursing executive, staff nurses and nurses who are managers develop plans to deal with, (i) emergency situations that could place a greater than normal demand on the services provided by the hospital or disrupt the normal hospital routine, and (ii) the failure to provide services by persons who ordinarily provide services in the hospital.  R.R.O. 1990, Reg. 965, s. 2 (3); O. Reg. 64/03, s. 2. (3.1) The board shall ensure that the administrator establishes a system for ensuring that a committee appointed by the hospital reviews every critical incident, as soon as is practicable after the critical incident occurs. O. Reg. 484/16, s. 1 (1). (3.2) A system established under subsection (3.1) must require that a person designated by the hospital who has responsibility in the area of patient relations or in providing patient perspectives to the hospital participate in each review of a critical incident. O. Reg. 484/16, s. 1 (1). (3.3) Where, pursuant to a system established under subsection (3.1), a review is conducted of a critical incident, a person acting on behalf of the hospital shall offer to interview the affected patient, or, (a) if the affected patient is incapable, a person lawfully authorized to make treatment decisions on behalf of the patient; or (b) if the affected patient has died, (i) the patient’s estate trustee, or the person who has assumed responsibility for the administration of the patient’s estate, if the estate does not have an estate trustee, or (ii) a person who was lawfully authorized to make treatment decisions on behalf of the patient immediately before the patient’s death, or who would have been so authorized if the patient had been incapable. O. Reg. 484/16, s. 1 (1). (4) The board shall ensure that the administrator establishes a system for ensuring the disclosure of every critical incident, as soon as is practicable after the critical incident occurs, to the medical advisory committee and the administrator and, (a) to the affected patient; (b) if the affected patient is incapable, to a person lawfully authorized to make treatment decisions on behalf of the patient; or (c) if the affected patient has died, (i) to the patient’s estate trustee, or to the person who has assumed responsibility for the administration of the patient’s estate, if the estate does not have an estate trustee, or (ii) to a person who was lawfully authorized to make treatment decisions on behalf of the patient immediately prior to the patient’s death, or who would have been so authorized if the patient had been incapable.  O. Reg. 423/07, s. 2; O. Reg. 156/10, s. 1 (2). (5) The disclosure referred to in subsection (4) shall include, (a) the material facts of what occurred with respect to the critical incident; (a.1) a description of the cause or causes of the critical incident, if known; (b) the consequences for the patient of the critical incident, as they become known; and (c) the actions taken and recommended to be taken to address the consequences to the patient of the critical incident, including any health care or treatment that is advisable.  O. Reg. 423/07, s. 2; O. Reg. 484/16, s. 1 (2). (5.1) The board shall ensure that the administrator establishes a system for ensuring, following a disclosure of a critical incident under subsection (4), that the incident is analyzed and a plan developed with systemic steps to avoid or reduce the risk of further similar critical incidents.  O. Reg. 156/10, s. 1 (3). (5.2) The board shall ensure that the administrator provides aggregated critical incident data related to critical incidents occurring at the hospital to the hospital’s quality committee established under subsection 3 (1) of the Excellent Care for All Act, 2010 at least two times per year.  O. Reg. 448/10, s. 1 (2). (5.3) The aggregated data shall include data about all critical incidents occurring at the hospital since the previous aggregated data was provided to the quality committee.  O. Reg. 448/10, s. 1 (2). (6) The board shall ensure that the administrator establishes a system for ensuring that at an appropriate time following a disclosure of a critical incident under subsection (4), there be a disclosure to the person referred to in clauses (a) to (c) of subsection (4) of the systemic steps, if any, that the hospital is taking or has taken in order to avoid or reduce the risk of further similar critical incidents, and that the content and date of this further disclosure be recorded.  O. Reg. 423/07, s. 2; O. Reg. 484/16, s. 1 (3). Responsibility of Administrator",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) Every hospital shall be governed and managed by a board.  R.R.O. 1990, Reg. 965, s. 2 (1).</p> <p class=\"subsection-e\">  (1.1) In addition to the members of the board appointed or elected in accordance with the authority whereby the hospital is established, the following persons shall be members of the board:</p> <p class=\"clause-e\">  (a) the administrator of the hospital;</p> <p class=\"clause-e\">  (b) the president of the hospital’s medical staff;</p> <p class=\"clause-e\">  (c) the chief of staff of the hospital or, where there is no chief of staff, the chair of the hospital’s medical advisory committee; and</p> <p class=\"clause-e\">  (d) the chief nursing executive of the hospital.  O. Reg. 448/10, s. 1 (1).</p> <p class=\"subsection-e\">  (2) Where the following persons are members of the board, they may not be voting members:</p> <p class=\"paragraph-e\">  1. Any member of the medical staff, dental staff, extended class nursing staff or midwifery staff of the hospital.</p> <p class=\"paragraph-e\">  2. Any employee of the hospital.  O. Reg. 156/10, s. 1 (1); O. Reg. 159/17, s. 2.</p> <p class=\"subsection-e\">  (3) The board shall,</p> <p class=\"clause-e\">  (a) monitor activities in the hospital for compliance with the Act, the regulations and the by-laws of the hospital;</p> <p class=\"clause-e\">  (b) take such measures as the board considers necessary to ensure that the provisions of the Act, the regulations and the by-laws of the hospital are being complied with;</p> <p class=\"clause-e\">  (c) in the case of a hospital whose by-laws provide for the position of chief of staff, appoint the chief of staff as chair of the medical advisory committee;</p> <p class=\"clause-e\">  (d) in the case of a hospital whose by-laws do not provide for the position of chief of staff, appoint a member of the medical advisory committee to be chair of the medical advisory committee; </p> <p class=\"clause-e\"> (d.1) in the case of a hospital whose by-laws provide for a nursing advisory committee, appoint the chief nursing executive as chair of the nursing advisory committee; and</p> <p class=\"clause-e\">  (e) ensure that the administrator, medical staff, chief nursing executive, staff nurses and nurses who are managers develop plans to deal with,</p> <p class=\"subclause-e\">  (i) emergency situations that could place a greater than normal demand on the services provided by the hospital or disrupt the normal hospital routine, and</p> <p class=\"subclause-e\">  (ii) the failure to provide services by persons who ordinarily provide services in the hospital.  R.R.O. 1990, Reg. 965, s. 2 (3); O. Reg. 64/03, s. 2.</p> <p class=\"subsection-e\">  (3.1) The board shall ensure that the administrator establishes a system for ensuring that a committee appointed by the hospital reviews every critical incident, as soon as is practicable after the critical incident occurs. O. Reg. 484/16, s. 1 (1).</p> <p class=\"subsection-e\">  (3.2) A system established under subsection (3.1) must require that a person designated by the hospital who has responsibility in the area of patient relations or in providing patient perspectives to the hospital participate in each review of a critical incident. O. Reg. 484/16, s. 1 (1).</p> <p class=\"subsection-e\">  (3.3) Where, pursuant to a system established under subsection (3.1), a review is conducted of a critical incident, a person acting on behalf of the hospital shall offer to interview the affected patient, or,</p> <p class=\"clause-e\">  (a) if the affected patient is incapable, a person lawfully authorized to make treatment decisions on behalf of the patient; or</p> <p class=\"clause-e\">  (b) if the affected patient has died,</p> <p class=\"subclause-e\">  (i) the patient’s estate trustee, or the person who has assumed responsibility for the administration of the patient’s estate, if the estate does not have an estate trustee, or</p> <p class=\"subclause-e\">  (ii) a person who was lawfully authorized to make treatment decisions on behalf of the patient immediately before the patient’s death, or who would have been so authorized if the patient had been incapable. O. Reg. 484/16, s. 1 (1).</p> <p class=\"subsection-e\"><b> </b>(4) The board shall ensure that the administrator establishes a system for ensuring the disclosure of every critical incident, as soon as is practicable after the critical incident occurs, to the medical advisory committee and the administrator and,</p> <p class=\"clause-e\">  (a) to the affected patient;</p> <p class=\"clause-e\">  (b) if the affected patient is incapable, to a person lawfully authorized to make treatment decisions on behalf of the patient; or</p> <p class=\"clause-e\">  (c) if the affected patient has died,</p> <p class=\"subclause-e\">  (i) to the patient’s estate trustee, or to the person who has assumed responsibility for the administration of the patient’s estate, if the estate does not have an estate trustee, or</p> <p class=\"subclause-e\">  (ii) to a person who was lawfully authorized to make treatment decisions on behalf of the patient immediately prior to the patient’s death, or who would have been so authorized if the patient had been incapable.  O. Reg. 423/07, s. 2; O. Reg. 156/10, s. 1 (2).</p> <p class=\"subsection-e\">  (5) The disclosure referred to in subsection (4) shall include,</p> <p class=\"clause-e\">  (a) the material facts of what occurred with respect to the critical incident;</p> <p class=\"clause-e\"> (a.1) a description of the cause or causes of the critical incident, if known;</p> <p class=\"clause-e\">  (b) the consequences for the patient of the critical incident, as they become known; and</p> <p class=\"clause-e\">  (c) the actions taken and recommended to be taken to address the consequences to the patient of the critical incident, including any health care or treatment that is advisable.  O. Reg. 423/07, s. 2; O. Reg. 484/16, s. 1 (2).</p> <p class=\"subsection-e\"><b> </b>(5.1) The board shall ensure that the administrator establishes a system for ensuring, following a disclosure of a critical incident under subsection (4), that the incident is analyzed and a plan developed with systemic steps to avoid or reduce the risk of further similar critical incidents.  O. Reg. 156/10, s. 1 (3).</p> <p class=\"subsection-e\">  (5.2) The board shall ensure that the administrator provides aggregated critical incident data related to critical incidents occurring at the hospital to the hospital’s quality committee established under subsection 3 (1) of the <i>Excellent Care for All Act, 2010</i> at least two times per year.  O. Reg. 448/10, s. 1 (2).</p> <p class=\"subsection-e\">  (5.3) The aggregated data shall include data about all critical incidents occurring at the hospital since the previous aggregated data was provided to the quality committee.  O. Reg. 448/10, s. 1 (2).</p> <p class=\"subsection-e\">  (6) The board shall ensure that the administrator establishes a system for ensuring that at an appropriate time following a disclosure of a critical incident under subsection (4), there be a disclosure to the person referred to in clauses (a) to (c) of subsection (4) of the systemic steps, if any, that the hospital is taking or has taken in order to avoid or reduce the risk of further similar critical incidents, and that the content and date of this further disclosure be recorded.  O. Reg. 423/07, s. 2; O. Reg. 484/16, s. 1 (3).</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Responsibility of Administrator</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. Every administrator is responsible to the board of the hospital of which the administrator has charge, for taking such action as the administrator considers necessary to ensure compliance with the Act, the regulations and the by-laws of the hospital.  R.R.O. 1990, Reg. 965, s. 3. By-laws",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>Every administrator is responsible to the board of the hospital of which the administrator has charge, for taking such action as the administrator considers necessary to ensure compliance with the Act, the regulations and the by-laws of the hospital.  R.R.O. 1990, Reg. 965, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>By-laws</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. (1) Every board shall pass by-laws that, (a) provide for the management and administration of the hospital and set out at least, (i) procedures for the election or appointment of members of the board, (ii) the various officers of the board, and their functions and responsibilities, (iii) the various committees of the board, if any, and their membership, functions and responsibilities, (iv) procedures with respect to the conducting of meetings of the board and committees of the board, (v) procedures for the appointment by the board of an administrator, (vi) the functions and responsibilities of an administrator, (vii) procedures for the appointment of an auditor who is licensed under the Public Accounting Act, 2004, (viii) procedures for the appointment by the administrator of a nurse as the chief nursing executive of the hospital, and (ix) the functions and responsibilities of the chief nursing executive; (b) provide for the organization of the medical staff, set out duties of the medical staff and set out at least, (i) criteria with respect to appointment and reappointment of members of the medical staff, (ii) the various medical groups and departments of the medical staff, (iii) procedures with respect to the annual election of a president, a vice-president and a secretary of the medical staff, and the election or appointment of any other officers of the medical staff, (iv) procedures for the appointment by the board of a chief of staff, if any, and chiefs of departments, if any, (v) the duties of the president, the vice-president, the secretary and other officers of the medical staff, (vi) the establishment of one or more committees of the medical staff, including the duties and powers of such committees, to assess credentials, medical records, patient care, infection control, the utilization of hospital facilities and all other aspects of medical care and treatment in the hospital, and (vii) provision for the election or appointment of members of the medical advisory committee; (b.1) in the case of a hospital whose by-laws provide for a nursing advisory committee, provide for the election or appointment of members of the nursing advisory committee and for the duties of the committee; (c) where the hospital has dental, midwifery or extended class nursing staff, provide for the organization of such staff, set out the duties of the staff and the criteria with respect to appointment and reappointment of the members of the staff; (c.1) Revoked:  O. Reg. 45/98, s. 2 (2). (d) establish and provide for the operation of an occupational health and safety program for the hospital that shall include procedures with respect to, (i) a safe and healthy work environment in the hospital, (ii) the safe use of substances, equipment and medical devices in the hospital, (iii) safe and healthy work practices in the hospital, (iv) the prevention of accidents to persons on the premises of the hospital, and (v) the elimination of undue risks and the minimizing of hazards inherent in the hospital environment; (e) establish and provide for the operation of a health surveillance program including a communicable disease surveillance program in respect of all persons carrying on activities in the hospital; (f) provide for, (i) the participation of the chief nursing executive, nurses who are managers and staff nurses in decision-making related to administrative, financial, operational and planning matters in the hospital, and (ii) the participation at the committee level of the chief nursing executive and of staff nurses and nurses who are managers, including the election by staff nurses of representatives to committees and the election or appointment to committees of nurses who are managers; and (g) provide for the establishment of procedures to encourage the donation of organs and tissues including, (i) procedures to identify potential donors, (ii) procedures to make potential donors and their families aware of the options of organ and tissue donations.  R.R.O. 1990, Reg. 965, s. 4 (1); O. Reg. 761/93, s. 2; O. Reg. 45/98, s. 2; O. Reg. 64/03, s. 3; O. Reg. 159/17, s. 2, 3. (2) The program referred to in clause (1) (e) shall, with respect to a particular communicable disease, include the tests and examinations set out in any applicable communicable disease surveillance protocol published jointly by the Ontario Hospital Association and the Ontario Medical Association for that disease and approved by the Minister.  R.R.O. 1990, Reg. 965, s. 4 (2). Fiscal Advisory Committee",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) Every board shall pass by-laws that,</p> <p class=\"clause-e\">  (a) provide for the management and administration of the hospital and set out at least,</p> <p class=\"subclause-e\">  (i) procedures for the election or appointment of members of the board,</p> <p class=\"subclause-e\">  (ii) the various officers of the board, and their functions and responsibilities,</p> <p class=\"subclause-e\">  (iii) the various committees of the board, if any, and their membership, functions and responsibilities,</p> <p class=\"subclause-e\">  (iv) procedures with respect to the conducting of meetings of the board and committees of the board,</p> <p class=\"subclause-e\">  (v) procedures for the appointment by the board of an administrator,</p> <p class=\"subclause-e\">  (vi) the functions and responsibilities of an administrator, </p> <p class=\"subclause-e\">  (vii) procedures for the appointment of an auditor who is licensed under the <i>Public Accounting Act</i>, <i>2004</i>,</p> <p class=\"subclause-e\">  (viii) procedures for the appointment by the administrator of a nurse as the chief nursing executive of the hospital, and</p> <p class=\"subclause-e\">  (ix) the functions and responsibilities of the chief nursing executive;</p> <p class=\"clause-e\">  (b) provide for the organization of the medical staff, set out duties of the medical staff and set out at least,</p> <p class=\"subclause-e\">  (i) criteria with respect to appointment and reappointment of members of the medical staff,</p> <p class=\"subclause-e\">  (ii) the various medical groups and departments of the medical staff,</p> <p class=\"subclause-e\">  (iii) procedures with respect to the annual election of a president, a vice-president and a secretary of the medical staff, and the election or appointment of any other officers of the medical staff,</p> <p class=\"subclause-e\">  (iv) procedures for the appointment by the board of a chief of staff, if any, and chiefs of departments, if any,</p> <p class=\"subclause-e\">  (v) the duties of the president, the vice-president, the secretary and other officers of the medical staff,</p> <p class=\"subclause-e\">  (vi) the establishment of one or more committees of the medical staff, including the duties and powers of such committees, to assess credentials, medical records, patient care, infection control, the utilization of hospital facilities and all other aspects of medical care and treatment in the hospital, and</p> <p class=\"subclause-e\">  (vii) provision for the election or appointment of members of the medical advisory committee;</p> <p class=\"clause-e\"> (b.1) in the case of a hospital whose by-laws provide for a nursing advisory committee, provide for the election or appointment of members of the nursing advisory committee and for the duties of the committee;</p> <p class=\"clause-e\">  (c) where the hospital has dental, midwifery or extended class nursing staff, provide for the organization of such staff, set out the duties of the staff and the criteria with respect to appointment and reappointment of the members of the staff;</p> <p class=\"clause-e\"> (c.1) R<span class=\"ovsmallcap\">evoked</span>:  O. Reg. 45/98, s. 2 (2).</p> <p class=\"clause-e\">  (d) establish and provide for the operation of an occupational health and safety program for the hospital that shall include procedures with respect to,</p> <p class=\"subclause-e\">  (i) a safe and healthy work environment in the hospital,</p> <p class=\"subclause-e\">  (ii) the safe use of substances, equipment and medical devices in the hospital,</p> <p class=\"subclause-e\">  (iii) safe and healthy work practices in the hospital,</p> <p class=\"subclause-e\">  (iv) the prevention of accidents to persons on the premises of the hospital, and</p> <p class=\"subclause-e\">  (v) the elimination of undue risks and the minimizing of hazards inherent in the hospital environment;</p> <p class=\"clause-e\">  (e) establish and provide for the operation of a health surveillance program including a communicable disease surveillance program in respect of all persons carrying on activities in the hospital;</p> <p class=\"clause-e\">  (f) provide for,</p> <p class=\"subclause-e\">  (i) the participation of the chief nursing executive, nurses who are managers and staff nurses in decision-making related to administrative, financial, operational and planning matters in the hospital, and</p> <p class=\"subclause-e\">  (ii) the participation at the committee level of the chief nursing executive and of staff nurses and nurses who are managers, including the election by staff nurses of representatives to committees and the election or appointment to committees of nurses who are managers; and</p> <p class=\"clause-e\">  (g) provide for the establishment of procedures to encourage the donation of organs and tissues including,</p> <p class=\"subclause-e\">  (i) procedures to identify potential donors,</p> <p class=\"subclause-e\">  (ii) procedures to make potential donors and their families aware of the options of organ and tissue donations.  R.R.O. 1990, Reg. 965, s. 4 (1); O. Reg. 761/93, s. 2; O. Reg. 45/98, s. 2; O. Reg. 64/03, s. 3; O. Reg. 159/17, s. 2, 3.</p> <p class=\"subsection-e\">  (2) The program referred to in clause (1) (e) shall, with respect to a particular communicable disease, include the tests and examinations set out in any applicable communicable disease surveillance protocol published jointly by the Ontario Hospital Association and the Ontario Medical Association for that disease and approved by the Minister.  R.R.O. 1990, Reg. 965, s. 4 (2).</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Fiscal Advisory Committee</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) Every board shall establish a fiscal advisory committee comprised of, (a) the administrator; (b) if there is a dental staff, only one person representing both the medical staff and the dental staff; (c) if there is no dental staff, one person representing the medical staff; (d) the chief nursing executive or another person representing nurses who are managers; (e) one person representing staff nurses; and (f) such other persons as are elected or appointed in accordance with the by-laws of the hospital.  R.R.O. 1990, Reg. 965, s. 5 (1); O. Reg. 64/03, s. 4. (2) The fiscal advisory committee shall make recommendations to the board with respect to the operation, use and staffing of the hospital.  R.R.O. 1990, Reg. 965, s. 5 (2). (3) The chair of the fiscal advisory committee shall be the administrator or a person designated by the administrator.  R.R.O. 1990, Reg. 965, s. 5 (3). Medical Staff",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) Every board shall establish a fiscal advisory committee comprised of,</p> <p class=\"clause-e\">  (a) the administrator;</p> <p class=\"clause-e\">  (b) if there is a dental staff, only one person representing both the medical staff and the dental staff;</p> <p class=\"clause-e\">  (c) if there is no dental staff, one person representing the medical staff;</p> <p class=\"clause-e\">  (d) the chief nursing executive or another person representing nurses who are managers;</p> <p class=\"clause-e\">  (e) one person representing staff nurses; and</p> <p class=\"clause-e\">  (f) such other persons as are elected or appointed in accordance with the by-laws of the hospital.  R.R.O. 1990, Reg. 965, s. 5 (1); O. Reg. 64/03, s. 4.</p> <p class=\"subsection-e\">  (2) The fiscal advisory committee shall make recommendations to the board with respect to the operation, use and staffing of the hospital.  R.R.O. 1990, Reg. 965, s. 5 (2).</p> <p class=\"subsection-e\">  (3) The chair of the fiscal advisory committee shall be the administrator or a person designated by the administrator.  R.R.O. 1990, Reg. 965, s. 5 (3).</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Medical Staff</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. (1) Every medical staff shall hold at least four meetings in each fiscal year of the hospital, one of which shall be the annual meeting.  R.R.O. 1990, Reg. 965, s. 6 (1). (2) The first meeting of the medical staff shall be at a time and a place fixed by the board.  R.R.O. 1990, Reg. 965, s. 6 (2). (3) At the first meeting of the medical staff and at each annual meeting thereafter, the medical staff shall, (a) fix a time and place for, (i) the next annual meeting, and (ii) the meetings of the medical staff before the next annual meeting; and (b) elect from among its members, a president, a vice-president and a secretary.  R.R.O. 1990, Reg. 965, s. 6 (3). Medical Advisory Committee",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) Every medical staff shall hold at least four meetings in each fiscal year of the hospital, one of which shall be the annual meeting.  R.R.O. 1990, Reg. 965, s. 6 (1).</p> <p class=\"subsection-e\">  (2) The first meeting of the medical staff shall be at a time and a place fixed by the board.  R.R.O. 1990, Reg. 965, s. 6 (2).</p> <p class=\"subsection-e\">  (3) At the first meeting of the medical staff and at each annual meeting thereafter, the medical staff shall,</p> <p class=\"clause-e\">  (a) fix a time and place for,</p> <p class=\"subclause-e\">  (i) the next annual meeting, and</p> <p class=\"subclause-e\">  (ii) the meetings of the medical staff before the next annual meeting; and</p> <p class=\"clause-e\">  (b) elect from among its members, a president, a vice-president and a secretary.  R.R.O. 1990, Reg. 965, s. 6 (3).</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Medical Advisory Committee</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) The medical advisory committee of every hospital shall be comprised of, (a) the president, the vice-president, the secretary of the medical staff, the chief of staff, if any, and, in the case of a Group A Hospital, the chief of the dental staff, if any; and (b) such other members of the medical staff as are elected or appointed in accordance with the by-laws of the hospital.  R.R.O. 1990, Reg. 965, s. 7 (1). (2) Every medical advisory committee shall, in addition to those matters set out in subsections 34 (7) and 35 (2) and section 37 of the Act, (a) make recommendations to the board concerning, (i) where there is dental, midwifery or extended class nursing staff in the hospital, every application for appointment or reappointment to such staff, (ii) where there is dental, midwifery or extended class nursing staff in the hospital, the hospital privileges to be granted to each member of such staff, (iii) by-laws respecting the medical staff and by-laws respecting the dental, midwifery or extended class nursing staff, if there is such staff in the hospital, (iv) the dismissal, suspension or restrictions of hospital privileges of any member of the medical staff and, of any member of the dental, midwifery or extended class nursing staff, if there is such staff in the hospital, (v) the quality of care provided in the hospital by the medical staff, dental staff, midwifery staff and by the extended class nursing staff, and (vi)  Revoked:  O. Reg. 64/03, s. 5 (1). (vii) the clinical and general rules respecting the medical, dental, midwifery and extended class nursing staff, as may be necessary in the circumstances; (b) supervise the practice of medicine, dentistry, midwifery and extended class nursing in the hospital; (c) appoint the medical staff members of all committees of the medical staff that are established by the board; (d) receive reports from the committees of the medical staff; and (e) advise the board on any matter referred to the medical advisory committee by the board.  R.R.O. 1990, Reg. 965, s. 7 (2); O. Reg. 761/93, s. 3; O. Reg. 45/98, s. 3; O. Reg. 64/03, s. 5 (1, 2); O. Reg. 159/17, s. 2. (2.1) Despite subclauses (2) (a) (i), (ii), (iv) and (v), the duties of the medical advisory committee described in those subclauses that relate to the extended class nursing staff of a hospital shall only be performed with respect to those members of the extended class nursing staff who are not employees of the hospital and to whom the board has granted privileges to diagnose, prescribe for or treat patients in the hospital.  O. Reg. 64/03, s. 5 (3); O. Reg. 448/10, s. 2 (1); O. Reg. 216/11, s. 2. (3) The medical advisory committee shall hold at least ten monthly meetings in each fiscal year of the hospital.  R.R.O. 1990, Reg. 965, s. 7 (3). (4) The medical advisory committee shall report to the medical staff at each regularly scheduled meeting of the medical staff.  R.R.O. 1990, Reg. 965, s. 7 (4). (5) The medical advisory committee shall report in writing to the board at each regularly scheduled meeting of the board, respecting the practice of medicine in the hospital.  R.R.O. 1990, Reg. 965, s. 7 (5). (6) The medical advisory committee shall appoint one or more members of the medical staff to advise the joint health and safety committee established under the Occupational Health and Safety Act where the committee is requested to do so by the joint health and safety committee.  R.R.O. 1990, Reg. 965, s. 7 (6). (7) Where the medical advisory committee identifies systemic or recurring quality of care issues in making its recommendations to the board under subclause (2) (a) (v), the medical advisory committee shall make recommendations about those issues to the hospital’s quality committee established under subsection 3 (1) of the Excellent Care for All Act, 2010.  O. Reg. 448/10, s. 2 (2). (8) When reporting to the board under subsection 3 (3) of the Excellent Care for All Act, 2010, the quality committee shall consider the medical advisory committee’s recommendations that relate to systemic or recurring quality of care issues.  O. Reg. 448/10, s. 2 (2). Nursing Advisory Committee",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>(1) The medical advisory committee of every hospital shall be comprised of,</p> <p class=\"clause-e\">  (a) the president, the vice-president, the secretary of the medical staff, the chief of staff, if any, and, in the case of a Group A Hospital, the chief of the dental staff, if any; and</p> <p class=\"clause-e\">  (b) such other members of the medical staff as are elected or appointed in accordance with the by-laws of the hospital.  R.R.O. 1990, Reg. 965, s. 7 (1).</p> <p class=\"subsection-e\">  (2) Every medical advisory committee shall, in addition to those matters set out in subsections 34 (7) and 35 (2) and section 37 of the Act,</p> <p class=\"clause-e\">  (a) make recommendations to the board concerning,</p> <p class=\"subclause-e\">  (i) where there is dental, midwifery or extended class nursing staff in the hospital, every application for appointment or reappointment to such staff,</p> <p class=\"subclause-e\">  (ii) where there is dental, midwifery or extended class nursing staff in the hospital, the hospital privileges to be granted to each member of such staff,</p> <p class=\"subclause-e\">  (iii) by-laws respecting the medical staff and by-laws respecting the dental, midwifery or extended class nursing staff, if there is such staff in the hospital,</p> <p class=\"subclause-e\">  (iv) the dismissal, suspension or restrictions of hospital privileges of any member of the medical staff and, of any member of the dental, midwifery or extended class nursing staff, if there is such staff in the hospital,</p> <p class=\"subclause-e\">  (v) the quality of care provided in the hospital by the medical staff, dental staff, midwifery staff and by the extended class nursing staff, and</p> <p class=\"subclause-e\">  (vi)  <span>R<span class=\"ovsmallcap\">evoked</span></span>:  O. Reg. 64/03, s. 5 (1).</p> <p class=\"subclause-e\">  (vii) the clinical and general rules respecting the medical, dental, midwifery and extended class nursing staff, as may be necessary in the circumstances;</p> <p class=\"clause-e\">  (b) supervise the practice of medicine, dentistry, midwifery and extended class nursing in the hospital;</p> <p class=\"clause-e\">  (c) appoint the medical staff members of all committees of the medical staff that are established by the board;</p> <p class=\"clause-e\">  (d) receive reports from the committees of the medical staff; and</p> <p class=\"clause-e\">  (e) advise the board on any matter referred to the medical advisory committee by the board.  R.R.O. 1990, Reg. 965, s. 7 (2); O. Reg. 761/93, s. 3; O. Reg. 45/98, s. 3; O. Reg. 64/03, s. 5 (1, 2); O. Reg. 159/17, s. 2.</p> <p class=\"subsection-e\">  (2.1) Despite subclauses (2) (a) (i), (ii), (iv) and (v), the duties of the medical advisory committee described in those subclauses that relate to the extended class nursing staff of a hospital shall only be performed with respect to those members of the extended class nursing staff who are not employees of the hospital and to whom the board has granted privileges to diagnose, prescribe for or treat patients in the hospital.  O. Reg. 64/03, s. 5 (3); O. Reg. 448/10, s. 2 (1); O. Reg. 216/11, s. 2.</p> <p class=\"subsection-e\">  (3) The medical advisory committee shall hold at least ten monthly meetings in each fiscal year of the hospital.  R.R.O. 1990, Reg. 965, s. 7 (3).</p> <p class=\"subsection-e\">  (4) The medical advisory committee shall report to the medical staff at each regularly scheduled meeting of the medical staff.  R.R.O. 1990, Reg. 965, s. 7 (4).</p> <p class=\"subsection-e\">  (5) The medical advisory committee shall report in writing to the board at each regularly scheduled meeting of the board, respecting the practice of medicine in the hospital.  R.R.O. 1990, Reg. 965, s. 7 (5).</p> <p class=\"subsection-e\">  (6) The medical advisory committee shall appoint one or more members of the medical staff to advise the joint health and safety committee established under the <i>Occupational Health and Safety Act</i> where the committee is requested to do so by the joint health and safety committee.  R.R.O. 1990, Reg. 965, s. 7 (6).</p> <p class=\"subsection-e\">  (7) Where the medical advisory committee identifies systemic or recurring quality of care issues in making its recommendations to the board under subclause (2) (a) (v), the medical advisory committee shall make recommendations about those issues to the hospital’s quality committee established under subsection 3 (1) of the <i>Excellent Care for All Act, 2010</i>.  O. Reg. 448/10, s. 2 (2).</p> <p class=\"subsection-e\">  (8) When reporting to the board under subsection 3 (3) of the <i>Excellent Care for All Act, 2010</i>, the quality committee shall consider the medical advisory committee’s recommendations that relate to systemic or recurring quality of care issues.  O. Reg. 448/10, s. 2 (2).</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Nursing Advisory Committee</p>"
+        },
+        {
+            "ahref_id": "#7.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7.1 (1) If a hospital’s by-laws provide for a nursing advisory committee, the committee shall be comprised of, (a) the chief nursing executive; and (b) such other members of the nursing staff as are elected or appointed in accordance with the hospital’s by-laws.  O. Reg. 64/03, s. 6. (2) In subsection (1), “nursing staff” means, with respect to a hospital, all nurses employed or otherwise engaged by the hospital to provide services in the hospital and all members of the hospital’s extended class nursing staff, and includes nurses who are managers and the chief nursing executive for the hospital.  O. Reg. 64/03, s. 6. (3) The nursing advisory committee shall carry out such duties as may be established by by-law.  O. Reg. 64/03, s. 6. Fiscal Year and Annual Meeting",
+            "raw_html": "<p class=\"section-e\"> <b>7.1 </b>(1) If a hospital’s by-laws provide for a nursing advisory committee, the committee shall be comprised of,</p> <p class=\"clause-e\">  (a) the chief nursing executive; and</p> <p class=\"clause-e\">  (b) such other members of the nursing staff as are elected or appointed in accordance with the hospital’s by-laws.  O. Reg. 64/03, s. 6.</p> <p class=\"subsection-e\">  (2) In subsection (1),</p> <p class=\"firstdef-e\">“nursing staff” means, with respect to a hospital, all nurses employed or otherwise engaged by the hospital to provide services in the hospital and all members of the hospital’s extended class nursing staff, and includes nurses who are managers and the chief nursing executive for the hospital.  O. Reg. 64/03, s. 6.</p> <p class=\"subsection-e\">  (3) The nursing advisory committee shall carry out such duties as may be established by by-law.  O. Reg. 64/03, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Fiscal Year and Annual Meeting</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. Every hospital shall have a fiscal year that ends with the 31st day of March in each year.  R.R.O. 1990, Reg. 965, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>Every hospital shall have a fiscal year that ends with the 31st day of March in each year.  R.R.O. 1990, Reg. 965, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) Every hospital shall hold an annual meeting between the 1st day of April and the 31st day of July in each year on a day fixed by the board.  R.R.O. 1990, Reg. 965, s. 9. (2) Despite subsection (1), the Minister may direct that the annual meeting be held at another time, and the board shall comply with the direction of the Minister. O. Reg. 213/20, s. 1. Inspectors",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) Every hospital shall hold an annual meeting between the 1st day of April and the 31st day of July in each year on a day fixed by the board.  R.R.O. 1990, Reg. 965, s. 9.</p> <p class=\"subsection-e\">  (2) Despite subsection (1), the Minister may direct that the annual meeting be held at another time, and the board shall comply with the direction of the Minister. O. Reg. 213/20, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Inspectors</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. (1) An inspector without a warrant at any time may enter upon the premises of a hospital to make an inspection to ensure that the provisions of the Act and this Regulation are being complied with.  R.R.O. 1990, Reg. 965, s. 10 (1). (2) Upon an inspection under this section, the inspector, (a) is entitled at any reasonable time to free access to all books of account, documents, bank accounts, vouchers, correspondence and records, including payroll records, records of staff hours worked, records of personal health information and any other records that are relevant for the purposes of the inspection or required to be kept under the Act or this Regulation; (b) upon giving a receipt therefor and showing the designation issued by the Minister, may remove any material referred to in clause (a) that relates to the purpose of the inspection in order to make a copy thereof, provided that the copying is carried out with reasonable dispatch and the material in question is promptly thereafter returned to the person from whose possession it was removed; (c) may examine or test samples of substances to ensure that the regulations are being complied with; and (d) upon giving a receipt therefor and showing the designation issued by the Minister, may remove a substance or a sample of a substance referred to in clause (c) in order to conduct further tests, for any purpose reasonably necessary to carry out effectively the purposes of the Act and this Regulation.  R.R.O. 1990, Reg. 965, s. 10 (2); O. Reg. 332/04, s. 2. (3) Clause (2) (b) does not apply where a copy can be made on the premises of the hospital unless the inspector has reason to believe that the material in question cannot be copied with reasonable dispatch or is likely to be altered.  R.R.O. 1990, Reg. 965, s. 10 (3). (4) No person shall obstruct the inspector or withhold, destroy, conceal or refuse to furnish any information or thing required by the inspector for the purposes of the inspection.  R.R.O. 1990, Reg. 965, s. 10 (4). Obtaining Drugs",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>(1) An inspector without a warrant at any time may enter upon the premises of a hospital to make an inspection to ensure that the provisions of the Act and this Regulation are being complied with.  R.R.O. 1990, Reg. 965, s. 10 (1).</p> <p class=\"subsection-e\">  (2) Upon an inspection under this section, the inspector,</p> <p class=\"clause-e\">  (a) is entitled at any reasonable time to free access to all books of account, documents, bank accounts, vouchers, correspondence and records, including payroll records, records of staff hours worked, records of personal health information and any other records that are relevant for the purposes of the inspection or required to be kept under the Act or this Regulation;</p> <p class=\"clause-e\">  (b) upon giving a receipt therefor and showing the designation issued by the Minister, may remove any material referred to in clause (a) that relates to the purpose of the inspection in order to make a copy thereof, provided that the copying is carried out with reasonable dispatch and the material in question is promptly thereafter returned to the person from whose possession it was removed;</p> <p class=\"clause-e\">  (c) may examine or test samples of substances to ensure that the regulations are being complied with; and</p> <p class=\"clause-e\">  (d) upon giving a receipt therefor and showing the designation issued by the Minister, may remove a substance or a sample of a substance referred to in clause (c) in order to conduct further tests, for any purpose reasonably necessary to carry out effectively the purposes of the Act and this Regulation.  R.R.O. 1990, Reg. 965, s. 10 (2); O. Reg. 332/04, s. 2.</p> <p class=\"subsection-e\">  (3) Clause (2) (b) does not apply where a copy can be made on the premises of the hospital unless the inspector has reason to believe that the material in question cannot be copied with reasonable dispatch or is likely to be altered.  R.R.O. 1990, Reg. 965, s. 10 (3).</p> <p class=\"subsection-e\">  (4) No person shall obstruct the inspector or withhold, destroy, conceal or refuse to furnish any information or thing required by the inspector for the purposes of the inspection.  R.R.O. 1990, Reg. 965, s. 10 (4).</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Obtaining Drugs</p>"
+        },
+        {
+            "ahref_id": "#10.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.1 (1) No hospital shall, directly or indirectly, purchase or otherwise obtain a drug except from, (a) a pharmacy within the meaning of the Drug and Pharmacies Regulation Act in respect of which a valid certificate of accreditation has been issued under that Act; (b) a person who, in connection with the place from which the drug is provided, holds a valid establishment licence or other approval that may be required in connection with the manufacture, fabrication, packaging, labelling, distribution, testing or importing of the drug under the Food and Drugs Act (Canada); (c) a pharmacy accredited in accordance with the applicable governing legislation in a province or territory of Canada; (d) a person who, in connection with the place from which the drug is provided, operates a drug preparation premises within the meaning of Part IX of Ontario Regulation 202/94 (General) made under the Pharmacy Act, 1991 that passed its latest inspection under that Part; (e) a person who, (i) purchased or otherwise obtained the drug from a person or entity mentioned in clause (a), (b), (c) or (d), and (ii) has not reconstituted, diluted or otherwise prepared the drug, or combined, admixed or mixed it together with another substance; (f) a person who, (i) purchases or otherwise obtains goods or services for the hospital, and (ii) has purchased or obtained the drug from a person or entity mentioned in clause (a), (b), (c), (d) or (e); (g) the Government of Ontario or the Government of Canada or a person acting on behalf of the Government of Ontario or the Government of Canada; (h) another hospital; (i) a person conducting a clinical trial authorized pursuant to Division 5 of Part C of the Food and Drug Regulations under the Food and Drugs Act\r\n(Canada); (j) a person named in a letter of authorization pursuant to section C.08.010 of the Food and Drug Regulations under the Food and Drugs Act\r\n(Canada); (k) a patient who supplies their own drug; or (l) a person approved by the Minister in accordance with subsection (2). O. Reg. 155/13, s. 1. (2) The Minister may approve a person for the purposes of clause (1) (l), where the Minister is satisfied that, (a) the person has demonstrated that they can supply the drug to a hospital in a safe manner; and (b) it is in the public interest to do so. O. Reg. 155/13, s. 1. (3) For greater certainty, where a hospital purchases a drug from a party and has it mixed, compounded or otherwise prepared by a third party, it shall be considered to have obtained the drug from the third party for the purposes of this section. O. Reg. 155/13, s. 1. (4) Subsection (1) does not apply to a hospital if a declaration of emergency made under the Emergency Management and Civil Protection Act is in effect in the area in which the hospital is located. O. Reg. 155/13, s. 1. (5) In this section, “drug” means a substance or a preparation containing a substance referred to in clauses (a) to (d) of the definition of “drug” in subsection 1 (1) of the Drug and Pharmacies Regulation Act, but does not include, (a) a substance or preparation referred to in those clauses that is manufactured, sold or represented for use in animals or fowl, or (b) a substance or preparation referred to in clause (e), (f), (g), (h) or (i) of that definition. O. Reg. 155/13, s. 1. Admission to Hospital",
+            "raw_html": "<p class=\"section-e\"><b>  10.1 </b>(1) No hospital shall, directly or indirectly, purchase or otherwise obtain a drug except from,</p> <p class=\"clause-e\">  (a) a pharmacy within the meaning of the <i>Drug and Pharmacies Regulation Act</i> in respect of which a valid certificate of accreditation has been issued under that Act;</p> <p class=\"clause-e\">  (b) a person who, in connection with the place from which the drug is provided, holds a valid establishment licence or other approval that may be required in connection with the manufacture, fabrication, packaging, labelling, distribution, testing or importing of the drug under the <i>Food and Drugs Act</i> (Canada);</p> <p class=\"clause-e\">  (c) a pharmacy accredited in accordance with the applicable governing legislation in a province or territory of Canada;</p> <p class=\"clause-e\">  (d) a person who, in connection with the place from which the drug is provided, operates a drug preparation premises within the meaning of Part IX of Ontario Regulation 202/94 (General) made under the <i>Pharmacy Act, 1991</i> that passed its latest inspection under that Part;</p> <p class=\"clause-e\">  (e) a person who,</p> <p class=\"subclause-e\">  (i) purchased or otherwise obtained the drug from a person or entity mentioned in clause (a), (b), (c) or (d), and</p> <p class=\"subclause-e\">  (ii) has not reconstituted, diluted or otherwise prepared the drug, or combined, admixed or mixed it together with another substance;</p> <p class=\"clause-e\">  (f) a person who,</p> <p class=\"subclause-e\">  (i) purchases or otherwise obtains goods or services for the hospital, and</p> <p class=\"subclause-e\">  (ii) has purchased or obtained the drug from a person or entity mentioned in clause (a), (b), (c), (d) or (e);</p> <p class=\"clause-e\">  (g) the Government of Ontario or the Government of Canada or a person acting on behalf of the Government of Ontario or the Government of Canada;</p> <p class=\"clause-e\">  (h) another hospital;</p> <p class=\"clause-e\">  (i) a person conducting a clinical trial authorized pursuant to Division 5 of Part C of the <i>Food and Drug Regulations</i> under the<i> Food and Drugs Act</i>\r\n(Canada); </p> <p class=\"clause-e\">  (j) a person named in a letter of authorization pursuant to section C.08.010 of the <i>Food and Drug Regulations</i> under the<i> Food and Drugs Act</i>\r\n(Canada);</p> <p class=\"clause-e\">  (k) a patient who supplies their own drug; or</p> <p class=\"clause-e\">  (l) a person approved by the Minister in accordance with subsection (2). O. Reg. 155/13, s. 1.</p> <p class=\"subsection-e\">  (2) The Minister may approve a person for the purposes of clause (1) (l), where the Minister is satisfied that,</p> <p class=\"clause-e\">  (a) the person has demonstrated that they can supply the drug to a hospital in a safe manner; and</p> <p class=\"clause-e\">  (b) it is in the public interest to do so. O. Reg. 155/13, s. 1.</p> <p class=\"subsection-e\">  (3) For greater certainty, where a hospital purchases a drug from a party and has it mixed, compounded or otherwise prepared by a third party, it shall be considered to have obtained the drug from the third party for the purposes of this section. O. Reg. 155/13, s. 1.</p> <p class=\"subsection-e\">  (4) Subsection (1) does not apply to a hospital if a declaration of emergency made under the <i>Emergency Management and Civil Protection Act</i> is in effect in the area in which the hospital is located. O. Reg. 155/13, s. 1.</p> <p class=\"subsection-e\">  (5) In this section,</p> <p class=\"definition-e\">“drug” means a substance or a preparation containing a substance referred to in clauses (a) to (d) of the definition of “drug” in subsection 1 (1) of the <i>Drug and Pharmacies Regulation Act</i>, but does not include,</p> <p class=\"defclause-e\">  (a) a substance or preparation referred to in those clauses that is manufactured, sold or represented for use in animals or fowl, or</p> <p class=\"defclause-e\">  (b) a substance or preparation referred to in clause (e), (f), (g), (h) or (i) of that definition. O. Reg. 155/13, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Admission to Hospital</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. (1) No person shall be admitted to a hospital as a patient except, (a) on the order or under the authority of a physician who is a member of the medical staff; (a.1) on the order or under the authority of a registered nurse in the extended class who is a member of the extended class nursing staff; (b) on the order or under the authority of an oral and maxillofacial surgeon who is a member of the dental staff; (b.1) if the person is being admitted for treatment by a dentist who is a member of the dental staff other than an oral and maxillofacial surgeon, on the joint order of the dentist and a physician who is a member of the medical staff; or (c) on the order or under the authority of a midwife who is a member of the midwifery staff.  O. Reg. 761/93, s. 4; O. Reg. 346/01, s. 2 (1); O. Reg. 216/11, s. 3 (1); O. Reg. 159/17, s. 2. (2) No physician, registered nurse in the extended class, dentist or midwife shall order the admission of a person to a hospital unless, in the opinion of the physician, registered nurse in the extended class, dentist or midwife, it is clinically necessary that the person be admitted.  O. Reg. 216/11, s. 3 (2). (3) No person shall be registered in a hospital as an out-patient except, (a) on the order or under the authority of a member of the medical staff, midwifery staff or extended class nursing staff; (b) on the order or under the authority of a member of the dental staff who is an oral and maxillofacial surgeon; (b.1) in the case of a person who is an out-patient solely for the purpose of attending a dental clinic in a hospital, on the order or under the authority of a member of the dental staff; or (c)  Revoked:  O. Reg. 64/03, s. 7 (2). O. Reg. 45/98, s. 4; O. Reg. 346/01, s. 2 (2); O. Reg. 64/03, s. 7; O. Reg. 159/17, s. 2. Register Number",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>(1) No person shall be admitted to a hospital as a patient except,</p> <p class=\"clause-e\">  (a) on the order or under the authority of a physician who is a member of the medical staff;</p> <p class=\"clause-e\"> (a.1) on the order or under the authority of a registered nurse in the extended class who is a member of the extended class nursing staff;</p> <p class=\"clause-e\">  (b) on the order or under the authority of an oral and maxillofacial surgeon who is a member of the dental staff;</p> <p class=\"clause-e\"> (b.1) if the person is being admitted for treatment by a dentist who is a member of the dental staff other than an oral and maxillofacial surgeon, on the joint order of the dentist and a physician who is a member of the medical staff; or</p> <p class=\"clause-e\">  (c) on the order or under the authority of a midwife who is a member of the midwifery staff.  O. Reg. 761/93, s. 4; O. Reg. 346/01, s. 2 (1); O. Reg. 216/11, s. 3 (1); O. Reg. 159/17, s. 2.</p> <p class=\"subsection-e\">  (2) No physician, registered nurse in the extended class, dentist or midwife shall order the admission of a person to a hospital unless, in the opinion of the physician, registered nurse in the extended class, dentist or midwife, it is clinically necessary that the person be admitted.  O. Reg. 216/11, s. 3 (2).</p> <p class=\"subsection-e\">  (3) No person shall be registered in a hospital as an out-patient except,</p> <p class=\"clause-e\">  (a) on the order or under the authority of a member of the medical staff, midwifery staff or extended class nursing staff;</p> <p class=\"clause-e\">  (b) on the order or under the authority of a member of the dental staff who is an oral and maxillofacial surgeon; </p> <p class=\"clause-e\"> (b.1) in the case of a person who is an out-patient solely for the purpose of attending a dental clinic in a hospital, on the order or under the authority of a member of the dental staff; or</p> <p class=\"clause-e\">  (c)  <span>R<span class=\"ovsmallcap\">evoked</span></span>:  O. Reg. 64/03, s. 7 (2).</p> <p class=\"footnote-e\">O. Reg. 45/98, s. 4; O. Reg. 346/01, s. 2 (2); O. Reg. 64/03, s. 7; O. Reg. 159/17, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK13\"></a>Register Number</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. (1) Every administrator shall ensure that each patient who is admitted to the hospital is issued a register number.  R.R.O. 1990, Reg. 965, s. 12 (1). (2) A baby born alive in a hospital shall at the time of birth be deemed to be a patient admitted to a hospital for the purposes of subsection (1).  R.R.O. 1990, Reg. 965, s. 12 (2). (3) Register numbers shall be issued to patients by, (a) assigning the number “1” to the first patient admitted in the fiscal year and thereafter assigning numbers in the order of admission; and (b) adding after the number given under clause (a), a virgule and the last two digits of the number of the year in which it is issued.  R.R.O. 1990, Reg. 965, s. 12 (3). (4) A patient shall retain the same register number until the patient is discharged from the hospital.  R.R.O. 1990, Reg. 965, s. 12 (4). Identification Number",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>(1) Every administrator shall ensure that each patient who is admitted to the hospital is issued a register number.  R.R.O. 1990, Reg. 965, s. 12 (1).</p> <p class=\"subsection-e\">  (2) A baby born alive in a hospital shall at the time of birth be deemed to be a patient admitted to a hospital for the purposes of subsection (1).  R.R.O. 1990, Reg. 965, s. 12 (2).</p> <p class=\"subsection-e\">  (3) Register numbers shall be issued to patients by,</p> <p class=\"clause-e\">  (a) assigning the number “1” to the first patient admitted in the fiscal year and thereafter assigning numbers in the order of admission; and</p> <p class=\"clause-e\">  (b) adding after the number given under clause (a), a virgule and the last two digits of the number of the year in which it is issued.  R.R.O. 1990, Reg. 965, s. 12 (3).</p> <p class=\"subsection-e\">  (4) A patient shall retain the same register number until the patient is discharged from the hospital.  R.R.O. 1990, Reg. 965, s. 12 (4).</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Identification Number</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. (1) Every administrator shall ensure that the contents of each patient’s records of personal health information and all other health information in the hospital relating to the patient bear an identification number for the patient.  R.R.O. 1990, Reg. 965, s. 13 (1); O. Reg. 332/04, s. 3. (2) For the purposes of subsection (1), a register number issued to a patient under section 12 may be used as the patient’s identification number on the health information pertaining to the admission for which the register number was issued.  R.R.O. 1990, Reg. 965, s. 13 (2). (3) Where a hospital does not use a register number as an identification number, the administrator shall ensure that the health information pertaining to each separate admission of the patient can be identified by other means.  R.R.O. 1990, Reg. 965, s. 13 (3). Dangerous or Infectious Patient",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>(1) Every administrator shall ensure that the contents of each patient’s records of personal health information and all other health information in the hospital relating to the patient bear an identification number for the patient.  R.R.O. 1990, Reg. 965, s. 13 (1); O. Reg. 332/04, s. 3.</p> <p class=\"subsection-e\">  (2) For the purposes of subsection (1), a register number issued to a patient under section 12 may be used as the patient’s identification number on the health information pertaining to the admission for which the register number was issued.  R.R.O. 1990, Reg. 965, s. 13 (2).</p> <p class=\"subsection-e\">  (3) Where a hospital does not use a register number as an identification number, the administrator shall ensure that the health information pertaining to each separate admission of the patient can be identified by other means.  R.R.O. 1990, Reg. 965, s. 13 (3).</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Dangerous or Infectious Patient</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. (1) A physician, a registered nurse in the extended class, an oral and maxillofacial surgeon or a midwife who knows or suspects that a person being admitted to the hospital on the physician’s, registered nurse in the extended class’s, oral and maxillofacial surgeon’s or midwife’s order is or may become dangerous to himself or herself or to other persons, shall forthwith notify the administrator concerning the patient.  O. Reg. 216/11, s. 4 (1). (2) An attending physician, attending dentist, attending midwife or attending registered nurse in the extended class who knows or suspects that his or her patient is suffering from an infectious disease or condition shall forthwith notify the administrator and either an infection control officer or an infection control nurse about the patient.  O. Reg. 45/98, s. 5; O. Reg. 216/11, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>14.</b> (1) A physician, a registered nurse in the extended class, an oral and maxillofacial surgeon or a midwife who knows or suspects that a person being admitted to the hospital on the physician’s, registered nurse in the extended class’s, oral and maxillofacial surgeon’s or midwife’s order is or may become dangerous to himself or herself or to other persons, shall forthwith notify the administrator concerning the patient.  O. Reg. 216/11, s. 4 (1).</p> <p class=\"subsection-e\">  (2) An attending physician, attending dentist, attending midwife or attending registered nurse in the extended class who knows or suspects that his or her patient is suffering from an infectious disease or condition shall forthwith notify the administrator and either an infection control officer or an infection control nurse about the patient.  O. Reg. 45/98, s. 5; O. Reg. 216/11, s. 4 (2).</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. Every board shall ensure that the hospital provides for the isolation of patients as is necessary in the circumstances.  R.R.O. 1990, Reg. 965, s. 15. Discharge of Patient from Hospital",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>Every board shall ensure that the hospital provides for the isolation of patients as is necessary in the circumstances.  R.R.O. 1990, Reg. 965, s. 15.</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Discharge of Patient from Hospital</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. (1) If a patient is no longer in need of treatment in the hospital, one of the following persons shall make an order that the patient be discharged and communicate the order to the patient: 1. The attending physician, registered nurse in the extended class or midwife or, if the attending dentist is an oral and maxillofacial surgeon, the attending dentist. 2. A member of the medical, extended class nursing, dental or midwifery staff designated by a person referred to in paragraph 1. O. Reg. 346/01 s. 4; O. Reg. 216/11, s. 5; O. Reg. 159/17, s. 2. (2) Where an order has been made with respect to the discharge of a patient, the hospital shall discharge the patient and the patient shall leave the hospital on the date set out in the discharge order. R.R.O. 1990, Reg. 965, s. 16 (2). (3) Despite subsection (2), the administrator may grant permission for a patient to remain in the hospital for a period of up to twenty-four hours after the date set out in the discharge order. R.R.O. 1990, Reg. 965, s. 16 (3). (3.1) If a discharged patient remains in the hospital for more than 24 hours after the date set out in the discharge order, the hospital shall charge the patient a fee of $400 for every day that the patient remains in the hospital following the expiry of that 24-hour period. O. Reg. 486/22, s. 1. (4) Without limiting the generality of subsection (1), a patient is no longer in need of treatment in the hospital for the purposes of that subsection if, (a) the patient is designated as an alternate level of care patient in accordance with subsection (5); and (b) the patient’s admission to a long-term care home has been authorized in accordance with section 60.1 of the Fixing Long-term Care Act, 2021 and any applicable regulations made under that Act. O. Reg. 485/22, s. 1. (5) An attending clinician may designate a patient of the attending clinician as an alternate level of care patient if, in the clinician’s opinion, the patient does not require the intensity of resources or services provided in the hospital care setting. O. Reg. 485/22, s. 1. (6) For the purposes of subsection (5), “attending clinician” means a person entitled to make an order under subsection (1). O. Reg. 485/22, s. 1. Report of Death",
+            "raw_html": "<p class=\"section-e\"> <b>16. </b>(1) If a patient is no longer in need of treatment in the hospital, one of the following persons shall make an order that the patient be discharged and communicate the order to the patient:</p> <p class=\"paragraph-e\">  1. The attending physician, registered nurse in the extended class or midwife or, if the attending dentist is an oral and maxillofacial surgeon, the attending dentist.</p> <p class=\"paragraph-e\">  2. A member of the medical, extended class nursing, dental or midwifery staff designated by a person referred to in paragraph 1. O. Reg. 346/01 s. 4; O. Reg. 216/11, s. 5; O. Reg. 159/17, s. 2.</p> <p class=\"subsection-e\">  (2) Where an order has been made with respect to the discharge of a patient, the hospital shall discharge the patient and the patient shall leave the hospital on the date set out in the discharge order. R.R.O. 1990, Reg. 965, s. 16 (2).</p> <p class=\"subsection-e\">  (3) Despite subsection (2), the administrator may grant permission for a patient to remain in the hospital for a period of up to twenty-four hours after the date set out in the discharge order. R.R.O. 1990, Reg. 965, s. 16 (3).</p> <p class=\"subsection-e\">  (3.1) If a discharged patient remains in the hospital for more than 24 hours after the date set out in the discharge order, the hospital shall charge the patient a fee of $400 for every day that the patient remains in the hospital following the expiry of that 24-hour period. O. Reg. 486/22, s. 1.</p> <p class=\"subsection-e\">  (4) Without limiting the generality of subsection (1), a patient is no longer in need of treatment in the hospital for the purposes of that subsection if,</p> <p class=\"clause-e\">  (a) the patient is designated as an alternate level of care patient in accordance with subsection (5); and</p> <p class=\"clause-e\">  (b) the patient’s admission to a long-term care home has been authorized in accordance with section 60.1 of the <i>Fixing Long-term Care Act, 2021</i> and any applicable regulations made under that Act. O. Reg. 485/22, s. 1.</p> <p class=\"subsection-e\">  (5) An attending clinician may designate a patient of the attending clinician as an alternate level of care patient if, in the clinician’s opinion, the patient does not require the intensity of resources or services provided in the hospital care setting. O. Reg. 485/22, s. 1.</p> <p class=\"subsection-e\">  (6) For the purposes of subsection (5),</p> <p class=\"definition-e\">“attending clinician” means a person entitled to make an order under subsection (1). O. Reg. 485/22, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>Report of Death</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. (1) When a patient dies in a hospital, the attending physician or registered nurse in the extended class shall cause a copy of the medical certificate of death required under the Vital Statistics Act to be filed in the medical record pertaining to the patient.  O. Reg. 216/11, s. 6. (2) Where the Vital Statistics Act requires a coroner to complete the medical certificate of death and the coroner does not provide the attending physician or registered nurse in the extended class with a copy of the medical certificate of death, the attending physician or registered nurse in the extended class shall, (a) complete a report in the form entitled “Certificate of Death – Form 1”, dated April 2017 and available on the website of the Government of Ontario Central Forms Repository under the listing for the Ministry of Health and Long-Term Care; and (b) cause a copy of the report to be filed in the medical record pertaining to the patient. O. Reg. 159/17, s. 4. Physician or Dentist Unable to Perform Duties",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b>(1) When a patient dies in a hospital, the attending physician or registered nurse in the extended class shall cause a copy of the medical certificate of death required under the <i>Vital Statistics Act</i> to be filed in the medical record pertaining to the patient.  O. Reg. 216/11, s. 6.</p> <p class=\"subsection-e\">  (2) Where the <i>Vital Statistics Act</i> requires a coroner to complete the medical certificate of death and the coroner does not provide the attending physician or registered nurse in the extended class with a copy of the medical certificate of death, the attending physician or registered nurse in the extended class shall,</p> <p class=\"clause-e\">  (a) complete a report in the form entitled “Certificate of Death – Form 1”, dated April 2017 and available on the website of the Government of Ontario Central Forms Repository under the listing for the Ministry of Health and Long-Term Care; and</p> <p class=\"clause-e\">  (b) cause a copy of the report to be filed in the medical record pertaining to the patient. O. Reg. 159/17, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK18\"></a>Physician or Dentist Unable to Perform Duties</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. (1) Where a person who is a member of the medical, dental, midwifery or extended class nursing staff is unable for any reason to perform his or her professional duties with respect to a patient in the hospital, the person shall arrange for another member of the medical, dental, midwifery or extended class nursing staff, as may be appropriate, to perform the person’s duties.  O. Reg. 761/93, s. 8; O. Reg. 45/98, s. 6; O. Reg. 159/17, s. 2. (2) Where a person is unable to perform his or her duties as set out in subsection (1), the person shall note, where another person assumes his or her duties, the name of the person assuming the duties in the patient’s medical record.  R.R.O. 1990, Reg. 965, s. 18 (2). (3) Where an administrator believes that a person who is a member of the medical, dental, midwifery or extended class nursing staff is unable to perform the person’s professional duties with respect to a patient in the hospital, the administrator shall notify, (a) the chief of staff or the chair of the medical advisory committee; (b) in the case of a member of the medical staff, the president or the secretary of the medical staff; and (c) in the case of a member of the extended class nursing staff, the chief nursing executive.  O. Reg. 64/03, s. 8; O. Reg. 159/17, s. 2. Records of Personal Health Information",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>(1) Where a person who is a member of the medical, dental, midwifery or extended class nursing staff<b> </b>is unable for any reason to perform his or her professional duties with respect to a patient in the hospital, the person shall arrange for another member of the medical, dental, midwifery or extended class nursing staff, as may be appropriate, to perform the person’s duties.  O. Reg. 761/93, s. 8; O. Reg. 45/98, s. 6; O. Reg. 159/17, s. 2.</p> <p class=\"subsection-e\">  (2) Where a person is unable to perform his or her duties as set out in subsection (1), the person shall note, where another person assumes his or her duties, the name of the person assuming the duties in the patient’s medical record.  R.R.O. 1990, Reg. 965, s. 18 (2).</p> <p class=\"subsection-e\">  (3) Where an administrator believes that a person who is a member of the medical, dental, midwifery or extended class nursing staff is unable to perform the person’s professional duties with respect to a patient in the hospital, the administrator shall notify,</p> <p class=\"clause-e\">  (a) the chief of staff or the chair of the medical advisory committee;</p> <p class=\"clause-e\">  (b) in the case of a member of the medical staff, the president or the secretary of the medical staff; and</p> <p class=\"clause-e\">  (c) in the case of a member of the extended class nursing staff, the chief nursing executive.  O. Reg. 64/03, s. 8; O. Reg. 159/17, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK19\"></a>Records of Personal Health Information</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. (1) Every administrator shall ensure that a system is established for the keeping of records of personal health information for each patient.  R.R.O. 1990, Reg. 965, s. 19 (1); O. Reg. 332/04, s. 4 (2). (2) Each entry in a medical record shall bear the date on which it was made and shall be authenticated by the person who authorized the entry.  R.R.O. 1990, Reg. 965, s. 19 (2). (3) Subsection (2) applies in respect of each entry on a document where the document contains entries authorized by more than one person.  R.R.O. 1990, Reg. 965, s. 19 (3). (4) The medical record for a patient, other than an out-patient, shall include, (a) the names of the attending physicians, registered nurses in the extended class, dentists and midwives of the patient; (b) a history of the patient; (c) records of all medical, dental and midwifery examinations carried out on the patient in the hospital; (c.1) records of all examinations carried out on the patient in the hospital by a registered nurse in the extended class; (d) all diagnostic imaging records of the patient, including any videotape of a diagnostic imaging examination or test of the patient if the videotape constitutes the only diagnostic imaging record of the examination or test; (e) reports of any critical incidents with respect to the patient, including the information required to be disclosed under subsection 2 (5), and a record of when any disclosure was made under subsection 2 (4); (f) all provisional and final diagnoses with respect to the patient; (g) all orders for treatment or investigation with respect to the patient in the hospital; (h) records of all medical, dental and midwifery treatment carried out on the patient in the hospital; (h.1) records of all treatment carried out on the patient in the hospital by a registered nurse in the extended class; (i) all consents to treatment obtained in writing with respect to the patient; (i.1) all statements referred to in subsection 28 (3) with respect to the patient; (i.2) all opinions required to be noted under subsection 25 (5) of the Health Care Consent Act, 1996\r\nwith respect to the patient; (j) progress notes with respect to the patient; (j.1) results of diagnostic imaging examinations or tests; (k) reports made by a physician, registered nurse in the extended class, dentist or midwife with respect to the patient of, (i) all consultations, (ii) all investigative procedures, (iii) all operations, anaesthesia and recoveries, (iv) results of diagnostic imaging examinations or tests, and (v) a post-mortem examination, if one has been performed, where the patient dies in the hospital; (l) discharge summaries; (m) orders for discharge with respect to the patient; and (n) a death certificate where the patient dies in the hospital.  R.R.O. 1990, Reg. 965, s. 19 (4); O. Reg. 761/93, s. 9 (1); O. Reg. 17/95, s. 1 (1); O. Reg. 106/96, s. 1 (1); O. Reg. 538/99, s. 1 (1-3); O. Reg. 423/07, s. 3 (1); O. Reg. 216/11, s. 7 (1-3); O. Reg. 289/19, s. 2 (1). (5) The medical record of an out-patient, other than an out-patient referred to in subsection (6), shall include, (a) the names of the attending physicians, dentists, midwives and registered nurses in the extended class of the out-patient at each visit; (b) a history of the out-patient; (c) records of all examinations carried out on the out-patient in the hospital by members of the medical, dental, midwifery and extended class nursing staff; (d) all diagnostic imaging records of the out-patient, including any videotape of a diagnostic imaging examination or test of the out-patient if the videotape constitutes the only diagnostic imaging record of the examination or test; (e) reports of any critical incidents with respect to the patient, including the information required to be disclosed under subsection 2 (5), and a record of when any disclosure was made under subsection 2 (4); (f) all orders for treatment or investigation with respect to the out-patient in the hospital; (g) all consents to treatment obtained in writing with respect to the out-patient; (g.1) all statements referred to in subsection 28 (3) with respect to the out-patient; (g.2) all opinions required to be noted under subsection 25 (5) of the Health Care Consent Act, 1996\r\nwith respect to the out-patient; (h) records of all treatment carried out on the out-patient in the hospital by members of the medical, dental, midwifery and extended class nursing staff; (h.1) results of diagnostic imaging examinations or tests; (i) all reports of investigative procedures carried out on the out-patient in the hospital and all reports of the results of diagnostic imaging examinations or tests; (j) all diagnoses with respect to the out-patient; and (k) a death certificate if the out-patient dies in the hospital.  R.R.O. 1990, Reg. 965, s. 19 (5); O. Reg. 761/93, s. 9 (2); O. Reg. 17/95, s. 1 (2); O. Reg. 106/96, s. 1 (2); O. Reg. 538/99, s. 1 (4-6); O. Reg. 64/03, s. 9; O. Reg. 423/07, s. 3 (2); O. Reg. 216/11, s. 7 (4); O. Reg. 159/17, s. 2; O. Reg. 289/19, s. 2 (2). (6) The medical record of an out-patient who visits the hospital solely for diagnostic procedures need only include, (a) the orders for the procedures; (b) any consent to the procedures obtained in writing; (c) a record of the procedures; and (d) reports of any critical incidents with respect to the patient, including the information required to be disclosed under subsection 2 (5), and a record of when any disclosure was made under subsection 2 (4).  O. Reg. 423/07, s. 3 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>(1) Every administrator shall ensure that a system is established for the keeping of records of personal health information for each patient.  R.R.O. 1990, Reg. 965, s. 19 (1); O. Reg. 332/04, s. 4 (2).</p> <p class=\"subsection-e\">  (2) Each entry in a medical record shall bear the date on which it was made and shall be authenticated by the person who authorized the entry.  R.R.O. 1990, Reg. 965, s. 19 (2).</p> <p class=\"subsection-e\">  (3) Subsection (2) applies in respect of each entry on a document where the document contains entries authorized by more than one person.  R.R.O. 1990, Reg. 965, s. 19 (3).</p> <p class=\"subsection-e\">  (4) The medical record for a patient, other than an out-patient, shall include,</p> <p class=\"clause-e\">  (a) the names of the attending physicians, registered nurses in the extended class, dentists and midwives of the patient;</p> <p class=\"clause-e\">  (b) a history of the patient;</p> <p class=\"clause-e\">  (c) records of all medical, dental and midwifery examinations carried out on the patient in the hospital;</p> <p class=\"clause-e\"> (c.1) records of all examinations carried out on the patient in the hospital by a registered nurse in the extended class;</p> <p class=\"clause-e\">  (d) all diagnostic imaging records of the patient, including any videotape of a diagnostic imaging examination or test of the patient if the videotape constitutes the only diagnostic imaging record of the examination or test;</p> <p class=\"clause-e\">  (e) reports of any critical incidents with respect to the patient, including the information required to be disclosed under subsection 2 (5), and a record of when any disclosure was made under subsection 2 (4);</p> <p class=\"clause-e\">  (f) all provisional and final diagnoses with respect to the patient;</p> <p class=\"clause-e\">  (g) all orders for treatment or investigation with respect to the patient in the hospital;</p> <p class=\"clause-e\">  (h) records of all medical, dental and midwifery treatment carried out on the patient in the hospital;</p> <p class=\"clause-e\"> (h.1) records of all treatment carried out on the patient in the hospital by a registered nurse in the extended class;</p> <p class=\"clause-e\">  (i) all consents to treatment obtained in writing with respect to the patient;</p> <p class=\"clause-e\"> (i.1) all statements referred to in subsection 28 (3) with respect to the patient;</p> <p class=\"clause-e\"> (i.2) all opinions required to be noted under subsection 25 (5) of the <i>Health Care Consent Act, 1996</i>\r\nwith respect to the patient;</p> <p class=\"clause-e\">  (j) progress notes with respect to the patient;</p> <p class=\"clause-e\"> (j.1) results of diagnostic imaging examinations or tests;</p> <p class=\"clause-e\">  (k) reports made by a physician, registered nurse in the extended class, dentist or midwife with respect to the patient of,</p> <p class=\"subclause-e\">  (i) all consultations,</p> <p class=\"subclause-e\">  (ii) all investigative procedures,</p> <p class=\"subclause-e\">  (iii) all operations, anaesthesia and recoveries,</p> <p class=\"subclause-e\">  (iv) results of diagnostic imaging examinations or tests, and</p> <p class=\"subclause-e\">  (v) a post-mortem examination, if one has been performed, where the patient dies in the hospital;</p> <p class=\"clause-e\">  (l) discharge summaries;</p> <p class=\"clause-e\">  (m) orders for discharge with respect to the patient; and</p> <p class=\"clause-e\">  (n) a death certificate where the patient dies in the hospital.  R.R.O. 1990, Reg. 965, s. 19 (4); O. Reg. 761/93, s. 9 (1); O. Reg. 17/95, s. 1 (1); O. Reg. 106/96, s. 1 (1); O. Reg. 538/99, s. 1 (1-3); O. Reg. 423/07, s. 3 (1); O. Reg. 216/11, s. 7 (1-3); O. Reg. 289/19, s. 2 (1).</p> <p class=\"subsection-e\">  (5) The medical record of an out-patient, other than an out-patient referred to in subsection (6), shall include,</p> <p class=\"clause-e\">  (a) the names of the attending physicians, dentists, midwives and registered nurses in the extended class of the out-patient at each visit;</p> <p class=\"clause-e\">  (b) a history of the out-patient;</p> <p class=\"clause-e\">  (c) records of all examinations carried out on the out-patient in the hospital by members of the medical, dental, midwifery and extended class nursing staff;</p> <p class=\"clause-e\">  (d) all diagnostic imaging records of the out-patient, including any videotape of a diagnostic imaging examination or test of the out-patient if the videotape constitutes the only diagnostic imaging record of the examination or test;</p> <p class=\"clause-e\">  (e) reports of any critical incidents with respect to the patient, including the information required to be disclosed under subsection 2 (5), and a record of when any disclosure was made under subsection 2 (4);</p> <p class=\"clause-e\">  (f) all orders for treatment or investigation with respect to the out-patient in the hospital;</p> <p class=\"clause-e\">  (g) all consents to treatment obtained in writing with respect to the out-patient;</p> <p class=\"clause-e\"> (g.1) all statements referred to in subsection 28 (3) with respect to the out-patient;</p> <p class=\"clause-e\"> (g.2) all opinions required to be noted under subsection 25 (5) of the <i>Health Care Consent Act, 1996</i>\r\nwith respect to the out-patient;</p> <p class=\"clause-e\">  (h) records of all treatment carried out on the out-patient in the hospital by members of the medical, dental, midwifery and extended class nursing staff;</p> <p class=\"clause-e\"> (h.1) results of diagnostic imaging examinations or tests;</p> <p class=\"clause-e\">  (i) all reports of investigative procedures carried out on the out-patient in the hospital and all reports of the results of diagnostic imaging examinations or tests;</p> <p class=\"clause-e\">  (j) all diagnoses with respect to the out-patient; and</p> <p class=\"clause-e\">  (k) a death certificate if the out-patient dies in the hospital.  R.R.O. 1990, Reg. 965, s. 19 (5); O. Reg. 761/93, s. 9 (2); O. Reg. 17/95, s. 1 (2); O. Reg. 106/96, s. 1 (2); O. Reg. 538/99, s. 1 (4-6); O. Reg. 64/03, s. 9; O. Reg. 423/07, s. 3 (2); O. Reg. 216/11, s. 7 (4); O. Reg. 159/17, s. 2; O. Reg. 289/19, s. 2 (2).</p> <p class=\"subsection-e\">  (6) The medical record of an out-patient who visits the hospital solely for diagnostic procedures need only include,</p> <p class=\"clause-e\">  (a) the orders for the procedures;</p> <p class=\"clause-e\">  (b) any consent to the procedures obtained in writing;</p> <p class=\"clause-e\">  (c) a record of the procedures; and</p> <p class=\"clause-e\">  (d) reports of any critical incidents with respect to the patient, including the information required to be disclosed under subsection 2 (5), and a record of when any disclosure was made under subsection 2 (4).  O. Reg. 423/07, s. 3 (3).</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. (1) A hospital may photograph records of personal health information for the purpose of retaining the contents thereof in lieu of the original documents where the photographing of the documents is carried out in accordance with procedures established by the board after considering the recommendations of the medical advisory committee.  R.R.O. 1990, Reg. 965, s. 20 (1); O. Reg. 332/04, s. 5 (1). (2) The following records or photographs thereof with respect to patients and out-patients shall be retained by the hospital keeping the records and photographs in accordance with subsection (3): 1. Records of personal health information. 2.  Revoked:  O. Reg. 332/04, s. 5 (2). 3. Slides made for microscopic examination from tissue removed from a patient or an out-patient on which a report has been made, except for blood smears that are normal in the opinion of the person making the report on the slide.  R.R.O. 1990, Reg. 965, s. 20 (2); O. Reg. 332/04, s. 5 (2). (3) Records referred to in subsection (2) or photographs thereof, other than a record to which subsection (4) or (5) applies, shall be retained, (a) in the case of a patient who is eighteen years of age or older, for at least ten years after the date of discharge or death of the patient to whom the record or photograph relates; (b) in the case of an out-patient who is eighteen years of age or older, for at least ten years after the date of the last visit or death of the out-patient to whom the record or photograph relates; (c) in the case of a patient who is under eighteen years of age, for at least ten years after the eighteenth anniversary of the birth of the patient to whom the record or photograph relates; and (d) in the case of an out-patient who is under eighteen years of age, for at least ten years after the eighteenth anniversary of the birth of the out-patient to whom the record or photograph relates.  R.R.O. 1990, Reg. 965, s. 20 (3); O. Reg. 538/99, s. 2 (1). (4) A hospital shall retain a diagnostic imaging record of a patient, other than a diagnostic imaging record referred to in subsection (5), (a) in the case of the record of a patient or out-patient who is 18 years old or older, for at least five years after the day on which the diagnostic imaging record is created; and (b) in the case of the record of a patient or out-patient who is under 18 years of age, for at least five years after the eighteenth anniversary of the birth of the patient or out-patient to whom the imaging diagnostic record relates.  O. Reg. 538/99, s. 2 (2). (5) A hospital shall retain a diagnostic imaging record of a diagnostic imaging examination of the breast, including a mammogram or breast ultrasound imaging record, (a) in the case of the record of a patient or out-patient who is 18 years old or older, for at least 10 years after the day on which the diagnostic imaging record is created; and (b) in the case of the record of a patient or out-patient who is under 18 years of age, for at least 10 years after the eighteenth anniversary of the birth of the patient or out-patient to whom the imaging diagnostic record relates.  O. Reg. 538/99, s. 2 (2). (6) A hospital is not required under this section to retain any videotape of a diagnostic imaging examination or test of a patient unless the videotape constitutes the only diagnostic imaging record of the examination or test.  O. Reg. 538/99, s. 2 (2). (7) Despite subsections (3), (4) and (5), if before the end of a period referred to in those subsections, a hospital receives notice of a court action, or of an investigation, assessment, inspection, inquest or other inquiry referred to in subsection (8), relating to the treatment of a patient in the hospital, the hospital shall retain the applicable records until, (a) in the case of a court action, the action is finally disposed of; (b) in the case of an investigation, assessment, inspection, inquest or other inquiry referred to in subsection (8), it has been completed and any subsequent hearing is finally disposed of; or (c) in the case of an access request under section 53 of the Personal Health Information Protection Act, 2004, for as long as necessary to allow the individual to exhaust any recourse under that Act that he or she may have with regard to the request.  O. Reg. 538/99, s. 2 (2); O. Reg. 332/04, s. 5 (3). (8) Subsection (7) applies if a hospital receives notice of the following: 1. An investigation, assessment, inspection or other inquiry by a committee of a College of a health profession set out in Schedule 1 to the Regulated Health Professions Act, 1991. 2. An inspection by a practitioner review committee under the Health Insurance Act. 3. An investigation or inquest by a coroner under the Coroners Act. 4. An access request under section 53 of the Personal Health Information Protection Act, 2004.  O. Reg. 538/99, s. 2 (2); O. Reg. 332/04, s. 5 (4); O. Reg. 491/07, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>(1) A hospital may photograph records of personal health information for the purpose of retaining the contents thereof in lieu of the original documents where the photographing of the documents is carried out in accordance with procedures established by the board after considering the recommendations of the medical advisory committee.  R.R.O. 1990, Reg. 965, s. 20 (1); O. Reg. 332/04, s. 5 (1).</p> <p class=\"subsection-e\">  (2) The following records or photographs thereof with respect to patients and out-patients shall be retained by the hospital keeping the records and photographs in accordance with subsection (3):</p> <p class=\"paragraph-e\">  1. Records of personal health information.</p> <p class=\"paragraph-e\">  2.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 332/04, s. 5 (2).</p> <p class=\"paragraph-e\">  3. Slides made for microscopic examination from tissue removed from a patient or an out-patient on which a report has been made, except for blood smears that are normal in the opinion of the person making the report on the slide.  R.R.O. 1990, Reg. 965, s. 20 (2); O. Reg. 332/04, s. 5 (2).</p> <p class=\"subsection-e\">  (3) Records referred to in subsection (2) or photographs thereof, other than a record to which subsection (4) or (5) applies, shall be retained,</p> <p class=\"clause-e\">  (a) in the case of a patient who is eighteen years of age or older, for at least ten years after the date of discharge or death of the patient to whom the record or photograph relates;</p> <p class=\"clause-e\">  (b) in the case of an out-patient who is eighteen years of age or older, for at least ten years after the date of the last visit or death of the out-patient to whom the record or photograph relates;</p> <p class=\"clause-e\">  (c) in the case of a patient who is under eighteen years of age, for at least ten years after the eighteenth anniversary of the birth of the patient to whom the record or photograph relates; and</p> <p class=\"clause-e\">  (d) in the case of an out-patient who is under eighteen years of age, for at least ten years after the eighteenth anniversary of the birth of the out-patient to whom the record or photograph relates.  R.R.O. 1990, Reg. 965, s. 20 (3); O. Reg. 538/99, s. 2 (1).</p> <p class=\"subsection-e\">  (4) A hospital shall retain a diagnostic imaging record of a patient, other than a diagnostic imaging record referred to in subsection (5),</p> <p class=\"clause-e\">  (a) in the case of the record of a patient or out-patient who is 18 years old or older, for at least five years after the day on which the diagnostic imaging record is created; and</p> <p class=\"clause-e\">  (b) in the case of the record of a patient or out-patient who is under 18 years of age, for at least five years after the eighteenth anniversary of the birth of the patient or out-patient to whom the imaging diagnostic record relates.  O. Reg. 538/99, s. 2 (2).</p> <p class=\"subsection-e\">  (5) A hospital shall retain a diagnostic imaging record of a diagnostic imaging examination of the breast, including a mammogram or breast ultrasound imaging record,</p> <p class=\"clause-e\">  (a) in the case of the record of a patient or out-patient who is 18 years old or older, for at least 10 years after the day on which the diagnostic imaging record is created; and</p> <p class=\"clause-e\">  (b) in the case of the record of a patient or out-patient who is under 18 years of age, for at least 10 years after the eighteenth anniversary of the birth of the patient or out-patient to whom the imaging diagnostic record relates.  O. Reg. 538/99, s. 2 (2).</p> <p class=\"subsection-e\">  (6) A hospital is not required under this section to retain any videotape of a diagnostic imaging examination or test of a patient unless the videotape constitutes the only diagnostic imaging record of the examination or test.  O. Reg. 538/99, s. 2 (2).</p> <p class=\"subsection-e\">  (7) Despite subsections (3), (4) and (5), if before the end of a period referred to in those subsections, a hospital receives notice of a court action, or of an investigation, assessment, inspection, inquest or other inquiry referred to in subsection (8), relating to the treatment of a patient in the hospital, the hospital shall retain the applicable records until,</p> <p class=\"clause-e\">  (a) in the case of a court action, the action is finally disposed of;</p> <p class=\"clause-e\">  (b) in the case of an investigation, assessment, inspection, inquest or other inquiry referred to in subsection (8), it has been completed and any subsequent hearing is finally disposed of; or</p> <p class=\"clause-e\">  (c) in the case of an access request under section 53 of the <i>Personal Health Information Protection Act, 2004</i>, for as long as necessary to allow the individual to exhaust any recourse under that Act that he or she may have with regard to the request.  O. Reg. 538/99, s. 2 (2); O. Reg. 332/04, s. 5 (3).</p> <p class=\"subsection-e\">  (8) Subsection (7) applies if a hospital receives notice of the following:</p> <p class=\"paragraph-e\">  1. An investigation, assessment, inspection or other inquiry by a committee of a College of a health profession set out in Schedule 1 to the <i>Regulated Health Professions Act, 1991</i>.</p> <p class=\"paragraph-e\">  2. An inspection by a practitioner review committee under the <i>Health Insurance Act</i>.</p> <p class=\"paragraph-e\">  3. An investigation or inquest by a coroner under the <i>Coroners Act</i>.</p> <p class=\"paragraph-e\">  4. An access request under section 53 of the <i>Personal Health Information Protection Act, 2004</i>.  O. Reg. 538/99, s. 2 (2); O. Reg. 332/04, s. 5 (4); O. Reg. 491/07, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. (1) Every board shall determine the procedure to be followed by the hospital for the destruction of records of personal health information or photographs of any of them.  R.R.O. 1990, Reg. 965, s. 21 (1); O. Reg. 332/04, s. 6 (1). (2) Where records of personal health information or photographs of any of them are destroyed, the administrator shall forthwith make and authenticate a written statement that sets out, (a) the names of the patients to whom the records of personal health information or photographs thereof refer; and (b) the date and manner of the destruction and whether or not the destruction was carried out in accordance with the procedures determined by the board.  R.R.O. 1990, Reg. 965, s. 21 (2); O. Reg. 332/04, s. 6 (2, 3). (3) The administrator shall retain in the hospital all statements made under subsection (2) in accordance with the by-laws of the hospital.  R.R.O. 1990, Reg. 965, s. 21 (3). Disclosure of Records",
+            "raw_html": "<p class=\"section-e\"> <b>21. </b>(1) Every board shall determine the procedure to be followed by the hospital for the destruction of records of personal health information or photographs of any of them.  R.R.O. 1990, Reg. 965, s. 21 (1); O. Reg. 332/04, s. 6 (1).</p> <p class=\"subsection-e\">  (2) Where records of personal health information or photographs of any of them are destroyed, the administrator shall forthwith make and authenticate a written statement that sets out,</p> <p class=\"clause-e\">  (a) the names of the patients to whom the records of personal health information or photographs thereof refer; and</p> <p class=\"clause-e\">  (b) the date and manner of the destruction and whether or not the destruction was carried out in accordance with the procedures determined by the board.  R.R.O. 1990, Reg. 965, s. 21 (2); O. Reg. 332/04, s. 6 (2, 3).</p> <p class=\"subsection-e\">  (3) The administrator shall retain in the hospital all statements made under subsection (2) in accordance with the by-laws of the hospital.  R.R.O. 1990, Reg. 965, s. 21 (3).</p> <p class=\"heading1-e\"><a name=\"BK20\"></a>Disclosure of Records</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22. (1) Except as required by law or as provided in this section, no board shall permit any person to remove, inspect or receive information from records of personal health information.  O. Reg. 332/04, s. 7 (1). (2) Revoked:  O. Reg. 332/04, s. 7 (1). (2.1) Subsection (1) does not apply with respect to the collection, by a person described in subsection (2.2), of information that may be necessary for a purpose for which the person was appointed.  O. Reg. 468/92, s. 1. (2.2) The persons referred to in subsection (2.1) are, (a) persons appointed by the Minister to collect information to assist in planning for the care that may be required, in the future, by patients of hospitals; (b) persons appointed by the Minister to collect information to determine the consistency and accuracy of information collected by persons described in clause (a).  O. Reg. 468/92, s. 1. (2.3) Subsection (1) does not apply with respect to the inspection of, and receipt of information from, records of personal health information by a person appointed by the Minister to train persons described in clause (2.2) (a) if the inspection and receipt is in the course of such training.  O. Reg. 468/92, s. 1; O. Reg. 332/04, s. 7 (2). (3) The Registrar of the College of Physicians and Surgeons of Ontario, the Council of the College of Physicians and Surgeons of Ontario or a physician appointed by the Council of the College of Physicians and Surgeons of Ontario, after giving written notice to the administrator and the chief of the medical staff, may for the purposes of investigating the medical care provided to a patient or out-patient of a hospital by a physician, (a) inspect and receive information from medical records or from notes, charts and other material relating to patient care and reproduce and retain copies thereof; and (b) interview hospital staff and medical staff with respect to the admission, treatment, care, conduct, control and discharge of patients or any class of patients and the general management of the hospital insofar as it relates to the hospitalization of a patient or patients whose care and treatment are being investigated by the College.  R.R.O. 1990, Reg. 965, s. 22 (3). (4) If the Registrar, the Council or a physician appointed by the Council wishes to interview a member of the hospital staff or medical staff, the Registrar, the Council or the physician, as the case requires, shall give written notice to the administrator of the subject matter of the interview and the identity, if known, of the persons to be interviewed.  R.R.O. 1990, Reg. 965, s. 22 (4). (5) An administrator who receives written notice under subsection (4) shall forthwith give written notice to each person who may be interviewed of the subject matter of the interview and inform the person that the person may have legal counsel present at the interview.  R.R.O. 1990, Reg. 965, s. 22 (5). (5.1) The General Manager for the Ontario Health Insurance Plan may inspect and receive information from records of personal health information and be given copies therefrom, for the purposes of pursuing, substantiating or establishing the right of the Ontario Health Insurance Plan to recover either one or both of the following: 1. The cost incurred for past insured services. 2. The cost that will probably be incurred for future insured services.  O. Reg. 216/93, s. 1; O. Reg. 332/04, s. 7 (3). (6) A board may permit, (a) a member of the medical, dental, midwifery or extended class nursing staff but only for teaching purposes; (b) a person with a written direction from the Deputy Minister of Veterans Affairs (Canada) or a person designated by the Deputy Minister of Veterans Affairs (Canada), where the patient is a member of the Canadian Forces or an ex-member of Her Majesty’s military, naval or air force of Canada; or (c) a person lawfully authorized to make treatment decisions on behalf of an incapable person, to inspect and receive information from records of personal health information and to be given copies from them.  O. Reg. 332/04, s. 7 (4); O. Reg. 159/17, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>22. </b>(1) Except as required by law or as provided in this section, no board shall permit any person to remove, inspect or receive information from records of personal health information.  O. Reg. 332/04, s. 7 (1).</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 332/04, s. 7 (1).</p> <p class=\"subsection-e\">  (2.1) Subsection (1) does not apply with respect to the collection, by a person described in subsection (2.2), of information that may be necessary for a purpose for which the person was appointed.  O. Reg. 468/92, s. 1.</p> <p class=\"subsection-e\">  (2.2) The persons referred to in subsection (2.1) are,</p> <p class=\"clause-e\">  (a) persons appointed by the Minister to collect information to assist in planning for the care that may be required, in the future, by patients of hospitals;</p> <p class=\"clause-e\">  (b) persons appointed by the Minister to collect information to determine the consistency and accuracy of information collected by persons described in clause (a).  O. Reg. 468/92, s. 1.</p> <p class=\"subsection-e\">  (2.3) Subsection (1) does not apply with respect to the inspection of, and receipt of information from, records of personal health information by a person appointed by the Minister to train persons described in clause (2.2) (a) if the inspection and receipt is in the course of such training.  O. Reg. 468/92, s. 1; O. Reg. 332/04, s. 7 (2).</p> <p class=\"subsection-e\">  (3) The Registrar of the College of Physicians and Surgeons of Ontario, the Council of the College of Physicians and Surgeons of Ontario or a physician appointed by the Council of the College of Physicians and Surgeons of Ontario, after giving written notice to the administrator and the chief of the medical staff, may for the purposes of investigating the medical care provided to a patient or out-patient of a hospital by a physician,</p> <p class=\"clause-e\">  (a) inspect and receive information from medical records or from notes, charts and other material relating to patient care and reproduce and retain copies thereof; and</p> <p class=\"clause-e\">  (b) interview hospital staff and medical staff with respect to the admission, treatment, care, conduct, control and discharge of patients or any class of patients and the general management of the hospital insofar as it relates to the hospitalization of a patient or patients whose care and treatment are being investigated by the College.  R.R.O. 1990, Reg. 965, s. 22 (3).</p> <p class=\"subsection-e\">  (4) If the Registrar, the Council or a physician appointed by the Council wishes to interview a member of the hospital staff or medical staff, the Registrar, the Council or the physician, as the case requires, shall give written notice to the administrator of the subject matter of the interview and the identity, if known, of the persons to be interviewed.  R.R.O. 1990, Reg. 965, s. 22 (4).</p> <p class=\"subsection-e\">  (5) An administrator who receives written notice under subsection (4) shall forthwith give written notice to each person who may be interviewed of the subject matter of the interview and inform the person that the person may have legal counsel present at the interview.  R.R.O. 1990, Reg. 965, s. 22 (5).</p> <p class=\"subsection-e\">  (5.1) The General Manager for the Ontario Health Insurance Plan may inspect and receive information from records of personal health information and be given copies therefrom, for the purposes of pursuing, substantiating or establishing the right of the Ontario Health Insurance Plan to recover either one or both of the following:</p> <p class=\"paragraph-e\">  1. The cost incurred for past insured services.</p> <p class=\"paragraph-e\">  2. The cost that will probably be incurred for future insured services.  O. Reg. 216/93, s. 1; O. Reg. 332/04, s. 7 (3).</p> <p class=\"subsection-e\">  (6) A board may permit,</p> <p class=\"clause-e\">  (a) a member of the medical, dental, midwifery or extended class nursing staff but only for teaching purposes;</p> <p class=\"clause-e\">  (b) a person with a written direction from the Deputy Minister of Veterans Affairs (Canada) or a person designated by the Deputy Minister of Veterans Affairs (Canada), where the patient is a member of the Canadian Forces or an ex-member of Her Majesty’s military, naval or air force of Canada; or</p> <p class=\"clause-e\">  (c) a person lawfully authorized to make treatment decisions on behalf of an incapable person,</p> <p class=\"Ssubsection-e\">to inspect and receive information from records of personal health information and to be given copies from them.  O. Reg. 332/04, s. 7 (4); O. Reg. 159/17, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#22.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22.1 (1) Where a direction issued under section 6 of the Act directs a hospital to transfer or relinquish the operation and management of all of its programs and services to another hospital or hospitals, the hospital that is subject to the direction shall transfer its records of personal health information to the transferee hospitals specified in the direction in a manner that will protect the privacy of the records.  O. Reg. 150/98, s. 1; O. Reg. 332/04, s. 8 (1). (2) Where a direction issued under section 6 of the Act directs a hospital to transfer or relinquish the operation and management of part of its programs and services to another hospital or hospitals, the hospital that is subject to the direction shall transfer the records of personal health information associated with the transferred programs and services to the transferee hospitals specified in the direction in a manner that will protect the privacy of the records.  O. Reg. 150/98, s. 1; O. Reg. 332/04, s. 8 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>22.1 </b>(1) Where a direction issued under section 6 of the Act directs a hospital to transfer or relinquish the operation and management of all of its programs and services to another hospital or hospitals, the hospital that is subject to the direction shall transfer its records of personal health information to the transferee hospitals specified in the direction in a manner that will protect the privacy of the records.  O. Reg. 150/98, s. 1; O. Reg. 332/04, s. 8 (1).</p> <p class=\"subsection-e\">  (2) Where a direction issued under section 6 of the Act directs a hospital to transfer or relinquish the operation and management of part of its programs and services to another hospital or hospitals, the hospital that is subject to the direction shall transfer the records of personal health information associated with the transferred programs and services to the transferee hospitals specified in the direction in a manner that will protect the privacy of the records.  O. Reg. 150/98, s. 1; O. Reg. 332/04, s. 8 (2).</p>"
+        },
+        {
+            "ahref_id": "#22.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22.2 (1) A hospital, when requested to do so by the Minister in writing, shall disclose information concerning indicators of the quality of health care provided by the hospital, as specified by the Minister, that relate to any or all of the following: 1. Diagnoses of hospital-acquired infections. 2. Activities undertaken to reduce hospital-acquired infections. 3. Mortality.  O. Reg. 257/08, s. 1. (2) The hospital shall disclose the information under subsection (1) through the hospital’s website and through such other means and to such other persons as the Minister may direct.  O. Reg. 257/08, s. 1. (3) In this section, “information” does not include identifying information as defined in subsection 4 (2) of the Personal Health Information Protection Act, 2004.  O. Reg. 257/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>22.2 </b>(1) A hospital, when requested to do so by the Minister in writing, shall disclose information concerning indicators of the quality of health care provided by the hospital, as specified by the Minister, that relate to any or all of the following:</p> <p class=\"paragraph-e\">  1. Diagnoses of hospital-acquired infections.</p> <p class=\"paragraph-e\">  2. Activities undertaken to reduce hospital-acquired infections.</p> <p class=\"paragraph-e\">  3. Mortality.  <i>O. Reg. 257/08, s. 1.</i></p> <p class=\"subsection-e\">  (2) The hospital shall disclose the information under subsection (1) through the hospital’s website and through such other means and to such other persons as the Minister may direct.  <i>O. Reg. 257/08, s. 1.</i></p> <p class=\"subsection-e\">  (3) In this section,</p> <p class=\"definition-e\">“information” does not include identifying information as defined in subsection 4 (2) of the <i>Personal Health Information Protection Act, 2004</i>.<i>  O. Reg. 257/08, s. 1.</i></p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  23. A hospital, when requested to do so by the Minister, shall provide information, (a) from records of personal health information including x-ray films, to Ontario Health for purposes related to the oversight and co-ordination of Ontario’s cancer care and renal care systems and the administration of access to care and wait times initiatives; (b) from records of personal health information, to a person for purposes of information and data collection, organization and analysis; (c) from records of personal health information, to a physician assessor appointed by the Ministry, for the purposes of evaluating applications to the Underserviced Area Program; and (d) from records of reviews of critical incidents conducted pursuant to a system established under subsection 2 (3.1), to a person for purposes of conducting analyses and disseminating information in order to support quality improvement activities. O. Reg. 332/04, s. 9; O. Reg. 484/16, s. 2; O. Reg. 63/20, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>  23. </b>A hospital, when requested to do so by the Minister, shall provide information,</p> <p class=\"clause-e\">  (a) from records of personal health information including x-ray films, to Ontario Health for purposes related to the oversight and co-ordination of Ontario’s cancer care and renal care systems and the administration of access to care and wait times initiatives;</p> <p class=\"clause-e\">  (b) from records of personal health information, to a person for purposes of information and data collection, organization and analysis;</p> <p class=\"clause-e\">  (c) from records of personal health information, to a physician assessor appointed by the Ministry, for the purposes of evaluating applications to the Underserviced Area Program; and</p> <p class=\"clause-e\">  (d) from records of reviews of critical incidents conducted pursuant to a system established under subsection 2 (3.1), to a person for purposes of conducting analyses and disseminating information in order to support quality improvement activities. O. Reg. 332/04, s. 9; O. Reg. 484/16, s. 2; O. Reg. 63/20, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#23.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.1 Revoked:  O. Reg. 332/04, s. 9.",
+            "raw_html": "<p class=\"section-e\"> <b>23.1 </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 332/04, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#23.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.2 (1) A hospital shall provide information from records of personal health information to the following persons for the purposes of the diagnosis of persons who may have contracted SARS and the investigation, prevention, treatment and containment of SARS: 1. The Chief Medical Officer of Health within the meaning of the Health Protection and Promotion Act. 2. A medical officer of health within the meaning of the Health Protection and Promotion Act. 3. A physician designated by the Chief Medical Officer of Health.  O. Reg. 201/03, s. 1; O. Reg. 332/04, s. 10. (2) In subsection (1), “SARS” means severe acute respiratory syndrome.  O. Reg. 201/03, s. 1. Orders for Treatment",
+            "raw_html": "<p class=\"section-e\"> <b>23.2 </b>(1) A hospital shall provide information from records of personal health information to the following persons for the purposes of the diagnosis of persons who may have contracted SARS and the investigation, prevention, treatment and containment of SARS:</p> <p class=\"paragraph-e\">  1. The Chief Medical Officer of Health within the meaning of the <i>Health Protection and Promotion Act</i>.</p> <p class=\"paragraph-e\">  2. A medical officer of health within the meaning of the <i>Health Protection and Promotion Act</i>.</p> <p class=\"paragraph-e\">  3. A physician designated by the Chief Medical Officer of Health.  O. Reg. 201/03, s. 1; O. Reg. 332/04, s. 10.</p> <p class=\"subsection-e\">  (2) In subsection (1),</p> <p class=\"definition-e\">“SARS” means severe acute respiratory syndrome.  O. Reg. 201/03, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK21\"></a>Orders for Treatment</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 24. (1) Every order for treatment or for a diagnostic procedure of a patient shall, except as provided in subsection (2), be in writing and shall be dated and authenticated by the physician, dentist, midwife or registered nurse in the extended class giving the order.  O. Reg. 64/03, s. 10. (2) A physician, dentist, midwife or registered nurse in the extended class may dictate an order for treatment or for a diagnostic procedure by telephone to a person designated by the administrator to take such orders.  O. Reg. 64/03, s. 10. (3) Where an order for treatment or for a diagnostic procedure has been dictated by telephone, (a) the person to whom the order was dictated shall transcribe the order, the name of the physician, dentist, midwife or registered nurse in the extended class who dictated the order, the date and the time of receiving the order and shall authenticate the transcription; and (b) the physician, dentist, midwife or registered nurse in the extended class who dictated the order shall authenticate the order on the first visit to the hospital after dictating the order.  O. Reg. 761/93, s. 11; O. Reg. 45/98, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>24. </b>(1) Every order for treatment or for a diagnostic procedure of a patient shall, except as provided in subsection (2), be in writing and shall be dated and authenticated by the physician, dentist, midwife or registered nurse in the extended class giving the order.  O. Reg. 64/03, s. 10.</p> <p class=\"subsection-e\">  (2) A physician, dentist, midwife or registered nurse in the extended class may dictate an order for treatment or for a diagnostic procedure by telephone to a person designated by the administrator to take such orders.  O. Reg. 64/03, s. 10.</p> <p class=\"subsection-e\">  (3) Where an order for treatment or for a diagnostic procedure has been dictated by telephone,</p> <p class=\"clause-e\">  (a) the person to whom the order was dictated shall transcribe the order, the name of the physician, dentist, midwife or registered nurse in the extended class who dictated the order, the date and the time of receiving the order and shall authenticate the transcription; and</p> <p class=\"clause-e\">  (b) the physician, dentist, midwife or registered nurse in the extended class who dictated the order shall authenticate the order on the first visit to the hospital after dictating the order.  O. Reg. 761/93, s. 11; O. Reg. 45/98, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. (1) Every board shall ensure that procedures are established in the hospital such that, within twenty-four hours after each patient is admitted to the hospital, an admitting note that, (a) sets out clearly the reason for admission of the patient; and (b) is authenticated by a member of the medical staff, a member of the extended class nursing staff, a member of the midwifery staff or a member of the dental staff who is an oral and maxillofacial surgeon, is entered in the medical record of the patient.  R.R.O. 1990, Reg. 965, s. 25 (1); O. Reg. 761/93, s. 12 (1); O. Reg. 346/01, s. 5 (1); O. Reg. 216/11, s. 8 (1); O. Reg. 159/17, s. 2. (2) Subsection (1) does not apply where a report referred to in clause (3) (d), (3.1) (d) or (3.2) (d) is entered in the medical record of the patient within twenty-four hours after the patient is admitted to the hospital.  R.R.O. 1990, Reg. 965, s. 25 (2); O. Reg. 346/01, s. 5 (2); O. Reg. 216/11, s. 8 (2). (3) Every board shall ensure that procedures are established in a hospital that provide, within seventy-two hours after a patient is admitted to the hospital by a physician, that a physician, (a) takes a medical history of the patient; (b) gives the patient a physical examination; (c) makes a provisional diagnosis of the patient’s medical condition; and (d) records, dates and authenticates the history and a report of the findings of the physical examination and the provisional diagnosis of the patient.  R.R.O. 1990, Reg. 965, s. 25 (3); O. Reg. 761/93, s. 12 (2). (3.1) Every board shall ensure that procedures are established in a hospital that provide, within 72 hours after a patient is admitted to the hospital by an oral and maxillofacial surgeon, that an oral and maxillofacial surgeon, (a) takes a medical history of the patient; (b) gives the patient a physical examination; (c) makes a provisional assessment of the patient’s medical condition and a provisional diagnosis or assessment of the patient’s dental condition; and (d) records, dates and authenticates the history and a report of the findings of the physical examination and the provisional assessment and diagnosis of the patient.  O. Reg. 346/01, s. 5 (3). (3.2) Every board shall ensure that procedures are established in a hospital that provide, within 72 hours after a patient is admitted to the hospital by a registered nurse in the extended class, that a registered nurse in the extended class, (a) takes a history of the patient; (b) gives the patient a physical examination; (c) makes a provisional diagnosis of the patient’s condition; and (d) records, dates and authenticates the history and a report of the findings of the physical examination and the provisional diagnosis of the patient.  O. Reg. 216/11, s. 8 (3). (4) Subsections (3), (3.1) and (3.2) do not apply in respect of a patient who is re-admitted to the hospital with the same diagnosis within ten days after having been discharged.  R.R.O. 1990, Reg. 965, s. 25 (4); O. Reg. 346/01, s. 5 (4); O. Reg. 216/11, s. 8 (4). (5) Subsections (1), (3), (3.1) and (3.2) do not apply in respect of the repeat visits by a patient returning to the hospital from time to time for any treatment involving a series of visits for the same injury or illness.  R.R.O. 1990, Reg. 965, s. 25 (5); O. Reg. 346/01, s. 5 (5); O. Reg. 216/11, s. 8 (5). (6) Where a patient is admitted to a hospital for treatment by a dentist, the attending dentist shall, within twenty-four hours of the admission of the patient, (a) take a dental history of the patient that relates to the reason for the treatment; (b) make a dental and oral examination of the patient; (c) make a provisional diagnosis of the patient’s dental condition; and (d) prepare, date and authenticate the history and a report of the findings of the examinations and the provisional diagnosis and a statement of the proposed course of dental treatment for the patient.  R.R.O. 1990, Reg. 965, s. 25 (6). (7) Where a patient is admitted to a hospital for dental surgery by a person other than an oral and maxillofacial surgeon, the attending dentist shall ensure that the procedures referred to in subsections (3) and (6) have been carried out before the surgery commences.  O. Reg. 346/01, s. 5 (6). (8) Where a patient is admitted to a hospital by a midwife, the attending midwife shall, within seventy-two hours of admission or prior to discharge, if the patient is discharged within seventy-two hours of admission, (a) take a history of the patient; (b) give the patient a physical examination; (c) make a provisional assessment of the patient’s condition; and (d) record, date and authenticate the history and a report of the findings of the physical examination and the provisional assessment of the patient.  O. Reg. 761/93, s. 12 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>25. </b>(1) Every board shall ensure that procedures are established in the hospital such that, within twenty-four hours after each patient is admitted to the hospital, an admitting note that,</p> <p class=\"clause-e\">  (a) sets out clearly the reason for admission of the patient; and</p> <p class=\"clause-e\">  (b) is authenticated by a member of the medical staff, a member of the extended class nursing staff, a member of the midwifery staff or a member of the dental staff who is an oral and maxillofacial surgeon,</p> <p class=\"Ssection-e\">is entered in the medical record of the patient.  R.R.O. 1990, Reg. 965, s. 25 (1); O. Reg. 761/93, s. 12 (1); O. Reg. 346/01, s. 5 (1); O. Reg. 216/11, s. 8 (1); O. Reg. 159/17, s. 2.</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply where a report referred to in clause (3) (d), (3.1) (d) or (3.2) (d) is entered in the medical record of the patient within twenty-four hours after the patient is admitted to the hospital.  R.R.O. 1990, Reg. 965, s. 25 (2); O. Reg. 346/01, s. 5 (2); O. Reg. 216/11, s. 8 (2).</p> <p class=\"subsection-e\">  (3) Every board shall ensure that procedures are established in a hospital that provide, within seventy-two hours after a patient is admitted to the hospital by a physician, that a physician,</p> <p class=\"clause-e\">  (a) takes a medical history of the patient;</p> <p class=\"clause-e\">  (b) gives the patient a physical examination;</p> <p class=\"clause-e\">  (c) makes a provisional diagnosis of the patient’s medical condition; and</p> <p class=\"clause-e\">  (d) records, dates and authenticates the history and a report of the findings of the physical examination and the provisional diagnosis of the patient.  R.R.O. 1990, Reg. 965, s. 25 (3); O. Reg. 761/93, s. 12 (2).</p> <p class=\"subsection-e\">  (3.1) Every board shall ensure that procedures are established in a hospital that provide, within 72 hours after a patient is admitted to the hospital by an oral and maxillofacial surgeon, that an oral and maxillofacial surgeon,</p> <p class=\"clause-e\">  (a) takes a medical history of the patient;</p> <p class=\"clause-e\">  (b) gives the patient a physical examination;</p> <p class=\"clause-e\">  (c) makes a provisional assessment of the patient’s medical condition and a provisional diagnosis or assessment of the patient’s dental condition; and</p> <p class=\"clause-e\">  (d) records, dates and authenticates the history and a report of the findings of the physical examination and the provisional assessment and diagnosis of the patient.  O. Reg. 346/01, s. 5 (3).</p> <p class=\"subsection-e\">  (3.2) Every board shall ensure that procedures are established in a hospital that provide, within 72 hours after a patient is admitted to the hospital by a registered nurse in the extended class, that a registered nurse in the extended class,</p> <p class=\"clause-e\">  (a) takes a history of the patient;</p> <p class=\"clause-e\">  (b) gives the patient a physical examination;</p> <p class=\"clause-e\">  (c) makes a provisional diagnosis of the patient’s condition; and</p> <p class=\"clause-e\">  (d) records, dates and authenticates the history and a report of the findings of the physical examination and the provisional diagnosis of the patient.  O. Reg. 216/11, s. 8 (3).</p> <p class=\"subsection-e\">  (4) Subsections (3), (3.1) and (3.2) do not apply in respect of a patient who is re-admitted to the hospital with the same diagnosis within ten days after having been discharged.  R.R.O. 1990, Reg. 965, s. 25 (4); O. Reg. 346/01, s. 5 (4); O. Reg. 216/11, s. 8 (4).</p> <p class=\"subsection-e\">  (5) Subsections (1), (3), (3.1) and (3.2) do not apply in respect of the repeat visits by a patient returning to the hospital from time to time for any treatment involving a series of visits for the same injury or illness.  R.R.O. 1990, Reg. 965, s. 25 (5); O. Reg. 346/01, s. 5 (5); O. Reg. 216/11, s. 8 (5).</p> <p class=\"subsection-e\">  (6) Where a patient is admitted to a hospital for treatment by a dentist, the attending dentist shall, within twenty-four hours of the admission of the patient,</p> <p class=\"clause-e\">  (a) take a dental history of the patient that relates to the reason for the treatment;</p> <p class=\"clause-e\">  (b) make a dental and oral examination of the patient;</p> <p class=\"clause-e\">  (c) make a provisional diagnosis of the patient’s dental condition; and</p> <p class=\"clause-e\">  (d) prepare, date and authenticate the history and a report of the findings of the examinations and the provisional diagnosis and a statement of the proposed course of dental treatment for the patient.  R.R.O. 1990, Reg. 965, s. 25 (6).</p> <p class=\"subsection-e\">  (7) Where a patient is admitted to a hospital for dental surgery by a person other than an oral and maxillofacial surgeon, the attending dentist shall ensure that the procedures referred to in subsections (3) and (6) have been carried out before the surgery commences.  O. Reg. 346/01, s. 5 (6).</p> <p class=\"subsection-e\">  (8) Where a patient is admitted to a hospital by a midwife, the attending midwife shall, within seventy-two hours of admission or prior to discharge, if the patient is discharged within seventy-two hours of admission,</p> <p class=\"clause-e\">  (a) take a history of the patient;</p> <p class=\"clause-e\">  (b) give the patient a physical examination;</p> <p class=\"clause-e\">  (c) make a provisional assessment of the patient’s condition; and</p> <p class=\"clause-e\">  (d) record, date and authenticate the history and a report of the findings of the physical examination and the provisional assessment of the patient.  O. Reg. 761/93, s. 12 (3).</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. Revoked:  O. Reg. 17/95, s. 4. Sterilization of Persons under Sixteen",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 17/95, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK22\"></a>Sterilization of Persons under Sixteen</p>"
+        },
+        {
+            "ahref_id": "#27.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27. (1) No person shall perform a surgical operation for the purpose of rendering a patient incapable of insemination or of becoming pregnant where the patient is under the age of sixteen years.  R.R.O. 1990, Reg. 965, s. 27 (1). (2) Subsection (1) does not apply where the attending physician is of the opinion that the surgical operation is medically necessary for the protection of the physical health of the patient.  R.R.O. 1990, Reg. 965, s. 27 (2). Anaesthesia",
+            "raw_html": "<p class=\"section-e\"> <b>27. </b>(1) No person shall perform a surgical operation for the purpose of rendering a patient incapable of insemination or of becoming pregnant where the patient is under the age of sixteen years.  R.R.O. 1990, Reg. 965, s. 27 (1).</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply where the attending physician is of the opinion that the surgical operation is medically necessary for the protection of the physical health of the patient.  R.R.O. 1990, Reg. 965, s. 27 (2).</p> <p class=\"heading1-e\"><a name=\"BK23\"></a>Anaesthesia</p>"
+        },
+        {
+            "ahref_id": "#28.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 28. (1) No person shall administer an anaesthetic to a patient unless the person responsible for administering the anaesthetic, (a) takes the medical history and performs the physical examination of the patient that are necessary to enable the person to evaluate the condition of the patient and to choose a suitable anaesthetic, in accordance with professional standards; and (b) enters or causes to be entered and authenticates on the medical record of the patient the data relevant to safely administering the anaesthetic for the proposed procedure from, (i) the patient’s history, (ii) the results of any laboratory tests the person considers necessary, and (iii) a physical examination. O. Reg. 289/19, s. 3. (2) Subsection (1) does not apply where the person responsible for administering the anaesthetic and the attending physician are of the opinion that a delay for the purpose of complying with that subsection would endanger the life or a limb or vital organ of the patient. O. Reg. 289/19, s. 3. (3) Where a person intends to administer an anaesthetic without complying with subsection (1) and the person responsible for administering the anaesthetic and the attending physician are of the opinion that a delay for the purpose of complying with that subsection would endanger the life or a limb or vital organ of the patient, they shall, as soon as practicable, jointly prepare and authenticate a statement that sets out that opinion. O. Reg. 289/19, s. 3. (4) Where an anaesthetic to which subsection (1) applies is administered to a patient, the person responsible for administering the anaesthetic shall prepare an anaesthetic report or make or cause to be made an entry on the medical record with respect to the patient that shows, as applicable, (a) the medications given to the patient in contemplation of the administration; (b) the patient airway, circuit and monitors used on the patient; (c) the anaesthetic agents used, the methods of administration of the agents and the proportions or concentrations of all agents administered by inhalation to the patient; (d) the names, quantities and times of all drugs given by injection to the patient; (e) the duration of the anaesthesia on the patient; (f) the estimated fluid loss of the patient; (g) the quantities and type of all blood products and other fluids administered intravenously to the patient during the operation; and (h) the vital signs of the patient before, during and after anaesthesia. O. Reg. 289/19, s. 3. Surgery",
+            "raw_html": "<p class=\"section-e\"> <b>28. </b>(1) No person shall administer an anaesthetic to a patient unless the person responsible for administering the anaesthetic,</p> <p class=\"clause-e\">  (a) takes the medical history and performs the physical examination of the patient that are necessary to enable the person to evaluate the condition of the patient and to choose a suitable anaesthetic, in accordance with professional standards; and</p> <p class=\"clause-e\">  (b) enters or causes to be entered and authenticates on the medical record of the patient the data relevant to safely administering the anaesthetic for the proposed procedure from,</p> <p class=\"subclause-e\">  (i) the patient’s history,</p> <p class=\"subclause-e\">  (ii) the results of any laboratory tests the person considers necessary, and</p> <p class=\"subclause-e\">  (iii) a physical examination. O. Reg. 289/19, s. 3.</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply where the person responsible for administering the anaesthetic and the attending physician are of the opinion that a delay for the purpose of complying with that subsection would endanger the life or a limb or vital organ of the patient. O. Reg. 289/19, s. 3.</p> <p class=\"subsection-e\">  (3) Where a person intends to administer an anaesthetic without complying with subsection (1) and the person responsible for administering the anaesthetic and the attending physician are of the opinion that a delay for the purpose of complying with that subsection would endanger the life or a limb or vital organ of the patient, they shall, as soon as practicable, jointly prepare and authenticate a statement that sets out that opinion. O. Reg. 289/19, s. 3.</p> <p class=\"subsection-e\">  (4) Where an anaesthetic to which subsection (1) applies is administered to a patient, the person responsible for administering the anaesthetic shall prepare an anaesthetic report or make or cause to be made an entry on the medical record with respect to the patient that shows, as applicable,</p> <p class=\"clause-e\">  (a) the medications given to the patient in contemplation of the administration;</p> <p class=\"clause-e\">  (b) the patient airway, circuit and monitors used on the patient;</p> <p class=\"clause-e\">  (c) the anaesthetic agents used, the methods of administration of the agents and the proportions or concentrations of all agents administered by inhalation to the patient;</p> <p class=\"clause-e\">  (d) the names, quantities and times of all drugs given by injection to the patient;</p> <p class=\"clause-e\">  (e) the duration of the anaesthesia on the patient;</p> <p class=\"clause-e\">  (f) the estimated fluid loss of the patient;</p> <p class=\"clause-e\">  (g) the quantities and type of all blood products and other fluids administered intravenously to the patient during the operation; and</p> <p class=\"clause-e\">  (h) the vital signs of the patient before, during and after anaesthesia. O. Reg. 289/19, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK24\"></a>Surgery</p>"
+        },
+        {
+            "ahref_id": "#29.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 29. (1) No surgeon shall perform a surgical operation on a patient unless the surgeon, (a) takes a medical history and performs a physical examination of the patient sufficient to enable the surgeon to make a diagnosis; and (b) enters or causes to be entered and authenticates on the medical record of the patient, (i) a history of the present disability or disease and any previous medical history relevant to that disability or disease, (ii) a statement of the findings on the physical examination and the diagnosis, and (iii) the results of any laboratory tests the surgeon considers necessary. O. Reg. 289/19, s. 3. (2) Where anaesthetic is to be administered to the patient, the entering and authentication required under clause (1) (b) must be performed before the anaesthetic is administered, except under the circumstances described in subsection 28 (2). O. Reg. 289/19, s. 3. (3) Every surgeon who performs a surgical operation in a hospital shall prepare, or cause to be prepared by a person qualified to do so, a written description of the operative procedure at the operation and findings and diagnosis made at the operation with respect to the patient, as the case requires. O. Reg. 289/19, s. 3. (4) The written description referred to in subsection (3) shall be authenticated by the surgeon performing the operation and the person making the description. O. Reg. 289/19, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>29. </b>(1) No surgeon shall perform a surgical operation on a patient unless the surgeon,</p> <p class=\"clause-e\">  (a) takes a medical history and performs a physical examination of the patient sufficient to enable the surgeon to make a diagnosis; and</p> <p class=\"clause-e\">  (b) enters or causes to be entered and authenticates on the medical record of the patient,</p> <p class=\"subclause-e\">  (i) a history of the present disability or disease and any previous medical history relevant to that disability or disease,</p> <p class=\"subclause-e\">  (ii) a statement of the findings on the physical examination and the diagnosis, and</p> <p class=\"subclause-e\">  (iii) the results of any laboratory tests the surgeon considers necessary. O. Reg. 289/19, s. 3.</p> <p class=\"subsection-e\">  (2) Where anaesthetic is to be administered to the patient, the entering and authentication required under clause (1) (b) must be performed before the anaesthetic is administered, except under the circumstances described in subsection 28 (2). O. Reg. 289/19, s. 3.</p> <p class=\"subsection-e\">  (3) Every surgeon who performs a surgical operation in a hospital shall prepare, or cause to be prepared by a person qualified to do so, a written description of the operative procedure at the operation and findings and diagnosis made at the operation with respect to the patient, as the case requires. O. Reg. 289/19, s. 3.</p> <p class=\"subsection-e\">  (4) The written description referred to in subsection (3) shall be authenticated by the surgeon performing the operation and the person making the description. O. Reg. 289/19, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. (1) Every surgeon who performs an operation on a patient is responsible for directing the post-operative care of the patient until responsibility for the care of the patient is assumed by another physician.  R.R.O. 1990, Reg. 965, s. 30 (1). (2) Every person responsible for the administration of an anaesthetic to a patient is responsible for directing the post-anaesthetic care of the patient. O. Reg. 289/19, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>30. </b>(1) Every surgeon who performs an operation on a patient is responsible for directing the post-operative care of the patient until responsibility for the care of the patient is assumed by another physician.  R.R.O. 1990, Reg. 965, s. 30 (1).</p> <p class=\"subsection-e\">  (2) Every person responsible for the administration of an anaesthetic to a patient is responsible for directing the post-anaesthetic care of the patient. O. Reg. 289/19, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#31.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31. (1) Where tissues are removed from a patient during an operation or curettage, the surgeon performing the operation or curettage shall cause all tissues removed from the patient to be sent, together with a short history of the case and a statement of the findings of the operation, to a laboratory for examination and report.  R.R.O. 1990, Reg. 965, s. 31 (1). (2) Despite subsection (1), the following tissue shall not be sent to a laboratory unless the surgeon performing the operation or curettage requests an examination and report on such tissue: 1. Where the tissue removed is an arm, finger, foot, hand, hemorrhoid, lens, leg, prepuce, tonsil, toe, toenail or tooth. 2. Where the tissue removed is from reconstructive joint surgery related to a degenerative condition. O. Reg. 117/23, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>31. </b>(1) Where tissues are removed from a patient during an operation or curettage, the surgeon performing the operation or curettage shall cause all tissues removed from the patient to be sent, together with a short history of the case and a statement of the findings of the operation, to a laboratory for examination and report.  R.R.O. 1990, Reg. 965, s. 31 (1).</p> <p class=\"subsection-e\">  (2) Despite subsection (1), the following tissue shall not be sent to a laboratory unless the surgeon performing the operation or curettage requests an examination and report on such tissue:</p> <p class=\"paragraph-e\">  1. Where the tissue removed is an arm, finger, foot, hand, hemorrhoid, lens, leg, prepuce, tonsil, toe, toenail or tooth.</p> <p class=\"paragraph-e\">  2. Where the tissue removed is from reconstructive joint surgery related to a degenerative condition. O. Reg. 117/23, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32. Where blood is taken from any person for use in a transfusion, the person taking the blood shall record or cause to be recorded, (a) the name, address, blood-grouping and Rh factor typing of the person from whom the blood was taken; (b) the date of taking of the blood; (c) the amount of blood taken; and (d) the result of any tests made on a sample of the blood taken for the transfusion.  R.R.O. 1990, Reg. 965, s. 32. Charges for Special Services",
+            "raw_html": "<p class=\"section-e\"> <b>32. </b>Where blood is taken from any person for use in a transfusion, the person taking the blood shall record or cause to be recorded,</p> <p class=\"clause-e\">  (a) the name, address, blood-grouping and Rh factor typing of the person from whom the blood was taken;</p> <p class=\"clause-e\">  (b) the date of taking of the blood;</p> <p class=\"clause-e\">  (c) the amount of blood taken; and</p> <p class=\"clause-e\">  (d) the result of any tests made on a sample of the blood taken for the transfusion.  R.R.O. 1990, Reg. 965, s. 32.</p> <p class=\"heading1-e\"><a name=\"BK25\"></a>Charges for Special Services</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. (1) No hospital other than a Group M Hospital within the meaning of Regulation 964 of the Revised Regulations of Ontario, 1990, (Classification of Hospitals) shall charge or accept payment from any other hospital for the performance for the other hospital of a computerized axial tomography scan.  R.R.O. 1990, Reg. 965, s. 33 (1). (2) No hospital other than a Group N Hospital within the meaning of the said Regulation 964 shall charge or accept payment from any other hospital for the performance for the other hospital of a magnetic resonance imaging.  R.R.O. 1990, Reg. 965, s. 33 (2). (3) No hospital other than a Group P Hospital within the meaning of the said Regulation 964 shall charge or accept payment from any other hospital for the performance for the other hospital of extra corporeal shock wave lithotripsy.  R.R.O. 1990, Reg. 965, s. 33 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>33. </b>(1) No hospital other than a Group M Hospital within the meaning of Regulation 964 of the Revised Regulations of Ontario, 1990, (Classification of Hospitals) shall charge or accept payment from any other hospital for the performance for the other hospital of a computerized axial tomography scan.  R.R.O. 1990, Reg. 965, s. 33 (1).</p> <p class=\"subsection-e\">  (2) No hospital other than a Group N Hospital within the meaning of the said Regulation 964 shall charge or accept payment from any other hospital for the performance for the other hospital of a magnetic resonance imaging.  R.R.O. 1990, Reg. 965, s. 33 (2).</p> <p class=\"subsection-e\">  (3) No hospital other than a Group P Hospital within the meaning of the said Regulation 964 shall charge or accept payment from any other hospital for the performance for the other hospital of extra corporeal shock wave lithotripsy.  R.R.O. 1990, Reg. 965, s. 33 (3).</p>"
+        },
+        {
+            "ahref_id": "#34.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34. (1) Where in this Regulation or under by-laws of a hospital a notation, report, record, order, entry, signature or transcription is required to be entered, prepared, made, written, kept or copied, the entering, preparing, making, writing, keeping or copying may be done by such electronic or optical means or combination thereof as may be authorized by the board.  R.R.O. 1990, Reg. 965, s. 34 (1). (2) The board shall ensure that the electronic or optical means referred to in subsection (1) is so designed and operated that the notation, report, record, order, entry, signature or transcription is secure from loss, tampering, interference or unauthorized use or access.  R.R.O. 1990, Reg. 965, s. 34 (2). Definition of Hospital Subsidiary",
+            "raw_html": "<p class=\"section-e\"> <b>34. </b>(1) Where in this Regulation or under by-laws of a hospital a notation, report, record, order, entry, signature or transcription is required to be entered, prepared, made, written, kept or copied, the entering, preparing, making, writing, keeping or copying may be done by such electronic or optical means or combination thereof as may be authorized by the board.  R.R.O. 1990, Reg. 965, s. 34 (1).</p> <p class=\"subsection-e\">  (2) The board shall ensure that the electronic or optical means referred to in subsection (1) is so designed and operated that the notation, report, record, order, entry, signature or transcription is secure from loss, tampering, interference or unauthorized use or access.  R.R.O. 1990, Reg. 965, s. 34 (2).</p> <p class=\"heading1-e\"><a name=\"BK26\"></a>Definition of Hospital Subsidiary</p>"
+        },
+        {
+            "ahref_id": "#35.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 35. (1) For the purposes of subsection 32 (4) of the Act, “hospital subsidiary” means a corporation that is controlled directly or indirectly in any manner by one or more hospitals.  O. Reg. 552/96, s. 1; O. Reg. 183/98, s. 2 (1). (2) Revoked:  O. Reg. 183/98, s. 2 (2). Dissolution of Hospital Corporations",
+            "raw_html": "<p class=\"section-e\"> <b>35. </b>(1) For the purposes of subsection 32 (4) of the Act,</p> <p class=\"definition-e\">“hospital subsidiary” means a corporation that is controlled directly or indirectly in any manner by one or more hospitals.  O. Reg. 552/96, s. 1; O. Reg. 183/98, s. 2 (1).</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 183/98, s. 2 (2).</p> <p class=\"heading1-e\"><a name=\"BK27\"></a>Dissolution of Hospital Corporations</p>"
+        },
+        {
+            "ahref_id": "#36.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 36. A corporation that owns or operates a hospital or that has previously owned or operated a hospital shall not take any action that may result in the dissolution of the corporation unless the Minister approves of the action.  O. Reg. 552/96, s. 1. Form 1 Revoked: O. Reg. 159/17, s. 5. FormS 2, 3 Revoked:  O. Reg. 761/93, s. 14.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>36. </b>A corporation that owns or operates a hospital or that has previously owned or operated a hospital shall not take any action that may result in the dissolution of the corporation unless the Minister approves of the action.  O. Reg. 552/96, s. 1.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 1 <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 159/17, s. 5.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">FormS</span> 2, 3 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 761/93, s. 14.</p> <p class=\"formRevoked-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/900965\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

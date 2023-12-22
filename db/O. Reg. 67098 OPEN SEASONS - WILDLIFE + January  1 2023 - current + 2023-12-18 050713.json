@@ -1,0 +1,428 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 670/98: OPEN SEASONS - WILDLIFE",
+        "reg_name_text": "OPEN SEASONS — WILDLIFE",
+        "citation": "O. Reg. 670/98: OPEN SEASONS - WILDLIFE",
+        "act_under": "Fish and Wildlife Conservation Act, 1997   Loi de 1997 sur la protection du poisson et de la faune",
+        "url": "https://www.ontario.ca/laws/regulation/980670",
+        "date_scraped": "2023-12-18 05:07:14"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "January  1, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v55",
+            "valid_from": "March 14, 2022",
+            "valid_to": "December 31, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v54",
+            "valid_from": "February 23, 2022",
+            "valid_to": "March 13, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v53",
+            "valid_from": "January  1, 2021",
+            "valid_to": "February 22, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v52",
+            "valid_from": "September 17, 2020",
+            "valid_to": "December 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v51",
+            "valid_from": "September 15, 2020",
+            "valid_to": "September 16, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v50",
+            "valid_from": "July 30, 2020",
+            "valid_to": "September 14, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v49",
+            "valid_from": "April  1, 2020",
+            "valid_to": "July 29, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v48",
+            "valid_from": "March 13, 2020",
+            "valid_to": "March 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v47",
+            "valid_from": "February 24, 2020",
+            "valid_to": "March 12, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v46",
+            "valid_from": "July  1, 2017",
+            "valid_to": "February 23, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v45",
+            "valid_from": "April 10, 2017",
+            "valid_to": "June 30, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v44",
+            "valid_from": "April  1, 2017",
+            "valid_to": "April  9, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v43",
+            "valid_from": "March 30, 2017",
+            "valid_to": "March 31, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v42",
+            "valid_from": "January  1, 2017",
+            "valid_to": "March 29, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v41",
+            "valid_from": "December  8, 2016",
+            "valid_to": "December 31, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v40",
+            "valid_from": "September 14, 2016",
+            "valid_to": "December  7, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v39",
+            "valid_from": "April  4, 2016",
+            "valid_to": "September 13, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v38",
+            "valid_from": "February 19, 2016",
+            "valid_to": "April  3, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v37",
+            "valid_from": "January  1, 2016",
+            "valid_to": "February 18, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v36",
+            "valid_from": "April 13, 2015",
+            "valid_to": "December 31, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v35",
+            "valid_from": "April 17, 2014",
+            "valid_to": "April 12, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v34",
+            "valid_from": "March 27, 2014",
+            "valid_to": "April 16, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v33",
+            "valid_from": "June 28, 2013",
+            "valid_to": "March 26, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v32",
+            "valid_from": "March 26, 2012",
+            "valid_to": "June 27, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v31",
+            "valid_from": "January  1, 2011",
+            "valid_to": "March 25, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v30",
+            "valid_from": "December 31, 2010",
+            "valid_to": "December 31, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v29",
+            "valid_from": "March 24, 2009",
+            "valid_to": "December 30, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v28",
+            "valid_from": "March 16, 2009",
+            "valid_to": "March 23, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v27",
+            "valid_from": "March  9, 2009",
+            "valid_to": "March 15, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v26",
+            "valid_from": "June 25, 2008",
+            "valid_to": "March  8, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v25",
+            "valid_from": "May 15, 2008",
+            "valid_to": "June 24, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v24",
+            "valid_from": "March 12, 2008",
+            "valid_to": "May 14, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v23",
+            "valid_from": "July 18, 2007",
+            "valid_to": "March 11, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v22",
+            "valid_from": "July  3, 2007",
+            "valid_to": "July 17, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v21",
+            "valid_from": "January 25, 2007",
+            "valid_to": "July  2, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v20",
+            "valid_from": "January 19, 2007",
+            "valid_to": "January 24, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v19",
+            "valid_from": "September  2, 2006",
+            "valid_to": "January 18, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v18",
+            "valid_from": "September  1, 2006",
+            "valid_to": "September  1, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v17",
+            "valid_from": "June 16, 2006",
+            "valid_to": "August 31, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v16",
+            "valid_from": "June  1, 2006",
+            "valid_to": "June 15, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v15",
+            "valid_from": "February  8, 2006",
+            "valid_to": "May 31, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v14",
+            "valid_from": "February  6, 2006",
+            "valid_to": "February  7, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v13",
+            "valid_from": "July 21, 2005",
+            "valid_to": "February  5, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v12",
+            "valid_from": "June  3, 2005",
+            "valid_to": "July 20, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v11",
+            "valid_from": "April 11, 2005",
+            "valid_to": "June  2, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v10",
+            "valid_from": "February 28, 2005",
+            "valid_to": "April 10, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v9",
+            "valid_from": "December  2, 2004",
+            "valid_to": "February 27, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v8",
+            "valid_from": "September 24, 2004",
+            "valid_to": "December  1, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v7",
+            "valid_from": "August  9, 2004",
+            "valid_to": "September 23, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v6",
+            "valid_from": "June 28, 2004",
+            "valid_to": "August  8, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v5",
+            "valid_from": "May 27, 2004",
+            "valid_to": "June 27, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v4",
+            "valid_from": "March  8, 2004",
+            "valid_to": "May 26, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v3",
+            "valid_from": "March  4, 2004",
+            "valid_to": "March  7, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v2",
+            "valid_from": "February 10, 2004",
+            "valid_to": "March  3, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980670/v1",
+            "valid_from": "September  8, 2003",
+            "valid_to": "February  9, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "Table 1",
+            "part_id": null,
+            "part_type": null,
+            "section": "American elk — open season",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "Table 2",
+            "part_id": null,
+            "part_type": null,
+            "section": "Black bear — open season",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Table 3",
+            "part_id": null,
+            "part_type": null,
+            "section": "Bullfrog — open season",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "Table 5",
+            "part_id": null,
+            "part_type": null,
+            "section": "Deer — open season",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "Table 6",
+            "part_id": null,
+            "part_type": null,
+            "section": "Furbearing mammals — open season",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "Table 7",
+            "part_id": null,
+            "part_type": null,
+            "section": "Game birds other than wild turkey — open season (hunting without a falconry bird or a non-indigenous falconry bird)",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "Table 7.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Game birds — open season (hunting with a falconry bird or a non-indigenous falconry bird)",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "Table 7.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "Wild turkey — open season",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "Table 8",
+            "part_id": null,
+            "part_type": null,
+            "section": "Moose — open season",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "Table 9",
+            "part_id": null,
+            "part_type": null,
+            "section": "Small game — open season (hunting without a falconry bird or a non-indigenous falconry bird)",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "Table 9.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Small game — open season (hunting with a falconry bird or a non-indigenous falconry bird)",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "Table 10",
+            "part_id": null,
+            "part_type": null,
+            "section": "Woodland caribou — open season",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

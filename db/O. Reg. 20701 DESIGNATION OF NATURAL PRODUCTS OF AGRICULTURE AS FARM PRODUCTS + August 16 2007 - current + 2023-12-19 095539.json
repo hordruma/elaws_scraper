@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 207/01: DESIGNATION OF NATURAL PRODUCTS OF AGRICULTURE AS FARM PRODUCTS",
+        "reg_name_text": "designation of natural Products of Agriculture as farm products",
+        "citation": "O. Reg. 207/01: DESIGNATION OF NATURAL PRODUCTS OF AGRICULTURE AS FARM PRODUCTS",
+        "act_under": "Farm Products Marketing Act   Loi sur la commercialisation des produits agricoles",
+        "url": "https://www.ontario.ca/laws/regulation/010207",
+        "date_scraped": "2023-12-19 09:55:39"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "August 16, 2007",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/010207/v1",
+            "valid_from": "June 20, 2001",
+            "valid_to": "August 15, 2007"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Ginseng",
+            "content": " 1. Except for wildly-grown ginseng, known as wild ginseng, the root of the herbaceous perennial known as ginseng, being a natural product of agriculture, is designated as a farm product.  O. Reg. 207/01, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1.</b><b> </b>Except for wildly-grown ginseng, known as wild ginseng, the root of the herbaceous perennial known as ginseng, being a natural product of agriculture, is designated as a farm product.  O. Reg. 207/01, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Floriculture plants",
+            "content": " 2. Floriculture plants and plant material, including propagative material, being natural products of agriculture, are designated as farm products.  O. Reg. 460/07, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>Floriculture plants and plant material, including propagative material, being natural products of agriculture, are designated as farm products.  O. Reg. 460/07, s. 1.</p>"
+        },
+        {
+            "id": null,
+            "section": "Floriculture plants",
+            "content": "    ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

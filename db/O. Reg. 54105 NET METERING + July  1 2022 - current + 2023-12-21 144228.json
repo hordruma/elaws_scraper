@@ -1,0 +1,166 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 541/05: NET METERING",
+        "reg_name_text": "Net Metering",
+        "citation": "O. Reg. 541/05: NET METERING",
+        "act_under": "Ontario Energy Board Act, 1998   Loi de 1998 sur la commission de l’énergie de l’Ontario",
+        "url": "https://www.ontario.ca/laws/regulation/050541",
+        "date_scraped": "2023-12-21 14:42:33"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July  1, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/050541/v8",
+            "valid_from": "April 20, 2022",
+            "valid_to": "June 30, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/050541/v7",
+            "valid_from": "September 25, 2018",
+            "valid_to": "April 19, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/050541/v6",
+            "valid_from": "April 20, 2018",
+            "valid_to": "September 24, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/050541/v5",
+            "valid_from": "July  1, 2017",
+            "valid_to": "April 19, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/050541/v4",
+            "valid_from": "February  8, 2017",
+            "valid_to": "June 30, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/050541/v3",
+            "valid_from": "September  9, 2009",
+            "valid_to": "February  7, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/050541/v2",
+            "valid_from": "January 23, 2006",
+            "valid_to": "September  8, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/050541/v1",
+            "valid_from": "October 24, 2005",
+            "valid_to": "January 22, 2006"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": 1.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Definitions",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 2.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Application",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 3.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Exception",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 4.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Subject to distributor’s licence",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 5.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Existing agreements",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": 5.1,
+            "part_id": null,
+            "part_type": null,
+            "section": "Agreement shall conform",
+            "content": " 5.1 Net metering agreements shall be made in accordance with this Regulation and shall conform with the provisions set out in this Regulation, except as provided by subsection 5 (1). O. Reg. 24/17, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK5\"></a><b>5.1 </b>Net metering agreements shall be made in accordance with this Regulation and shall conform with the provisions set out in this Regulation, except as provided by subsection 5 (1). O. Reg. 24/17, s. 3.</p>"
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 6.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Subject to retail contract",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 7.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Eligible generator",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": 7.1,
+            "part_id": null,
+            "part_type": null,
+            "section": "Eligible customer and eligible third party generator",
+            "content": " 7.1 (1) A customer of a distributor is an eligible customer and a generator of electricity is an eligible third party generator if, (a)  the customer and the generator have entered into an agreement for the purchase by the customer of electricity that is generated solely from a renewable energy generation facility that is owned or operated by the generator; (b)  the generator generates the electricity primarily for the customer’s use; (c)  the generator conveys the electricity that is generated directly from the point of generation to another point for the eligible customer’s consumption, without reliance on the distributor’s distribution system; (d)  the generator conveys any electricity that is generated that is in excess of what is consumed by the customer into the distributor’s distribution system on behalf of the customer; and (e)  neither the customer nor the generator is a party to any contract or agreement other than a net metering agreement or an agreement mentioned in clause (a) that provides for the sale, in whole or in part, of the electricity that the generator conveys into the distributor’s distribution system. O. Reg. 386/22, s. 7. (2) For the purposes of clause (1) (c), electricity is conveyed directly from the point of generation to another point for the eligible customer’s consumption regardless of whether it is stored by the generator in a storage device for any period of time. O. Reg. 386/22, s. 7. (3) For the purposes of clause (1) (d), electricity conveyed into the distributor’s distribution system may include electricity that was stored by the generator or customer in a storage device for any period of time, even if some or all of the stored electricity was not generated by the generator. O. Reg. 386/22, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK8\"></a><b>7.1 </b>(1) A customer of a distributor is an eligible customer and a generator of electricity is an eligible third party generator if,</p> <p class=\"clause-e\">  (a)  the customer and the generator have entered into an agreement for the purchase by the customer of electricity that is generated solely from a renewable energy generation facility that is owned or operated by the generator;</p> <p class=\"clause-e\">  (b)  the generator generates the electricity primarily for the customer’s use;</p> <p class=\"clause-e\">  (c)  the generator conveys the electricity that is generated directly from the point of generation to another point for the eligible customer’s consumption, without reliance on the distributor’s distribution system;</p> <p class=\"clause-e\">  (d)  the generator conveys any electricity that is generated that is in excess of what is consumed by the customer into the distributor’s distribution system on behalf of the customer; and</p> <p class=\"clause-e\">  (e)  neither the customer nor the generator is a party to any contract or agreement other than a net metering agreement or an agreement mentioned in clause (a) that provides for the sale, in whole or in part, of the electricity that the generator conveys into the distributor’s distribution system. O. Reg. 386/22, s. 7.</p> <p class=\"subsection-e\">  (2) For the purposes of clause (1) (c), electricity is conveyed directly from the point of generation to another point for the eligible customer’s consumption regardless of whether it is stored by the generator in a storage device for any period of time. O. Reg. 386/22, s. 7.</p> <p class=\"subsection-e\">  (3) For the purposes of clause (1) (d), electricity conveyed into the distributor’s distribution system may include electricity that was stored by the generator or customer in a storage device for any period of time, even if some or all of the stored electricity was not generated by the generator. O. Reg. 386/22, s. 7.</p>"
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 8.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Account billing",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 9.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Cancellation of agreements",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "act_info": {
+        "full_title": "Audiology and Speech-Language Pathology Act, 1991, S.O. 1991, c. 19",
+        "act_name_text": "Audiology and Speech-Language Pathology Act, 1991",
+        "citation": "S.O. 1991, c. 19",
+        "url": "https://www.ontario.ca/laws/statute/91a19",
+        "date_scraped": "2023-12-18 18:01:19"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "June  3, 2021",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/91a19/v2",
+            "valid_from": "June  4, 2007",
+            "valid_to": "June  2, 2021"
+        },
+        {
+            "a_href": "/laws/statute/91a19/v1",
+            "valid_from": "February  1, 1999",
+            "valid_to": "June  3, 2007"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/120373",
+            "Citation": "O. Reg. 373/12",
+            "title": "QUALITY ASSURANCE PROGRAM"
+        },
+        {
+            "a_href": "/laws/regulation/120021",
+            "Citation": "O. Reg. 21/12",
+            "title": "GENERAL"
+        },
+        {
+            "a_href": "/laws/regulation/930749",
+            "Citation": "O. Reg. 749/93",
+            "title": "PROFESSIONAL MISCONDUCT"
+        }
+    ],
+    "revoked_regs": null,
+    "content": [
+        {
+            "id": "1",
+            "section": "Definitions",
+            "content": "1 In this Act, “College” means the College of Audiologists and Speech-Language Pathologists of Ontario; (“Ordre”) “Health Professions Procedural Code” means the Health Professions Procedural Code set out in Schedule 2 to the Regulated Health Professions Act, 1991; (“Code des professions de la santé”) “member” means a member of the College; (“membre”) “profession” means the professions of audiology and speech-language pathology; (“profession”) “this Act” includes the Health Professions Procedural Code. (“la présente loi”)  1991, c. 19, s. 1.",
+            "raw_html": "<p class=\"section\"><b>1 </b>In this Act,</p> <p class=\"definition\">“College” means the College of Audiologists and Speech-Language Pathologists of Ontario; (“Ordre”)</p> <p class=\"definition\">“Health Professions Procedural Code” means the Health Professions Procedural Code set out in Schedule 2 to the <i>Regulated Health Professions Act, 1991</i>; (“Code des professions de la santé”)</p> <p class=\"definition\">“member” means a member of the College; (“membre”)</p> <p class=\"definition\">“profession” means the professions of audiology and speech-language pathology; (“profession”)</p> <p class=\"definition\">“this Act” includes the Health Professions Procedural Code. (“la présente loi”)  1991, c. 19, s. 1.</p>"
+        },
+        {
+            "id": "2",
+            "section": "Health Professions Procedural Code",
+            "content": "2 (1) The Health Professions Procedural Code shall be deemed to be part of this Act.  1991, c. 19, s. 2 (1). Terms in Code (2) In the Health Professions Procedural Code as it applies in respect of this Act, “College” means the College of Audiologists and Speech-Language Pathologists of Ontario; (“ordre”) “health profession Act” means this Act; (“loi sur une profession de la santé”) “profession” means the professions of audiology and speech-language pathology; (“profession”) “regulations” means the regulations under this Act. (“règlements”)  1991, c. 19, s. 2 (2). Definitions in Code (3) Definitions in the Health Professions Procedural Code apply with necessary modifications to terms in this Act.  1991, c. 19, s. 2 (3).",
+            "raw_html": "<p class=\"section\"><b>2 </b>(1) The Health Professions Procedural Code shall be deemed to be part of this Act.  1991, c. 19, s. 2 (1).</p> <p class=\"headnote\">Terms in Code</p> <p class=\"subsection\">(2) In the Health Professions Procedural Code as it applies in respect of this Act,</p> <p class=\"definition\">“College” means the College of Audiologists and Speech-Language Pathologists of Ontario; (“ordre”)</p> <p class=\"definition\">“health profession Act” means this Act; (“loi sur une profession de la santé”)</p> <p class=\"definition\">“profession” means the professions of audiology and speech-language pathology; (“profession”)</p> <p class=\"definition\">“regulations” means the regulations under this Act. (“règlements”)  1991, c. 19, s. 2 (2).</p> <p class=\"headnote\">Definitions in Code</p> <p class=\"subsection\">(3) Definitions in the Health Professions Procedural Code apply with necessary modifications to terms in this Act.  1991, c. 19, s. 2 (3).</p>"
+        },
+        {
+            "id": "3",
+            "section": "Scope of practice",
+            "content": "3 (1) The practice of audiology is the assessment of auditory function and the treatment and prevention of auditory dysfunction to develop, maintain, rehabilitate or augment auditory and communicative functions.  1991, c. 19, s. 3 (1). Idem (2) The practice of speech-language pathology is the assessment of speech and language functions and the treatment and prevention of speech and language dysfunctions or disorders to develop, maintain, rehabilitate or augment oral motor or communicative functions.  1991, c. 19, s. 3 (2).",
+            "raw_html": "<p class=\"section\"><b>3 </b>(1) The practice of audiology is the assessment of auditory function and the treatment and prevention of auditory dysfunction to develop, maintain, rehabilitate or augment auditory and communicative functions.  1991, c. 19, s. 3 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) The practice of speech-language pathology is the assessment of speech and language functions and the treatment and prevention of speech and language dysfunctions or disorders to develop, maintain, rehabilitate or augment oral motor or communicative functions.  1991, c. 19, s. 3 (2).</p>"
+        },
+        {
+            "id": "4",
+            "section": "Authorized acts",
+            "content": "4 In the course of engaging in the practice of audiology, a member is authorized, subject to the terms, conditions and limitations imposed on his or her certificate of registration, to prescribe a hearing aid for a hearing impaired person.  1991, c. 19, s. 4.",
+            "raw_html": "<p class=\"section\"><b>4 </b>In the course of engaging in the practice of audiology, a member is authorized, subject to the terms, conditions and limitations imposed on his or her certificate of registration, to prescribe a hearing aid for a hearing impaired person.  1991, c. 19, s. 4.</p>"
+        },
+        {
+            "id": "5",
+            "section": "College established",
+            "content": "5 The College is established under the name College of Audiologists and Speech-Language Pathologists of Ontario in English and Ordre des audiologistes et des orthophonistes de l’Ontario in French.  1991, c. 19, s. 5.",
+            "raw_html": "<p class=\"section\"><b>5 </b>The College is established under the name College of Audiologists and Speech-Language Pathologists of Ontario in English and Ordre des audiologistes et des orthophonistes de l’Ontario in French.  1991, c. 19, s. 5.</p>"
+        },
+        {
+            "id": "6",
+            "section": "Council",
+            "content": "6 (1) The Council shall be composed of, (a)  at least eight and no more than nine persons who are members elected in accordance with the by-laws; (b)  at least six and no more than seven persons appointed by the Lieutenant Governor in Council who are not, (i)  members, (ii)  members of a College as defined in the Regulated Health Professions Act, 1991, or (iii)  members of a Council as defined in the Regulated Health Professions Act, 1991; and (c)  two persons selected, in accordance with a by-law made under section 11, from among members who are members of a faculty of audiology or speech-language pathology of a university in Ontario.  1991, c. 19, s. 6 (1); 1998, c. 18, Sched. G, s. 24 (1, 2). Who can vote in elections (2) Subject to the by-laws, every member who practises or resides in Ontario and who is not in default of payment of the annual membership fee is entitled to vote in an election of members of the Council.  1991, c. 19, s. 6 (2); 1998, c. 18, Sched. G, s. 24 (3). Section Amendments with date in force (d/m/y) 1998, c. 18, Sched. G, s. 24 (1-3) - 01/02/1999",
+            "raw_html": "<p class=\"section\"><b>6 </b>(1) The Council shall be composed of,</p> <p class=\"paragraph\">  (a)  at least eight and no more than nine persons who are members elected in accordance with the by-laws;</p> <p class=\"paragraph\">  (b)  at least six and no more than seven persons appointed by the Lieutenant Governor in Council who are not,</p> <p class=\"subclause\">  (i)  members,</p> <p class=\"subclause\">  (ii)  members of a College as defined in the <i>Regulated Health Professions Act, 1991</i>, or</p> <p class=\"subclause\">  (iii)  members of a Council as defined in the <i>Regulated Health Professions Act, 1991</i>; and</p> <p class=\"paragraph\">  (c)  two persons selected, in accordance with a by-law made under section 11, from among members who are members of a faculty of audiology or speech-language pathology of a university in Ontario.  1991, c. 19, s. 6 (1); 1998, c. 18, Sched. G, s. 24 (1, 2).</p> <p class=\"headnote\">Who can vote in elections</p> <p class=\"subsection\">(2) Subject to the by-laws, every member who practises or resides in Ontario and who is not in default of payment of the annual membership fee is entitled to vote in an election of members of the Council.  1991, c. 19, s. 6 (2); 1998, c. 18, Sched. G, s. 24 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 18, Sched. G, s. 24 (1-3) - 01/02/1999</p>"
+        },
+        {
+            "id": "7",
+            "section": "President and Vice-President",
+            "content": "7 The Council shall have a President and Vice-President who shall be elected annually by the Council from among the Council’s members.  1991, c. 19, s. 7.",
+            "raw_html": "<p class=\"section\"><b>7 </b>The Council shall have a President and Vice-President who shall be elected annually by the Council from among the Council’s members.  1991, c. 19, s. 7.</p>"
+        },
+        {
+            "id": "8",
+            "section": "Restricted titles",
+            "content": "8 (1) No person other than a member shall use the titles “audiologist”, “speech-language pathologist” or “speech therapist”, a variation or abbreviation or an equivalent in another language.  1991, c. 19, s. 8 (1). Representations of qualification, etc. (2) No person other than a member shall hold himself or herself out as a person who is qualified to practise in Ontario as an audiologist or a speech-language pathologist or in a specialty of audiology or speech-language pathology.  1991, c. 19, s. 8 (2). Definition (3) In this section, “abbreviation” includes an abbreviation of a variation.  1991, c. 19, s. 8 (3). 9 Repealed: 2021, c. 25, Sched. 25, s. 6. Section Amendments with date in force (d/m/y) 2021, c. 25, Sched. 25, s. 6 - 03/06/2021",
+            "raw_html": "<p class=\"section\"><b>8 </b>(1) No person other than a member shall use the titles “audiologist”, “speech-language pathologist” or “speech therapist”, a variation or abbreviation or an equivalent in another language.  1991, c. 19, s. 8 (1).</p> <p class=\"headnote\">Representations of qualification, etc.</p> <p class=\"subsection\">(2) No person other than a member shall hold himself or herself out as a person who is qualified to practise in Ontario as an audiologist or a speech-language pathologist or in a specialty of audiology or speech-language pathology.  1991, c. 19, s. 8 (2).</p> <p class=\"headnote\">Definition</p> <p class=\"subsection\">(3) In this section,</p> <p class=\"definition\">“abbreviation” includes an abbreviation of a variation.  1991, c. 19, s. 8 (3).</p> <p class=\"section\"><b>9</b><b> </b><span class=\"ovsmallcap\">Repealed</span>: 2021, c. 25, Sched. 25, s. 6.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S21025#sched25s6\">2021, c. 25, Sched. 25, s. 6</a></span> - 03/06/2021</p>"
+        },
+        {
+            "id": "9",
+            "section": "Definition",
+            "content": "9 Repealed: 2021, c. 25, Sched. 25, s. 6. Section Amendments with date in force (d/m/y) 2021, c. 25, Sched. 25, s. 6 - 03/06/2021",
+            "raw_html": "<p class=\"section\"><b>9</b><b> </b><span class=\"ovsmallcap\">Repealed</span>: 2021, c. 25, Sched. 25, s. 6.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S21025#sched25s6\">2021, c. 25, Sched. 25, s. 6</a></span> - 03/06/2021</p>"
+        },
+        {
+            "id": "10",
+            "section": "Offence",
+            "content": "10 Every person who contravenes subsection 8 (1) or (2) is guilty of an offence and on conviction is liable to a fine of not more than $25,000 for a first offence and not more than $50,000 for a second or subsequent offence.  2007, c. 10, Sched. B, s. 1 (1). Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. B, s. 1 (1) - 04/06/2007",
+            "raw_html": "<p class=\"section\"><b>10 </b>Every person who contravenes subsection 8 (1) or (2) is guilty of an offence and on conviction is liable to a fine of not more than $25,000 for a first offence and not more than $50,000 for a second or subsequent offence.  2007, c. 10, Sched. B, s. 1 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedbs1s1\">2007, c. 10, Sched. B, s. 1 (1)</a></span> - 04/06/2007</p>"
+        },
+        {
+            "id": "11",
+            "section": "By-laws",
+            "content": "11 The Council may make by-laws respecting the qualifications, selection and terms of office of Council members who are selected.  1998, c. 18, Sched. G, s. 24 (4). Section Amendments with date in force (d/m/y) 1998, c. 18, Sched. G, s. 24 (4) - 01/02/1999 12, 13 Repealed:  2007, c. 10, Sched. B, s. 1 (2). Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. B, s. 1 (2) - 04/06/2007 14 Omitted (provides for coming into force of provisions of this Act).  1991, c. 19, s. 14. 15 Omitted (enacts short title of this Act).  1991, c. 19, s. 15. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>11 </b>The Council may make by-laws respecting the qualifications, selection and terms of office of Council members who are selected.  1998, c. 18, Sched. G, s. 24 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 18, Sched. G, s. 24 (4) - 01/02/1999</p> <p class=\"section\"><b>12, 13 </b><span class=\"ovsmallcap\">Repealed</span>:  2007, c. 10, Sched. B, s. 1 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedbs1s2\">2007, c. 10, Sched. B, s. 1 (2)</a></span> - 04/06/2007</p> <p class=\"section\"><b>14 </b>Omitted (provides for coming into force of provisions of this Act).  1991, c. 19, s. 14.</p> <p class=\"section\"><b>15 </b>Omitted (enacts short title of this Act).  1991, c. 19, s. 15.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91a19\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "12, 13",
+            "section": "By-laws",
+            "content": "12, 13 Repealed:  2007, c. 10, Sched. B, s. 1 (2). Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. B, s. 1 (2) - 04/06/2007 14 Omitted (provides for coming into force of provisions of this Act).  1991, c. 19, s. 14. 15 Omitted (enacts short title of this Act).  1991, c. 19, s. 15. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>12, 13 </b><span class=\"ovsmallcap\">Repealed</span>:  2007, c. 10, Sched. B, s. 1 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedbs1s2\">2007, c. 10, Sched. B, s. 1 (2)</a></span> - 04/06/2007</p> <p class=\"section\"><b>14 </b>Omitted (provides for coming into force of provisions of this Act).  1991, c. 19, s. 14.</p> <p class=\"section\"><b>15 </b>Omitted (enacts short title of this Act).  1991, c. 19, s. 15.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91a19\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "14",
+            "section": "By-laws",
+            "content": "14 Omitted (provides for coming into force of provisions of this Act).  1991, c. 19, s. 14. 15 Omitted (enacts short title of this Act).  1991, c. 19, s. 15. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>14 </b>Omitted (provides for coming into force of provisions of this Act).  1991, c. 19, s. 14.</p> <p class=\"section\"><b>15 </b>Omitted (enacts short title of this Act).  1991, c. 19, s. 15.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91a19\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "15",
+            "section": "By-laws",
+            "content": "15 Omitted (enacts short title of this Act).  1991, c. 19, s. 15. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>15 </b>Omitted (enacts short title of this Act).  1991, c. 19, s. 15.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91a19\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

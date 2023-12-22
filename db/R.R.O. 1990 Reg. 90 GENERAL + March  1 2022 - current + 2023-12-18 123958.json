@@ -1,0 +1,974 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 90: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "R.R.O. 1990, Reg. 90: ",
+        "act_under": "Commodity Futures Act   Loi sur les contrats à terme sur marchandises",
+        "url": "https://www.ontario.ca/laws/regulation/900090",
+        "date_scraped": "2023-12-18 12:40:02"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "March  1, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900090/v9",
+            "valid_from": "February 28, 2022",
+            "valid_to": "February 28, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900090/v8",
+            "valid_from": "January  1, 2018",
+            "valid_to": "February 27, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900090/v7",
+            "valid_from": "December 21, 2017",
+            "valid_to": "December 31, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900090/v6",
+            "valid_from": "January  1, 2011",
+            "valid_to": "December 20, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900090/v5",
+            "valid_from": "December 10, 2010",
+            "valid_to": "December 31, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900090/v4",
+            "valid_from": "June 13, 2005",
+            "valid_to": "December  9, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900090/v3",
+            "valid_from": "May 16, 2005",
+            "valid_to": "June 12, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900090/v2",
+            "valid_from": "April 25, 2005",
+            "valid_to": "May 15, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900090/v1",
+            "valid_from": "December  1, 2003",
+            "valid_to": "April 24, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "PART I",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation",
+            "Section2": "1-2",
+            "part_id": "PART I",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation",
+            "Section2": "7",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Execution and Certification of Documents",
+            "Section2": "3-4",
+            "part_id": "PART I",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "PART II",
+            "Section": "None",
+            "Section1": "INVESTIGATIONS",
+            "Section2": "5",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "PART III",
+            "Section": "None",
+            "Section1": "CONDITIONS OF RECOGNITION OF SELF REGULATORY BODIES",
+            "Section2": "6",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "PART IV",
+            "Section": "None",
+            "Section1": "REGISTRATION",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Categories of Registration",
+            "Section2": "8",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Conditions of Registration — General",
+            "Section2": "9",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Futures Commission Merchants",
+            "Section2": "10-13",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Futures Commission Merchants",
+            "Section2": "23",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Futures Commission Merchants",
+            "Section2": "35-36",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Futures Commission Merchants and Advisers",
+            "Section2": "14-22",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Futures Commission Merchants and Advisers",
+            "Section2": "24-34",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Futures Commission Merchants and Advisers",
+            "Section2": "37-39",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Renewal of Registration",
+            "Section2": "40-41",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Examination of Registrants",
+            "Section2": "42",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Amendments to Registration",
+            "Section2": "43",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Exemption from Registration Requirements",
+            "Section2": "44",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "PART V",
+            "Section": "None",
+            "Section1": "TRADING GENERALLY",
+            "Section2": "45",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "PART V",
+            "Section": "None",
+            "Section1": "ENFORCEMENT",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 1",
+            "Section": "None",
+            "Section1": "Summons to a witness before",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 2",
+            "Section": "None",
+            "Section1": "Affidavit of service",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 4",
+            "Section": "None",
+            "Section1": "Loan agreement",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 5",
+            "Section": "None",
+            "Section1": "Application for registration as futures commission merchant introducing broker or adviser",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 6",
+            "Section": "None",
+            "Section1": "Application for registration as a non-resident carrying broker",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 9",
+            "Section": "None",
+            "Section1": "Application for renewal of registration as dealer or adviser",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 10",
+            "Section": "None",
+            "Section1": "Application for renewal of registration as salesperson or as a partner or officer of a registered dealer or registered adviser",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 11",
+            "Section": "None",
+            "Section1": "Notice to submit to examination under section 28 of the act",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 12",
+            "Section": "None",
+            "Section1": "Application for amendment of registration as dealer or adviser",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 13",
+            "Section": "None",
+            "Section1": "Application for amendment of registration as salesperson",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 14",
+            "Section": "None",
+            "Section1": "Information statement",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 15",
+            "Section": "None",
+            "Section1": "Summary disclosure statement exchange traded commodity futures options",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 16",
+            "Section": "None",
+            "Section1": "Endorsement of warrant",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Endorsement of Warrants",
+            "Section2": "46",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. (1) Subject to subsection (2), the words and terms used herein that are defined in section 1 of the Act are used in this Regulation as therein defined unless otherwise defined in this Regulation or the context otherwise requires.  R.R.O. 1990, Reg. 90, s. 1 (1). (2) The words and terms used herein that are defined in any Part of the Act are used as therein defined in the sections of this Regulation that relate to the subject-matter of that Part unless otherwise defined in this Regulation or the context otherwise requires.  R.R.O. 1990, Reg. 90, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>1.</b> (1) Subject to subsection (2), the words and terms used herein that are defined in section 1 of the Act are used in this Regulation as therein defined unless otherwise defined in this Regulation or the context otherwise requires.  R.R.O. 1990, Reg. 90, s. 1 (1).</p> <p class=\"subsection-e\">  (2) The words and terms used herein that are defined in any Part of the Act are used as therein defined in the sections of this Regulation that relate to the subject-matter of that Part unless otherwise defined in this Regulation or the context otherwise requires.  R.R.O. 1990, Reg. 90, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. Revoked:  O. Reg. 187/05, s. 1. Execution and Certification of Documents",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 187/05, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK1\"></a>Execution and Certification of Documents</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) Except where otherwise provided in the Act or this Regulation, every document required or permitted to be filed with the Commission by an individual that is required to be signed or certified shall be manually signed and shall include below the signature the name of the individual in typewritten or printed form.  R.R.O. 1990, Reg. 90, s. 3 (1). (2) Subject to subsection (3), every document required or permitted to be filed with the Commission by a person, other than an individual, or company that is required to be signed or certified shall be manually signed by an officer or director of the person or company or, subject to subsection (4), by the attorney or agent of the person or company and shall include below the signature the name of the officer, director, attorney or agent in typewritten or printed form.  R.R.O. 1990, Reg. 90, s. 3 (2). (3) Where a partner signs or certifies a document required or permitted to be filed with the Commission on behalf of a professional partnership, the partner is not required to sign his or her name but if an individual other than a partner signs or certifies, the individual shall sign his or her name manually and the document shall include below the signature the name of the individual in typewritten or printed form.  R.R.O. 1990, Reg. 90, s. 3 (3). (4) Where a document required or permitted to be filed with the Commission by any person or company has been executed by an attorney or agent of the person or company, a duly completed power of attorney or document of authority authorizing the signing of the document shall be filed with the document unless the Director permits the filing of the document without the power of attorney or document of authority.  R.R.O. 1990, Reg. 90, s. 3 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>3.</b> (1) Except where otherwise provided in the Act or this Regulation, every document required or permitted to be filed with the Commission by an individual that is required to be signed or certified shall be manually signed and shall include below the signature the name of the individual in typewritten or printed form.  R.R.O. 1990, Reg. 90, s. 3 (1).</p> <p class=\"subsection-e\">  (2) Subject to subsection (3), every document required or permitted to be filed with the Commission by a person, other than an individual, or company that is required to be signed or certified shall be manually signed by an officer or director of the person or company or, subject to subsection (4), by the attorney or agent of the person or company and shall include below the signature the name of the officer, director, attorney or agent in typewritten or printed form.  R.R.O. 1990, Reg. 90, s. 3 (2).</p> <p class=\"subsection-e\">  (3) Where a partner signs or certifies a document required or permitted to be filed with the Commission on behalf of a professional partnership, the partner is not required to sign his or her name but if an individual other than a partner signs or certifies, the individual shall sign his or her name manually and the document shall include below the signature the name of the individual in typewritten or printed form.  R.R.O. 1990, Reg. 90, s. 3 (3).</p> <p class=\"subsection-e\">  (4) Where a document required or permitted to be filed with the Commission by any person or company has been executed by an attorney or agent of the person or company, a duly completed power of attorney or document of authority authorizing the signing of the document shall be filed with the document unless the Director permits the filing of the document without the power of attorney or document of authority.  R.R.O. 1990, Reg. 90, s. 3 (4).</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  4. Revoked:  O. Reg. 490/10, s. 1. PART I   INVESTIGATIONS",
+            "raw_html": "<p class=\"section-e\"><b>  4.</b> <span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 490/10, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK2\"></a>PART I <br/>  INVESTIGATIONS</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. The following practices and procedures apply to investigations conducted under the Act: 1. Every summons issued by a person under subsection 7 (4) or section 9 of the Act shall be served personally on the individual summoned who shall be paid the like fees and allowances for attendance before the person as are paid for the attendance of a witness summoned to attend before the Superior Court of Justice. 2. Every summons to a witness to appear before a person appointed to make an investigation under section 7 or 9 of the Act shall be in Form 1. 3. The service of a summons on a witness, the payment or tender of fees and allowances to the witness and the service of a notice on a witness may be proved by an affidavit in Form 2.  R.R.O. 1990, Reg. 90, s. 5. PART II   CONDITIONS OF RECOGNITION OF SELF REGULATORY BODIES",
+            "raw_html": "<p class=\"section-e\"> <b>5.</b> The following practices and procedures apply to investigations conducted under the Act:</p> <p class=\"paragraph-e\">  1. Every summons issued by a person under subsection 7 (4) or section 9 of the Act shall be served personally on the individual summoned who shall be paid the like fees and allowances for attendance before the person as are paid for the attendance of a witness summoned to attend before the Superior Court of Justice.</p> <p class=\"paragraph-e\">  2. Every summons to a witness to appear before a person appointed to make an investigation under section 7 or 9 of the Act shall be in Form 1.</p> <p class=\"paragraph-e\">  3. The service of a summons on a witness, the payment or tender of fees and allowances to the witness and the service of a notice on a witness may be proved by an affidavit in Form 2.  R.R.O. 1990, Reg. 90, s. 5.</p> <p class=\"partnum-e\"><a name=\"BK3\"></a>PART II <br/>  CONDITIONS OF RECOGNITION OF SELF REGULATORY BODIES</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. No association or organization shall be eligible for recognition as a self regulatory body under section 15 of the Act unless it has passed by-laws or regulations that impose requirements and conditions, applicable to its members who are dealers or advisers, that are deemed by the Commission to be substantially equivalent to the applicable requirements and conditions of registration set out in Part III.  R.R.O. 1990, Reg. 90, s. 6. PART III   REGISTRATION Interpretation",
+            "raw_html": "<p class=\"section-e\"> <b>6.</b> No association or organization shall be eligible for recognition as a self regulatory body under section 15 of the Act unless it has passed by-laws or regulations that impose requirements and conditions, applicable to its members who are dealers or advisers, that are deemed by the Commission to be substantially equivalent to the applicable requirements and conditions of registration set out in Part III.  R.R.O. 1990, Reg. 90, s. 6.</p> <p class=\"partnum-e\"><a name=\"BK4\"></a>PART III <br/>  REGISTRATION</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Interpretation</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) In this Part, “active assets” means money and the market value of assets readily convertible into money; “adjusted liabilities” means total liabilities minus, without duplication, the sum of, (a) cash, (b) debit balances with deposit institutions, (c) the cash surrender value of life insurance where the registrant is the beneficiary, (d) the market value of securities that the registrant owns or has contracted to purchase, other than by way of commodity futures contract, and that have a margin rate of 5 per cent or less, (e) interest accrued to the registrant with respect to the securities referred to in clause (d), and (f) the market value of securities that have a margin rate of 5 per cent or less, (i) included in non-segregated accounts of customers, partners, shareholders or dealers, or (ii) held as collateral for secured loans receivable, not exceeding the debit balance of the account or the secured loan receivable; “anniversary date” means the day and month on which the current registration or renewal of registration was granted, but where any doubt exists, such date shall be determined by the Director; “associate”, where used to indicate a relationship with any person or company, means, (a) any company of which such person or company beneficially owns, directly or indirectly, voting securities carrying more than 10 per cent of the voting rights attached to all voting securities of the company for the time being outstanding, (b) any partner of that person or company, (c) any trust or estate in which such person or company has a substantial beneficial interest or as to which such person or company serves as trustee or in a similar capacity, (d) any relative of that person who resides in the same home as that person, (e) any person who resides in the same home as that person and to whom that person is married or with whom that person is living in a conjugal relationship outside marriage, or (f) any relative of a person mentioned in clause (e) who has the same home as that person; “Canadian Commodity Futures Examination” means an examination relating to the Canadian Commodity futures industry that has been prepared and is administered by the Canadian Securities Institute and is so designated by that Institute; “Commodity Supervisors’ Examination” means an examination relating to the supervision of a dealer’s business that has been prepared by and is administered by the Canadian Securities Institute and is so designated by that Institute; “dealer’s covering transaction” means a trade by a registered dealer in a commodity under a commodity futures contract or the acquisition by a registered dealer of a commodity futures option to enter into a commodity futures contract for the purpose of offsetting a price risk incidental to the dealer’s ownership or cash or spot purchases or sales of a commodity, where the dealer, in relation to the commodity under the commodity futures contract, (a) assumes or acquires the right to assume, (i) a short position that offsets the dealer’s ownership or purchase at a fixed price of, (A) a like quantity of the same commodity that the dealer is obliged to deliver under the commodity futures contract, or (B) an equivalent quantity of any other commodity, if the fluctuations in value of that commodity are substantially related to the fluctuations in value of the commodity that the dealer is obliged to deliver under the commodity futures contract, or (ii) a long position that offsets the dealer’s forward sale at a fixed price of, (A) a like quantity of the same commodity that the dealer is obliged to take delivery of under the commodity futures contract, or (B) an equivalent quantity of any other commodity, if the fluctuations in value of that commodity are substantially related to the fluctuations in value of the commodity that the dealer is obliged to take delivery of under the commodity futures contract, and (b) effects liquidating trades in relation to positions assumed in the circumstances set out in clause (a); “deposit institution” means, (a) a bank to which the Bank Act (Canada) applies, (b) a loan corporation or trust corporation registered under the Loan and Trust Corporations Act, (c) a credit union or central within the meaning of the Credit Unions and Caisses Populaires Act, 2020; and (d) a member commercial bank of the Federal Reserve System of the United States of America; “director”, where used in relation to a person, includes a person acting in a capacity similar to that of a director of a company; “financial institution” means, (a) the Government of Canada, the government of any province or territory of Canada, any municipal corporation, crown corporation or public board or commission in Canada, (b) the Bank of Canada, a bank to which the Bank Act (Canada) applies, any Quebec savings bank, and the pension funds of such banks, (c) a trust corporation or insurance company that is licensed to do business in Canada and has a minimum paid up capital and surplus of $5,000,000, and the pension funds of such companies, (d) a credit union or central with a minimum paid up capital and surplus of $5,000,000, (e) a mutual fund with net assets of $5,000,000, and (f) a company, other than a dealer, having a minimum net worth of $25,000,000 on the last audited statement of financial position of the company, if the statement of financial position is available for inspection by the Commission, and any trusteed pension plan of such a company; “futures commission merchant” means a dealer; “liquid capital” means the amount by which active assets exceed the sum of total liabilities, but liquid capital may be increased by adding, (a) the loan value of any securities delivered pursuant to a subordinated loan agreement in the form prescribed by the Commission that are not included in the accounts, and (b) non-current liabilities fully secured by mortgages on real estate owned by the registrant; “loan value” means the market value of such securities less the applicable margin requirements; “margin”, “margin rate” and “margin requirements”, where used with respect to, (a) contracts, other than contracts entered into to effect a dealer’s covering transaction, means the minimum dollar amount per contract required under the rules and regulations of the commodity futures exchange on which the contract was entered into or required by the Commission that must be deposited with a member of the commodity futures exchange for the purpose of ensuring performance of obligations under the contract, and includes “original margin” or “initial margin”, being the amount that must be deposited on entering the contract, and “variation margin”, being the amount that must be deposited by a party to the contract to restore margin on deposit to original margin or initial margin when the margin on deposit falls to or under the required maintenance level because of adverse movement in the price of the commodity, (b) cash commodities, including securities and not including the currencies of Canada and the United States of America, means, (i) the margin, margin rate or margin requirements established for the commodity by the Toronto Stock Exchange under by-laws of the Exchange, or (ii) where by-laws referred to in subclause (i) are not applicable, 5 per cent of the market value of the commodity, if the owner of the commodity is a party to a contract representing a short hedge for a like quantity of the commodity, or 20 per cent of the market value of the commodity if the owner is not a party to such a contract; “margin deficiency”, where used in relation to a customer’s account, including a customer’s account in a group of two or more customers’ accounts for which trades are effected through an omnibus account, means, for the purpose of calculating net free capital, the amount by which deposits in a customer’s account are, at any time, below, (a) the maintenance level of deposits established by a commodity futures exchange or clearing house for the account, or (b) where a maintenance level is not established for the account, the original margin or initial margin established by a commodity futures exchange for the account; “market value”, where used with respect to, (a) a commodity futures contract, means the settlement price on the relevant date or last trading day prior to the relevant date, (b) a security, means, (i) where a security is listed and posted for trading on a stock exchange, (A) the bid price, or (B) if the security is sold short, the ask price, as shown on the exchange quotation sheets as of the close of business on the relevant date or last trading day prior to the relevant date, as the case may be, subject to an appropriate adjustment where an unusually large or unusually small quantity of securities is being valued, and (ii) where a security is not listed and posted for trading on a stock exchange, a value determined in accordance with subsection (3); “minimum free capital” means the applicable amount determined in accordance with section 14; “National Commodity Futures Examination” means an examination relating to the commodity futures industry that has been prepared by the Chicago Board of Trade and is administered in the United States of America by the National Association of Securities Dealers, Inc. and is administered in Canada by the Canadian Securities Institute; “net free capital” means liquid capital after deducting, (a) the amount required to provide full margin for, (i) cash commodities, other than securities, owned by the registrant, (ii) securities owned by the registrant and securities sold short by the registrant, (iii) firm trading accounts, and (b) the amount sufficient to provide for any margin deficiencies on, (i) secured loans receivable, (ii) customers’ accounts, (iii) partners’ or shareholders’ accounts, other than trading, (iv) secured loans payable by the registrant if the collateral is held by other than the registrant or a financial institution, and (v) any other liquid capital items; “omnibus account” means an account carried by a dealer for another dealer in which the transactions of two or more persons or companies are combined and effected in the name of the second mentioned dealer without disclosure of the identity of such persons or companies; “total liabilities” means all liabilities including, (a) adequate provision for income taxes, and (b) other accruals, but excluding, (c) debts, the payment of which is postponed in favour of other creditors of the registrant pursuant to a subordination agreement in form approved by the Commission, and (d) deferred income taxes relating to non-active assets; “working capital” means the excess of current assets over current liabilities determined in accordance with generally accepted accounting principles.  R.R.O. 1990, Reg. 90, s. 7 (1); O. Reg. 321/98, s. 1; O. Reg. 109/00, s. 1; O. Reg. 344/05, s. 1; O. Reg. 490/10, s. 2; O. Reg. 117/22, s. 1. (2) For the purposes of this Regulation, where a recommendation has been made in the Handbook of the Canadian Institute of Chartered Accountants which is applicable in the circumstances, the terms “generally accepted accounting principles”, “auditor’s report” and “generally accepted auditing standards” mean the principles, report and standards, respectively, recommended in the Handbook.  R.R.O. 1990, Reg. 90, s. 7 (2). (3) The market value of a security not listed and posted for trading on a stock exchange shall be determined as follows: 1. Subject to paragraphs 2, 3 and 4, the registrant shall assign a reasonable value on the basis of values shown on published market reports or inter-dealer quotation sheets on the relevant date or the last trading day prior to the relevant date. 2. The registrant may vary a value from that shown on published market reports or inter-dealer quotation sheets where, in light of all the circumstances, some other value would be more appropriate. 3. The Director may require that a different value from that determined under paragraph 1 or 2 be assigned, where in light of all the circumstances, some other value would be more appropriate. 4. Where no published market report or inter-dealer quotation sheet exists with respect to the security, the security shall be assigned a market value of zero unless the Director agrees otherwise.  R.R.O. 1990, Reg. 90, s. 7 (3). (4) A company shall be deemed to be an affiliate of another company if one of them is the subsidiary of the other or if both are subsidiaries of the same company or if each of them is controlled by the same person or company.  R.R.O. 1990, Reg. 90, s. 7 (4). (5) A company shall be deemed to be controlled by another person or company or by two or more companies if, (a) voting securities of the first-mentioned company carrying more than 50 per cent of the votes for the election of directors are held, otherwise than by way of security only, by or for the benefit of the other person or company or by or for the benefit of the other companies; and (b) the votes carried by such securities are entitled, if exercised, to elect a majority of the board of directors of the first-mentioned company.  R.R.O. 1990, Reg. 90, s. 7 (5). (6) A company shall be deemed to be a subsidiary of another company if, (a) it is controlled by, (i) that other, or (ii) that other and one or more companies each of which is controlled by that other, or (iii) two or more companies each of which is controlled by that other; or (b) it is a subsidiary of a company that is that other’s subsidiary.  R.R.O. 1990, Reg. 90, s. 7 (6). Categories of Registration",
+            "raw_html": "<p class=\"section-e\"> <b>7.</b> (1) In this Part,</p> <p class=\"firstdef-e\">“active assets” means money and the market value of assets readily convertible into money;</p> <p class=\"definition-e\">“adjusted liabilities” means total liabilities minus, without duplication, the sum of,</p> <p class=\"defclause-e\">  (a) cash,</p> <p class=\"defclause-e\">  (b) debit balances with deposit institutions,</p> <p class=\"defclause-e\">  (c) the cash surrender value of life insurance where the registrant is the beneficiary,</p> <p class=\"defclause-e\">  (d) the market value of securities that the registrant owns or has contracted to purchase, other than by way of commodity futures contract, and that have a margin rate of 5 per cent or less,</p> <p class=\"defclause-e\">  (e) interest accrued to the registrant with respect to the securities referred to in clause (d), and</p> <p class=\"defclause-e\">  (f) the market value of securities that have a margin rate of 5 per cent or less,</p> <p class=\"defsubclause-e\">  (i) included in non-segregated accounts of customers, partners, shareholders or dealers, or</p> <p class=\"defsubclause-e\">  (ii) held as collateral for secured loans receivable,</p> <p class=\"Sdefclause-e0\">not exceeding the debit balance of the account or the secured loan receivable;</p> <p class=\"definition-e\">“anniversary date” means the day and month on which the current registration or renewal of registration was granted, but where any doubt exists, such date shall be determined by the Director;</p> <p class=\"definition-e\">“associate”, where used to indicate a relationship with any person or company, means,</p> <p class=\"defclause-e\">  (a) any company of which such person or company beneficially owns, directly or indirectly, voting securities carrying more than 10 per cent of the voting rights attached to all voting securities of the company for the time being outstanding,</p> <p class=\"defclause-e\">  (b) any partner of that person or company,</p> <p class=\"defclause-e\">  (c) any trust or estate in which such person or company has a substantial beneficial interest or as to which such person or company serves as trustee or in a similar capacity,</p> <p class=\"defclause-e\">  (d) any relative of that person who resides in the same home as that person,</p> <p class=\"defclause-e\">  (e) any person who resides in the same home as that person and to whom that person is married or with whom that person is living in a conjugal relationship outside marriage, or</p> <p class=\"defclause-e\">  (f) any relative of a person mentioned in clause (e) who has the same home as that person;</p> <p class=\"definition-e\">“Canadian Commodity Futures Examination” means an examination relating to the Canadian Commodity futures industry that has been prepared and is administered by the Canadian Securities Institute and is so designated by that Institute;</p> <p class=\"definition-e\">“Commodity Supervisors’ Examination” means an examination relating to the supervision of a dealer’s business that has been prepared by and is administered by the Canadian Securities Institute and is so designated by that Institute;</p> <p class=\"definition-e\">“dealer’s covering transaction” means a trade by a registered dealer in a commodity under a commodity futures contract or the acquisition by a registered dealer of a commodity futures option to enter into a commodity futures contract for the purpose of offsetting a price risk incidental to the dealer’s ownership or cash or spot purchases or sales of a commodity, where the dealer, in relation to the commodity under the commodity futures contract,</p> <p class=\"defclause-e\">  (a) assumes or acquires the right to assume,</p> <p class=\"defsubclause-e\">  (i) a short position that offsets the dealer’s ownership or purchase at a fixed price of,</p> <p class=\"defsubsubclause-e\">  (A) a like quantity of the same commodity that the dealer is obliged to deliver under the commodity futures contract, or</p> <p class=\"defsubsubclause-e\">  (B) an equivalent quantity of any other commodity, if the fluctuations in value of that commodity are substantially related to the fluctuations in value of the commodity that the dealer is obliged to deliver under the commodity futures contract, or</p> <p class=\"defsubclause-e\">  (ii) a long position that offsets the dealer’s forward sale at a fixed price of,</p> <p class=\"defsubsubclause-e\">  (A) a like quantity of the same commodity that the dealer is obliged to take delivery of under the commodity futures contract, or</p> <p class=\"defsubsubclause-e\">  (B) an equivalent quantity of any other commodity, if the fluctuations in value of that commodity are substantially related to the fluctuations in value of the commodity that the dealer is obliged to take delivery of under the commodity futures contract, and</p> <p class=\"defclause-e\">  (b) effects liquidating trades in relation to positions assumed in the circumstances set out in clause (a);</p> <p class=\"definition-e\">“deposit institution” means,</p> <p class=\"defclause-e\">  (a) a bank to which the <i>Bank Act</i> (Canada) applies,</p> <p class=\"defclause-e\">  (b) a loan corporation or trust corporation registered under the <i>Loan and Trust Corporations Act</i>,</p> <p class=\"clause-e\">  (c) a credit union or central within the meaning of the <i>Credit Unions and Caisses Populaires Act, 2020</i>; and</p> <p class=\"defclause-e\">  (d) a member commercial bank of the Federal Reserve System of the United States of America;</p> <p class=\"definition-e\">“director”, where used in relation to a person, includes a person acting in a capacity similar to that of a director of a company;</p> <p class=\"definition-e\">“financial institution” means,</p> <p class=\"defclause-e\">  (a) the Government of Canada, the government of any province or territory of Canada, any municipal corporation, crown corporation or public board or commission in Canada,</p> <p class=\"defclause-e\">  (b) the Bank of Canada, a bank to which the <i>Bank Act</i> (Canada) applies, any Quebec savings bank, and the pension funds of such banks,</p> <p class=\"defclause-e\">  (c) a trust corporation or insurance company that is licensed to do business in Canada and has a minimum paid up capital and surplus of $5,000,000, and the pension funds of such companies,</p> <p class=\"defclause-e\">  (d) a credit union or central with a minimum paid up capital and surplus of $5,000,000,</p> <p class=\"defclause-e\">  (e) a mutual fund with net assets of $5,000,000, and</p> <p class=\"defclause-e\">  (f) a company, other than a dealer, having a minimum net worth of $25,000,000 on the last audited statement of financial position of the company, if the statement of financial position is available for inspection by the Commission, and any trusteed pension plan of such a company;</p> <p class=\"definition-e\">“futures commission merchant” means a dealer;</p> <p class=\"definition-e\">“liquid capital” means the amount by which active assets exceed the sum of total liabilities, but liquid capital may be increased by adding,</p> <p class=\"defclause-e\">  (a) the loan value of any securities delivered pursuant to a subordinated loan agreement in the form prescribed by the Commission that are not included in the accounts, and</p> <p class=\"defclause-e\">  (b) non-current liabilities fully secured by mortgages on real estate owned by the registrant;</p> <p class=\"definition-e\">“loan value” means the market value of such securities less the applicable margin requirements;</p> <p class=\"definition-e\">“margin”, “margin rate” and “margin requirements”, where used with respect to,</p> <p class=\"defclause-e\">  (a) contracts, other than contracts entered into to effect a dealer’s covering transaction, means the minimum dollar amount per contract required under the rules and regulations of the commodity futures exchange on which the contract was entered into or required by the Commission that must be deposited with a member of the commodity futures exchange for the purpose of ensuring performance of obligations under the contract, and includes “original margin” or “initial margin”, being the amount that must be deposited on entering the contract, and “variation margin”, being the amount that must be deposited by a party to the contract to restore margin on deposit to original margin or initial margin when the margin on deposit falls to or under the required maintenance level because of adverse movement in the price of the commodity,</p> <p class=\"defclause-e\">  (b) cash commodities, including securities and not including the currencies of Canada and the United States of America, means,</p> <p class=\"defsubclause-e\">  (i) the margin, margin rate or margin requirements established for the commodity by the Toronto Stock Exchange under by-laws of the Exchange, or</p> <p class=\"defsubclause-e\">  (ii) where by-laws referred to in subclause (i) are not applicable, 5 per cent of the market value of the commodity, if the owner of the commodity is a party to a contract representing a short hedge for a like quantity of the commodity, or 20 per cent of the market value of the commodity if the owner is not a party to such a contract;</p> <p class=\"definition-e\">“margin deficiency”, where used in relation to a customer’s account, including a customer’s account in a group of two or more customers’ accounts for which trades are effected through an omnibus account, means, for the purpose of calculating net free capital, the amount by which deposits in a customer’s account are, at any time, below,</p> <p class=\"defclause-e\">  (a) the maintenance level of deposits established by a commodity futures exchange or clearing house for the account, or</p> <p class=\"defclause-e\">  (b) where a maintenance level is not established for the account, the original margin or initial margin established by a commodity futures exchange for the account;</p> <p class=\"definition-e\">“market value”, where used with respect to,</p> <p class=\"defclause-e\">  (a) a commodity futures contract, means the settlement price on the relevant date or last trading day prior to the relevant date,</p> <p class=\"defclause-e\">  (b) a security, means,</p> <p class=\"defsubclause-e\">  (i) where a security is listed and posted for trading on a stock exchange,</p> <p class=\"defsubsubclause-e\">  (A) the bid price, or</p> <p class=\"defsubsubclause-e\">  (B) if the security is sold short, the ask price,</p> <p class=\"Ssubclause-e\">as shown on the exchange quotation sheets as of the close of business on the relevant date or last trading day prior to the relevant date, as the case may be, subject to an appropriate adjustment where an unusually large or unusually small quantity of securities is being valued, and</p> <p class=\"defsubclause-e\">  (ii) where a security is not listed and posted for trading on a stock exchange, a value determined in accordance with subsection (3);</p> <p class=\"definition-e\">“minimum free capital” means the applicable amount determined in accordance with section 14;</p> <p class=\"definition-e\">“National Commodity Futures Examination” means an examination relating to the commodity futures industry that has been prepared by the Chicago Board of Trade and is administered in the United States of America by the National Association of Securities Dealers, Inc. and is administered in Canada by the Canadian Securities Institute;</p> <p class=\"definition-e\">“net free capital” means liquid capital after deducting,</p> <p class=\"defclause-e\">  (a) the amount required to provide full margin for,</p> <p class=\"defsubclause-e\">  (i) cash commodities, other than securities, owned by the registrant,</p> <p class=\"defsubclause-e\">  (ii) securities owned by the registrant and securities sold short by the registrant,</p> <p class=\"defsubclause-e\">  (iii) firm trading accounts, and</p> <p class=\"defclause-e\">  (b) the amount sufficient to provide for any margin deficiencies on,</p> <p class=\"defsubclause-e\">  (i) secured loans receivable,</p> <p class=\"defsubclause-e\">  (ii) customers’ accounts,</p> <p class=\"defsubclause-e\">  (iii) partners’ or shareholders’ accounts, other than trading,</p> <p class=\"defsubclause-e\">  (iv) secured loans payable by the registrant if the collateral is held by other than the registrant or a financial institution, and</p> <p class=\"defsubclause-e\">  (v) any other liquid capital items;</p> <p class=\"definition-e\">“omnibus account” means an account carried by a dealer for another dealer in which the transactions of two or more persons or companies are combined and effected in the name of the second mentioned dealer without disclosure of the identity of such persons or companies;</p> <p class=\"definition-e\">“total liabilities” means all liabilities including,</p> <p class=\"defclause-e\">  (a) adequate provision for income taxes, and</p> <p class=\"defclause-e\">  (b) other accruals,</p> <p class=\"Sdefinition-e\">but excluding,</p> <p class=\"defclause-e\">  (c) debts, the payment of which is postponed in favour of other creditors of the registrant pursuant to a subordination agreement in form approved by the Commission, and</p> <p class=\"defclause-e\">  (d) deferred income taxes relating to non-active assets;</p> <p class=\"definition-e\">“working capital” means the excess of current assets over current liabilities determined in accordance with generally accepted accounting principles.  R.R.O. 1990, Reg. 90, s. 7 (1); O. Reg. 321/98, s. 1; O. Reg. 109/00, s. 1; O. Reg. 344/05, s. 1; O. Reg. 490/10, s. 2; O. Reg. 117/22, s. 1.</p> <p class=\"subsection-e\">  (2) For the purposes of this Regulation, where a recommendation has been made in the Handbook of the Canadian Institute of Chartered Accountants which is applicable in the circumstances, the terms “generally accepted accounting principles”, “auditor’s report” and “generally accepted auditing standards” mean the principles, report and standards, respectively, recommended in the Handbook.  R.R.O. 1990, Reg. 90, s. 7 (2).</p> <p class=\"subsection-e\">  (3) The market value of a security not listed and posted for trading on a stock exchange shall be determined as follows:</p> <p class=\"paragraph-e\">  1. Subject to paragraphs 2, 3 and 4, the registrant shall assign a reasonable value on the basis of values shown on published market reports or inter-dealer quotation sheets on the relevant date or the last trading day prior to the relevant date.</p> <p class=\"paragraph-e\">  2. The registrant may vary a value from that shown on published market reports or inter-dealer quotation sheets where, in light of all the circumstances, some other value would be more appropriate.</p> <p class=\"paragraph-e\">  3. The Director may require that a different value from that determined under paragraph 1 or 2 be assigned, where in light of all the circumstances, some other value would be more appropriate.</p> <p class=\"paragraph-e\">  4. Where no published market report or inter-dealer quotation sheet exists with respect to the security, the security shall be assigned a market value of zero unless the Director agrees otherwise.  R.R.O. 1990, Reg. 90, s. 7 (3).</p> <p class=\"subsection-e\">  (4) A company shall be deemed to be an affiliate of another company if one of them is the subsidiary of the other or if both are subsidiaries of the same company or if each of them is controlled by the same person or company.  R.R.O. 1990, Reg. 90, s. 7 (4).</p> <p class=\"subsection-e\">  (5) A company shall be deemed to be controlled by another person or company or by two or more companies if,</p> <p class=\"clause-e\">  (a) voting securities of the first-mentioned company carrying more than 50 per cent of the votes for the election of directors are held, otherwise than by way of security only, by or for the benefit of the other person or company or by or for the benefit of the other companies; and</p> <p class=\"clause-e\">  (b) the votes carried by such securities are entitled, if exercised, to elect a majority of the board of directors of the first-mentioned company.  R.R.O. 1990, Reg. 90, s. 7 (5).</p> <p class=\"subsection-e\">  (6) A company shall be deemed to be a subsidiary of another company if,</p> <p class=\"clause-e\">  (a) it is controlled by,</p> <p class=\"subclause-e\">  (i) that other, or</p> <p class=\"subclause-e\">  (ii) that other and one or more companies each of which is controlled by that other, or</p> <p class=\"subclause-e\">  (iii) two or more companies each of which is controlled by that other; or</p> <p class=\"clause-e\">  (b) it is a subsidiary of a company that is that other’s subsidiary.  R.R.O. 1990, Reg. 90, s. 7 (6).</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Categories of Registration</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. (1) Revoked:  O. Reg. 321/98, s. 2. (2) Every registrant who is an adviser shall elect to be classified into one or more of the following categories: 1. Commodity trading adviser, but only a person or company that holds himself, herself or itself out as engaging in the business of advising others either directly or through publications or writings as to trading in contracts but that does not purport to design such advice to accord with the financial objectives of specific customers, or intends so to act, may elect to be classified in this category. 2. Commodity trading counsel, but only a person or company that engages in or holds himself, herself or itself out as engaging in the business of advising others as to trading in specific contracts or that is primarily engaged in giving continuous advice as to trading in contracts on the basis of the particular objectives of each customer, or intends so to act, may elect to be classified in this category. 3. Commodity trading manager, but only a person or company that has elected to be classified as a commodity trading counsel and that engages in or holds himself, herself or itself out as engaging in the business of managing trading in contracts for customers through discretionary authority granted by one or more customers, or intends so to act, may elect to be classified in this category.  R.R.O. 1990, Reg. 90, s. 8 (2). Conditions of Registration — General",
+            "raw_html": "<p class=\"section-e\"> <b>8.</b> (1) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 321/98, s. 2.</p> <p class=\"subsection-e\">  (2) Every registrant who is an adviser shall elect to be classified into one or more of the following categories:</p> <p class=\"paragraph-e\">  1. Commodity trading adviser, but only a person or company that holds himself, herself or itself out as engaging in the business of advising others either directly or through publications or writings as to trading in contracts but that does not purport to design such advice to accord with the financial objectives of specific customers, or intends so to act, may elect to be classified in this category.</p> <p class=\"paragraph-e\">  2. Commodity trading counsel, but only a person or company that engages in or holds himself, herself or itself out as engaging in the business of advising others as to trading in specific contracts or that is primarily engaged in giving continuous advice as to trading in contracts on the basis of the particular objectives of each customer, or intends so to act, may elect to be classified in this category.</p> <p class=\"paragraph-e\">  3. Commodity trading manager, but only a person or company that has elected to be classified as a commodity trading counsel and that engages in or holds himself, herself or itself out as engaging in the business of managing trading in contracts for customers through discretionary authority granted by one or more customers, or intends so to act, may elect to be classified in this category.  R.R.O. 1990, Reg. 90, s. 8 (2).</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Conditions of Registration — General</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) No registration or renewal of registration shall be granted unless the applicant has complied with the applicable requirements of this Part at the time of the granting of the registration or renewal of registration.  R.R.O. 1990, Reg. 90, s. 9 (1). (2) Each registrant shall comply with the applicable requirements of this Part and the failure to do so shall be considered by the Commission in any proceeding under section 24 of the Act.  R.R.O. 1990, Reg. 90, s. 9 (2). (3) No registrant or partner, officer or associate of a registrant shall have a direct or indirect interest in any other registrant without the approval of the Director.  R.R.O. 1990, Reg. 90, s. 9 (3). Futures Commission Merchants conditions of registration — membership on self-regulatory body or exchange",
+            "raw_html": "<p class=\"section-e\"> <b>9.</b> (1) No registration or renewal of registration shall be granted unless the applicant has complied with the applicable requirements of this Part at the time of the granting of the registration or renewal of registration.  R.R.O. 1990, Reg. 90, s. 9 (1).</p> <p class=\"subsection-e\">  (2) Each registrant shall comply with the applicable requirements of this Part and the failure to do so shall be considered by the Commission in any proceeding under section 24 of the Act.  R.R.O. 1990, Reg. 90, s. 9 (2).</p> <p class=\"subsection-e\">  (3) No registrant or partner, officer or associate of a registrant shall have a direct or indirect interest in any other registrant without the approval of the Director.  R.R.O. 1990, Reg. 90, s. 9 (3).</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Futures Commission Merchants</p> <p class=\"heading2-e\">conditions of registration — membership on self-regulatory body or exchange</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. No registration or renewal of registration shall be granted to an applicant for registration as a futures commission merchant unless, (a) the applicant is a corporation incorporated under the laws of Canada or of a province of Canada or is a partnership or limited partnership formed under the laws of a province of Canada; and (b) the applicant is, (i) a member in good standing of a self-regulatory body recognized under section 15 of the Act, or (ii) a dealer member in good standing of a commodity futures exchange registered under section 19 of the Act.  O. Reg. 321/98, s. 3. conditions of registration — minimum personnel",
+            "raw_html": "<p class=\"section-e\"> <b>10.</b> No registration or renewal of registration shall be granted to an applicant for registration as a futures commission merchant unless,</p> <p class=\"clause-e\">  (a) the applicant is a corporation incorporated under the laws of Canada or of a province of Canada or is a partnership or limited partnership formed under the laws of a province of Canada; and</p> <p class=\"clause-e\">  (b) the applicant is,</p> <p class=\"subclause-e\">  (i) a member in good standing of a self-regulatory body recognized under section 15 of the Act, or</p> <p class=\"subclause-e\">  (ii) a dealer member in good standing of a commodity futures exchange registered under section 19 of the Act.  O. Reg. 321/98, s. 3.</p> <p class=\"heading2-e\">conditions of registration — minimum personnel</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. (1) Subject to subsection (2), every futures commission merchant shall have available to serve customers not less than, (a) two individuals, (i) each of whom is registered as a partner or officer of the dealer or as a salesperson, or (ii) one of whom is registered as a partner or officer of the dealer or as a salesperson and one of whom is the individual responsible for discharging the obligations of a person or company registered as a partner of the dealer; and (b) either of, (i) a third individual as is referred to in clause (a), or (ii) an employee of the dealer authorized by an individual referred to in clause (a) to accept customers’ unsolicited instructions in his or her absence and designated by the Director under subsection 22 (3) of the Act as non-trading, but the dealer need only make available two of such individuals at any time in normal circumstances and during usual business hours.  R.R.O. 1990, Reg. 90, s. 11 (1); O. Reg. 321/98, s. 4 (1). (2) The Director may exempt, subject to such terms and conditions as the Director may impose, a futures commission merchant from the requirement of subsection (1) where the Director is satisfied that adequate service will be available to the customers of the dealer although fewer individuals than are required under subsection (1) are available to serve customers.  R.R.O. 1990, Reg. 90, s. 11 (2); O. Reg. 321/98, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>11.</b> (1) Subject to subsection (2), every futures commission merchant shall have available to serve customers not less than,</p> <p class=\"clause-e\">  (a) two individuals,</p> <p class=\"subclause-e\">  (i) each of whom is registered as a partner or officer of the dealer or as a salesperson, or</p> <p class=\"subclause-e\">  (ii) one of whom is registered as a partner or officer of the dealer or as a salesperson and one of whom is the individual responsible for discharging the obligations of a person or company registered as a partner of the dealer; and</p> <p class=\"clause-e\">  (b) either of,</p> <p class=\"subclause-e\">  (i) a third individual as is referred to in clause (a), or</p> <p class=\"subclause-e\">  (ii) an employee of the dealer authorized by an individual referred to in clause (a) to accept customers’ unsolicited instructions in his or her absence and designated by the Director under subsection 22 (3) of the Act as non-trading,</p> <p class=\"Ssubsection-e\">but the dealer need only make available two of such individuals at any time in normal circumstances and during usual business hours.  R.R.O. 1990, Reg. 90, s. 11 (1); O. Reg. 321/98, s. 4 (1).</p> <p class=\"subsection-e\">  (2) The Director may exempt, subject to such terms and conditions as the Director may impose, a futures commission merchant from the requirement of subsection (1) where the Director is satisfied that adequate service will be available to the customers of the dealer although fewer individuals than are required under subsection (1) are available to serve customers.  R.R.O. 1990, Reg. 90, s. 11 (2); O. Reg. 321/98, s. 4 (2).</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. Revoked:  O. Reg. 321/98, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>12.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 321/98, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. Revoked:  O. Reg. 321/98, s. 5. Futures Commission Merchants and Advisers conditions of registration — capital requirement",
+            "raw_html": "<p class=\"section-e\"> <b>13.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 321/98, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Futures Commission Merchants and Advisers</p> <p class=\"heading2-e\">conditions of registration — capital requirement</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. (1) Subject to subsection (2), every futures commission merchant shall maintain a minimum free capital that is the maximum amount, if any, that is deductible under any clause of the insurance policies required under section 20, plus the greater of, (a) $75,000 in net free capital; or (b) the sum of, (i) 10 per cent of the first $2,500,000 of adjusted liabilities, plus 8 per cent of the next $2,500,000 of adjusted liabilities, plus 7 per cent of the next $2,500,000 of adjusted liabilities, plus 6 per cent of the next $2,500,000 of adjusted liabilities, plus 5 per cent of adjusted liabilities in excess of $10,000,000, and (ii) the greater of, (A) up to the first $20,000,000 in market value of commodity futures contracts the sum of, 1. 2\r\nper cent of the market value for contracts, other than for securities, representing a long position or the total number of commodity futures contracts, other than for securities, representing a short position in each commodity, whichever is the greater, carried for all customers’ and firm accounts excluding exempted contracts and contracts entered into to effect a dealer’s covering transaction, and 2. the amount arrived at by the application of the securities futures capital charge, to a maximum of $100,000, or (B) the sum of, 1. ½ of 1 per cent of the market value of the total number of commodity futures contracts, other than for securities, representing a long position or the total number of commodity futures contracts, other than for securities, representing a short position in each commodity, whichever is the greater, carried for all customers’ and firm accounts excluding exempted contracts and contracts entered into to effect a dealer’s covering transaction, and 2. the amount arrived at by the application of the securities futures capital charge, but the amount arrived at under subclauses (i) and (ii) shall be increased by the aggregate of all amounts arrived at by application of the customer concentration factor and of the commodity concentration factor, where, (iii) the customer concentration factor is derived by calculating for each customer or group of related customers and for firm accounts the maximum aggregate price movement if the market value of all commodity futures contracts, excluding exempted contracts, held at the relevant time for that customer or group of related customers or for firm accounts were to change by the standard daily limit moves applicable to such contracts respectively, and if, for any customer or group of related customers or for firm accounts, the amount so calculated, less any funds provided in excess of margin requirements, exceeds an amount equal to 15 per cent of the liquid capital of the dealer, then the excess shall be included in the determination of the customer concentration factor, and (iv) the commodity concentration factor is derived as to each commodity underlying commodity futures contracts held by the dealer, whether for customer or for firm account, by multiplying x by y, where, (A) x is the number of commodity futures contracts equalling the greater of the long or the short position of commodity futures contracts in that commodity so held by the dealer at the relevant time, and (B) y is the price movement resulting when such a commodity futures contract changes in market value by two standard daily limit moves, and, where the amount so determined as to commodity futures contracts in any particular commodity, other than exempted contracts, and after deducting funds provided in excess of margin requirements as calculated under subsection (6) is, for five consecutive trading days, in excess of an amount equal to 40 per cent of the liquid capital of the dealer, then an amount equal to the excess as at the close of business on the fifth of such consecutive trading days shall be included in the determination of the commodity concentration factor.  R.R.O. 1990, Reg. 90, s. 14 (1). (2) A futures commission merchant is not required to maintain the amount calculated in accordance with clause (1) (b) with respect to those contracts resulting from trades executed on the instructions of another registered futures commission merchant.  O. Reg. 321/98, s. 6. (3) Revoked:  O. Reg. 321/98, s. 6. (4) Every adviser shall maintain a minimum free capital of the maximum amount, if any, that is deductible under any clause of the insurance policies required under section 20, plus $5,000 in working capital or such greater amount as the Director considers necessary where the adviser exercises control over clients’ money, securities or property.  R.R.O. 1990, Reg. 90, s. 14 (4). (5) Subsection (4) does not apply to a commodity trading adviser who advises others through publications or writings and who, (a) provides no advice as to trading in contracts that is designed or purports to be designed to accord with the financial objectives of specific clients; and (b) does not exercise control over clients’ money, securities or property.  R.R.O. 1990, Reg. 90, s. 14 (5). (6) For the purpose of subclause (1) (b) (iv) the determination of funds provided in excess of margin requirements shall be the aggregate of amounts determined with respect to each account in which commodity futures contracts for the particular commodity are held on a short or long basis, whichever is relevant for purposes of the calculation of the commodity concentration factor, with the amount to be included for each such account being the lesser of, (a) the funds provided in excess of margin requirements held in that account at the relevant time; or (b) the amount by which the price of the net long or short position of futures contracts for the relevant commodity held in that account would change as a consequence of two standard daily limit moves.  R.R.O. 1990, Reg. 90, s. 14 (6). (7) For the purpose of this section, “exempted contract” means, (a) spreads in the same commodity and entered into on the same commodity futures exchange, (b) short hedge positions where a warehouse receipt or other evidence of title for a like quantity of the commodity to be delivered under the contract is held by the dealer, and (c) commodity futures contracts held for financial institutions; “securities futures capital charge” means that amount representing 10 per cent of the margin requirement for the total number of commodity futures contracts for securities representing a long position or the total number of commodity futures contracts for securities representing a short position in each security, whichever is the greater, carried for all customers’ and firm accounts excluding exempted contracts and contracts entered into to effect a dealer’s covering transaction.  R.R.O. 1990, Reg. 90, s. 14 (7). (8) Despite this section, every registrant who is also a registrant under the Securities Act shall maintain the minimum free capital required of the registrant under the regulations under that Act.  R.R.O. 1990, Reg. 90, s. 14 (8). conditions of registration — reports",
+            "raw_html": "<p class=\"section-e\"> <b>14.</b> (1) Subject to subsection (2), every futures commission merchant shall maintain a minimum free capital that is the maximum amount, if any, that is deductible under any clause of the insurance policies required under section 20, plus the greater of,</p> <p class=\"clause-e\">  (a) $75,000 in net free capital; or</p> <p class=\"clause-e\">  (b) the sum of,</p> <p class=\"subclause-e\">  (i) 10 per cent of the first $2,500,000 of adjusted liabilities, plus</p> <p class=\"Ssubclause-e\">8 per cent of the next $2,500,000 of adjusted liabilities, plus</p> <p class=\"Ssubclause-e\">7 per cent of the next $2,500,000 of adjusted liabilities, plus</p> <p class=\"Ssubclause-e\">6 per cent of the next $2,500,000 of adjusted liabilities, plus</p> <p class=\"Ssubclause-e\">5 per cent of adjusted liabilities in excess of $10,000,000, and</p> <p class=\"subclause-e\">  (ii) the greater of,</p> <p class=\"subsubclause-e\">  (A) up to the first $20,000,000 in market value of commodity futures contracts the sum of,</p> <p class=\"subsubsubclause-e\">  1. 2\r\nper cent of the market value for contracts, other than for securities, representing a long position or the total number of commodity futures contracts, other than for securities, representing a short position in each commodity, whichever is the greater, carried for all customers’ and firm accounts excluding exempted contracts and contracts entered into to effect a dealer’s covering transaction, and</p> <p class=\"subsubsubclause-e\">  2. the amount arrived at by the application of the securities futures capital charge,</p> <p class=\"Ssubsubclause-e\">to a maximum of $100,000, or</p> <p class=\"subsubclause-e\">  (B) the sum of,</p> <p class=\"subsubsubclause-e\">  1. ½ of 1 per cent of the market value of the total number of commodity futures contracts, other than for securities, representing a long position or the total number of commodity futures contracts, other than for securities, representing a short position in each commodity, whichever is the greater, carried for all customers’ and firm accounts excluding exempted contracts and contracts entered into to effect a dealer’s covering transaction, and</p> <p class=\"subsubsubclause-e\">  2. the amount arrived at by the application of the securities futures capital charge,</p> <p class=\"Sclause-e\">but the amount arrived at under subclauses (i) and (ii) shall be increased by the aggregate of all amounts arrived at by application of the customer concentration factor and of the commodity concentration factor, where,</p> <p class=\"subclause-e\">  (iii) the customer concentration factor is derived by calculating for each customer or group of related customers and for firm accounts the maximum aggregate price movement if the market value of all commodity futures contracts, excluding exempted contracts, held at the relevant time for that customer or group of related customers or for firm accounts were to change by the standard daily limit moves applicable to such contracts respectively, and if, for any customer or group of related customers or for firm accounts, the amount so calculated, less any funds provided in excess of margin requirements, exceeds an amount equal to 15 per cent of the liquid capital of the dealer, then the excess shall be included in the determination of the customer concentration factor, and</p> <p class=\"subclause-e\">  (iv) the commodity concentration factor is derived as to each commodity underlying commodity futures contracts held by the dealer, whether for customer or for firm account, by multiplying x by y, where,</p> <p class=\"subsubclause-e\">  (A) x is the number of commodity futures contracts equalling the greater of the long or the short position of commodity futures contracts in that commodity so held by the dealer at the relevant time, and</p> <p class=\"subsubclause-e\">  (B) y is the price movement resulting when such a commodity futures contract changes in market value by two standard daily limit moves,</p> <p class=\"Ssubclause-e\">and, where the amount so determined as to commodity futures contracts in any particular commodity, other than exempted contracts, and after deducting funds provided in excess of margin requirements as calculated under subsection (6) is, for five consecutive trading days, in excess of an amount equal to 40 per cent of the liquid capital of the dealer, then an amount equal to the excess as at the close of business on the fifth of such consecutive trading days shall be included in the determination of the commodity concentration factor.  R.R.O. 1990, Reg. 90, s. 14 (1).</p> <p class=\"subsection-e\">  (2) A futures commission merchant is not required to maintain the amount calculated in accordance with clause (1) (b) with respect to those contracts resulting from trades executed on the instructions of another registered futures commission merchant.  O. Reg. 321/98, s. 6.</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 321/98, s. 6.</p> <p class=\"subsection-e\">  (4) Every adviser shall maintain a minimum free capital of the maximum amount, if any, that is deductible under any clause of the insurance policies required under section 20, plus $5,000 in working capital or such greater amount as the Director considers necessary where the adviser exercises control over clients’ money, securities or property.  R.R.O. 1990, Reg. 90, s. 14 (4).</p> <p class=\"subsection-e\">  (5) Subsection (4) does not apply to a commodity trading adviser who advises others through publications or writings and who,</p> <p class=\"clause-e\">  (a) provides no advice as to trading in contracts that is designed or purports to be designed to accord with the financial objectives of specific clients; and</p> <p class=\"clause-e\">  (b) does not exercise control over clients’ money, securities or property.  R.R.O. 1990, Reg. 90, s. 14 (5).</p> <p class=\"subsection-e\">  (6) For the purpose of subclause (1) (b) (iv) the determination of funds provided in excess of margin requirements shall be the aggregate of amounts determined with respect to each account in which commodity futures contracts for the particular commodity are held on a short or long basis, whichever is relevant for purposes of the calculation of the commodity concentration factor, with the amount to be included for each such account being the lesser of,</p> <p class=\"clause-e\">  (a) the funds provided in excess of margin requirements held in that account at the relevant time; or</p> <p class=\"clause-e\">  (b) the amount by which the price of the net long or short position of futures contracts for the relevant commodity held in that account would change as a consequence of two standard daily limit moves.  R.R.O. 1990, Reg. 90, s. 14 (6).</p> <p class=\"subsection-e\">  (7) For the purpose of this section,</p> <p class=\"firstdef-e\">“exempted contract” means,</p> <p class=\"defclause-e\">  (a) spreads in the same commodity and entered into on the same commodity futures exchange,</p> <p class=\"defclause-e\">  (b) short hedge positions where a warehouse receipt or other evidence of title for a like quantity of the commodity to be delivered under the contract is held by the dealer, and</p> <p class=\"defclause-e\">  (c) commodity futures contracts held for financial institutions;</p> <p class=\"definition-e\">“securities futures capital charge” means that amount representing 10 per cent of the margin requirement for the total number of commodity futures contracts for securities representing a long position or the total number of commodity futures contracts for securities representing a short position in each security, whichever is the greater, carried for all customers’ and firm accounts excluding exempted contracts and contracts entered into to effect a dealer’s covering transaction.  R.R.O. 1990, Reg. 90, s. 14 (7).</p> <p class=\"subsection-e\">  (8) Despite this section, every registrant who is also a registrant under the <i>Securities Act</i> shall maintain the minimum free capital required of the registrant under the regulations under that Act.  R.R.O. 1990, Reg. 90, s. 14 (8).</p> <p class=\"heading2-e\">conditions of registration — reports</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. (1) Every adviser that is not a member in good standing of a self-regulatory body recognized under section 15 of the Act or of a commodity futures exchange registered under section 19 of the Act shall deliver to the Commission within 90 days after the end of the adviser’s financial year a copy of the adviser’s audited financial statement for the financial year prepared in accordance with generally accepted accounting principles.  O. Reg. 321/98, s. 7. (2) Every financial statement required to be delivered under subsection (1) shall include, (a) a statement of comprehensive income, a statement of changes in equity, and a statement of cashflows, each for the financial year; and (b) a statement of financial position as at the end of the financial year signed by one director of the registrant.  R.R.O. 1990, Reg. 90, s. 15 (2); O. Reg. 490/10, s. 3 (1, 2). (3) The financial statement required by subsection (1) shall be audited in accordance with generally accepted auditing standards.  R.R.O. 1990, Reg. 90, s. 15 (3). (4), (5) Revoked:  O. Reg. 490/10, s. 3 (3). (6) The financial statements required by this section shall be reported upon by a person, acceptable to the Commission, who is the auditor of the registrant or is an accountant eligible for appointment as the auditor.  R.R.O. 1990, Reg. 90, s. 15 (6).",
+            "raw_html": "<p class=\"section-e\"> <b>15.</b> (1) Every adviser that is not a member in good standing of a self-regulatory body recognized under section 15 of the Act or of a commodity futures exchange registered under section 19 of the Act shall deliver to the Commission within 90 days after the end of the adviser’s financial year a copy of the adviser’s audited financial statement for the financial year prepared in accordance with generally accepted accounting principles.  O. Reg. 321/98, s. 7.</p> <p class=\"subsection-e\">  (2) Every financial statement required to be delivered under subsection (1) shall include,</p> <p class=\"clause-e\">  (a) a statement of comprehensive income, a statement of changes in equity, and a statement of cashflows, each for the financial year; and</p> <p class=\"clause-e\">  (b) a statement of financial position as at the end of the financial year signed by one director of the registrant.  R.R.O. 1990, Reg. 90, s. 15 (2); O. Reg. 490/10, s. 3 (1, 2).</p> <p class=\"subsection-e\">  (3) The financial statement required by subsection (1) shall be audited in accordance with generally accepted auditing standards.  R.R.O. 1990, Reg. 90, s. 15 (3).</p> <p class=\"subsection-e\">  (4), (5) <span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 490/10, s. 3 (3).</p> <p class=\"subsection-e\">  (6) The financial statements required by this section shall be reported upon by a person, acceptable to the Commission, who is the auditor of the registrant or is an accountant eligible for appointment as the auditor.  R.R.O. 1990, Reg. 90, s. 15 (6).</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. Every registrant shall, if the Commission at any time requests, enter into a subordination agreement in the form prescribed by the Commission.  R.R.O. 1990, Reg. 90, s. 16; O. Reg. 321/98, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>16.</b> Every registrant shall, if the Commission at any time requests, enter into a subordination agreement in the form prescribed by the Commission.  R.R.O. 1990, Reg. 90, s. 16; O. Reg. 321/98, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. Every futures commission merchant that is not a member in good standing of a self-regulatory body recognized by the Commission under section 15 of the Act shall deliver to the Commission within fifteen business days of the end of each month a monthly financial and position report in such form as is prescribed by the published requirements of the Commission.  R.R.O. 1990, Reg. 90, s. 17; O. Reg. 321/98, s. 9.",
+            "raw_html": "<p class=\"section-e\"> <b>17.</b> Every futures commission merchant that is not a member in good standing of a self-regulatory body recognized by the Commission under section 15 of the Act shall deliver to the Commission within fifteen business days of the end of each month a monthly financial and position report in such form as is prescribed by the published requirements of the Commission.  R.R.O. 1990, Reg. 90, s. 17; O. Reg. 321/98, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. (1) Every registrant that is not a member in good standing of a self-regulatory body recognized by the Commission under section 15 of the Act shall issue a direction to an auditor instructing the auditor to conduct any audit requested by the Commission or the Director during the registrant’s registration or renewal of registration and shall deliver a copy of the direction to the Commission, (a) with the registrant’s application for registration; and (b) immediately after the registrant changes auditors.  R.R.O. 1990, Reg. 90, s. 18 (1); O. Reg. 321/98, s. 10. (2) Where the Commission or the Director requests an auditor to conduct an audit of the financial affairs of a registrant in accordance with a direction referred to in subsection (1), all fees related to the audit shall be paid by the registrant.  R.R.O. 1990, Reg. 90, s. 18 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>18.</b> (1) Every registrant that is not a member in good standing of a self-regulatory body recognized by the Commission under section 15 of the Act shall issue a direction to an auditor instructing the auditor to conduct any audit requested by the Commission or the Director during the registrant’s registration or renewal of registration and shall deliver a copy of the direction to the Commission,</p> <p class=\"clause-e\">  (a) with the registrant’s application for registration; and</p> <p class=\"clause-e\">  (b) immediately after the registrant changes auditors.  R.R.O. 1990, Reg. 90, s. 18 (1); O. Reg. 321/98, s. 10.</p> <p class=\"subsection-e\">  (2) Where the Commission or the Director requests an auditor to conduct an audit of the financial affairs of a registrant in accordance with a direction referred to in subsection (1), all fees related to the audit shall be paid by the registrant.  R.R.O. 1990, Reg. 90, s. 18 (2).</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. (1) Every audit required under section 18 of the Act shall relate to the affairs of the registrant and shall be performed in accordance with generally accepted auditing standards and the audit requirements published by the Commission.  R.R.O. 1990, Reg. 90, s. 19 (1). (2) Every report of an auditor required under section 18 of the Act shall be prepared in accordance with generally accepted auditing standards.  R.R.O. 1990, Reg. 90, s. 19 (2). (3) No registrant shall withhold, destroy or conceal any information or documents or otherwise fail to cooperate with a reasonable request made by an auditor of a registrant in the course of an audit required under section 18 of the Act.  R.R.O. 1990, Reg. 90, s. 19 (3). conditions of registration — insurance",
+            "raw_html": "<p class=\"section-e\"> <b>19.</b> (1) Every audit required under section 18 of the Act shall relate to the affairs of the registrant and shall be performed in accordance with generally accepted auditing standards and the audit requirements published by the Commission.  R.R.O. 1990, Reg. 90, s. 19 (1).</p> <p class=\"subsection-e\">  (2) Every report of an auditor required under section 18 of the Act shall be prepared in accordance with generally accepted auditing standards.  R.R.O. 1990, Reg. 90, s. 19 (2).</p> <p class=\"subsection-e\">  (3) No registrant shall withhold, destroy or conceal any information or documents or otherwise fail to cooperate with a reasonable request made by an auditor of a registrant in the course of an audit required under section 18 of the Act.  R.R.O. 1990, Reg. 90, s. 19 (3).</p> <p class=\"heading2-e\">conditions of registration — insurance</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. (1) Except where the Director is satisfied in a particular case that reduced or no coverage would not be prejudicial to the public interest, every futures commission merchant shall maintain insurance by means of, (a) a broker’s blanket bond with trading losses coverage; or (b) a comprehensive dishonesty, disappearance and destruction policy with trading losses coverage, on terms acceptable to the Director, in an amount of not less than $200,000, or such larger amount as is indicated to be necessary by the statement referred to in section 21.  R.R.O. 1990, Reg. 90, s. 20 (1). (2) Revoked:  O. Reg. 321/98, s. 11. (3) Except where the Director is satisfied in a particular case that reduced or no coverage would not be prejudicial to the public interest, every adviser shall maintain insurance on terms acceptable to the Director in an amount of not less than $10,000 or such larger amount as is indicated to be necessary by the statement referred to in section 21.  R.R.O. 1990, Reg. 90, s. 20 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>20.</b> (1) Except where the Director is satisfied in a particular case that reduced or no coverage would not be prejudicial to the public interest, every futures commission merchant shall maintain insurance by means of,</p> <p class=\"clause-e\">  (a) a broker’s blanket bond with trading losses coverage; or</p> <p class=\"clause-e\">  (b) a comprehensive dishonesty, disappearance and destruction policy with trading losses coverage,</p> <p class=\"Ssection-e\">on terms acceptable to the Director, in an amount of not less than $200,000, or such larger amount as is indicated to be necessary by the statement referred to in section 21.  R.R.O. 1990, Reg. 90, s. 20 (1).</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 321/98, s. 11.</p> <p class=\"subsection-e\">  (3) Except where the Director is satisfied in a particular case that reduced or no coverage would not be prejudicial to the public interest, every adviser shall maintain insurance on terms acceptable to the Director in an amount of not less than $10,000 or such larger amount as is indicated to be necessary by the statement referred to in section 21.  R.R.O. 1990, Reg. 90, s. 20 (3).</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. (1) Except for members of a self-regulatory body recognized by the Commission under section 15 of the Act, every person or company applying for registration or renewal of registration as a dealer or adviser shall deliver to the Director with the application a certified statement that full consideration has been given by the directors of the dealer or adviser to the amount of insurance necessary to cover insurable risks in the business of the applicant and that either, (a) the minimum amount of coverage required by this Regulation is sufficient; or (b) the minimum amount of coverage required by this Regulation is not sufficient but that an indicated amount of coverage would be sufficient.  R.R.O. 1990, Reg. 90, s. 21 (1); O. Reg. 321/98, s. 12. (2) No registration or renewal of registration shall be granted where in the opinion of the Director the minimum amount of insurance required by this Regulation or, where a larger amount is indicated in a certified statement referred to in subsection (1), the amount stated in the statement is not sufficient.  R.R.O. 1990, Reg. 90, s. 21 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>21.</b> (1) Except for members of a self-regulatory body recognized by the Commission under section 15 of the Act, every person or company applying for registration or renewal of registration as a dealer or adviser shall deliver to the Director with the application a certified statement that full consideration has been given by the directors of the dealer or adviser to the amount of insurance necessary to cover insurable risks in the business of the applicant and that either,</p> <p class=\"clause-e\">  (a) the minimum amount of coverage required by this Regulation is sufficient; or</p> <p class=\"clause-e\">  (b) the minimum amount of coverage required by this Regulation is not sufficient but that an indicated amount of coverage would be sufficient.  R.R.O. 1990, Reg. 90, s. 21 (1); O. Reg. 321/98, s. 12.</p> <p class=\"subsection-e\">  (2) No registration or renewal of registration shall be granted where in the opinion of the Director the minimum amount of insurance required by this Regulation or, where a larger amount is indicated in a certified statement referred to in subsection (1), the amount stated in the statement is not sufficient.  R.R.O. 1990, Reg. 90, s. 21 (2).</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22. Every registrant shall forthwith notify the Commission in writing of, (a) any change in; or (b) any claim, exceeding the lesser of $25,000 or 5 per cent of the minimum free capital that is required to be maintained under section 14, made under, the provisions of any insurance policy maintained pursuant to the requirements of this Part.  R.R.O. 1990, Reg. 90, s. 22. Futures Commission Merchants conditions of registration — compensation fund",
+            "raw_html": "<p class=\"section-e\"> <b>22.</b> Every registrant shall forthwith notify the Commission in writing of,</p> <p class=\"clause-e\">  (a) any change in; or</p> <p class=\"clause-e\">  (b) any claim, exceeding the lesser of $25,000 or 5 per cent of the minimum free capital that is required to be maintained under section 14, made under,</p> <p class=\"Ssection-e\">the provisions of any insurance policy maintained pursuant to the requirements of this Part.  R.R.O. 1990, Reg. 90, s. 22.</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Futures Commission Merchants</p> <p class=\"heading2-e\">conditions of registration — compensation fund</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23. Every registered futures commission merchant shall participate in, (a) a compensation fund that a self-regulatory body recognized under section 15 of the Act or a commodity futures exchange registered under section 19 of the Act participates in; (b) a compensation fund established by a self-regulatory body recognized under section 15 of the Act or a commodity futures exchange registered under section 19 of the Act; or (c) a contingency trust fund established by a trust corporation registered under the Loan and Trust Corporations Act.  O. Reg. 321/98, s. 13. Futures Commission Merchants and Advisers conditions of registration — record keeping",
+            "raw_html": "<p class=\"section-e\"> <b>23.</b> Every registered futures commission merchant shall participate in,</p> <p class=\"clause-e\">  (a) a compensation fund that a self-regulatory body recognized under section 15 of the Act or a commodity futures exchange registered under section 19 of the Act participates in;</p> <p class=\"clause-e\">  (b) a compensation fund established by a self-regulatory body recognized under section 15 of the Act or a commodity futures exchange registered under section 19 of the Act; or</p> <p class=\"clause-e\">  (c) a contingency trust fund established by a trust corporation registered under the <i>Loan and Trust Corporations Act</i>.  O. Reg. 321/98, s. 13.</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Futures Commission Merchants and Advisers</p> <p class=\"heading2-e\">conditions of registration — record keeping</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 24. (1) Every registered futures commission merchant or adviser shall maintain books and records necessary to record properly the futures commission merchant’s or adviser’s business and financial affairs.  O. Reg. 321/98, s. 14 (1). (2) All records may be kept by means of mechanical, electronic or other devices where such method of record keeping is not prohibited under other applicable legislation and the registrant, (a) takes adequate precautions, appropriate to the means used, to guard against the risk of falsification of the information recorded; and (b) provides a means for making the information available in an accurate and intelligible form within a reasonable time to any person lawfully entitled to examine the records.  R.R.O. 1990, Reg. 90, s. 24 (2). (3) Without restricting the generality of subsection (1), a registrant shall maintain each of the following books and records that, in the opinion of the Director, are appropriate to the registrant’s business: 1. Blotters, or other records of original entry, containing an itemized daily record of all trades in contracts, all receipts and disbursements of cash, all other debits and credits, the account for which each transaction was effected, the date of the transaction, the commodity futures exchange, the name of the dealer, if any, used by the registrant as the registrant’s agent to effect the trade and in the case of trades in commodity futures contracts, i. the commodity and quantity bought or sold, ii. the delivery month and year, iii. the price at which the contract was entered into, or in the case of trades in commodity futures options, iv. the type and number, v. the premium, vi. the commodity futures contract that is the subject of the commodity futures option, vii. the delivery month and year of the commodity futures contract that is the subject of the commodity futures option, viii. the declaration date, and ix. the striking price. 2. Ledgers or other records maintained in detail reflecting all the assets and liabilities, income and expense and capital accounts. 3. Ledger accounts or other records itemizing separately for each account of every customer all trades in contracts and all other debits and credits to the account setting forth, with respect to all securities and property received to margin, guarantee or to secure the trades or contracts of customers, i. a description of the securities or property received, ii. the date when received, iii. the identity of any deposit institution where such securities or property are segregated, iv. the dates of deposit and withdrawal from such deposit institutions, and v. the date of return of such securities or property to the customer or other disposition thereof, together with the facts and circumstances of such other disposition, and with respect to any investments of such money, proceeds or funds segregated for the benefit of customers, vi. the date on which such investments were made, vii. the identity of the person or company through or from whom such securities were purchased, viii. the amount invested, ix. a description of the securities invested in, x. the identity of the deposit institution, other dealer or dealer registered under the Securities Act where such securities are deposited, xi. the date of liquidation or other disposition and the money received on such disposition, and xii. the identity of the person or company to or through whom such securities were disposed. 4. Ledgers or other records reflecting, i. money, securities and property which must be segregated for the benefit of customers under section 46 of the Act, and ii. money borrowed and money loaned, together with a record of the collateral therefor and any substitutions in the collateral. 5. A commodity record or ledger showing separately for each commodity as of the trade date all long positions or short positions in commodity futures contracts carried for the registrant’s account or for the account of customers, and, in all cases, the name or designation of the account in which each position is carried. 6. An adequate record of each order and of any other instruction given or received with respect to a trade in a contract whether executed or unexecuted, showing, i. the terms and conditions of the order or instruction and of any modification or cancellation of the order or instruction, ii. the account to which the order or instruction relates, iii. where the order relates to an omnibus account, the component accounts within the omnibus account on whose behalf the order is to be executed and, if not dictated by the policy referred to in clause 27 (2) (h), the allocation among the component accounts intended on execution, iv. where the order or instruction is placed by an individual other than, A. the person in whose name the account is operated, or B. an individual duly authorized to place orders or instructions on behalf of a customer that is a company, the name, sales number or designation of the individual placing the order or instruction, v. the time of the entry of the order or instruction, and, where the order is entered pursuant to the exercise of discretionary power of a registrant or any employee of a registrant, a statement to that effect, vi. to the extent feasible, the time of execution or cancellation, and vii. the time of report of execution. 7. Copies or other records of confirmations required by sections 42 and 45 of the Act, statements of purchase and sale required by section 43 of the Act, monthly statements required by section 44 of the Act and copies of notice of all other debits and credits of money, securities, property and proceeds of loans and other items for the accounts of customers. 8. Subject to subsection 28 (1), a customer record in respect of each amount containing, i. the name and address of the beneficial owner and the guarantor, if any, of the account, and ii. where trading instructions are accepted from a person or company other than the customer, written authorization or ratification from the customer naming the person or company, but, in the case of a joint account or an account of a company, such records are required only in respect of the person or persons authorized to transact business for the account. 9. A record of the proof of money balances of all ledger accounts in the form of trial balances and a record of a reasonable calculation of minimum free capital, adjusted liabilities and capital required, prepared for each month within a reasonable time after the month.  R.R.O. 1990, Reg. 90, s. 24 (3); O. Reg. 321/98, s. 14 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>24.</b> (1) Every registered futures commission merchant or adviser shall maintain books and records necessary to record properly the futures commission merchant’s or adviser’s business and financial affairs.  O. Reg. 321/98, s. 14 (1).</p> <p class=\"subsection-e\">  (2) All records may be kept by means of mechanical, electronic or other devices where such method of record keeping is not prohibited under other applicable legislation and the registrant,</p> <p class=\"clause-e\">  (a) takes adequate precautions, appropriate to the means used, to guard against the risk of falsification of the information recorded; and</p> <p class=\"clause-e\">  (b) provides a means for making the information available in an accurate and intelligible form within a reasonable time to any person lawfully entitled to examine the records.  R.R.O. 1990, Reg. 90, s. 24 (2).</p> <p class=\"subsection-e\">  (3) Without restricting the generality of subsection (1), a registrant shall maintain each of the following books and records that, in the opinion of the Director, are appropriate to the registrant’s business:</p> <p class=\"paragraph-e\">  1. Blotters, or other records of original entry, containing an itemized daily record of all trades in contracts, all receipts and disbursements of cash, all other debits and credits, the account for which each transaction was effected, the date of the transaction, the commodity futures exchange, the name of the dealer, if any, used by the registrant as the registrant’s agent to effect the trade and in the case of trades in commodity futures contracts,</p> <p class=\"subpara-e\">  i. the commodity and quantity bought or sold,</p> <p class=\"subpara-e\">  ii. the delivery month and year,</p> <p class=\"subpara-e\">  iii. the price at which the contract was entered into, or</p> <p class=\"Sparagraph-e\">in the case of trades in commodity futures options,</p> <p class=\"subpara-e\">  iv. the type and number,</p> <p class=\"subpara-e\">  v. the premium,</p> <p class=\"subpara-e\">  vi. the commodity futures contract that is the subject of the commodity futures option,</p> <p class=\"subpara-e\">  vii. the delivery month and year of the commodity futures contract that is the subject of the commodity futures option,</p> <p class=\"subpara-e\">  viii. the declaration date, and</p> <p class=\"subpara-e\">  ix. the striking price.</p> <p class=\"paragraph-e\">  2. Ledgers or other records maintained in detail reflecting all the assets and liabilities, income and expense and capital accounts.</p> <p class=\"paragraph-e\">  3. Ledger accounts or other records itemizing separately for each account of every customer all trades in contracts and all other debits and credits to the account setting forth, with respect to all securities and property received to margin, guarantee or to secure the trades or contracts of customers,</p> <p class=\"subpara-e\">  i. a description of the securities or property received,</p> <p class=\"subpara-e\">  ii. the date when received,</p> <p class=\"subpara-e\">  iii. the identity of any deposit institution where such securities or property are segregated,</p> <p class=\"subpara-e\">  iv. the dates of deposit and withdrawal from such deposit institutions, and</p> <p class=\"subpara-e\">  v. the date of return of such securities or property to the customer or other disposition thereof, together with the facts and circumstances of such other disposition,</p> <p class=\"Sparagraph-e\">and with respect to any investments of such money, proceeds or funds segregated for the benefit of customers,</p> <p class=\"subpara-e\">  vi. the date on which such investments were made,</p> <p class=\"subpara-e\">  vii. the identity of the person or company through or from whom such securities were purchased,</p> <p class=\"subpara-e\">  viii. the amount invested,</p> <p class=\"subpara-e\">  ix. a description of the securities invested in,</p> <p class=\"subpara-e\">  x. the identity of the deposit institution, other dealer or dealer registered under the <i>Securities Act</i> where such securities are deposited,</p> <p class=\"subpara-e\">  xi. the date of liquidation or other disposition and the money received on such disposition, and</p> <p class=\"subpara-e\">  xii. the identity of the person or company to or through whom such securities were disposed.</p> <p class=\"paragraph-e\">  4. Ledgers or other records reflecting,</p> <p class=\"subpara-e\">  i. money, securities and property which must be segregated for the benefit of customers under section 46 of the Act, and</p> <p class=\"subpara-e\">  ii. money borrowed and money loaned, together with a record of the collateral therefor and any substitutions in the collateral.</p> <p class=\"paragraph-e\">  5. A commodity record or ledger showing separately for each commodity as of the trade date all long positions or short positions in commodity futures contracts carried for the registrant’s account or for the account of customers, and, in all cases, the name or designation of the account in which each position is carried.</p> <p class=\"paragraph-e\">  6. An adequate record of each order and of any other instruction given or received with respect to a trade in a contract whether executed or unexecuted, showing,</p> <p class=\"subpara-e\">  i. the terms and conditions of the order or instruction and of any modification or cancellation of the order or instruction,</p> <p class=\"subpara-e\">  ii. the account to which the order or instruction relates,</p> <p class=\"subpara-e\">  iii. where the order relates to an omnibus account, the component accounts within the omnibus account on whose behalf the order is to be executed and, if not dictated by the policy referred to in clause 27 (2) (h), the allocation among the component accounts intended on execution,</p> <p class=\"subpara-e\">  iv. where the order or instruction is placed by an individual other than,</p> <p class=\"subsubpara-e\">  A. the person in whose name the account is operated, or</p> <p class=\"subsubpara-e\">  B. an individual duly authorized to place orders or instructions on behalf of a customer that is a company,</p> <p class=\"Ssubpara-e\">the name, sales number or designation of the individual placing the order or instruction,</p> <p class=\"subpara-e\">  v. the time of the entry of the order or instruction, and, where the order is entered pursuant to the exercise of discretionary power of a registrant or any employee of a registrant, a statement to that effect,</p> <p class=\"subpara-e\">  vi. to the extent feasible, the time of execution or cancellation, and</p> <p class=\"subpara-e\">  vii. the time of report of execution.</p> <p class=\"paragraph-e\">  7. Copies or other records of confirmations required by sections 42 and 45 of the Act, statements of purchase and sale required by section 43 of the Act, monthly statements required by section 44 of the Act and copies of notice of all other debits and credits of money, securities, property and proceeds of loans and other items for the accounts of customers.</p> <p class=\"paragraph-e\">  8. Subject to subsection 28 (1), a customer record in respect of each amount containing,</p> <p class=\"subpara-e\">  i. the name and address of the beneficial owner and the guarantor, if any, of the account, and</p> <p class=\"subpara-e\">  ii. where trading instructions are accepted from a person or company other than the customer, written authorization or ratification from the customer naming the person or company,</p> <p class=\"Sparagraph-e\">but, in the case of a joint account or an account of a company, such records are required only in respect of the person or persons authorized to transact business for the account.</p> <p class=\"paragraph-e\">  9. A record of the proof of money balances of all ledger accounts in the form of trial balances and a record of a reasonable calculation of minimum free capital, adjusted liabilities and capital required, prepared for each month within a reasonable time after the month.  R.R.O. 1990, Reg. 90, s. 24 (3); O. Reg. 321/98, s. 14 (2).</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. Unless otherwise required by applicable legislation to be maintained for a longer period of time, (a) documents relating to unexecuted orders or instructions as prescribed by paragraph 6 of subsection 24 (3); (b) confirmations as prescribed by sections 42 and 45 of the Act; (c) statements of purchase and sale as prescribed by section 43 of the Act; and (d) monthly statements as prescribed by section 44 of the Act, shall be maintained for a period of at least two years, and (e) documents relating to executed orders or instructions as prescribed in paragraph 6 of subsection 24 (3) shall be maintained for a period of at least six years and shall be retained in a readily accessible location for the first two years of that six-year period.  R.R.O. 1990, Reg. 90, s. 25.",
+            "raw_html": "<p class=\"section-e\"> <b>25.</b> Unless otherwise required by applicable legislation to be maintained for a longer period of time,</p> <p class=\"clause-e\">  (a) documents relating to unexecuted orders or instructions as prescribed by paragraph 6 of subsection 24 (3);</p> <p class=\"clause-e\">  (b) confirmations as prescribed by sections 42 and 45 of the Act;</p> <p class=\"clause-e\">  (c) statements of purchase and sale as prescribed by section 43 of the Act; and</p> <p class=\"clause-e\">  (d) monthly statements as prescribed by section 44 of the Act,</p> <p class=\"Ssection-e\">shall be maintained for a period of at least two years, and</p> <p class=\"clause-e\">  (e) documents relating to executed orders or instructions as prescribed in paragraph 6 of subsection 24 (3) shall be maintained for a period of at least six years and shall be retained in a readily accessible location for the first two years of that six-year period.  R.R.O. 1990, Reg. 90, s. 25.</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. (1) Subject to subsection (2), every registrant shall maintain the situs of the registrant’s books and records in Ontario.  R.R.O. 1990, Reg. 90, s. 26 (1). (2) Where the head office of the registrant is not in Ontario, the registrant shall maintain in Ontario such books and records as are necessary to record properly the registrant’s business transactions and financial affairs in Ontario.  R.R.O. 1990, Reg. 90, s. 26 (2). conditions of registration — new accounts, supervision and procedures",
+            "raw_html": "<p class=\"section-e\"> <b>26.</b> (1) Subject to subsection (2), every registrant shall maintain the situs of the registrant’s books and records in Ontario.  R.R.O. 1990, Reg. 90, s. 26 (1).</p> <p class=\"subsection-e\">  (2) Where the head office of the registrant is not in Ontario, the registrant shall maintain in Ontario such books and records as are necessary to record properly the registrant’s business transactions and financial affairs in Ontario.  R.R.O. 1990, Reg. 90, s. 26 (2).</p> <p class=\"heading2-e\">conditions of registration — new accounts, supervision and procedures</p>"
+        },
+        {
+            "ahref_id": "#27.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27. (1) No dealer or adviser shall be granted registration or renewal of registration unless the dealer or adviser has established a procedure to supervise the conduct of the dealer’s or adviser’s business and has submitted it to, and has had the procedure approved by, the Director.  R.R.O. 1990, Reg. 90, s. 27 (1); O. Reg. 321/98, s. 15. (2) The procedure required by subsection (1) shall be set out in writing and shall relate to, at least, (a) the acceptance of new accounts; (b) the review and endorsement of transactions; (c) the regular review of correspondence; (d) the regular review of each client’s account; (e) the receipt and control of clients’ money, securities and property, including the authorization, allocation and delivery of clients’ securities to deposit institutions as collateral for a loan; (f) the investigation of individuals prior to sponsoring applications for registration as a salesperson of a registered dealer or as a partner or officer of a registered dealer or as a partner or officer of a registered adviser, as the case may be; (g) the requirements relating to discretionary accounts, if any, including minimum equity levels and prompt approval by a designated partner or officer of each order and frequent review of the account; (h) the policy followed with respect to allocation of executed orders among component accounts within omnibus accounts; (i) the operation and review of firm trading accounts; and (j) the review of the supervisory procedure.  R.R.O. 1990, Reg. 90, s. 27 (2). (3) The names and offices of the individuals responsible for the procedure required by subsection (1) shall be filed with the Director on submission of the procedure and thereafter any changes in such names and offices shall be filed with the Director forthwith.  R.R.O. 1990, Reg. 90, s. 27 (3). (4) Every dealer and adviser shall forthwith notify the Director in writing of any material change in the procedure required by subsection (1) to supervise the conduct of the dealer’s or adviser’s business.  R.R.O. 1990, Reg. 90, s. 27 (4). (5) Every dealer and adviser shall comply in the procedure to supervise the conduct of the dealer’s or adviser’s business that has been submitted to the Director.  R.R.O. 1990, Reg. 90, s. 27 (5). (6) This section does not apply to registrants who are members of a self-regulatory body recognized by the Commission under section 15 of the Act.  R.R.O. 1990, Reg. 90, s. 27 (6).",
+            "raw_html": "<p class=\"section-e\"> <b>27.</b> (1) No dealer or adviser shall be granted registration or renewal of registration unless the dealer or adviser has established a procedure to supervise the conduct of the dealer’s or adviser’s business and has submitted it to, and has had the procedure approved by, the Director.  R.R.O. 1990, Reg. 90, s. 27 (1); O. Reg. 321/98, s. 15.</p> <p class=\"subsection-e\">  (2) The procedure required by subsection (1) shall be set out in writing and shall relate to, at least,</p> <p class=\"clause-e\">  (a) the acceptance of new accounts;</p> <p class=\"clause-e\">  (b) the review and endorsement of transactions;</p> <p class=\"clause-e\">  (c) the regular review of correspondence;</p> <p class=\"clause-e\">  (d) the regular review of each client’s account;</p> <p class=\"clause-e\">  (e) the receipt and control of clients’ money, securities and property, including the authorization, allocation and delivery of clients’ securities to deposit institutions as collateral for a loan;</p> <p class=\"clause-e\">  (f) the investigation of individuals prior to sponsoring applications for registration as a salesperson of a registered dealer or as a partner or officer of a registered dealer or as a partner or officer of a registered adviser, as the case may be;</p> <p class=\"clause-e\">  (g) the requirements relating to discretionary accounts, if any, including minimum equity levels and prompt approval by a designated partner or officer of each order and frequent review of the account;</p> <p class=\"clause-e\">  (h) the policy followed with respect to allocation of executed orders among component accounts within omnibus accounts;</p> <p class=\"clause-e\">  (i) the operation and review of firm trading accounts; and</p> <p class=\"clause-e\">  (j) the review of the supervisory procedure.  R.R.O. 1990, Reg. 90, s. 27 (2).</p> <p class=\"subsection-e\">  (3) The names and offices of the individuals responsible for the procedure required by subsection (1) shall be filed with the Director on submission of the procedure and thereafter any changes in such names and offices shall be filed with the Director forthwith.  R.R.O. 1990, Reg. 90, s. 27 (3).</p> <p class=\"subsection-e\">  (4) Every dealer and adviser shall forthwith notify the Director in writing of any material change in the procedure required by subsection (1) to supervise the conduct of the dealer’s or adviser’s business.  R.R.O. 1990, Reg. 90, s. 27 (4).</p> <p class=\"subsection-e\">  (5) Every dealer and adviser shall comply in the procedure to supervise the conduct of the dealer’s or adviser’s business that has been submitted to the Director.  R.R.O. 1990, Reg. 90, s. 27 (5).</p> <p class=\"subsection-e\">  (6) This section does not apply to registrants who are members of a self-regulatory body recognized by the Commission under section 15 of the Act.  R.R.O. 1990, Reg. 90, s. 27 (6).</p>"
+        },
+        {
+            "ahref_id": "#28.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 28. (1) Each registrant that is a dealer, commodity trading counsel or commodity trading manager shall, before accepting the account of a customer, make enquiries that, (a) will enable the registrant to establish the identity of the customer and, where appropriate, (i) the credit worthiness of the customer, in accordance with guidelines established by the registrant, and (ii) the reputation of the customer, if information known to the registrant causes doubt whether the customer is of good reputation; and (b) will enable the registrant to assess the suitability of trading by the customer in view of the markets in which the customer intends to trade, the scale of trading the customer intends to undertake, and the general financial needs and objectives of the customer.  R.R.O. 1990, Reg. 90, s. 28 (1). (2) Every dealer, commodity trading counsel and commodity trading manager shall, as frequently as is appropriate in view of the particular financial circumstances of the customer, obtain, by direct enquiry of the customer or by other means, information enabling the dealer, counsel or manager to determine whether the assessment under clause (1) (b) of the suitability of trading by the customer continues to be accurate.  R.R.O. 1990, Reg. 90, s. 28 (2). (3) Clause (1) (b) and subsection (2) do not apply to a dealer who effects a trade on the instructions of a commodity trading manager, another dealer, an adviser registered under the Securities Act, or a financial institution.  R.R.O. 1990, Reg. 90, s. 28 (3). (4) For the purposes of complying with the requirements of subsection (1) as to obtaining appropriate information concerning new customers, use of such form as is published by the Commission in this respect is sufficient, but other forms or procedures may be used where they are more appropriate.  R.R.O. 1990, Reg. 90, s. 28 (4). (5) Despite subsections (1) and (3), where an account is opened and traded by a commodity trading counsel or commodity trading manager on behalf of a customer or customers, (a) where the commodity trading counsel or commodity trading manager executes orders in his, her or its own name or identifies his, her or its customer or customers by means of a code or symbols the dealer must satisfy itself as to the credit worthiness of the commodity trading counsel or commodity trading manager but shall not otherwise have any responsibility for the suitability of trading for the customer or customers of the commodity trading counsel or commodity trading manager; and (b) where the commodity trading counsel or commodity trading manager executes orders in the name of his, her or its customer with no agreement that payment of the account is guaranteed by the commodity trading counsel or commodity trading manager the dealer shall, (i) obtain full information concerning the customer with a view to determining the credit worthiness of the customer, (ii) obtain a letter of undertaking from the commodity trading counsel or commodity trading manager which letter shall refer to at least the familiarity of such commodity trading counsel or commodity trading manager with applicable rules of account supervision and which letter shall contain at least a covenant to make the investigation contemplated by such rules and to advise, where known, if the customer is, (A) a\r\npartner, officer, director, employee or security holder of a dealer, (B) an associate of the individuals referred to in sub-subclause (A), or (C) an affiliate of a dealer, but the dealer shall not have responsibility for determining the suitability of any trade for the customer.  R.R.O. 1990, Reg. 90, s. 28 (5).",
+            "raw_html": "<p class=\"section-e\"> <b>28.</b> (1) Each registrant that is a dealer, commodity trading counsel or commodity trading manager shall, before accepting the account of a customer, make enquiries that,</p> <p class=\"clause-e\">  (a) will enable the registrant to establish the identity of the customer and, where appropriate,</p> <p class=\"subclause-e\">  (i) the credit worthiness of the customer, in accordance with guidelines established by the registrant, and</p> <p class=\"subclause-e\">  (ii) the reputation of the customer, if information known to the registrant causes doubt whether the customer is of good reputation; and</p> <p class=\"clause-e\">  (b) will enable the registrant to assess the suitability of trading by the customer in view of the markets in which the customer intends to trade, the scale of trading the customer intends to undertake, and the general financial needs and objectives of the customer.  R.R.O. 1990, Reg. 90, s. 28 (1).</p> <p class=\"subsection-e\">  (2) Every dealer, commodity trading counsel and commodity trading manager shall, as frequently as is appropriate in view of the particular financial circumstances of the customer, obtain, by direct enquiry of the customer or by other means, information enabling the dealer, counsel or manager to determine whether the assessment under clause (1) (b) of the suitability of trading by the customer continues to be accurate.  R.R.O. 1990, Reg. 90, s. 28 (2).</p> <p class=\"subsection-e\">  (3) Clause (1) (b) and subsection (2) do not apply to a dealer who effects a trade on the instructions of a commodity trading manager, another dealer, an adviser registered under the <i>Securities Act</i>, or a financial institution.  R.R.O. 1990, Reg. 90, s. 28 (3).</p> <p class=\"subsection-e\">  (4) For the purposes of complying with the requirements of subsection (1) as to obtaining appropriate information concerning new customers, use of such form as is published by the Commission in this respect is sufficient, but other forms or procedures may be used where they are more appropriate.  R.R.O. 1990, Reg. 90, s. 28 (4).</p> <p class=\"subsection-e\">  (5) Despite subsections (1) and (3), where an account is opened and traded by a commodity trading counsel or commodity trading manager on behalf of a customer or customers,</p> <p class=\"clause-e\">  (a) where the commodity trading counsel or commodity trading manager executes orders in his, her or its own name or identifies his, her or its customer or customers by means of a code or symbols the dealer must satisfy itself as to the credit worthiness of the commodity trading counsel or commodity trading manager but shall not otherwise have any responsibility for the suitability of trading for the customer or customers of the commodity trading counsel or commodity trading manager; and</p> <p class=\"clause-e\">  (b) where the commodity trading counsel or commodity trading manager executes orders in the name of his, her or its customer with no agreement that payment of the account is guaranteed by the commodity trading counsel or commodity trading manager the dealer shall,</p> <p class=\"subclause-e\">  (i) obtain full information concerning the customer with a view to determining the credit worthiness of the customer,</p> <p class=\"subclause-e\">  (ii) obtain a letter of undertaking from the commodity trading counsel or commodity trading manager which letter shall refer to at least the familiarity of such commodity trading counsel or commodity trading manager with applicable rules of account supervision and which letter shall contain at least a covenant to make the investigation contemplated by such rules and to advise, where known, if the customer is,</p> <p class=\"subsubclause-e\">  (A) a\r\npartner, officer, director, employee or security holder of a dealer,</p> <p class=\"subsubclause-e\">  (B) an associate of the individuals referred to in sub-subclause (A), or</p> <p class=\"subsubclause-e\">  (C) an affiliate of a dealer,</p> <p class=\"Sclause-e\">but the dealer shall not have responsibility for determining the suitability of any trade for the customer.  R.R.O. 1990, Reg. 90, s. 28 (5).</p>"
+        },
+        {
+            "ahref_id": "#29.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 29. (1) In this section, “responsible person” means a commodity trading manager and every individual who is a partner, director or officer of a commodity trading manager together with every affiliate of a commodity trading manager and every individual who is a director, officer or employee of such affiliate or who is an employee of the commodity trading manager, if the affiliate or the individual participates in the formulation of, or has access prior to implementation to, trading decisions made on behalf of or the advice given to the client of the commodity trading manager.  R.R.O. 1990, Reg. 90, s. 29 (1). (2) Every commodity trading counsel shall maintain standards directed to ensuring fairness in the allocation of trading opportunities among the commodity trading counsel’s customers and a copy of the policies established shall be furnished to each customer and filed with the Commission.  R.R.O. 1990, Reg. 90, s. 29 (2). (3) Every commodity trading counsel shall charge clients directly for services and such charge may be based upon the dollar value of the client’s portfolio, but not on the value or volume of the transactions initiated for the client and, except with the written agreement of the client, shall not be contingent upon profits or performance.  R.R.O. 1990, Reg. 90, s. 29 (3). (4) Every commodity trading manager shall obtain an undertaking from every responsible person not to trade for his, her or its account, as the case may be, or knowingly permit or arrange for any associate to trade, in reliance upon information as to trades made or to be made for the account of a client of the commodity trading manager and the commodity trading manager shall establish and maintain procedures designed to disclose when a responsible person or an associate of a responsible person has contravened the undertaking.  R.R.O. 1990, Reg. 90, s. 29 (4). (5) Where there has been a material change in the ownership or control of a commodity trading counsel or where it is proposed that a commodity trading counsel sell or assign the account of a customer in whole or in part to another registrant, the commodity trading counsel shall, prior to such sale or assignment or immediately after such material change, as the case may be, give a written explanation to the customer of the proposal or change and the commodity trading counsel shall inform the customer of the customer’s right to withdraw the customer’s account.  R.R.O. 1990, Reg. 90, s. 29 (5).",
+            "raw_html": "<p class=\"section-e\"> <b>29.</b> (1) In this section,</p> <p class=\"firstdef-e\">“responsible person” means a commodity trading manager and every individual who is a partner, director or officer of a commodity trading manager together with every affiliate of a commodity trading manager and every individual who is a director, officer or employee of such affiliate or who is an employee of the commodity trading manager, if the affiliate or the individual participates in the formulation of, or has access prior to implementation to, trading decisions made on behalf of or the advice given to the client of the commodity trading manager.  R.R.O. 1990, Reg. 90, s. 29 (1).</p> <p class=\"subsection-e\">  (2) Every commodity trading counsel shall maintain standards directed to ensuring fairness in the allocation of trading opportunities among the commodity trading counsel’s customers and a copy of the policies established shall be furnished to each customer and filed with the Commission.  R.R.O. 1990, Reg. 90, s. 29 (2).</p> <p class=\"subsection-e\">  (3) Every commodity trading counsel shall charge clients directly for services and such charge may be based upon the dollar value of the client’s portfolio, but not on the value or volume of the transactions initiated for the client and, except with the written agreement of the client, shall not be contingent upon profits or performance.  R.R.O. 1990, Reg. 90, s. 29 (3).</p> <p class=\"subsection-e\">  (4) Every commodity trading manager shall obtain an undertaking from every responsible person not to trade for his, her or its account, as the case may be, or knowingly permit or arrange for any associate to trade, in reliance upon information as to trades made or to be made for the account of a client of the commodity trading manager and the commodity trading manager shall establish and maintain procedures designed to disclose when a responsible person or an associate of a responsible person has contravened the undertaking.  R.R.O. 1990, Reg. 90, s. 29 (4).</p> <p class=\"subsection-e\">  (5) Where there has been a material change in the ownership or control of a commodity trading counsel or where it is proposed that a commodity trading counsel sell or assign the account of a customer in whole or in part to another registrant, the commodity trading counsel shall, prior to such sale or assignment or immediately after such material change, as the case may be, give a written explanation to the customer of the proposal or change and the commodity trading counsel shall inform the customer of the customer’s right to withdraw the customer’s account.  R.R.O. 1990, Reg. 90, s. 29 (5).</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. (1) No futures commission merchant shall effect trades on the futures commission merchant’s own behalf or for any partner, officer, director or employee of the futures commission merchant or any associate of such persons through an omnibus account maintained for customers other than partners, officers, directors or employees of the futures commission merchant or any associate of such persons.  R.R.O. 1990, Reg. 90, s. 30 (1). (2) No futures commission merchant shall effect trades for non-discretionary accounts through an omnibus account maintained for discretionary accounts.  R.R.O. 1990, Reg. 90, s. 30 (2). (3) Every futures commission merchant shall require from each of the futures commission merchant’s customers for whom trades are effected through an omnibus account not less than that amount of margin that would be required from such customers if their trades were effected through fully disclosed accounts.  R.R.O. 1990, Reg. 90, s. 30 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>30.</b> (1) No futures commission merchant shall effect trades on the futures commission merchant’s own behalf or for any partner, officer, director or employee of the futures commission merchant or any associate of such persons through an omnibus account maintained for customers other than partners, officers, directors or employees of the futures commission merchant or any associate of such persons.  R.R.O. 1990, Reg. 90, s. 30 (1).</p> <p class=\"subsection-e\">  (2) No futures commission merchant shall effect trades for non-discretionary accounts through an omnibus account maintained for discretionary accounts.  R.R.O. 1990, Reg. 90, s. 30 (2).</p> <p class=\"subsection-e\">  (3) Every futures commission merchant shall require from each of the futures commission merchant’s customers for whom trades are effected through an omnibus account not less than that amount of margin that would be required from such customers if their trades were effected through fully disclosed accounts.  R.R.O. 1990, Reg. 90, s. 30 (3).</p>"
+        },
+        {
+            "ahref_id": "#31.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31. (1) No registered dealer shall effect trades for a customer through a discretionary account without having secured from the customer prior written authorization defining the extent of the discretionary authority which authority shall, (a) subject to subsection (2), have a term of no more than twelve months; (b) not be renewable except in writing; and (c) be terminable on specified notice by either party.  R.R.O. 1990, Reg. 90, s. 31 (1). (2) The prior written authorization referred to in subsection (1) may be of a term longer than twelve months where other arrangements, acceptable to the Director, to ensure the customer’s cognizance that the authorization continues in force are followed.  R.R.O. 1990, Reg. 90, s. 31 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>31.</b> (1) No registered dealer shall effect trades for a customer through a discretionary account without having secured from the customer prior written authorization defining the extent of the discretionary authority which authority shall,</p> <p class=\"clause-e\">  (a) subject to subsection (2), have a term of no more than twelve months;</p> <p class=\"clause-e\">  (b) not be renewable except in writing; and</p> <p class=\"clause-e\">  (c) be terminable on specified notice by either party.  R.R.O. 1990, Reg. 90, s. 31 (1).</p> <p class=\"subsection-e\">  (2) The prior written authorization referred to in subsection (1) may be of a term longer than twelve months where other arrangements, acceptable to the Director, to ensure the customer’s cognizance that the authorization continues in force are followed.  R.R.O. 1990, Reg. 90, s. 31 (2).</p>"
+        },
+        {
+            "ahref_id": "#32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32. No registered dealer shall accept securities as margin except those bonds, debentures or other evidences of indebtedness referred to in subsection 35 (3).  R.R.O. 1990, Reg. 90, s. 32.",
+            "raw_html": "<p class=\"section-e\"> <b>32.</b> No registered dealer shall accept securities as margin except those bonds, debentures or other evidences of indebtedness referred to in subsection 35 (3).  R.R.O. 1990, Reg. 90, s. 32.</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. (1) Where a registrant maintains a commodity futures account and a securities account for the same customer and the commodity futures account contains an amount of money, securities, property, proceeds and funds in excess of the amount of margin required to be held in the account under section 41 of the Act and the securities account contains a debit balance of $5,000 or more, the registrant shall transfer to the securities account as much of the excess amount in the commodity futures account as is necessary to eliminate or, if the excess amount is less than the debit balance amount, to reduce to the greatest extent possible the debit balance in the securities account.  R.R.O. 1990, Reg. 90, s. 33 (1). (2) Subsection (1) does not apply to a registrant in respect of a customer’s commodity futures and securities accounts where the customer has directed the registrant, in writing or orally, if subsequently confirmed in writing, (a) to transfer an excess amount less than the excess amount otherwise required to be transferred under that subsection; or (b) not to transfer any excess amount, from the commodity futures account to the securities account.  R.R.O. 1990, Reg. 90, s. 33 (2). (3) In this section, “securities account” means an account on which a customer is charged interest when there is a debit balance in the account.  R.R.O. 1990, Reg. 90, s. 33 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>33.</b> (1) Where a registrant maintains a commodity futures account and a securities account for the same customer and the commodity futures account contains an amount of money, securities, property, proceeds and funds in excess of the amount of margin required to be held in the account under section 41 of the Act and the securities account contains a debit balance of $5,000 or more, the registrant shall transfer to the securities account as much of the excess amount in the commodity futures account as is necessary to eliminate or, if the excess amount is less than the debit balance amount, to reduce to the greatest extent possible the debit balance in the securities account.  R.R.O. 1990, Reg. 90, s. 33 (1).</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply to a registrant in respect of a customer’s commodity futures and securities accounts where the customer has directed the registrant, in writing or orally, if subsequently confirmed in writing,</p> <p class=\"clause-e\">  (a) to transfer an excess amount less than the excess amount otherwise required to be transferred under that subsection; or</p> <p class=\"clause-e\">  (b) not to transfer any excess amount,</p> <p class=\"Ssubsection-e\">from the commodity futures account to the securities account.  R.R.O. 1990, Reg. 90, s. 33 (2).</p> <p class=\"subsection-e\">  (3) In this section,</p> <p class=\"firstdef-e\">“securities account” means an account on which a customer is charged interest when there is a debit balance in the account.  R.R.O. 1990, Reg. 90, s. 33 (3).</p>"
+        },
+        {
+            "ahref_id": "#34.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34. A registrant who maintains a commodity futures account and a securities account for the same customer may make a transfer of any amount of money, securities, property, proceeds and funds in the commodity futures account in excess of the amount of margin required to be held in the account under section 41 of the Act from the commodity futures account to the securities account of the customer if, (a) the transfer is made in accordance with a written agreement between the registrant and the customer; and (b) the transfer is not a transfer referred to in section 33.  R.R.O. 1990, Reg. 90, s. 34. Futures Commission Merchants conditions of registration — segregation of customers’ money, securities and property",
+            "raw_html": "<p class=\"section-e\"> <b>34.</b> A registrant who maintains a commodity futures account and a securities account for the same customer may make a transfer of any amount of money, securities, property, proceeds and funds in the commodity futures account in excess of the amount of margin required to be held in the account under section 41 of the Act from the commodity futures account to the securities account of the customer if,</p> <p class=\"clause-e\">  (a) the transfer is made in accordance with a written agreement between the registrant and the customer; and</p> <p class=\"clause-e\">  (b) the transfer is not a transfer referred to in section 33.  R.R.O. 1990, Reg. 90, s. 34.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Futures Commission Merchants</p> <p class=\"heading2-e\">conditions of registration — segregation of customers’ money, securities and property</p>"
+        },
+        {
+            "ahref_id": "#35.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 35. (1) Subject to subsection (2), the segregation of money, securities, property, proceeds or funds required by section 46 of the Act may be satisfied by the deposit of such money, securities, property, proceeds or funds with a registered futures commission merchant or a clearing member of a commodity futures exchange recognized or registered by the Commission or designated by the Commodity Futures Trading Commission as a contract market under the Commodity Exchange Act (U.S.) to margin, guarantee or secure the trades or contracts of the customers of a registered dealer.  R.R.O. 1990, Reg. 90, s. 35 (1). (2) All money, securities, property, proceeds or funds segregated for the benefit of customers under section 46 of the Act, when deposited by a registered dealer with a deposit institution or with another dealer shall be deposited under an account name that clearly shows that they are customers’ money, securities, property, proceeds or funds.  R.R.O. 1990, Reg. 90, s. 35 (2); O. Reg. 321/98, s. 16 (1). (3) No registered dealer shall invest money, proceeds or funds segregated for the benefit of customers under section 46 of the Act except in bonds, debentures, or other evidences of indebtedness, (a) of or guaranteed by the Government of Canada or any province of Canada or by the Government of the United States of America or any state thereof; (b) of or guaranteed by a bank listed in Schedule I or II to the Bank Act (Canada), a trust or loan corporation registered under the Loan and Trust Corporations Act, an insurance company licensed under the Insurance Act or a credit union within the meaning of the Credit Unions and Caisses Populaires Act, 2020; or (c) of or guaranteed by a bank which is a member of the Federal Reserve Board in the United States of America, and maturing not more than one year from the date of purchase.  R.R.O. 1990, Reg. 90, s. 35 (3); O. Reg. 321/98, s. 16 (2); O. Reg. 579/17, s. 1; O. Reg. 117/22, s. 2. (4) Any investment of money, proceeds or funds under subsection (3) shall be made through an account or accounts maintained under subsection (1) and proceeds from the sale of such securities shall be redeposited in such account or accounts.  R.R.O. 1990, Reg. 90, s. 35 (4). (5) Securities purchased under subsection (3), when deposited by a registered dealer with a deposit institution, with another dealer or with a dealer registered under the Securities Act shall be deposited under an account name that clearly shows that they are customers’ securities.  R.R.O. 1990, Reg. 90, s. 35 (5). (6) Any securities purchased under subsection (3) shall be included in the registered dealer’s books and records at values not more than the close of market on the last preceding trading day.  R.R.O. 1990, Reg. 90, s. 35 (6).",
+            "raw_html": "<p class=\"section-e\"> <b>35.</b> (1) Subject to subsection (2), the segregation of money, securities, property, proceeds or funds required by section 46 of the Act may be satisfied by the deposit of such money, securities, property, proceeds or funds with a registered futures commission merchant or a clearing member of a commodity futures exchange recognized or registered by the Commission or designated by the Commodity Futures Trading Commission as a contract market under the <i>Commodity Exchange Act</i> (U.S.) to margin, guarantee or secure the trades or contracts of the customers of a registered dealer.  R.R.O. 1990, Reg. 90, s. 35 (1).</p> <p class=\"subsection-e\">  (2) All money, securities, property, proceeds or funds segregated for the benefit of customers under section 46 of the Act, when deposited by a registered dealer with a deposit institution or with another dealer shall be deposited under an account name that clearly shows that they are customers’ money, securities, property, proceeds or funds.  R.R.O. 1990, Reg. 90, s. 35 (2); O. Reg. 321/98, s. 16 (1).</p> <p class=\"subsection-e\">  (3) No registered dealer shall invest money, proceeds or funds segregated for the benefit of customers under section 46 of the Act except in bonds, debentures, or other evidences of indebtedness,</p> <p class=\"clause-e\">  (a) of or guaranteed by the Government of Canada or any province of Canada or by the Government of the United States of America or any state thereof;</p> <p class=\"clause-e\">  (b) of or guaranteed by a bank listed in Schedule I or II to the <i>Bank Act </i>(Canada), a trust or loan corporation registered under the <i>Loan and Trust Corporations Act</i>, an insurance company licensed under the <i>Insurance Act </i>or a credit union within the meaning of the <i>Credit Unions and Caisses Populaires Act, 2020</i>; or</p> <p class=\"clause-e\">  (c) of or guaranteed by a bank which is a member of the Federal Reserve Board in the United States of America,</p> <p class=\"Ssubsection-e\">and maturing not more than one year from the date of purchase.  R.R.O. 1990, Reg. 90, s. 35 (3); O. Reg. 321/98, s. 16 (2); O. Reg. 579/17, s. 1; O. Reg. 117/22, s. 2.</p> <p class=\"subsection-e\">  (4) Any investment of money, proceeds or funds under subsection (3) shall be made through an account or accounts maintained under subsection (1) and proceeds from the sale of such securities shall be redeposited in such account or accounts.  R.R.O. 1990, Reg. 90, s. 35 (4).</p> <p class=\"subsection-e\">  (5) Securities purchased under subsection (3), when deposited by a registered dealer with a deposit institution, with another dealer or with a dealer registered under the <i>Securities Act</i> shall be deposited under an account name that clearly shows that they are customers’ securities.  R.R.O. 1990, Reg. 90, s. 35 (5).</p> <p class=\"subsection-e\">  (6) Any securities purchased under subsection (3) shall be included in the registered dealer’s books and records at values not more than the close of market on the last preceding trading day.  R.R.O. 1990, Reg. 90, s. 35 (6).</p>"
+        },
+        {
+            "ahref_id": "#36.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 36. Every written agreement referred to in subsection 46 (2) of the Act shall, as it relates to the pledge of a customer’s securities or property with a dealer for the purpose of trading in contracts, be in Form 4.  R.R.O. 1990, Reg. 90, s. 36. Futures Commission Merchants and Advisers conditions of registration — proficiency requirements",
+            "raw_html": "<p class=\"section-e\"> <b>36.</b> Every written agreement referred to in subsection 46 (2) of the Act shall, as it relates to the pledge of a customer’s securities or property with a dealer for the purpose of trading in contracts, be in Form 4.  R.R.O. 1990, Reg. 90, s. 36.</p> <p class=\"heading1-e\"><a name=\"BK13\"></a>Futures Commission Merchants and Advisers</p> <p class=\"heading2-e\">conditions of registration — proficiency requirements</p>"
+        },
+        {
+            "ahref_id": "#37.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 37. (1) No individual shall be granted registration as a salesperson, partner or officer of a registered futures commission merchant unless the individual has successfully completed, (a) Parts I and II of the Canadian Futures Examination; or (b) such course or courses as may be required by the self-regulatory body recognized under section 15 of the Act or commodity futures exchange registered under section 19 of the Act of which the futures commission merchant is a member.  O. Reg. 321/98, s. 17 (1). (2) No individual shall be granted registration as a commodity trading adviser or as a partner or officer of a registered commodity trading adviser unless the individual has successfully completed the National Commodity Futures Examination and the Canadian Commodity Futures Examination and has been employed performing research in the analysis area of the commodity futures industry for at least two years.  R.R.O. 1990, Reg. 90, s. 37 (2). (3) No individual shall be granted registration as a commodity trading counsel or as a partner or officer of a registered commodity trading counsel unless the individual has successfully completed the National Commodity Futures Examination and the Canadian Commodity Futures Examination and has been employed performing research in the analysis area of the commodity futures industry for at least three years.  R.R.O. 1990, Reg. 90, s. 37 (3). (4) No person, other than an individual, or company shall be granted registration as a partner of a registered commodity trading adviser unless an individual employed by the person or company and responsible for discharging the obligations of the person or company as a partner of the adviser has successfully completed the National Commodity Futures Examination and the Canadian Commodity Futures Examination and has been employed performing research in the analysis area of the commodity futures industry for at least two years.  R.R.O. 1990, Reg. 90, s. 37 (4). (5) No person, other than an individual, or company shall be granted registration as a partner of a registered commodity trading counsel unless an individual employed by the person or company and responsible for discharging the obligations of the person or company as a partner of the adviser has successfully completed the National Commodity Futures Examination and the Canadian Commodity Futures Examination and has been employed performing research in the analysis area of the commodity futures industry for at least three years.  R.R.O. 1990, Reg. 90, s. 37 (5). (6) No person, other than an individual, or company shall be granted registration as a partner of a registered futures commission merchant unless an individual employed by the person or company and responsible for discharging the obligations of the person or company as a partner of the futures commission merchant has successfully completed, (a) Parts I and II of the Canadian Futures Examination; or (b) such course or courses as may be required by the self-regulatory body recognized under section 15 of the Act or commodity futures exchange registered under section 19 of the Act of which the futures commission merchant is a member.  O. Reg. 321/98, s. 17 (2). (7) The Director may exempt, subject to such terms and conditions as the Director may impose, a person or company from the requirements of this section where in the Director’s opinion the person or an individual employed by the person or company and responsible for discharging the obligations of the person or company as registrant has the educational qualifications and experience that are equivalent to those required under this section and it would not be prejudicial to the public interest to do so.  R.R.O. 1990, Reg. 90, s. 37 (7).",
+            "raw_html": "<p class=\"section-e\"> <b>37.</b> (1) No individual shall be granted registration as a salesperson, partner or officer of a registered futures commission merchant unless the individual has successfully completed,</p> <p class=\"clause-e\">  (a) Parts I and II of the Canadian Futures Examination; or</p> <p class=\"clause-e\">  (b) such course or courses as may be required by the self-regulatory body recognized under section 15 of the Act or commodity futures exchange registered under section 19 of the Act of which the futures commission merchant is a member.  O. Reg. 321/98, s. 17 (1).</p> <p class=\"subsection-e\">  (2) No individual shall be granted registration as a commodity trading adviser or as a partner or officer of a registered commodity trading adviser unless the individual has successfully completed the National Commodity Futures Examination and the Canadian Commodity Futures Examination and has been employed performing research in the analysis area of the commodity futures industry for at least two years.  R.R.O. 1990, Reg. 90, s. 37 (2).</p> <p class=\"subsection-e\">  (3) No individual shall be granted registration as a commodity trading counsel or as a partner or officer of a registered commodity trading counsel unless the individual has successfully completed the National Commodity Futures Examination and the Canadian Commodity Futures Examination and has been employed performing research in the analysis area of the commodity futures industry for at least three years.  R.R.O. 1990, Reg. 90, s. 37 (3).</p> <p class=\"subsection-e\">  (4) No person, other than an individual, or company shall be granted registration as a partner of a registered commodity trading adviser unless an individual employed by the person or company and responsible for discharging the obligations of the person or company as a partner of the adviser has successfully completed the National Commodity Futures Examination and the Canadian Commodity Futures Examination and has been employed performing research in the analysis area of the commodity futures industry for at least two years.  R.R.O. 1990, Reg. 90, s. 37 (4).</p> <p class=\"subsection-e\">  (5) No person, other than an individual, or company shall be granted registration as a partner of a registered commodity trading counsel unless an individual employed by the person or company and responsible for discharging the obligations of the person or company as a partner of the adviser has successfully completed the National Commodity Futures Examination and the Canadian Commodity Futures Examination and has been employed performing research in the analysis area of the commodity futures industry for at least three years.  R.R.O. 1990, Reg. 90, s. 37 (5).</p> <p class=\"subsection-e\">  (6) No person, other than an individual, or company shall be granted registration as a partner of a registered futures commission merchant unless an individual employed by the person or company and responsible for discharging the obligations of the person or company as a partner of the futures commission merchant has successfully completed,</p> <p class=\"clause-e\">  (a) Parts I and II of the Canadian Futures Examination; or</p> <p class=\"clause-e\">  (b) such course or courses as may be required by the self-regulatory body recognized under section 15 of the Act or commodity futures exchange registered under section 19 of the Act of which the futures commission merchant is a member.  O. Reg. 321/98, s. 17 (2).</p> <p class=\"subsection-e\">  (7) The Director may exempt, subject to such terms and conditions as the Director may impose, a person or company from the requirements of this section where in the Director’s opinion the person or an individual employed by the person or company and responsible for discharging the obligations of the person or company as registrant has the educational qualifications and experience that are equivalent to those required under this section and it would not be prejudicial to the public interest to do so.  R.R.O. 1990, Reg. 90, s. 37 (7).</p>"
+        },
+        {
+            "ahref_id": "#38.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 38. (1) Subject to subsection (2), no dealer shall be granted registration unless each individual responsible for supervising the commodity business of that dealer has successfully completed the Commodity Supervisors’ Examination.  R.R.O. 1990, Reg. 90, s. 38 (1); O. Reg. 321/98, s. 18. (2) The Director may exempt, subject to such terms and conditions as the Director may impose, a dealer from the requirements of subsection (1) where in the Director’s opinion each individual responsible for supervising the commodity futures business of that dealer has the educational qualifications and experience that are equivalent to those required under subsection (1) and it would not be prejudicial to the public interest to do so.  R.R.O. 1990, Reg. 90, s. 38 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>38.</b> (1) Subject to subsection (2), no dealer shall be granted registration unless each individual responsible for supervising the commodity business of that dealer has successfully completed the Commodity Supervisors’ Examination.  R.R.O. 1990, Reg. 90, s. 38 (1); O. Reg. 321/98, s. 18.</p> <p class=\"subsection-e\">  (2) The Director may exempt, subject to such terms and conditions as the Director may impose, a dealer from the requirements of subsection (1) where in the Director’s opinion each individual responsible for supervising the commodity futures business of that dealer has the educational qualifications and experience that are equivalent to those required under subsection (1) and it would not be prejudicial to the public interest to do so.  R.R.O. 1990, Reg. 90, s. 38 (2).</p>"
+        },
+        {
+            "ahref_id": "#39.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 39. Revoked:  O. Reg. 17/03, s. 1. Renewal of Registration",
+            "raw_html": "<p class=\"section-e\"> <b>39.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 17/03, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Renewal of Registration</p>"
+        },
+        {
+            "ahref_id": "#40.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 40. (1) Subject to subsections (2) and (2.1), every registration and renewal of registration expires at the end of the day preceding the first anniversary of the granting of the registration or renewal of registration, as the case may be.  R.R.O. 1990, Reg. 90, s. 40 (1); O. Reg. 248/92, s. 1 (1). (2) The registration or renewal of registration of every salesperson, floor trader, partner and officer of a registered dealer expires at the same time as the registration or renewal of registration of the registered dealer.  R.R.O. 1990, Reg. 90, s. 40 (2). (2.1) In the event of an amalgamation or merger of two or more registrants, the registration or renewal of registration of the successor registrant expires at the end of the day preceding the first anniversary of the latest of the dates on which registration or renewal of registration was granted to each of the predecessor registrants.  O. Reg. 248/92, s. 1 (2). (3) Every application for renewal of registration shall be filed no later than thirty days prior to the date on which the registration or renewal of registration expires.  R.R.O. 1990, Reg. 90, s. 40 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>40.</b> (1) Subject to subsections (2) and (2.1), every registration and renewal of registration expires at the end of the day preceding the first anniversary of the granting of the registration or renewal of registration, as the case may be.  R.R.O. 1990, Reg. 90, s. 40 (1); O. Reg. 248/92, s. 1 (1).</p> <p class=\"subsection-e\">  (2) The registration or renewal of registration of every salesperson, floor trader, partner and officer of a registered dealer expires at the same time as the registration or renewal of registration of the registered dealer.  R.R.O. 1990, Reg. 90, s. 40 (2).</p> <p class=\"subsection-e\">  (2.1) In the event of an amalgamation or merger of two or more registrants, the registration or renewal of registration of the successor registrant expires at the end of the day preceding the first anniversary of the latest of the dates on which registration or renewal of registration was granted to each of the predecessor registrants.  O. Reg. 248/92, s. 1 (2).</p> <p class=\"subsection-e\">  (3) Every application for renewal of registration shall be filed no later than thirty days prior to the date on which the registration or renewal of registration expires.  R.R.O. 1990, Reg. 90, s. 40 (3).</p>"
+        },
+        {
+            "ahref_id": "#41.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 41. (1) An applicant for renewal of registration as a dealer or adviser shall complete and execute Form 9 or, where the applicant is registered under the Securities Act, shall file a letter with the Director requesting renewal of registration under this Act.  R.R.O. 1990, Reg. 90, s. 41 (1). (2) An applicant for renewal of registration as a salesperson or as a partner or officer of a registered dealer or adviser shall complete and execute Form 10 or, where the applicant is registered under the Securities Act, shall file a letter with the Director requesting renewal of registration under this Act.  R.R.O. 1990, Reg. 90, s. 41 (2). Examination of Registrants",
+            "raw_html": "<p class=\"section-e\"> <b>41.</b> (1) An applicant for renewal of registration as a dealer or adviser shall complete and execute Form 9 or, where the applicant is registered under the <i>Securities Act</i>, shall file a letter with the Director requesting renewal of registration under this Act.  R.R.O. 1990, Reg. 90, s. 41 (1).</p> <p class=\"subsection-e\">  (2) An applicant for renewal of registration as a salesperson or as a partner or officer of a registered dealer or adviser shall complete and execute Form 10 or, where the applicant is registered under the <i>Securities Act</i>, shall file a letter with the Director requesting renewal of registration under this Act.  R.R.O. 1990, Reg. 90, s. 41 (2).</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Examination of Registrants</p>"
+        },
+        {
+            "ahref_id": "#42.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 42. Every notice to submit to an examination under section 28 of the Act shall be in Form 11.  R.R.O. 1990, Reg. 90, s. 42. Amendments to Registration",
+            "raw_html": "<p class=\"section-e\"> <b>42.</b> Every notice to submit to an examination under section 28 of the Act shall be in Form 11.  R.R.O. 1990, Reg. 90, s. 42.</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Amendments to Registration</p>"
+        },
+        {
+            "ahref_id": "#43.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 43. Upon receipt and review of a notice to the Director under Ontario Securities Commission Rule 33-506 (Commodity Futures Act) Registration Information, the Director may require an application for amendment of registration prepared in accordance with Form 12 or 13.  O. Reg. 17/03, s. 2. Exemption from Registration Requirements",
+            "raw_html": "<p class=\"section-e\"> <b>43.</b> Upon receipt and review of a notice to the Director under Ontario Securities Commission Rule 33-506 (<i>Commodity Futures Act)</i> <i>Registration Information</i>, the Director may require an application for amendment of registration prepared in accordance with Form 12 or 13.  O. Reg. 17/03, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>Exemption from Registration Requirements</p>"
+        },
+        {
+            "ahref_id": "#44.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 44. (1) Registration as an adviser is not required to be obtained by, (a) a producers’ co-operative; (b) a trade association; (c) a dealer in or processor, broker or seller of cash commodities; or (d) a farming or livestock management service organization, that issues advice, analyses and reports exclusively to its members or customers, where the performance of the service as an adviser is solely incidental to its principal business.  R.R.O. 1990, Reg. 90, s. 44 (1). (2) Registration as an adviser is not required to be obtained by a dealer acting as a commodity trading manager where, (a) a self-regulatory body recognized by the Commission under section 15 of the Act to whose discipline the dealer is subject has passed by-laws or regulations that, (i) govern the activities of its members as commodity trading managers, (ii) impose standards and conditions applicable to all members managing trading in contracts for customers through discretionary authority granted by the customers, (iii) are substantially equivalent to the requirements and conditions of registration for commodity trading managers set out in this Regulation, and (iv) together with any amendments thereto, have been approved by the Commission as the substantial equivalent of the requirements and conditions of registration for commodity trading managers set out in this Regulation; (b) the self-regulatory body recognized by the Commission under section 15 of the Act to whose discipline the dealer is subject has, (i) recognized certain activities of the dealer as being the equivalent of those of a commodity trading manager and has so advised the Commission, and (ii) with respect to the dealer, provided the Commission with, (A) the names of any partner or officer or employee designated and approved pursuant to the applicable by-laws or regulations, to make trading decisions on behalf of, or to offer advice to, customers, and (B) any changes made from time to time in the designation and approval of any partner or officer or employee; and (c) the designated and approved individuals referred to in clause (b), who are resident in Ontario, are registered to trade in contracts under section 22 of the Act.  R.R.O. 1990, Reg. 90, s. 44 (2). (3) Registration as an adviser is not required to be obtained by a dealer acting as a commodity trading manager where, (a) the procedure required to be submitted to and approved by the Director under subsection 27 (1) includes provisions applicable to trading in contracts for customers through discretionary authority granted by the customers that are substantially equivalent to the requirements and conditions to registration for commodity trading managers set out in this Regulation, and that, together with any amendments thereto, have been approved by the Director as the substantial equivalent of the requirements and conditions of registration for commodity trading managers set out in this Regulation; (b) the dealer provides the Director with the names of any partner or officer or employee who makes trading decisions on behalf of, or offers advice to customers and any changes made from time to time in such names; and (c) the individuals referred to in clause (b), who are resident in Ontario, are registered to trade in contracts under section 22 of the Act.  R.R.O. 1990, Reg. 90, s. 44 (3). PART IV   TRADING GENERALLY",
+            "raw_html": "<p class=\"section-e\"> <b>44.</b> (1) Registration as an adviser is not required to be obtained by,</p> <p class=\"clause-e\">  (a) a producers’ co-operative;</p> <p class=\"clause-e\">  (b) a trade association;</p> <p class=\"clause-e\">  (c) a dealer in or processor, broker or seller of cash commodities; or</p> <p class=\"clause-e\">  (d) a farming or livestock management service organization,</p> <p class=\"Ssection-e\">that issues advice, analyses and reports exclusively to its members or customers, where the performance of the service as an adviser is solely incidental to its principal business.  R.R.O. 1990, Reg. 90, s. 44 (1).</p> <p class=\"subsection-e\">  (2) Registration as an adviser is not required to be obtained by a dealer acting as a commodity trading manager where,</p> <p class=\"clause-e\">  (a) a self-regulatory body recognized by the Commission under section 15 of the Act to whose discipline the dealer is subject has passed by-laws or regulations that,</p> <p class=\"subclause-e\">  (i) govern the activities of its members as commodity trading managers,</p> <p class=\"subclause-e\">  (ii) impose standards and conditions applicable to all members managing trading in contracts for customers through discretionary authority granted by the customers,</p> <p class=\"subclause-e\">  (iii) are substantially equivalent to the requirements and conditions of registration for commodity trading managers set out in this Regulation, and</p> <p class=\"subclause-e\">  (iv) together with any amendments thereto, have been approved by the Commission as the substantial equivalent of the requirements and conditions of registration for commodity trading managers set out in this Regulation;</p> <p class=\"clause-e\">  (b) the self-regulatory body recognized by the Commission under section 15 of the Act to whose discipline the dealer is subject has,</p> <p class=\"subclause-e\">  (i) recognized certain activities of the dealer as being the equivalent of those of a commodity trading manager and has so advised the Commission, and</p> <p class=\"subclause-e\">  (ii) with respect to the dealer, provided the Commission with,</p> <p class=\"subsubclause-e\">  (A) the names of any partner or officer or employee designated and approved pursuant to the applicable by-laws or regulations, to make trading decisions on behalf of, or to offer advice to, customers, and</p> <p class=\"subsubclause-e\">  (B) any changes made from time to time in the designation and approval of any partner or officer or employee; and</p> <p class=\"clause-e\">  (c) the designated and approved individuals referred to in clause (b), who are resident in Ontario, are registered to trade in contracts under section 22 of the Act.  R.R.O. 1990, Reg. 90, s. 44 (2).</p> <p class=\"subsection-e\">  (3) Registration as an adviser is not required to be obtained by a dealer acting as a commodity trading manager where,</p> <p class=\"clause-e\">  (a) the procedure required to be submitted to and approved by the Director under subsection 27 (1) includes provisions applicable to trading in contracts for customers through discretionary authority granted by the customers that are substantially equivalent to the requirements and conditions to registration for commodity trading managers set out in this Regulation, and that, together with any amendments thereto, have been approved by the Director as the substantial equivalent of the requirements and conditions of registration for commodity trading managers set out in this Regulation;</p> <p class=\"clause-e\">  (b) the dealer provides the Director with the names of any partner or officer or employee who makes trading decisions on behalf of, or offers advice to customers and any changes made from time to time in such names; and</p> <p class=\"clause-e\">  (c) the individuals referred to in clause (b), who are resident in Ontario, are registered to trade in contracts under section 22 of the Act.  R.R.O. 1990, Reg. 90, s. 44 (3).</p> <p class=\"partnum-e\"><a name=\"BK18\"></a>PART IV <br/>  TRADING GENERALLY</p>"
+        },
+        {
+            "ahref_id": "#45.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 45. Every statement furnished under section 40 of the Act to a prospective customer by a registered dealer or registered adviser shall be in, (a) Form 14 where the prospective customer contemplates trades in commodity futures contracts; or (b) Form 15 where the prospective customer contemplates trades in commodity futures options.  R.R.O. 1990, Reg. 90, s. 45. PART V   ENFORCEMENT Endorsement of Warrants",
+            "raw_html": "<p class=\"section-e\"> <b>45.</b> Every statement furnished under section 40 of the Act to a prospective customer by a registered dealer or registered adviser shall be in,</p> <p class=\"clause-e\">  (a) Form 14 where the prospective customer contemplates trades in commodity futures contracts; or</p> <p class=\"clause-e\">  (b) Form 15 where the prospective customer contemplates trades in commodity futures options.  R.R.O. 1990, Reg. 90, s. 45.</p> <p class=\"partnum-e\"><a name=\"BK19\"></a>PART V <br/>  ENFORCEMENT</p> <p class=\"heading1-e\"><a name=\"BK20\"></a>Endorsement of Warrants</p>"
+        },
+        {
+            "ahref_id": "#46.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 46. The endorsement of a warrant by a provincial judge or justice of Ontario provided for by section 58 of the Act shall be in accordance with Form 16.  R.R.O. 1990, Reg. 90, s. 46. Schedule 1 Revoked:  O. Reg. 398/03, s. 1. Form 1   summons to a witness before Commodity Futures Act Insert regs\\graphics\\1990\\90\\090001au.tif  Insert regs\\graphics\\1990\\90\\090001bu.tif  R.R.O. 1990, Reg. 90, Form 1. Form 2   affidavit of service Commodity Futures Act Insert regs\\graphics\\1990\\90\\090002au.tif  R.R.O. 1990, Reg. 90, Form 2. Form 3 Revoked:  O. Reg. 490/10, s. 4. Form 4    loan agreement Commodity Futures Act Insert regs\\graphics\\1990\\90\\090004au.tif  R.R.O. 1990, Reg. 90, Form 4. Form 5    application for registration as futures commission merchant introducing broker or adviser Commodity Futures Act Insert regs\\graphics\\1990\\90\\090005au.tif  Insert regs\\graphics\\1990\\90\\090005bu.tif  Insert regs\\graphics\\1990\\90\\090005cu.tif  Insert regs\\graphics\\1990\\90\\090005du.tif  Insert regs\\graphics\\1990\\90\\090005eu.tif  O. Reg. 17/03, s. 4. Form 6    application for registration as a non-resident carrying broker Commodity Futures Act Insert regs\\graphics\\1990\\90\\090006au.tif  Insert regs\\graphics\\1990\\90\\090006bu.tif  Insert regs\\graphics\\1990\\90\\090006cu.tif  R.R.O. 1990, Reg. 90, Form 6. Form 7 Revoked:  O. Reg. 17/03, s. 5. Form 8 Revoked:  O. Reg. 17/03, s. 5. Form 9    application for renewal of registration as dealer or adviser Commodity Futures Act Insert regs\\graphics\\1990\\90\\090009au.tif  Insert regs\\graphics\\1990\\90\\090009bu.tif  R.R.O. 1990, Reg. 90, Form 9. Form 10    application for renewal of registration as salesperson or as a partner or officer of a registered dealer or registered adviser Commodity Futures Act Insert regs\\graphics\\1990\\90\\090010au.tif  Insert regs\\graphics\\1990\\90\\090010bu.tif  R.R.O. 1990, Reg. 90, Form 10. Form 11   notice to submit to examination under section 28 of the act Commodity Futures Act Insert regs\\graphics\\1990\\90\\090011au.tif  R.R.O. 1990, Reg. 90, Form 11. Form 12    application for amendment of registration as dealer or adviser Commodity Futures Act Insert regs\\graphics\\1990\\90\\090012au.tif  Insert regs\\graphics\\1990\\90\\090012bu.tif  R.R.O. 1990, Reg. 90, Form 12. Form 13    application for amendment of registration as salesperson Commodity Futures Act Insert regs\\graphics\\1990\\90\\090013au.tif  Insert regs\\graphics\\1990\\90\\090013bu.tif  R.R.O. 1990, Reg. 90, Form 13. Form 14    information statement Commodity Futures Act Insert regs\\graphics\\1990\\90\\090014au.tif  Insert regs\\graphics\\1990\\90\\090014bu.tif  Insert regs\\graphics\\1990\\90\\090014cu.tif  R.R.O. 1990, Reg. 90, Form 14. Form 15    summary disclosure statement exchange traded commodity futures options Commodity Futures Act Insert regs\\graphics\\1990\\90\\090015au.tif  Insert regs\\graphics\\1990\\90\\090015bu.tif  Insert regs\\graphics\\1990\\90\\090015cu.tif  R.R.O. 1990, Reg. 90, Form 15. Form 16   endorsement of warrant Commodity Futures Act Insert regs\\graphics\\1990\\90\\090016au.tif  R.R.O. 1990, Reg. 90, Form 16.    ",
+            "raw_html": "<p class=\"section-e\"> <b>46.</b> The endorsement of a warrant by a provincial judge or justice of Ontario provided for by section 58 of the Act shall be in accordance with Form 16.  R.R.O. 1990, Reg. 90, s. 46.</p> <p class=\"scheduleRevoked-e\"><span class=\"ovallcaps\">Schedule 1</span> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 398/03, s. 1.</p> <p class=\"form-e\"><a name=\"BK21\"></a>Form 1 <br/>  summons to a witness before</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090001au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"136\" src=\"900090_e_files/image001.gif\" width=\"671\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090001bu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"288\" src=\"900090_e_files/image002.gif\" width=\"671\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 1.</p> <p class=\"form-e\"><a name=\"BK22\"></a>Form 2 <br/>  affidavit of service</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090002au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"513\" src=\"900090_e_files/image003.gif\" width=\"671\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 2.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 3 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 490/10, s. 4.</p> <p class=\"form-e\"><a name=\"BK23\"></a>Form 4  <br/>  loan agreement</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090004au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"181\" src=\"900090_e_files/image004.gif\" width=\"670\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 4.</p> <p class=\"form-e\"><a name=\"BK24\"></a>Form 5  <br/>  application for registration as futures commission merchant introducing broker or adviser</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090005au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"727\" src=\"900090_e_files/image005.gif\" width=\"623\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090005bu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"737\" src=\"900090_e_files/image006.gif\" width=\"623\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090005cu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"771\" src=\"900090_e_files/image007.gif\" width=\"623\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090005du.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"748\" src=\"900090_e_files/image008.gif\" width=\"623\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090005eu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"778\" src=\"900090_e_files/image009.gif\" width=\"623\"/>  </p> <p class=\"footnote-e\">O. Reg. 17/03, s. 4.</p> <p class=\"form-e\"><a name=\"BK25\"></a>Form 6 <br/>   application for registration as a non-resident carrying broker</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090006au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"335\" src=\"900090_e_files/image010.gif\" width=\"671\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090006bu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"908\" src=\"900090_e_files/image011.gif\" width=\"665\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090006cu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"412\" src=\"900090_e_files/image012.gif\" width=\"670\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 6.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 7 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 17/03, s. 5.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 8 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 17/03, s. 5.</p> <p class=\"form-e\"><a name=\"BK26\"></a>Form 9  <br/>  application for renewal of registration as dealer or adviser</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090009au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"686\" src=\"900090_e_files/image013.gif\" width=\"670\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090009bu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"121\" src=\"900090_e_files/image014.gif\" width=\"671\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 9.</p> <p class=\"form-e\"><a name=\"BK27\"></a>Form 10  <br/>  application for renewal of registration as salesperson or as a partner or officer of a registered dealer or registered adviser</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090010au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"702\" src=\"900090_e_files/image015.gif\" width=\"670\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090010bu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"294\" src=\"900090_e_files/image016.gif\" width=\"671\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 10.</p> <p class=\"form-e\"><a name=\"BK28\"></a>Form 11 <br/>  notice to submit to examination under section 28 of the act</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090011au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"321\" src=\"900090_e_files/image017.gif\" width=\"671\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 11.</p> <p class=\"form-e\"><a name=\"BK29\"></a>Form 12 <br/>   application for amendment of registration as dealer or adviser</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090012au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"119\" src=\"900090_e_files/image018.gif\" width=\"671\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090012bu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"728\" src=\"900090_e_files/image019.gif\" width=\"671\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 12.</p> <p class=\"form-e\"><a name=\"BK30\"></a>Form 13 <br/>   application for amendment of registration as salesperson</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090013au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"96\" src=\"900090_e_files/image020.gif\" width=\"671\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090013bu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"147\" src=\"900090_e_files/image021.gif\" width=\"671\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 13.</p> <p class=\"form-e\"><a name=\"BK31\"></a>Form 14 <br/>   information statement</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090014au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"652\" src=\"900090_e_files/image022.gif\" width=\"671\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090014bu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"886\" src=\"900090_e_files/image023.gif\" width=\"671\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090014cu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"781\" src=\"900090_e_files/image024.gif\" width=\"671\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 14.</p> <p class=\"form-e\"><a name=\"BK32\"></a>Form 15  <br/>  summary disclosure statement exchange traded commodity futures options</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090015au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"25\" src=\"900090_e_files/image025.gif\" width=\"671\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090015bu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"905\" src=\"900090_e_files/image026.gif\" width=\"671\"/></p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090015cu.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"166\" src=\"900090_e_files/image027.gif\" width=\"671\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 15.</p> <p class=\"form-e\"><a name=\"BK33\"></a>Form 16 <br/>  endorsement of warrant</p> <p class=\"act-e\">Commodity Futures Act</p> <p class=\"insert-e\">Insert regs\\graphics\\1990\\90\\090016au.tif</p> <p class=\"scanned-e\"><img border=\"0\" height=\"174\" src=\"900090_e_files/image028.gif\" width=\"671\"/></p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 90, Form 16.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

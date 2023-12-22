@@ -1,0 +1,476 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 385/98: TAX MATTERS - TRANSITION RATIOS AND AVERAGE TRANSITION RATIOS",
+        "reg_name_text": "TAX MATTERS — TRANSITION RATIOS AND AVERAGE TRANSITION RATIOS",
+        "citation": "O. Reg. 385/98: TAX MATTERS - TRANSITION RATIOS AND AVERAGE TRANSITION RATIOS",
+        "act_under": "Municipal Act, 2001",
+        "url": "https://www.ontario.ca/laws/regulation/980385",
+        "date_scraped": "2023-12-18 05:07:53"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "January  1, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v37",
+            "valid_from": "December 19, 2022",
+            "valid_to": "December 31, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v36",
+            "valid_from": "January  1, 2022",
+            "valid_to": "December 18, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v35",
+            "valid_from": "May  7, 2021",
+            "valid_to": "December 31, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v34",
+            "valid_from": "July  7, 2020",
+            "valid_to": "May  6, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v33",
+            "valid_from": "January 22, 2020",
+            "valid_to": "July  6, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v32",
+            "valid_from": "April  9, 2019",
+            "valid_to": "January 21, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v31",
+            "valid_from": "February 13, 2018",
+            "valid_to": "April  8, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v30",
+            "valid_from": "July  5, 2017",
+            "valid_to": "February 12, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v29",
+            "valid_from": "April  4, 2017",
+            "valid_to": "July  4, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v28",
+            "valid_from": "March  9, 2017",
+            "valid_to": "April  3, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v27",
+            "valid_from": "August 11, 2016",
+            "valid_to": "March  8, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v26",
+            "valid_from": "April 21, 2016",
+            "valid_to": "August 10, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v25",
+            "valid_from": "August  7, 2015",
+            "valid_to": "April 20, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v24",
+            "valid_from": "January 16, 2015",
+            "valid_to": "August  6, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v23",
+            "valid_from": "July 29, 2014",
+            "valid_to": "January 15, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v22",
+            "valid_from": "January 21, 2014",
+            "valid_to": "July 28, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v21",
+            "valid_from": "December  3, 2013",
+            "valid_to": "January 20, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v20",
+            "valid_from": "January  1, 2013",
+            "valid_to": "December  2, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v19",
+            "valid_from": "December 20, 2012",
+            "valid_to": "December 31, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v18",
+            "valid_from": "April 26, 2012",
+            "valid_to": "December 19, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v17",
+            "valid_from": "July 21, 2011",
+            "valid_to": "April 25, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v16",
+            "valid_from": "March  3, 2010",
+            "valid_to": "July 20, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v15",
+            "valid_from": "April 17, 2009",
+            "valid_to": "March  2, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v14",
+            "valid_from": "June 17, 2008",
+            "valid_to": "April 16, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v13",
+            "valid_from": "May  2, 2007",
+            "valid_to": "June 16, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v12",
+            "valid_from": "June 29, 2006",
+            "valid_to": "May  1, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v11",
+            "valid_from": "May 25, 2006",
+            "valid_to": "June 28, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v10",
+            "valid_from": "August 15, 2005",
+            "valid_to": "May 24, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v9",
+            "valid_from": "June 22, 2005",
+            "valid_to": "August 14, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v8",
+            "valid_from": "January 17, 2005",
+            "valid_to": "June 21, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v7",
+            "valid_from": "October  4, 2004",
+            "valid_to": "January 16, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v6",
+            "valid_from": "June 28, 2004",
+            "valid_to": "October  3, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v5",
+            "valid_from": "June  7, 2004",
+            "valid_to": "June 27, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v4",
+            "valid_from": "May 14, 2004",
+            "valid_to": "June  6, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v3",
+            "valid_from": "May  5, 2004",
+            "valid_to": "May 13, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v2",
+            "valid_from": "April 15, 2004",
+            "valid_to": "May  4, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980385/v1",
+            "valid_from": "September  2, 2003",
+            "valid_to": "April 14, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Definitions",
+            "Section2": "0.1-1.-8",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Transition Ratios",
+            "Section2": "9",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Multi-Residential Property Class",
+            "Section2": "9.1-9.3",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "New Multi-Residential Property Class",
+            "Section2": "10-10.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Landfill Property Class",
+            "Section2": "10.2",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Property Classes New to Municipality",
+            "Section2": "11",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Optional Property Classes New to Municipality",
+            "Section2": "11.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Average Transition Ratios",
+            "Section2": "12",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#0.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 0.1 In this Regulation, “commercial classes” has the meaning set out in subsection 308 (1) of the Act; (“catégories commerciales”) “industrial classes” has the meaning set out in subsection 308 (1) of the Act; (“catégories industrielles”) “optional property class” has the meaning set out in subsection 308 (1) of the Act; (“catégorie de biens facultative”) “previous year” means, in respect of a taxation year, the immediately preceding taxation year; (“année précédente”) “specified residential class” means the residential, farm, managed forest or new multi-residential property class; (“catégorie résidentielle déterminée”) “unadjusted tax ratio” means, in respect of a property class for a taxation year, (a)  the tax ratio for the property class for the previous year, or (b)  if section 8 of Ontario Regulation 73/03 (Tax Matters - Special Tax Rates and Limits) made under the Act applied to the property class in the previous year, (i)  the tax ratio for the property class for the taxation year that is determined under subsection 7 (1) of that regulation if the property in the class is in a single-tier municipality, or (ii)  if the property in the class is in an upper-tier municipality, the tax ratio for the property class for the taxation year that would be determined under subsection 7 (1) of that regulation if that subsection were to apply to the upper-tier municipality and if subsections 7 (2) and (3) of that regulation were not to apply. (“coefficient d’impôt non redressé”)  O. Reg. 162/09, s. 1; O. Reg. 56/10, s. 1; O. Reg. 339/11, s. 1; O. Reg. 62/12, s. 1; O. Reg. 442/12, s. 1; O. Reg. 4/14, s. 1; O. Reg. 13/15, s. 1; O. Reg. 105/16, s. 1; O. Reg. 65/17, s. 1; O. Reg. 22/18, s. 1; O. Reg. 67/19, s. 1; O. Reg. 3/20, s. 1; O. Reg. 334/21, s. 1; O. Reg. 575/22, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>0.1</b> In this Regulation,</p> <p class=\"firstdef-e\">“commercial classes” has the meaning set out in subsection 308 (1) of the Act; (“catégories commerciales”)</p> <p class=\"definition-e\">“industrial classes” has the meaning set out in subsection 308 (1) of the Act; (“catégories industrielles”)</p> <p class=\"definition-e\">“optional property class” has the meaning set out in subsection 308 (1) of the Act; (“catégorie de biens facultative”)</p> <p class=\"definition-e\">“previous year” means, in respect of a taxation year, the immediately preceding taxation year; (“année précédente”)</p> <p class=\"definition-e\">“specified residential class” means the residential, farm, managed forest or new multi-residential property class; (“catégorie résidentielle déterminée”)</p> <p class=\"definition-e\">“unadjusted tax ratio” means, in respect of a property class for a taxation year,</p> <p class=\"defclause-e\">  (a)  the tax ratio for the property class for the previous year, or</p> <p class=\"defclause-e\">  (b)  if section 8 of Ontario Regulation 73/03 (Tax Matters - Special Tax Rates and Limits) made under the Act applied to the property class in the previous year,</p> <p class=\"defsubclause-e\">  (i)  the tax ratio for the property class for the taxation year that is determined under subsection 7 (1) of that regulation if the property in the class is in a single-tier municipality, or</p> <p class=\"defsubclause-e\">  (ii)  if the property in the class is in an upper-tier municipality, the tax ratio for the property class for the taxation year that would be determined under subsection 7 (1) of that regulation if that subsection were to apply to the upper-tier municipality and if subsections 7 (2) and (3) of that regulation were not to apply. (“coefficient d’impôt non redressé”)  O. Reg. 162/09, s. 1; O. Reg. 56/10, s. 1; O. Reg. 339/11, s. 1; O. Reg. 62/12, s. 1; O. Reg. 442/12, s. 1; O. Reg. 4/14, s. 1; O. Reg. 13/15, s. 1; O. Reg. 105/16, s. 1; O. Reg. 65/17, s. 1; O. Reg. 22/18, s. 1; O. Reg. 67/19, s. 1; O. Reg. 3/20, s. 1; O. Reg. 334/21, s. 1; O. Reg. 575/22, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#1.-8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1.-8. Revoked:  O. Reg. 56/10, s. 2. Transition Ratios",
+            "raw_html": "<p class=\"section-e\"> <b>1.-8. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 56/10, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Transition Ratios</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) This section applies for a taxation year to a municipality if, in comparison to the previous year, the percentage of total tax revenue for the taxation year derived from tax on property in a class other than a specified residential class would be lower in the taxation year if the unadjusted tax ratio for the taxation year was applied.  O. Reg. 56/10, s. 4 (1); O. Reg. 575/22, s. 2 (1). (2) If this section applies to a municipality, the municipality may establish a tax ratio for the taxation year for the property class referred to in subsection (1) that is greater than the unadjusted tax ratio for the class but not greater than the transition ratio determined for the class under this section.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 4 (2); O. Reg. 575/22, s. 2 (1). (3) If a municipality establishes a tax ratio for a property class under subsection (2), the transition ratios determined under this section apply to the municipality for the taxation year except for the purposes of, (a)  the specified residential classes; (a.1)  the landfill property class; and (b)  an optional property class if the taxation year is the first year in which the optional property class applies in the municipality.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 4 (3, 4); O. Reg. 95/17, s. 2; O. Reg. 575/22, s. 2 (1). (4) The following rules apply for the purposes of this section: 1.  The total assessment of the properties in a property class for the previous year includes all assessments made for the purposes of taxation for the previous year that are made after the return of the roll for the previous year. 2.  In determining the total assessment of the properties in a property class for the taxation year, a municipality may elect to exclude the assessment of a property in the property class, i.  if the current value of the property, A.  has, before any adjustment under subsection 19.1 (3) of the Assessment Act, increased by 100 per cent or such greater percentage as the municipality elects since 2012, or B.  has decreased by 25 per cent or such greater percentage as the municipality elects since 2012, and ii.  if the municipality also excludes the assessment of the property in determining the total assessment of the properties in the property class for the previous year. 3.  An optional property class is considered to be a separate property class for the purposes of subsection (5).  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 4 (5-7); O. Reg. 442/12, s. 2; O. Reg. 575/22, s. 2 (1). (5) Subject to sections 9.2, 9.3, 10, 11 and 11.1, the transition ratio for a property class for the purposes of subsection 308 (10) of the Act is determined as follows: 1.  Multiply the unadjusted tax ratio for the property class for the taxation year by the amount of the total assessment of the properties in that property class for the year. 2.  Multiply the unadjusted tax ratio for the property class for the taxation year by the amount of the total assessment of the properties in that property class for the previous year. 3.  Determine the weighted reassessment change for the specified residential classes by dividing “A” by “B” where, “A”  is the sum of all amounts each of which is an amount determined under paragraph 1 for a property class included in the specified residential classes, and “B”  is the sum of all amounts each of which is an amount determined under paragraph 2 for a property class included in the specified residential classes. 4.  Determine the weighted reassessment change for the commercial classes by dividing “C” by “D” where, “C”  is the sum of all amounts each of which is an amount determined under paragraph 1 for a property class included in the commercial classes, and “D”  is the sum of all amounts each of which is an amount determined under paragraph 2 for a property class included in the commercial classes. 5.  Determine the weighted reassessment change for the industrial classes by dividing “E” by “F” where, “E”  is the sum of all amounts each of which is an amount determined under paragraph 1 for a property class included in the industrial classes, and “F”  is the sum of all amounts each of which is an amount determined under paragraph 2 for a property class included in the industrial classes. 6.  For each property class that is not included in the specified residential classes, the commercial classes or the industrial classes, determine the weighted reassessment change for the property class by dividing the amount determined under paragraph 1 for the property class by the amount determined under paragraph 2 for the property class. 7.  Determine the adjustment factor for each property class by dividing “G” by “H” where, “G”  is, (a)  the weighted reassessment change for the commercial classes as determined under paragraph 4 if the property class is included in the commercial classes, (b)  the weighted reassessment change for the industrial classes as determined under paragraph 5 if the property class is included in the industrial classes, or (c)  the weighted reassessment change for the property class as determined under paragraph 6 if the property class is not included in the specified residential classes, the commercial classes or the industrial classes, and “H”  is the weighted reassessment change for the specified residential classes as determined under paragraph 3. 8.  Determine the transition ratio for the property class for the taxation year by dividing the unadjusted tax ratio for the property class for the year by the adjustment factor for the property class determined under paragraph 7.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 4 (8-10); O. Reg. 65/17, s. 2; O. Reg. 575/22, s. 2 (2). Multi-Residential Property Class",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) This section applies for a taxation year to a municipality if, in comparison to the previous year, the percentage of total tax revenue for the taxation year derived from tax on property in a class other than a specified residential class would be lower in the taxation year if the unadjusted tax ratio for the taxation year was applied.  O. Reg. 56/10, s. 4 (1); O. Reg. 575/22, s. 2 (1).</p> <p class=\"subsection-e\">  (2) If this section applies to a municipality, the municipality may establish a tax ratio for the taxation year for the property class referred to in subsection (1) that is greater than the unadjusted tax ratio for the class but not greater than the transition ratio determined for the class under this section.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 4 (2); O. Reg. 575/22, s. 2 (1).</p> <p class=\"subsection-e\">  (3) If a municipality establishes a tax ratio for a property class under subsection (2), the transition ratios determined under this section apply to the municipality for the taxation year except for the purposes of,</p> <p class=\"clause-e\">  (a)  the specified residential classes;</p> <p class=\"clause-e\"> (a.1)  the landfill property class; and</p> <p class=\"clause-e\">  (b)  an optional property class if the taxation year is the first year in which the optional property class applies in the municipality.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 4 (3, 4); O. Reg. 95/17, s. 2; O. Reg. 575/22, s. 2 (1).</p> <p class=\"subsection-e\">  (4) The following rules apply for the purposes of this section: </p> <p class=\"paragraph-e\">  1.  The total assessment of the properties in a property class for the previous year includes all assessments made for the purposes of taxation for the previous year that are made after the return of the roll for the previous year.</p> <p class=\"paragraph-e\">  2.  In determining the total assessment of the properties in a property class for the taxation year, a municipality may elect to exclude the assessment of a property in the property class,</p> <p class=\"subpara-e\">  i.  if the current value of the property,</p> <p class=\"subsubpara-e\">  A.  has, before any adjustment under subsection 19.1 (3) of the <i>Assessment Act</i>, increased by 100 per cent or such greater percentage as the municipality elects since 2012, or</p> <p class=\"subsubpara-e\">  B.  has decreased by 25 per cent or such greater percentage as the municipality elects since 2012, and</p> <p class=\"subpara-e\">  ii.  if the municipality also excludes the assessment of the property in determining the total assessment of the properties in the property class for the previous year.</p> <p class=\"paragraph-e\">  3.  An optional property class is considered to be a separate property class for the purposes of subsection (5).  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 4 (5-7); O. Reg. 442/12, s. 2; O. Reg. 575/22, s. 2 (1).</p> <p class=\"subsection-e\">  (5) Subject to sections 9.2, 9.3, 10, 11 and 11.1, the transition ratio for a property class for the purposes of subsection 308 (10) of the Act is determined as follows:</p> <p class=\"paragraph-e\">  1.  Multiply the unadjusted tax ratio for the property class for the taxation year by the amount of the total assessment of the properties in that property class for the year.</p> <p class=\"paragraph-e\">  2.  Multiply the unadjusted tax ratio for the property class for the taxation year by the amount of the total assessment of the properties in that property class for the previous year.</p> <p class=\"paragraph-e\">  3.  Determine the weighted reassessment change for the specified residential classes by dividing “A” by “B” where,</p> <p class=\"subpara-e\">  “A”  is the sum of all amounts each of which is an amount determined under paragraph 1 for a property class included in the specified residential classes, and</p> <p class=\"subpara-e\">  “B”  is the sum of all amounts each of which is an amount determined under paragraph 2 for a property class included in the specified residential classes.</p> <p class=\"paragraph-e\">  4.  Determine the weighted reassessment change for the commercial classes by dividing “C” by “D” where,</p> <p class=\"subpara-e\">  “C”  is the sum of all amounts each of which is an amount determined under paragraph 1 for a property class included in the commercial classes, and</p> <p class=\"subpara-e\">  “D”  is the sum of all amounts each of which is an amount determined under paragraph 2 for a property class included in the commercial classes.</p> <p class=\"paragraph-e\">  5.  Determine the weighted reassessment change for the industrial classes by dividing “E” by “F” where,</p> <p class=\"subpara-e\">  “E”  is the sum of all amounts each of which is an amount determined under paragraph 1 for a property class included in the industrial classes, and</p> <p class=\"subpara-e\">  “F”  is the sum of all amounts each of which is an amount determined under paragraph 2 for a property class included in the industrial classes.</p> <p class=\"paragraph-e\">  6.  For each property class that is not included in the specified residential classes, the commercial classes or the industrial classes, determine the weighted reassessment change for the property class by dividing the amount determined under paragraph 1 for the property class by the amount determined under paragraph 2 for the property class.</p> <p class=\"paragraph-e\">  7.  Determine the adjustment factor for each property class by dividing “G” by “H” where,</p> <p class=\"subpara-e\">  “G”  is,</p> <p class=\"subsubpara-e\">  (a)  the weighted reassessment change for the commercial classes as determined under paragraph 4 if the property class is included in the commercial classes,</p> <p class=\"subsubpara-e\">  (b)  the weighted reassessment change for the industrial classes as determined under paragraph 5 if the property class is included in the industrial classes, or</p> <p class=\"subsubpara-e\">  (c)  the weighted reassessment change for the property class as determined under paragraph 6 if the property class is not included in the specified residential classes, the commercial classes or the industrial classes, and</p> <p class=\"subpara-e\">  “H”  is the weighted reassessment change for the specified residential classes as determined under paragraph 3.</p> <p class=\"paragraph-e\">  8.  Determine the transition ratio for the property class for the taxation year by dividing the unadjusted tax ratio for the property class for the year by the adjustment factor for the property class determined under paragraph 7.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 4 (8-10); O. Reg. 65/17, s. 2; O. Reg. 575/22, s. 2 (2).</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Multi-Residential Property Class</p>"
+        },
+        {
+            "ahref_id": "#9.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9.1 (1) This section applies for a taxation year to a municipality if, (a)  in comparison to the previous year, the percentage of total tax revenue for the taxation year derived from tax on property in the multi-residential property class would be higher in the taxation year if the unadjusted tax ratio for the taxation year was applied; (b)  the unadjusted tax ratio for the multi-residential property class for the taxation year is equal to or greater than 2.0; and (c)  the municipality does not establish a tax ratio under subsection 9 (2). O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 3. (2) The transition ratio for the multi-residential property class for the taxation year is the greater of 2.0 and the transition ratio for the property class determined using the rules set out in subsection 9 (5). O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>9.1 </b>(1) This section applies for a taxation year to a municipality if,</p> <p class=\"clause-e\">  (a)  in comparison to the previous year, the percentage of total tax revenue for the taxation year derived from tax on property in the multi-residential property class would be higher in the taxation year if the unadjusted tax ratio for the taxation year was applied;</p> <p class=\"clause-e\">  (b)  the unadjusted tax ratio for the multi-residential property class for the taxation year is equal to or greater than 2.0; and</p> <p class=\"clause-e\">  (c)  the municipality does not establish a tax ratio under subsection 9 (2). O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 3.</p> <p class=\"subsection-e\">  (2) The transition ratio for the multi-residential property class for the taxation year is the greater of 2.0 and the transition ratio for the property class determined using the rules set out in subsection 9 (5). O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#9.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9.2 (1) This section applies for a taxation year to a municipality if, in comparison to the previous year, the percentage of total tax revenue for the taxation year derived from tax on property in the multi-residential property class would be lower in the taxation year if the unadjusted tax ratio for the taxation year was applied. O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 4. (2) If the unadjusted tax ratio for the multi-residential property class is equal to or greater than 2.0, the transition ratio for the property class for the taxation year is equal to the unadjusted tax ratio. O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 4. (3) If the unadjusted tax ratio for the multi-residential property class is less than 2.0 and if the municipality establishes a tax ratio under subsection 9 (2), the transition ratio for the property class for the taxation year is the lesser of 2.0 and the transition ratio for the property class determined using the rules set out in subsection 9 (5). O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>9.2 </b>(1) This section applies for a taxation year to a municipality if, in comparison to the previous year, the percentage of total tax revenue for the taxation year derived from tax on property in the multi-residential property class would be lower in the taxation year if the unadjusted tax ratio for the taxation year was applied. O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 4.</p> <p class=\"subsection-e\">  (2) If the unadjusted tax ratio for the multi-residential property class is equal to or greater than 2.0, the transition ratio for the property class for the taxation year is equal to the unadjusted tax ratio. O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 4.</p> <p class=\"subsection-e\">  (3) If the unadjusted tax ratio for the multi-residential property class is less than 2.0 and if the municipality establishes a tax ratio under subsection 9 (2), the transition ratio for the property class for the taxation year is the lesser of 2.0 and the transition ratio for the property class determined using the rules set out in subsection 9 (5). O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#9.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9.3 (1) This section applies for a taxation year to a municipality if the percentage of total revenue for the taxation year derived from tax on property in the multi-residential property class would be the equal to the previous year’s if the unadjusted tax ratio for the taxation year was applied. O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 5. (2) If the unadjusted tax ratio for the multi-residential property class is equal to or greater than 2.0, the transition ratio for the property class for the taxation year shall be determined as follows: 1.  Take the greater of 2.0 and the transition ratio for the property class determined using the rules set out in subsection 9 (5). 2.  The transition ratio is the lesser of the amount determined under paragraph 1 and the unadjusted tax ratio for the property class. O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 5. (3) If the unadjusted tax ratio for the multi-residential property class is less than 2.0 and if the municipality establishes a tax ratio under subsection 9 (2), the transition ratio for the property class for the taxation year is the lesser of 2.0 and the transition ratio for the property class determined using the rules set out in subsection 9 (5). O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 5. New Multi-Residential Property Class",
+            "raw_html": "<p class=\"section-e\"> <b>9.3 </b>(1) This section applies for a taxation year to a municipality if the percentage of total revenue for the taxation year derived from tax on property in the multi-residential property class would be the equal to the previous year’s if the unadjusted tax ratio for the taxation year was applied. O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 5.</p> <p class=\"subsection-e\">  (2) If the unadjusted tax ratio for the multi-residential property class is equal to or greater than 2.0, the transition ratio for the property class for the taxation year shall be determined as follows:</p> <p class=\"paragraph-e\">  1.  Take the greater of 2.0 and the transition ratio for the property class determined using the rules set out in subsection 9 (5).</p> <p class=\"paragraph-e\">  2.  The transition ratio is the lesser of the amount determined under paragraph 1 and the unadjusted tax ratio for the property class. O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 5.</p> <p class=\"subsection-e\">  (3) If the unadjusted tax ratio for the multi-residential property class is less than 2.0 and if the municipality establishes a tax ratio under subsection 9 (2), the transition ratio for the property class for the taxation year is the lesser of 2.0 and the transition ratio for the property class determined using the rules set out in subsection 9 (5). O. Reg. 65/17, s. 3; O. Reg. 575/22, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>New Multi-Residential Property Class</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. For the 2017 taxation year, the transition ratio for the new multi-residential property class in a municipality is 1.0. O. Reg. 262/17, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>For the 2017 taxation year, the transition ratio for the new multi-residential property class in a municipality is 1.0. O. Reg. 262/17, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#10.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.1 Revoked: O. Reg. 262/17, s. 2. Landfill Property Class",
+            "raw_html": "<p class=\"section-e\"> <b>10.1 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 262/17, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Landfill Property Class</p>"
+        },
+        {
+            "ahref_id": "#10.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.2 (1) For the purposes of subsection 308 (10) of the Act, the transition ratio for the landfill property class in a municipality for a taxation year shall be determined as follows: 1.  Multiply the unadjusted tax ratio for the landfill property class for the taxation year by the amount of the total assessment of the properties in that property class for the year. 2.  Multiply the unadjusted tax ratio for the landfill property class for the taxation year by the amount of the total assessment of the properties in that property class for the previous year. 3.  Determine the weighted reassessment change for the landfill property class by dividing the amount determined under paragraph 1 by the amount determined under paragraph 2. 4.  Determine the adjustment factor by dividing “A” by “B” where, “A”  is the weighted reassessment change for the landfill property class as determined under paragraph 3, and “B”  is the weighted reassessment change for the specified residential classes as determined under paragraph 3 of subsection 9 (5). 5.  Divide the unadjusted tax ratio for the landfill property class for the taxation year by the adjustment factor determined under paragraph 4. 6.  Determine the transition ratio for the landfill property class for the taxation year by multiplying the amount determined under paragraph 5 by 1.05. O. Reg. 95/17, s. 3; O. Reg. 575/22, s. 6. (2) The following rules apply to the calculation in subsection (1) for the 2017 taxation year: 1.  For the purposes of paragraph 1 of subsection (1), the unadjusted tax ratio for the landfill property class is equal to the unadjusted tax ratio for the commercial property class. 2.  For the purposes of paragraph 2 of subsection (1), the amount of the total assessment of the properties in the landfill property class for the previous year is deemed to be the amount of the total assessment of the properties in the 2016 taxation year that are classified in the landfill property class for the 2017 taxation year. O. Reg. 95/17, s. 3. (3) Despite paragraph 6 of subsection (1), for the County of Lambton, the transition ratio for the landfill property class for the taxation year is determined by multiplying the amount determined under paragraph 5 of subsection (1) by 1.2. O. Reg. 95/17, s. 3; O. Reg. 575/22, s. 6. (4) The following rules apply to the Municipality of Chatham-Kent: 1.  For the 2017 taxation year, despite subsection (1), the transition ratio for the landfill property class is 5.752080. 2.  For the 2018 taxation year and subsequent taxation years, despite paragraph 6 of subsection (1), the transition ratio for the landfill property class for the taxation year is determined by multiplying the amount determined under paragraph 5 of subsection (1) by 1.1. O. Reg. 95/17, s. 3. (5) The following rules apply to the County of Elgin: 1.  For the 2017 taxation year, despite subsection (1), the transition ratio for the landfill property class is 34.024061. 2.  For the 2018 taxation year and subsequent taxation years, despite paragraph 6 of subsection (1), the transition ratio for the landfill property class for the taxation year is equal to the amount determined under paragraph 5 of subsection (1). O. Reg. 95/17, s. 3. Property Classes New to Municipality",
+            "raw_html": "<p class=\"section-e\"><b>  10.2</b> (1) For the purposes of subsection 308 (10) of the Act, the transition ratio for the landfill property class in a municipality for a taxation year shall be determined as follows:</p> <p class=\"paragraph-e\">  1.  Multiply the unadjusted tax ratio for the landfill property class for the taxation year by the amount of the total assessment of the properties in that property class for the year.</p> <p class=\"paragraph-e\">  2.  Multiply the unadjusted tax ratio for the landfill property class for the taxation year by the amount of the total assessment of the properties in that property class for the previous year.</p> <p class=\"paragraph-e\">  3.  Determine the weighted reassessment change for the landfill property class by dividing the amount determined under paragraph 1 by the amount determined under paragraph 2.</p> <p class=\"paragraph-e\">  4.  Determine the adjustment factor by dividing “A” by “B” where,</p> <p class=\"subpara-e\">  “A”  is the weighted reassessment change for the landfill property class as determined under paragraph 3, and</p> <p class=\"subpara-e\">  “B”  is the weighted reassessment change for the specified residential classes as determined under paragraph 3 of subsection 9 (5).</p> <p class=\"paragraph-e\">  5.  Divide the unadjusted tax ratio for the landfill property class for the taxation year by the adjustment factor determined under paragraph 4.</p> <p class=\"paragraph-e\">  6.  Determine the transition ratio for the landfill property class for the taxation year by multiplying the amount determined under paragraph 5 by 1.05. O. Reg. 95/17, s. 3; O. Reg. 575/22, s. 6.</p> <p class=\"subsection-e\">  (2) The following rules apply to the calculation in subsection (1) for the 2017 taxation year:</p> <p class=\"paragraph-e\">  1.  For the purposes of paragraph 1 of subsection (1), the unadjusted tax ratio for the landfill property class is equal to the unadjusted tax ratio for the commercial property class.</p> <p class=\"paragraph-e\">  2.  For the purposes of paragraph 2 of subsection (1), the amount of the total assessment of the properties in the landfill property class for the previous year is deemed to be the amount of the total assessment of the properties in the 2016 taxation year that are classified in the landfill property class for the 2017 taxation year. O. Reg. 95/17, s. 3.</p> <p class=\"subsection-e\">  (3) Despite paragraph 6 of subsection (1), for the County of Lambton, the transition ratio for the landfill property class for the taxation year is determined by multiplying the amount determined under paragraph 5 of subsection (1) by 1.2. O. Reg. 95/17, s. 3; O. Reg. 575/22, s. 6.</p> <p class=\"subsection-e\">  (4) The following rules apply to the Municipality of Chatham-Kent:</p> <p class=\"paragraph-e\">  1.  For the 2017 taxation year, despite subsection (1), the transition ratio for the landfill property class is 5.752080.</p> <p class=\"paragraph-e\">  2.  For the 2018 taxation year and subsequent taxation years, despite paragraph 6 of subsection (1), the transition ratio for the landfill property class for the taxation year is determined by multiplying the amount determined under paragraph 5 of subsection (1) by 1.1. O. Reg. 95/17, s. 3.</p> <p class=\"subsection-e\">  (5) The following rules apply to the County of Elgin:</p> <p class=\"paragraph-e\">  1.  For the 2017 taxation year, despite subsection (1), the transition ratio for the landfill property class is 34.024061.</p> <p class=\"paragraph-e\">  2.  For the 2018 taxation year and subsequent taxation years, despite paragraph 6 of subsection (1), the transition ratio for the landfill property class for the taxation year is equal to the amount determined under paragraph 5 of subsection (1). O. Reg. 95/17, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Property Classes New to Municipality</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. The following rules apply for the purposes of subsection 308 (10) of the Act in determining the transition ratio for a property class in a municipality for a taxation year: 1.  Subject to sections 10 and 10.2 and paragraphs 2 and 3 of this section, the transition ratio for a year for a property class other than an optional property class is the upper limit of the allowable range of tax ratios prescribed for the property class if no property was classified in the property class in the previous year. 2.  If no property was classified in the commercial classes in the previous year and property was classified in the industrial classes in the previous year, i.  the municipality may elect to have the average transition ratio for the industrial classes prescribed in paragraph 2 of subsection 12 (1) apply to both the commercial classes and the industrial classes, or ii.  if paragraph 2 of subsection 12 (1) does not apply in the municipality, the municipality may elect to have the transition ratio for the industrial classes apply for the taxation year to both the commercial classes and the industrial classes. 3.  If no property was classified in the industrial classes in the previous year and property was classified in the commercial classes in the previous year, i.  the municipality may elect to have the average transition ratio for the commercial classes prescribed in paragraph 1 of subsection 12 (1) apply to both the commercial classes and the industrial classes, or ii.  if paragraph 1 of subsection 12 (1) does not apply in the municipality, the municipality may elect to have the transition ratio for the commercial classes apply to both the commercial classes and the industrial classes.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 6; O. Reg. 105/16, s. 2; O. Reg. 95/17, s. 4; O. Reg. 262/17, s. 3; O. Reg. 575/22, s. 7. Optional Property Classes New to Municipality",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>The following rules apply for the purposes of subsection 308 (10) of the Act in determining the transition ratio for a property class in a municipality for a taxation year:</p> <p class=\"paragraph-e\">  1.  Subject to sections 10 and 10.2 and paragraphs 2 and 3 of this section, the transition ratio for a year for a property class other than an optional property class is the upper limit of the allowable range of tax ratios prescribed for the property class if no property was classified in the property class in the previous year.</p> <p class=\"paragraph-e\">  2.  If no property was classified in the commercial classes in the previous year and property was classified in the industrial classes in the previous year,</p> <p class=\"subpara-e\">  i.  the municipality may elect to have the average transition ratio for the industrial classes prescribed in paragraph 2 of subsection 12 (1) apply to both the commercial classes and the industrial classes, or</p> <p class=\"subpara-e\">  ii.  if paragraph 2 of subsection 12 (1) does not apply in the municipality, the municipality may elect to have the transition ratio for the industrial classes apply for the taxation year to both the commercial classes and the industrial classes.</p> <p class=\"paragraph-e\">  3.  If no property was classified in the industrial classes in the previous year and property was classified in the commercial classes in the previous year,</p> <p class=\"subpara-e\">  i.  the municipality may elect to have the average transition ratio for the commercial classes prescribed in paragraph 1 of subsection 12 (1) apply to both the commercial classes and the industrial classes, or</p> <p class=\"subpara-e\">  ii.  if paragraph 1 of subsection 12 (1) does not apply in the municipality, the municipality may elect to have the transition ratio for the commercial classes apply to both the commercial classes and the industrial classes.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 6; O. Reg. 105/16, s. 2; O. Reg. 95/17, s. 4; O. Reg. 262/17, s. 3; O. Reg. 575/22, s. 7.</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Optional Property Classes New to Municipality</p>"
+        },
+        {
+            "ahref_id": "#11.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11.1 (1) For the purposes of subsection 308 (10) of the Act, the transition ratio for an optional property class if no property was classified in the optional property class in the previous year is equal to the tax ratio that would apply to the property that is in the optional property class if the optional property class had not been adopted. O. Reg. 575/22, s. 8. (2) For the purposes of subsection 308 (11) of the Act, the average transition ratio for the commercial classes or the industrial classes, as the case may be, for the first year that an optional property class applies or ceases to apply in a municipality is equal to, (a)  if the optional property class is one of the commercial classes, the weighted average, for the previous year, of the tax ratios for the commercial classes as determined in accordance with subsection 308 (14) of the Act; and (b)  if the optional property class is one of the industrial classes, the weighted average, for the previous year, of the tax ratios for the industrial classes as determined in accordance with subsection 308 (14) of the Act.  O. Reg. 575/22, s. 8. Average Transition Ratios",
+            "raw_html": "<p class=\"section-e\"> <b>11.1</b> (1) For the purposes of subsection 308 (10) of the Act, the transition ratio for an optional property class if no property was classified in the optional property class in the previous year is equal to the tax ratio that would apply to the property that is in the optional property class if the optional property class had not been adopted. O. Reg. 575/22, s. 8.</p> <p class=\"subsection-e\">  (2) For the purposes of subsection 308 (11) of the Act, the average transition ratio for the commercial classes or the industrial classes, as the case may be, for the first year that an optional property class applies or ceases to apply in a municipality is equal to,</p> <p class=\"clause-e\">  (a)  if the optional property class is one of the commercial classes, the weighted average, for the previous year, of the tax ratios for the commercial classes as determined in accordance with subsection 308 (14) of the Act; and</p> <p class=\"clause-e\">  (b)  if the optional property class is one of the industrial classes, the weighted average, for the previous year, of the tax ratios for the industrial classes as determined in accordance with subsection 308 (14) of the Act.  O. Reg. 575/22, s. 8.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Average Transition Ratios</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. (1) The following rules apply for the purposes of subsection 308 (10) of the Act for a taxation year: 1.  The prescribed average transition ratio for the commercial classes is the weighted average of the taxation year’s transition ratios for the property classes within the commercial classes. 2.  The prescribed average transition ratio for the industrial classes is the weighted average of the taxation year’s transition ratios for the property classes within the industrial classes.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 7 (1-3); O. Reg. 575/22, s. 9. (2) For the purposes of subsection (1), the weighted average of the taxation year’s transition ratios is calculated using the formula in subsection 308 (14) of the Act, except that the phrase “tax ratios” in the portion before paragraph 1 shall be read as “transition ratios” and the phrase “tax ratio” in paragraph 1 shall be read as “transition ratio”.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 7 (4); O. Reg. 575/22, s. 9. (3) This section does not apply to determine transition ratios for the commercial classes or industrial classes, as the case may be, in the first year an optional property class applies in a municipality.  O. Reg. 162/09, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>(1) The following rules apply for the purposes of subsection 308 (10) of the Act for a taxation year:</p> <p class=\"paragraph-e\">  1.  The prescribed average transition ratio for the commercial classes is the weighted average of the taxation year’s transition ratios for the property classes within the commercial classes.</p> <p class=\"paragraph-e\">  2.  The prescribed average transition ratio for the industrial classes is the weighted average of the taxation year’s transition ratios for the property classes within the industrial classes.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 7 (1-3); O. Reg. 575/22, s. 9.</p> <p class=\"subsection-e\">  (2) For the purposes of subsection (1), the weighted average of the taxation year’s transition ratios is calculated using the formula in subsection 308 (14) of the Act, except that the phrase “tax ratios” in the portion before paragraph 1 shall be read as “transition ratios” and the phrase “tax ratio” in paragraph 1 shall be read as “transition ratio”.  O. Reg. 162/09, s. 3; O. Reg. 56/10, s. 7 (4); O. Reg. 575/22, s. 9.</p> <p class=\"subsection-e\">  (3) This section does not apply to determine transition ratios for the commercial classes or industrial classes, as the case may be, in the first year an optional property class applies in a municipality.  O. Reg. 162/09, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.,14. Revoked: O. Reg. 575/22, s. 10.",
+            "raw_html": "<p class=\"section-e\"><a name=\"BK9\"></a> <b>13.,14. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 575/22, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15.,16. Revoked: O. Reg. 22/18, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>15.</b>,<b>16. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 22/18, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. Revoked: O. Reg. 575/22, s. 10. Table 1 Revoked:  O. Reg. 22/18, s. 3. Tables 2-7 Revoked:  O. Reg. 56/10, s. 9.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 575/22, s. 10.</p> <p class=\"tableheadingrev-e\"><span class=\"ovallcaps\">Table 1 </span><span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 22/18, s. 3.</p> <p class=\"tableheadingrev-e\"><span class=\"ovallcaps\">Tables 2-7</span> <span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 56/10, s. 9.</p> <p class=\"tableheadingrev-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/980385\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

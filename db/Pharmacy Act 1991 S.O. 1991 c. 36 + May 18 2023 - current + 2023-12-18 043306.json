@@ -1,0 +1,166 @@
+{
+    "act_info": {
+        "full_title": "Pharmacy Act, 1991, S.O. 1991, c. 36",
+        "act_name_text": "Pharmacy Act, 1991",
+        "citation": "S.O. 1991, c. 36",
+        "url": "https://www.ontario.ca/laws/statute/91p36",
+        "date_scraped": "2023-12-18 04:33:07"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "May 18, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/91p36/v5",
+            "valid_from": "June  3, 2021",
+            "valid_to": "May 17, 2023"
+        },
+        {
+            "a_href": "/laws/statute/91p36/v4",
+            "valid_from": "December  3, 2010",
+            "valid_to": "June  2, 2021"
+        },
+        {
+            "a_href": "/laws/statute/91p36/v3",
+            "valid_from": "December 15, 2009",
+            "valid_to": "December  2, 2010"
+        },
+        {
+            "a_href": "/laws/statute/91p36/v2",
+            "valid_from": "June  4, 2007",
+            "valid_to": "December 14, 2009"
+        },
+        {
+            "a_href": "/laws/statute/91p36/v1",
+            "valid_from": "February  1, 1999",
+            "valid_to": "June  3, 2007"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/170130",
+            "Citation": "O. Reg. 130/17",
+            "title": "PROFESSIONAL MISCONDUCT AND CONFLICT OF INTEREST"
+        },
+        {
+            "a_href": "/laws/regulation/940202",
+            "Citation": "O. Reg. 202/94",
+            "title": "GENERAL"
+        }
+    ],
+    "revoked_regs": null,
+    "content": [
+        {
+            "id": "1",
+            "section": "Definitions",
+            "content": "1 In this Act, “College” means the Ontario College of Pharmacists; (“Ordre”) “Health Professions Procedural Code” means the Health Professions Procedural Code set out in Schedule 2 to the Regulated Health Professions Act, 1991; (“Code des professions de la santé”) “member” means a member of the College; (“membre”) “profession” means the profession of pharmacy; (“profession”) “this Act” includes the Health Professions Procedural Code. (“la présente loi”)  1991, c. 36, s. 1.",
+            "raw_html": "<p class=\"section\"><b>1 </b>In this Act,</p> <p class=\"definition\">“College” means the Ontario College of Pharmacists; (“Ordre”)</p> <p class=\"definition\">“Health Professions Procedural Code” means the Health Professions Procedural Code set out in Schedule 2 to the <i>Regulated Health Professions Act, 1991</i>; (“Code des professions de la santé”)</p> <p class=\"definition\">“member” means a member of the College; (“membre”)</p> <p class=\"definition\">“profession” means the profession of pharmacy; (“profession”)</p> <p class=\"definition\">“this Act” includes the Health Professions Procedural Code. (“la présente loi”)  1991, c. 36, s. 1.</p>"
+        },
+        {
+            "id": "2",
+            "section": "Health Professions Procedural Code",
+            "content": "2 (1) The Health Professions Procedural Code shall be deemed to be part of this Act. Terms in Code (2) In the Health Professions Procedural Code as it applies in respect of this Act, “College” means the Ontario College of Pharmacists; (“ordre”) “health profession Act” means this Act; (“loi sur une profession de la santé”) “profession” means the profession of pharmacy; (“profession”) “regulations” means the regulations under this Act. (“règlements”) Definitions in Code (3) Definitions in the Health Professions Procedural Code apply with necessary modifications to terms in this Act. 1991, c. 36, s. 2.",
+            "raw_html": "<p class=\"section\"><b>2 </b>(1) The Health Professions Procedural Code shall be deemed to be part of this Act.</p> <p class=\"headnote\">Terms in Code</p> <p class=\"subsection\">(2) In the Health Professions Procedural Code as it applies in respect of this Act,</p> <p class=\"definition\">“College” means the Ontario College of Pharmacists; (“ordre”)</p> <p class=\"definition\">“health profession Act” means this Act; (“loi sur une profession de la santé”)</p> <p class=\"definition\">“profession” means the profession of pharmacy; (“profession”)</p> <p class=\"definition\">“regulations” means the regulations under this Act. (“règlements”) </p> <p class=\"headnote\">Definitions in Code</p> <p class=\"subsection\">(3) Definitions in the Health Professions Procedural Code apply with necessary modifications to terms in this Act. 1991, c. 36, s. 2.</p>"
+        },
+        {
+            "id": "3",
+            "section": "Scope of practice",
+            "content": "3 The practice of pharmacy is, (a)  the custody, compounding, dispensing and prescribing of drugs; (b)  the provision of health care aids and devices; (c)  the provision of information and education related to the use of anything mentioned in clauses (a) and (b); (d)  the promotion of health, prevention and treatment of disease, disorders and dysfunctions through monitoring and management of medication therapy; and (e)  the assessment of conditions for the purposes of providing medication therapies. 2009, c. 26, s. 21 (1); 2023, c. 4, Sched. 2, s. 11. Section Amendments with date in force (d/m/y) 2009, c. 26, s. 21 (1)\r\n- 15/12/2009 2023, c. 4, Sched. 2, s. 11 - 18/05/2023",
+            "raw_html": "<p class=\"section\"><b>3 </b>The practice of pharmacy is,</p> <p class=\"paragraph\">  (a)  the custody, compounding, dispensing and prescribing of drugs;</p> <p class=\"paragraph\">  (b)  the<b> </b>provision of health care aids and devices;</p> <p class=\"paragraph\">  (c)  the provision of information and education related to the use of anything mentioned in clauses (a) and (b);</p> <p class=\"paragraph\">  (d)  the promotion of health, prevention and treatment of disease, disorders and dysfunctions through monitoring and management of medication therapy; and</p> <p class=\"paragraph\">  (e)  the assessment of conditions for the purposes of providing medication therapies. 2009, c. 26, s. 21 (1); 2023, c. 4, Sched. 2, s. 11.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09026#s21s1\">2009, c. 26, s. 21 (1)</a></span>\r\n- 15/12/2009</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23004#sched2s11\">2023, c. 4, Sched. 2, s. 11</a></span> - 18/05/2023</p>"
+        },
+        {
+            "id": "4",
+            "section": "Authorized acts",
+            "content": "4 (1) In the course of engaging in the practice of pharmacy, a member is authorized, subject to the terms, conditions and limitations imposed on his or her certificate of registration, to perform the following: 1.  Dispensing, selling or compounding a drug or supervising the part of a pharmacy where drugs are kept. 2.  Administering, by injection or inhalation, a substance specified in the regulations. 3.  Prescribing a drug specified in the regulations. 4.  Prescribing a drug, other than a drug mentioned in paragraph 3, in accordance with the regulations. 5.  Performing a procedure on tissue below the dermis.  2009, c. 26, s. 21 (2). Additional requirements for authorized acts (2) A member is not authorized to perform a procedure under the authority of paragraph 2, 3, 4 or 5 of subsection (1) unless the member performs the procedure in accordance with requirements established by the regulations.  2009, c. 26, s. 21 (2). Professional misconduct (3) In addition to the grounds set out in subsection 51 (1) of the Health Professions Procedural Code, a panel of the Discipline Committee shall find that a member has committed an act of professional misconduct if the member contravenes subsection (2).  2009, c. 26, s. 21 (2). Section Amendments with date in force (d/m/y) 2009, c. 26, s. 21 (2) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><b>4 </b>(1) In the course of engaging in the practice of pharmacy, a member is authorized, subject to the terms, conditions and limitations imposed on his or her certificate of registration, to perform the following:</p> <p class=\"paragraph\">  1.  Dispensing, selling or compounding a drug or supervising the part of a pharmacy where drugs are kept.</p> <p class=\"paragraph\">  2.  Administering, by injection or inhalation, a substance specified in the regulations.</p> <p class=\"paragraph\">  3.  Prescribing a drug specified in the regulations.</p> <p class=\"paragraph\">  4.  Prescribing a drug, other than a drug mentioned in paragraph 3, in accordance with the regulations.</p> <p class=\"paragraph\">  5.  Performing a procedure on tissue below the dermis.  2009, c. 26, s. 21 (2).</p> <p class=\"headnote\">Additional requirements for authorized acts</p> <p class=\"subsection\">(2) A member is not authorized to perform a procedure under the authority of paragraph 2, 3, 4 or 5 of subsection (1) unless the member performs the procedure in accordance with requirements established by the regulations.  2009, c. 26, s. 21 (2).</p> <p class=\"headnote\">Professional misconduct</p> <p class=\"subsection\">(3) In addition to the grounds set out in subsection 51 (1) of the Health Professions Procedural Code, a panel of the Discipline Committee shall find that a member has committed an act of professional misconduct if the member contravenes subsection (2).  2009, c. 26, s. 21 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">2009, c. 26, s. 21 (2) - 15/12/2009</p>"
+        },
+        {
+            "id": "5",
+            "section": "College continued",
+            "content": "5 The College is continued under the name Ontario College of Pharmacists in English and Ordre des pharmaciens de l’Ontario in French.  1991, c. 36, s. 5.",
+            "raw_html": "<p class=\"section\"><b>5 </b>The College is continued under the name Ontario College of Pharmacists in English and Ordre des pharmaciens de l’Ontario in French.  1991, c. 36, s. 5.</p>"
+        },
+        {
+            "id": "6",
+            "section": "Additional objects",
+            "content": "6 In addition to the objects of the College set out in subsection 3 (1) of the Health Professions Procedural Code, the College has the following objects: 1.  To regulate drugs and pharmacies under the Drug and Pharmacies Regulation Act. 1.1  To exercise the powers and duties of the College under the Drug Interchangeability and Dispensing Fee Act. 2.  To develop, establish and maintain standards of qualification for persons to be issued certificates of accreditation.  1991, c. 36, s. 6; 2009, c. 26, s. 21 (3). Section Amendments with date in force (d/m/y) 2009, c. 26, s. 21 (3)\r\n- 15/12/2009",
+            "raw_html": "<p class=\"section\"><b>6 </b>In addition to the objects of the College set out in subsection 3 (1) of the Health Professions Procedural Code, the College has the following objects:</p> <p class=\"paragraph\">  1.  To regulate drugs and pharmacies under the <i>Drug and Pharmacies Regulation Act</i>.</p> <p class=\"paragraph\">  1.1  To exercise the powers and duties of the College under the <i>Drug Interchangeability and Dispensing Fee Act</i>.</p> <p class=\"paragraph\">  2.  To develop, establish and maintain standards of qualification for persons to be issued certificates of accreditation.  1991, c. 36, s. 6; 2009, c. 26, s. 21 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09026#s21s3\">2009, c. 26, s. 21 (3)</a></span>\r\n- 15/12/2009</p>"
+        },
+        {
+            "id": "7",
+            "section": "Council",
+            "content": "7 (1) The Council shall be composed of, (a)  at least nine and no more than 17 persons who are members elected in accordance with the by-laws at least two and no more than four of whom must hold a certificate of registration as a pharmacy technician; (b)  at least nine and no more than sixteen persons appointed by the Lieutenant Governor in Council who are not, (i)  members, (ii)  members of a College as defined in the Regulated Health Professions Act, 1991, or (iii)  members of a Council as defined in the Regulated Health Professions Act, 1991; and (c)  the dean of each faculty of pharmacy of the universities in Ontario.  1991, c. 36, s. 7 (1); 1998, c. 18, Sched. G, s. 41 (1); 2007, c. 10, Sched. B, s. 18 (1). Who can vote in elections (2) Subject to the by-laws, every member who practises or resides in Ontario and who is not in default of payment of the annual membership fee is entitled to vote in an election of members of the Council.  1991, c. 36, s. 7 (2); 1998, c. 18, Sched. G, s. 41 (2). Section Amendments with date in force (d/m/y) 1998, c. 18, Sched. G, s. 41 (1, 2) - 01/02/1999 2007, c. 10, Sched. B, s. 18 (1) - 03/12/2010",
+            "raw_html": "<p class=\"section\"><b>7 </b>(1) The Council shall be composed of,</p> <p class=\"paragraph\">  (a)<b>  </b>at least nine and no more than 17 persons who are members elected in accordance with the by-laws at least two and no more than four of whom must hold a certificate of registration as a pharmacy technician;</p> <p class=\"paragraph\">  (b)  at least nine and no more than sixteen persons appointed by the Lieutenant Governor in Council who are not,</p> <p class=\"subclause\">  (i)  members,</p> <p class=\"subclause\">  (ii)  members of a College as defined in the <i>Regulated Health Professions Act, 1991</i>, or</p> <p class=\"subclause\">  (iii)  members of a Council as defined in the <i>Regulated Health Professions Act, 1991</i>; and</p> <p class=\"paragraph\">  (c)  the dean of each faculty of pharmacy of the universities in Ontario.  1991, c. 36, s. 7 (1); 1998, c. 18, Sched. G, s. 41 (1); 2007, c. 10, Sched. B, s. 18 (1).</p> <p class=\"headnote\">Who can vote in elections</p> <p class=\"subsection\">(2) Subject to the by-laws, every member who practises or resides in Ontario and who is not in default of payment of the annual membership fee is entitled to vote in an election of members of the Council.  1991, c. 36, s. 7 (2); 1998, c. 18, Sched. G, s. 41 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 18, Sched. G, s. 41 (1, 2) - 01/02/1999</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedbs18s1\">2007, c. 10, Sched. B, s. 18 (1)</a></span> - 03/12/2010</p>"
+        },
+        {
+            "id": "8",
+            "section": "President and Vice-President",
+            "content": "8 The Council shall have a President and Vice-President who shall be elected annually by the Council from among the Council’s members.  1991, c. 36, s. 8.",
+            "raw_html": "<p class=\"section\"><b>8 </b>The Council shall have a President and Vice-President who shall be elected annually by the Council from among the Council’s members.  1991, c. 36, s. 8.</p>"
+        },
+        {
+            "id": "9",
+            "section": "Accreditation Committee",
+            "content": "9 (1) The College shall have an Accreditation Committee. Appointment (2) The Council shall appoint the members of the Accreditation Committee.  1991, c. 36, s. 9 (1, 2). Composition (3) The composition of the Accreditation Committee shall be in accordance with the by-laws.  1998, c. 18, Sched. G, s. 41 (3). Accreditation Committee (4) No member of the Discipline Committee shall be a member of the Accreditation Committee. Quorum (5) Three members of the Accreditation Committee constitute a quorum.  1991, c. 36, s. 9 (4, 5). Section Amendments with date in force (d/m/y) 1998, c. 18, Sched. G, s. 41 (3) - 01/02/1999",
+            "raw_html": "<p class=\"section\"><b>9 </b>(1) The College shall have an Accreditation Committee.</p> <p class=\"headnote\">Appointment</p> <p class=\"subsection\">(2) The Council shall appoint the members of the Accreditation Committee.  1991, c. 36, s. 9 (1, 2).</p> <p class=\"headnote\">Composition</p> <p class=\"subsection\">(3) The composition of the Accreditation Committee shall be in accordance with the by-laws.  1998, c. 18, Sched. G, s. 41 (3).</p> <p class=\"headnote\">Accreditation Committee</p> <p class=\"subsection\">(4) No member of the Discipline Committee shall be a member of the Accreditation Committee.</p> <p class=\"headnote\">Quorum</p> <p class=\"subsection\">(5) Three members of the Accreditation Committee constitute a quorum.  1991, c. 36, s. 9 (4, 5).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 18, Sched. G, s. 41 (3) - 01/02/1999</p>"
+        },
+        {
+            "id": "10",
+            "section": "Restricted titles",
+            "content": "10 (1) No person other than a member shall use the title “apothecary”, “druggist”, “pharmacist”, “pharmacy technician” or “pharmaceutical chemist”, a variation or abbreviation or an equivalent in another language.  1991, c. 36, s. 10 (1); 2007, c. 10, Sched. B, s. 18 (2). Representations of qualification, etc. (2) No person other than a member shall hold himself or herself out as a person who is qualified to practise in Ontario as a pharmacist or a pharmacy technician or in a specialty of pharmacy.  1991, c. 36, s. 10 (2); 2007, c. 10, Sched. B, s. 18 (3). Definition (3) In this section, “abbreviation” includes an abbreviation of a variation.  1991, c. 36, s. 10 (3). Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. B, s. 18 (2, 3) - 03/12/2010 11 Repealed: 2021, c. 25, Sched. 25, s. 26. Section Amendments with date in force (d/m/y) 2021, c. 25, Sched. 25, s. 26 - 03/06/2021",
+            "raw_html": "<p class=\"section\"><b>10 </b>(1) No person other than a member shall use the title “apothecary”, “druggist”, “pharmacist”, “pharmacy technician” or “pharmaceutical chemist”, a variation or abbreviation or an equivalent in another language.  1991, c. 36, s. 10 (1); 2007, c. 10, Sched. B, s. 18 (2).</p> <p class=\"headnote\">Representations of qualification, etc.</p> <p class=\"subsection\">(2) No person other than a member shall hold himself or herself out as a person who is qualified to practise in Ontario as a pharmacist or a pharmacy technician or in a specialty of pharmacy.  1991, c. 36, s. 10 (2); 2007, c. 10, Sched. B, s. 18 (3).</p> <p class=\"headnote\">Definition</p> <p class=\"subsection\">(3) In this section,</p> <p class=\"definition\">“abbreviation” includes an abbreviation of a variation.  1991, c. 36, s. 10 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedbs18s2\">2007, c. 10, Sched. B, s. 18 (2, 3)</a></span> - 03/12/2010</p> <p class=\"section\"><b>11 </b><span class=\"ovsmallcap\">Repealed</span>: 2021, c. 25, Sched. 25, s. 26.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S21025#sched25s26\">2021, c. 25, Sched. 25, s. 26</a> </span>- 03/06/2021</p>"
+        },
+        {
+            "id": "11",
+            "section": "Definition",
+            "content": "11 Repealed: 2021, c. 25, Sched. 25, s. 26. Section Amendments with date in force (d/m/y) 2021, c. 25, Sched. 25, s. 26 - 03/06/2021",
+            "raw_html": "<p class=\"section\"><b>11 </b><span class=\"ovsmallcap\">Repealed</span>: 2021, c. 25, Sched. 25, s. 26.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S21025#sched25s26\">2021, c. 25, Sched. 25, s. 26</a> </span>- 03/06/2021</p>"
+        },
+        {
+            "id": "12",
+            "section": "Offence",
+            "content": "12 Every person who contravenes subsection 10 (1) or (2) is guilty of an offence and on conviction is liable to a fine of not more than $25,000 for a first offence and not more than $50,000 for a second or subsequent offence.  2007, c. 10, Sched. B, s. 18 (4). Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. B, s. 18 (4) - 04/06/2007",
+            "raw_html": "<p class=\"section\"><b>12 </b>Every person who contravenes subsection 10 (1) or (2) is guilty of an offence and on conviction is liable to a fine of not more than $25,000 for a first offence and not more than $50,000 for a second or subsequent offence.  2007, c. 10, Sched. B, s. 18 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedbs18s4\">2007, c. 10, Sched. B, s. 18 (4)</a></span> - 04/06/2007</p>"
+        },
+        {
+            "id": "13",
+            "section": "Regulations",
+            "content": "13 (1) Subject to the approval of the Lieutenant Governor in Council and with prior review by the Minister, the Council may make regulations, (a)  specifying substances that may be administered by injection or inhalation in the course of engaging in the practice of pharmacy; (b)  specifying drugs that a member may prescribe in the course of engaging in the practice of pharmacy; (c)  regulating and governing the performance of any act set out in paragraph 2, 3, 4 or 5 of subsection 4 (1) and ancillary matters, including, without limiting the generality of the foregoing, (i)  establishing requirements for the performance of the act, (ii)  governing the purposes for which, and the circumstances under which, the act must be performed, (iii)  setting prohibitions.  2009, c. 26, s. 21 (4). Individual or categories (2) A regulation made under clause (1) (a) or (b) may designate individual drugs or substances or categories of drugs or substances.  2009, c. 26, s. 21 (4). Incorporation by reference (3) A regulation made under clause (1) (a) or (b) may adopt, by reference, in whole or in part, and with such changes as are considered necessary, one or more documents setting out a list of individual drugs or substances or a list of categories of drugs or substances.  2009, c. 26, s. 21 (4). Rolling incorporation (4) If a regulation provided for in subsection (3) so provides, a document adopted by reference shall be a reference to it as amended from time to time after the making of the regulation.  2009, c. 26, s. 21 (4). Must be made by expert committee (5) A document adopted by reference under subsection (3) may only be a document created or approved by an expert committee established under section 43.2 of the Regulated Health Professions Act, 1991 and no other body.  2009, c. 26, s. 21 (4). Availability (6) A document adopted by reference under subsection (3) must be named in the regulation and must be available for public inspection during normal business hours in the office of the College and must be posted on the College’s website or available through a hyperlink at the College’s website.  2009, c. 26, s. 21 (4). Section Amendments with date in force (d/m/y) 1998, c. 18, Sched. G, s. 41 (4) - 01/02/1999 2009, c. 26, s. 21 (4)\r\n- 15/12/2009",
+            "raw_html": "<p class=\"section\"><b>13 </b>(1) Subject to the approval of the Lieutenant Governor in Council and with prior review by the Minister, the Council may make regulations,</p> <p class=\"paragraph\">  (a)  specifying substances that may be administered by injection or inhalation in the course of engaging in the practice of pharmacy;</p> <p class=\"paragraph\">  (b)  specifying drugs that a member may prescribe in the course of engaging in the practice of pharmacy;</p> <p class=\"paragraph\">  (c)  regulating and governing the performance of any act set out in paragraph 2, 3, 4 or 5 of subsection 4 (1) and ancillary matters, including, without limiting the generality of the foregoing,</p> <p class=\"subclause\">  (i)  establishing requirements for the performance of the act,</p> <p class=\"subclause\">  (ii)  governing the purposes for which, and the circumstances under which, the act must be performed,</p> <p class=\"subclause\">  (iii)  setting prohibitions.  2009, c. 26, s. 21 (4).</p> <p class=\"headnote\">Individual or categories</p> <p class=\"subsection\">(2) A regulation made under clause (1) (a) or (b) may designate individual drugs or substances or categories of drugs or substances.  2009, c. 26, s. 21 (4).</p> <p class=\"headnote\">Incorporation by reference</p> <p class=\"subsection\">(3) A regulation made under clause (1) (a) or (b) may adopt, by reference, in whole or in part, and with such changes as are considered necessary, one or more documents setting out a list of individual drugs or substances or a list of categories of drugs or substances.  2009, c. 26, s. 21 (4).</p> <p class=\"headnote\">Rolling incorporation</p> <p class=\"subsection\">(4) If a regulation provided for in subsection (3) so provides, a document adopted by reference shall be a reference to it as amended from time to time after the making of the regulation.  2009, c. 26, s. 21 (4).</p> <p class=\"headnote\">Must be made by expert committee</p> <p class=\"subsection\">(5) A document adopted by reference under subsection (3) may only be a document created or approved by an expert committee established under section 43.2 of the<i> </i><i>Regulated Health Professions Act, 1991 </i>and no other body.  2009, c. 26, s. 21 (4).</p> <p class=\"headnote\">Availability</p> <p class=\"subsection\">(6) A document adopted by reference under subsection (3) must be named in the regulation and must be available for public inspection during normal business hours in the office of the College and must be posted on the College’s website or available through a hyperlink at the College’s website.  2009, c. 26, s. 21 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 18, Sched. G, s. 41 (4) - 01/02/1999</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09026#s21s4\">2009, c. 26, s. 21 (4)</a></span>\r\n- 15/12/2009</p>"
+        },
+        {
+            "id": "14",
+            "section": "Transitional",
+            "content": "14 A person who, on the day before this Act comes into force, held a licence issued under Part VI of the Health Disciplines Act shall be deemed to be the holder of a certificate of registration issued under this Act subject to any term, condition or limitation to which the licence was subject.  1991, c. 36, s. 14. 15, 16 Repealed:  2007, c. 10, Sched. B, s. 18 (5). Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. B, s. 18 (5) - 04/06/2007 17 Omitted (provides for coming into force of provisions of this Act).  1991, c. 36, s. 17. 18 Omitted (enacts short title of this Act).  1991, c. 36, s. 18. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>14 </b>A person who, on the day before this Act comes into force, held a licence issued under Part VI of the <i>Health Disciplines Act</i> shall be deemed to be the holder of a certificate of registration issued under this Act subject to any term, condition or limitation to which the licence was subject.  1991, c. 36, s. 14.</p> <p class=\"section\"><b>15, 16 </b><span class=\"ovsmallcap\">Repealed</span>:  2007, c. 10, Sched. B, s. 18 (5).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedbs18s5\">2007, c. 10, Sched. B, s. 18 (5)</a></span> - 04/06/2007</p> <p class=\"section\"><b>17 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 36, s. 17.</p> <p class=\"section\"><b>18 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 36, s. 18.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91p36\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "15, 16",
+            "section": "Transitional",
+            "content": "15, 16 Repealed:  2007, c. 10, Sched. B, s. 18 (5). Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. B, s. 18 (5) - 04/06/2007 17 Omitted (provides for coming into force of provisions of this Act).  1991, c. 36, s. 17. 18 Omitted (enacts short title of this Act).  1991, c. 36, s. 18. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>15, 16 </b><span class=\"ovsmallcap\">Repealed</span>:  2007, c. 10, Sched. B, s. 18 (5).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedbs18s5\">2007, c. 10, Sched. B, s. 18 (5)</a></span> - 04/06/2007</p> <p class=\"section\"><b>17 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 36, s. 17.</p> <p class=\"section\"><b>18 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 36, s. 18.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91p36\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "17",
+            "section": "Transitional",
+            "content": "17 Omitted (provides for coming into force of provisions of this Act).  1991, c. 36, s. 17. 18 Omitted (enacts short title of this Act).  1991, c. 36, s. 18. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>17 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 36, s. 17.</p> <p class=\"section\"><b>18 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 36, s. 18.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91p36\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "18",
+            "section": "Transitional",
+            "content": "18 Omitted (enacts short title of this Act).  1991, c. 36, s. 18. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>18 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 36, s. 18.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91p36\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

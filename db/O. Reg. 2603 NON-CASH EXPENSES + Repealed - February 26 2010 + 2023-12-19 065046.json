@@ -1,0 +1,40 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 26/03: NON-CASH EXPENSES",
+        "reg_name_text": "NON-CASH EXPENSES",
+        "citation": "O. Reg. 26/03: ",
+        "act_under": "Financial Administration Act   Loi sur l’administration financière",
+        "url": "https://www.ontario.ca/laws/regulation/030026",
+        "date_scraped": "2023-12-19 06:50:47"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/030026/v1",
+            "valid_from": "April  1, 2003",
+            "valid_to": "February 25, 2010"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definition",
+            "content": "1. For the purposes of the definition of “non-cash expense” in section 1 of the Act,  “non-cash expense” means the amount recognized as an expense in a fiscal year on account of any of the following: 1. The reduction of a prepaid expense. 2. Amortization of a capital asset. 3. A loss on the disposition of a capital asset. 4. A loss on the unusual loss of a capital asset. 5. Bad debt expense. 6. Imputed interest on a loan bearing interest below the prevailing market rate. O. Reg. 26/03, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1.</b> For the purposes of the definition of “non-cash expense” in section 1 of the Act, </p> <p class=\"firstdef-e\">“non-cash expense” means the amount recognized as an expense in a fiscal year on account of any of the following:</p> <p class=\"paragraph-e\">1. The reduction of a prepaid expense.</p> <p class=\"paragraph-e\">2. Amortization of a capital asset.</p> <p class=\"paragraph-e\">3. A loss on the disposition of a capital asset.</p> <p class=\"paragraph-e\">4. A loss on the unusual loss of a capital asset.</p> <p class=\"paragraph-e\">5. Bad debt expense.</p> <p class=\"paragraph-e\">6. Imputed interest on a loan bearing interest below the prevailing market rate. O. Reg. 26/03, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Statutory appropriation for certain non-cash expenses",
+            "content": "2. Non-cash expenses described in paragraphs 2, 4 and 5 of the definition of “non-cash expense” in section 1 are prescribed for the purposes of subsection 11.1 (3) of the Act. O. Reg. 26/03, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> Non-cash expenses described in paragraphs 2, 4 and 5 of the definition of “non-cash expense” in section 1 are prescribed for the purposes of subsection 11.1 (3) of the Act. O. Reg. 26/03, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Statutory appropriation for certain non-cash expenses",
+            "content": "3. Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 26/03, s. 3. ",
+            "raw_html": "<p class=\"section-e\"><b>3.</b> Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 26/03, s. 3.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

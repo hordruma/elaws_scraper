@@ -1,0 +1,501 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 935: GENERAL",
+        "reg_name_text": "GENERAl",
+        "citation": "R.R.O. 1990, Reg. 935: GENERAL",
+        "act_under": "Drug Interchangeability and Dispensing Fee Act   Loi sur l’interchangeabilité des médicaments et les honoraires de préparation",
+        "url": "https://www.ontario.ca/laws/regulation/900935",
+        "date_scraped": "2023-12-18 21:59:58"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "April  6, 2020",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v84",
+            "valid_from": "January  1, 2020",
+            "valid_to": "April  5, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v83",
+            "valid_from": "December 13, 2019",
+            "valid_to": "December 31, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v82",
+            "valid_from": "October  1, 2016",
+            "valid_to": "December 12, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v81",
+            "valid_from": "September 23, 2016",
+            "valid_to": "September 30, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v80",
+            "valid_from": "October  1, 2015",
+            "valid_to": "September 22, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v79",
+            "valid_from": "September 18, 2015",
+            "valid_to": "September 30, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v78",
+            "valid_from": "April  1, 2013",
+            "valid_to": "September 17, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v77",
+            "valid_from": "January 23, 2013",
+            "valid_to": "March 31, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v76",
+            "valid_from": "April  1, 2012",
+            "valid_to": "January 22, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v75",
+            "valid_from": "April  1, 2011",
+            "valid_to": "March 31, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v74",
+            "valid_from": "July  1, 2010",
+            "valid_to": "March 31, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v73",
+            "valid_from": "June  7, 2010",
+            "valid_to": "June 30, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v72",
+            "valid_from": "October 16, 2008",
+            "valid_to": "June  6, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v71",
+            "valid_from": "July 12, 2007",
+            "valid_to": "October 15, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v70",
+            "valid_from": "July  4, 2007",
+            "valid_to": "July 11, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v69",
+            "valid_from": "April  1, 2007",
+            "valid_to": "July  3, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v68",
+            "valid_from": "December 14, 2006",
+            "valid_to": "March 31, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v67",
+            "valid_from": "October  1, 2006",
+            "valid_to": "December 13, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v66",
+            "valid_from": "September 28, 2006",
+            "valid_to": "September 30, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v65",
+            "valid_from": "September  6, 2006",
+            "valid_to": "September 27, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v64",
+            "valid_from": "August 24, 2006",
+            "valid_to": "September  5, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v63",
+            "valid_from": "August 22, 2006",
+            "valid_to": "August 23, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v62",
+            "valid_from": "August 10, 2006",
+            "valid_to": "August 21, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v61",
+            "valid_from": "July 17, 2006",
+            "valid_to": "August  9, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v60",
+            "valid_from": "July  5, 2006",
+            "valid_to": "July 16, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v59",
+            "valid_from": "June 15, 2006",
+            "valid_to": "July  4, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v58",
+            "valid_from": "June 14, 2006",
+            "valid_to": "June 14, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v57",
+            "valid_from": "May 31, 2006",
+            "valid_to": "June 13, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v56",
+            "valid_from": "May 19, 2006",
+            "valid_to": "May 30, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v55",
+            "valid_from": "May  5, 2006",
+            "valid_to": "May 18, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v54",
+            "valid_from": "April 19, 2006",
+            "valid_to": "May  4, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v53",
+            "valid_from": "April  4, 2006",
+            "valid_to": "April 18, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v52",
+            "valid_from": "March 21, 2006",
+            "valid_to": "April  3, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v51",
+            "valid_from": "March  3, 2006",
+            "valid_to": "March 20, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v50",
+            "valid_from": "March  1, 2006",
+            "valid_to": "March  2, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v49",
+            "valid_from": "February 15, 2006",
+            "valid_to": "February 28, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v48",
+            "valid_from": "January 24, 2006",
+            "valid_to": "February 14, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v47",
+            "valid_from": "January 12, 2006",
+            "valid_to": "January 23, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v46",
+            "valid_from": "January 10, 2006",
+            "valid_to": "January 11, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v45",
+            "valid_from": "December  9, 2005",
+            "valid_to": "January  9, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v44",
+            "valid_from": "December  6, 2005",
+            "valid_to": "December  8, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v43",
+            "valid_from": "November 22, 2005",
+            "valid_to": "December  5, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v42",
+            "valid_from": "November  8, 2005",
+            "valid_to": "November 21, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v41",
+            "valid_from": "October 25, 2005",
+            "valid_to": "November  7, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v40",
+            "valid_from": "October  6, 2005",
+            "valid_to": "October 24, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v39",
+            "valid_from": "September 27, 2005",
+            "valid_to": "October  5, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v38",
+            "valid_from": "September 22, 2005",
+            "valid_to": "September 26, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v37",
+            "valid_from": "September 16, 2005",
+            "valid_to": "September 21, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v36",
+            "valid_from": "September  1, 2005",
+            "valid_to": "September 15, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v35",
+            "valid_from": "August 30, 2005",
+            "valid_to": "August 31, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v34",
+            "valid_from": "August 19, 2005",
+            "valid_to": "August 29, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v33",
+            "valid_from": "August  5, 2005",
+            "valid_to": "August 18, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v32",
+            "valid_from": "July 14, 2005",
+            "valid_to": "August  4, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v31",
+            "valid_from": "June 29, 2005",
+            "valid_to": "July 13, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v30",
+            "valid_from": "June 13, 2005",
+            "valid_to": "June 28, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v29",
+            "valid_from": "May 30, 2005",
+            "valid_to": "June 12, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v28",
+            "valid_from": "May 25, 2005",
+            "valid_to": "May 29, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v27",
+            "valid_from": "May  2, 2005",
+            "valid_to": "May 24, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v26",
+            "valid_from": "April 28, 2005",
+            "valid_to": "May  1, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v25",
+            "valid_from": "March 31, 2005",
+            "valid_to": "April 27, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v24",
+            "valid_from": "March 23, 2005",
+            "valid_to": "March 30, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v23",
+            "valid_from": "February 24, 2005",
+            "valid_to": "March 22, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v22",
+            "valid_from": "February 22, 2005",
+            "valid_to": "February 23, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v21",
+            "valid_from": "February 16, 2005",
+            "valid_to": "February 21, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v20",
+            "valid_from": "February  3, 2005",
+            "valid_to": "February 15, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v19",
+            "valid_from": "January 25, 2005",
+            "valid_to": "February  2, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v18",
+            "valid_from": "January 21, 2005",
+            "valid_to": "January 24, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v17",
+            "valid_from": "December 21, 2004",
+            "valid_to": "January 20, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v16",
+            "valid_from": "December  9, 2004",
+            "valid_to": "December 20, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v15",
+            "valid_from": "November 16, 2004",
+            "valid_to": "December  8, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v14",
+            "valid_from": "November 10, 2004",
+            "valid_to": "November 15, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v13",
+            "valid_from": "November  4, 2004",
+            "valid_to": "November  9, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v12",
+            "valid_from": "October 14, 2004",
+            "valid_to": "November  3, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v11",
+            "valid_from": "October  8, 2004",
+            "valid_to": "October 13, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v10",
+            "valid_from": "October  6, 2004",
+            "valid_to": "October  7, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v9",
+            "valid_from": "September 14, 2004",
+            "valid_to": "October  5, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v8",
+            "valid_from": "September  3, 2004",
+            "valid_to": "September 13, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v7",
+            "valid_from": "August 11, 2004",
+            "valid_to": "September  2, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v6",
+            "valid_from": "August  4, 2004",
+            "valid_to": "August 10, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v5",
+            "valid_from": "July 20, 2004",
+            "valid_to": "August  3, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v4",
+            "valid_from": "June 28, 2004",
+            "valid_to": "July 19, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v3",
+            "valid_from": "April  6, 2004",
+            "valid_to": "June 27, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v2",
+            "valid_from": "March 12, 2004",
+            "valid_to": "April  5, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900935/v1",
+            "valid_from": "September  4, 2003",
+            "valid_to": "March 11, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": " 1. (1) In this Regulation, “generic line extension drug product” has the same meaning as in Ontario Regulation 201/96 (General) made under the Ontario Drug Benefit Act; “original product” means the original source of a drug product in a particular strength and dosage form; “production size lot” means the amount of finished product that is made from the minimum quantity of raw materials specified in a formula that can be processed using full sized production equipment into a dosage form that meets the specifications for the finished product. R.R.O. 1990, Reg. 935, s. 1; O. Reg. 235/92, s. 1; O. Reg. 460/92, s. 1; O. Reg. 757/92, s. 1; O. Reg. 101/93, s. 1; O. Reg. 318/93, s. 1 (1); O. Reg. 453/93, s. 1; O. Reg. 524/93, s. 1; O. Reg. 526/93, s. 1; O. Reg. 735/93, s. 1; O. Reg. 49/94, s. 1 (1); O. Reg. 108/94, s. 1; O. Reg. 452/94, s. 1 (1); O. Reg. 615/94, s. 1; O. Reg. 755/94, s. 1 (1); O. Reg. 792/94, s. 1; O. Reg. 40/95, s. 1; O. Reg. 305/95, s. 1; O. Reg. 371/95, s. 1; O. Reg. 479/95, s. 1 (1); O. Reg. 177/96, s. 1; O. Reg. 337/96, s. 1; O. Reg. 376/96, s. 1; O. Reg. 509/96, s. 1 (1); O. Reg. 28/97 s. 1; O. Reg. 111/97, s. 1; O. Reg. 300/97, s. 1; O. Reg. 613/98, s. 1; O. Reg. 73/99, s. 1; O. Reg. 333/99, s. 1; O. Reg. 402/99, s. 1; O. Reg. 587/99, s. 1; O. Reg. 201/00, s. 1 (1); O. Reg. 367/00, s. 1; O. Reg. 583/00, s. 1; O. Reg. 15/01, s. 1; O. Reg. 173/01, s. 1 (1); O. Reg. 359/01, s. 1; O. Reg. 63/02, s. 1; O. Reg. 215/02, s. 1; O. Reg. 394/02, s. 1; O. Reg. 89/03, s. 1; O. Reg. 335/03, s. 1; O. Reg. 59/04, s. 1; O. Reg. 183/04, s. 1; O. Reg. 215/04, s. 1; O. Reg. 277/04, s. 1; O. Reg. 319/04, s. 1; O. Reg. 358/04, s. 1; O. Reg. 378/04, s. 1; O. Reg. 6/05, s. 1; O. Reg. 13/05, s. 1; O. Reg. 35/05, s. 1; O. Reg. 128/05, s. 1; O. Reg. 188/05, s. 1; O. Reg. 190/05, s. 1; O. Reg. 240/05, s. 1; O. Reg. 418/05, s. 1; O. Reg. 458/05, s. 1; O. Reg. 485/05, s. 1 (1); O. Reg. 488/05, s. 1; O. Reg. 500/05, s. 1 (1); O. Reg. 545/05, s. 1; O. Reg. 54/06, ss. 1 (1); O. Reg. 203/06, s. 1; O. Reg. 458/06, s. 1 (1-3); O. Reg. 319/16, s. 1; O. Reg. 437/19, s. 1. (1.1) Revoked:  O. Reg. 54/06, s. 1 (2). (1.2), (1.3) Revoked:  O. Reg. 458/06, s. 1 (4). (2) For the purposes of subsection 1 (2) of the Act, “therapeutic substitution” means the substitution of a drug that contains chemically different active ingredients that are considered to be therapeutically equivalent, without authorization from a person authorized to prescribe drugs within the scope of his or her practice of a health profession.  O. Reg. 458/06, s. 1 (4). (3) Revoked:  O. Reg. 221/10, s. 1. (4) Revoked:  O. Reg. 458/06, s. 1 (4). (5) Revoked:  O. Reg. 485/05, s. 1 (2). (6) Revoked:  O. Reg. 458/06, s. 1 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) In this Regulation,</p> <p class=\"definition-e\">“generic line extension drug product” has the same meaning as in Ontario Regulation 201/96 (General) made under the <i>Ontario Drug Benefit Act</i>;</p> <p class=\"definition-e\">“original product” means the original source of a drug product in a particular strength and dosage form;</p> <p class=\"definition-e\">“production size lot” means the amount of finished product that is made from the minimum quantity of raw materials specified in a formula that can be processed using full sized production equipment into a dosage form that meets the specifications for the finished product.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 935, s. 1; O. Reg. 235/92, s. 1; O. Reg. 460/92, s. 1; O. Reg. 757/92, s. 1; O. Reg. 101/93, s. 1; O. Reg. 318/93, s. 1 (1); O. Reg. 453/93, s. 1; O. Reg. 524/93, s. 1; O. Reg. 526/93, s. 1; O. Reg. 735/93, s. 1; O. Reg. 49/94, s. 1 (1); O. Reg. 108/94, s. 1; O. Reg. 452/94, s. 1 (1); O. Reg. 615/94, s. 1; O. Reg. 755/94, s. 1 (1); O. Reg. 792/94, s. 1; O. Reg. 40/95, s. 1; O. Reg. 305/95, s. 1; O. Reg. 371/95, s. 1; O. Reg. 479/95, s. 1 (1); O. Reg. 177/96, s. 1; O. Reg. 337/96, s. 1; O. Reg. 376/96, s. 1; O. Reg. 509/96, s. 1 (1); O. Reg. 28/97 s. 1; O. Reg. 111/97, s. 1; O. Reg. 300/97, s. 1; O. Reg. 613/98, s. 1; O. Reg. 73/99, s. 1; O. Reg. 333/99, s. 1; O. Reg. 402/99, s. 1; O. Reg. 587/99, s. 1; O. Reg. 201/00, s. 1 (1); O. Reg. 367/00, s. 1; O. Reg. 583/00, s. 1; O. Reg. 15/01, s. 1; O. Reg. 173/01, s. 1 (1); O. Reg. 359/01, s. 1; O. Reg. 63/02, s. 1; O. Reg. 215/02, s. 1; O. Reg. 394/02, s. 1; O. Reg. 89/03, s. 1; O. Reg. 335/03, s. 1; O. Reg. 59/04, s. 1; O. Reg. 183/04, s. 1; O. Reg. 215/04, s. 1; O. Reg. 277/04, s. 1; O. Reg. 319/04, s. 1; O. Reg. 358/04, s. 1; O. Reg. 378/04, s. 1; O. Reg. 6/05, s. 1; O. Reg. 13/05, s. 1; O. Reg. 35/05, s. 1; O. Reg. 128/05, s. 1; O. Reg. 188/05, s. 1; O. Reg. 190/05, s. 1; O. Reg. 240/05, s. 1; O. Reg. 418/05, s. 1; O. Reg. 458/05, s. 1; O. Reg. 485/05, s. 1 (1); O. Reg. 488/05, s. 1; O. Reg. 500/05, s. 1 (1); O. Reg. 545/05, s. 1; O. Reg. 54/06, ss. 1 (1); O. Reg. 203/06, s. 1; O. Reg. 458/06, s. 1 (1-3); O. Reg. 319/16, s. 1; O. Reg. 437/19, s. 1.</p> <p class=\"subsection-e\">  (1.1) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 54/06, s. 1 (2).</p> <p class=\"subsection-e\">  (1.2), (1.3) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 458/06, s. 1 (4).</p> <p class=\"subsection-e\">  (2) For the purposes of subsection 1 (2) of the Act,</p> <p class=\"firstdef-e\">“therapeutic substitution” means the substitution of a drug that contains chemically different active ingredients that are considered to be therapeutically equivalent, without authorization from a person authorized to prescribe drugs within the scope of his or her practice of a health profession.  O. Reg. 458/06, s. 1 (4).</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 221/10, s. 1.</p> <p class=\"subsection-e\">  (4) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 458/06, s. 1 (4).</p> <p class=\"subsection-e\"><b> </b>(5) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 485/05, s. 1 (2).</p> <p class=\"subsection-e\">  (6) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 458/06, s. 1 (4).</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": " 2. (1) Revoked: O. Reg. 221/10, s. 2 (6). (1.1) Revoked: O. Reg. 221/10, s. 2 (6). (2) Revoked: O. Reg. 221/10, s. 2 (6). (3) For the purposes of section 12.1 of the Act, a “rebate” does not include the value of a benefit that is provided in accordance with ordinary commercial terms that meet all of the following conditions: 1. The benefit is provided in the ordinary course of business in the supply chain system of interchangeable products between any of a manufacturer, a wholesaler, an operator of a pharmacy or a company that owns, operates or franchises pharmacies. 2. The value of the benefit is set out in a written agreement between any of a manufacturer, a wholesaler, an operator of a pharmacy and a company that owns, operates or franchises pharmacies. 3. The benefit relates to an ordinary commercial relationship that is any of the following: i. A prompt payment discount. ii. A volume discount. iii. A distribution service fee. 4.  Revoked: O. Reg. 435/19, s. 1. 5. A person who receives the benefit reports to the executive officer, if required by the executive officer to do so, the net selling price of the drug products representing the price of the product less the value of the benefits received.  O. Reg. 221/10, s. 2 (5); O. Reg. 435/19, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 221/10, s. 2 (6).</p> <p class=\"subsection-e\">  (1.1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 221/10, s. 2 (6).</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 221/10, s. 2 (6).</p> <p class=\"subsection-e\">  (3) For the purposes of section 12.1 of the Act, a “rebate” does not include the value of a benefit that is provided in accordance with ordinary commercial terms that meet all of the following conditions:</p> <p class=\"paragraph-e\">  1. The benefit is provided in the ordinary course of business in the supply chain system of interchangeable products between any of a manufacturer, a wholesaler, an operator of a pharmacy or a company that owns, operates or franchises pharmacies.</p> <p class=\"paragraph-e\">  2. The value of the benefit is set out in a written agreement between any of a manufacturer, a wholesaler, an operator of a pharmacy and a company that owns, operates or franchises pharmacies.</p> <p class=\"paragraph-e\">  3. The benefit relates to an ordinary commercial relationship that is any of the following:</p> <p class=\"subpara-e\">  i. A prompt payment discount.</p> <p class=\"subpara-e\">  ii. A volume discount.</p> <p class=\"subpara-e\">  iii. A distribution service fee.</p> <p class=\"paragraph-e\">  4.  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 435/19, s. 1.</p> <p class=\"paragraph-e\">  5. A person who receives the benefit reports to the executive officer, if required by the executive officer to do so, the net selling price of the drug products representing the price of the product less the value of the benefits received.  O. Reg. 221/10, s. 2 (5); O. Reg. 435/19, s. 1.</p>"
+        },
+        {
+            "id": "3.",
+            "section": null,
+            "content": "  3. Revoked:  O. Reg. 458/06, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  3. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 458/06, s. 2.</p>"
+        },
+        {
+            "id": "4.",
+            "section": null,
+            "content": "  4. Revoked:  O. Reg. 204/96, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>  4. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 204/96, s. 1.</p>"
+        },
+        {
+            "id": "5.",
+            "section": null,
+            "content": " 5. A person may charge more than the person’s usual and customary dispensing fee for a product that is supplied pursuant to a prescription if the person explains why a fee in excess of the usual and customary fee is being charged prior to the dispensing of the prescription and the charging of the additional fee is not an act of professional misconduct under section 1 of Ontario Regulation 681/93 made under the Pharmacy Act, 1991.  R.R.O. 1990, Reg. 935, s. 5; O. Reg. 377/94, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>A person may charge more than the person’s usual and customary dispensing fee for a product that is supplied pursuant to a prescription if the person explains why a fee in excess of the usual and customary fee is being charged prior to the dispensing of the prescription and the charging of the additional fee is not an act of professional misconduct under section 1 of Ontario Regulation 681/93 made under the <i>Pharmacy Act, 1991</i>.  R.R.O. 1990, Reg. 935, s. 5; O. Reg. 377/94, s. 1.</p>"
+        },
+        {
+            "id": "6.",
+            "section": null,
+            "content": " 6. (1) It is a condition for each strength and dosage form of a drug product to be designated as interchangeable with other products that the manufacturer of the drug product submit to the executive officer, (a) evidence that Health Canada has approved the product for sale in Canada and, subject to subsection (2), a copy of the product monograph approved by Health Canada; (b) a letter authorizing the executive officer to gain access to all information with respect to the product in the possession of Health Canada, the Patented Medicine Prices Review Board established under section 91 of the Patent Act\r\n(Canada), the government of any province or territory in Canada or the Canadian Agency for Drugs and Technologies in Health and authorizing the executive officer to disclose any information with respect to the product in the possession of the Ministry to Health Canada, the Patented Medicine Prices Review Board, the government of a province or territory in Canada or the Canadian Agency for Drugs and Technologies in Health; (c) documentation disclosing the product’s master formulation; (d) the proposed drug benefit price of the product, where it is proposed that the product be designated as a listed drug product under the Ontario Drug Benefit Act, and a proposed manufacturer’s list price where it is not proposed that the product be so designated; (d.1)  Revoked:  O. Reg. 496/00, s. 1 (4). (e) evidence that the manufacturer is able to supply the product at the proposed drug benefit price in a quantity sufficient to meet the anticipated demand for the product where it is proposed that the product be designated as a listed drug product under the Ontario Drug Benefit Act; (f) certification in writing that no rebate as defined in subsection 12.1 (14) of the Act has been provided to a person listed in subsection 12.1 (1) of the Act with respect to the product contrary to the Act since Health Canada approved the product for sale in Canada; (g)  Revoked:  O. Reg. 496/00, s. 1 (5). (h) comparative bioavailability studies on humans, comparative clinical studies on humans, or both, or other in vivo studies that will show the interchangeability of the product with the original product. (i)  Revoked:  O. Reg. 496/00, s. 1 (6). O. Reg. 18/96, s. 1; O. Reg. 204/96, s. 2; O. Reg. 28/97, s. 2 (1, 2); O. Reg. 496/00, s. 1 (1-6); O. Reg. 337/03, s. 1 (1); O. Reg. 644/05, s. 2; O. Reg. 458/06, s. 3 (1-3); O. Reg. 321/07, s. 1 (1); O. Reg. 437/19, s. 2. (2) If Health Canada has not approved a product monograph for a drug product, the manufacturer of the product may, instead of submitting a copy of the product monograph as required under clause (1) (a), submit to the executive officer the following information: 1. Pharmaceutical information. 2. Information with respect to the product’s clinical pharmacology. 3. Information as to the product’s indications and clinical use. 4. A list of any contra-indications, warnings or precautions in the use of the product and of possible adverse reactions to its use. 5. A list of symptoms of an overdose of the product and information as to the treatment of an overdose. 6. Information with respect to the dosage and administration of the product. 7. Information regarding the availability of dosage forms for each strength of the product marketed in Canada.  O. Reg. 18/96, s. 1; O. Reg. 496/00, s. 1 (7); O. Reg. 458/06, s. 3 (4). (3) Clauses (1) (c) and (h) do not apply to the manufacturer of a drug product if the dosage form, strength, formula and manufacturing process of the product and the testing standards for both the raw materials of the product and the finished product are identical to those of the product with which it seeks to be designated as interchangeable.  O. Reg. 18/96, s. 1; O. Reg. 496/00, s. 1 (8). (3.1) Clauses (1) (c) and (h) do not apply to a product that has been designated by Health Canada as equivalent to the original product or to another listed interchangeable product with which it would be designated as interchangeable. O. Reg. 319/16, s. 2 (1). (4) A manufacturer may satisfy the condition set out in clause (1) (h) for a strength of a drug product by submitting the evidence referred to in clause (1) (h) for another strength of the same dosage form of the drug product if that information is sufficient for the purposes of evaluating the interchangeability of both the strengths of the dosage form of the product.  O. Reg. 18/96, s. 1. (5) Clause (1) (h) does not apply with respect to a drug product that is pharmaceutically equivalent to the original product, demonstrates the same physicochemical properties of the original product, is the same dosage form, packaging format and strength as the original product and is one of the following: 1. A parenteral aqueous solution, or a powder for reconstitution into an aqueous solution, that may be administered in an intravenous, intramuscular, subcutaneous or intrathecal fashion and that is in the same solvent and in the same concentration as the original product. 2. An oral solution, elixir, syrup or other similar solubilized form in the same concentration as the original product and which contains no ingredient that will affect the bioavailability of the active ingredient. 3. An ophthalmic, otic, nasal, rectal, vaginal or inhaled solution that is topical and aqueous.  O. Reg. 18/96, s. 1; O. Reg. 496/00, s. 1 (9); O. Reg. 285/15, s. 1 (1). (5.1) Revoked: O. Reg. 319/16, s. 2 (2). (6) Clause (1) (h) does not apply to a drug product that has a non-systemic effect where blood concentrations of the product cannot be measured and clinical studies with a pharmacodynamics endpoint are inappropriate or difficult to conduct if all of the following conditions are met: 1. The manufacturer provides in vitro studies that satisfy the executive officer that the product is interchangeable with the original product. 2. The manufacturer satisfies the executive officer that the in vitro studies described in paragraph 1 are scientifically justified, appropriate for the drug class and can demonstrate equal drug product performance. O. Reg. 319/16, s. 2 (2). (7) Subsection (1) does not apply to a generic line extension drug product that the executive officer has agreed to designate as interchangeable with another product. O. Reg. 319/16, s. 2 (2). (7.1), (7.2) Revoked: O. Reg. 319/16, s. 2 (2). (8) A strength and dosage form of a drug product that contains oxycodone as the only active ingredient and that is a long-acting product that has been formulated in a solid dosage form for oral administration shall not be designated as interchangeable unless the following conditions are met: 1. There must be evidence satisfactory to the executive officer that the drug product exhibits one or more physiochemical properties that, when compared to drugs without the property or properties, make the drug product, i. significantly more difficult to alter, break, crush, chew, dissolve or otherwise manipulate in such a way that it could be misused, abused or put to an intended use that is different than the use for which it is prescribed, or ii. significantly less effective and less likely to be misused, abused or put to an intended use that is different than the use for which it is prescribed, if the product is altered, broken, crushed, chewed, dissolved or otherwise manipulated. 2. The evidence referred to in paragraph 1 must be demonstrated by, i. in vitro testing, ii. in vivo testing, iii. another form of testing of equivalent reliability, or iv. a combination of any of the forms of testing mentioned in subparagraphs i to iii. O. Reg. 21/13, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) It is a condition for each strength and dosage form of a drug product to be designated as interchangeable with other products that the manufacturer of the drug product submit to the executive officer,</p> <p class=\"clause-e\">  (a) evidence that Health Canada has approved the product for sale in Canada and, subject to subsection (2), a copy of the product monograph approved by Health Canada;</p> <p class=\"clause-e\">  (b) a letter authorizing the executive officer to gain access to all information with respect to the product in the possession of Health Canada, the Patented Medicine Prices Review Board established under section 91 of the <i>Patent Act</i>\r\n(Canada), the government of any province or territory in Canada or the Canadian Agency for Drugs and Technologies in Health and authorizing the executive officer to disclose any information with respect to the product in the possession of the Ministry to Health Canada, the Patented Medicine Prices Review Board, the government of a province or territory in Canada or the Canadian Agency for Drugs and Technologies in Health;</p> <p class=\"clause-e\">  (c) documentation disclosing the product’s master formulation;</p> <p class=\"clause-e\">  (d) the proposed drug benefit price of the product, where it is proposed that the product be designated as a listed drug product under the <i>Ontario Drug Benefit Act</i>, and a proposed manufacturer’s list<b> </b>price where it is not proposed that the product be so designated;</p> <p class=\"clause-e\"> (d.1)  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 496/00, s. 1 (4).</p> <p class=\"clause-e\">  (e) evidence that the manufacturer is able to supply the product at the proposed drug benefit price in a quantity sufficient to meet the anticipated demand for the product where it is proposed that the product be designated as a listed drug product under the <i>Ontario Drug Benefit Act</i>;</p> <p class=\"clause-e\">  (f) certification in writing that no rebate as defined in subsection 12.1 (14) of the Act has been provided to a person listed in subsection 12.1 (1) of the Act with respect to the product contrary to the Act since Health Canada approved the product for sale in Canada;</p> <p class=\"clause-e\">  (g)  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 496/00, s. 1 (5).</p> <p class=\"clause-e\">  (h) comparative bioavailability studies on humans, comparative clinical studies on humans, or both, or other in vivo studies that will show the interchangeability of the product with the original product.</p> <p class=\"clause-e\">  (i)  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 496/00, s. 1 (6).</p> <p class=\"footnote-e\">O. Reg. 18/96, s. 1; O. Reg. 204/96, s. 2; O. Reg. 28/97, s. 2 (1, 2); O. Reg. 496/00, s. 1 (1-6); O. Reg. 337/03, s. 1 (1); O. Reg. 644/05, s. 2; O. Reg. 458/06, s. 3 (1-3); O. Reg. 321/07, s. 1 (1); O. Reg. 437/19, s. 2.</p> <p class=\"subsection-e\">  (2) If Health Canada has not approved a product monograph for a drug product, the manufacturer of the product may, instead of submitting a copy of the product monograph as required under clause (1) (a), submit to the executive officer the following information:</p> <p class=\"paragraph-e\">  1. Pharmaceutical information.</p> <p class=\"paragraph-e\">  2. Information with respect to the product’s clinical pharmacology.</p> <p class=\"paragraph-e\">  3. Information as to the product’s indications and clinical use.</p> <p class=\"paragraph-e\">  4. A list of any contra<span>-</span>indications, warnings or precautions in the use of the product and of possible adverse reactions to its use.</p> <p class=\"paragraph-e\">  5. A list of symptoms of an overdose of the product and information as to the treatment of an overdose.</p> <p class=\"paragraph-e\">  6. Information with respect to the dosage and administration of the product.</p> <p class=\"paragraph-e\">  7. Information regarding the availability of dosage forms for each strength of the product marketed in Canada.  O. Reg. 18/96, s. 1; O. Reg. 496/00, s. 1 (7); O. Reg. 458/06, s. 3 (4).</p> <p class=\"subsection-e\">  (3) Clauses (1) (c) and (h) do not apply to the manufacturer of a drug product if the dosage form, strength, formula and manufacturing process of the product and the testing standards for both the raw materials of the product and the finished product are identical to those of the product with which it seeks to be designated as interchangeable.  O. Reg. 18/96, s. 1; O. Reg. 496/00, s. 1 (8).</p> <p class=\"subsection-e\">  (3.1) Clauses (1) (c) and (h) do not apply to a product that has been designated by Health Canada as equivalent to the original product or to another listed interchangeable product with which it would be designated as interchangeable. O. Reg. 319/16, s. 2 (1).</p> <p class=\"subsection-e\">  (4) A manufacturer may satisfy the condition set out in clause (1) (h) for a strength of a drug product by submitting the evidence referred to in clause (1) (h) for another strength of the same dosage form of the drug product if that information is sufficient for the purposes of evaluating the interchangeability of both the strengths of the dosage form of the product.  O. Reg. 18/96, s. 1.</p> <p class=\"subsection-e\">  (5) Clause (1) (h) does not apply with respect to a drug product that is pharmaceutically equivalent to the original product, demonstrates the same physicochemical properties of the original product, is the same dosage form, packaging format and strength as the original product and is one of the following:</p> <p class=\"paragraph-e\">  1. A parenteral aqueous solution, or a powder for reconstitution into an aqueous solution, that may be administered in an intravenous, intramuscular, subcutaneous or intrathecal fashion and that is in the same solvent and in the same concentration as the original product.</p> <p class=\"paragraph-e\">  2. An oral solution, elixir, syrup or other similar solubilized form in the same concentration as the original product and which contains no ingredient that will affect the bioavailability of the active ingredient.</p> <p class=\"paragraph-e\">  3. An ophthalmic, otic, nasal, rectal, vaginal or inhaled solution that is topical and aqueous.  O. Reg. 18/96, s. 1; O. Reg. 496/00, s. 1 (9); O. Reg. 285/15, s. 1 (1).</p> <p class=\"subsection-e\">  (5.1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 319/16, s. 2 (2).</p> <p class=\"subsection-e\">  (6) Clause (1) (h) does not apply to a drug product that has a non-systemic effect where blood concentrations of the product cannot be measured and clinical studies with a pharmacodynamics endpoint are inappropriate or difficult to conduct if all of the following conditions are met:</p> <p class=\"paragraph-e\">  1. The manufacturer provides in vitro studies that satisfy the executive officer that the product is interchangeable with the original product.</p> <p class=\"paragraph-e\">  2. The manufacturer satisfies the executive officer that the in vitro studies described in paragraph 1 are scientifically justified, appropriate for the drug class and can demonstrate equal drug product performance. O. Reg. 319/16, s. 2 (2).</p> <p class=\"subsection-e\">  (7) Subsection (1) does not apply to a generic line extension drug product that the executive officer has agreed to designate as interchangeable with another product. O. Reg. 319/16, s. 2 (2).</p> <p class=\"subsection-e\">  (7.1), (7.2) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 319/16, s. 2 (2).</p> <p class=\"subsection-e\">  (8) A strength and dosage form of a drug product that contains oxycodone as the only active ingredient and that is a long-acting product that has been formulated in a solid dosage form for oral administration shall not be designated as interchangeable unless the following conditions are met:</p> <p class=\"paragraph-e\">  1. There must be evidence satisfactory to the executive officer that the drug product exhibits one or more physiochemical properties that, when compared to drugs without the property or properties, make the drug product,</p> <p class=\"subpara-e\">  i. significantly more difficult to alter, break, crush, chew, dissolve or otherwise manipulate in such a way that it could be misused, abused or put to an intended use that is different than the use for which it is prescribed, or</p> <p class=\"subpara-e\">  ii. significantly less effective and less likely to be misused, abused or put to an intended use that is different than the use for which it is prescribed, if the product is altered, broken, crushed, chewed, dissolved or otherwise manipulated.</p> <p class=\"paragraph-e\">  2. The evidence referred to in paragraph 1 must be demonstrated by,</p> <p class=\"subpara-e\">  i. in vitro testing,</p> <p class=\"subpara-e\">  ii. in vivo testing,</p> <p class=\"subpara-e\">  iii. another form of testing of equivalent reliability, or</p> <p class=\"subpara-e\">  iv. a combination of any of the forms of testing mentioned in subparagraphs i to iii. O. Reg. 21/13, s. 1.</p>"
+        },
+        {
+            "id": "7.",
+            "section": null,
+            "content": " 7. Where it is proposed that the strength and dosage form of a product be designated as interchangeable and it is proposed that it also be designated as a listed drug product under the Ontario Drug Benefit Act, an additional condition to be met in order for it to be designated as interchangeable is that the proposed drug benefit price must be no greater than the price permitted under that Act for the strength and dosage form of the product.  O. Reg. 221/10, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>7.</b> Where it is proposed that the strength and dosage form of a product be designated as interchangeable and it is proposed that it also be designated as a listed drug product under the <i>Ontario Drug Benefit Act</i>, an additional condition to be met in order for it to be designated as interchangeable is that the proposed drug benefit price must be no greater than the price permitted under that Act for the strength and dosage form of the product.  O. Reg. 221/10, s. 3.</p>"
+        },
+        {
+            "id": "8.",
+            "section": null,
+            "content": " 8. (1) The following conditions must be met in order for a drug product that has been designated as interchangeable to continue to be designated as interchangeable: 1. The manufacturer of the product shall give the executive officer notice of any change made to the product, including a formulation change, and of any change in the ownership of the manufacturer. 2. The product must be authorized for sale under the Food and Drugs Act (Canada). 3. The manufacturer of the product must continue to be able to supply the product at the drug benefit price in a quantity that is sufficient to meet the demand for the product where the product is designated as a listed drug product under the Ontario Drug Benefit Act. 4. If the product is a listed drug product under the Ontario Drug Benefit Act, the manufacturer shall not sell the product at a price higher than the drug benefit price permitted under that Act whether or not the product is supplied for the purposes of that Act. 5.  Revoked:  O. Reg. 221/10, s. 4 (3). 5.1, 5.2  Revoked:  O. Reg. 221/10, s. 4 (1). 6.  Revoked:  O. Reg. 221/10, s. 4 (3). 7. If the drug product has not been designated as a listed drug product under the Ontario Drug Benefit Act, the manufacturer of the product shall give the executive officer notice of every change in the manufacturer’s list price for the drug product. 8. The manufacturer must not have provided a rebate as defined in subsection 12.1 (14) of the Act to a person listed in subsection 12.1 (1) of the Act with respect to the product contrary to the Act since Health Canada approved the product for sale in Canada. 9. If required by the executive officer, the manufacturer of a product that has been designated as interchangeable shall inform the executive officer of the price that the manufacturer receives for the product, net of the value of any ordinary commercial terms.  O. Reg. 28/97, s. 3; O. Reg. 458/06, s. 5 (1-4); O. Reg. 558/06, s. 3 (1, 2); O. Reg. 321/07, s. 2 (1-4); O. Reg. 354/08, s. 2 (1-3); O. Reg. 221/10, s. 4 (1-4); O. Reg. 221/10, s. 4 (5). (2) For greater certainty, the conditions set out in subsection (1) apply whether the designation of the product as an interchangeable product took place before, on or after July 1, 2010.  O. Reg. 458/06, s. 5 (5); O. Reg. 221/10, s. 4 (6). (3) Revoked:  O. Reg. 221/10, s. 4 (7). (4) Revoked:  O. Reg. 221/10, s. 4 (9).",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>(1)<b> </b>The following conditions must be met in order for a drug product that has been designated as interchangeable to continue to be designated as interchangeable:</p> <p class=\"paragraph-e\">  1. The manufacturer of the product shall give the executive officer notice of any change made to the product, including a formulation change, and of any change in the ownership of the manufacturer.</p> <p class=\"paragraph-e\">  2. The product must be authorized for sale under the <i>Food and Drugs Act</i> (Canada).</p> <p class=\"paragraph-e\">  3. The manufacturer of the product must continue to be able to supply the product at the drug benefit price in a quantity that is sufficient to meet the demand for the product where the product is designated as a listed drug product under the <i>Ontario Drug Benefit Act</i>.</p> <p class=\"paragraph-e\">  4. If the product is a listed drug product under the <i>Ontario Drug Benefit Act</i>, the manufacturer shall not sell the product at a price higher than the drug benefit price permitted under that Act whether or not the product is supplied for the purposes of that Act.</p> <p class=\"paragraph-e\">  5.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 221/10, s. 4 (3).</p> <p class=\"paragraph-e\"> 5.1, 5.2  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 221/10, s. 4 (1).</p> <p class=\"paragraph-e\">  6.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 221/10, s. 4 (3).</p> <p class=\"paragraph-e\">  7. If the drug product has not been designated as a listed drug product under the <i>Ontario Drug Benefit Act</i>, the manufacturer of the product shall give the executive officer notice of every change in the manufacturer’s list price for the drug product.</p> <p class=\"paragraph-e\">  8. The manufacturer must not have provided a rebate as defined in subsection 12.1 (14) of the Act to a person listed in subsection 12.1 (1) of the Act with respect to the product contrary to the Act since Health Canada approved the product for sale in Canada.</p> <p class=\"paragraph-e\">  9. If required by the executive officer, the manufacturer of a product that has been designated as interchangeable shall inform the executive officer of the price that the manufacturer receives for the product, net of the value of any ordinary commercial terms.  O. Reg. 28/97, s. 3; O. Reg. 458/06, s. 5 (1-4); O. Reg. 558/06, s. 3 (1, 2); O. Reg. 321/07, s. 2 (1-4); O. Reg. 354/08, s. 2 (1-3); O. Reg. 221/10, s. 4 (1-4); O. Reg. 221/10, s. 4 (5).</p> <p class=\"subsection-e\">  (2) For greater certainty, the conditions set out in subsection (1) apply whether the designation of the product as an interchangeable product took place before, on or after July 1, 2010.  O. Reg. 458/06, s. 5 (5); O. Reg. 221/10, s. 4 (6).</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 221/10, s. 4 (7).</p> <p class=\"subsection-e\">  (4) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 221/10, s. 4 (9).</p>"
+        },
+        {
+            "id": "9.",
+            "section": null,
+            "content": "  9. Revoked:  O. Reg. 124/20, s. 1. Schedule 1 Revoked: O. Reg. 221/10, s. 6 (3).    ",
+            "raw_html": "<p class=\"section-e\"><b>  9. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 124/20, s. 1.</p> <p class=\"scheduleRepeal-e\"><span class=\"ovallcaps\">Schedule 1</span> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 221/10, s. 6 (3).</p> <p class=\"scheduleRepeal-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

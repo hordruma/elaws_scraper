@@ -1,0 +1,61 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 345/20: PATIOS",
+        "reg_name_text": "PATIOS",
+        "citation": "O. Reg. 345/20: ",
+        "act_under": "Reopening Ontario (A Flexible Response to COVID-19) Act, 2020",
+        "url": "https://www.ontario.ca/laws/regulation/200345",
+        "date_scraped": "2023-12-18 06:02:41"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/200345/v3",
+            "valid_from": "April 14, 2022",
+            "valid_to": "April 26, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/200345/v2",
+            "valid_from": "July 15, 2020",
+            "valid_to": "April 13, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/200345/v1",
+            "valid_from": "July  2, 2020",
+            "valid_to": "July 14, 2020"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Terms of Order",
+            "content": " 1. The terms of this Order are set out in Schedule 1. O. Reg. 409/20, s. 3. schedule 1",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The terms of this Order are set out in Schedule 1. O. Reg. 409/20, s. 3.</p> <p class=\"schedule-e\">schedule 1</p>"
+        },
+        {
+            "id": "1.",
+            "section": "Interpretation",
+            "content": "  1. In this order, “restaurant or bar patio” means an area that is not an enclosed public place or an enclosed workplace and that meets the following criteria: 1. The public is ordinarily invited or permitted access to the area, either expressly or by implication, whether or not a fee is charged for entry, or the area is worked in or frequented by employees during the course of their employment, whether or not they are acting in the course of their employment at the time. 2. Food or drink is served or sold or offered for consumption in the area, or the area is part of, or operated in conjunction with, an area where food or drink is served or sold or offered. 3. The area is not primarily a private dwelling.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>In this order,</p> <p class=\"definition-e\">“restaurant or bar patio” means an area that is not an enclosed public place or an enclosed workplace and that meets the following criteria:</p> <p class=\"defparagraph-e\">  1. The public is ordinarily invited or permitted access to the area, either expressly or by implication, whether or not a fee is charged for entry, or the area is worked in or frequented by employees during the course of their employment, whether or not they are acting in the course of their employment at the time.</p> <p class=\"defparagraph-e\">  2. Food or drink is served or sold or offered for consumption in the area, or the area is part of, or operated in conjunction with, an area where food or drink is served or sold or offered.</p> <p class=\"defparagraph-e\">  3. The area is not primarily a private dwelling.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Exemption from certain provisions",
+            "content": " 2. A by-law that would authorize the temporary use of land for a restaurant or bar patio under section 39 of the Planning Act is exempt from subsections 34 (12) to (14.3), (14.5) to (15) and (19) of that Act and paragraphs 4 and 5 of subsection 6 (9) of Ontario Regulation 545/06 under that Act.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>A by-law that would authorize the temporary use of land for a restaurant or bar patio under section 39 of the <i>Planning Act</i> is exempt from subsections 34 (12) to (14.3), (14.5) to (15) and (19) of that Act and paragraphs 4 and 5 of subsection 6 (9) of Ontario Regulation 545/06 under that Act.</p>"
+        },
+        {
+            "id": null,
+            "section": "Exemption from certain provisions",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/200345\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

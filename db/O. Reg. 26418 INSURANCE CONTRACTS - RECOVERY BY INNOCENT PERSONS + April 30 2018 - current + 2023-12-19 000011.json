@@ -1,0 +1,51 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 264/18: INSURANCE CONTRACTS - RECOVERY BY INNOCENT PERSONS",
+        "reg_name_text": "INSURANCE CONTRACTS - RECOVERY BY INNOCENT PERSONS",
+        "citation": "O. Reg. 264/18: ",
+        "act_under": "Insurance Act",
+        "url": "https://www.ontario.ca/laws/regulation/180264",
+        "date_scraped": "2023-12-19 00:00:11"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "April 30, 2018",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/180264/v1",
+            "valid_from": "April 20, 2018",
+            "valid_to": "April 29, 2018"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Prescribed class of persons",
+            "content": "  1. For the purposes of clause 129.1 (d) of the Act, all classes of persons other than natural persons are prescribed.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>For the purposes of clause 129.1 (d) of the Act, all classes of persons other than natural persons are prescribed.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Prescribed requirements",
+            "content": " 2. For the purposes of subsection 129.1 (3) of the Act, the following requirements must be complied with: 1. The person must cooperate with the insurer in the investigation of the loss or damage and must submit to an examination under oath, if requested by the insurer. 2. The person must produce for examination at such reasonable place and time as is designated by the insurer all documents in the person’s possession or control that relate to the loss or damage, in addition to those documents required to be produced under the contract.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>For the purposes of subsection 129.1 (3) of the Act, the following requirements must be complied with:</p> <p class=\"paragraph-e\">  1. The person must cooperate with the insurer in the investigation of the loss or damage and must submit to an examination under oath, if requested by the insurer.</p> <p class=\"paragraph-e\">  2. The person must produce for examination at such reasonable place and time as is designated by the insurer all documents in the person’s possession or control that relate to the loss or damage, in addition to those documents required to be produced under the contract.</p>"
+        },
+        {
+            "id": "Sig",
+            "section": "Prescribed requirements",
+            "content": " 3. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>3.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).<a name=\"Sig\"></a></p>"
+        },
+        {
+            "id": null,
+            "section": "Prescribed requirements",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/180264\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

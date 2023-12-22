@@ -1,0 +1,1348 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 664/98: FISH LICENSING",
+        "reg_name_text": "FISH LICENSING",
+        "citation": "O. Reg. 664/98: ",
+        "act_under": "Fish and Wildlife Conservation Act, 1997",
+        "url": "https://www.ontario.ca/laws/regulation/980664",
+        "date_scraped": "2023-12-18 02:50:08"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November  8, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v42",
+            "valid_from": "April  1, 2022",
+            "valid_to": "November  7, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v41",
+            "valid_from": "March 11, 2022",
+            "valid_to": "March 31, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v40",
+            "valid_from": "February 11, 2022",
+            "valid_to": "March 10, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v39",
+            "valid_from": "January  1, 2022",
+            "valid_to": "February 10, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v38",
+            "valid_from": "August 23, 2021",
+            "valid_to": "December 31, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v37",
+            "valid_from": "January  1, 2021",
+            "valid_to": "August 22, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v36",
+            "valid_from": "December 16, 2020",
+            "valid_to": "December 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v35",
+            "valid_from": "October 23, 2020",
+            "valid_to": "December 15, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v34",
+            "valid_from": "March 11, 2019",
+            "valid_to": "October 22, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v33",
+            "valid_from": "January  1, 2019",
+            "valid_to": "March 10, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v32",
+            "valid_from": "December 17, 2018",
+            "valid_to": "December 31, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v31",
+            "valid_from": "November 23, 2018",
+            "valid_to": "December 16, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v30",
+            "valid_from": "November  2, 2018",
+            "valid_to": "November 22, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v29",
+            "valid_from": "January  1, 2018",
+            "valid_to": "November  1, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v28",
+            "valid_from": "December 18, 2017",
+            "valid_to": "December 31, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v27",
+            "valid_from": "November  3, 2016",
+            "valid_to": "December 17, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v26",
+            "valid_from": "November  2, 2016",
+            "valid_to": "November  2, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v25",
+            "valid_from": "May  5, 2016",
+            "valid_to": "November  1, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v24",
+            "valid_from": "April 14, 2016",
+            "valid_to": "May  4, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v23",
+            "valid_from": "January  1, 2016",
+            "valid_to": "April 13, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v22",
+            "valid_from": "November 26, 2015",
+            "valid_to": "December 31, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v21",
+            "valid_from": "January  1, 2014",
+            "valid_to": "November 25, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v20",
+            "valid_from": "December 13, 2013",
+            "valid_to": "December 31, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v19",
+            "valid_from": "July 19, 2013",
+            "valid_to": "December 12, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v18",
+            "valid_from": "January  1, 2013",
+            "valid_to": "July 18, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v17",
+            "valid_from": "November 16, 2012",
+            "valid_to": "December 31, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v16",
+            "valid_from": "July  1, 2011",
+            "valid_to": "November 15, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v15",
+            "valid_from": "March  4, 2011",
+            "valid_to": "June 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v14",
+            "valid_from": "May 14, 2010",
+            "valid_to": "March  3, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v13",
+            "valid_from": "September 21, 2009",
+            "valid_to": "May 13, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v12",
+            "valid_from": "January  1, 2009",
+            "valid_to": "September 20, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v11",
+            "valid_from": "October 20, 2008",
+            "valid_to": "December 31, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v10",
+            "valid_from": "August 13, 2008",
+            "valid_to": "October 19, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v9",
+            "valid_from": "January  1, 2008",
+            "valid_to": "August 12, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v8",
+            "valid_from": "July 27, 2007",
+            "valid_to": "December 31, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v7",
+            "valid_from": "July  3, 2007",
+            "valid_to": "July 26, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v6",
+            "valid_from": "November 25, 2005",
+            "valid_to": "July  2, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v5",
+            "valid_from": "June  3, 2005",
+            "valid_to": "November 24, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v4",
+            "valid_from": "December 16, 2004",
+            "valid_to": "June  2, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v3",
+            "valid_from": "November  4, 2004",
+            "valid_to": "December 15, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v2",
+            "valid_from": "April 22, 2004",
+            "valid_to": "November  3, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/980664/v1",
+            "valid_from": "December 17, 2003",
+            "valid_to": "April 21, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART 0.I",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "PART I",
+            "Section": "None",
+            "Section1": "DEFINITIONS",
+            "Section2": "0.1",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "PART II",
+            "Section": "None",
+            "Section1": "SPORT FISHING LICENCES",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation",
+            "Section2": "1-1.1",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Outdoors Cards",
+            "Section2": "2-3",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Restrictions on Sport Fishing Licences",
+            "Section2": "4-8",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Licences",
+            "Section2": "9-17",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Licence Terms and Conditions",
+            "Section2": "18-18.6",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "PART II.1",
+            "Section": "None",
+            "Section1": "AQUACULTURE",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Aquaculture Licences",
+            "Section2": "19-24",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Fish Stocking Licences",
+            "Section2": "25-27",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Licence to Collect Fish from Ontario Waters",
+            "Section2": "28",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Transportation of Fish",
+            "Section2": "29",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Non-Application of Sections of the Act to Licence Holders",
+            "Section2": "30",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "PART III ",
+            "Section": "None",
+            "Section1": "TRANSPORT AND USE OF BAIT",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Definitions",
+            "Section2": "30.1",
+            "part_id": "PART III ",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Definitions",
+            "Section2": "31",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Bait Management Zones",
+            "Section2": "30.2",
+            "part_id": "PART III ",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Restrictions on the Use and Possession of Bait",
+            "Section2": "30.3",
+            "part_id": "PART III ",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Restrictions on the Transport of Bait",
+            "Section2": "30.4-30.6",
+            "part_id": "PART III ",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "PART IV",
+            "Section": "None",
+            "Section1": "BUYING OR SELLING FISH, FROGS AND LEECHES AND RELATED LICENCES",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Commercial Fishing Licences",
+            "Section2": "31.1-31.2",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Commercial Bait Licences",
+            "Section2": "31.3-31.5",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Buying or Selling Fish",
+            "Section2": "32-33",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Commercial Fishing Royalties",
+            "Section2": "34",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "PART IV",
+            "Section": "None",
+            "Section1": "MISCELLANEOUS",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule B",
+            "Section": "None",
+            "Section1": "Species eligible for culture in Ontario",
+            "Section2": "None",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule C",
+            "Section": "None",
+            "Section1": "Fish disease agents",
+            "Section2": "None",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule D",
+            "Section": "None",
+            "Section1": "Species of fish",
+            "Section2": "None",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Licence to Collect Fish for Scientific Purposes",
+            "Section2": "34.0.1-34.1",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Licence to Transport Live Fish",
+            "Section2": "34.2",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Licence to Possess Nets",
+            "Section2": "34.3",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Licence Validity and Expiry",
+            "Section2": "35-36",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Fishing Huts",
+            "Section2": "37-40",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#0.1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  0.1. In this Regulation, “baitfish” means baitfish as defined in the Ontario Fishery Regulations; (“poisson-appât”) “fisheries management zone” means a part of Ontario shown in the Regulation Plans of Fisheries Management Zones 1 - 20 filed on December 5, 2013 with the Office of the Surveyor General of Ontario; (“zone de gestion des pêches”) “leech” means a member of a species of the Class Hirudinea. (“sangsue”) O. Reg. 576/21, s. 1. PART I   SPORT FISHING LICENCES Interpretation",
+            "raw_html": "<p class=\"section-e\"><b>  0.1. </b>In this Regulation,</p> <p class=\"definition-e\">  “baitfish” means baitfish as defined in the Ontario Fishery Regulations; (“poisson-appât”)</p> <p class=\"definition-e\">  “fisheries management zone” means a part of Ontario shown in the Regulation Plans of Fisheries Management Zones 1 - 20 filed on December 5, 2013 with the Office of the Surveyor General of Ontario; (“zone de gestion des pêches”)</p> <p class=\"definition-e\">  “leech” means a member of a species of the Class Hirudinea. (“sangsue”) O. Reg. 576/21, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK1\"></a>PART I <br/>  SPORT FISHING LICENCES</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Interpretation</p>"
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. In this Part, “Canadian resident” means a person who is a non-resident, whose primary residence is any part of Canada and who has actually resided in any part of Canada for a period of at least six months during the 12 months immediately preceding the time that residence becomes material under this Part; (“résident canadien”) “licence summary” means the document referred to in section 11; (“sommaire de permis”) “non-Canadian resident” means a person who is a non-resident and who is not a Canadian resident; (“non-résident du Canada”) “outdoors card” means the outdoors card issued by the Minister under section 3; (“Carte Plein air”) “sport fishing” has the same meaning as in the Ontario Fishery Regulations. (“pêche sportive”) O. Reg. 281/08, s. 1; O. Reg. 119/16, s. 1; O. Reg. 545/17, s. 2; O. Reg. 463/18, s. 1; O. Reg. 576/21, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Part,</p> <p class=\"firstdef-e\">“Canadian resident” means a person who is a non-resident, whose primary residence is any part of Canada and who has actually resided in any part of Canada for a period of at least six months during the 12 months immediately preceding the time that residence becomes material under this Part; (“résident canadien”)</p> <p class=\"definition-e\">“licence summary” means the document referred to in section 11; (“sommaire de permis”)</p> <p class=\"definition-e\">“non-Canadian resident” means a person who is a non-resident and who is not a Canadian resident; (“non-résident du Canada”)</p> <p class=\"definition-e\">“outdoors card” means the outdoors card issued by the Minister under section 3; (“Carte Plein air”)</p> <p class=\"definition-e\">“sport fishing” has the same meaning as in the Ontario Fishery Regulations. (“pêche sportive”) O. Reg. 281/08, s. 1; O. Reg. 119/16, s. 1; O. Reg. 545/17, s. 2; O. Reg. 463/18, s. 1; O. Reg. 576/21, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#1.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1.1 The following persons shall be deemed to be residents for the purposes of this Regulation: 1.  A member of the RCMP or armed forces of Canada who is stationed in Ontario and has resided in Ontario for at least one month. 2.  A civilian employee of the RCMP or armed forces of Canada who is stationed in Ontario and has resided in Ontario for at least one month. 3.  A member of the immediate family of a person set out in paragraphs 1 and 2 who has resided in the residence of the person in Ontario for at least one month. O. Reg. 545/17, s. 3. Outdoors Cards",
+            "raw_html": "<p class=\"section-e\"> <b>1.1 </b>The following persons shall be deemed to be residents for the purposes of this Regulation:</p> <p class=\"paragraph-e\">  1.  A member of the RCMP or armed forces of Canada who is stationed in Ontario and has resided in Ontario for at least one month.</p> <p class=\"paragraph-e\">  2.  A civilian employee of the RCMP or armed forces of Canada who is stationed in Ontario and has resided in Ontario for at least one month.</p> <p class=\"paragraph-e\">  3.  A member of the immediate family of a person set out in paragraphs 1 and 2 who has resided in the residence of the person in Ontario for at least one month. O. Reg. 545/17, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Outdoors Cards</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. (1) A person shall not be issued a licence to engage in sport fishing unless he or she holds an outdoors card issued under section 3. O. Reg. 545/17, s. 4. (2) Despite subsection (1), a person does not require an outdoors card in order to be issued a sport fishing licence if the person is applying for, (a)  a sport fishing licence that is to be valid for only one day; or (b)  a guest sport fishing licence. O. Reg. 545/17, s. 4. (3) For greater certainty, the following persons are not required to obtain an outdoors card: 1.  A person who holds a document that is deemed to be a sport fishing licence under section 13, 14, 14.1 or 15 or subsection 17 (1). 2.  A person who fishes under the authority of a promotional sport fishing licence in accordance with the conditions of that licence and section 16. 3.  A person who is deemed to hold a sport fishing licence under subsection 17 (2) or section 18.1. O. Reg. 759/20, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> (1) A person shall not be issued a licence to engage in sport fishing unless he or she holds an outdoors card issued under section 3. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) Despite subsection (1), a person does not require an outdoors card in order to be issued a sport fishing licence if the person is applying for,</p> <p class=\"clause-e\">  (a)  a sport fishing licence that is to be valid for only one day; or</p> <p class=\"clause-e\">  (b)  a guest sport fishing licence. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (3) For greater certainty, the following persons are not required to obtain an outdoors card:</p> <p class=\"paragraph-e\">  1.  A person who holds a document that is deemed to be a sport fishing licence under section 13, 14, 14.1 or 15 or subsection 17 (1).</p> <p class=\"paragraph-e\">  2.  A person who fishes under the authority of a promotional sport fishing licence in accordance with the conditions of that licence and section 16.</p> <p class=\"paragraph-e\">  3.  A person who is deemed to hold a sport fishing licence under subsection 17 (2) or section 18.1. O. Reg. 759/20, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) The Minister may issue an outdoors card to, (a)  a resident or Canadian resident who is at least 16 years of age; or (b)  a non-Canadian resident of any age. O. Reg. 545/17, s. 4. (2) A fishing outdoors card that was issued before November 23, 2018 shall continue to be valid until it expires. O. Reg. 545/17, s. 4. Restrictions on Sport Fishing Licences",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) The Minister may issue an outdoors card to,</p> <p class=\"clause-e\">  (a)  a resident or Canadian resident who is at least 16 years of age; or</p> <p class=\"clause-e\">  (b)  a non-Canadian resident of any age. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) A fishing outdoors card that was issued before November 23, 2018 shall continue to be valid until it expires. O. Reg. 545/17, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Restrictions on Sport Fishing Licences</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. An outdoors card is valid from the day it is issued and expires on the date specified on the card. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>An outdoors card is valid from the day it is issued and expires on the date specified on the card. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) A person who is required to hold an outdoors card in order to obtain a licence to engage in sport fishing shall carry the outdoors card on his or her person at all times while sport fishing, regardless of whether the sport fishing licence is listed on the card. O. Reg. 545/17, s. 4. (2) Despite subsection (1), a person who has applied for an outdoors card and whose licence summary has been updated to indicate that the outdoors card has been issued, but who has not yet received the card from the Ministry by mail or otherwise, may engage in sport fishing without the outdoors card so long as he or she carries his or her updated licence summary on his or her person. O. Reg. 545/17, s. 4. (3) On request of a conservation officer, a person who holds an outdoors card shall produce it and show it to the officer. O. Reg. 545/17, s. 4. (4) The rules set out in the following provisions of the Act apply with respect to an outdoors card as if it were a licence: 1.  Subsections 68 (1) and (2). 2.  Section 70, with the exception of clause 70 (1) (c). 3.  Subsection 82 (3). O. Reg. 463/18, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) A person who is required to hold an outdoors card in order to obtain a licence to engage in sport fishing shall carry the outdoors card on his or her person at all times while sport fishing, regardless of whether the sport fishing licence is listed on the card. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) Despite subsection (1), a person who has applied for an outdoors card and whose licence summary has been updated to indicate that the outdoors card has been issued, but who has not yet received the card from the Ministry by mail or otherwise, may engage in sport fishing without the outdoors card so long as he or she carries his or her updated licence summary on his or her person. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (3) On request of a conservation officer, a person who holds an outdoors card shall produce it and show it to the officer. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (4) The rules set out in the following provisions of the Act apply with respect to an outdoors card as if it were a licence:</p> <p class=\"paragraph-e\">  1.  Subsections 68 (1) and (2).</p> <p class=\"paragraph-e\">  2.  Section 70, with the exception of clause 70 (1) (c).</p> <p class=\"paragraph-e\">  3.  Subsection 82 (3). O. Reg. 463/18, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. (1) The holder of an outdoors card shall notify the Minister of any change in name, address, contact information or residency no later than 10 days after the change occurs. O. Reg. 545/17, s. 4. (2) A holder of an outdoors card who ceases to be a resident or a Canadian resident, as the case may be, shall not use the card to obtain a sport fishing licence for which the holder is no longer eligible as a result of the change in residency. O. Reg. 463/18, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) The holder of an outdoors card shall notify the Minister of any change in name, address, contact information or residency no later than 10 days after the change occurs. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) A holder of an outdoors card who ceases to be a resident or a Canadian resident, as the case may be, shall not use the card to obtain a sport fishing licence for which the holder is no longer eligible as a result of the change in residency. O. Reg. 463/18, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#6.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6.1 Revoked:  O. Reg. 281/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>6.1 </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 281/08, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) A person shall not apply for or possess more than one outdoors card if they have different card numbers. O. Reg. 545/17, s. 4. (2) A person may possess more than one outdoors card if the cards bear the same number. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>7.</b> (1) A person shall not apply for or possess more than one outdoors card if they have different card numbers. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) A person may possess more than one outdoors card if the cards bear the same number. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. A person who holds an outdoors card and whose licence is cancelled or suspended by a court order under section 104 or 105 of the Act shall immediately return the outdoors card to the Ministry if the Ministry requests it. O. Reg. 545/17, s. 4. Licences",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>A person who holds an outdoors card and whose licence is cancelled or suspended by a court order under section 104 or 105 of the Act shall immediately return the outdoors card to the Ministry if the Ministry requests it. O. Reg. 545/17, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Licences</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) A sport fishing licence authorizes a person to engage in sport fishing subject to this Part. O. Reg. 545/17, s. 4. (2) The following special classes of sport fishing licences are recognized for the purposes of this Part: 1.  A conservation fishing licence that authorizes the licence holder to engage in sport fishing subject to such limits as are described in the Ontario Fishery Regulations. 2.  A promotional sport fishing licence that authorizes the licence holder to engage in sport fishing during the period described in section 16. 3.  A guest sport fishing licence that is issued by the Minister to a foreign diplomat stationed in Ontario, a member of the diplomat’s family or staff, a foreign dignitary or journalist visiting Ontario or any person visiting Ontario who, in the Minister’s opinion, has an equivalent stature and should be issued a guest sport fishing licence. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) A sport fishing licence authorizes a person to engage in sport fishing subject to this Part. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) The following special classes of sport fishing licences are recognized for the purposes of this Part:</p> <p class=\"paragraph-e\">  1.  A conservation fishing licence that authorizes the licence holder to engage in sport fishing subject to such limits as are described in the Ontario Fishery Regulations.</p> <p class=\"paragraph-e\">  2.  A promotional sport fishing licence that authorizes the licence holder to engage in sport fishing during the period described in section 16.</p> <p class=\"paragraph-e\">  3.  A guest sport fishing licence that is issued by the Minister to a foreign diplomat stationed in Ontario, a member of the diplomat’s family or staff, a foreign dignitary or journalist visiting Ontario or any person visiting Ontario who, in the Minister’s opinion, has an equivalent stature and should be issued a guest sport fishing licence. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. (1) Subject to subsections (4) to (6) and sections 13 to 17 and 18.1, a sport fishing licence shall consist of a licence summary that lists the sport fishing licence. O. Reg. 545/17, s. 4; O. Reg. 512/18, s. 1. (2) Despite subsection (1), the Minister may list a person’s sport fishing licence directly on the person’s outdoors card if the person applies for the sport fishing licence at the same time as the person applies for an outdoors card and in such a case, the outdoors card shall constitute the sport fishing licence. O. Reg. 545/17, s. 4. (3) If a sport fishing licence is issued as a conservation fishing licence, that fact shall be indicated on the licence summary or the outdoors card, as the case may be. O. Reg. 545/17, s. 4. (4) In the circumstances set out in section 18.2 and 18.4, a sport fishing licence shall consist of either a licence summary or an outdoors card that lists the appropriate type of fishing licence, together with a tag. O. Reg. 545/17, s. 4. (5) A guest sport fishing licence shall consist of a document in the form determined by the Minister. O. Reg. 545/17, s. 4. (6) A sport fishing licence that was issued before November 23, 2018 and that consists of a document in a form not permitted under this section shall nonetheless continue to be valid after that date until the expiry date set out in the licence. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>(1) Subject to subsections (4) to (6) and sections 13 to 17 and 18.1, a sport fishing licence shall consist of a licence summary that lists the sport fishing licence. O. Reg. 545/17, s. 4; O. Reg. 512/18, s. 1.</p> <p class=\"subsection-e\">  (2) Despite subsection (1), the Minister may list a person’s sport fishing licence directly on the person’s outdoors card if the person applies for the sport fishing licence at the same time as the person applies for an outdoors card and in such a case, the outdoors card shall constitute the sport fishing licence. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (3) If a sport fishing licence is issued as a conservation fishing licence, that fact shall be indicated on the licence summary or the outdoors card, as the case may be. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (4) In the circumstances set out in section 18.2 and 18.4, a sport fishing licence shall consist of either a licence summary or an outdoors card that lists the appropriate type of fishing licence, together with a tag. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (5) A guest sport fishing licence shall consist of a document in the form determined by the Minister. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (6) A sport fishing licence that was issued before November 23, 2018 and that consists of a document in a form not permitted under this section shall nonetheless continue to be valid after that date until the expiry date set out in the licence. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. (1) A licence summary is a document that lists various sport fishing licences, including a conservation fishing licence, that a person may hold at any given time together with various hunting licences that the person may hold under Ontario Regulation 665/98 (Hunting) made under the Act. O. Reg. 545/17, s. 4. (2) The licence summary is issued by the Ministry online by accessing the Government of Ontario’s website, through a person who is authorized to issue licences on the Minister’s behalf under section 61 of the Act or by such other means as the Minister determines. O. Reg. 545/17, s. 4. (3) Each time a person is issued a new sport fishing licence or hunting licence, the Ministry shall issue an updated version of the licence summary to the person. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>(1) A licence summary is a document that lists various sport fishing licences, including a conservation fishing licence, that a person may hold at any given time together with various hunting licences that the person may hold under Ontario Regulation 665/98 (Hunting) made under the Act. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) The licence summary is issued by the Ministry online by accessing the Government of Ontario’s website, through a person who is authorized to issue licences on the Minister’s behalf under section 61 of the Act or by such other means as the Minister determines. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (3) Each time a person is issued a new sport fishing licence or hunting licence, the Ministry shall issue an updated version of the licence summary to the person. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. Despite subsection 64 (1) of the Act, the Minister may issue a sport fishing licence to a non-Canadian resident who is under 16 years of age. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>Despite subsection 64 (1) of the Act, the Minister may issue a sport fishing licence to a non-Canadian resident who is under 16 years of age. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. (1) A person who is a resident or a Canadian resident and who is either under the age of 18 years or over the age of 65 years may engage in sport fishing if the person has a document referred to in subsection (2) and carries it on his or her person while sport fishing. O. Reg. 545/17, s. 4. (2) Any licence, permit, certificate or identification card that is issued by the Government of Canada or a provincial or territorial government of Canada to a person described in subsection (1) and that indicates the person’s name and date of birth is deemed to be a sport fishing licence for the purposes of this Regulation. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>(1) A person who is a resident or a Canadian resident and who is either under the age of 18 years or over the age of 65 years may engage in sport fishing if the person has a document referred to in subsection (2) and carries it on his or her person while sport fishing. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) Any licence, permit, certificate or identification card that is issued by the Government of Canada or a provincial or territorial government of Canada to a person described in subsection (1) and that indicates the person’s name and date of birth is deemed to be a sport fishing licence for the purposes of this Regulation. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. (1) A person who has been issued an accessible parking permit under the Highway Traffic Act may engage in sport fishing if he or she carries on his or her person while sport fishing, (a)  the permit; or (b)  a black and white photocopy or a black and white printed version of an electronic copy of the permit together with any licence, permit, certificate or identification card issued by the Government of Canada or a provincial or territorial government of Canada that indicates the person’s name and date of birth. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 5. (2) A person who has been issued a national identity card by the Canadian National Institute for the Blind may engage in sport fishing if he or she carries the card on his or her person while sport fishing. O. Reg. 545/17, s. 4. (3) A person who requires the direct assistance of another person to fish and to follow applicable laws in respect of fishing due to a disability as defined in the Accessibility for Ontarians with Disabilities Act, 2005\r\nmay engage in sport fishing if while sport fishing, (a)  he or she carries on his or her person a licence, permit, certificate or identification card issued by the Government of Canada or a provincial or territorial government of Canada that indicates the person’s name and date of birth; and (b)  he or she is accompanied by another person. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 5. (4) Any document that a person is required to carry on their person while sport fishing under subsection (1), (2) or (3) is deemed to be a sport fishing licence for the purposes of this Regulation. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b>(1) A person who has been issued an accessible parking permit under the <i>Highway Traffic Act</i> may engage in sport fishing if he or she carries on his or her person while sport fishing,</p> <p class=\"clause-e\">  (a)  the permit; or</p> <p class=\"clause-e\">  (b)  a black and white photocopy or a black and white printed version of an electronic copy of the permit together with any licence, permit, certificate or identification card issued by the Government of Canada or a provincial or territorial government of Canada that indicates the person’s name and date of birth. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 5.</p> <p class=\"subsection-e\">  (2) A person who has been issued a national identity card by the Canadian National Institute for the Blind may engage in sport fishing if he or she carries the card on his or her person while sport fishing. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (3) A person who requires the direct assistance of another person to fish and to follow applicable laws in respect of fishing due to a disability as defined in the <i>Accessibility for Ontarians with Disabilities Act, 2005</i>\r\nmay engage in sport fishing if while sport fishing,</p> <p class=\"clause-e\">  (a)  he or she carries on his or her person a licence, permit, certificate or identification card issued by the Government of Canada or a provincial or territorial government of Canada that indicates the person’s name and date of birth; and</p> <p class=\"clause-e\">  (b)  he or she is accompanied by another person. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 5.</p> <p class=\"subsection-e\">  (4) Any document that a person is required to carry on their person while sport fishing under subsection (1), (2) or (3) is deemed to be a sport fishing licence for the purposes of this Regulation. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#14.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14.1 (1) A resident who is an active member of the armed forces of Canada and who has been issued a Canadian Forces Identification Card (NDI 20) by the Department of National Defence (Canada) may engage in sport fishing if he or she carries the card on his or her person while fishing. O. Reg. 512/18, s. 2. (2) A resident who is a veteran of the armed forces of Canada and who has been issued a Record of Service Card (NDI 75) or a Canadian Armed Forces Veteran’s Service Card (NDI 75) by the Department of National Defence (Canada) may engage in sport fishing if he or she carries the card on his or her person while fishing. O. Reg. 512/18, s. 2. (3) Any document a resident is required to carry on their person while sport fishing under subsection (1) or (2) is deemed to be a sport fishing licence for the purposes of this Regulation. O. Reg. 512/18, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>14.1 </b>(1) A resident who is an active member of the armed forces of Canada and who has been issued a Canadian Forces Identification Card (NDI 20) by the Department of National Defence (Canada) may engage in sport fishing if he or she carries the card on his or her person while fishing. O. Reg. 512/18, s. 2.</p> <p class=\"subsection-e\">  (2) A resident who is a veteran of the armed forces of Canada and who has been issued a Record of Service Card (NDI 75) or a Canadian Armed Forces Veteran’s Service Card (NDI 75) by the Department of National Defence (Canada) may engage in sport fishing if he or she carries the card on his or her person while fishing. O. Reg. 512/18, s. 2.</p> <p class=\"subsection-e\">  (3) Any document a resident is required to carry on their person while sport fishing under subsection (1) or (2) is deemed to be a sport fishing licence for the purposes of this Regulation. O. Reg. 512/18, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. (1) A non-Canadian resident under the age of 18 who is attending an organized camp in Ontario is authorized to engage in sport fishing if he or she has a government issued photo identification, or a photocopy of that identification, accompanied by a camp identification card issued by the camp and carries it on his or her person while sport fishing. O. Reg. 545/17, s. 4. (2) For the purposes of subsection (1), the government issued photo identification, or the photocopy of that identification, together with the camp identification card issued by the camp is deemed to be a conservation fishing licence, subject to the conservation fishing licence limits set out in the Ontario Fishery Regulations. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 6. (3) A camp identification card referred to in subsections (1) and (2) shall include the name and location of the organized camp, the camper’s name and date of birth and dates the camper is staying at the camp. O. Reg. 545/17, s. 4. (4) For the purposes of this section, “organized camp” means a camp for youth under 18 years of age operated for recreational or educational purposes which provides accommodation and meals for a minimum of five campers at a time. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>(1) A non-Canadian resident under the age of 18 who is attending an organized camp in Ontario is authorized to engage in sport fishing if he or she has a government issued photo identification, or a photocopy of that identification, accompanied by a camp identification card issued by the camp and carries it on his or her person while sport fishing. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) For the purposes of subsection (1), the government issued photo identification, or the photocopy of that identification, together with the camp identification card issued by the camp is deemed to be a conservation fishing licence, subject to the conservation fishing licence limits set out in the Ontario Fishery Regulations. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 6.</p> <p class=\"subsection-e\">  (3) A camp identification card referred to in subsections (1) and (2) shall include the name and location of the organized camp, the camper’s name and date of birth and dates the camper is staying at the camp. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (4) For the purposes of this section,</p> <p class=\"definition-e\">“organized camp” means a camp for youth under 18 years of age operated for recreational or educational purposes which provides accommodation and meals for a minimum of five campers at a time. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. (1) The Minister may issue a promotional sport fishing licence that authorizes all residents and Canadian residents, or such residents and Canadian residents as are specified in the licence, to engage in sport fishing for a period of up to nine days, as specified in the licence. O. Reg. 545/17, s. 4. (2) A promotional sport fishing licence may be limited to such areas as are specified in the licence and subject to such conditions as are specified in the licence. O. Reg. 545/17, s. 4. (3) A promotional sport fishing licence is subject to the conservation fishing licence limits set out in the Ontario Fishery Regulations. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 7 (1). (4) A person who is fishing under the authority of a promotional sport fishing licence during the days and in the area specified in the licence shall carry on his or her person while sport fishing a licence, permit, certificate or identification card issued by the Government of Canada or a provincial or territorial government of Canada that indicates the person’s name and date of birth. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 7 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>16. </b>(1) The Minister may issue a promotional sport fishing licence that authorizes all residents and Canadian residents, or such residents and Canadian residents as are specified in the licence, to engage in sport fishing for a period of up to nine days, as specified in the licence. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) A promotional sport fishing licence may be limited to such areas as are specified in the licence and subject to such conditions as are specified in the licence. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (3) A promotional sport fishing licence is subject to the conservation fishing licence limits set out in the Ontario Fishery Regulations. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 7 (1).</p> <p class=\"subsection-e\">  (4) A person who is fishing under the authority of a promotional sport fishing licence during the days and in the area specified in the licence shall carry on his or her person while sport fishing a licence, permit, certificate or identification card issued by the Government of Canada or a provincial or territorial government of Canada that indicates the person’s name and date of birth. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 7 (2).</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. (1) A regular fishing licence or a conservation fishing licence issued to a resident of Manitoba in accordance with the laws of Manitoba is deemed to be a sport fishing licence or a conservation fishing licence, as the case may be, issued in Ontario, for the purposes of sport fishing in the following Ontario lakes: 1.  Garner Lake (50° 48'N., 95° 11'W.). 2.  Davidson Lake (50° 21'N., 95° 09'W.). 3.  Ryerson Lake (50° 23'N., 95° 09'W.). 4.  Mantario Lake (49° 95'N., 95° 10'W.). 5.  Frances Lake (51° 43'N., 95° 08'W.). 6.  Moar Lake (52° 00'N., 95° 07'W.). 7.  High Lake  (49° 42'N., 95° 08'W.). O. Reg. 545/17, s. 4. (2) A resident of Quebec who is authorized to sport fish in accordance with the laws of Quebec is deemed to be the holder of a sport fishing licence for the purpose of sport fishing in the following Ontario waters: 1.  The Ottawa River (45º 34'N., 74º 23'W.) lying south of the dam situated in Temiscamingue, Quebec. 2.  Lake St. Francis (45º 08'N., 74º 25'W.) and the waters of the St. Lawrence River lying between the easterly side of the dam at the site of the Robert H. Saunders Generating Station and the interprovincial boundary between Ontario and Quebec. 3.  Lake Timiskaming (47º 20'N., 79º 30'W.). 4.  Clarice Lake (48º 20'N., 79º 32'W.). 5.  Labyrinth Lake (48º 14'N., 79º 31'W.). 6.  Raven Lake (48º 03'N., 79º 33'W.). O. Reg. 545/17, s. 4. Licence Terms and Conditions",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b>(1) A regular fishing licence or a conservation fishing licence issued to a resident of Manitoba in accordance with the laws of Manitoba is deemed to be a sport fishing licence or a conservation fishing licence, as the case may be, issued in Ontario, for the purposes of sport fishing in the following Ontario lakes:</p> <p class=\"paragraph-e\">  1.  Garner Lake (50° 48'N., 95° 11'W.).</p> <p class=\"paragraph-e\">  2.  Davidson Lake (50° 21'N., 95° 09'W.).</p> <p class=\"paragraph-e\">  3.  Ryerson Lake (50° 23'N., 95° 09'W.).</p> <p class=\"paragraph-e\">  4.  Mantario Lake (49° 95'N., 95° 10'W.).</p> <p class=\"paragraph-e\">  5.  Frances Lake (51° 43'N., 95° 08'W.).</p> <p class=\"paragraph-e\">  6.  Moar Lake (52° 00'N., 95° 07'W.). </p> <p class=\"paragraph-e\">  7.  High Lake  (49° 42'N., 95° 08'W.). O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) A resident of Quebec who is authorized to sport fish in accordance with the laws of Quebec is deemed to be the holder of a sport fishing licence for the purpose of sport fishing in the following Ontario waters:</p> <p class=\"paragraph-e\">  1.  The Ottawa River (45º 34'N., 74º 23'W.) lying south of the dam situated in Temiscamingue, Quebec.</p> <p class=\"paragraph-e\">  2.  Lake St. Francis (45º 08'N., 74º 25'W.) and the waters of the St. Lawrence River lying between the easterly side of the dam at the site of the Robert H. Saunders Generating Station and the interprovincial boundary between Ontario and Quebec.</p> <p class=\"paragraph-e\">  3.  Lake Timiskaming (47º 20'N., 79º 30'W.).</p> <p class=\"paragraph-e\">  4.  Clarice Lake (48º 20'N., 79º 32'W.).</p> <p class=\"paragraph-e\">  5.  Labyrinth Lake (48º 14'N., 79º 31'W.).</p> <p class=\"paragraph-e\">  6.  Raven Lake (48º 03'N., 79º 33'W.). O. Reg. 545/17, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Licence Terms and Conditions</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. A sport fishing licence is valid for the period of time specified in the licence not exceeding three years. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>A sport fishing licence is valid for the period of time specified in the licence not exceeding three years. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#18.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18.1 (1) A non-Canadian resident who is under 18 years of age and who is fishing with the holder of a sport fishing licence shall be deemed to hold a sport fishing licence. O. Reg. 545/17, s. 4. (2) Any fish caught by a non-Canadian resident fishing under a deemed licence under subsection (1) shall be included in the quota of the licence holder with whom the non-Canadian resident is fishing. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>18.1 </b>(1) A non-Canadian resident who is under 18 years of age and who is fishing with the holder of a sport fishing licence shall be deemed to hold a sport fishing licence. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) Any fish caught by a non-Canadian resident fishing under a deemed licence under subsection (1) shall be included in the quota of the licence holder with whom the non-Canadian resident is fishing. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#18.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18.2 (1) A sport fishing licence issued to a non-Canadian resident is not valid for sport fishing in Lake St. Joseph, located in the area of latitude 51° 05'N and longitude 90° 35'W, unless a tag authorizing sport fishing in that location accompanies the licence. O. Reg. 545/17, s. 4. (2) A licence holder who is issued a tag under this section shall carry the tag on his or her person while sport fishing. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>18.2 </b>(1) A sport fishing licence issued to a non-Canadian resident is not valid for sport fishing in Lake St. Joseph, located in the area of latitude 51° 05'N and longitude 90° 35'W, unless a tag authorizing sport fishing in that location accompanies the licence. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) A licence holder who is issued a tag under this section shall carry the tag on his or her person while sport fishing. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#18.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18.3 A sport fishing licence issued to a non-Canadian resident is deemed to be a conservation fishing licence and subject to the conservation fishing licence limits set out under the Ontario Fishery Regulations if the licence holder is camping on Crown land located in, (a)  fisheries management zone 2, 4 or 6; or (b)  fisheries management zone 5, except in the area designated as Part 1 on a plan known as Regulation Plan of the Border Waters Area in Fisheries Management Zone 5 filed on December 5, 2013 with the Office of the Surveyor General of Ontario in the Ministry. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>18.3</b> A sport fishing licence issued to a non-Canadian resident is deemed to be a conservation fishing licence and subject to the conservation fishing licence limits set out under the Ontario Fishery Regulations if the licence holder is camping on Crown land located in,</p> <p class=\"clause-e\">  (a)  fisheries management zone 2, 4 or 6; or</p> <p class=\"clause-e\">  (b)  fisheries management zone 5, except in the area designated as Part 1 on a plan known as Regulation Plan of the Border Waters Area in Fisheries Management Zone 5 filed on December 5, 2013 with the Office of the Surveyor General of Ontario in the Ministry. O. Reg. 545/17, s. 4; O. Reg. 463/18, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#18.4",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18.4 (1) A sport fishing licence is not valid for catching and retaining lake trout taken by angling from any of the following waters of Lake of the Woods unless the licence holder has been issued a tag authorizing it: 1.  Echo Bay (49° 39'N., 94° 50'W.). 2.  Clearwater Bay (49° 42'N., 94° 45'W.), including Deception Bay (49° 42'N., 94° 48'W.), Woodchuck Bay (49° 41'N., 94° 52'W.) and Kendal Inlet (49° 44'N., 94° 39'W.). 3.  Cul de Sac Lake (49° 38'N., 94° 50'W.). O. Reg. 545/17, s. 4. (2) The tag shall not be issued to a licence holder unless he or she files an application with the Minister and his or her name is selected in a draw conducted by the Minister. O. Reg. 545/17, s. 4. (3) A person shall not submit more than one application or possess more than one tag described in this section in a year. O. Reg. 545/17, s. 4. (4) A licence holder who is issued a tag under this section shall carry the tag on his or her person while sport fishing. O. Reg. 545/17, s. 4. (5) A licence holder who catches and retains a lake trout from the waters referred to in subsection (1) shall attach the seal provided with the tag to the lower jaw of the lake trout immediately after catching it at the site where it was caught, and shall keep the seal attached to the lake trout while it is being transported and until it is consumed. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>18.4 </b>(1) A sport fishing licence is not valid for catching and retaining lake trout taken by angling from any of the following waters of Lake of the Woods unless the licence holder has been issued a tag authorizing it:</p> <p class=\"paragraph-e\">  1.  Echo Bay (49° 39'N., 94° 50'W.).</p> <p class=\"paragraph-e\">  2.  Clearwater Bay (49° 42'N., 94° 45'W.), including Deception Bay (49° 42'N., 94° 48'W.), Woodchuck Bay (49° 41'N., 94° 52'W.) and Kendal Inlet (49° 44'N., 94° 39'W.).</p> <p class=\"paragraph-e\">  3.  Cul de Sac Lake (49° 38'N., 94° 50'W.). O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) The tag shall not be issued to a licence holder unless he or she files an application with the Minister and his or her name is selected in a draw conducted by the Minister. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (3) A person shall not submit more than one application or possess more than one tag described in this section in a year. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (4) A licence holder who is issued a tag under this section shall carry the tag on his or her person while sport fishing. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (5) A licence holder who catches and retains a lake trout from the waters referred to in subsection (1) shall attach the seal provided with the tag to the lower jaw of the lake trout immediately after catching it at the site where it was caught, and shall keep the seal attached to the lake trout while it is being transported and until it is consumed. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#18.5",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18.5 (1) No person shall catch leeches for use as bait in fishing unless the person is the holder of a resident sport fishing licence, a Canadian resident sport fishing licence or a commercial bait licence. O. Reg. 545/17, s. 4. (2) No holder of a resident or Canadian resident sport fishing licence shall catch leeches for use as bait in fishing unless the holder does so by means of a single leech trap that, (a)  does not exceed 45 centimetres in any dimension; and (b)  is legibly marked with the holder’s name. O. Reg. 545/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>18.5</b> (1) No person shall catch leeches for use as bait in fishing unless the person is the holder of a resident sport fishing licence, a Canadian resident sport fishing licence or a commercial bait licence. O. Reg. 545/17, s. 4.</p> <p class=\"subsection-e\">  (2) No holder of a resident or Canadian resident sport fishing licence shall catch leeches for use as bait in fishing unless the holder does so by means of a single leech trap that,</p> <p class=\"clause-e\">  (a)  does not exceed 45 centimetres in any dimension; and</p> <p class=\"clause-e\">  (b)  is legibly marked with the holder’s name. O. Reg. 545/17, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#18.6",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18.6 The holder of a sport fishing licence shall ensure that the following documents remain intact and legible: 1.  Every component of the licence, including any document that is deemed to be a sport fishing licence under this Part. 2.  Every document that the holder of the sport fishing licence is required to carry on his or her person while fishing under this Regulation. O. Reg. 759/20, s. 2. PART II   AQUACULTURE Aquaculture Licences",
+            "raw_html": "<p class=\"section-e\"> <b>18.6</b> The holder of a sport fishing licence shall ensure that the following documents remain intact and legible:</p> <p class=\"paragraph-e\">  1.  Every component of the licence, including any document that is deemed to be a sport fishing licence under this Part.</p> <p class=\"paragraph-e\">  2.  Every document that the holder of the sport fishing licence is required to carry on his or her person while fishing under this Regulation. O. Reg. 759/20, s. 2.</p> <p class=\"partnum-e\"><a name=\"BK7\"></a>PART II <br/>  AQUACULTURE</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Aquaculture Licences</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. (1) A person wishing to engage in aquaculture shall apply for an aquaculture licence in a form established by the Minister.  O. Reg. 664/98, s. 19 (1). (2) An applicant for an aquaculture licence shall, on request, provide with the application a description acceptable to the Minister of the measures that the applicant intends to put in place or has put in place to prevent fish from escaping from any location for which the licence is being considered.  O. Reg. 664/98, s. 19 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>(1) A person wishing to engage in aquaculture shall apply for an aquaculture licence in a form established by the Minister.  O. Reg. 664/98, s. 19 (1).</p> <p class=\"subsection-e\">  (2) An applicant for an aquaculture licence shall, on request, provide with the application a description acceptable to the Minister of the measures that the applicant intends to put in place or has put in place to prevent fish from escaping from any location for which the licence is being considered.  O. Reg. 664/98, s. 19 (2).</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. (1) The holder of an aquaculture licence may, (a)  culture those fish specified in the licence from among the species of fish set out in Schedule B for any location set out in the licence; (b)  buy fish of the species specified in the licence for any location set out in the licence and may deposit such fish only in that location; (c)  sell fish of the species specified in the licence taken from any location set out in the licence.  O. Reg. 664/98, s. 20 (1). (2) An aquaculture licence is valid for the period specified in the licence. O. Reg. 324/13, s. 1. (3) The holder of an aquaculture licence shall not buy fish under clause (1) (b) except from a person who is authorized to sell the fish.  O. Reg. 261/05, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>(1) The holder of an aquaculture licence may,</p> <p class=\"clause-e\">  (a)  culture those fish specified in the licence from among the species of fish set out in Schedule B for any location set out in the licence;</p> <p class=\"clause-e\">  (b)  buy fish of the species specified in the licence for any location set out in the licence and may deposit such fish only in that location;</p> <p class=\"clause-e\">  (c)  sell fish of the species specified in the licence taken from any location set out in the licence.  O. Reg. 664/98, s. 20 (1).</p> <p class=\"subsection-e\">  (2) An aquaculture licence is valid for the period specified in the licence. O. Reg. 324/13, s. 1.</p> <p class=\"subsection-e\">  (3) The holder of an aquaculture licence shall not buy fish under clause (1) (b) except from a person who is authorized to sell the fish.  O. Reg. 261/05, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. (1) It is a condition of an aquaculture licence that the holder, (a)  adhere to the measures for preventing the escape of fish described in the application for the licence, if any; (b)  correct, as required by the Minister, any deficiencies in such measures that are identified by the Minister; (c)  report to the Minister the number of fish that escape in excess of the number permitted in the licence; and (d)  attempt to recapture escaped fish if the Minister has given approval in advance but otherwise obtain the direction of the Minister before attempting to recapture them.  O. Reg. 664/98, s. 21 (1). (2) It is a condition of an aquaculture licence that authorizes aquaculture involving the use of a cage on public lands that the holder test and at all times maintain water quality as required in the licence and, where required, report on water quality to the Minister.  O. Reg. 664/98, s. 21 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>21. </b>(1) It is a condition of an aquaculture licence that the holder,</p> <p class=\"clause-e\">  (a)  adhere to the measures for preventing the escape of fish described in the application for the licence, if any; </p> <p class=\"clause-e\">  (b)  correct, as required by the Minister, any deficiencies in such measures that are identified by the Minister;</p> <p class=\"clause-e\">  (c)  report to the Minister the number of fish that escape in excess of the number permitted in the licence; and</p> <p class=\"clause-e\">  (d)  attempt to recapture escaped fish if the Minister has given approval in advance but otherwise obtain the direction of the Minister before attempting to recapture them.  O. Reg. 664/98, s. 21 (1).</p> <p class=\"subsection-e\">  (2) It is a condition of an aquaculture licence that authorizes aquaculture involving the use of a cage on public lands that the holder test and at all times maintain water quality as required in the licence and, where required, report on water quality to the Minister.  O. Reg. 664/98, s. 21 (2).</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22. (1) The holder of an aquaculture licence shall immediately report to the Minister the discovery in fish of any of the disease organisms listed in Schedule C or of any other disease organism of which the Minister has notified the holder.  O. Reg. 664/98, s. 22 (1). (2) Unless the Minister directs otherwise, no holder of an aquaculture licence shall sell or otherwise dispose of fish taken from a location set out in the holder’s licence if the fish are infected with a disease organism listed in Schedule C or any other disease organism of which the Minister has notified the holder of the licence.  O. Reg. 664/98, s. 22 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>22. </b>(1) The holder of an aquaculture licence shall immediately report to the Minister the discovery in fish of any of the disease organisms listed in Schedule C or of any other disease organism of which the Minister has notified the holder.  O. Reg. 664/98, s. 22 (1).</p> <p class=\"subsection-e\">  (2) Unless the Minister directs otherwise, no holder of an aquaculture licence shall sell or otherwise dispose of fish taken from a location set out in the holder’s licence if the fish are infected with a disease organism listed in Schedule C or any other disease organism of which the Minister has notified the holder of the licence.  O. Reg. 664/98, s. 22 (2).</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23. (1) A holder of an aquaculture licence may apply to the Minister to transfer the licence.  O. Reg. 664/98, s. 23 (1). (2) The application shall be granted if the holder is in compliance with the conditions of the licence.  O. Reg. 664/98, s. 23 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>23. </b>(1) A holder of an aquaculture licence may apply to the Minister to transfer the licence.  O. Reg. 664/98, s. 23 (1).</p> <p class=\"subsection-e\">  (2) The application shall be granted if the holder is in compliance with the conditions of the licence.  O. Reg. 664/98, s. 23 (2).</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 24. (1) A person who engages in aquaculture without a licence is exempt from subsection 47 (1) of the Act if the person engages in aquaculture in any of the following circumstances: 1.  The person cultures fish in an aquarium for personal use. 2.  The person cultures fish in an aquarium for the purpose of engaging in the aquarium trade. 3.  Subject to subsection (1.1), the person cultures fish in an aquarium located at an educational institution or facility or at a zoo for one of the following purposes: i.  to exhibit the fish at the educational institution or facility or at the zoo, ii.  to carry out research at the educational institution or facility or at the zoo, iii.  in the case of fish cultured in an aquarium at an educational institution or facility other than a post-secondary institution, to raise the fish in a classroom for stocking purposes as part of a program to assist in the conservation of that species in Ontario. 4.  Subject to subsection (1.1), the person cultures fish in an aquarium located at premises that are generally open to the public for the sole purpose of exhibiting the fish to the public at the premises. O. Reg. 324/13, s. 2 (1); O. Reg. 759/20, s. 3 (1). (1.1) A person who engages in aquaculture in the circumstances described in paragraph 3 or 4 of subsection (1) is not exempt from subsection 47 (1) of the Act unless the following conditions are met: 1.  Subject to paragraph 2, all wastewater and effluent from the aquarium must be, i.  discharged into a municipal wastewater treatment system, or ii.  disinfected by a process that removes or inactivates pathogens such as viruses, bacteria and protozoa in water. 2.  In the case of fish cultured in an aquarium for the purposes of carrying on research under subparagraph 3 ii of subsection (1), all wastewater and effluent from the aquarium must be disinfected by a process that removes or inactivates pathogens such as viruses, bacteria and protozoa in water. 3.  Any fish that are cultured in the aquarium and subsequently die must not be deposited in natural waters. 4.  Any fish used in research must be humanely euthanized upon the completion of the research unless the fish will be used for display or educational purposes at the educational institution or facility or at the zoo at which the research was carried out. O. Reg. 324/13, s. 2 (1); O. Reg. 759/20, s. 3 (2). (2) Subsection 51 (1) of the Act does not apply to the buying or selling of goldfish, koi (Cyprinus carpio) and the species of tilapia set out in Schedule B if these fish are bought or sold for the purpose of the aquarium trade.  O. Reg. 113/04, s. 1. (3) In this section, “aquarium” means an artificial container used to culture fish with no inflow or outflow directly connected to natural waters; (“aquarium”) “aquarium trade” means the culturing, buying or selling of aquarium, tropical or ornamental fish for the pet or hobby market; (“aquariophilie”) “educational institution or facility” means a daycare, nursery school, primary school, high school, private school or post-secondary institution. (“établissement d’enseignement”) “research” means the use of fish in connection with studies, investigation and teaching in any field of knowledge, and without limiting the generality of the foregoing, includes the use of fish for the performance of tests, and diagnosis of disease and the production and testing of preparations intended for use in the diagnosis, prevention and treatment of any disease or condition; («travaux de recherche») “zoo” means a place that is an accredited member of Canada’s Accredited Zoos and Aquariums and at which fish are kept in captivity for display to the public and for conservation, educational or scientific purposes. («zoo») O. Reg. 664/98, s. 24 (3); O. Reg. 324/13, s. 2 (2, 3); O. Reg. 759/20, s. 3 (3). Fish Stocking Licences",
+            "raw_html": "<p class=\"section-e\"> <b>24. </b>(1) A person who engages in aquaculture without a licence is exempt from subsection 47 (1) of the Act if the person engages in aquaculture in any of the following circumstances:</p> <p class=\"paragraph-e\">  1.  The person cultures fish in an aquarium for personal use.</p> <p class=\"paragraph-e\">  2.  The person cultures fish in an aquarium for the purpose of engaging in the aquarium trade.</p> <p class=\"paragraph-e\">  3.  Subject to subsection (1.1), the person cultures fish in an aquarium located at an educational institution or facility or at a zoo for one of the following purposes:</p> <p class=\"subpara-e\">  i.  to exhibit the fish at the educational institution or facility or at the zoo,</p> <p class=\"subpara-e\">  ii.  to carry out research at the educational institution or facility or at the zoo,</p> <p class=\"subpara-e\">  iii.  in the case of fish cultured in an aquarium at an educational institution or facility other than a post-secondary institution, to raise the fish in a classroom for stocking purposes as part of a program to assist in the conservation of that species in Ontario.</p> <p class=\"paragraph-e\">  4.  Subject to subsection (1.1), the person cultures fish in an aquarium located at premises that are generally open to the public for the sole purpose of exhibiting the fish to the public at the premises. O. Reg. 324/13, s. 2 (1); O. Reg. 759/20, s. 3 (1).</p> <p class=\"subsection-e\">  (1.1) A person who engages in aquaculture in the circumstances described in paragraph 3 or 4 of subsection (1) is not exempt from subsection 47 (1) of the Act unless the following conditions are met:</p> <p class=\"paragraph-e\">  1.  Subject to paragraph 2, all wastewater and effluent from the aquarium must be,</p> <p class=\"subpara-e\">  i.  discharged into a municipal wastewater treatment system, or</p> <p class=\"subpara-e\">  ii.  disinfected by a process that removes or inactivates pathogens such as viruses, bacteria and protozoa in water.</p> <p class=\"paragraph-e\">  2.  In the case of fish cultured in an aquarium for the purposes of carrying on research under subparagraph 3 ii of subsection (1), all wastewater and effluent from the aquarium must be disinfected by a process that removes or inactivates pathogens such as viruses, bacteria and protozoa in water.</p> <p class=\"paragraph-e\">  3.  Any fish that are cultured in the aquarium and subsequently die must not be deposited in natural waters.</p> <p class=\"paragraph-e\">  4.  Any fish used in research must be humanely euthanized upon the completion of the research unless the fish will be used for display or educational purposes at the educational institution or facility or at the zoo at which the research was carried out. O. Reg. 324/13, s. 2 (1); O. Reg. 759/20, s. 3 (2).</p> <p class=\"subsection-e\">  (2) Subsection 51 (1) of the Act does not apply to the buying or selling of goldfish, koi (<i>Cyprinus carpio</i>) and the species of tilapia set out in Schedule B if these fish are bought or sold for the purpose of the aquarium trade.  O. Reg. 113/04, s. 1.</p> <p class=\"subsection-e\">  (3) In this section,</p> <p class=\"firstdef-e\">“aquarium” means an artificial container used to culture fish with no inflow or outflow directly connected to natural waters; (“aquarium”)</p> <p class=\"definition-e\">“aquarium trade” means the culturing, buying or selling of aquarium, tropical or ornamental fish for the pet or hobby market; (“aquariophilie”)</p> <p class=\"definition-e\">“educational institution or facility” means a daycare, nursery school, primary school, high school, private school or post-secondary institution. (“établissement d’enseignement”)</p> <p class=\"definition-e\">“research” means the use of fish in connection with studies, investigation and teaching in any field of knowledge, and without limiting the generality of the foregoing, includes the use of fish for the performance of tests, and diagnosis of disease and the production and testing of preparations intended for use in the diagnosis, prevention and treatment of any disease or condition; («travaux de recherche»)</p> <p class=\"definition-e\">“zoo” means a place that is an accredited member of Canada’s Accredited Zoos and Aquariums and at which fish are kept in captivity for display to the public and for conservation, educational or scientific purposes. («zoo») O. Reg. 664/98, s. 24 (3); O. Reg. 324/13, s. 2 (2, 3); O. Reg. 759/20, s. 3 (3).</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Fish Stocking Licences</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. (1) The Minister may issue a licence to stock fish in the numbers and species determined by the Minister.  O. Reg. 664/98, s. 25 (1). (2) The holder of a licence to stock fish may stock fish at any location set out in the licence.  O. Reg. 664/98, s. 25 (2). (3) A licence to stock fish is valid for the period specified in the licence. O. Reg. 324/13, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>25. </b>(1) The Minister may issue a licence to stock fish in the numbers and species determined by the Minister.  O. Reg. 664/98, s. 25 (1).</p> <p class=\"subsection-e\">  (2) The holder of a licence to stock fish may stock fish at any location set out in the licence.  O. Reg. 664/98, s. 25 (2).</p> <p class=\"subsection-e\">  (3) A licence to stock fish is valid for the period specified in the licence. O. Reg. 324/13, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. It is a condition of a licence to stock fish that the holder submit to the Minister, on request, information on the fish stocked in accordance with the request.  O. Reg. 664/98, s. 26.",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b>It is a condition of a licence to stock fish that the holder submit to the Minister, on request, information on the fish stocked in accordance with the request.  O. Reg. 664/98, s. 26.</p>"
+        },
+        {
+            "ahref_id": "#27.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27. A holder of a licence to stock fish shall not stock fish infected with a disease organism listed in Schedule C or with any other disease organism of which the Minister has notified the holder.  O. Reg. 664/98, s. 27. Licence to Collect Fish from Ontario Waters",
+            "raw_html": "<p class=\"section-e\"> <b>27. </b>A holder of a licence to stock fish shall not stock fish infected with a disease organism listed in Schedule C or with any other disease organism of which the Minister has notified the holder.  O. Reg. 664/98, s. 27.</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Licence to Collect Fish from Ontario Waters</p>"
+        },
+        {
+            "ahref_id": "#28.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 28. (1) The Minister may issue a licence to collect fish from Ontario waters in such numbers and species of fish listed in Schedule B as are set out in the licence.  O. Reg. 664/98, s. 28 (1). (2) The licence may specify the locations with respect to which the licence applies, the method of collection authorized by it and the period of validity of the licence.  O. Reg. 664/98, s. 28 (2). Transportation of Fish",
+            "raw_html": "<p class=\"section-e\"> <b>28. </b>(1) The Minister may issue a licence to collect fish from Ontario waters in such numbers and species of fish listed in Schedule B as are set out in the licence.  O. Reg. 664/98, s. 28 (1).</p> <p class=\"subsection-e\">  (2) The licence may specify the locations with respect to which the licence applies, the method of collection authorized by it and the period of validity of the licence.  O. Reg. 664/98, s. 28 (2).</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Transportation of Fish</p>"
+        },
+        {
+            "ahref_id": "#29.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 29. (1) For the purposes of paragraph 3 (1) (b) of the Ontario Fishery Regulations, each of the following documents shall be deemed to be a licence to transport live fish if the fish have been cultured, caught, bought or sold under the authority of the document:  1.  An aquaculture licence. 2.  A commercial fishing licence. 3.  A document deemed to be a licence to sell fish under section 32. 4.  A receipt, invoice or bill of lading issued by the holder of a licence referred to in paragraph 1 or 3. 5.  A transport purchase record or a daily catch report issued by the holder of a commercial fishing licence. 6.  A licence to collect fish for scientific purposes. 7.  A licence to collect fish from Ontario waters. 8.  A licence to stock fish.  O. Reg. 261/05, s. 5; O. Reg. 340/09, s. 4. (2) A person shall carry the document deemed to be a licence to transport live fish under subsection (1) while transporting the fish.  O. Reg. 261/05, s. 5. (3) Subsection 57 (1) of the Act does not apply, (a)  to a person transporting fish in a container who produces, on request, a copy of a document described in subsection (1) in respect of the fish being transported; or (b)  to a person transporting fish taken in accordance with the Act and the regulations and under the authority of a sport fishing licence, if that person accompanies the fish during transportation.  O. Reg. 261/05, s. 5. Non-Application of Sections of the Act to Licence Holders",
+            "raw_html": "<p class=\"section-e\"> <b>29. </b>(1) For the purposes of paragraph 3 (1) (b) of the Ontario Fishery Regulations, each of the following documents shall be deemed to be a licence to transport live fish if the fish have been cultured, caught, bought or sold under the authority of the document: </p> <p class=\"paragraph-e\">  1.  An aquaculture licence.</p> <p class=\"paragraph-e\">  2.  A commercial fishing licence.</p> <p class=\"paragraph-e\">  3.  A document deemed to be a licence to sell fish under section 32. </p> <p class=\"paragraph-e\">  4.  A receipt, invoice or bill of lading issued by the holder of a licence referred to in paragraph 1 or 3. </p> <p class=\"paragraph-e\">  5.  A transport purchase record or a daily catch report issued by the holder of a commercial fishing licence.</p> <p class=\"paragraph-e\">  6.  A licence to collect fish for scientific purposes.</p> <p class=\"paragraph-e\">  7.  A licence to collect fish from Ontario waters.</p> <p class=\"paragraph-e\">  8.  A licence to stock fish.  O. Reg. 261/05, s. 5; O. Reg. 340/09, s. 4.</p> <p class=\"subsection-e\">  (2) A person shall carry the document deemed to be a licence to transport live fish under subsection (1) while transporting the fish.  O. Reg. 261/05, s. 5.</p> <p class=\"subsection-e\">  (3) Subsection 57 (1) of the Act does not apply,</p> <p class=\"clause-e\">  (a)  to a person transporting fish in a container who produces, on request, a copy of a document described in subsection (1) in respect of the fish being transported; or</p> <p class=\"clause-e\">  (b)  to a person transporting fish taken in accordance with the Act and the regulations and under the authority of a sport fishing licence, if that person accompanies the fish during transportation.  O. Reg. 261/05, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Non-Application of Sections of the Act to Licence Holders</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. (1) Subsection 37 (1) of the Act does not apply to, (a)  the holder of an aquaculture licence, a commercial fishing licence, a commercial bait licence, a licence to collect fish from Ontario waters or a licence to collect fish for scientific purposes if the holder possesses a net mentioned in that subsection and uses it in a manner that is consistent with the purpose for which the holder’s licence was issued; (b)  to a manufacturer, merchant or common carrier that possesses nets for the purpose of sale or transportation.  O. Reg. 664/98, s. 30 (1). (2) Subsection 36 (5) of the Act does not apply to the holder of an aquaculture licence, a licence to stock fish or a licence to collect fish from the wild with respect to the fish and waters indicated on such licences.  O. Reg. 664/98, s. 30 (2). PART II.1   Transport and Use of Bait Definitions",
+            "raw_html": "<p class=\"section-e\"> <b>30. </b>(1) Subsection 37 (1) of the Act does not apply to,</p> <p class=\"clause-e\">  (a)  the holder of an aquaculture licence, a commercial fishing licence, a commercial bait licence, a licence to collect fish from Ontario waters or a licence to collect fish for scientific purposes if the holder possesses a net mentioned in that subsection and uses it in a manner that is consistent with the purpose for which the holder’s licence was issued;</p> <p class=\"clause-e\">  (b)  to a manufacturer, merchant or common carrier that possesses nets for the purpose of sale or transportation.  O. Reg. 664/98, s. 30 (1).</p> <p class=\"subsection-e\">  (2) Subsection 36 (5) of the Act does not apply to the holder of an aquaculture licence, a licence to stock fish or a licence to collect fish from the wild with respect to the fish and waters indicated on such licences.  O. Reg. 664/98, s. 30 (2).</p> <p class=\"partnum-e\"><a name=\"BK13\"></a>PART II.1 <br/>  Transport and Use of Bait</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Definitions</p>"
+        },
+        {
+            "ahref_id": "#30.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30.1 In this Part, “bait” means baitfish and leeches; (“appâts”) “bait management zone” means a part of Ontario established as a bait management zone under section 30.2; (“zone de gestion des appâts”) “Great Lakes” means the part of fisheries management zone 6 that consists of St. Ignace Island and Simpson Island, the part of fisheries management zone 10 that consists of Cockburn Island, Michipicoten Island, St. Joseph Island and Manitoulin Island, and fisheries management zones 9, 13, 14, 19 and 20, except for the part of fisheries management zone 20 that is within the County of Prince Edward; (“Grands Lacs”) “Manitoulin Island” means all islands that can be accessed by land south of the causeway connecting Great LaCloche Island and Whitefish River First Nation known as the Swift Current Bridge, including Manitoulin Island, Great LaCloche Island, Little LaCloche Island, and Barrie Island; (“île Manitoulin”) “Ottawa River” means fisheries management zone 12; (“rivière des Outaouais”) “primary residence” means the place with which a person has the greatest connection in terms of present and anticipated future living arrangements, the activities of daily living, family connections, financial connections and social connections, and for greater certainty a person only has one primary residence, no matter how many dwelling places the person may have, inside or outside Ontario. (“résidence principale”) O. Reg. 576/21, s. 3. Bait Management Zones",
+            "raw_html": "<p class=\"section-e\"> <b>30.1 </b>In this Part,</p> <p class=\"definition-e\">“bait” means baitfish and leeches; (“appâts”)</p> <p class=\"definition-e\">“bait management zone” means a part of Ontario established as a bait management zone under section 30.2; (“zone de gestion des appâts”)</p> <p class=\"definition-e\">“Great Lakes” means the part of fisheries management zone 6 that consists of St. Ignace Island and Simpson Island, the part of fisheries management zone 10 that consists of Cockburn Island, Michipicoten Island, St. Joseph Island and Manitoulin Island, and fisheries management zones 9, 13, 14, 19 and 20, except for the part of fisheries management zone 20 that is within the County of Prince Edward; (“Grands Lacs”)</p> <p class=\"definition-e\">“Manitoulin Island” means all islands that can be accessed by land south of the causeway connecting Great LaCloche Island and Whitefish River First Nation known as the Swift Current Bridge, including Manitoulin Island, Great LaCloche Island, Little LaCloche Island, and Barrie Island; (“île Manitoulin”)</p> <p class=\"definition-e\">“Ottawa River” means fisheries management zone 12; (“rivière des Outaouais”)</p> <p class=\"definition-e\">“primary residence” means the place with which a person has the greatest connection in terms of present and anticipated future living arrangements, the activities of daily living, family connections, financial connections and social connections, and for greater certainty a person only has one primary residence, no matter how many dwelling places the person may have, inside or outside Ontario. (“résidence principale”) O. Reg. 576/21, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Bait Management Zones</p>"
+        },
+        {
+            "ahref_id": "#30.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30.2 The following areas are established as bait management zones: 1.  The Central Bait Management Zone that consists of fisheries management zone 15. 2.  The Northeastern Bait Management Zone that consists of fisheries management zones 3, 8, 10 and 11, except the part of fisheries management zone 10 that is within Cockburn Island, Michipicoten Island, St. Joseph Island and Manitoulin Island. 3.  The Northwestern Bait Management Zone that consists of any part of fisheries management zone 2 south of the 11th\r\nbaseline at latitude 51°48’11”N. or east of longitude 89°00’00”W., and fisheries management zones 4, 5, 6 and 7, except the part of fisheries management zone 6 that consists of St. Ignace Island and Simpson Island. 4.  The Southern Bait Management Zone that consists of fisheries management zones 16, 17 and 18, and the part of fisheries management zone 20 that is within the County of Prince Edward. O. Reg. 576/21, s. 3; O. Reg. 67/22, s. 1. Restrictions on the Use and Possession of Bait",
+            "raw_html": "<p class=\"section-e\"> <b>30.2 </b>The following areas are established as bait management zones:</p> <p class=\"paragraph-e\">  1.  The Central Bait Management Zone that consists of fisheries management zone 15.</p> <p class=\"paragraph-e\">  2.  The Northeastern Bait Management Zone that consists of fisheries management zones 3, 8, 10 and 11, except the part of fisheries management zone 10 that is within Cockburn Island, Michipicoten Island, St. Joseph Island and Manitoulin Island.</p> <p class=\"paragraph-e\">  3.  The Northwestern Bait Management Zone that consists of any part of fisheries management zone 2 south of the 11<sup>th</sup>\r\nbaseline at latitude 51°48’11”N. or east of longitude 89°00’00”W., and fisheries management zones 4, 5, 6 and 7, except the part of fisheries management zone 6 that consists of St. Ignace Island and Simpson Island.</p> <p class=\"paragraph-e\">  4.  The Southern Bait Management Zone that consists of fisheries management zones 16, 17 and 18, and the part of fisheries management zone 20 that is within the County of Prince Edward. O. Reg. 576/21, s. 3; O. Reg. 67/22, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Restrictions on the Use and Possession of Bait</p>"
+        },
+        {
+            "ahref_id": "#30.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30.3 (1) No person shall use bait for fishing or possess bait for use in fishing within a bait management zone unless, (a)  the person’s primary residence is located within the bait management zone where the bait was obtained and will be used or possessed; (b)  the bait originated from the holder of a commercial bait licence, a commercial fishing licence or an aquaculture licence within the bait management zone and the person, (i)  uses or possesses the bait within the two weeks following the date on which it was obtained from the holder of a licence referred to in this clause, and (ii)  is able to produce immediately on request by a conservation officer a legible receipt which lists the business name, where applicable, and licence number of the licence holder from whom the bait was obtained, the location and date it was obtained from the licence holder, and the quantity of baitfish or leeches obtained; or (c)  the person is acting under the authority of a commercial bait licence, commercial fishing licence, aquaculture licence or licence to collect fish for scientific purposes, and is using or possessing bait for the purposes of the licence and in accordance with the conditions of the licence. O. Reg. 576/21, s. 3. Note: On January 1, 2024, section 30.3 of the Regulation is amended by striking out “or” at the end of subclause (b) (ii), by adding “or” at the end of clause (c) and by adding the following clause: (See: O. Reg. 337/23, s. 1 (1)) (d)  the bait, (i)  is dead, (ii)  has been preserved using, as the primary method of preservation, a method other than refrigeration or freezing, and (iii)  either originated from the holder of a commercial bait licence, a commercial fishing licence or an aquaculture licence, or was harvested and preserved in the bait management zone where the primary residence of the person using or possessing the bait is located. Note: On January 1, 2024, section 30.3 of the Regulation is amended by adding the following subsection: (See: O. Reg. 337/23, s. 1 (2)) (2) In this section, “preserved” means treated or prepared in a manner to prevent decay or decomposition. O. Reg. 337/23, s. 1 (2). Restrictions on the Transport of Bait",
+            "raw_html": "<p class=\"section-e\"> <b>30.3 </b>(1) No person shall use bait for fishing or possess bait for use in fishing within a bait management zone unless,</p> <p class=\"clause-e\">  (a)  the person’s primary residence is located within the bait management zone where the bait was obtained and will be used or possessed;</p> <p class=\"clause-e\">  (b)  the bait originated from the holder of a commercial bait licence, a commercial fishing licence or an aquaculture licence within the bait management zone and the person,</p> <p class=\"subclause-e\">  (i)  uses or possesses the bait within the two weeks following the date on which it was obtained from the holder of a licence referred to in this clause, and</p> <p class=\"subclause-e\">  (ii)  is able to produce immediately on request by a conservation officer a legible receipt which lists the business name, where applicable, and licence number of the licence holder from whom the bait was obtained, the location and date it was obtained from the licence holder, and the quantity of baitfish or leeches obtained; or</p> <p class=\"clause-e\">  (c)  the person is acting under the authority of a commercial bait licence, commercial fishing licence, aquaculture licence or licence to collect fish for scientific purposes, and is using or possessing bait for the purposes of the licence and in accordance with the conditions of the licence. O. Reg. 576/21, s. 3.</p> <p class=\"Pnote-e\"><span>Note: On </span>January 1, 2024<span>, </span>section 30.3 of the Regulation is amended by striking out “or” at the end of subclause (b) (ii), by adding “or” at the end of clause (c) and by adding the following clause:<span> (See: O. Reg. </span>337/23<span>, s. </span>1 (1)<span>)</span></p> <p class=\"Yclause-e\">  (d)  the bait, </p> <p class=\"Ysubclause-e\">  (i)  is dead, </p> <p class=\"Ysubclause-e\">  (ii)  has been preserved using, as the primary method of preservation, a method other than refrigeration or freezing, and</p> <p class=\"Ysubclause-e\">  (iii)  either originated from the holder of a commercial bait licence, a commercial fishing licence or an aquaculture licence, or was harvested and preserved in the bait management zone where the primary residence of the person using or possessing the bait is located.</p> <p class=\"Pnote-e\"><span>Note: On </span>January 1, 2024<span>, </span>section 30.3 of the Regulation is amended by adding the following subsection:<span> (See: O. Reg. </span>337/23<span>, s. </span>1 (2)<span>)</span></p> <p class=\"Ysubsection-e\">  (2) In this section, </p> <p class=\"Ydefinition-e\">“preserved” means treated or prepared in a manner to prevent decay or decomposition. <span>O. Reg. </span>337/23<span>, s. </span>1 (2).</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>Restrictions on the Transport of Bait</p>"
+        },
+        {
+            "ahref_id": "#30.4",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  30.4 No person shall transport bait or cause bait to be transported into a bait management zone unless, (a)  the person is acting under the authority of a commercial bait licence transporting bait in accordance with the terms and conditions of the licence if, (i)  the licence provides for the transport of bait into the zone in accordance with a bait testing program approved by the Ministry, (ii)  the licence provides for the transport of bait from the Great Lakes or Ottawa River into a bait management zone, or (iii)  the licence provides for the transport of bait through the zone to a jurisdiction outside of Ontario; or (b)  the person is transporting bait from the Great Lakes or Ottawa River into an adjacent bait management zone for immediate disposal for the purposes of complying with section 28 of the Ontario Fishery Regulations. O. Reg. 576/21, s. 3.",
+            "raw_html": "<p class=\"section-e\"><b>  30.4 </b>No person shall transport bait or cause bait to be transported into a bait management zone unless,</p> <p class=\"clause-e\">  (a)  the person is acting under the authority of a commercial bait licence transporting bait in accordance with the terms and conditions of the licence if,</p> <p class=\"subclause-e\">  (i)  the licence provides for the transport of bait into the zone in accordance with a bait testing program approved by the Ministry,</p> <p class=\"subclause-e\">  (ii)  the licence provides for the transport of bait from the Great Lakes or Ottawa River into a bait management zone, or</p> <p class=\"subclause-e\">  (iii)  the licence provides for the transport of bait through the zone to a jurisdiction outside of Ontario; or</p> <p class=\"clause-e\">  (b)  the person is transporting bait from the Great Lakes or Ottawa River into an adjacent bait management zone for immediate disposal for the purposes of complying with section 28 of the Ontario Fishery Regulations. O. Reg. 576/21, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#30.5",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  30.5 No person shall transport bait or cause bait to be transported out of a bait management zone unless, (a)  the person is acting under the authority of a commercial bait licence transporting bait in accordance with the terms and conditions of the licence if, (i)  the licence provides for the transport of bait out of the zone in accordance with a bait testing program approved by the Ministry, or (ii)  the bait is being transported to a jurisdiction outside of Ontario; or (b)  the person is transporting bait to a part of the Great Lakes or Ottawa River if, (i)  the part of the Great Lakes or Ottawa River where the bait is being transported to is adjacent to the bait management zone from which the bait was obtained or harvested; and (ii)  for greater clarity, the bait is not transported through any other bait management zone. O. Reg. 576/21, s. 3.",
+            "raw_html": "<p class=\"section-e\"><b>  30.5 </b>No person shall transport bait or cause bait to be transported out of a bait management zone unless,</p> <p class=\"clause-e\">  (a)  the person is acting under the authority of a commercial bait licence transporting bait in accordance with the terms and conditions of the licence if,</p> <p class=\"subclause-e\">  (i)  the licence provides for the transport of bait out of the zone in accordance with a bait testing program approved by the Ministry, or</p> <p class=\"subclause-e\">  (ii)  the bait is being transported to a jurisdiction outside of Ontario; or</p> <p class=\"clause-e\">  (b)  the person is transporting bait to a part of the Great Lakes or Ottawa River if,</p> <p class=\"subclause-e\">  (i)  the part of the Great Lakes or Ottawa River where the bait is being transported to is adjacent to the bait management zone from which the bait was obtained or harvested; and</p> <p class=\"subclause-e\">  (ii)  for greater clarity, the bait is not transported through any other bait management zone. O. Reg. 576/21, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#30.6",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  30.6 Sections 30.4 and 30.5 do not apply to the following: 1.  A person transporting dead Longnose sucker, White sucker or Lake herring. 2.  A person transporting baitfish under the authority of a licence to collect fish for scientific purposes in accordance with the terms and conditions of the licence. 3.  A person transporting baitfish under the authority of an aquaculture licence in accordance with the terms and conditions of the licence, if the conditions provide for the transport of baitfish in and out of a bait management zone. O. Reg. 576/21, s. 3. Note: On January 1, 2024, section 30.6 of the Regulation is amended by adding the following paragraphs: (See: O. Reg.\r\n337/23, s. 2) 4.  A person transporting bait that meets the requirements set out in clause 30.3 (1) (d). 5.  A person transporting bait through an adjacent bait management zone for the purpose of reaching a destination in the bait management zone in which the bait was lawfully obtained if the person transporting the bait is taking a direct route through the adjacent bait management zone to reach their destination. PART III    BUYING OR SELLING FISH, FROGS AND LEECHES AND RELATED LICENCES Definitions",
+            "raw_html": "<p class=\"section-e\"><b>  30.6 </b>Sections 30.4 and 30.5 do not apply to the following:</p> <p class=\"paragraph-e\">  1.  A person transporting dead Longnose sucker, White sucker or Lake herring.</p> <p class=\"paragraph-e\">  2.  A person transporting baitfish under the authority of a licence to collect fish for scientific purposes in accordance with the terms and conditions of the licence.</p> <p class=\"paragraph-e\">  3.  A person transporting baitfish under the authority of an aquaculture licence in accordance with the terms and conditions of the licence, if the conditions provide for the transport of baitfish in and out of a bait management zone. O. Reg. 576/21, s. 3.</p> <p class=\"Pnote-e\"><span>Note: On </span>January 1, 2024<span>, </span>section 30.6 of the Regulation is amended by adding the following paragraphs:<span> (See: O. Reg.\r\n</span>337/23<span>, s. </span>2<span>)</span></p> <p class=\"Yparagraph-e\">  4.  A person transporting bait that meets the requirements set out in clause 30.3 (1) (d).</p> <p class=\"Yparagraph-e\">  5.  A person transporting bait through an adjacent bait management zone for the purpose of reaching a destination in the bait management zone in which the bait was lawfully obtained if the person transporting the bait is taking a direct route through the adjacent bait management zone to reach their destination.</p> <p class=\"partnum-e\"><a name=\"BK18\"></a>PART III  <br/>  BUYING OR SELLING FISH, FROGS AND LEECHES AND RELATED LICENCES</p> <p class=\"heading1-e\"><a name=\"BK19\"></a>Definitions</p>"
+        },
+        {
+            "ahref_id": "#31.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31. In this Part, “Canadian citizen” means a person who is a citizen within the meaning of the Citizenship Act\r\n(Canada) or a person who is a permanent resident within the meaning of the Immigration Act (Canada) but who is not a resident as defined in section 1 of the Act; (“citoyen canadien”) “fishery officer” means a person designated as a fishery officer under the Fisheries Act (Canada); (“agent des pêches”) O. Reg. 196/00, s. 4 (2); O. Reg. 576/21, s. 4. Commercial Fishing Licences",
+            "raw_html": "<p class=\"section-e\"> <b>31. </b>In this Part,</p> <p class=\"definition-e\">“Canadian citizen” means a person who is a citizen within the meaning of the <i>Citizenship Act</i>\r\n(Canada) or a person who is a permanent resident within the meaning of the <i>Immigration Act</i> (Canada) but who is not a resident as defined in section 1 of the Act; (“citoyen canadien”)</p> <p class=\"definition-e\">“fishery officer” means a person designated as a fishery officer under the <i>Fisheries Act</i> (Canada); (“agent des pêches”) O. Reg. 196/00, s. 4 (2); O. Reg. 576/21, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK20\"></a>Commercial Fishing Licences</p>"
+        },
+        {
+            "ahref_id": "#31.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31.1 (1) A commercial fishing licence authorizes the holder to, (a)  take fish by means of a gill net, pound net, trap net, trawl net, hoop net, seine net, dip net or trammel net or by means of hooks; and (b)  sell the fish taken under it. O. Reg. 196/00, s. 4 (2). (2) The Minister may issue a commercial fishing licence to a resident or a Canadian citizen. O. Reg. 196/00, s. 4 (2). (2.1) The Substantive Commercial Fishing Agreement between The Chippewas of Nawash Unceded First Nation and Saugeen First Nation and Her Majesty the Queen in Right of Ontario as represented by the Minister of Natural Resources, dated February 25, 2013, shall be deemed to be a commercial fishing licence. O. Reg. 220/13, s. 1. (2.2) The Memorandum of Understanding between The Nipissing First Nation and Her Majesty the Queen in Right of Ontario as represented by the Minister of Northern Development, Mines, Natural Resources and Forestry, dated March 11, 2022, shall be deemed to be a commercial fishing licence. O. Reg. 68/22, s. 1. (3) The holder of a commercial fishing licence shall, if requested by a fishery officer, prepare a daily return of the fish taken but not yet landed on each day, and submit the return to the officer or to a place designated by the officer. O. Reg. 196/00, s. 4 (2). (4) If a fishery officer requests a daily return from the holder of a commercial fishing licence, the holder shall prepare and submit a daily return for every day in the month that the holder fishes, beginning on the day for which the daily return is first requested. O. Reg. 196/00, s. 4 (2). (5) If a fishery officer has not requested daily returns for a month under subsection (3) or if the holder of a commercial fishing licence has done no fishing under the licence in that month, the holder shall submit a monthly return to the Minister on or before the eighth day of the next month. O. Reg. 196/00, s. 4 (2). (6) The holder of a commercial fishing licence shall, (a)  make a record of every sale of fish, except a sale to the owner or manager of a fish plant licensed under the Safe Food for Canadians Act (Canada) or under the Safe Food for Canadians Regulations (Canada), at the time of the sale; and (b)  give a copy of the record to the buyer at the same time. O. Reg. 196/00, s. 4 (2); O. Reg. 759/20, s. 4. (7) The holder of a commercial fishing licence shall compile the records made under subsection (6) over the course of a month into a monthly return and shall submit the return to the Minister on or before the eighth day of the next month. O. Reg. 196/00, s. 4 (2). (8) The returns required under this section shall be on the forms provided by the Minister. O. Reg. 196/00, s. 4 (2). (9) The Minister may permit a person to file different returns or at different times from the requirements of this section if, in the opinion of the Minister, the requirements of this section are not practical for that person. O. Reg. 196/00, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>31.1 </b>(1) A commercial fishing licence authorizes the holder to,</p> <p class=\"clause-e\">  (a)  take fish by means of a gill net, pound net, trap net, trawl net, hoop net, seine net, dip net or trammel net or by means of hooks; and </p> <p class=\"clause-e\">  (b)  sell the fish taken under it. O. Reg. 196/00, s. 4 (2).</p> <p class=\"subsection-e\">  (2) The Minister may issue a commercial fishing licence to a resident or a Canadian citizen. O. Reg. 196/00, s. 4 (2).</p> <p class=\"subsection-e\">  (2.1) The Substantive Commercial Fishing Agreement between The Chippewas of Nawash Unceded First Nation and Saugeen First Nation and Her Majesty the Queen in Right of Ontario as represented by the Minister of Natural Resources, dated February 25, 2013, shall be deemed to be a commercial fishing licence. O. Reg. 220/13, s. 1.</p> <p class=\"subsection-e\">  (2.2) The Memorandum of Understanding between The Nipissing First Nation and Her Majesty the Queen in Right of Ontario as represented by the Minister of Northern Development, Mines, Natural Resources and Forestry, dated March 11, 2022, shall be deemed to be a commercial fishing licence. O. Reg. 68/22, s. 1.</p> <p class=\"subsection-e\">  (3) The holder of a commercial fishing licence shall, if requested by a fishery officer, prepare a daily return of the fish taken but not yet landed on each day, and submit the return to the officer or to a place designated by the officer. O. Reg. 196/00, s. 4 (2).</p> <p class=\"subsection-e\">  (4) If a fishery officer requests a daily return from the holder of a commercial fishing licence, the holder shall prepare and submit a daily return for every day in the month that the holder fishes, beginning on the day for which the daily return is first requested. O. Reg. 196/00, s. 4 (2).</p> <p class=\"subsection-e\">  (5) If a fishery officer has not requested daily returns for a month under subsection (3) or if the holder of a commercial fishing licence has done no fishing under the licence in that month, the holder shall submit a monthly return to the Minister on or before the eighth day of the next month. O. Reg. 196/00, s. 4 (2).</p> <p class=\"subsection-e\">  (6) The holder of a commercial fishing licence shall, </p> <p class=\"clause-e\">  (a)  make a record of every sale of fish, except a sale to the owner or manager of a fish plant licensed under the <i>Safe Food for Canadians Act</i> (Canada) or under the <i>Safe Food for Canadians Regulations</i> (Canada), at the time of the sale; and</p> <p class=\"clause-e\">  (b)  give a copy of the record to the buyer at the same time. O. Reg. 196/00, s. 4 (2); O. Reg. 759/20, s. 4.</p> <p class=\"subsection-e\">  (7) The holder of a commercial fishing licence shall compile the records made under subsection (6) over the course of a month into a monthly return and shall submit the return to the Minister on or before the eighth day of the next month. O. Reg. 196/00, s. 4 (2).</p> <p class=\"subsection-e\">  (8) The returns required under this section shall be on the forms provided by the Minister. O. Reg. 196/00, s. 4 (2).</p> <p class=\"subsection-e\">  (9) The Minister may permit a person to file different returns or at different times from the requirements of this section if, in the opinion of the Minister, the requirements of this section are not practical for that person. O. Reg. 196/00, s. 4 (2).</p>"
+        },
+        {
+            "ahref_id": "#31.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31.2 The Minister may, upon the request of a holder of a commercial fishing licence, transfer the licence to another person.  O. Reg. 196/00, s. 4 (2). Commercial Bait Licences",
+            "raw_html": "<p class=\"section-e\"> <b>31.2 </b>The Minister may, upon the request of a holder of a commercial fishing licence, transfer the licence to another person.  O. Reg. 196/00, s. 4 (2).</p> <p class=\"heading1-e\"><a name=\"BK21\"></a>Commercial Bait Licences</p>"
+        },
+        {
+            "ahref_id": "#31.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31.3 (1) Except under the authority of a commercial bait licence that authorizes the holder to take, buy or sell leeches or baitfish, a person shall not, (a)  take baitfish for commercial purposes; or (b)  buy or sell leeches or baitfish for commercial purposes.  O. Reg. 418/07, s. 4; O. Reg. 576/21, s. 5. (1.1) Except under the authority of a commercial bait licence that authorizes the holder to take, buy or sell leeches, a person shall not take in one day or possess at any time more than 120 leeches.  O. Reg. 418/07, s. 4. (1.2) The holder of a commercial bait licence shall not buy leeches or baitfish for commercial purposes except from a person who is authorized to sell them.  O. Reg. 418/07, s. 4; O. Reg. 576/21, s. 5. (2) A person shall not buy or sell frogs for the purpose of bait for fishing.  O. Reg. 418/07, s. 4. (3) The holder of a commercial bait licence that authorizes the holder to take baitfish may take baitfish by any means specified in the licence.  O. Reg. 196/00, s. 4 (2); O. Reg. 576/21, s. 5. (4) The holder of a commercial bait licence that authorizes the holder to take leeches may take leeches by means of a trap that is legibly marked with the holder’s name.  O. Reg. 196/00, s. 4 (2). (5) The holder of a commercial bait licence shall, (a)  keep a log book, in the form required by the Minister, with information respecting the buying, selling, and taking of leeches, frogs or baitfish, including the quantities bought, sold or taken, and the relevant dates; and (b)  make and submit an annual return in the form required by the Minister not later than one month after the expiry of the licence.  O. Reg. 196/00, s. 4 (2); O. Reg. 576/21, s. 5. (6) The holder of a commercial bait licence shall retain the log book for five years after the expiry of the licence that was valid at the time it was kept.  O. Reg. 196/00, s. 4 (2). (7) The holder of a commercial bait licence shall not make a false entry in the log book.  O. Reg. 196/00, s. 4 (2). (8) The Minister may permit a person to file different returns or at different times from the requirements of clause (5) (b) if, in the opinion of the Minister, the requirements of clause (5) (b) are not practical for that person.  O. Reg. 196/00, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>31.3</b> (1) Except under the authority of a commercial bait licence that authorizes the holder to take, buy or sell leeches or baitfish, a person shall not,</p> <p class=\"clause-e\">  (a)  take baitfish for commercial purposes; or</p> <p class=\"clause-e\">  (b)  buy or sell leeches or baitfish for commercial purposes.  O. Reg. 418/07, s. 4; O. Reg. 576/21, s. 5.</p> <p class=\"subsection-e\">  (1.1) Except under the authority of a commercial bait licence that authorizes the holder to take, buy or sell leeches, a person shall not take in one day or possess at any time more than 120 leeches.  O. Reg. 418/07, s. 4.</p> <p class=\"subsection-e\">  (1.2) The holder of a commercial bait licence shall not buy leeches or baitfish for commercial purposes except from a person who is authorized to sell them.  O. Reg. 418/07, s. 4; O. Reg. 576/21, s. 5.</p> <p class=\"subsection-e\">  (2) A person shall not buy or sell frogs for the purpose of bait for fishing.  O. Reg. 418/07, s. 4.</p> <p class=\"subsection-e\">  (3) The holder of a commercial bait licence that authorizes the holder to take baitfish may take baitfish by any means specified in the licence.  O. Reg. 196/00, s. 4 (2); O. Reg. 576/21, s. 5.</p> <p class=\"subsection-e\">  (4) The holder of a commercial bait licence that authorizes the holder to take leeches may take leeches by means of a trap that is legibly marked with the holder’s name.  O. Reg. 196/00, s. 4 (2).</p> <p class=\"subsection-e\">  (5) The holder of a commercial bait licence shall,</p> <p class=\"clause-e\">  (a)  keep a log book, in the form required by the Minister, with information respecting the buying, selling, and taking of leeches, frogs or baitfish, including the quantities bought, sold or taken, and the relevant dates; and </p> <p class=\"clause-e\">  (b)  make and submit an annual return in the form required by the Minister not later than one month after the expiry of the licence.  O. Reg. 196/00, s. 4 (2); O. Reg. 576/21, s. 5.</p> <p class=\"subsection-e\">  (6) The holder of a commercial bait licence shall retain the log book for five years after the expiry of the licence that was valid at the time it was kept.  O. Reg. 196/00, s. 4 (2).</p> <p class=\"subsection-e\">  (7) The holder of a commercial bait licence shall not make a false entry in the log book.  O. Reg. 196/00, s. 4 (2).</p> <p class=\"subsection-e\">  (8) The Minister may permit a person to file different returns or at different times from the requirements of clause (5) (b) if, in the opinion of the Minister, the requirements of clause (5) (b) are not practical for that person.  O. Reg. 196/00, s. 4 (2).</p>"
+        },
+        {
+            "ahref_id": "#31.4",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31.4 The Minister may, upon the request of a holder of a commercial bait licence, transfer the licence to another person.  O. Reg. 196/00, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>31.4 </b>The Minister may, upon the request of a holder of a commercial bait licence, transfer the licence to another person.  O. Reg. 196/00, s. 4 (2).</p>"
+        },
+        {
+            "ahref_id": "#31.5",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31.5 The holder of a commercial bait licence shall not use salt to preserve baitfish taken under the licence  O. Reg. 196/00, s. 4 (2); O. Reg. 576/21, s. 5. Note: On January 1, 2024, section 31.5 of the Regulation is revoked. (See: O. Reg. 337/23, s. 3) Buying or Selling Fish",
+            "raw_html": "<p class=\"section-e\"> <b>31.5 </b>The holder of a commercial bait licence shall not use salt to preserve baitfish taken under the licence  O. Reg. 196/00, s. 4 (2); O. Reg. 576/21, s. 5.</p> <p class=\"Pnote-e\"><span>Note: On </span>January 1, 2024<span>, </span>section 31.5 of the Regulation is revoked.<span> (See: O. Reg. </span>337/23<span>, s. </span>3<span>)</span></p> <p class=\"heading1-e\"><a name=\"BK22\"></a>Buying or Selling Fish</p>"
+        },
+        {
+            "ahref_id": "#32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32. (1) A person who buys fish directly from the holder of an aquaculture licence, commercial fishing licence, commercial bait licence or document described in subsection (2) or (3) is exempt from the requirement in subsection 51 (1) of the Act to have a licence to buy fish.  O. Reg. 196/00, s. 4 (2); O. Reg. 261/05, s. 7 (1). (2) For fish that originate in Ontario, a document shall be deemed to be a licence to sell fish, other than baitfish, for the purpose of subsection 51 (1) of the Act if, (a)  it is prepared by, (i)  the holder of an aquaculture licence or commercial fishing licence who is selling fish in accordance with the licence, or (ii)  a person who subsequently sells some or all of the fish originally sold by a person described in subclause (i); (b)  it lists the number and species of fish being sold; (c)  it is given by the person described in clause (a) to the buyer; and (d)  it identifies the person who prepared the document and the person to whom it is given.  O. Reg. 196/00, s. 4 (2); O. Reg. 261/05, s. 7 (2); O. Reg. 576/21, s. 5. (3) For the purposes of subsection 51 (1) of the Act and subject to subsection 32.2 (3) of this Regulation, a person shall be deemed to hold a licence to sell fish that have been transported into Ontario if the person possesses, (a)  an invoice, receipt, bill of lading or similar document that lists the buyer, seller, species, weight and condition of the fish; and (b)  a Canadian Food Inspection Agency Fish Import Notification in respect of the fish.  O. Reg. 261/05, s. 7 (3). (4) A person who holds the documents described in subsection (2) or (3) shall retain them for a period of three years.  O. Reg. 261/05, s. 7 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>32. </b>(1) A person who buys fish directly from the holder of an aquaculture licence, commercial fishing licence, commercial bait licence or document described in subsection (2) or (3) is exempt from the requirement in subsection 51 (1) of the Act to have a licence to buy fish.  O. Reg. 196/00, s. 4 (2); O. Reg. 261/05, s. 7 (1).</p> <p class=\"subsection-e\">  (2) For fish that originate in Ontario, a document shall be deemed to be a licence to sell fish, other than baitfish, for the purpose of subsection 51 (1) of the Act if, </p> <p class=\"clause-e\">  (a)  it is prepared by,</p> <p class=\"subclause-e\">  (i)  the holder of an aquaculture licence or commercial fishing licence who is selling fish in accordance with the licence, or</p> <p class=\"subclause-e\">  (ii)  a person who subsequently sells some or all of the fish originally sold by a person described in subclause (i);</p> <p class=\"clause-e\">  (b)  it lists the number and species of fish being sold;</p> <p class=\"clause-e\">  (c)  it is given by the person described in clause (a) to the buyer; and </p> <p class=\"clause-e\">  (d)  it identifies the person who prepared the document and the person to whom it is given.  O. Reg. 196/00, s. 4 (2); O. Reg. 261/05, s. 7 (2); O. Reg. 576/21, s. 5.</p> <p class=\"subsection-e\">  (3) For the purposes of subsection 51 (1) of the Act and subject to subsection 32.2 (3) of this Regulation, a person shall be deemed to hold a licence to sell fish that have been transported into Ontario if the person possesses, </p> <p class=\"clause-e\">  (a)  an invoice, receipt, bill of lading or similar document that lists the buyer, seller, species, weight and condition of the fish; and</p> <p class=\"clause-e\">  (b)  a Canadian Food Inspection Agency Fish Import Notification in respect of the fish.  O. Reg. 261/05, s. 7 (3).</p> <p class=\"subsection-e\">  (4) A person who holds the documents described in subsection (2) or (3) shall retain them for a period of three years.  O. Reg. 261/05, s. 7 (3).</p>"
+        },
+        {
+            "ahref_id": "#32.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32.1 The holder of a commercial bait licence shall not buy or sell baitfish that have been preserved with salt.  O. Reg. 196/00, s. 4 (2); O. Reg. 576/21, s. 5. Note: On January 1, 2024, section 32.1 of the Regulation is revoked. (See: O. Reg. 337/23, s. 3)",
+            "raw_html": "<p class=\"section-e\"> <b>32.1 </b>The holder of a commercial bait licence shall not buy or sell baitfish that have been preserved with salt.  O. Reg. 196/00, s. 4 (2); O. Reg. 576/21, s. 5.</p> <p class=\"Pnote-e\"><span>Note: On </span>January 1, 2024<span>, </span>section 32.1 of the Regulation is revoked.<span> (See: O. Reg. </span>337/23<span>, s. </span>3<span>)</span></p>"
+        },
+        {
+            "ahref_id": "#32.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32.2 (1) The following fish that do not exist in Ontario waters are prescribed, for the purpose of subsection 51 (1) of the Act, as fish that can be bought or sold only under the authority of a licence: 1.  Round Goby (Neogobius melanostomus). 2.  Tubenose Goby (Proterorhinus marmoratus). O. Reg. 355/16, s. 1. (2) The requirement to have a licence to buy or sell the prescribed fish does not apply if the fish are dead at the time of purchase or sale.  O. Reg. 113/04, s. 2. (3) The requirement for a licence under this section applies to a person who holds a licence that is deemed to be a licence to sell fish under subsection 32 (3).  O. Reg. 113/04, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>32.2 </b>(1) The following fish that do not exist in Ontario waters are prescribed, for the purpose of subsection 51 (1) of the Act, as fish that can be bought or sold only under the authority of a licence:</p> <p class=\"paragraph-e\">  1.  Round Goby (<i>Neogobius melanostomus</i>).</p> <p class=\"paragraph-e\">  2.  Tubenose Goby (<i>Proterorhinus marmoratus</i>). O. Reg. 355/16, s. 1.</p> <p class=\"subsection-e\">  (2) The requirement to have a licence to buy or sell the prescribed fish does not apply if the fish are dead at the time of purchase or sale.  O. Reg. 113/04, s. 2.</p> <p class=\"subsection-e\">  (3) The requirement for a licence under this section applies to a person who holds a licence that is deemed to be a licence to sell fish under subsection 32 (3).  O. Reg. 113/04, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. Revoked:  O. Reg. 349/04, s. 1. Commercial Fishing Royalties",
+            "raw_html": "<p class=\"section-e\"> <b>33. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 349/04, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK23\"></a>Commercial Fishing Royalties</p>"
+        },
+        {
+            "ahref_id": "#34.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34. (1) Royalties may be charged to the holder of a commercial fishing licence in respect of the species of fish listed in Schedule D.  O. Reg. 261/05, s. 8. (2) Royalties shall be calculated and invoiced as follows: 1.  For fish harvested during the period beginning January 1 of the year and ending April 30 of the year, an interim invoice shall be issued by June 30 of the year and it shall be paid by July 31 of the same year. 2.  For fish harvested during the period beginning May 1 of the year and ending August 31 of the year, an interim invoice shall be issued by October 31 of the year and it shall be paid by November 30 of the same year. 3.  For fish harvested during the period beginning September 1 of the year and ending December 31 of the year, the interim invoice shall be issued by February 28 of the following year and it shall be paid by March 31 of that year. 4.  For fish harvested during the year but not already paid for, a final invoice shall be issued by May 31 of the following year and it shall be paid by June 30 of that year.  O. Reg. 261/05, s. 8; O. Reg. 352/15, s. 1 (1). (3) An interim invoice shall be calculated as follows: 1.  Calculate, by species and month, the number of pounds of unprocessed fish harvested by the person. 2.  Multiply that amount by the average price per pound for that species paid in the calendar year preceding the year of harvest in the economic zone in which the fish were harvested. 3.  Multiply the result of the calculations made under paragraph 2 by 0.05. 4.  Add the results for each species together.  O. Reg. 261/05, s. 8; O. Reg. 352/15, s. 1 (2, 3); O. Reg. 597/20, s. 1 (1). (4) An amount, if any, set out in the final invoice shall be calculated as follows: 1.  Calculate, by species, the number of pounds of unprocessed fish harvested by the month. 2.  Multiply that amount by the average price per pound for that species paid in the month of harvest in the economic zone in which the fish were harvested. 3.  Multiply the result of the calculations made under paragraph 2 by 0.05. 4.  Add the results together and then subtract any amounts paid on the interim invoices for the year.  O. Reg. 261/05, s. 8; O. Reg. 352/15, s. 1 (4, 5); O. Reg. 597/20, s. 1 (2). (5) A person shall pay interest on any amount that is invoiced and not paid when due at a rate to be determined by the Minister of Finance in accordance with section 10 of the Financial Administration Act.  O. Reg. 261/05, s. 8. (5.1) Despite anything in this section, (a)  no royalties are required to be paid for fish harvested between January 1 and December 31, 2020; and (b)  no interest is payable on any amount that is invoiced for fish harvested between January 1 and December 31, 2020, and any invoices issued for fish harvested between those dates are cancelled. O. Reg. 597/20, s. 1 (3). (6) A refund shall be made to a person if, (a)  the amount calculated under subsection (4) is negative; and (b)  the person will not be fishing the following year under the licence under which royalties were paid.  O. Reg. 261/05, s. 8. (7) A refund shall not be made to a person and shall instead be credited to the next royalty payment to be made if, (a)  the amount calculated under subsection (4) is negative; and (b)  the person has renewed the commercial fishing licence under which the royalties were paid.  O. Reg. 261/05, s. 8. part IV   miscellaneous Licence to Collect Fish for Scientific Purposes",
+            "raw_html": "<p class=\"section-e\"> <b>34. </b>(1) Royalties may be charged to the holder of a commercial fishing licence in respect of the species of fish listed in Schedule D.  O. Reg. 261/05, s. 8.</p> <p class=\"subsection-e\">  (2) Royalties shall be calculated and invoiced as follows:</p> <p class=\"paragraph-e\">  1.  For fish harvested during the period beginning January 1 of the year and ending April 30 of the year, an interim invoice shall be issued by June 30 of the year and it shall be paid by July 31 of the same year.</p> <p class=\"paragraph-e\">  2.  For fish harvested during the period beginning May 1 of the year and ending August 31 of the year, an interim invoice shall be issued by October 31 of the year and it shall be paid by November 30 of the same year.</p> <p class=\"paragraph-e\">  3.  For fish harvested during the period beginning September 1 of the year and ending December 31 of the year, the interim invoice shall be issued by February 28 of the following year and it shall be paid by March 31 of that year.</p> <p class=\"paragraph-e\">  4.  For fish harvested during the year but not already paid for, a final invoice shall be issued by May 31 of the following year and it shall be paid by June 30 of that year.  O. Reg. 261/05, s. 8; O. Reg. 352/15, s. 1 (1).</p> <p class=\"subsection-e\">  (3) An interim invoice shall be calculated as follows: </p> <p class=\"paragraph-e\">  1.  Calculate, by species and month, the number of pounds of unprocessed fish harvested by the person. </p> <p class=\"paragraph-e\">  2.  Multiply that amount by the average price per pound for that species paid in the calendar year preceding the year of harvest in the economic zone in which the fish were harvested.</p> <p class=\"paragraph-e\">  3.  Multiply the result of the calculations made under paragraph 2 by 0.05.</p> <p class=\"paragraph-e\">  4.  Add the results for each species together.  O. Reg. 261/05, s. 8; O. Reg. 352/15, s. 1 (2, 3); O. Reg. 597/20, s. 1 (1).</p> <p class=\"subsection-e\">  (4) An amount, if any, set out in the final invoice shall be calculated as follows: </p> <p class=\"paragraph-e\">  1.  Calculate, by species, the number of pounds of unprocessed fish harvested by the month.</p> <p class=\"paragraph-e\">  2.  Multiply that amount by the average price per pound for that species paid in the month of harvest in the economic zone in which the fish were harvested.</p> <p class=\"paragraph-e\">  3.  Multiply the result of the calculations made under paragraph 2 by 0.05.</p> <p class=\"paragraph-e\">  4.  Add the results together and then subtract any amounts paid on the interim invoices for the year.  O. Reg. 261/05, s. 8; O. Reg. 352/15, s. 1 (4, 5); O. Reg. 597/20, s. 1 (2).</p> <p class=\"subsection-e\">  (5) A person shall pay interest on any amount that is invoiced and not paid when due at a rate to be determined by the Minister of Finance in accordance with section 10 of the <i>Financial Administration Act</i>.  O. Reg. 261/05, s. 8.</p> <p class=\"subsection-e\">  (5.1) Despite anything in this section,</p> <p class=\"clause-e\">  (a)  no royalties are required to be paid for fish harvested between January 1 and December 31, 2020; and</p> <p class=\"clause-e\">  (b)  no interest is payable on any amount that is invoiced for fish harvested between January 1 and December 31, 2020, and any invoices issued for fish harvested between those dates are cancelled. O. Reg. 597/20, s. 1 (3).</p> <p class=\"subsection-e\">  (6) A refund shall be made to a person if,</p> <p class=\"clause-e\">  (a)  the amount calculated under subsection (4) is negative; and</p> <p class=\"clause-e\">  (b)  the person will not be fishing the following year under the licence under which royalties were paid.  O. Reg. 261/05, s. 8.</p> <p class=\"subsection-e\">  (7) A refund shall not be made to a person and shall instead be credited to the next royalty payment to be made if,</p> <p class=\"clause-e\">  (a)  the amount calculated under subsection (4) is negative; and</p> <p class=\"clause-e\">  (b)  the person has renewed the commercial fishing licence under which the royalties were paid.  O. Reg. 261/05, s. 8.</p> <p class=\"partnum-e\"><a name=\"BK24\"></a>part IV <br/>  miscellaneous</p> <p class=\"heading1-e\"><a name=\"BK25\"></a>Licence to Collect Fish for Scientific Purposes</p>"
+        },
+        {
+            "ahref_id": "#34.0.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  34.0.1 Revoked:  O. Reg. 576/21, s. 6.",
+            "raw_html": "<p class=\"section-e\"><b>  34.0.1 </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 576/21, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#34.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34.1 (1) The Minister may issue a licence to collect fish for scientific purposes.  O. Reg. 261/05, s. 9. (2) For the purposes of this section, the following special classes of licences are recognized as licences to collect fish for scientific purposes: 1.  A licence to collect fish for stormwater management pond maintenance. 2.  A licence to collect fish for salvage during in-water infrastructure works. O. Reg. 67/22, s. 2. (3) A special class of licence referred to in subsection (2) is issued by the Ministry online by accessing the Government of Ontario’s website or by such other means as the Minister determines. O. Reg. 67/22, s. 2. (4) A licence to collect fish for stormwater management pond maintenance authorizes the collection of fish to enable stormwater management pond maintenance involving dewatering, sediment removal or bank repair in retention basins designed to temporarily store urban stormwater runoff. O. Reg. 67/22, s. 2. (5) A licence to collect fish for salvage during in-water infrastructure works authorizes the collection of fish while dewatering to replace or maintain culverts or to conduct in-water maintenance on bridges and dams. O. Reg. 67/22, s. 2. (6) A licence referred to in subsection (2) is valid for the period of time and location specified in the licence and is subject to the following conditions: 1.  Fish can only be collected by means of the following gear: i.  dip, seine, fyke or trap net. ii.  baitfish or Windermere trap, electrofishing unit, or bucket. 2.  All gear used to collect fish shall be monitored and inspected continuously while dewatering and, while not dewatering, be inspected at least once daily and clearly marked with the name and licence number of the licence holder any time it is left unattended while in the water. 3.  All gear and equipment used for fish collection shall be decontaminated using the decontamination methods outlined for watercraft and watercraft equipment in the document entitled “Best Management Practices for Preventing the Spread of Aquatic Invasive Species – Guidance for Watercraft Users”, dated 2021, available on a website maintained by the Government of Ontario. O. Reg. 67/22, s. 2. (7) In addition to the conditions in subsection (6), a licence to collect fish for stormwater management pond maintenance is subject to the following conditions: 1.  Fish can only be collected under the licence between April 15 and October 15 in any year. 2.  All fish species collected under the licence, other than a species classified as extirpated, endangered or threatened under the Endangered Species Act, 2007 or the Species at Risk Act (Canada), shall be humanely euthanized and shall not be deposited into natural waters. 3.  Fish species classified as extirpated, endangered or threatened under the Endangered Species Act, 2007 or the Species at Risk Act\r\n(Canada) shall be immediately released, in a manner that causes the least harm to the fish, into the closest suitable habitat outside of the work area. O. Reg. 67/22, s. 2. (8) In addition to the conditions in subsection (6), a licence to collect fish for salvage during in-water infrastructure works is subject to the following conditions: 1.  Fish collection shall be conducted in accordance with the guidelines contained in the document entitled “In-Water Work Timing Window Guidelines”, dated March 11, 2013, published by the Ministry and available on a website maintained by the Government of Ontario, as it may be amended from time to time. 2.  All live fish collected, other than a species classified as a prohibited or restricted invasive species under the Invasive Species Act, 2015 or an aquatic invasive species set out under the Aquatic Invasive Species Regulations made under the Fisheries Act\r\n(Canada), shall be immediately released, in a manner that causes the least harm to the fish, into the closest suitable habitat outside of the work area. O. Reg. 67/22, s. 2. (9) The holder of a licence issued under this section shall complete a report in the form required by the Minister and submit it to the Minister by January 31 following the licence expiration date or by the date specified in the licence. O. Reg. 67/22, s. 2. (10) A report under subsection (9) may be submitted online through the Government of Ontario’s website or by such other means as the Minister determines. O. Reg. 67/22, s. 2. Licence to Transport Live Fish",
+            "raw_html": "<p class=\"section-e\"> <b>34.1 </b>(1) The Minister may issue a licence to collect fish for scientific purposes.  O. Reg. 261/05, s. 9.</p> <p class=\"subsection-e\">  (2) For the purposes of this section, the following special classes of licences are recognized as licences to collect fish for scientific purposes:</p> <p class=\"paragraph-e\">  1.  A licence to collect fish for stormwater management pond maintenance.</p> <p class=\"paragraph-e\">  2.  A licence to collect fish for salvage during in-water infrastructure works. O. Reg. 67/22, s. 2.</p> <p class=\"subsection-e\">  (3) A special class of licence referred to in subsection (2) is issued by the Ministry online by accessing the Government of Ontario’s website or by such other means as the Minister determines. O. Reg. 67/22, s. 2.</p> <p class=\"subsection-e\">  (4) A licence to collect fish for stormwater management pond maintenance authorizes the collection of fish to enable stormwater management pond maintenance involving dewatering, sediment removal or bank repair in retention basins designed to temporarily store urban stormwater runoff. O. Reg. 67/22, s. 2.</p> <p class=\"subsection-e\">  (5) A licence to collect fish for salvage during in-water infrastructure works authorizes the collection of fish while dewatering to replace or maintain culverts or to conduct in-water maintenance on bridges and dams. O. Reg. 67/22, s. 2.</p> <p class=\"subsection-e\">  (6) A licence referred to in subsection (2) is valid for the period of time and location specified in the licence and is subject to the following conditions:</p> <p class=\"paragraph-e\">  1.  Fish can only be collected by means of the following gear:</p> <p class=\"subpara-e\">  i.  dip, seine, fyke or trap net.</p> <p class=\"subpara-e\">  ii.  baitfish or Windermere trap, electrofishing unit, or bucket.</p> <p class=\"paragraph-e\">  2.  All gear used to collect fish shall be monitored and inspected continuously while dewatering and, while not dewatering, be inspected at least once daily and clearly marked with the name and licence number of the licence holder any time it is left unattended while in the water.</p> <p class=\"paragraph-e\">  3.  All gear and equipment used for fish collection shall be decontaminated using the decontamination methods outlined for watercraft and watercraft equipment in the document entitled “<i>Best Management Practices for Preventing the Spread of Aquatic Invasive Species – Guidance for Watercraft Users”</i>, dated 2021, available on a website maintained by the Government of Ontario. O. Reg. 67/22, s. 2.</p> <p class=\"subsection-e\">  (7) In addition to the conditions in subsection (6), a licence to collect fish for stormwater management pond maintenance is subject to the following conditions:</p> <p class=\"paragraph-e\">  1.  Fish can only be collected under the licence between April 15 and October 15 in any year.</p> <p class=\"paragraph-e\">  2.  All fish species collected under the licence, other than a species classified as extirpated, endangered or threatened under the <i>Endangered Species Act, 2007</i> or the <i>Species at Risk Act</i> (Canada), shall be humanely euthanized and shall not be deposited into natural waters.</p> <p class=\"paragraph-e\">  3.  Fish species classified as extirpated, endangered or threatened under the <i>Endangered Species Act, 2007</i> or the <i>Species at Risk Act</i>\r\n(Canada) shall be immediately released, in a manner that causes the least harm to the fish, into the closest suitable habitat outside of the work area. O. Reg. 67/22, s. 2.</p> <p class=\"subsection-e\">  (8) In addition to the conditions in subsection (6), a licence to collect fish for salvage during in-water infrastructure works is subject to the following conditions:</p> <p class=\"paragraph-e\">  1.  Fish collection shall be conducted in accordance with the guidelines contained in the document entitled “<i>In-Water Work Timing Window Guidelines”</i>, dated March 11, 2013, published by the Ministry and available on a website maintained by the Government of Ontario, as it may be amended from time to time.</p> <p class=\"paragraph-e\">  2.  All live fish collected, other than a species classified as a prohibited or restricted invasive species under the <i>Invasive Species Act, 2015</i> or an aquatic invasive species set out under the <i>Aquatic Invasive Species Regulations</i> made under the <i>Fisheries Act</i>\r\n(Canada), shall be immediately released, in a manner that causes the least harm to the fish, into the closest suitable habitat outside of the work area. O. Reg. 67/22, s. 2.</p> <p class=\"subsection-e\">  (9) The holder of a licence issued under this section shall complete a report in the form required by the Minister and submit it to the Minister by January 31<sup> </sup>following the licence expiration date or by the date specified in the licence. O. Reg. 67/22, s. 2.</p> <p class=\"subsection-e\">  (10) A report under subsection (9) may be submitted online through the Government of Ontario’s website or by such other means as the Minister determines. O. Reg. 67/22, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK26\"></a>Licence to Transport Live Fish</p>"
+        },
+        {
+            "ahref_id": "#34.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34.2 (1) The Minister may issue a licence to transport a specified species of live fish, other than baitfish, that has been taken from Ontario waters.  O. Reg. 196/00, s. 5; O. Reg. 576/21, s. 5. (2) It is a condition of a licence to transport fish that the person in possession of the fish while it is being transported shall have on his or her person a copy of the licence to transport fish and a copy of the licence under which the fish were taken.  O. Reg. 196/00, s. 5. Licence to Possess Nets",
+            "raw_html": "<p class=\"section-e\"> <b>34.2 </b>(1) The Minister may issue a licence to transport a specified species of live fish, other than baitfish, that has been taken from Ontario waters.  O. Reg. 196/00, s. 5; O. Reg. 576/21, s. 5.</p> <p class=\"subsection-e\">  (2) It is a condition of a licence to transport fish that the person in possession of the fish while it is being transported shall have on his or her person a copy of the licence to transport fish and a copy of the licence under which the fish were taken.  O. Reg. 196/00, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK27\"></a>Licence to Possess Nets</p>"
+        },
+        {
+            "ahref_id": "#34.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34.3 The Minister may issue a licence to authorize the holder to possess a gill net, pound net, trap net, trawl net, hoop net or seine net.  O. Reg. 196/00, s. 5. Licence Validity and Expiry",
+            "raw_html": "<p class=\"section-e\"> <b>34.3 </b>The Minister may issue a licence to authorize the holder to possess a gill net, pound net, trap net, trawl net, hoop net or seine net.  O. Reg. 196/00, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK28\"></a>Licence Validity and Expiry</p>"
+        },
+        {
+            "ahref_id": "#35.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 35. Subject to section 18, a licence under this Regulation expires on the date specified on it or, if no date is specified, on December 31 next following the date of its issue. O. Reg. 545/17, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>35. </b>Subject to section 18, a licence under this Regulation expires on the date specified on it or, if no date is specified, on December 31 next following the date of its issue. O. Reg. 545/17, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#36.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 36. A licence under this Regulation, other than a deemed licence, is not valid unless it is signed by the holder and issuer in the space provided for the signature.  O. Reg. 382/00, s. 2. Fishing Huts",
+            "raw_html": "<p class=\"section-e\"> <b>36. </b>A licence under this Regulation, other than a deemed licence, is not valid unless it is signed by the holder and issuer in the space provided for the signature.  O. Reg. 382/00, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK29\"></a>Fishing Huts</p>"
+        },
+        {
+            "ahref_id": "#37.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 37. (1) In this section, “tourist operator” means a person who provides ice fishing hut accommodations for the purpose of fishing to anglers for a fee.  O. Reg. 409/04, s. 1; O. Reg. 301/07, s. 2 (1). (2) The Minister may issue a licence to a tourist operator to place one or more ice fishing huts on the ice of the water known as Lake Nipissing in the territorial districts of Nipissing, Parry Sound and Sudbury.  O. Reg. 409/04, s. 1. (3) A person shall not place or occupy, for the purpose of fishing, an ice fishing hut on the ice of any of the waters described in section 38 unless one of the following numbers is displayed on the outside of the ice fishing hut in numerals at least two and one-half inches high: 1.  For ice fishing huts on Lake Nipissing belonging to a tourist operator, the number assigned to the ice fishing hut on the licence issued to the tourist operator under subsection (2). 2.  For all other ice fishing huts, the number assigned by the Minister to the owner of the ice fishing hut.  O. Reg. 301/07, s. 2 (2). (4) The prohibition in paragraph 2 of subsection (3) does not apply with respect to a tent made of cloth or synthetic fabric that has a basal area of seven square metres or less when erected.  O. Reg. 409/04, s. 1; O. Reg. 357/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>37.</b> (1) In this section,</p> <p class=\"definition-e\">“tourist operator” means a person who provides ice fishing hut accommodations for the purpose of fishing to anglers for a fee.  <strong>O. Reg. 409/04, s. 1; </strong>O. Reg. 301/07, s. 2 (1).</p> <p class=\"subsection-e\"><strong>  (2) </strong>The Minister may issue a licence to a tourist operator to place one or more ice fishing huts on the ice of the water known as Lake Nipissing in the territorial districts of Nipissing, Parry Sound and Sudbury.  <strong>O. Reg. 409/04, s. 1.</strong></p> <p class=\"subsection-e\">  (3) A person shall not place or occupy, for the purpose of fishing, an ice fishing hut on the ice of any of the waters described in section 38 unless one of the following numbers is displayed on the outside of the ice fishing hut in numerals at least two and one-half inches high:</p> <p class=\"paragraph-e\">  1.  For ice fishing huts on Lake Nipissing belonging to a tourist operator, the number assigned to the ice fishing hut on the licence issued to the tourist operator under subsection (2).</p> <p class=\"paragraph-e\">  2.  For all other ice fishing huts, the number assigned by the Minister to the owner of the ice fishing hut.  O. Reg. 301/07, s. 2 (2).</p> <p class=\"subsection-e\">  (4) The prohibition in paragraph 2 of subsection (3) does not apply with respect to a tent made of cloth or synthetic fabric that has a basal area of seven square metres or less when erected.  <strong>O. Reg. 409/04, s. 1; O. Reg. 357/08, s. 1.</strong></p>"
+        },
+        {
+            "ahref_id": "#.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 38. (1) A person shall not place, use, occupy or leave an ice fishing hut on the ice, (a)  after March 1 in any year, in fisheries management zones 17 and 20; (b)  after March 15 in any year, in fisheries management zones 14, 16, 18 and 19; (c)  after March 31 in any year, in fisheries management zones 9, 10, 11 and 15; (d)  after March 15 in any year, below Lake Timiskaming dam in fisheries management zone 12; or (e)  after March 31 in any year, above Lake Timiskaming dam in fisheries management zone 12.  O. Reg. 301/07, s. 3. (2) The prohibitions in subsection (1) do not apply with respect to a tent made of cloth or synthetic fabric that has a basal area of seven square metres or less when erected.  O. Reg. 357/08, s. 2.",
+            "raw_html": "<p class=\"section-e\"><strong> </strong><strong>38</strong><b>.</b> (1) A person shall not place, use, occupy or leave an ice fishing hut on the ice,</p> <p class=\"clause-e\">  (a)  after March 1 in any year, in fisheries management zones 17 and 20;</p> <p class=\"clause-e\">  (b)  after March 15 in any year, in fisheries management zones 14, 16, 18 and 19;</p> <p class=\"clause-e\">  (c)  after March 31 in any year, in fisheries management zones 9, 10, 11 and 15; </p> <p class=\"clause-e\">  (d)  after March 15 in any year, below Lake Timiskaming dam in fisheries management zone 12; or</p> <p class=\"clause-e\">  (e)  after March 31 in any year, above Lake Timiskaming dam in fisheries management zone 12.  O. Reg. 301/07, s. 3.</p> <p class=\"subsection-e\">  (2) The prohibitions in subsection (1) do not apply with respect to a tent made of cloth or synthetic fabric that has a basal area of seven square metres or less when erected.  <strong>O. Reg. 357/08, s. 2.</strong></p>"
+        },
+        {
+            "ahref_id": "#39.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 39. Omitted (revokes other Regulations).  O. Reg. 664/98, s. 39.",
+            "raw_html": "<p class=\"section-e\"> <b>39.</b> <span>Omitted (revokes other Regulations)</span>.  O. Reg. 664/98, s. 39.</p>"
+        },
+        {
+            "ahref_id": "#40.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 40. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 664/98, s. 40. Schedule A  Revoked:  O. Reg. 418/07, s. 5. SCHEDULE B   SPECIES ELIGIBLE FOR CULTURE IN ONTARIo Lake sturgeon   Acipenser fulvescens \n\n  Atlantic salmon   Salmo salar \n\n  Brown trout   Salmo trutta \n\n  Brook trout   Salvelinus fontinalis \n\n  Lake trout   Salvelinus namaycush \n\n  Arctic char   Salvelinus alpinus \n\n  Splake   The hybrid of Salvelinus fontinalis and Salvelinus namaycush \n\n  Chinook salmon   Oncorhynchus tshawytscha \n\n  Coho salmon   Oncorhynchus kisutch \n\n  Pink salmon   Oncorhynchus gorbuscha \n\n  Rainbow trout   Oncorhynchus mykiss \n\n  Lake whitefish   Coregonus clupeaformis \n\n  Lake herring (cisco)   Coregonus artedi \n\n  Muskellunge   Esox masquinongy \n\n  Northern Pike   Esox lucius \n\n  Creek chub   Semotilus atromaculatus \n\n  White sucker   Catostomus commersoni \n\n  Bluntnose minnow   Pimephales notatus \n\n  Fathead minnow   Pimephales promelas \n\n  Northern redbelly dace   Phoxinus eos \n\n  Finescale dace   Phoxinus neogaeus \n\n  Common shiner   Luxilus cornutus \n\n  Golden shiner   Notemigonus crysoleucas \n\n  Emerald shiner   Notropis atherinoides \n\n  Common carp   Cyprinus carpio \n\n  Goldfish   Carassius auratus \n\n  Brown bullhead   Ameiurus nebulosus \n\n  Channel catfish   Ictalurus punctatus \n\n  American eel    Anguilla rostrata \n\n  Largemouth bass   Micropterus salmoides \n\n  Smallmouth bass   Micropterus dolomieu \n\n  Bluegill   Lepomis macrochirus \n\n  Pumpkinseed   Lepomis gibbosus \n\n  Black crappie   Pomoxis nigromaculatus \n\n  Walleye   Sander vitreus \n\n  Sauger   Sander canadensis \n\n  Yellow perch   Perca flavescens \n\n  Tilapia of the genera   Oreochromis, Sarotherodon, Tilapia \n\n  Calico Crayfish   Orconectes immunis \n\n  Virile Crayfish   O. virilis \n\n  Northern clearwater crayfish   O. propinquus \n\n  Robust Crayfish   Cambarus robustus \n\n  Appalachian Brook Crayfish   C. bartonii \n\n  Marsh Pondsnail or Melantho Snail   Stagnicola elodes \n\n  Pacific white shrimp (Whiteleg shrimp)   Litopenaeus vannamei \n\n  Barramundi   Lates calcarifer \n\n  Giant freshwater river prawn   Macrobrachium rosenbergii O. Reg. 418/07, s. 6; O. Reg. 371/12, s. 1; O. Reg. 119/16, s. 4; O. Reg. 463/18, s. 9. Schedule C \nFISH DISEASE AGENTS Infectious hematopoietic necrosis virus Viral hemmorhagic septicemia virus Oncorhynchus masou virus Epizootic epitheliotropic disease virus Ceratomyxa shasta Myxobolus cerebralis (causative agent of whirling disease) Proliferative kidney disease agent O. Reg. 664/98, Sched. C. Schedule D \nSPECIES OF FISH American eel Bullhead, spp. Carp, spp. Channel catfish Chubs, spp. Crappie, spp. Freshwater drum Lake herring (Cisco) Lake sturgeon Lake trout Lake whitefish Menominee Northern pike Rainbow smelt Sauger Sunfish, spp. Walleye White bass White perch Yellow perch O. Reg. 664/98, Sched. D. Schedule E  Revoked:  O. Reg. 301/07, s. 4.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>40.</b> <span>Omitted (provides for coming into force of provisions of this Regulation).</span>  O. Reg. 664/98, s. 40.</p> <p class=\"scheduleRevoked-e\"><span class=\"ovallcaps\">Schedule </span>A  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 418/07, s. 5. </p> <p class=\"schedule-e\"><a name=\"BK30\"></a>SCHEDULE B <br/>  SPECIES ELIGIBLE FOR CULTURE IN ONTARIo</p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"672\">\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Lake sturgeon</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-eovitalic\"><i>Acipenser fulvescens</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Atlantic salmon</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Salmo salar</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Brown trout</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Salmo trutta</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Brook trout</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Salvelinus fontinalis</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Lake trout</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Salvelinus namaycush</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Arctic char</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Salvelinus alpinus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Splake</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>The hybrid of Salvelinus fontinalis and Salvelinus namaycush</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Chinook salmon</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Oncorhynchus tshawytscha</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Coho salmon</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Oncorhynchus kisutch</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Pink salmon</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Oncorhynchus gorbuscha</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Rainbow trout</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Oncorhynchus mykiss</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Lake whitefish</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Coregonus clupeaformis</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Lake herring (cisco)</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Coregonus artedi</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Muskellunge</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Esox masquinongy</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Northern Pike</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Esox lucius</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Creek chub</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Semotilus atromaculatus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">White sucker</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Catostomus commersoni</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Bluntnose minnow</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Pimephales notatus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Fathead minnow</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Pimephales promelas</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Northern redbelly dace</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Phoxinus eos</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Finescale dace</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Phoxinus neogaeus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Common shiner</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Luxilus cornutus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Golden shiner</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Notemigonus crysoleucas</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Emerald shiner</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Notropis atherinoides</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Common carp</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Cyprinus carpio</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Goldfish</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Carassius auratus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Brown bullhead</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Ameiurus nebulosus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Channel catfish</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Ictalurus punctatus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">American eel </p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Anguilla rostrata</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Largemouth bass</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Micropterus salmoides</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Smallmouth bass</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Micropterus dolomieu</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Bluegill</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Lepomis macrochirus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Pumpkinseed</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Lepomis gibbosus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Black crappie</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Pomoxis nigromaculatus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Walleye</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Sander vitreus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Sauger</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Sander canadensis</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Yellow perch</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Perca flavescens</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Tilapia of the genera</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Oreochromis, Sarotherodon, Tilapia</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Calico Crayfish</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Orconectes immunis</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Virile Crayfish</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>O. virilis</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Northern clearwater crayfish</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>O. propinquus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Robust Crayfish</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Cambarus robustus</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Appalachian Brook Crayfish</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>C. bartonii</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Marsh Pondsnail or Melantho Snail</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Stagnicola elodes</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Pacific white shrimp (Whiteleg shrimp)</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Litopenaeus vannamei</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Barramundi</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Lates calcarifer</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"251\"> <p class=\"table-e\">Giant freshwater river prawn</p> </td> <td valign=\"top\" width=\"421\"> <p class=\"table-e\"><i>Macrobrachium rosenbergii</i></p> </td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 418/07, s. 6; O. Reg. 371/12, s. 1; O. Reg. 119/16, s. 4; O. Reg. 463/18, s. 9.</p> <p class=\"schedule-e\"><a name=\"BK31\"></a>Schedule C<b> <br/>\n</b>FISH DISEASE AGENTS</p> <p class=\"paranoindt-e\">Infectious hematopoietic necrosis virus</p> <p class=\"paranoindt-e\">Viral hemmorhagic septicemia virus </p> <p class=\"paranoindt-e\">Oncorhynchus masou virus</p> <p class=\"paranoindt-e\">Epizootic epitheliotropic disease virus</p> <p class=\"paranoindt-e\"><i>Ceratomyxa shasta</i></p> <p class=\"paranoindt-e\"><i>Myxobolus cerebralis</i> (causative agent of whirling disease)</p> <p class=\"paranoindt-e\">Proliferative kidney disease agent</p> <p class=\"footnote-e\">O. Reg. 664/98, Sched. C.</p> <p class=\"schedule-e\"><a name=\"BK32\"></a>Schedule D<b> <br/>\n</b>SPECIES OF FISH</p> <p class=\"paranoindt-e\">American eel</p> <p class=\"paranoindt-e\">Bullhead, spp.</p> <p class=\"paranoindt-e\">Carp, spp.</p> <p class=\"paranoindt-e\">Channel catfish</p> <p class=\"paranoindt-e\">Chubs, spp.</p> <p class=\"paranoindt-e\">Crappie, spp.</p> <p class=\"paranoindt-e\">Freshwater drum</p> <p class=\"paranoindt-e\">Lake herring (Cisco)</p> <p class=\"paranoindt-e\">Lake sturgeon</p> <p class=\"paranoindt-e\">Lake trout</p> <p class=\"paranoindt-e\">Lake whitefish</p> <p class=\"paranoindt-e\">Menominee</p> <p class=\"paranoindt-e\">Northern pike</p> <p class=\"paranoindt-e\">Rainbow smelt</p> <p class=\"paranoindt-e\">Sauger</p> <p class=\"paranoindt-e\">Sunfish, spp.</p> <p class=\"paranoindt-e\">Walleye</p> <p class=\"paranoindt-e\">White bass</p> <p class=\"paranoindt-e\">White perch</p> <p class=\"paranoindt-e\">Yellow perch</p> <p class=\"footnote-e\">O. Reg. 664/98, Sched. D.</p> <p class=\"scheduleRevoked-e\"><span class=\"ovallcaps\">Schedule</span> E  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 301/07, s. 4.</p> <p class=\"scheduleRevoked-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/980664\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

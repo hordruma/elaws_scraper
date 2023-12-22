@@ -1,0 +1,56 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 327/18: NON-APPLICATION OF ACT TO CERTAIN CANNABIS AND CANNABIS PRODUCTS",
+        "reg_name_text": "NON-APPLICATION OF ACT TO CERTAIN CANNABIS AND CANNABIS PRODUCTS",
+        "citation": "O. Reg. 327/18: ",
+        "act_under": "Cannabis Control Act, 2017",
+        "url": "https://www.ontario.ca/laws/regulation/180327",
+        "date_scraped": "2023-12-18 23:40:54"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "October 17, 2018",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/180327/v2",
+            "valid_from": "August 22, 2018",
+            "valid_to": "October 16, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/180327/v1",
+            "valid_from": "April 24, 2018",
+            "valid_to": "August 21, 2018"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Industrial hemp",
+            "content": " 1. The Act does not apply to activities respecting, (a) any form of industrial hemp, as those terms are defined by the Industrial Hemp Regulations\r\nmade under the Cannabis Act (Canada), to which those Regulations apply; or (b) derivatives or products made from derivatives that are subject to an exemption under section 2 of those Regulations. O. Reg. 415/18, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The Act does not apply to activities respecting,</p> <p class=\"clause-e\">  (a) any form of industrial hemp, as those terms are defined by the <i>Industrial Hemp Regulations</i>\r\nmade under the <i>Cannabis Act </i>(Canada), to which those Regulations apply; or</p> <p class=\"clause-e\">  (b) derivatives or products made from derivatives that are subject to an exemption under section 2 of those Regulations. O. Reg. 415/18, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Drugs under the Food and Drugs Act (Canada)",
+            "content": " 2. The Act does not apply to activities respecting drugs within the meaning of the Food and Drugs Act (Canada) that are authorized for sale under that Act.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>The Act does not apply to activities respecting drugs within the meaning of the <i>Food and Drugs Act</i> (Canada) that are authorized for sale under that Act.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Drugs under the Food and Drugs Act (Canada)",
+            "content": " 3. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>3.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Drugs under the Food and Drugs Act (Canada)",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/180327\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

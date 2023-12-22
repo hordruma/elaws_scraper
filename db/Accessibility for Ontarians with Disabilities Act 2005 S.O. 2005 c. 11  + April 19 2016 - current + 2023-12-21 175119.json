@@ -1,0 +1,610 @@
+{
+    "act_info": {
+        "full_title": "Accessibility for Ontarians with Disabilities Act, 2005, S.O. 2005, c. 11 ",
+        "act_name_text": "Not Found",
+        "citation": "Accessibility for Ontarians with Disabilities Act, 2005, S.O. 2005, c. 11 ",
+        "url": "https://www.ontario.ca/laws/statute/05a11",
+        "date_scraped": "2023-12-21 17:51:21"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "April 19, 2016",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/05a11/v5",
+            "valid_from": "December 15, 2009",
+            "valid_to": "April 18, 2016"
+        },
+        {
+            "a_href": "/laws/statute/05a11/v4",
+            "valid_from": "August 20, 2007",
+            "valid_to": "December 14, 2009"
+        },
+        {
+            "a_href": "/laws/statute/05a11/v3",
+            "valid_from": "January  1, 2007",
+            "valid_to": "August 19, 2007"
+        },
+        {
+            "a_href": "/laws/statute/05a11/v2",
+            "valid_from": "December 20, 2006",
+            "valid_to": "December 31, 2006"
+        },
+        {
+            "a_href": "/laws/statute/05a11/v1",
+            "valid_from": "June 13, 2005",
+            "valid_to": "December 19, 2006"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/110191",
+            "Citation": "O. Reg. 191/11",
+            "title": "INTEGRATED ACCESSIBILITY STANDARDS"
+        }
+    ],
+    "revoked_regs": [
+        {
+            "revoked_reg_a_href": "/laws/regulation/070430",
+            "revoked_reg_citation": "O. Reg. 430/07",
+            "revoked_reg_title": "EXEMPTION FROM REPORTING REQUIREMENTS"
+        },
+        {
+            "revoked_reg_a_href": "/laws/regulation/070429",
+            "revoked_reg_citation": "O. Reg. 429/07",
+            "revoked_reg_title": "ACCESSIBILITY STANDARDS FOR CUSTOMER SERVICE"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I  ",
+            "section_x": "PART I INTERPRETATION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Purpose",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "2.",
+            "section_x": "Definitions",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "3.",
+            "section_x": "Recognition of existing legal obligations",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "PART II  ",
+            "section_x": "PART II APPLICATION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "4.",
+            "section_x": "Application",
+            "part_id": "PART II  ",
+            "part_type": "PART II APPLICATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "5.",
+            "section_x": "Crown bound",
+            "part_id": "PART II  ",
+            "part_type": "PART II APPLICATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "PART III  ",
+            "section_x": "PART III ACCESSIBILITY STANDARDS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "Establishment of Standards",
+            "section_x": "Establishment of Standards",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "6.",
+            "section_x": "Accessibility standards established by regulation",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "Standards Development Process",
+            "section_x": "Standards Development Process",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "7.",
+            "section_x": "Process for development of standards",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "8.",
+            "section_x": "Standards development committees",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "9.",
+            "section_x": "Development of proposed standards",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "10.",
+            "section_x": "Proposed standards made public",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "11.",
+            "section_x": "Progress reports",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "12.",
+            "section_x": "Assistance for standards development committees",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "Compliance with Standards and Review of Reports",
+            "section_x": "Compliance with Standards and Review of Reports",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "13.",
+            "section_x": "Compliance with accessibility standard",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "14.",
+            "section_x": "Accessibility report",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "15.",
+            "section_x": "Certification of accessibility report",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "16.",
+            "section_x": "Review of director",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "17.",
+            "section_x": "Other reports and information",
+            "part_id": "PART III  ",
+            "part_type": "PART III ACCESSIBILITY STANDARDS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "PART IV  ",
+            "section_x": "PART IV INSPECTIONS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "18.",
+            "section_x": "Inspectors",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV INSPECTIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "19.",
+            "section_x": "Inspections without warrant",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV INSPECTIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "20.",
+            "section_x": "Search warrant",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV INSPECTIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "PART V  ",
+            "section_x": "PART V DIRECTOR’S ORDERS AND ADMINISTRATIVE PENALTIES",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "21.",
+            "section_x": "Orders",
+            "part_id": "PART V  ",
+            "part_type": "PART V DIRECTOR’S ORDERS AND ADMINISTRATIVE PENALTIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "22.",
+            "section_x": "Notice of order",
+            "part_id": "PART V  ",
+            "part_type": "PART V DIRECTOR’S ORDERS AND ADMINISTRATIVE PENALTIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "23.",
+            "section_x": "Enforcement of administrative penalties",
+            "part_id": "PART V  ",
+            "part_type": "PART V DIRECTOR’S ORDERS AND ADMINISTRATIVE PENALTIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "24.",
+            "section_x": "No hearing required prior to order",
+            "part_id": "PART V  ",
+            "part_type": "PART V DIRECTOR’S ORDERS AND ADMINISTRATIVE PENALTIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "25.",
+            "section_x": "Order reviewed, etc.",
+            "part_id": "PART V  ",
+            "part_type": "PART V DIRECTOR’S ORDERS AND ADMINISTRATIVE PENALTIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "PART VI  ",
+            "section_x": "PART VI APPEALS TO TRIBUNAL",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "26.",
+            "section_x": "Designation of tribunals",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI APPEALS TO TRIBUNAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "27.",
+            "section_x": "Appeals to Tribunal",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI APPEALS TO TRIBUNAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "28.",
+            "section_x": "Mediation",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI APPEALS TO TRIBUNAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "PART VII  ",
+            "section_x": "PART VII MUNICIPAL ACCESSIBILITY ADVISORY COMMITTEES",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "29.",
+            "section_x": "Accessibility advisory committees",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII MUNICIPAL ACCESSIBILITY ADVISORY COMMITTEES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "PART VIII  ",
+            "section_x": "PART VIII ADMINISTRATION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "30.",
+            "section_x": "Directors",
+            "part_id": "PART VIII  ",
+            "part_type": "PART VIII ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "31.",
+            "section_x": "Accessibility Standards Advisory Council",
+            "part_id": "PART VIII  ",
+            "part_type": "PART VIII ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "32.",
+            "section_x": "Accessibility Directorate of Ontario",
+            "part_id": "PART VIII  ",
+            "part_type": "PART VIII ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "PART IX  ",
+            "section_x": "PART IX INCENTIVE AGREEMENTS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "33.",
+            "section_x": "Agreements",
+            "part_id": "PART IX  ",
+            "part_type": "PART IX INCENTIVE AGREEMENTS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "PART X  ",
+            "section_x": "PART X GENERAL",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "34.",
+            "section_x": "Delegation of Minister’s powers",
+            "part_id": "PART X  ",
+            "part_type": "PART X GENERAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "35.",
+            "section_x": "Document formats",
+            "part_id": "PART X  ",
+            "part_type": "PART X GENERAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "36.",
+            "section_x": "Service",
+            "part_id": "PART X  ",
+            "part_type": "PART X GENERAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "37.",
+            "section_x": "Offences",
+            "part_id": "PART X  ",
+            "part_type": "PART X GENERAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "38.",
+            "section_x": "Conflict",
+            "part_id": "PART X  ",
+            "part_type": "PART X GENERAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "39.",
+            "section_x": "Regulations",
+            "part_id": "PART X  ",
+            "part_type": "PART X GENERAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "40.",
+            "section_x": "Annual report",
+            "part_id": "PART X  ",
+            "part_type": "PART X GENERAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "41.",
+            "section_x": "Review of Act",
+            "part_id": "PART X  ",
+            "part_type": "PART X GENERAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

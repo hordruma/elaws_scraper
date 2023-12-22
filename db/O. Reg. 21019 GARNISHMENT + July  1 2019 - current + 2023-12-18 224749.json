@@ -1,0 +1,51 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 210/19: GARNISHMENT",
+        "reg_name_text": "GARNISHMENT",
+        "citation": "O. Reg. 210/19: ",
+        "act_under": "Crown Liability and Proceedings Act, 2019",
+        "url": "https://www.ontario.ca/laws/regulation/190210",
+        "date_scraped": "2023-12-18 22:47:49"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July  1, 2019",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/190210/v1",
+            "valid_from": "June 25, 2019",
+            "valid_to": "June 30, 2019"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "When notice of garnishment deemed to be served",
+            "content": "  1. A notice of garnishment issued against the Crown is deemed to be served on the 30th day after the actual date of service or on the 30th day after the effective date of service under the rules of the court that issued the notice of garnishment, as the case may be.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>A notice of garnishment issued against the Crown is deemed to be served on the 30th day after the actual date of service or on the 30th day after the effective date of service under the rules of the court that issued the notice of garnishment, as the case may be.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Method of service",
+            "content": " 2. For the purposes of section 27 of the Act, the manner of service of a notice of garnishment shall be in accordance with the rules of the court that issued the notice, with the following exceptions: 1. The method of personal service shall be by leaving the notice of garnishment with the chief financial officer, or an employee in the office of the chief financial officer, of the administrative unit. 2. The method of service by mail shall be by sending the notice of garnishment by mail addressed to the chief financial officer at the head office of the administrative unit.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>For the purposes of section 27 of the Act, the manner of service of a notice of garnishment shall be in accordance with the rules of the court that issued the notice, with the following exceptions:</p> <p class=\"paragraph-e\">  1. The method of personal service shall be by leaving the notice of garnishment with the chief financial officer, or an employee in the office of the chief financial officer, of the administrative unit.</p> <p class=\"paragraph-e\">  2. The method of service by mail shall be by sending the notice of garnishment by mail addressed to the chief financial officer at the head office of the administrative unit.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Method of service",
+            "content": "  3. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"><b>  3.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Method of service",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/190210\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

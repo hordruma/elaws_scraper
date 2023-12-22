@@ -1,0 +1,33 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 608/94: TOLL HIGHWAY DESIGNATIONS",
+        "reg_name_text": "TOLL HIGHWAY DESIGNATIONS",
+        "citation": "O. Reg. 608/94: ",
+        "act_under": "Capital Investment Plan Act, 1993   Loi de 1993 sur le plan d’investissement",
+        "url": "https://www.ontario.ca/laws/regulation/940608",
+        "date_scraped": "2023-12-19 06:30:44"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/940608/v2",
+            "valid_from": "April  6, 2010",
+            "valid_to": "June 30, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/940608/v1",
+            "valid_from": "September 27, 1994",
+            "valid_to": "April  5, 2010"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": "1. The part of the King’s Highway designated as controlled-access Highway 407 is hereby designated as a toll highway. O. Reg. 608/94, s. 1. ",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>The part of the King’s Highway designated as controlled-access Highway 407 is hereby designated as a toll highway. O. Reg. 608/94, s. 1.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

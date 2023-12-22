@@ -1,0 +1,1909 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 1015: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "R.R.O. 1990, Reg. 1015: ",
+        "act_under": "Securities Act   Loi sur les valeurs mobilières",
+        "url": "https://www.ontario.ca/laws/regulation/901015",
+        "date_scraped": "2023-12-19 03:01:37"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "January  1, 2017",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v31",
+            "valid_from": "December 12, 2016",
+            "valid_to": "December 31, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v30",
+            "valid_from": "July  1, 2016",
+            "valid_to": "December 11, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v29",
+            "valid_from": "June 28, 2016",
+            "valid_to": "June 30, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v28",
+            "valid_from": "May  9, 2016",
+            "valid_to": "June 27, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v27",
+            "valid_from": "March 18, 2014",
+            "valid_to": "May  8, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v26",
+            "valid_from": "January  1, 2011",
+            "valid_to": "March 17, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v25",
+            "valid_from": "November 29, 2010",
+            "valid_to": "December 31, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v24",
+            "valid_from": "April 30, 2010",
+            "valid_to": "November 28, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v23",
+            "valid_from": "April 19, 2010",
+            "valid_to": "April 29, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v22",
+            "valid_from": "September 28, 2009",
+            "valid_to": "April 18, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v21",
+            "valid_from": "September 22, 2009",
+            "valid_to": "September 27, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v20",
+            "valid_from": "March 17, 2008",
+            "valid_to": "September 21, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v19",
+            "valid_from": "February 21, 2008",
+            "valid_to": "March 16, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v18",
+            "valid_from": "February  1, 2008",
+            "valid_to": "February 20, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v17",
+            "valid_from": "December 31, 2007",
+            "valid_to": "January 31, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v16",
+            "valid_from": "December 21, 2007",
+            "valid_to": "December 30, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v15",
+            "valid_from": "December 13, 2007",
+            "valid_to": "December 20, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v14",
+            "valid_from": "November  3, 2006",
+            "valid_to": "December 12, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v13",
+            "valid_from": "December 31, 2005",
+            "valid_to": "November  2, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v12",
+            "valid_from": "December  1, 2005",
+            "valid_to": "December 30, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v11",
+            "valid_from": "September 14, 2005",
+            "valid_to": "November 30, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v10",
+            "valid_from": "September  7, 2005",
+            "valid_to": "September 13, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v9",
+            "valid_from": "July 29, 2005",
+            "valid_to": "September  6, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v8",
+            "valid_from": "June 13, 2005",
+            "valid_to": "July 28, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v7",
+            "valid_from": "June  1, 2005",
+            "valid_to": "June 12, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v6",
+            "valid_from": "May 18, 2005",
+            "valid_to": "May 31, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v5",
+            "valid_from": "June  1, 2004",
+            "valid_to": "May 17, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v4",
+            "valid_from": "March 30, 2004",
+            "valid_to": "May 31, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v3",
+            "valid_from": "March 29, 2004",
+            "valid_to": "March 29, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v2",
+            "valid_from": "March 10, 2004",
+            "valid_to": "March 28, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/901015/v1",
+            "valid_from": "March 31, 2003",
+            "valid_to": "March  9, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "PART II",
+            "Section": "None",
+            "Section1": "GENERAL",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation",
+            "Section2": "1-2",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "PART III",
+            "Section": "None",
+            "Section1": "CONTINUOUS DISCLOSURE",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Non-Financial Matters",
+            "Section2": "3-13",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "PART V",
+            "Section": "None",
+            "Section1": "PROSPECTUS REQUIREMENTS",
+            "Section2": "14-39",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Format",
+            "Section2": "40.-42-80.-82",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "PART VI",
+            "Section": "None",
+            "Section1": "REGISTRATION REQUIREMENTS",
+            "Section2": "96-106.-109",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Conditions of Registration — Capital Requirements",
+            "Section2": "110-130.-133",
+            "part_id": "PART VI",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Examination",
+            "Section2": "134-150., 151",
+            "part_id": "PART VI",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "PART VII",
+            "Section": "None",
+            "Section1": "OVER-THE-COUNTER TRADING",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "General",
+            "Section2": "152-153",
+            "part_id": "PART VII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "General",
+            "Section2": "157-159",
+            "part_id": "PART VII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "General",
+            "Section2": "164-174",
+            "part_id": "PART XIV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Trade Reporting",
+            "Section2": "154-155., 156",
+            "part_id": "PART VII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "PART VIII",
+            "Section": "None",
+            "Section1": "ONTARIO SECURITIES COMMISSION PROCEDURE AND RELATED MATTERS",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Endorsement of Warrants",
+            "Section2": "160",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Execution and Certification of Documents",
+            "Section2": "161",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Fees and Filing",
+            "Section2": "162",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Investigations",
+            "Section2": "163",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "PART XIV",
+            "Section": "None",
+            "Section1": "INSIDER TRADING",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Insider Trading",
+            "Section2": "175-233",
+            "part_id": "PART XIV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "PART XVI",
+            "Section": "None",
+            "Section1": "LABOUR SPONSORED INVESTMENT FUND CORPORATIONS",
+            "Section2": "234-245",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "PART XVI",
+            "Section": "None",
+            "Section1": "CIVIL LIABILITY FOR SECONDARY MARKET DISCLOSURE",
+            "Section2": "248-252",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. (1) Every term used in this Regulation that is, (a) defined in section 1 of the Act is used in this Regulation as so defined unless it is otherwise defined in this Regulation or the context otherwise requires; (b) defined in a Part of the Act for purposes of that Part, is used as so defined in those sections of this Regulation that relate to the subject-matter of that Part; and (c) defined only for a Part or section of this Regulation is, unless otherwise provided, so defined only for the purposes of such Part or section.  R.R.O. 1990, Reg. 1015, s. 1 (1). (2) Revoked: O. Reg. 446/16, s. 1. (3) Revoked: O. Reg. 437/10, s. 1 (1). (4) Except as otherwise provided in National Instrument 52-107 Acceptable Accounting Principles and Auditing Standards, in National Instrument 71-101 The Multijurisdictional Disclosure System\r\nand in Ontario Securities Commission Rule 71-801 The Multijurisdictional Disclosure System, where an issuer is incorporated or organized in a jurisdiction other than Canada or a province or territory of Canada, “generally accepted accounting principles” may, at the option of the issuer, mean such principles as prescribed in the incorporating jurisdiction by or pursuant to applicable legislation or where a recommendation has been made by an association in that jurisdiction equivalent to the Canadian Institute of Chartered Accountants, the principles recommended by that association, but where an option is exercised under this subsection, the notes to the financial statements shall state which option has been applied in the choice of generally accepted accounting principles.  O. Reg. 72/04, s. 1; O. Reg. 437/10, s. 1 (2). (5) Where the Act or this Regulation requires the disclosure of the number or percentage of securities beneficially owned by a person and, by virtue of subsection 1 (5) of the Act, one or more companies will also have to be shown as beneficially owning the securities, a statement disclosing all the securities beneficially owned by the person or deemed to be beneficially owned, and indicating whether the ownership is direct or indirect and, if indirect, indicating the name of the controlled company or company affiliated with the controlled company through which the securities are indirectly owned and the number or percentage of the securities so owned by the company, shall be deemed sufficient disclosure without disclosing the name of any other company which is deemed to beneficially own the same securities.  R.R.O. 1990, Reg. 1015, s. 1 (5). (6) Where the Act or this Regulation requires the disclosure of the number or percentage of securities beneficially owned by a company and, by virtue of subsection 1 (6) of the Act, one or more other companies will also have to be shown as beneficially owning the securities, a statement disclosing all securities beneficially owned or deemed to be beneficially owned by the parent company and indicating whether the ownership is direct or indirect and, if indirect, indicating the name of the subsidiary through which the securities are indirectly owned and the number or percentage of the securities so owned, shall be deemed sufficient disclosure without disclosing the name of any other company which is deemed to beneficially own the same securities.  R.R.O. 1990, Reg. 1015, s. 1 (6). (7) A company shall be deemed to be another’s holding company or parent company if that other is its subsidiary.  R.R.O. 1990, Reg. 1015, s. 1 (7).",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) Every term used in this Regulation that is,</p> <p class=\"clause-e\">  (a) defined in section 1 of the Act is used in this Regulation as so defined unless it is otherwise defined in this Regulation or the context otherwise requires;</p> <p class=\"clause-e\">  (b) defined in a Part of the Act for purposes of that Part, is used as so defined in those sections of this Regulation that relate to the subject-matter of that Part; and</p> <p class=\"clause-e\">  (c) defined only for a Part or section of this Regulation is, unless otherwise provided, so defined only for the purposes of such Part or section.  R.R.O. 1990, Reg. 1015, s. 1 (1).</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 446/16, s. 1.</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 437/10, s. 1 (1).</p> <p class=\"subsection-e\">  (4) Except as otherwise provided in National Instrument 52-107 <i>Acceptable Accounting Principles and Auditing Standards</i>, in National Instrument 71-101 <i>The Multijurisdictional Disclosure System</i>\r\nand in Ontario Securities Commission Rule 71-801 <i>The Multijurisdictional</i><i> Disclosure System</i>, where an issuer is incorporated or organized in a jurisdiction other than Canada or a province or territory of Canada, “generally accepted accounting principles” may, at the option of the issuer, mean such principles as prescribed in the incorporating jurisdiction by or pursuant to applicable legislation or where a recommendation has been made by an association in that jurisdiction equivalent to the Canadian Institute of Chartered Accountants, the principles recommended by that association, but where an option is exercised under this subsection, the notes to the financial statements shall state which option has been applied in the choice of generally accepted accounting principles.  O. Reg. 72/04, s. 1; O. Reg. 437/10, s. 1 (2).</p> <p class=\"subsection-e\">  (5) Where the Act or this Regulation requires the disclosure of the number or percentage of securities beneficially owned by a person and, by virtue of subsection 1 (5) of the Act, one or more companies will also have to be shown as beneficially owning the securities, a statement disclosing all the securities beneficially owned by the person or deemed to be beneficially owned, and indicating whether the ownership is direct or indirect and, if indirect, indicating the name of the controlled company or company affiliated with the controlled company through which the securities are indirectly owned and the number or percentage of the securities so owned by the company, shall be deemed sufficient disclosure without disclosing the name of any other company which is deemed to beneficially own the same securities.  R.R.O. 1990, Reg. 1015, s. 1 (5).</p> <p class=\"subsection-e\">  (6) Where the Act or this Regulation requires the disclosure of the number or percentage of securities beneficially owned by a company and, by virtue of subsection 1 (6) of the Act, one or more other companies will also have to be shown as beneficially owning the securities, a statement disclosing all securities beneficially owned or deemed to be beneficially owned by the parent company and indicating whether the ownership is direct or indirect and, if indirect, indicating the name of the subsidiary through which the securities are indirectly owned and the number or percentage of the securities so owned, shall be deemed sufficient disclosure without disclosing the name of any other company which is deemed to beneficially own the same securities.  R.R.O. 1990, Reg. 1015, s. 1 (6).</p> <p class=\"subsection-e\">  (7) A company shall be deemed to be another’s holding company or parent company if that other is its subsidiary.  R.R.O. 1990, Reg. 1015, s. 1 (7).</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. Revoked:  O. Reg. 437/10, s. 2. part ii   continuous disclosure Non-Financial Matters",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 437/10, s. 2.</p> <p class=\"partnum-e\"><a name=\"BK2\"></a>part ii <br/>  continuous disclosure</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Non-Financial Matters</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) Revoked:  O. Reg. 215/05, s. 2 (1). (1.1) Every report required to be filed under subsection 75 (2) of the Act by a reporting issuer shall be prepared in accordance with Form 51-102F3 of National Instrument 51-102 Continuous Disclosure Obligations except that, (a) the reference in Item 3 of the Form to section 7.1 of National Instrument 51-102 shall be read as if it were a reference to subsection 75 (1) of the Act; and (b) the references in Items 6 and 7 of the Form to subsection 7.1 (2) , (5) or (7) of National Instrument 51-102 shall be read as if they were references to subsection 75 (3), (4) or (5), respectively, of the Act.  O. Reg. 56/04, s. 2; O. Reg. 215/05, s. 2 (2). (1.2) Revoked: O. Reg. 64/14, s. 1. (2) The requirements in this section apply except as otherwise provided in National Instrument 71-101 The\r\nMultijurisdictional Disclosure System and in Ontario Securities Commission Rule 71-801 The Multijurisdictional Disclosure System.  O. Reg. 568/98, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3.</b> (1) <span>Revoked</span>:  O. Reg. 215/05, s. 2 (1).</p> <p class=\"subsection-e\">  (1.1) Every report required to be filed under subsection 75 (2) of the Act by a reporting issuer shall be prepared in accordance with Form 51-102F3 of National Instrument 51-102 <i>Continuous Disclosure Obligations</i> except that,</p> <p class=\"clause-e\">  (a) the reference in Item 3 of the Form to section 7.1 of National Instrument 51-102 shall be read as if it were a reference to subsection 75 (1) of the Act; and</p> <p class=\"clause-e\">  (b) the references in Items 6 and 7 of the Form to subsection 7.1 (2) , (5) or (7) of National Instrument 51-102 shall be read as if they were references to subsection 75 (3), (4) or (5), respectively, of the Act.  O. Reg. 56/04, s. 2; O. Reg. 215/05, s. 2 (2).</p> <p class=\"subsection-e\">  (1.2) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 64/14, s. 1.</p> <p class=\"subsection-e\">  (2) The requirements in this section apply except as otherwise provided in National Instrument 71-101 <i>The\r\n<i>Multijurisdictional Disclosure System</i></i> and in Ontario Securities Commission Rule 71-801 <i>The Multijurisdictional Disclosure System</i>.  O. Reg. 568/98, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. Where the reporting issuer files, (a) the report required by subsection 75 (2) of the Act in reliance on, (i) subsection 75 (3) of the Act, or (ii) Item 7 of Form 51-102F3 of National Instrument 51-102 Continuous Disclosure Obligations; or (iii)  Revoked:  O. Reg. 215/05, s. 3. (b) the notification required by subsection 75 (4) of the Act, everything that is required to be filed thereby shall be designated as confidential and refer to section 75 of the Act.  R.R.O. 1990, Reg. 1015, s. 4; O. Reg. 56/04, s. 3; O. Reg. 215/05, s. 3; O. Reg. 64/14, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>Where the reporting issuer files,</p> <p class=\"clause-e\">  (a) the report required by subsection 75 (2) of the Act in reliance on,</p> <p class=\"subclause-e\">  (i) subsection 75 (3) of the Act, or</p> <p class=\"subclause-e\">  (ii) Item 7 of Form 51-102F3 of National Instrument 51-102 <i>Continuous Disclosure Obligations</i>; or</p> <p class=\"subclause-e\">  (iii)  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 215/05, s. 3.</p> <p class=\"clause-e\">  (b) the notification required by subsection 75 (4) of the Act,</p> <p class=\"Ssection-e\">everything that is required to be filed thereby shall be designated as confidential and refer to section 75 of the Act.  R.R.O. 1990, Reg. 1015, s. 4; O. Reg. 56/04, s. 3; O. Reg. 215/05, s. 3; O. Reg. 64/14, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5.  Revoked:  O. Reg. 56/04, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 56/04, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. Revoked:  O. Reg. 215/05, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>6.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 215/05, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#6.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6.1 Revoked:  R.R.O. 1990, Reg. 1015, s. 6.1 (2).  (See:  O. Reg. 636/00, s. 1.)",
+            "raw_html": "<p class=\"section-e\"> <b>6.1 </b><span class=\"ovsmallcap\">Revoked</span>:  R.R.O. 1990, Reg. 1015, s. 6.1 (2).  (See:  O. Reg. 636/00, s. 1.)</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. Revoked:  R.R.O. 1990, Reg. 1015, s. 7 (3).  (See:  O. Reg. 636/00, s. 2.)",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b><span class=\"ovsmallcap\">Revoked</span>:  R.R.O. 1990, Reg. 1015, s. 7 (3).  (See:  O. Reg. 636/00, s. 2.)</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. Revoked:  R.R.O. 1990, Reg. 1015, s. 8 (2).  (See:  O. Reg. 636/00, s. 3.)",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b><span class=\"ovsmallcap\">Revoked</span>:  R.R.O. 1990, Reg. 1015, s. 8 (2).  (See:  O. Reg. 636/00, s. 3.)</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. Revoked:  R.R.O. 1990, Reg. 1015, s. 9 (2).  (See:  O. Reg. 636/00, s. 4.)",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b><span class=\"ovsmallcap\">Revoked</span>:  R.R.O. 1990, Reg. 1015, s. 9 (2).  (See:  O. Reg. 636/00, s. 4.)</p>"
+        },
+        {
+            "ahref_id": "#9.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9.1 Revoked:  R.R.O. 1990, Reg. 1015, s. 9.1 (2).  (See:  O. Reg. 636/00, s. 5.)",
+            "raw_html": "<p class=\"section-e\"> <b>9.1 </b><span class=\"ovsmallcap\">Revoked</span>:  R.R.O. 1990, Reg. 1015, s. 9.1 (2).  (See:  O. Reg. 636/00, s. 5.)</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. Revoked:  R.R.O. 1990, Reg. 1015, s. 10 (3).  (See:  O. Reg. 636/00, s. 6.)",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b><span class=\"ovsmallcap\">Revoked</span>:  R.R.O. 1990, Reg. 1015, s. 10 (3).  (See:  O. Reg. 636/00, s. 6.)</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. Revoked:  R.R.O. 1990, Reg. 1015, s. 11 (2).  (See:  O. Reg. 636/00, s. 7.)",
+            "raw_html": "<p class=\"section-e\"> <b>11.</b> <span class=\"ovsmallcap\">Revoked</span>:  R.R.O. 1990, Reg. 1015, s. 11 (2).  (See:  O. Reg. 636/00, s. 7.)</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. Revoked:  O. Reg. 507/97, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 507/97, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. Revoked:  R.R.O. 1990, Reg. 1015, s. 13 (2).  (See:  O. Reg. 636/00, s. 8.) PART III   PROSPECTUS REQUIREMENTS",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b><span class=\"ovsmallcap\">Revoked</span>:  R.R.O. 1990, Reg. 1015, s. 13 (2).  (See:  O. Reg. 636/00, s. 8.)</p> <p class=\"partnum-e\"><a name=\"BK4\"></a>PART III <br/>  PROSPECTUS REQUIREMENTS</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. Revoked:  O. Reg. 662/98, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 662/98, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. Revoked:  O. Reg. 130/98, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 130/98, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#16.-32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16.-32. Revoked:  O. Reg. 662/98, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>16.-32. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 662/98, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. Revoked:  O. Reg. 91/01, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>33. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 91/01, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#34.-37.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34.-37. Revoked:  O. Reg. 632/00, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>34.-37. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 632/00, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#38.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 38. Revoked:  O. Reg. 453/05, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>38. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 453/05, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#39.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 39. Revoked:  O. Reg. 632/00, s. 5. Format",
+            "raw_html": "<p class=\"section-e\"> <b>39. </b>R<span>evoked</span>:  O. Reg. 632/00, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Format</p>"
+        },
+        {
+            "ahref_id": "#40.-42.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 40.-42. Revoked:  O. Reg. 632/00, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>40.-42. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 632/00, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#43.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 43. If a prospectus is required to be filed in respect of an issuer bid, the information required in Form 62-104F2 in National Instrument 62-104 Take-Over Bids and Issuer Bids, other than the certificate in Item 31 of Part 2 of the form, shall be included in the prospectus.  O. Reg. 589/07, s. 1; O. Reg. 130/16, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>43. </b>If a prospectus is required to be filed in respect of an issuer bid, the information required in Form 62-104F2 in National Instrument 62-104 <i>Take-Over Bids and Issuer Bids</i>, other than the certificate in Item 31 of Part 2 of the form, shall be included in the prospectus.  O. Reg. 589/07, s. 1; O. Reg. 130/16, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#44.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 44. Revoked:  O. Reg. 31/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>44.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 31/08, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#45.-49.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 45.-49. Revoked:  O. Reg. 632/00, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>45.-49. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 632/00, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#50., 51.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 50., 51. Revoked:  O. Reg. 631/00, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>50., 51. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 631/00, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#52.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 52. Revoked:  O. Reg. 632/00, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>52. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 632/00, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#53.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 53. Revoked:  O. Reg. 632/00, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>53. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 632/00, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#54.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 54. Revoked:  O. Reg. 31/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>54.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 31/08, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#55.-59.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 55.-59. Revoked:  O. Reg. 632/00, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>55.-59. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 632/00, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#60.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 60. Revoked:  O. Reg. 562/07, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>60. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 562/07, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#61.-66.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 61.-66. Revoked:  O. Reg. 632/00, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>61.-66. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 632/00, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#67., 68.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 67., 68. Revoked:  O. Reg. 662/98, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>67., 68. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 662/98, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#69.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 69. (1) Revoked:  O. Reg. 423/01, s. 1. (2) Revoked:  O. Reg. 491/05, s. 2. (3) Revoked:  O. Reg. 662/98, s. 1. (4), (5) Revoked:  O. Reg. 657/98, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>69. </b>(1) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 423/01, s. 1.</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 491/05, s. 2.</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 662/98, s. 1.</p> <p class=\"subsection-e\">  (4), (5) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 657/98, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#70.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 70. Revoked:  O. Reg. 423/01, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>70.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 423/01, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#71.-78.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 71.-78. Revoked:  O. Reg. 491/05, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>71.-78. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 491/05, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#79.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 79. Revoked:  O. Reg. 453/05, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>79. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 453/05, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#80.-82.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 80.-82. Revoked:  O. Reg. 632/00, s. 10. Part iv (s. 83-95) Revoked:  O. Reg. 358/09, s. 1. PART V   REGISTRATION REQUIREMENTS",
+            "raw_html": "<p class=\"section-e\"> <b>80.-82. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 632/00, s. 10.</p> <p class=\"partnumRevoked-e\"><span class=\"ovboldallcaps\">Part iv </span>(s. 83-95) <span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 358/09, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK6\"></a>PART V <br/>  REGISTRATION REQUIREMENTS</p>"
+        },
+        {
+            "ahref_id": "#96.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 96. Revoked:  O. Reg. 358/09, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>96. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#97.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 97. Revoked:  O. Reg. 357/09, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>97. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 357/09, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#98.-104.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 98.-104. Revoked:  O. Reg. 358/09, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>98.-104. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#105.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 105. Revoked:  O. Reg. 357/09, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>105. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 357/09, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#106.-109.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 106.-109. Revoked:  O. Reg. 358/09, s. 2. Conditions of Registration — Capital Requirements",
+            "raw_html": "<p class=\"section-e\"> <b>106.-109. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Conditions of Registration — Capital Requirements</p>"
+        },
+        {
+            "ahref_id": "#110.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 110. (1) Every dealer, other than an exempt market dealer as defined in National Instrument 31-103 Registration Requirements, Exemptions and Ongoing Registrant Obligations, shall participate in a compensation fund or contingency trust fund approved by the Commission and established by, (a) a recognized self-regulatory organization referred to in section 21.1 of the Act; (b) a recognized stock exchange; or (c) a trust corporation registered under the Loan and Trust Corporations Act.  O. Reg. 453/05, s. 7; O. Reg. 358/09, s. 3; O. Reg. 446/16, s. 2. (2) The Commission may vary the amount required to be contributed by any participant where in its opinion it would not be prejudicial to the public interest to do so, provided that the variation is published by the Commission in a publication published by it prior to the variation taking effect.  R.R.O. 1990, Reg. 1015, s. 110 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>110. </b>(1) Every dealer, other than an exempt market dealer as defined in National Instrument 31-103 <i>Registration Requirements, Exemptions and Ongoing Registrant Obligations</i>, shall participate in a compensation fund or contingency trust fund approved by the Commission and established by,</p> <p class=\"clause-e\">  (a) a recognized self-regulatory organization referred to in section 21.1 of the Act;</p> <p class=\"clause-e\">  (b) a recognized stock exchange; or</p> <p class=\"clause-e\">  (c) a trust corporation registered under the <i>Loan and Trust Corporations Act</i>.  O. Reg. 453/05, s. 7; O. Reg. 358/09, s. 3; O. Reg. 446/16, s. 2.</p> <p class=\"subsection-e\">  (2) The Commission may vary the amount required to be contributed by any participant where in its opinion it would not be prejudicial to the public interest to do so, provided that the variation is published by the Commission in a publication published by it prior to the variation taking effect.  R.R.O. 1990, Reg. 1015, s. 110 (2).</p>"
+        },
+        {
+            "ahref_id": "#111.-113.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 111.-113. Revoked:  O. Reg. 358/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>111.-113. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#114.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 114. Revoked:  O. Reg. 1/99, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>114. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 1/99, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#115.-123.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 115.-123. Revoked:  O. Reg. 358/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>115.-123. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#124.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 124. Revoked:  O. Reg. 468/00, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>124. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 468/00, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#125.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 125. Revoked:  O. Reg. 1/99, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>125. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 1/99, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#126.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 126. Revoked:  O. Reg. 468/00, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>126. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 468/00, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#127.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 127. Revoked:  O. Reg. 358/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>127. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#128.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 128. Revoked:  O. Reg. 393/01, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>128. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 393/01, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#129.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 129. Revoked:  O. Reg. 16/03, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>129. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 16/03, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#130.-133.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 130.-133. Revoked:  O. Reg. 358/09, s. 4. Examination",
+            "raw_html": "<p class=\"section-e\"> <b>130.-133. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Examination</p>"
+        },
+        {
+            "ahref_id": "#134.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 134. A summons for an examination under section 33.1 of the Act shall be in Form 8, Summons to a Witness Before a Person Designated Under Section 31 of the Act, available on the website of the Government of Ontario Central Forms Repository.  R.R.O. 1990, Reg. 1015, s. 134; O. Reg. 357/09, s. 3; O. Reg. 446/16, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>134. </b>A summons for an examination under section 33.1 of the Act shall be in Form 8, Summons to a Witness Before a Person Designated Under Section 31 of the Act, available on the website of the Government of Ontario Central Forms Repository.  R.R.O. 1990, Reg. 1015, s. 134; O. Reg. 357/09, s. 3; O. Reg. 446/16, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#135.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 135. Revoked:  O. Reg. 453/05, s. 10.",
+            "raw_html": "<p class=\"section-e\"> <b>135.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 453/05, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#136.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 136. Revoked:  O. Reg. 16/03, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>136. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 16/03, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#137., 138.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 137., 138. Revoked:  O. Reg. 453/05, s. 10.",
+            "raw_html": "<p class=\"section-e\"> <b>137., 138. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 453/05, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#139.-142.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 139.-142. Revoked:  O. Reg. 358/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>139.-142. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#143.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 143. Revoked:  O. Reg. 357/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>143. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 357/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#144., 145.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 144., 145. Revoked:  O. Reg. 358/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>144., 145. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#146.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 146. Revoked:  O. Reg. 357/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>146. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 357/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#147.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 147. (1) Revoked:  O. Reg. 453/05, s. 15 (1). (2) Revoked:  O. Reg. 358/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>147. </b>(1) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 453/05, s. 15 (1).</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#148.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 148. Revoked:  O. Reg. 491/05, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>148.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 491/05, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#149.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 149. Revoked:  O. Reg. 424/01, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>149. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 424/01, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#150., 151.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 150., 151. Revoked:  O. Reg. 491/05, s. 7. PART VI   OVER-THE-COUNTER TRADING General",
+            "raw_html": "<p class=\"section-e\"> <b>150., 151. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 491/05, s. 7.</p> <p class=\"partnum-e\"><a name=\"BK9\"></a>PART VI <br/>  OVER-THE-COUNTER TRADING</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>General</p>"
+        },
+        {
+            "ahref_id": "#152.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 152. (1) In this Part, “CUB security” means, subject to subsection (2), (a) a share of a company, (b) a right or warrant, but not an option, to purchase a share of a company, or (c) any combination of a share of a company and a right or warrant, but not an option, to purchase a share of a company; “CUB System” means the web-based system operated by Canadian Unlisted Board Inc., which is wholly owned by TSX Venture Exchange Inc., for the reporting of over-the-counter trading. O. Reg. 446/16, s. 4. (2) The definition of “CUB security” does not include, (a) a security of a private issuer as defined in subsection 2.4 (1) of National Instrument 45-106 Prospectus Exemptions; (b) a security that, under section 2.13 or 2.20, subsection 2.21 (1), paragraph 2.34 (2) (b), (d.1), (e) or (f), subsection 2.35 (1) or section 2.38 of National Instrument 45-106 Prospectus Exemptions, is exempt from the prospectus requirement; (c) a security that, under paragraph 1 or 2 of section 73 of the Act, paragraph 1 of subsection 73.1 (1) of the Act, subsection 73.1 (6) of the Act or subsection 73.2 (1) or (3) of the Act, is exempt from the prospectus requirement; or (d) a security that is traded on a marketplace. O. Reg. 446/16, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>152. </b>(1) In this Part,</p> <p class=\"firstdef-e\">“CUB security” means, subject to subsection (2),</p> <p class=\"defclause-e\">  (a) a share of a company, </p> <p class=\"defclause-e\">  (b) a right or warrant, but not an option, to purchase a share of a company, or </p> <p class=\"defclause-e\">  (c) any combination of a share of a company and a right or warrant, but not an option, to purchase a share of a company;</p> <p class=\"definition-e\">“CUB System” means the web-based system operated by Canadian Unlisted Board Inc., which is wholly owned by TSX Venture Exchange Inc., for the reporting of over-the-counter trading. O. Reg. 446/16, s. 4.</p> <p class=\"subsection-e\">  (2) The definition of “CUB security” does not include,</p> <p class=\"defclause-e\">  (a) a security of a private issuer as defined in subsection 2.4 (1) of National Instrument 45-106 <i>Prospectus Exemptions</i>;</p> <p class=\"defclause-e\">  (b) a security that, under section 2.13 or 2.20, subsection 2.21 (1), paragraph 2.34 (2) (b), (d.1), (e) or (f), subsection 2.35 (1) or section 2.38 of National Instrument 45-106 <i>Prospectus Exemptions</i>, is exempt from the prospectus requirement;</p> <p class=\"defclause-e\">  (c) a security that, under paragraph 1 or 2 of section 73 of the Act, paragraph 1 of subsection 73.1 (1) of the Act, subsection 73.1 (6) of the Act or subsection 73.2 (1) or (3) of the Act, is exempt from the prospectus requirement; or</p> <p class=\"defclause-e\">  (d) a security that is traded on a marketplace. O. Reg. 446/16, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#153.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 153. Revoked: O. Reg. 446/16, s. 5. Trade Reporting",
+            "raw_html": "<p class=\"section-e\"> <b>153. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 446/16, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Trade Reporting</p>"
+        },
+        {
+            "ahref_id": "#154.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 154. (1) Every purchase or sale in Ontario of a CUB security made by a registered dealer, as principal or agent, shall be reported to the CUB System except for a purchase or sale that is, (a) made through the facilities of a marketplace outside Canada, or is required to be reported to a marketplace or a self-regulatory organization outside Canada immediately following execution, if, (i) the purchase or sale is monitored for compliance with applicable securities law, and (ii) information concerning the purchase or sale is provided to an information vendor or a person performing a similar function respecting public dissemination of data; (b) a distribution by or on behalf of an issuer; or (c) a purchase or sale made in reliance on an exemption set out in section 2.3, 2.5, 2.8, 2.10 or 2.15 of National Instrument 45-106 Prospectus Exemptions. O. Reg. 446/16, s. 6. (2) Every purchase or sale of a CUB security that is required to be reported under subsection (1) shall be reported to the CUB System, (a) by the registered dealer by or through whom the sale is made; or (b) in the case of a sale not made by or through a registered dealer, by the registered dealer by or through whom the purchase is made. O. Reg. 446/16, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>154. </b>(1) Every purchase or sale in Ontario of a CUB security made by a registered dealer, as principal or agent, shall be reported to the CUB System except for a purchase or sale that is,</p> <p class=\"clause-e\">  (a) made through the facilities of a marketplace outside Canada, or is required to be reported to a marketplace or a self-regulatory organization outside Canada immediately following execution, if,</p> <p class=\"subclause-e\">  (i) the purchase or sale is monitored for compliance with applicable securities law, and</p> <p class=\"subclause-e\">  (ii) information concerning the purchase or sale is provided to an information vendor or a person performing a similar function respecting public dissemination of data;</p> <p class=\"clause-e\">  (b) a distribution by or on behalf of an issuer; or</p> <p class=\"clause-e\">  (c) a purchase or sale made in reliance on an exemption set out in section 2.3, 2.5, 2.8, 2.10 or 2.15 of National Instrument 45-106 <i>Prospectus Exemptions</i>. O. Reg. 446/16, s. 6.</p> <p class=\"subsection-e\">  (2) Every purchase or sale of a CUB security that is required to be reported under subsection (1) shall be reported to the CUB System,</p> <p class=\"clause-e\">  (a) by the registered dealer by or through whom the sale is made; or</p> <p class=\"clause-e\">  (b) in the case of a sale not made by or through a registered dealer, by the registered dealer by or through whom the purchase is made. O. Reg. 446/16, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#155., 156.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 155., 156. Revoked: O. Reg. 446/16, s. 7. General",
+            "raw_html": "<p class=\"section-e\"> <b>155., 156. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 446/16, s. 7.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>General</p>"
+        },
+        {
+            "ahref_id": "#157.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 157. Revoked: O. Reg. 446/16, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>157. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 446/16, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#158.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 158. Every registered dealer shall pay the applicable CUB System fees.  R.R.O. 1990, Reg. 1015, s. 158; O. Reg. 446/16, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>158. </b>Every registered dealer shall pay the applicable CUB System fees.  R.R.O. 1990, Reg. 1015, s. 158; O. Reg. 446/16, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#159.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 159. Revoked: O. Reg. 446/16, s. 9. PART VII   ONTARIO SECURITIES COMMISSION PROCEDURE AND RELATED MATTERS Endorsement of Warrants",
+            "raw_html": "<p class=\"section-e\"> <b>159. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 446/16, s. 9.</p> <p class=\"partnum-e\"><a name=\"BK13\"></a>PART VII <br/>  ONTARIO SECURITIES COMMISSION PROCEDURE AND RELATED MATTERS</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Endorsement of Warrants</p>"
+        },
+        {
+            "ahref_id": "#160.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 160. The endorsement of a warrant by a provincial judge or justice of Ontario provided for by section 125 of the Act shall be in accordance with Form 39, Endorsement of Warrant, available on the website of the Government of Ontario Central Forms Repository.  R.R.O. 1990, Reg. 1015, s. 160; O. Reg. 80/95, s. 14; O. Reg. 56/04, s. 6; O. Reg. 446/16, s. 10. Execution and Certification of Documents",
+            "raw_html": "<p class=\"section-e\"> <b>160. </b>The endorsement of a warrant by a provincial judge or justice of Ontario provided for by section 125 of the Act shall be in accordance with Form 39, Endorsement of Warrant, available on the website of the Government of Ontario Central Forms Repository.  R.R.O. 1990, Reg. 1015, s. 160; O. Reg. 80/95, s. 14; O. Reg. 56/04, s. 6; O. Reg. 446/16, s. 10.</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Execution and Certification of Documents</p>"
+        },
+        {
+            "ahref_id": "#161.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 161. Except as otherwise provided in the Act, section 174 of this Regulation, Ontario Securities Commission Rule 11-501 Electronic Delivery of Documents to the Ontario Securities Commission, National Instrument 13-101 System for Electronic Document Analysis and Retrieval (SEDAR), Ontario Securities Commission Rule 55-502 Facsimile Filing or Delivery of Section 109 Reports, National Instrument 55-102 System for Electronic Disclosure by Insiders (SEDI) or National Instrument 71-102 Continuous Disclosure and Other Exemptions Relating to Foreign Issuers, (a) every document required or permitted to be filed with the Commission by an individual that is required to be signed or certified shall be manually signed and shall include below the signature the name of the individual in typewritten or printed form; (b) subject to clause (c) every document required or permitted to be filed with the Commission by a company or person, other than an individual, that is required to be signed or certified, shall be manually signed by an officer or director of the company or person or, subject to clause (d), by the attorney or agent of such person or company and shall include below the signature the name of the officer, director, attorney or agent in a typewritten or printed form; (c) where a partner signs or certifies on behalf of a professional partnership, the partner is not required to sign his or her name but if an individual other than a partner signs or certifies, the individual shall sign his or her name manually and the name of the individual shall be included below his or her signature in typewritten or printed form; and (d) where a document required or permitted to be filed with the Commission by an individual, company or person has been executed by an attorney or agent of the individual, company or person, a duly completed power of attorney or document of authority authorizing the signing of the document shall be filed with the document unless the Director permits the filing of the document without the power of attorney or document of authority.  R.R.O. 1990, Reg. 1015, s. 161; O. Reg. 80/95, s. 15; O. Reg. 166/98, s. 1; O. Reg. 388/01, s. 1; O. Reg. 57/04, s. 1; O. Reg. 64/14, s. 3; O. Reg. 446/16, s. 11. Fees and Filing",
+            "raw_html": "<p class=\"section-e\"> <b>161. </b>Except as otherwise provided in the Act, section 174 of this Regulation, Ontario Securities Commission Rule 11-501 <i>Electronic Delivery of Documents to the Ontario Securities Commission</i>, National Instrument 13-101 <i>System for Electronic Document Analysis and Retrieval (SEDAR)</i>, Ontario Securities Commission Rule 55-502 <i>Facsimile Filing or Delivery of Section 109 Reports</i>, National Instrument 55-102 <i>System for Electronic Disclosure by Insiders (SEDI)</i> or National Instrument 71-102 <i>Continuous Disclosure and Other Exemptions Relating to Foreign Issuers,</i></p> <p class=\"clause-e\">  (a) every document required or permitted to be filed with the Commission by an individual that is required to be signed or certified shall be manually signed and shall include below the signature the name of the individual in typewritten or printed form;</p> <p class=\"clause-e\">  (b) subject to clause (c) every document required or permitted to be filed with the Commission by a company or person, other than an individual, that is required to be signed or certified, shall be manually signed by an officer or director of the company or person or, subject to clause (d), by the attorney or agent of such person or company and shall include below the signature the name of the officer, director, attorney or agent in a typewritten or printed form;</p> <p class=\"clause-e\">  (c) where a partner signs or certifies on behalf of a professional partnership, the partner is not required to sign his or her name but if an individual other than a partner signs or certifies, the individual shall sign his or her name manually and the name of the individual shall be included below his or her signature in typewritten or printed form; and</p> <p class=\"clause-e\">  (d) where a document required or permitted to be filed with the Commission by an individual, company or person has been executed by an attorney or agent of the individual, company or person, a duly completed power of attorney or document of authority authorizing the signing of the document shall be filed with the document unless the Director permits the filing of the document without the power of attorney or document of authority.  R.R.O. 1990, Reg. 1015, s. 161; O. Reg. 80/95, s. 15; O. Reg. 166/98, s. 1; O. Reg. 388/01, s. 1; O. Reg. 57/04, s. 1; O. Reg. 64/14, s. 3; O. Reg. 446/16, s. 11.</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Fees and Filing</p>"
+        },
+        {
+            "ahref_id": "#162.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 162. (1) Revoked:  O. Reg. 165/98, s. 1. (2) Where any material that is filed is not prepared in accordance with the Act or this Regulation, the Director may, or the Commission may require the Director to, return the material to the person or company that is required to comply with the provisions.  R.R.O. 1990, Reg. 1015, s. 162 (2). (3) Where any material is returned to a person or company under subsection (2), the fee paid upon the filing of the material shall not be refunded without the consent of the Commission.  R.R.O. 1990, Reg. 1015, s. 162 (3). Investigations",
+            "raw_html": "<p class=\"section-e\"> <b>162. </b>(1) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 165/98, s. 1.</p> <p class=\"subsection-e\">  (2) Where any material that is filed is not prepared in accordance with the Act or this Regulation, the Director may, or the Commission may require the Director to, return the material to the person or company that is required to comply with the provisions.  R.R.O. 1990, Reg. 1015, s. 162 (2).</p> <p class=\"subsection-e\">  (3) Where any material is returned to a person or company under subsection (2), the fee paid upon the filing of the material shall not be refunded without the consent of the Commission.  R.R.O. 1990, Reg. 1015, s. 162 (3).</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>Investigations</p>"
+        },
+        {
+            "ahref_id": "#163.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 163. The following practices and procedures apply to investigations conducted under the Act: 1. Every summons issued by a person under subsection 11 (4) or section 13 of the Act shall be served personally on the individual summoned who shall be paid the like fees and allowances for his or her attendance before the person as are paid for the attendance of a witness summoned to attend before the Supreme Court. 2. Every summons to a witness to appear before a person appointed to make an investigation under section 11 or 13 of the Act shall be in Form 1, Summons to a Witness, available on the website of the Government of Ontario Central Forms Repository. 3. The service of a summons on a witness, the payment or tender of fees and allowances to the witness and the service of a notice on a witness may be proved by an affidavit in Form 2, Affidavit of Service, available on the website of the Government of Ontario Central Forms Repository.  R.R.O. 1990, Reg. 1015, s. 163; O. Reg. 446/16, s. 12. PART VIII   INSIDER TRADING General",
+            "raw_html": "<p class=\"section-e\"> <b>163. </b>The following practices and procedures apply to investigations conducted under the Act:</p> <p class=\"paragraph-e\">  1. Every summons issued by a person under subsection 11 (4) or section 13 of the Act shall be served personally on the individual summoned who shall be paid the like fees and allowances for his or her attendance before the person as are paid for the attendance of a witness summoned to attend before the Supreme Court.</p> <p class=\"paragraph-e\">  2. Every summons to a witness to appear before a person appointed to make an investigation under section 11 or 13 of the Act shall be in Form 1, Summons to a Witness, available on the website of the Government of Ontario Central Forms Repository.</p> <p class=\"paragraph-e\">  3. The service of a summons on a witness, the payment or tender of fees and allowances to the witness and the service of a notice on a witness may be proved by an affidavit in Form 2, Affidavit of Service, available on the website of the Government of Ontario Central Forms Repository.  R.R.O. 1990, Reg. 1015, s. 163; O. Reg. 446/16, s. 12.</p> <p class=\"partnum-e\"><a name=\"BK18\"></a>PART VIII <br/>  INSIDER TRADING</p> <p class=\"heading1-e\"><a name=\"BK19\"></a>General</p>"
+        },
+        {
+            "ahref_id": "#164.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 164. Revoked: O. Reg. 446/16, s. 13.",
+            "raw_html": "<p class=\"section-e\"> <b>164. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 446/16, s. 13.</p>"
+        },
+        {
+            "ahref_id": "#165.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 165. Revoked:  O. Reg. 13/96, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>165. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 13/96, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#166., 167.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 166., 167. Revoked:  O. Reg. 141/10, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>166., 167. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 141/10, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#168.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 168. Every report required to be filed under section 109 of the Act shall be prepared in accordance with Form 37, Report by a Registered Owner of Securities Beneficially Owned by an Insider, available on the website of the Government of Ontario Central Forms Repository.  R.R.O. 1990, Reg. 1015, s. 168; O. Reg. 446/16, s. 14.",
+            "raw_html": "<p class=\"section-e\"> <b>168. </b>Every report required to be filed under section 109 of the Act shall be prepared in accordance with Form 37, Report by a Registered Owner of Securities Beneficially Owned by an Insider, available on the website of the Government of Ontario Central Forms Repository.  R.R.O. 1990, Reg. 1015, s. 168; O. Reg. 446/16, s. 14.</p>"
+        },
+        {
+            "ahref_id": "#169.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 169. Every report required to be filed under section 117 of the Act shall be prepared in accordance with Form 38, Report Under Section 117 of the Act, available on the website of the Government of Ontario Central Forms Repository.  R.R.O. 1990, Reg. 1015, s. 169; O. Reg. 446/16, s. 15.",
+            "raw_html": "<p class=\"section-e\"> <b>169. </b>Every report required to be filed under section 117 of the Act shall be prepared in accordance with Form 38, Report Under Section 117 of the Act, available on the website of the Government of Ontario Central Forms Repository.  R.R.O. 1990, Reg. 1015, s. 169; O. Reg. 446/16, s. 15.</p>"
+        },
+        {
+            "ahref_id": "#170., 171.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 170., 171. Revoked:  O. Reg. 141/10, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>170., 171. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 141/10, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#172.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 172. Revoked:  O. Reg. 126/01, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>172. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 126/01, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#173.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 173. (1) A person or company that is required under this Part and under Part XXI of the Act to file a report prepared in accordance with Form 55-102 F6 (made under National Instrument 55-102 System for Electronic Disclosure by Insiders (SEDI)) shall be deemed to have complied with such requirements if a report prepared in accordance with Form 55-102 F6 (made under National Instrument 55-102 System for Electronic Disclosure by Insiders (SEDI)) is filed in a Canadian jurisdiction other than Ontario with a securities commission or other agent that has been designated by the Commission for the purpose of accepting such filings.  R.R.O. 1990, Reg. 1015, s. 173; O. Reg. 388/01, s. 2 (1); O. Reg. 446/16, s. 16. (2) This section does not apply to insiders who are required by National Instrument 55-102 System for Electronic Disclosure by Insiders (SEDI) to file the report in electronic format.  O. Reg. 388/01, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>173. </b>(1) A person or company that is required under this Part and under Part XXI of the Act to file a report prepared in accordance with Form 55-102 F6 (made under National Instrument 55-102 <i>System for Electronic Disclosure by Insiders (SEDI)</i>) shall be deemed to have complied with such requirements if a report prepared in accordance with Form 55-102 F6 (made under National Instrument 55-102 <i>System for Electronic Disclosure by Insiders (SEDI)</i>) is filed in a Canadian jurisdiction other than Ontario with a securities commission or other agent that has been designated by the Commission for the purpose of accepting such filings.  R.R.O. 1990, Reg. 1015, s. 173; O. Reg. 388/01, s. 2 (1); O. Reg. 446/16, s. 16.</p> <p class=\"subsection-e\">  (2) This section does not apply to insiders who are required by National Instrument 55-102 <i>System for Electronic Disclosure by Insiders (SEDI)</i> to file the report in electronic format.  O. Reg. 388/01, s. 2 (2).</p>"
+        },
+        {
+            "ahref_id": "#174.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 174. (1) A report prepared in accordance with Form 55-102 F6 (made under National Instrument 55-102 System for Electronic Disclosure by Insiders (SEDI)) that is filed with the Commission may contain the facsimile signature of the individual, officer, director, agent or attorney required to sign the form, if an original manually signed copy is filed concurrently with a securities commission in Canada designated by the Commission for the purpose of accepting such filings.  R.R.O. 1990, Reg. 1015, s. 174; O. Reg. 388/01, s. 3 (1). (2) This section does not apply to insiders who are required by National Instrument 55-102 System for Electronic Disclosure by Insiders (SEDI) to file the report in electronic format.  O. Reg. 388/01, s. 3 (2). Insider Trading",
+            "raw_html": "<p class=\"section-e\"> <b>174. </b>(1) A report prepared in accordance with Form 55-102 F6 (made under National Instrument 55-102 <i>System for Electronic Disclosure by Insiders (SEDI)</i>) that is filed with the Commission may contain the facsimile signature of the individual, officer, director, agent or attorney required to sign the form, if an original manually signed copy is filed concurrently with a securities commission in Canada designated by the Commission for the purpose of accepting such filings.  R.R.O. 1990, Reg. 1015, s. 174; O. Reg. 388/01, s. 3 (1).</p> <p class=\"subsection-e\">  (2) This section does not apply to insiders who are required by National Instrument 55-102 <i>System for Electronic Disclosure by Insiders (SEDI)</i> to file the report in electronic format.  O. Reg. 388/01, s. 3 (2).</p> <p class=\"heading1-e\"><a name=\"BK20\"></a>Insider Trading</p>"
+        },
+        {
+            "ahref_id": "#175.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 175. (1) A company or person, other than an individual, that purchases or sells securities of an issuer with knowledge of a material fact or material change with respect to the issuer that has not been generally disclosed is exempt from subsection 76 (1) of the Act and from liability under section 134 of the Act if the company or person proves that no individual who made or participated in making the decision to purchase or sell the securities, (a) had knowledge of the material fact or material change; or (b) was given advice with respect to the purchase or sale of the securities by an individual who had that knowledge. O. Reg. 249/16, s. 1 (1). (1.1) A company or person, other than an individual, that, with knowledge of a material fact or material change with respect to an issuer that has not been generally disclosed, recommends or encourages another person or company to purchase or sell securities of the issuer is exempt from subsection 76 (3.1) of the Act if the company or person proves that no individual involved in making the decision to recommend or encourage the purchase or sale, (a) had knowledge of the material fact or material change; or (b) was acting on the recommendation or encouragement of an individual who had that knowledge. O. Reg. 249/16, s. 1 (1). (2) A person or company that purchases or sells securities of an issuer with knowledge of a material fact or material change with respect to the issuer that has not been generally disclosed is exempt from subsection 76 (1) of the Act and from liability under section 134 of the Act, where the person or company proves that, (a) the purchase or sale was entered into as agent of another person or company pursuant to a specific unsolicited order from that other person or company to purchase or sell; (b) the purchase or sale was made pursuant to participation in an automatic dividend reinvestment plan, share purchase plan or other similar automatic plan that was entered into by the person or company prior to the acquisition of knowledge of the material fact or material change; or (c) the purchase or sale was made to fulfil a legally binding obligation entered into by the person or company prior to the acquisition of knowledge of the material fact or material change.  R.R.O. 1990, Reg. 1015, s. 175 (2); O. Reg. 249/16, s. 1 (2). (3) In determining whether a person or company has sustained the burden of proof under subsection (1) or (1.1), it shall be relevant whether and to what extent the person or company has implemented and maintained reasonable policies and procedures to prevent contraventions of subsections 76 (1) and (3.1) of the Act and to prevent transmission of information concerning a material fact or material change contrary to subsection 76 (2) or (3) of the Act.  R.R.O. 1990, Reg. 1015, s. 175 (3); O. Reg. 249/16, s. 1 (3). (4) A person or company who purchases or sells a security of an issuer as agent or trustee for a person or company who is exempt from subsection 76 (1) of the Act and from liability under section 134 of the Act by reason of clause (2) (b) or (c), is also exempt from subsection 76 (1) of the Act and from liability under section 134 of the Act.  R.R.O. 1990, Reg. 1015, s. 175 (4); O. Reg. 249/16, s. 1 (4). (5) A person or company is exempt from subsections 76 (1), (2) and (3) of the Act where the person or company proves that such person or company reasonably believed that, (a) the other party to a purchase or sale of securities; or (b) the person or company informed of the material fact or material change, as the case may be, had knowledge of the material fact or material change.  R.R.O. 1990, Reg. 1015, s. 175 (5). Part IX (ss. 176-181) Revoked:  O. Reg. 215/05, s. 6. PART X",
+            "raw_html": "<p class=\"section-e\"> <b>175. </b>(1) A company or person, other than an individual, that purchases or sells securities of an issuer with knowledge of a material fact or material change with respect to the issuer that has not been generally disclosed is exempt from subsection 76 (1) of the Act and from liability under section 134 of the Act if the company or person proves that no individual who made or participated in making the decision to purchase or sell the securities,</p> <p class=\"clause-e\">  (a) had knowledge of the material fact or material change; or</p> <p class=\"clause-e\">  (b) was given advice with respect to the purchase or sale of the securities by an individual who had that knowledge. O. Reg. 249/16, s. 1 (1).</p> <p class=\"subsection-e\">  (1.1) A company or person, other than an individual, that, with knowledge of a material fact or material change with respect to an issuer that has not been generally disclosed, recommends or encourages another person or company to purchase or sell securities of the issuer is exempt from subsection 76 (3.1) of the Act if the company or person proves that no individual involved in making the decision to recommend or encourage the purchase or sale,</p> <p class=\"clause-e\">  (a) had knowledge of the material fact or material change; or</p> <p class=\"clause-e\">  (b) was acting on the recommendation or encouragement of an individual who had that knowledge. O. Reg. 249/16, s. 1 (1).</p> <p class=\"subsection-e\">  (2) A person or company that purchases or sells securities of an issuer with knowledge of a material fact or material change with respect to the issuer that has not been generally disclosed is exempt from subsection 76 (1) of the Act and from liability under section 134 of the Act, where the person or company proves that,</p> <p class=\"clause-e\">  (a) the purchase or sale was entered into as agent of another person or company pursuant to a specific unsolicited order from that other person or company to purchase or sell;</p> <p class=\"clause-e\">  (b) the purchase or sale was made pursuant to participation in an automatic dividend reinvestment plan, share purchase plan or other similar automatic plan that was entered into by the person or company prior to the acquisition of knowledge of the material fact or material change; or</p> <p class=\"clause-e\">  (c) the purchase or sale was made to fulfil a legally binding obligation entered into by the person or company prior to the acquisition of knowledge of the material fact or material change.  R.R.O. 1990, Reg. 1015, s. 175 (2); O. Reg. 249/16, s. 1 (2).</p> <p class=\"subsection-e\">  (3) In determining whether a person or company has sustained the burden of proof under subsection (1) or (1.1), it shall be relevant whether and to what extent the person or company has implemented and maintained reasonable policies and procedures to prevent contraventions of subsections 76 (1) and (3.1) of the Act and to prevent transmission of information concerning a material fact or material change contrary to subsection 76 (2) or (3) of the Act.  R.R.O. 1990, Reg. 1015, s. 175 (3); O. Reg. 249/16, s. 1 (3).</p> <p class=\"subsection-e\">  (4) A person or company who purchases or sells a security of an issuer as agent or trustee for a person or company who is exempt from subsection 76 (1) of the Act and from liability under section 134 of the Act by reason of clause (2) (b) or (c), is also exempt from subsection 76 (1) of the Act and from liability under section 134 of the Act.  R.R.O. 1990, Reg. 1015, s. 175 (4); O. Reg. 249/16, s. 1 (4).</p> <p class=\"subsection-e\">  (5) A person or company is exempt from subsections 76 (1), (2) and (3) of the Act where the person or company proves that such person or company reasonably believed that,</p> <p class=\"clause-e\">  (a) the other party to a purchase or sale of securities; or</p> <p class=\"clause-e\">  (b) the person or company informed of the material fact or material change,</p> <p class=\"Ssubsection-e\">as the case may be, had knowledge of the material fact or material change.  R.R.O. 1990, Reg. 1015, s. 175 (5).</p> <p class=\"partnumRevoked-e\"><span class=\"ovboldallcaps\">Part IX </span>(ss. 176-181) <span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 215/05, s. 6.</p> <p class=\"partnumRevoked-e\"><span class=\"ovboldallcaps\">PART X</span></p>"
+        },
+        {
+            "ahref_id": "#182.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 182. Revoked:  O. Reg. 222/00, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>182. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 222/00, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#183.-189.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 183.-189. Revoked:  O. Reg. 589/07, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>183.-189. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 589/07, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#190.-192.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 190.-192. Revoked:  O. Reg. 80/95, s. 22.",
+            "raw_html": "<p class=\"section-e\"> <b>190.-192. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 80/95, s. 22.</p>"
+        },
+        {
+            "ahref_id": "#193.-196.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 193.-196. Revoked:  O. Reg. 589/07, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>193.-196. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 589/07, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#197.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 197. Revoked:  O. Reg. 133/00, s. 1. ",
+            "raw_html": "<p class=\"section-e\"> <b>197. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 133/00, s. 1. </p>"
+        },
+        {
+            "ahref_id": "#198.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 198. Revoked:  O. Reg. 589/07, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>198. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 589/07, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#199.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 199. Revoked:  O. Reg. 133/00, s. 1. ",
+            "raw_html": "<p class=\"section-e\"> <b>199. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 133/00, s. 1. </p>"
+        },
+        {
+            "ahref_id": "#200.-203.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 200.-203. Revoked:  O. Reg. 589/07, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>200.-203. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 589/07, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#203.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 203.1 Revoked:  O. Reg. 48/03, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>203.1 </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 48/03, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#203.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 203.2 Revoked:  O. Reg. 48/03, s. 2. PART XI",
+            "raw_html": "<p class=\"section-e\"> <b>203.2 </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 48/03, s. 2.</p> <p class=\"partnumRevoked-e\"><span class=\"ovboldallcaps\">PART XI</span></p>"
+        },
+        {
+            "ahref_id": "#204.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 204. Revoked:  O. Reg. 358/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>204. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#205.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 205. Revoked:  O. Reg. 357/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>205. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 357/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#206.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 206. Revoked:  O. Reg. 491/05, s. 11.",
+            "raw_html": "<p class=\"section-e\"> <b>206.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 491/05, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#207.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 207. Revoked:  O. Reg. 149/98, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>207. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 149/98, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#208.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 208. Revoked:  O. Reg. 358/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>208. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#209.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 209. (1)-(9) Revoked:  O. Reg. 358/09, s. 4. (10) Revoked:  O. Reg. 357/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>209. </b>(1)-(9) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 4.</p> <p class=\"subsection-e\">  (10) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 357/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#210., 211.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 210., 211. Revoked:  O. Reg. 358/09, s. 4. Part XII (s. 212-218) Revoked:  O. Reg. 358/09, s. 5. PART XIII",
+            "raw_html": "<p class=\"section-e\"> <b>210., 211. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 4.</p> <p class=\"partnumRevoked-e\"><span class=\"ovboldallcaps\">Part XII </span>(s. 212-218) <span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 358/09, s. 5.</p> <p class=\"partnumRevoked-e\"><span class=\"ovboldallcaps\">PART XIII</span></p>"
+        },
+        {
+            "ahref_id": "#219.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 219. Revoked:  O. Reg. 358/09, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>219. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#220.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 220. Revoked:  O. Reg. 357/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>220. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 357/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#221., 222.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 221., 222. Revoked:  O. Reg. 1/99, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>221., 222. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 1/99, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#223.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 223. Revoked:  O. Reg. 358/09, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>223. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#224.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 224. Revoked:  O. Reg. 504/01, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>224. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 504/01, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#225.-228.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 225.-228. Revoked:  O. Reg. 358/09, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>225.-228. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#229.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 229. Revoked:  O. Reg. 273/01, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>229. </b>R<span class=\"ovsmallcap\">evoked</span>:  O. Reg. 273/01, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#230.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 230. Revoked:  O. Reg. 358/09, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>230. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#231.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 231. Revoked:  O. Reg. 357/09, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>231. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 357/09, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#232.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 232. Revoked:  O. Reg. 358/09, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>232. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#233.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 233. Revoked:  O. Reg. 357/09, s. 4. PART XIV   LABOUR SPONSORED INVESTMENT FUND CORPORATIONS",
+            "raw_html": "<p class=\"section-e\"> <b>233. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 357/09, s. 4.</p> <p class=\"partnum-e\"><a name=\"BK21\"></a>PART XIV <br/>  LABOUR SPONSORED INVESTMENT FUND CORPORATIONS</p>"
+        },
+        {
+            "ahref_id": "#234.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 234. In this Part, “eligible investment” means an eligible investment as defined in section 204.8 of the Income Tax Act (Canada); “employee organization” and “labour sponsored investment fund corporation” have the meanings specified in the Labour Sponsored Venture Capital Corporations Act, 1992.  O. Reg. 455/92, s. 1; O. Reg. 209/93, s. 1; O. Reg. 468/00, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>234. </b>In this Part,</p> <p class=\"definition-e\">“eligible investment” means an eligible investment as defined in section 204.8 of the <i>Income Tax Act</i> (Canada);</p> <p class=\"definition-e\">“employee organization” and “labour sponsored investment fund corporation” have the meanings specified in the <i>Labour Sponsored Venture Capital Corporations Act, 1992</i>.  O. Reg. 455/92, s. 1; O. Reg. 209/93, s. 1; O. Reg. 468/00, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#235.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 235. Despite the definition of “promoter” in subsection 1 (1) of the Act, if an employee organization incorporates a company to incorporate, organize and register another company as a labour sponsored investment fund corporation, the employee organization and its members shall be deemed not to be a promoter of the labour sponsored investment fund corporation.  O. Reg. 455/92, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>235. </b>Despite the definition of “promoter” in subsection 1 (1) of the Act, if an employee organization incorporates a company to incorporate, organize and register another company as a labour sponsored investment fund corporation, the employee organization and its members shall be deemed not to be a promoter of the labour sponsored investment fund corporation.  O. Reg. 455/92, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#236.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 236. Revoked:  O. Reg. 468/00, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>236. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 468/00, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#237.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 237. Revoked:  O. Reg. 31/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>237.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 31/08, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#238.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 238. (1) The Director shall not refuse to issue a receipt for a prospectus of a labour sponsored investment fund corporation under subsection 61 (1) or (2) of the Act if the circumstance forming the basis for a refusal under subsection 61 (1) or (2) of the Act is permitted under the Labour Sponsored Venture Capital Corporations Act, 1992 or this Part.  O. Reg. 455/92, s. 1. (2) Despite subsection 61 (1) of the Act, the Director shall not issue a receipt for a prospectus of a labour sponsored investment fund corporation if, (a) it appears to the Director that the corporation is in contravention of this Part; or (b) the Director receives notice from the Minister of Revenue that the Minister of Revenue has served notice under section 31 of the Labour Sponsored Venture Capital Corporations Act, 1992 of a proposal to revoke the registration of the labour sponsored investment fund corporation.  O. Reg. 455/92, s. 1. (3) Clause (2) (b) ceases to apply if the Director receives notice from the Minister of Revenue that the Minister of Revenue will not revoke the registration of the labour sponsored investment fund corporation.  O. Reg. 455/92, s. 1. (4) The Director shall not refuse to issue a receipt under clause (2) (a) before giving the labour sponsored investment fund corporation that filed the prospectus an opportunity to be heard.  O. Reg. 455/92, s. 1. (5) Immediately after making a decision to refuse to issue a receipt under clause (2) (a), the Director shall notify the Commission of the decision.  O. Reg. 455/92, s. 1. (6) Within thirty days of the Director’s decision to refuse to issue a receipt under clause (2) (a), the Commission may notify the Director and any person or company directly affected by the Director’s decision of the Commission’s intention to convene a hearing to review the decision.  O. Reg. 455/92, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>238. </b>(1) The Director shall not refuse to issue a receipt for a prospectus of a labour sponsored investment fund corporation under subsection 61 (1) or (2) of the Act if the circumstance forming the basis for a refusal under subsection 61 (1) or (2) of the Act is permitted under the <i>Labour Sponsored Venture Capital Corporations Act, 1992</i> or this Part.  O. Reg. 455/92, s. 1.</p> <p class=\"subsection-e\">  (2) Despite subsection 61 (1) of the Act, the Director shall not issue a receipt for a prospectus of a labour sponsored investment fund corporation if,</p> <p class=\"clause-e\">  (a) it appears to the Director that the corporation is in contravention of this Part; or</p> <p class=\"clause-e\">  (b) the Director receives notice from the Minister of Revenue that the Minister of Revenue has served notice under section 31 of the <i>Labour Sponsored Venture Capital Corporations Act, 1992</i> of a proposal to revoke the registration of the labour sponsored investment fund corporation.  O. Reg. 455/92, s. 1.</p> <p class=\"subsection-e\">  (3) Clause (2) (b) ceases to apply if the Director receives notice from the Minister of Revenue that the Minister of Revenue will not revoke the registration of the labour sponsored investment fund corporation.  O. Reg. 455/92, s. 1.</p> <p class=\"subsection-e\">  (4) The Director shall not refuse to issue a receipt under clause (2) (a) before giving the labour sponsored investment fund corporation that filed the prospectus an opportunity to be heard.  O. Reg. 455/92, s. 1.</p> <p class=\"subsection-e\">  (5) Immediately after making a decision to refuse to issue a receipt under clause (2) (a), the Director shall notify the Commission of the decision.  O. Reg. 455/92, s. 1.</p> <p class=\"subsection-e\">  (6) Within thirty days of the Director’s decision to refuse to issue a receipt under clause (2) (a), the Commission may notify the Director and any person or company directly affected by the Director’s decision of the Commission’s intention to convene a hearing to review the decision.  O. Reg. 455/92, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#239.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 239. The Commission shall not make an order under subsection 70 (1) of the Act requiring that the distribution of securities under a prospectus of a labour sponsored investment fund corporation cease, if the circumstance forming the basis for an order under subsection 70 (1) of the Act is permitted under the Labour Sponsored Venture Capital Corporations Act, 1992 or this Part.  O. Reg. 455/92, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>239. </b>The Commission shall not make an order under subsection 70 (1) of the Act requiring that the distribution of securities under a prospectus of a labour sponsored investment fund corporation cease, if the circumstance forming the basis for an order under subsection 70 (1) of the Act is permitted under the <i>Labour Sponsored Venture Capital Corporations Act, 1992 </i>or this Part.  O. Reg. 455/92, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#240.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 240. (1) If a rule, policy or practice of the Commission or the Director pertaining to mutual funds conflicts with a provision of the Labour Sponsored Venture Capital Corporations Act, 1992 pertaining to labour sponsored investment fund corporations, the rule, policy or practice of the Commission or the Director pertaining to mutual funds shall not apply to labour sponsored investment fund corporations.  O. Reg. 455/92, s. 1; O. Reg. 3/00, s. 5 (1). (2) Without limiting the generality of subsection (1), a rule, policy or practice of the Commission or the Director respecting any of the following subjects shall not apply to labour sponsored investment fund corporations: 1. The incorporation and initial capitalization of mutual funds. 2. Investment restrictions on mutual funds. 3. The borrowing of money by mutual funds. 4. The making of illiquid investments by mutual funds. 5. The lending of money by mutual funds. 6. The guaranteeing by mutual funds of debts or obligations of other persons or companies. 7. The management or control of other issuers by mutual funds. 8. The sale or redemption of securities of mutual funds. 9.  Revoked:  O. Reg. 215/05, s. 7 (2). O. Reg. 455/92, s. 1; O. Reg. 3/00, s. 5 (2); O. Reg. 215/05, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>240. </b>(1) If a rule, policy or practice of the Commission or the Director pertaining to mutual funds conflicts with a provision of the <i>Labour Sponsored Venture Capital Corporations Act, 1992</i> pertaining to labour sponsored investment fund corporations, the rule, policy or practice of the Commission or the Director pertaining to mutual funds shall not apply to labour sponsored investment fund corporations.  O. Reg. 455/92, s. 1; O. Reg. 3/00, s. 5 (1).</p> <p class=\"subsection-e\">  (2) Without limiting the generality of subsection (1), a rule, policy or practice of the Commission or the Director respecting any of the following subjects shall not apply to labour sponsored investment fund corporations:</p> <p class=\"paragraph-e\">  1. The incorporation and initial capitalization of mutual funds.</p> <p class=\"paragraph-e\">  2. Investment restrictions on mutual funds.</p> <p class=\"paragraph-e\">  3. The borrowing of money by mutual funds.</p> <p class=\"paragraph-e\">  4. The making of illiquid investments by mutual funds.</p> <p class=\"paragraph-e\">  5. The lending of money by mutual funds.</p> <p class=\"paragraph-e\">  6. The guaranteeing by mutual funds of debts or obligations of other persons or companies.</p> <p class=\"paragraph-e\">  7. The management or control of other issuers by mutual funds.</p> <p class=\"paragraph-e\">  8. The sale or redemption of securities of mutual funds.</p> <p class=\"paragraph-e\">  9.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 215/05, s. 7 (2).</p> <p class=\"footnote-e\">O. Reg. 455/92, s. 1; O. Reg. 3/00, s. 5 (2); O. Reg. 215/05, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#241.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 241. For the purpose of subsection 107 (1) of the Act, a labour sponsored investment fund corporation shall be deemed not to be a mutual fund.  O. Reg. 455/92, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>241. </b>For the purpose of subsection 107 (1) of the Act, a labour sponsored investment fund corporation shall be deemed not to be a mutual fund.  O. Reg. 455/92, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#242.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 242. Despite clause 110 (2) (b) of the Act, for the purposes of sections 111 to 115 of the Act, an eligible investment of a labour sponsored investment fund corporation shall be deemed not to be an investment by the labour sponsored investment fund corporation in a person or company in which it is a substantial security holder.  O. Reg. 455/92, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>242. </b>Despite clause 110 (2) (b) of the Act, for the purposes of sections 111 to 115 of the Act, an eligible investment of a labour sponsored investment fund corporation shall be deemed not to be an investment by the labour sponsored investment fund corporation in a person or company in which it is a substantial security holder.  O. Reg. 455/92, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#243.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 243. When a labour sponsored investment fund corporation provides to its shareholders a quarterly or annual share valuation in accordance with its undertaking under clause 14 (1) (h) of the Labour Sponsored Venture Capital Corporations Act, 1992, the corporation shall file with the Commission a copy of the valuation and a copy of all reports prepared by or for the corporation about the valuation.  O. Reg. 455/92, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>243. </b>When a labour sponsored investment fund corporation provides to its shareholders a quarterly or annual share valuation in accordance with its undertaking under clause 14 (1) (h) of the <i>Labour Sponsored Venture Capital Corporations Act, 1992</i>, the corporation shall file with the Commission a copy of the valuation and a copy of all reports prepared by or for the corporation about the valuation.  O. Reg. 455/92, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#244.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 244. A labour sponsored investment fund corporation is exempt from the requirements of Part IV that are inconsistent with the Labour Sponsored Venture Capital Corporations Act, 1992 or the regulations made under that Act.  O. Reg. 455/92, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>244. </b>A labour sponsored investment fund corporation is exempt from the requirements of Part IV that are inconsistent with the <i>Labour Sponsored Venture Capital Corporations Act, 1992</i> or the regulations made under that Act.  O. Reg. 455/92, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#245.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 245. The Commission may exempt any person or company from a requirement of this Regulation that relates to labour sponsored investment fund corporations or may vary a provision of this Regulation that relates to labour sponsored investment fund corporations as it applies to any person or company, if the Commission is satisfied that to do so would not be prejudicial to the public interest, having regard to the spirit and intent of the Labour Sponsored Venture Capital Corporations Act, 1992.  O. Reg. 455/92, s. 1. Part XV (s. 246, 247) Revoked: O. Reg. 446/16, s. 17. part xvi   civil liability for secondary market disclosure",
+            "raw_html": "<p class=\"section-e\"> <b>245. </b>The Commission may exempt any person or company from a requirement of this Regulation that relates to labour sponsored investment fund corporations or may vary a provision of this Regulation that relates to labour sponsored investment fund corporations as it applies to any person or company, if the Commission is satisfied that to do so would not be prejudicial to the public interest, having regard to the spirit and intent of the <i>Labour Sponsored Venture Capital Corporations Act, 1992</i>.  O. Reg. 455/92, s. 1.</p> <p class=\"partnumRepeal-e\"><span class=\"ovboldallcaps\">Part XV </span><span class=\"ovboldallcaps\">(</span>s. 246, 247) <span class=\"ovsmallcap\">Revoked:</span> O. Reg. 446/16, s. 17.</p> <p class=\"partnum-e\"><a name=\"BK22\"></a>part xvi <br/>  civil liability for secondary market disclosure</p>"
+        },
+        {
+            "ahref_id": "#248.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 248. In this Part, “equity security” means a security of an issuer that carries a residual right to participate in the earnings of the issuer and, on liquidation or winding up of the issuer, in its assets. O. Reg. 130/16, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>248. </b>In this Part,</p> <p class=\"definition-e\">“equity security” means a security of an issuer that carries a residual right to participate in the earnings of the issuer and, on liquidation or winding up of the issuer, in its assets. O. Reg. 130/16, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#249.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 249. For the purposes of Part XXIII.1 of the Act, “market capitalization” means, in respect of an issuer, the amount determined as follows: 1. For each class of equity securities for which there is a published market, determine the sum of the number of outstanding securities of the class at the close of trading on each of the 10 trading days before the day on which the misrepresentation was made or the failure to make timely disclosure first occurred. 2. Divide the sum determined under paragraph 1 by 10. 3. Multiply the quotient determined under paragraph 2 for each class by the trading price of the securities of the class on the principal market for the securities for the 10 trading days before the day on which the misrepresentation was made or the failure to make timely disclosure first occurred. 4. Add the amounts determined under paragraph 3 for each class of equity securities for which there is a published market. 5. For each class of equity securities not traded on a published market, determine the fair market value of the outstanding securities of that class as of the day on which the misrepresentation was made or the failure to make timely disclosure first occurred. 6. Add the amounts determined under paragraph 5 for each class of equity securities not traded on a published market. 7. Add the amount determined under paragraph 4 to the amount determined under paragraph 6 to determine the market capitalization of the issuer.  O. Reg. 453/05, s. 19.",
+            "raw_html": "<p class=\"section-e\"> <b>249. </b>For the purposes of Part XXIII.1 of the Act, “market capitalization” means, in respect of an issuer, the amount determined as follows:</p> <p class=\"paragraph-e\">  1. For each class of equity securities for which there is a published market, determine the sum of the number of outstanding securities of the class at the close of trading on each of the 10 trading days before the day on which the misrepresentation was made or the failure to make timely disclosure first occurred.</p> <p class=\"paragraph-e\">  2. Divide the sum determined under paragraph 1 by 10.</p> <p class=\"paragraph-e\">  3. Multiply the quotient determined under paragraph 2 for each class by the trading price of the securities of the class on the principal market for the securities for the 10 trading days before the day on which the misrepresentation was made or the failure to make timely disclosure first occurred.</p> <p class=\"paragraph-e\">  4. Add the amounts determined under paragraph 3 for each class of equity securities for which there is a published market.</p> <p class=\"paragraph-e\">  5. For each class of equity securities not traded on a published market, determine the fair market value of the outstanding securities of that class as of the day on which the misrepresentation was made or the failure to make timely disclosure first occurred.</p> <p class=\"paragraph-e\">  6. Add the amounts determined under paragraph 5 for each class of equity securities not traded on a published market.</p> <p class=\"paragraph-e\">  7. Add the amount determined under paragraph 4 to the amount determined under paragraph 6 to determine the market capitalization of the issuer.  O. Reg. 453/05, s. 19.</p>"
+        },
+        {
+            "ahref_id": "#250.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 250. For the purposes of Part XXIII.1 of the Act, “principal market” means, in respect of a class of securities of a responsible issuer, (a) the published market in Canada on which the greatest volume of trading in securities of that class occurred during the 10 trading days before the day on which the misrepresentation was made or the failure to make timely disclosure first occurred, or (b) the published market on which the greatest volume of trading in securities of that class occurred during the 10 trading days before the day on which the misrepresentation was made or the failure to make timely disclosure first occurred, if securities of that class are not traded during those 10 trading days on a published market in Canada.  O. Reg. 453/05, s. 19.",
+            "raw_html": "<p class=\"section-e\"> <b>250. </b>For the purposes of Part XXIII.1 of the Act,</p> <p class=\"definition-e\">“principal market” means, in respect of a class of securities of a responsible issuer,</p> <p class=\"defclause-e\">  (a) the published market in Canada on which the greatest volume of trading in securities of that class occurred during the 10 trading days before the day on which the misrepresentation was made or the failure to make timely disclosure first occurred, or</p> <p class=\"defclause-e\">  (b) the published market on which the greatest volume of trading in securities of that class occurred during the 10 trading days before the day on which the misrepresentation was made or the failure to make timely disclosure first occurred, if securities of that class are not traded during those 10 trading days on a published market in Canada.  O. Reg. 453/05, s. 19.</p>"
+        },
+        {
+            "ahref_id": "#251.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 251. For the purposes of Part XXIII.1 of the Act, “trading price” means, in respect of a security of a class of securities for which there is a published market, the amount determined under the following rules: 1. Subject to paragraphs 2 and 3, the trading price of the security is the volume weighted average price of securities of that class on the published market during the period for which the trading price is to be determined. 2. Subject to paragraph 3, if there was trading in the securities of that class in the published market on fewer than half of the trading days during the period for which the trading price of the securities is to be determined, the trading price of the security is determined as follows: i. Calculate the sum of the average of the highest bid and lowest ask prices for each trading day in the period on which there were no trades in securities of that class in the published market. ii. Divide the amount determined under subparagraph i by the number of trading days on which there were no trades in securities of that class in the published market. iii. Add to the amount determined under subparagraph ii the volume weighted average price of securities of that class on the published market for those trading days on which securities of that class were traded. iv. Divide by two the amount determined under subparagraph iii. 3. If there were no trades of securities of that class in the published market during the period for which the trading price is to be determined, the trading price of the security is the fair market value of the security.  O. Reg. 453/05, s. 19.",
+            "raw_html": "<p class=\"section-e\"> <b>251. </b>For the purposes of Part XXIII.1 of the Act, “trading price” means, in respect of a security of a class of securities for which there is a published market, the amount determined under the following rules:</p> <p class=\"paragraph-e\">  1. Subject to paragraphs 2 and 3, the trading price of the security is the volume weighted average price of securities of that class on the published market during the period for which the trading price is to be determined.</p> <p class=\"paragraph-e\">  2. Subject to paragraph 3, if there was trading in the securities of that class in the published market on fewer than half of the trading days during the period for which the trading price of the securities is to be determined, the trading price of the security is determined as follows:</p> <p class=\"subpara-e\">  i. Calculate the sum of the average of the highest bid and lowest ask prices for each trading day in the period on which there were no trades in securities of that class in the published market.</p> <p class=\"subpara-e\">  ii. Divide the amount determined under subparagraph i by the number of trading days on which there were no trades in securities of that class in the published market.</p> <p class=\"subpara-e\">  iii. Add to the amount determined under subparagraph ii the volume weighted average price of securities of that class on the published market for those trading days on which securities of that class were traded.</p> <p class=\"subpara-e\">  iv. Divide by two the amount determined under subparagraph iii.</p> <p class=\"paragraph-e\">  3. If there were no trades of securities of that class in the published market during the period for which the trading price is to be determined, the trading price of the security is the fair market value of the security.  O. Reg. 453/05, s. 19.</p>"
+        },
+        {
+            "ahref_id": "#252.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 252. (1) Part XXIII.1 of the Act applies to the acquisition of an issuer’s security pursuant to an exemption from section 53 or 62 of the Act that is set out in section 2.8 of National Instrument 45-102 Resale of Securities, which exemption is prescribed for the purposes of clause 138.2 (b) of the Act.  O. Reg. 453/05, s. 19; O. Reg. 446/16, s. 18. (2) Part XXIII.1 of the Act applies to the acquisition or disposition of an issuer’s security in connection with or pursuant to a take-over bid that is exempt under section 4.1, 4.4 or 4.5 of National Instrument 62-104 Take-Over Bids and Issuer Bids or an issuer bid that is exempt under section 4.8, 4.10 or 4.11 of National Instrument 62-104 Take-Over Bids and Issuer Bids and those bids are prescribed for the purposes of clause 138.2 (c) of the Act.  O. Reg. 589/07, s. 4; O. Reg. 130/16, s. 3. Schedule 1 Revoked:  O. Reg. 48/03, s. 3. Forms 1, 2 Revoked: O. Reg. 446/16, s. 19. Form 3 Revoked:  O. Reg. 358/09, s. 7. Form 4 Revoked:  O. Reg. 16/03, s. 6. Forms 5, 6 Revoked:  O. Reg. 358/09, s. 7. Form 7 Revoked:  O. Reg. 453/05, s. 22. Form 8 Revoked: O. Reg. 446/16, s. 19. Form 9 Revoked:  O. Reg. 358/09, s. 7. Form 10 Revoked:  O. Reg. 357/09, s. 5. Form 11 Revoked:  O. Reg. 424/01, s. 6. FormS 12-14 Revoked:  O. Reg. 632/00, s. 11. Form 15 Revoked:  O. Reg. 31/08, s. 2. Form 16 Revoked:  O. Reg. 91/01, s. 6. FormS 17-19 Revoked:  O. Reg. 453/05, s. 22. FormS 20, 21 Revoked:  O. Reg. 662/98, s. 3. FormS 22, 23 Revoked:  O. Reg. 423/01, s. 5. FormS 24-26 Revoked:  O. Reg. 491/05, s. 13. Form 27 Revoked:  O. Reg. 215/05, s. 8. Form 28 Revoked:  O. Reg. 56/04, s. 14 (2). Form 29 Revoked:  O. Reg. 507/97, s. 4. Form 30 Revoked:  O. Reg. 215/05, s. 9. FORMS 31-35 Revoked:  O. Reg. 589/07, s. 3. Form 36 Revoked:  O. Reg. 13/96, s. 2. Forms 37-39 Revoked: O. Reg. 446/16, s. 19. Form 40 Revoked:  O. Reg. 56/04, s. 14 (4). Form 41 Revoked: O. Reg. 446/16, s. 19. FormS 42-44 Revoked:  O. Reg. 48/03, s. 4. Form 45 Revoked:  O. Reg. 31/08, s. 2.    ",
+            "raw_html": "<p class=\"section-e\"> <b>252. </b>(1) Part XXIII.1 of the Act applies to the acquisition of an issuer’s security pursuant to an exemption from section 53 or 62 of the Act that is set out in section 2.8 of National Instrument 45-102 <i>Resale of Securities</i>, which exemption is prescribed for the purposes of clause 138.2 (b) of the Act.  O. Reg. 453/05, s. 19; O. Reg. 446/16, s. 18.</p> <p class=\"subsection-e\">  (2) Part XXIII.1 of the Act applies to the acquisition or disposition of an issuer’s security in connection with or pursuant to a take-over bid that is exempt under section 4.1, 4.4 or 4.5 of National Instrument 62-104 <i>Take-Over Bids and Issuer Bids</i> or an issuer bid that is exempt under section 4.8, 4.10 or 4.11 of National Instrument 62-104 <i>Take-Over Bids and Issuer Bids</i> and those bids are prescribed for the purposes of clause 138.2 (c) of the Act.  O. Reg. 589/07, s. 4; O. Reg. 130/16, s. 3.</p> <p class=\"scheduleRevoked-e\"><span class=\"ovallcaps\">Schedule 1</span> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 48/03, s. 3.</p> <p class=\"formRepeal-e\"><span class=\"ovallcaps\">Forms</span> 1, 2 <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 446/16, s. 19.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 3 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 7.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 4 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 16/03, s. 6.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Forms</span> 5, 6 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 7.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 7 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 453/05, s. 22.</p> <p class=\"formRepeal-e\"><span class=\"ovallcaps\">Form</span> 8 <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 446/16, s. 19.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 9 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 358/09, s. 7.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 10 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 357/09, s. 5.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 11 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 424/01, s. 6.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">FormS</span> 12-14 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 632/00, s. 11.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 15 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 31/08, s. 2.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 16 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 91/01, s. 6.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">FormS</span> 17-19 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 453/05, s. 22.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">FormS</span> 20, 21 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 662/98, s. 3.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">FormS</span> 22, 23 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 423/01, s. 5.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">FormS</span> 24-26 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 491/05, s. 13.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 27 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 215/05, s. 8.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 28 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 56/04, s. 14 (2).</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 29 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 507/97, s. 4.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 30 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 215/05, s. 9.</p> <p class=\"formRevoked-e\">FORMS 31-35 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 589/07, s. 3.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 36 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 13/96, s. 2.</p> <p class=\"formRepeal-e\"><span class=\"ovallcaps\">Forms</span> 37-39 <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 446/16, s. 19.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 40 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 56/04, s. 14 (4).</p> <p class=\"formRepeal-e\"><span class=\"ovallcaps\">Form</span> 41 <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 446/16, s. 19.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">FormS</span> 42-44 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 48/03, s. 4.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form 45 </span><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 31/08, s. 2.</p> <p class=\"formRevoked-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

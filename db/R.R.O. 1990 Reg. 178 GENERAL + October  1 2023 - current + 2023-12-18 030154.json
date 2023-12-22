@@ -1,0 +1,681 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 178: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "R.R.O. 1990, Reg. 178: ",
+        "act_under": "Co-operative Corporations Act",
+        "url": "https://www.ontario.ca/laws/regulation/900178",
+        "date_scraped": "2023-12-18 03:01:55"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "October  1, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v12",
+            "valid_from": "July 20, 2023",
+            "valid_to": "September 30, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v11",
+            "valid_from": "March  1, 2022",
+            "valid_to": "July 19, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v10",
+            "valid_from": "February 28, 2022",
+            "valid_to": "February 28, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v9",
+            "valid_from": "April  1, 2020",
+            "valid_to": "February 27, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v8",
+            "valid_from": "March 18, 2020",
+            "valid_to": "March 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v7",
+            "valid_from": "June  8, 2019",
+            "valid_to": "March 17, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v6",
+            "valid_from": "June  5, 2019",
+            "valid_to": "June  7, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v5",
+            "valid_from": "October 29, 2018",
+            "valid_to": "June  4, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v4",
+            "valid_from": "March 29, 2018",
+            "valid_to": "October 28, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v3",
+            "valid_from": "August 31, 2007",
+            "valid_to": "March 28, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v2",
+            "valid_from": "July 27, 2007",
+            "valid_to": "August 30, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900178/v1",
+            "valid_from": "July  1, 1998",
+            "valid_to": "July 26, 2007"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Definitions",
+            "Section2": "0.1-1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Incorporation",
+            "Section2": "2-3",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Name",
+            "Section2": "4-10",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Redemption of Certain Shares",
+            "Section2": "11",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Offering Statement and Material Change Statement",
+            "Section2": "11.1-12.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Prescribed Percentages",
+            "Section2": "12.2",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Prescribed Maximum Premium",
+            "Section2": "12.3",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Continuous Disclosure",
+            "Section2": "12.4",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Arbitration by Dissenting Shareholders",
+            "Section2": "12.5",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Exemptions from Offering Statements",
+            "Section2": "12.6",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Definition of “Fair Market Value”",
+            "Section2": "12.7",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Definition of “Fair Value”",
+            "Section2": "12.8-16",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Articles of Dissolution",
+            "Section2": "17",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Revival",
+            "Section2": "18",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Evidence of Solvency",
+            "Section2": "19-20",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Miscellaneous",
+            "Section2": "24",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#0.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 0.1 (1) The following are the circumstances in which a member of a co-operative is not required to be employed by the co-operative, for the purposes of the definition of “worker co-operative” in subsection 1 (1) of the Act: 1. The member of the co-operative is a member of a trade union that has entered into a collective agreement with the co-operative, a term of which is that the trade union is engaged in the selection, referral, assignment, designation or scheduling of persons to employment. 2. The co-operative has been incorporated for less than two years. 3.  Revoked:  R.R.O. 1990, Reg. 178, s. 0.1 (2). O. Reg. 495/92, s. 1. (2) Spent:  O. Reg. 495/92, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>0.1 </b>(1) The following are the circumstances in which a member of a co-operative is not required to be employed by the co-operative, for the purposes of the definition of “worker co-operative” in subsection 1 (1) of the Act:</p> <p class=\"paragraph-e\">  1. The member of the co-operative is a member of a trade union that has entered into a collective agreement with the co-operative, a term of which is that the trade union is engaged in the selection, referral, assignment, designation or scheduling of persons to employment.</p> <p class=\"paragraph-e\">  2. The co-operative has been incorporated for less than two years.</p> <p class=\"paragraph-e\">  3.  <span>Revoked</span>:  R.R.O. 1990, Reg. 178, s. 0.1 (2).</p> <p class=\"footnote-e\">O. Reg. 495/92, s. 1.</p> <p class=\"subsection-e\">  (2) <span>Spent</span>:  O. Reg. 495/92, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. Revoked:  O. Reg. 318/98, s. 1. Incorporation",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b><span>Revoked</span>:  O. Reg. 318/98, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Incorporation</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. Revoked:  O. Reg. 318/98, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b><span>Revoked</span>:  O. Reg. 318/98, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#2.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2.1 (1) For the purpose of subsection 5 (1) of the Act, the incorporators of a non-profit housing co-operative must provide the following: 1. If the incorporation does not involve the conversion of a residential complex, a statement to that effect, signed by each first director. 2. If the incorporation does involve the conversion of a residential complex, a plan prepared by an organization or individual in the business of developing non-profit co-operative housing.  O. Reg. 234/95, s. 1; O. Reg. 164/19, s. 1 (1). (2) The plan for converting the residential complex must include the following information: 1. A brief description of the conversion process. 2. A description of the rights of residents to remain in the residential complex if they do not become members of the co-operative. 3. A description of the method for determining the level of support among the residents for converting the residential complex.  O. Reg. 234/95, s. 1; O. Reg. 164/19, s. 1 (2). (3) In this section, “residential complex” means a residential complex as defined in subsection 2 (1) of the Residential Tenancies Act, 2006, but does not include the entities listed in section 5 of that Act. O. Reg. 164/19, s. 1 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>2.1 </b>(1) For the purpose of subsection 5 (1) of the Act, the incorporators of a non-profit housing co-operative must provide the following:</p> <p class=\"paragraph-e\">  1. If the incorporation does not involve the conversion of a residential complex, a statement to that effect, signed by each first director.</p> <p class=\"paragraph-e\">  2. If the incorporation does involve the conversion of a residential complex, a plan prepared by an organization or individual in the business of developing non-profit co-operative housing.  O. Reg. 234/95, s. 1; O. Reg. 164/19, s. 1 (1).</p> <p class=\"subsection-e\">  (2) The plan for converting the residential complex must include the following information:</p> <p class=\"paragraph-e\">  1. A brief description of the conversion process.</p> <p class=\"paragraph-e\">  2. A description of the rights of residents to remain in the residential complex if they do not become members of the co-operative.</p> <p class=\"paragraph-e\">  3. A description of the method for determining the level of support among the residents for converting the residential complex.  O. Reg. 234/95, s. 1; O. Reg. 164/19, s. 1 (2).</p> <p class=\"subsection-e\">  (3) In this section,</p> <p class=\"definition-e\">“residential complex” means a residential complex as defined in subsection 2 (1) of the <i>Residential Tenancies Act, 2006</i>, but does not include the entities listed in section 5 of that Act. O. Reg. 164/19, s. 1 (3).</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. Revoked:  O. Reg. 318/98, s. 1. Name",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b><span>Revoked</span>:  O. Reg. 318/98, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Name</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. Where the name of a co-operative to be incorporated is the same as or similar to the name of any known corporation, association, partnership or individual, whether in existence or not, so as to be, in the opinion of the Minister, likely to deceive, the name of the co-operative to be incorporated shall contain such variation from that of the known corporation, association, partnership or individual as the Minister determines.  R.R.O. 1990, Reg. 178, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>Where the name of a co-operative to be incorporated is the same as or similar to the name of any known corporation, association, partnership or individual, whether in existence or not, so as to be, in the opinion of the Minister, likely to deceive, the name of the co-operative to be incorporated shall contain such variation from that of the known corporation, association, partnership or individual as the Minister determines.  R.R.O. 1990, Reg. 178, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. The name of the co-operative shall not be too general in character unless the name has become established by a long and continuous prior use.  R.R.O. 1990, Reg. 178, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>The name of the co-operative shall not be too general in character unless the name has become established by a long and continuous prior use.  R.R.O. 1990, Reg. 178, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. Where the name of a co-operative contains initials or numerals, the Minister may in his or her discretion require the addition of some distinctive word.  R.R.O. 1990, Reg. 178, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>Where the name of a co-operative contains initials or numerals, the Minister may in his or her discretion require the addition of some distinctive word.  R.R.O. 1990, Reg. 178, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. The name of a co-operative shall not include the word “amalgamated”, “fusionné” or any other related word or expression unless the co-operative is an amalgamated co-operative resulting from the amalgamation of two or more co-operatives. O. Reg. 164/19, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>7.</b> The name of a co-operative shall not include the word “amalgamated”, “fusionné” or any other related word or expression unless the co-operative is an amalgamated co-operative resulting from the amalgamation of two or more co-operatives. O. Reg. 164/19, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. The name of a co-operative shall not include the word “condominium” or any derivation thereof.  R.R.O. 1990, Reg. 178, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>The name of a co-operative shall not include the word “condominium” or any derivation thereof.  R.R.O. 1990, Reg. 178, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. The name of a co-operative shall not include the word “veteran”, “ancien combattant” or any abbreviation or derivation thereof unless there has been a long and continuous prior use of the name. O. Reg. 164/19, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>The name of a co-operative shall not include the word “veteran”, “ancien combattant” or any abbreviation or derivation thereof unless there has been a long and continuous prior use of the name. O. Reg. 164/19, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. Where a person has reserved a name and at the expiration of the period for which the name has been reserved no co-operative with that name or a similar name has been incorporated, the name or a similar name shall not be reserved until the expiration of one year thereafter.  R.R.O. 1990, Reg. 178, s. 10. Redemption of Certain Shares",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>Where a person has reserved a name and at the expiration of the period for which the name has been reserved no co-operative with that name or a similar name has been incorporated, the name or a similar name shall not be reserved until the expiration of one year thereafter.  R.R.O. 1990, Reg. 178, s. 10.</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Redemption of Certain Shares</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. (1) This section prescribes the manner of selecting the shares of a series of preference shares that are to be redeemed in the circumstances described in subsection 31 (1.1) of the Act.  O. Reg. 414/07, s. 1. (2) Subject to subsection (3), the shares of a series of preference shares that are to be redeemed shall be selected in one of the following ways: 1. By lot, within the series, in the manner determined by the board of directors. 2. As nearly as may be in proportion to the number of preference shares of the series that are registered in the name of each holder of shares of that series. 3. In such other manner as the board of directors determines with the consent of the holders of preference shares of the series, obtained in the manner set out in subsection 31 (3) of the Act. 4. By date of issuance, within the series, from the earliest date to the latest.  O. Reg. 414/07, s. 1. (3) The articles may confine the manner of selection to one or more of the ways described in subsection (2).  O. Reg. 414/07, s. 1. Offering Statement and Material Change Statement",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>(1) This section prescribes the manner of selecting the shares of a series of preference shares that are to be redeemed in the circumstances described in subsection 31 (1.1) of the Act.  O. Reg. 414/07, s. 1.</p> <p class=\"subsection-e\">  (2) Subject to subsection (3), the shares of a series of preference shares that are to be redeemed shall be selected in one of the following ways:</p> <p class=\"paragraph-e\">  1. By lot, within the series, in the manner determined by the board of directors.</p> <p class=\"paragraph-e\">  2. As nearly as may be in proportion to the number of preference shares of the series that are registered in the name of each holder of shares of that series.</p> <p class=\"paragraph-e\">  3. In such other manner as the board of directors determines with the consent of the holders of preference shares of the series, obtained in the manner set out in subsection 31 (3) of the Act.</p> <p class=\"paragraph-e\">  4. By date of issuance, within the series, from the earliest date to the latest.  O. Reg. 414/07, s. 1.</p> <p class=\"subsection-e\">  (3) The articles may confine the manner of selection to one or more of the ways described in subsection (2).  O. Reg. 414/07, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Offering Statement and Material Change Statement</p>"
+        },
+        {
+            "ahref_id": "#11.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11.1 For the purposes of subsection 34 (1) of the Act, the prescribed number of security holders is 35.  O. Reg. 414/07, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>11.1 </b>For the purposes of subsection 34 (1) of the Act, the prescribed number of security holders is 35.  O. Reg. 414/07, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. (1) An offering statement must contain the following information: 1. The co-operative’s name. 2. Its incorporation number. 3. Its date of incorporation as it is set out in its articles of incorporation. 4. The address of its head office. 5. The name, place of residence and principal occupation of each of its directors and officers, and the title of each officer. 6. A description of the business carried on by the co-operative and its subsidiaries, if any, and the business each of them intends to carry on. 7. A summary of its most recent business plan, if available. 8. A description of its capital structure (including its authorized capital and issued capital) and the rights, privileges, conditions and material characteristics of its securities. 9. A description of all the rights, privileges, conditions and material characteristics of the securities being offered. 10. A description of how the proceeds from the sale of the securities will be used. 11. If the proceeds will be used for investment purposes, a description of the co-operative’s investment policy. 12. If the proceeds will be used to make an investment in specific businesses, a description of the nature of the businesses, their management and their capital structure. 13. If the offering is being made in connection with a plan of reorganization, a purchase and sale or an amalgamation, a description of the general effect of these proposed changes and when they will be made. 14. The details of the method of selling the securities and of any commission payable or discount allowable on the sale. 15. A description of the market, if any, on which the securities may be sold.  If there is no market, a description of how the securities will be redeemed. 16. A statement of the maximum and minimum amount of the offering and, where applicable, the maximum or minimum amount of any subscription.  A description of what will happen to the proceeds if the minimum amount of the offering is not raised. 17. The names of each transfer agent and registrar, if any, and the location of each register of transfer. 18. The amount and particulars of any securities, mortgages, bonds, debentures or other debt obligations ranking ahead of the securities being issued. 19. A description of any material legal proceedings to which the co-operative or its subsidiary is a party. 20. A description of any material interest of any director, officer, or employee of the co-operative or its subsidiary in the operations of the co-operative generally or in the securities being issued. 21. A description of every material contract entered into within two years before the date of the offering statement. 22. A description in conspicuous type of the risk factors of the co-operative and the risks associated with the securities being offered. 23. A description, to the extent reasonably practicable, of any substantial variations, both favourable and adverse, in the operating results of the co-operative during the three years before the date of the offering statement or since the co-operative’s date of incorporation, whichever is the shorter period. 24. The amount of dividends, patronage returns or other distributions, if any, paid, declared or accumulated but unpaid by the co-operative during the five years before the date of the offering statement, or since the co-operative’s date of incorporation, whichever is the shorter period. 25. The name and address of the auditor of the co-operative, if applicable. 26. A description of any other material facts. 27. A table of contents of the information contained in the offering statement.  O. Reg. 234/95, s. 2 (1). (1.1) An English offering statement shall contain a certificate with the following statement in conspicuous type, signed by the chair of the board, the president and the treasurer and indicating when it was signed by each of them: The foregoing constitutes full, true and plain disclosure of all material facts relating to the securities offered by this offering statement as required by section 35 of the Co-operative Corporations Act. O. Reg. 164/19, s. 4 (1). (1.2) A French offering statement shall contain a certificate with the following statement in conspicuous type, signed by the chair of the board, the president and the treasurer and indicating when it was signed by each of them: Le texte qui figure ci-dessus constitue un exposé intégral, fidèle et simple de tous les faits importants se rapportant aux valeurs mobilières offertes par ce prospectus, comme l’exige l’article 35 de la Loi sur les sociétés coopératives. O. Reg. 164/19, s. 4 (1). (1.3) If there is no market on which the securities may be sold, an English offering statement must include on the face page in conspicuous type the following statement: There is no established market through which these securities may be sold. O. Reg. 164/19, s. 4 (1). (1.4) If there is no market on which the securities may be sold, a French offering statement must include on the face page in conspicuous type the following statement: Il n’existe aucun marché établi sur lequel ces valeurs mobilières peuvent être vendues. O. Reg. 164/19, s. 4 (1). (1.5) An offering statement must include a document indicating that a person who prepared a report, opinion or statement used in the offering statement consents to its use. O. Reg. 164/19, s. 4 (1). (1.6) An English offering statement must include the following statements in conspicuous type on the front cover: 1. No official of the Government of the Province of Ontario or a Crown agency has considered the merits of the matters addressed in this offering statement. 2. Investors should not rely on any information other than what is contained in this offering statement. 3. The information in any projections or pro forma statements contained in this offering statement may vary materially from actual results. O. Reg. 164/19, s. 4 (1); O. Reg. 41/20, s. 1 (1). (1.7) A French offering statement must include the following statements in conspicuous type on the front cover: 1. Aucun représentant du gouvernement de la province de l’Ontario ou d’un organisme de la Couronne n’a examiné le bien-fondé des questions dont traite le prospectus. 2. Les investisseurs ne doivent pas s’appuyer sur des renseignements autres que ceux que comprend le prospectus. 3. Les renseignements figurant dans les prévisions ou les états financiers pro forma que comprend le prospectus peuvent être sensiblement différents des résultats réels. O. Reg. 164/19, s. 4 (1); O. Reg. 41/20, s. 1 (2). (2) A material change statement shall contain the following information: 1. The co-operative’s name. 2. Its incorporation number. 3. The date on which the receipt for the offering statement was issued. 4. The date on which the material change occurred. 5. A description of the material change.  O. Reg. 234/95, s. 2 (1). (2.1) An English material change statement shall contain a certificate with the following statement in conspicuous type, signed by the chair of the board, the president and the treasurer and indicating when it was signed by each of them: The foregoing constitutes full, true and plain disclosure of any material change in the facts set out in the offering statement as required by section 35 of the Co-operative Corporations Act. O. Reg. 164/19, s. 4 (2). (2.2) A French material change statement shall contain a certificate with the following statement in conspicuous type, signed by the chair of the board, the president and the treasurer and indicating when it was signed by each of them: Le texte qui figure ci-dessus constitue un exposé intégral, fidèle et simple de toute modification importante des faits énoncés dans le prospectus, comme l’exige l’article 35 de la Loi sur les sociétés coopératives. O. Reg. 164/19, s. 4 (2). (3) There shall be attached to as part of the offering statement, (a) in the case of a co-operative that has completed a financial year, (i) its financial statement in respect of the last completed financial year, (ii) where exigible under the Act, the auditor’s report thereon, and (iii) where required by the Chief Executive Officer of the Financial Services Regulatory Authority of Ontario, an unaudited financial statement made up as of a date not more than ninety days before the date of the offering statement; or (b) in the case of a co-operative that has not completed a financial year, (i) a financial statement made up as of a date not more than ninety days before the date of the offering statement, and (ii) where required by the Chief Executive Officer of the Financial Services Regulatory Authority of Ontario, the auditor’s report thereon.  R.R.O. 1990, Reg. 178, s. 12 (3); O. Reg. 318/98, s. 2 (1, 2); O. Reg. 164/19, s. 4 (3); O. Reg. 41/20, s. 1 (3). (4) The Chief Executive Officer of the Financial Services Regulatory Authority of Ontario may in his or her discretion on such terms and conditions as he or she sees fit exempt a co-operative from any of the requirements of subsection (3).  R.R.O. 1990, Reg. 178, s. 12 (4); O. Reg. 318/98, s. 2 (3); O. Reg. 164/19, s. 4 (3); O. Reg. 41/20, s. 1 (3). (5) A person who offers a security in the co-operative on a distribution under an offering statement must give a copy of the offering statement and statement of material change, if any, to a prospective purchaser upon request and to a purchaser.  O. Reg. 234/95, s. 2 (2). (6) In this section, “distribution” means, (a) a trade in securities of a co-operative that have not been previously issued, (b) a trade by the co-operative in its securities that have been redeemed by the co-operative or purchased by or donated to the co-operative, or (c) any transaction or series of transactions involving a purchase and sale or a repurchase and resale in the course of or incidental to a trade described in clause (a) or (b).  O. Reg. 234/95, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>(1) An offering statement must contain the following information:</p> <p class=\"paragraph-e\">  1. The co-operative’s name.</p> <p class=\"paragraph-e\">  2. Its incorporation number.</p> <p class=\"paragraph-e\">  3. Its date of incorporation as it is set out in its articles of incorporation.</p> <p class=\"paragraph-e\">  4. The address of its head office.</p> <p class=\"paragraph-e\">  5. The name, place of residence and principal occupation of each of its directors and officers, and the title of each officer.</p> <p class=\"paragraph-e\">  6. A description of the business carried on by the co-operative and its subsidiaries, if any, and the business each of them intends to carry on.</p> <p class=\"paragraph-e\">  7. A summary of its most recent business plan, if available.</p> <p class=\"paragraph-e\">  8. A description of its capital structure (including its authorized capital and issued capital) and the rights, privileges, conditions and material characteristics of its securities.</p> <p class=\"paragraph-e\">  9. A description of all the rights, privileges, conditions and material characteristics of the securities being offered.</p> <p class=\"paragraph-e\">  10. A description of how the proceeds from the sale of the securities will be used.</p> <p class=\"paragraph-e\">  11. If the proceeds will be used for investment purposes, a description of the co-operative’s investment policy.</p> <p class=\"paragraph-e\">  12. If the proceeds will be used to make an investment in specific businesses, a description of the nature of the businesses, their management and their capital structure.</p> <p class=\"paragraph-e\">  13. If the offering is being made in connection with a plan of reorganization, a purchase and sale or an amalgamation, a description of the general effect of these proposed changes and when they will be made.</p> <p class=\"paragraph-e\">  14. The details of the method of selling the securities and of any commission payable or discount allowable on the sale.</p> <p class=\"paragraph-e\">  15. A description of the market, if any, on which the securities may be sold.  If there is no market, a description of how the securities will be redeemed.</p> <p class=\"paragraph-e\">  16. A statement of the maximum and minimum amount of the offering and, where applicable, the maximum or minimum amount of any subscription.  A description of what will happen to the proceeds if the minimum amount of the offering is not raised.</p> <p class=\"paragraph-e\">  17. The names of each transfer agent and registrar, if any, and the location of each register of transfer.</p> <p class=\"paragraph-e\">  18. The amount and particulars of any securities, mortgages, bonds, debentures or other debt obligations ranking ahead of the securities being issued.</p> <p class=\"paragraph-e\">  19. A description of any material legal proceedings to which the co-operative or its subsidiary is a party.</p> <p class=\"paragraph-e\">  20. A description of any material interest of any director, officer, or employee of the co-operative or its subsidiary in the operations of the co-operative generally or in the securities being issued.</p> <p class=\"paragraph-e\">  21. A description of every material contract entered into within two years before the date of the offering statement.</p> <p class=\"paragraph-e\">  22. A description in conspicuous type of the risk factors of the co-operative and the risks associated with the securities being offered.</p> <p class=\"paragraph-e\">  23. A description, to the extent reasonably practicable, of any substantial variations, both favourable and adverse, in the operating results of the co-operative during the three years before the date of the offering statement or since the co-operative’s date of incorporation, whichever is the shorter period.</p> <p class=\"paragraph-e\">  24. The amount of dividends, patronage returns or other distributions, if any, paid, declared or accumulated but unpaid by the co-operative during the five years before the date of the offering statement, or since the co-operative’s date of incorporation, whichever is the shorter period.</p> <p class=\"paragraph-e\">  25. The name and address of the auditor of the co-operative, if applicable.</p> <p class=\"paragraph-e\">  26. A description of any other material facts.</p> <p class=\"paragraph-e\">  27. A table of contents of the information contained in the offering statement.  O. Reg. 234/95, s. 2 (1).</p> <p class=\"subsection-e\">  (1.1) An English offering statement shall contain a certificate with the following statement in conspicuous type, signed by the chair of the board, the president and the treasurer and indicating when it was signed by each of them:</p> <p class=\"parawindt-e\">The foregoing constitutes full, true and plain disclosure of all material facts relating to the securities offered by this offering statement as required by section 35 of the <i>Co-operative Corporations Act</i>.</p> <p class=\"footnote-e\">O. Reg. 164/19, s. 4 (1).</p> <p class=\"subsection-e\">  (1.2) A French offering statement shall contain a certificate with the following statement in conspicuous type, signed by the chair of the board, the president and the treasurer and indicating when it was signed by each of them:</p> <p class=\"parawindt-e\">Le texte qui figure ci-dessus constitue un exposé intégral, fidèle et simple de tous les faits importants se rapportant aux valeurs mobilières offertes par ce prospectus, comme l’exige l’article 35 de la <i>Loi sur les sociétés coopératives</i>.</p> <p class=\"footnote-e\">O. Reg. 164/19, s. 4 (1).</p> <p class=\"subsection-e\">  (1.3) If there is no market on which the securities may be sold, an English offering statement must include on the face page in conspicuous type the following statement:</p> <p class=\"parawindt-e\">There is no established market through which these securities may be sold.</p> <p class=\"footnote-e\">O. Reg. 164/19, s. 4 (1).</p> <p class=\"subsection-e\">  (1.4) If there is no market on which the securities may be sold, a French offering statement must include on the face page in conspicuous type the following statement:</p> <p class=\"parawindt-e\">Il n’existe aucun marché établi sur lequel ces valeurs mobilières peuvent être vendues.</p> <p class=\"footnote-e\">O. Reg. 164/19, s. 4 (1).</p> <p class=\"subsection-e\">  (1.5) An offering statement must include a document indicating that a person who prepared a report, opinion or statement used in the offering statement consents to its use. O. Reg. 164/19, s. 4 (1).</p> <p class=\"subsection-e\">  (1.6) An English offering statement must include the following statements in conspicuous type on the front cover:</p> <p class=\"paragraph-e\">  1. No official of the Government of the Province of Ontario or a Crown agency has considered the merits of the matters addressed in this offering statement.</p> <p class=\"paragraph-e\">  2. Investors should not rely on any information other than what is contained in this offering statement.</p> <p class=\"paragraph-e\">  3. The information in any projections or pro forma statements contained in this offering statement may vary materially from actual results. O. Reg. 164/19, s. 4 (1); O. Reg. 41/20, s. 1 (1).</p> <p class=\"subsection-e\">  (1.7) A French offering statement must include the following statements in conspicuous type on the front cover:</p> <p class=\"paragraph-e\">  1. Aucun représentant du gouvernement de la province de l’Ontario ou d’un organisme de la Couronne n’a examiné le bien-fondé des questions dont traite le prospectus.</p> <p class=\"paragraph-e\">  2. Les investisseurs ne doivent pas s’appuyer sur des renseignements autres que ceux que comprend le prospectus.</p> <p class=\"paragraph-e\">  3. Les renseignements figurant dans les prévisions ou les états financiers pro forma que comprend le prospectus peuvent être sensiblement différents des résultats réels. O. Reg. 164/19, s. 4 (1); O. Reg. 41/20, s. 1 (2).</p> <p class=\"subsection-e\">  (2) A material change statement shall contain the following information:</p> <p class=\"paragraph-e\">  1. The co-operative’s name.</p> <p class=\"paragraph-e\">  2. Its incorporation number.</p> <p class=\"paragraph-e\">  3. The date on which the receipt for the offering statement was issued.</p> <p class=\"paragraph-e\">  4. The date on which the material change occurred.</p> <p class=\"paragraph-e\">  5. A description of the material change.  O. Reg. 234/95, s. 2 (1).</p> <p class=\"subsection-e\">  (2.1) An English material change statement shall contain a certificate with the following statement in conspicuous type, signed by the chair of the board, the president and the treasurer and indicating when it was signed by each of them:</p> <p class=\"parawindt-e\">The foregoing constitutes full, true and plain disclosure of any material change in the facts set out in the offering statement as required by section 35 of the <i>Co-operative Corporations Act</i>.</p> <p class=\"footnote-e\">O. Reg. 164/19, s. 4 (2).</p> <p class=\"subsection-e\">  (2.2) A French material change statement shall contain a certificate with the following statement in conspicuous type, signed by the chair of the board, the president and the treasurer and indicating when it was signed by each of them:</p> <p class=\"parawindt-e\">Le texte qui figure ci-dessus constitue un exposé intégral, fidèle et simple de toute modification importante des faits énoncés dans le prospectus, comme l’exige l’article 35 de la <i>Loi sur les sociétés coopératives</i>.</p> <p class=\"footnote-e\">O. Reg. 164/19, s. 4 (2).</p> <p class=\"subsection-e\">  (3) There shall be attached to as part of the offering statement,</p> <p class=\"clause-e\">  (a) in the case of a co-operative that has completed a financial year,</p> <p class=\"subclause-e\">  (i) its financial statement in respect of the last completed financial year,</p> <p class=\"subclause-e\">  (ii) where exigible under the Act, the auditor’s report thereon, and</p> <p class=\"subclause-e\">  (iii) where required by the Chief Executive Officer of the Financial Services Regulatory Authority of Ontario, an unaudited financial statement made up as of a date not more than ninety days before the date of the offering statement; or</p> <p class=\"clause-e\">  (b) in the case of a co-operative that has not completed a financial year,</p> <p class=\"subclause-e\">  (i) a financial statement made up as of a date not more than ninety days before the date of the offering statement, and</p> <p class=\"subclause-e\">  (ii) where required by the Chief Executive Officer of the Financial Services Regulatory Authority of Ontario, the auditor’s report thereon.  R.R.O. 1990, Reg. 178, s. 12 (3); O. Reg. 318/98, s. 2 (1, 2); O. Reg. 164/19, s. 4 (3); O. Reg. 41/20, s. 1 (3).</p> <p class=\"subsection-e\">  (4) The Chief Executive Officer of the Financial Services Regulatory Authority of Ontario may in his or her discretion on such terms and conditions as he or she sees fit exempt a co-operative from any of the requirements of subsection (3).  R.R.O. 1990, Reg. 178, s. 12 (4); O. Reg. 318/98, s. 2 (3); O. Reg. 164/19, s. 4 (3); O. Reg. 41/20, s. 1 (3).</p> <p class=\"subsection-e\">  (5) A person who offers a security in the co-operative on a distribution under an offering statement must give a copy of the offering statement and statement of material change, if any, to a prospective purchaser upon request and to a purchaser.  O. Reg. 234/95, s. 2 (2).</p> <p class=\"subsection-e\">  (6) In this section, </p> <p class=\"firstdef-e\">“distribution” means,</p> <p class=\"defclause-e\">  (a) a trade in securities of a co-operative that have not been previously issued,</p> <p class=\"defclause-e\">  (b) a trade by the co-operative in its securities that have been redeemed by the co-operative or purchased by or donated to the co-operative, or</p> <p class=\"defclause-e\">  (c) any transaction or series of transactions involving a purchase and sale or a repurchase and resale in the course of or incidental to a trade described in clause (a) or (b).  O. Reg. 234/95, s. 2 (2).</p>"
+        },
+        {
+            "ahref_id": "#12.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12.1 For the purposes of subsection 35 (6) of the Act, the following changes are not material changes: 1. A change that affects the co-operative’s gross revenue or gross sales by less than $20,000. 2. A change that affects the co-operative’s net income or loss by less than $10,000.  O. Reg. 495/92, s. 1. Prescribed Percentages",
+            "raw_html": "<p class=\"section-e\"> <b>12.1 </b>For the purposes of subsection 35 (6) of the Act, the following changes are not material changes:</p> <p class=\"paragraph-e\">  1. A change that affects the co-operative’s gross revenue or gross sales by less than $20,000.</p> <p class=\"paragraph-e\">  2. A change that affects the co-operative’s net income or loss by less than $10,000.  O. Reg. 495/92, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Prescribed Percentages</p>"
+        },
+        {
+            "ahref_id": "#12.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12.2 (1) For the purpose of subsections 49 (1) and 56 (4), clause 57 (2) (a) and subsections 58 (2) and 171.2 (2) of the Act, the maximum annual percentage shall be 2 per cent above the prime rate established, as of the first day of the month before the month in which the rate of interest is set or the dividend is declared, by a bank listed under Schedule I or II to the Bank Act\r\n(Canada), a trust corporation, caisse populaire or credit union named in the co-operative’s by-laws.  O. Reg. 495/92, s. 1; O. Reg. 773/92, s. 1; O. Reg. 234/95, s. 3. (2) If a co-operative has not named a bank, a trust corporation, a caisse populaire or a credit union in its by-laws, the maximum annual percentage shall be 2 per cent above the prime rate established by the Bank of Canada as of the first day of the month before the month in which the rate of interest is set or the dividend is declared.  O. Reg. 495/92, s. 1; O. Reg. 773/92, s. 1. (3) Despite subsections (1) and (2), if a co-operative has entered into a contractual agreement to pay a specified rate of interest or dividend before or on the day sections 7, 8, 10, 11, 12 and 23 of the Co-operative Corporations Statute Law Amendment Act, 1992 come into force, the rate of interest or dividend paid under the agreement shall be as specified in the agreement.  O. Reg. 495/92, s. 1. Prescribed Maximum Premium",
+            "raw_html": "<p class=\"section-e\"> <b>12.2 </b>(1) For the purpose of subsections 49 (1) and 56 (4), clause 57 (2) (a) and subsections 58 (2) and 171.2 (2) of the Act, the maximum annual percentage shall be 2 per cent above the prime rate established, as of the first day of the month before the month in which the rate of interest is set or the dividend is declared, by a bank listed under Schedule I or II to the <i>Bank Act</i>\r\n(Canada), a trust corporation, caisse populaire or credit union named in the co-operative’s by-laws.  O. Reg. 495/92, s. 1; O. Reg. 773/92, s. 1; O. Reg. 234/95, s. 3.</p> <p class=\"subsection-e\">  (2) If a co-operative has not named a bank, a trust corporation, a caisse populaire or a credit union in its by-laws, the maximum annual percentage shall be 2 per cent above the prime rate established by the Bank of Canada as of the first day of the month before the month in which the rate of interest is set or the dividend is declared.  O. Reg. 495/92, s. 1; O. Reg. 773/92, s. 1.</p> <p class=\"subsection-e\">  (3) Despite subsections (1) and (2), if a co-operative has entered into a contractual agreement to pay a specified rate of interest or dividend before or on the day sections 7, 8, 10, 11, 12 and 23 of the <i>Co-operative Corporations Statute Law Amendment Act, 1992</i> come into force, the rate of interest or dividend paid under the agreement shall be as specified in the agreement.  O. Reg. 495/92, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Prescribed Maximum Premium</p>"
+        },
+        {
+            "ahref_id": "#12.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12.3 For the purpose of subsection 30.1 (3) of the Act, the premium payable on the purchase for cancellation or redemption of a share of a class of preference shares shall not exceed the greater of, (a) the par value of the share multiplied by 10 per cent per annum compounded annually, calculated from the date the first share of the class was issued to the date of purchase for cancellation or redemption of the share; and (b) the par value of the share multiplied by the percentage increase in the Consumer Price Index for Canada (all items), as published by Statistics Canada under the Statistics Act\r\n(Canada), calculated from the month during which the first share of the class was issued to the month during which the share is purchased for cancellation or redeemed.  O. Reg. 234/95, s. 4. Continuous Disclosure",
+            "raw_html": "<p class=\"section-e\"> <b>12.3 </b>For the purpose of subsection 30.1 (3) of the Act, the premium payable on the purchase for cancellation or redemption of a share of a class of preference shares shall not exceed the greater of,</p> <p class=\"clause-e\">  (a) the par value of the share multiplied by 10 per cent per annum compounded annually, calculated from the date the first share of the class was issued to the date of purchase for cancellation or redemption of the share; and</p> <p class=\"clause-e\">  (b) the par value of the share multiplied by the percentage increase in the Consumer Price Index for Canada (all items), as published by Statistics Canada under the <i>Statistics Act</i>\r\n(Canada), calculated from the month during which the first share of the class was issued to the month during which the share is purchased for cancellation or redeemed.  O. Reg. 234/95, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Continuous Disclosure</p>"
+        },
+        {
+            "ahref_id": "#12.4",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12.4 (1) Every co-operative that has issued securities under an offering statement to non-members shall send each of them a material change statement as soon as practicable after being issued a receipt for the statement by the Chief Executive Officer of the Financial Services Regulatory Authority of Ontario. O. Reg. 41/20, s. 2 (2) The material change statement shall contain a copy of the financial statements and the auditor’s report, if any, sent to each member.  O. Reg. 234/95, s. 4. Arbitration by Dissenting Shareholders",
+            "raw_html": "<p class=\"section-e\"> <b>12.4 </b>(1) Every co-operative that has issued securities under an offering statement to non-members shall send each of them a material change statement as soon as practicable after being issued a receipt for the statement by the Chief Executive Officer of the Financial Services Regulatory Authority of Ontario. O. Reg. 41/20, s. 2</p> <p class=\"subsection-e\">  (2) The material change statement shall contain a copy of the financial statements and the auditor’s report, if any, sent to each member.  O. Reg. 234/95, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Arbitration by Dissenting Shareholders</p>"
+        },
+        {
+            "ahref_id": "#12.5",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12.5 (1) If a shareholder dissents as to the price at which a co-operative proposes to purchase for cancellation or redeem shares under subsection 32.1 (1) of the Act, the price shall be determined by arbitration by one person chosen by both the co-operative and the shareholder.  O. Reg. 234/95, s. 4. (2) If the co-operative and shareholder cannot agree on a single arbitrator, the arbitration shall be by a panel of three persons.  O. Reg. 234/95, s. 4. (3) An arbitration panel shall be comprised of one person nominated by the co-operative, one person nominated by the shareholder and one person selected by the two nominees.  O. Reg. 234/95, s. 4. (4) The Arbitration Act, 1991 applies, with necessary modifications, to arbitrations under this section. O. Reg. 234/95, s. 4; O. Reg. 124/18, s. 1. Exemptions from Offering Statements",
+            "raw_html": "<p class=\"section-e\"> <b>12.5 </b>(1) If a shareholder dissents as to the price at which a co-operative proposes to purchase for cancellation or redeem shares under subsection 32.1 (1) of the Act, the price shall be determined by arbitration by one person chosen by both the co-operative and the shareholder.  O. Reg. 234/95, s. 4.</p> <p class=\"subsection-e\">  (2) If the co-operative and shareholder cannot agree on a single arbitrator, the arbitration shall be by a panel of three persons.  O. Reg. 234/95, s. 4.</p> <p class=\"subsection-e\">  (3) An arbitration panel shall be comprised of one person nominated by the co-operative, one person nominated by the shareholder and one person selected by the two nominees.  O. Reg. 234/95, s. 4.</p> <p class=\"subsection-e\">  (4) The <i>Arbitration Act, 1991</i> applies, with necessary modifications, to arbitrations under this section. O. Reg. 234/95, s. 4; O. Reg. 124/18, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Exemptions from Offering Statements</p>"
+        },
+        {
+            "ahref_id": "#12.6",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12.6 Subsection 34 (1) of the Act does not apply to the following shares and debt obligations of a co-operative: 1. Shares issued to members if the value of such an issue does not exceed $1,000 per member in a year and does not exceed an aggregate value of $10,000 per member. 2. Debt obligations issued to members if the value of such an issue does not exceed $1,000 per member in a year and does not exceed an aggregate value of $10,000 per member. 3. Shares issued under subsection 56 (1) of the Act. 4. Debt obligations issued under subsection 56 (4) of the Act. 5. Stock dividends issued under section 59 of the Act. 6. Securities issued by the co-operative to its members, if the offering does not result in the co-operative having more than $200,000 of issued and outstanding securities. 7. Securities issued by the co-operative to Her Majesty in right of Canada or a province or territory of Canada. 8. Securities issued by the co-operative to a municipal corporation, public board or commission in Canada. 9. Securities issued by the co-operative to a bank listed in Schedule I or II to the Bank Act (Canada) or to the Business Development Bank of Canada. 10. Securities issued by the co-operative to a loan or trust corporation registered under the Loan and Trust Corporations Act. 11. Securities issued by the co-operative to a credit union or central to which the Credit Unions and Caisses Populaires Act, 2020 applies. 12. Securities issued by the co-operative to an insurance company licensed under the Insurance Act. 13. Securities issued by the co-operative to a subsidiary of a corporation described in paragraph 9, 10, 11 or 12 if the corporation owns all of the voting shares of the subsidiary. 14. Securities issued by the co-operative to a dealer registered under the Securities Act as a broker, investment dealer or securities dealer.  O. Reg. 234/95, s. 4; O. Reg. 318/98, s. 4; O. Reg. 130/22, s. 1. Definition of “Fair Market Value”",
+            "raw_html": "<p class=\"section-e\"> <b>12.6 </b>Subsection 34 (1) of the Act does not apply to the following shares and debt obligations of a co-operative:</p> <p class=\"paragraph-e\">  1. Shares issued to members if the value of such an issue does not exceed $1,000 per member in a year and does not exceed an aggregate value of $10,000 per member.</p> <p class=\"paragraph-e\">  2. Debt obligations issued to members if the value of such an issue does not exceed $1,000 per member in a year and does not exceed an aggregate value of $10,000 per member.</p> <p class=\"paragraph-e\">  3. Shares issued under subsection 56 (1) of the Act.</p> <p class=\"paragraph-e\">  4. Debt obligations issued under subsection 56 (4) of the Act.</p> <p class=\"paragraph-e\">  5. Stock dividends issued under section 59 of the Act.</p> <p class=\"paragraph-e\">  6. Securities issued by the co-operative to its members, if the offering does not result in the co-operative having more than $200,000 of issued and outstanding securities.</p> <p class=\"paragraph-e\">  7. Securities issued by the co-operative to Her Majesty in right of Canada or a province or territory of Canada.</p> <p class=\"paragraph-e\">  8. Securities issued by the co-operative to a municipal corporation, public board or commission in Canada.</p> <p class=\"paragraph-e\">  9. Securities issued by the co-operative to a bank listed in Schedule I or II to the <i>Bank Act</i> (Canada) or to the Business Development Bank of Canada.</p> <p class=\"paragraph-e\">  10. Securities issued by the co-operative to a loan or trust corporation registered under the <i>Loan and Trust Corporations Act</i>.</p> <p class=\"paragraph-e\">  11. Securities issued by the co-operative to a credit union or central to which the <i>Credit Unions and Caisses Populaires Act, 2020</i> applies.</p> <p class=\"paragraph-e\">  12. Securities issued by the co-operative to an insurance company licensed under the <i>Insurance Act</i>.</p> <p class=\"paragraph-e\">  13. Securities issued by the co-operative to a subsidiary of a corporation described in paragraph 9, 10, 11 or 12 if the corporation owns all of the voting shares of the subsidiary.</p> <p class=\"paragraph-e\">  14. Securities issued by the co-operative to a dealer registered under the <i>Securities Act</i> as a broker, investment dealer or securities dealer.  O. Reg. 234/95, s. 4; O. Reg. 318/98, s. 4; O. Reg. 130/22, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Definition of “Fair Market Value”</p>"
+        },
+        {
+            "ahref_id": "#12.7",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12.7 For the purpose of subsection 56 (5) of the Act, “fair market value”, of the shares, means the greater of, (a) the par value of the shares, and (b) the price that a buyer would pay to a seller, both acting prudently, knowledgeably and willingly, in an arm’s length transaction in an open market under conditions requisite to a fair sale.  O. Reg. 234/95, s. 4. Definition of “Fair Value”",
+            "raw_html": "<p class=\"section-e\"> <b>12.7 </b>For the purpose of subsection 56 (5) of the Act,</p> <p class=\"firstdef-e\">“fair market value”, of the shares, means the greater of,</p> <p class=\"defclause-e\">  (a) the par value of the shares, and</p> <p class=\"defclause-e\">  (b) the price that a buyer would pay to a seller, both acting prudently, knowledgeably and willingly, in an arm’s length transaction in an open market under conditions requisite to a fair sale.  O. Reg. 234/95, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Definition of “Fair Value”</p>"
+        },
+        {
+            "ahref_id": "#12.8",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12.8 For the purpose of subsection 69 (3) of the Act,  “fair value” means the price that a buyer would pay to a seller, both acting prudently, knowledgeably and willingly, in an arm’s length transaction in an open market under conditions requisite to a fair sale.  O. Reg. 234/95, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>12.8 </b>For the purpose of subsection 69 (3) of the Act, </p> <p class=\"firstdef-e\">“fair value” means the price that a buyer would pay to a seller, both acting prudently, knowledgeably and willingly, in an arm’s length transaction in an open market under conditions requisite to a fair sale.  O. Reg. 234/95, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#12.9",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12.9 For the purposes of clauses 64 (3) (a), 64 (5) (a) and subsection 66 (6) of the Act,  “prescribed shares” means preference shares that provide that the co-operative is not obliged to redeem the shares.  O. Reg. 234/95, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>12.9 </b>For the purposes of clauses 64 (3) (a), 64 (5) (a) and subsection 66 (6) of the Act, </p> <p class=\"firstdef-e\">“prescribed shares” means preference shares that provide that the co-operative is not obliged to redeem the shares.  O. Reg. 234/95, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. Revoked:  O. Reg. 318/98, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b><span>Revoked</span>:  O. Reg. 318/98, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#13.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.1 Revoked: O. Reg. 41/20, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>13.1 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 41/20, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. Revoked:  O. Reg. 318/98, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b><span>Revoked</span>:  O. Reg. 318/98, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. Revoked:  O. Reg. 318/98, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b><span>Revoked</span>:  O. Reg. 318/98, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  16. Revoked:  O. Reg. 318/98, s. 5. Articles of Dissolution",
+            "raw_html": "<p class=\"section-e\"><b>  16. </b>Revoked:  O. Reg. 318/98, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK13\"></a>Articles of Dissolution</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. Articles of dissolution under subsection 164 (1) of the Act must be accompanied by a consent of the Account Management and Collections Branch of the Ministry of Finance to the dissolution of the co-operative.  O. Reg. 318/98, s. 6; O. Reg. 41/20, s. 4. Revival",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b>Articles of dissolution under subsection 164 (1) of the Act must be accompanied by a consent of the Account Management and Collections Branch of the Ministry of Finance to the dissolution of the co-operative.  O. Reg. 318/98, s. 6; O. Reg. 41/20, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Revival</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. An application for an order of revival under subsection 167 (3) of the Act must be accompanied by, (a) a consent of the Account Management and Collections Branch of the Ministry of Finance to the revival of the co-operative; and (b) a written statement from the Public Guardian and Trustee that he or she does not object to the revival of the co-operative.  O. Reg. 318/98, s. 6; O. Reg. 41/20, s. 4. Evidence of Solvency",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>An application for an order of revival under subsection 167 (3) of the Act must be accompanied by,</p> <p class=\"clause-e\">  (a) a consent of the Account Management and Collections Branch of the Ministry of Finance to the revival of the co-operative; and</p> <p class=\"clause-e\">  (b) a written statement from the Public Guardian and Trustee that he or she does not object to the revival of the co-operative.  O. Reg. 318/98, s. 6; O. Reg. 41/20, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Evidence of Solvency</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. For the purposes of subsection 153 (2) and subsection 157 (2) of the Act, evidence that the co-operative is not insolvent shall consist of, (a) affidavits of two officers or of one officer and one director stating that in their opinion the co-operative is not insolvent within the meaning of subsection 1 (5) of the Act; and (b) such other evidence as the Minister may require.  R.R.O. 1990, Reg. 178, s. 19.",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>For the purposes of subsection 153 (2) and subsection 157 (2) of the Act, evidence that the co-operative is not insolvent shall consist of,</p> <p class=\"clause-e\">  (a) affidavits of two officers or of one officer and one director stating that in their opinion the co-operative is not insolvent within the meaning of subsection 1 (5) of the Act; and</p> <p class=\"clause-e\">  (b) such other evidence as the Minister may require.  R.R.O. 1990, Reg. 178, s. 19.</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. For the purposes of subsection 153 (3) of the Act, evidence that the co-operative is not insolvent and that the decrease of the authorized or issued capital will not render the co-operative insolvent shall consist of, (a) affidavits of two officers or of one officer and one director stating that in their opinion the co-operative is not insolvent and that the decrease of the authorized or issued capital will not render the co-operative insolvent within the meaning of subsection 1 (5) of the Act; and (b) such other evidence as the Minister may require.  R.R.O. 1990, Reg. 178, s. 20.",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>For the purposes of subsection 153 (3) of the Act, evidence that the co-operative is not insolvent and that the decrease of the authorized or issued capital will not render the co-operative insolvent shall consist of,</p> <p class=\"clause-e\">  (a) affidavits of two officers or of one officer and one director stating that in their opinion the co-operative is not insolvent and that the decrease of the authorized or issued capital will not render the co-operative insolvent within the meaning of subsection 1 (5) of the Act; and</p> <p class=\"clause-e\">  (b) such other evidence as the Minister may require.  R.R.O. 1990, Reg. 178, s. 20.</p>"
+        },
+        {
+            "ahref_id": "#20.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20.1 Revoked:  O. Reg. 318/98, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>20.1 </b><span>Revoked</span>:  O. Reg. 318/98, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#21., 22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21., 22. Revoked: O. Reg. 192/23, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>21., 22. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 192/23, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23. Revoked:  O. Reg. 318/98, s. 7. Miscellaneous",
+            "raw_html": "<p class=\"section-e\"> <b>23. </b><span>Revoked</span>:  O. Reg. 318/98, s. 7.</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Miscellaneous</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 24. (1) For the purposes of clause (c) of the definition of “certified copy” in subsection 1 (1) of the Act, every director and manager of the Ministry is designated to the extent their duties relate to the administration of the provision of the Act under which the certified copy is provided. O. Reg. 164/19, s. 6. (2) For the purposes of subsection 182 (1) of the Act, every director and manager of the Ministry is designated to the extent their duties relate to the administration of the provision of the Act under which the certificate is provided. O. Reg. 164/19, s. 6. Schedule Revoked:  O. Reg. 318/98, s. 9. Forms 1-3 Revoked:  O. Reg. 318/98, s. 10. Forms 4, 5 Revoked:  O. Reg. 234/95, s. 7. Forms 6-16 Revoked:  O. Reg. 318/98, s. 10.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>24. </b>(1) For the purposes of clause (c) of the definition of “certified copy” in subsection 1 (1) of the Act, every director and manager of the Ministry is designated to the extent their duties relate to the administration of the provision of the Act under which the certified copy is provided. O. Reg. 164/19, s. 6.</p> <p class=\"subsection-e\">  (2) For the purposes of subsection 182 (1) of the Act, every director and manager of the Ministry is designated to the extent their duties relate to the administration of the provision of the Act under which the certificate is provided. O. Reg. 164/19, s. 6.</p> <p class=\"scheduleRevoked-e\"><span class=\"ovallcaps\">Schedule </span><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 318/98, s. 9.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Forms</span> 1-3 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 318/98, s. 10.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Forms</span> 4, 5 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 234/95, s. 7.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Forms</span> 6-16 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 318/98, s. 10.</p> <p class=\"formRevoked-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/900178\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

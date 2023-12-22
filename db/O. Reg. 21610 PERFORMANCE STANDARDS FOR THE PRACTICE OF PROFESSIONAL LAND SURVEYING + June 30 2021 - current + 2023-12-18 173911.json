@@ -1,0 +1,594 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 216/10: PERFORMANCE STANDARDS FOR THE PRACTICE OF PROFESSIONAL LAND SURVEYING",
+        "reg_name_text": "Performance Standards for the Practice of Professional Land Surveying",
+        "citation": "O. Reg. 216/10: PERFORMANCE STANDARDS FOR THE PRACTICE OF PROFESSIONAL LAND SURVEYING",
+        "act_under": "Surveyors Act",
+        "url": "https://www.ontario.ca/laws/regulation/100216",
+        "date_scraped": "2023-12-18 17:39:15"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "June 30, 2021",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/100216/v1",
+            "valid_from": "June  7, 2010",
+            "valid_to": "June 29, 2021"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I  ",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section": "PART I GENERAL",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section": "Definitions",
+            "content": " 1. In this Regulation, “cadastral survey” means a survey performed by a licensed member while engaged in the practice of cadastral surveying; (“levé cadastral”) “coordinates” means an ordered set of numbers designating the position of a point in space; (“coordonnées”) “coordinate system” means a spatial reference system in which coordinates are related to the earth by a known reference datum; (“système de coordonnées”) “deliverable” means a component item of a project delivered to a client, including a field survey and monumentation, plan, map, drawing, data file, opinion report or any other form of transmittal; (“élément livrable”) “geodetic surveying” means the creation or measurement of geodetic control networks in a three dimensional time varying space; (“arpentage géodésique”) “geographic information management” means the group of activities relating to the planning, development, implementation and administration of systems for the acquisition, integration, evaluation, storage, security, retrieval, dissemination, archiving and disposal of data and associated attributes that are spatially referenced; (“gestion de l’information géographique”) “hydrographic surveying” means the process of gathering bathymetric information about water bodies; (“arpentage hydrographique”) “licensed member” means a member of the Association licensed to engage in the practice of cadastral surveying; (“membre détenteur d’un permis”) “lot” means a lot or any other area defined and designated by an original survey or by a registered plan; (“lot”) “monument” includes any monument described in Ontario Regulation 525/91 (Monuments) made under the Act and any other thing, device or object used to mark or witness a boundary of surveyed lands or to mark a specified control point or observed reference point; (“borne”) “observed reference point” means a monument connected to a coordinate system by measurements; (“point de référence observé”) “original survey” has the same meaning as in section 1 of the Surveys Act; (“levé primitif”) “photogrammetric surveying” means the form of surveying that employs aerial photography, terrestrial photography, light detection and ranging, satellite imagery or other technologies that can be utilized for remote measurements and calculations; (“arpentage photogrammétrique”) “professional member” means a member of the Association who is a licensed member or holds a certificate of registration; (“membre professionnel”) “project” means a planned activity or work conducted over a period of time for a client by which a professional member advises or gives an opinion as to, (a) the establishment or determination of boundaries delineating any right or interest in land or land covered with water, or (b) the determination or analysis of spatial attributes of natural and artificial features on, above or below the surface of the earth, whether or not the surface of the earth is situated below water; (“projet”) “property identifier” means a property identifier assigned under subsection 21 (2) or (4) of the Registry Act or under subsection 141 (2) or (4) of the Land Titles Act; (“cote foncière”) “specified control point” means a monument with coordinate values that are of record with and are stored and made available by a control survey authority, such as a federal or provincial agency, or by a municipality; (“point de canevas précisé”) “subdivision unit” means, (a) a lot shown on the original plan of an original survey and includes a section, block, gore, reserve, common, mining location or mining claim, or (b) a lot, block, part or other unit of land shown on a plan registered or deposited under the Registry Act or the Land Titles Act. (“unité de lotissement”)  O. Reg. 216/10, s. 1; O. Reg. 507/21, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK1\"></a><b>1. </b>In this Regulation,</p> <p class=\"firstdef-e\">“cadastral survey” means a survey performed by a licensed member while engaged in the practice of cadastral surveying; (“levé cadastral”)</p> <p class=\"definition-e\">“coordinates” means an ordered set of numbers designating the position of a point in space; (“coordonnées”)</p> <p class=\"definition-e\">“coordinate system” means a spatial reference system in which coordinates are related to the earth by a known reference datum; (“système de coordonnées”)</p> <p class=\"definition-e\">“deliverable” means a component item of a project delivered to a client, including a field survey and monumentation, plan, map, drawing, data file, opinion report or any other form of transmittal; (“élément livrable”)</p> <p class=\"definition-e\">“geodetic surveying” means the creation or measurement of geodetic control networks in a three dimensional time varying space; (“arpentage géodésique”)</p> <p class=\"definition-e\">“geographic information management” means the group of activities relating to the planning, development, implementation and administration of systems for the acquisition, integration, evaluation, storage, security, retrieval, dissemination, archiving and disposal of data and associated attributes that are spatially referenced; (“gestion de l’information géographique”)</p> <p class=\"definition-e\">“hydrographic surveying” means the process of gathering bathymetric information about water bodies; (“arpentage hydrographique”)</p> <p class=\"definition-e\">“licensed member” means a member of the Association licensed to engage in the practice of cadastral surveying; (“membre détenteur d’un permis”)</p> <p class=\"definition-e\">“lot” means a lot or any other area defined and designated by an original survey or by a registered plan; (“lot”)</p> <p class=\"definition-e\">“monument” includes any monument described in Ontario Regulation 525/91 (Monuments) made under the Act and any other thing, device or object used to mark or witness a boundary of surveyed lands or to mark a specified control point or observed reference point; (“borne”)</p> <p class=\"definition-e\">“observed reference point” means a monument connected to a coordinate system by measurements; (“point de référence observé”)</p> <p class=\"definition-e\">“original survey” has the same meaning as in section 1 of the <i>Surveys Act</i>; (“levé primitif”)</p> <p class=\"definition-e\">“photogrammetric surveying” means the form of surveying that employs aerial photography, terrestrial photography, light detection and ranging, satellite imagery or other technologies that can be utilized for remote measurements and calculations; (“arpentage photogrammétrique”)</p> <p class=\"definition-e\">“professional member” means a member of the Association who is a licensed member or holds a certificate of registration; (“membre professionnel”)</p> <p class=\"definition-e\">“project” means a planned activity or work conducted over a period of time for a client by which a professional member advises or gives an opinion as to,</p> <p class=\"defclause-e\">  (a) the establishment or determination of boundaries delineating any right or interest in land or land covered with water, or</p> <p class=\"defclause-e\">  (b) the determination or analysis of spatial attributes of natural and artificial features on, above or below the surface of the earth, whether or not the surface of the earth is situated below water; (“projet”)</p> <p class=\"definition-e\">“property identifier” means a property identifier assigned under subsection 21 (2) or (4) of the <i>Registry Act</i> or under subsection 141 (2) or (4) of the <i>Land Titles Act</i>; (“cote foncière”)</p> <p class=\"definition-e\">“specified control point” means a monument with coordinate values that are of record with and are stored and made available by a control survey authority, such as a federal or provincial agency, or by a municipality; (“point de canevas précisé”)</p> <p class=\"definition-e\">“subdivision unit” means,</p> <p class=\"defclause-e\">  (a) a lot shown on the original plan of an original survey and includes a section, block, gore, reserve, common, mining location or mining claim, or</p> <p class=\"defclause-e\">  (b) a lot, block, part or other unit of land shown on a plan registered or deposited under the <i>Registry Act</i> or the <i>Land Titles Act</i>. (“unité de lotissement”)  O. Reg. 216/10, s. 1; O. Reg. 507/21, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "2.",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section": "Standards for projects",
+            "content": " 2. When undertaking a project, a professional member shall ensure that the project deliverables meet all project requirements and specifications and that they comply with this Regulation. O. Reg. 507/21, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK2\"></a><b>2. </b>When undertaking a project, a professional member shall ensure that the project deliverables meet all project requirements and specifications and that they comply with this Regulation. O. Reg. 507/21, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "3.",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section": "Review with client",
+            "content": " 3. A professional member who undertakes a project for a client shall review the proposed project deliverables with the client to describe how the project shall be undertaken so that it complies with all applicable Acts, regulations under them and practice standards. O. Reg. 507/21, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK3\"></a>3. </b>A professional member who undertakes a project for a client shall review the proposed project deliverables with the client to describe how the project shall be undertaken so that it complies with all applicable Acts, regulations under them and practice standards. O. Reg. 507/21, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "4.",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section": "Report after completion",
+            "content": " 4. (1) Upon completing a project, a professional member shall provide a project report to the client.  O. Reg. 216/10, s. 4 (1). (2) The report shall include, if applicable, (a) the objectives, scope, area and date of the project; (b) the data sources and dates of acquisition for the project; (c) the names and versions of pertinent software for the project; (d) deviations from the initial project scope; (e) a declaration of compliance with all applicable Acts, regulations under them and practice standards; (f) statements of ownership and authorship of all deliverables for the project, including computer software developed within the scope of the project; (g) an explanation of the limitations of data received, manipulated and delivered under the project; (h) a description of field procedures for the project; (i) a statement describing the project, map projection, zone, datum, and if applicable,  adjustment epoch; and (j) documentation of all project milestones and quality assurance activities.  O. Reg. 216/10, s. 4 (2). (3) Except if an Act or a regulation under an Act requires otherwise, if the professional member is a licensed member performing a cadastral survey, the declaration of compliance mentioned in clause (2) (e) shall be signed and dated by the licensed member and shall be in Form 1.  O. Reg. 216/10, s. 4 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK4\"></a><b>4. </b>(1) Upon completing a project, a professional member shall provide a project report to the client.  O. Reg. 216/10, s. 4 (1).</p> <p class=\"subsection-e\">  (2) The report shall include, if applicable,</p> <p class=\"clause-e\">  (a) the objectives, scope, area and date of the project;</p> <p class=\"clause-e\">  (b) the data sources and dates of acquisition for the project;</p> <p class=\"clause-e\">  (c) the names and versions of pertinent software for the project;</p> <p class=\"clause-e\">  (d) deviations from the initial project scope;</p> <p class=\"clause-e\">  (e) a declaration of compliance with all applicable Acts, regulations under them and practice standards;</p> <p class=\"clause-e\">  (f) statements of ownership and authorship of all deliverables for the project, including computer software developed within the scope of the project;</p> <p class=\"clause-e\">  (g) an explanation of the limitations of data received, manipulated and delivered under the project;</p> <p class=\"clause-e\">  (h) a description of field procedures for the project;</p> <p class=\"clause-e\">  (i) a statement describing the project, map projection, zone, datum, and if applicable,  adjustment epoch; and</p> <p class=\"clause-e\">  (j) documentation of all project milestones and quality assurance activities.  O. Reg. 216/10, s. 4 (2).</p> <p class=\"subsection-e\">  (3) Except if an Act or a regulation under an Act requires otherwise, if the professional member is a licensed member performing a cadastral survey, the declaration of compliance mentioned in clause (2) (e) shall be signed and dated by the licensed member and shall be in Form 1.  O. Reg. 216/10, s. 4 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "5.",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section": "Quality assurance",
+            "content": " 5. In designing and implementing a project, a professional member shall perform adequate project quality assurance to verify that the project deliverables meet all requirements and specifications, to ensure, (a) known inconsistencies and uncertainties within the data are minimized; (b) data integrity, correctness and completeness; (c) errors and omissions have been identified and addressed; and (d) reported data and conclusions are valid.  O. Reg. 216/10, s. 5; O. Reg. 507/21, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK5\"></a><b>5. </b>In designing and implementing a project, a professional member shall perform adequate project quality assurance to verify that the project deliverables meet all requirements and specifications, to ensure,</p> <p class=\"clause-e\">  (a) known inconsistencies and uncertainties within the data are minimized;</p> <p class=\"clause-e\">  (b) data integrity, correctness and completeness;</p> <p class=\"clause-e\">  (c) errors and omissions have been identified and addressed; and</p> <p class=\"clause-e\">  (d) reported data and conclusions are valid.  O. Reg. 216/10, s. 5; O. Reg. 507/21, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "6.",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section": "Records",
+            "content": " 6. (1) A professional member shall retain properly indexed records of all professional services provided to the public, including projects, and of all pertinent information necessary to reconstruct the details of the projects.  O. Reg. 216/10, s. 6 (1). (2) The professional member shall retain and maintain the records in a secure manner and in accordance with, (a) the Surveys Act for records prepared for cadastral surveys; and (b) the Limitations Act, 2002 for all other records.  O. Reg. 216/10, s. 6 (2). (3) In the records, the professional member shall provide sufficient evidence that the work conducted for a project meets the specified requirements and end results.  O. Reg. 216/10, s. 6 (3). PART II   CADASTRAL SURVEYING Application of Part",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK6\"></a><b>6. </b>(1) A professional member shall retain properly indexed records of all professional services provided to the public, including projects, and of all pertinent information necessary to reconstruct the details of the projects.  O. Reg. 216/10, s. 6 (1).</p> <p class=\"subsection-e\">  (2) The professional member shall retain and maintain the records in a secure manner and in accordance with,</p> <p class=\"clause-e\">  (a) the <i>Surveys Act </i>for records prepared for cadastral surveys; and</p> <p class=\"clause-e\">  (b) the <i>Limitations Act, 2002</i> for all other records.  O. Reg. 216/10, s. 6 (2).</p> <p class=\"subsection-e\">  (3) In the records, the professional member shall provide sufficient evidence that the work conducted for a project meets the specified requirements and end results.  O. Reg. 216/10, s. 6 (3).</p> <p class=\"partnum-e\"><a name=\"BK7\"></a>PART II <br/>  CADASTRAL SURVEYING</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Application of Part</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "PART II  ",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section": "PART II CADASTRAL SURVEYING",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "Application of Part",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Application of Part",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "7.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Application of Part",
+            "content": " 7. In addition to Part I, this Part applies to surveys performed by a licensed member while engaged in the practice of cadastral surveying.  O. Reg. 216/10, s. 7. Field Survey Standards",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK9\"></a><b>7. </b>In addition to Part I, this Part applies to surveys performed by a licensed member while engaged in the practice of cadastral surveying.  O. Reg. 216/10, s. 7.</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Field Survey Standards</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "Field Survey Standards",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Field Survey Standards",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "8.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Evidence used",
+            "content": " 8. When undertaking a survey, a licensed member shall, (a) refer to the documentary evidence related to the land under survey and the land adjoining the land under survey; (b) carry out a thorough field investigation for the best available evidence of all lines, boundaries, and corners of the land under survey; and (c) give priority to the evidence in accordance with common law and statute law.  O. Reg. 216/10, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK11\"></a><b>8. </b>When undertaking a survey, a licensed member shall,</p> <p class=\"clause-e\">  (a) refer to the documentary evidence related to the land under survey and the land adjoining the land under survey;</p> <p class=\"clause-e\">  (b) carry out a thorough field investigation for the best available evidence of all lines, boundaries, and corners of the land under survey; and</p> <p class=\"clause-e\">  (c) give priority to the evidence in accordance with common law and statute law.  O. Reg. 216/10, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "9.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Error of closure of field data",
+            "content": " 9. The error of closure of field data on a survey, in respect of the perimeter of each parcel of land or closed traverse, shall not exceed, (a) for the first 30 metres of perimeter, an error of 30 millimetres; (b) for the next 300 metres in excess of 30 metres of perimeter, an error of 6 millimetres per 30 metres; (c) for the next 240 metres in excess of 330 metres of perimeter, an error of 3 millimetres per 30 metres; and (d) for a total perimeter of more than 570 metres, an error of one part in 5,000.  O. Reg. 216/10, s. 9.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK12\"></a><b>9. </b>The error of closure of field data on a survey, in respect of the perimeter of each parcel of land or closed traverse, shall not exceed,</p> <p class=\"clause-e\">  (a) for the first 30 metres of perimeter, an error of 30 millimetres;</p> <p class=\"clause-e\">  (b) for the next 300 metres in excess of 30 metres of perimeter, an error of 6 millimetres per 30 metres;</p> <p class=\"clause-e\">  (c) for the next 240 metres in excess of 330 metres of perimeter, an error of 3 millimetres per 30 metres; and</p> <p class=\"clause-e\">  (d) for a total perimeter of more than 570 metres, an error of one part in 5,000.  O. Reg. 216/10, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "10.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Bearings",
+            "content": " 10. Bearings on a survey shall be, (a) determined from astronomic, gyroscopic or Global Navigation Satellite System observations; (b) derived from a line of known bearing if survey evidence of the line exists on the ground and the position of the line is described on the plan being prepared; or (c) derived from monuments in a coordinate system.  O. Reg. 216/10, s. 10.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK13\"></a><b>10. </b>Bearings on a survey shall be,</p> <p class=\"clause-e\">  (a) determined from astronomic, gyroscopic or Global Navigation Satellite System observations;</p> <p class=\"clause-e\">  (b) derived from a line of known bearing if survey evidence of the line exists on the ground and the position of the line is described on the plan being prepared; or</p> <p class=\"clause-e\">  (c) derived from monuments in a coordinate system.  O. Reg. 216/10, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "11.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Topographic information",
+            "content": " 11. The position of topographic information required under section 24 on a survey shall be determined by measurements at the intervals that the complexity of the topographic information demands and to the extent that will enable relocation of the topographic information.  O. Reg. 216/10, s. 11.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK14\"></a><b>11. </b>The position of topographic information required under section 24 on a survey shall be determined by measurements at the intervals that the complexity of the topographic information demands and to the extent that will enable relocation of the topographic information.  O. Reg. 216/10, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "12.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Measurements",
+            "content": " 12. All survey measurements shall be verified by mathematical closure or independent measurement.  O. Reg. 216/10, s. 12.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK15\"></a><b>12. </b>All survey measurements shall be verified by mathematical closure or independent measurement.  O. Reg. 216/10, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "13.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Bench mark",
+            "content": " 13. If a survey is made for the purpose of defining, locating or describing a line, boundary or corner of a unit of land in relation to the regulated level of a body of water or defining a boundary in reference to an elevation and if no permanent bench mark exists within 300 metres of the site of the survey, a permanent bench mark, defined by a monument listed in clause 2 (1) (a), (b), (d), (e), (f) or (h) of Ontario Regulation 525/91 (Monuments) made under the Act or other durable and stable object, shall be established at or near the site.  O. Reg. 216/10, s. 13. ",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK16\"></a><b>13. </b>If a survey is made for the purpose of defining, locating or describing a line, boundary or corner of a unit of land in relation to the regulated level of a body of water or defining a boundary in reference to an elevation and if no permanent bench mark exists within 300 metres of the site of the survey, a permanent bench mark, defined by a monument listed in clause 2 (1) (a), (b), (d), (e), (f) or (h) of Ontario Regulation 525/91 (Monuments) made under the Act or other durable and stable object, shall be established at or near the site.  O. Reg. 216/10, s. 13. </p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "14.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Integration",
+            "content": " 14. (1) When undertaking a survey for a plan to be registered or deposited in the registry system or land titles system, a licensed member shall integrate the survey with a coordinate system in accordance with sections 31 to 35 and determine the coordinates of every angle or corner on a line or boundary and all topographic information required under section 24.  O. Reg. 216/10, s. 14 (1). (2) The coordinates required under subsection (1) shall be accurate, at the 95 per cent confidence level, to, (a) 0.05 metres in urban areas; (b) 0.2 metres in rural areas; or (c) one metre in remote areas.  O. Reg. 216/10, s. 14 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK17\"></a><b>14. </b>(1) When undertaking a survey for a plan to be registered or deposited in the registry system or land titles system, a licensed member shall integrate the survey with a coordinate system in accordance with sections 31 to 35 and determine the coordinates of every angle or corner on a line or boundary and all topographic information required under section 24.  O. Reg. 216/10, s. 14 (1).</p> <p class=\"subsection-e\">  (2) The coordinates required under subsection (1) shall be accurate, at the 95 per cent confidence level, to,</p> <p class=\"clause-e\">  (a) 0.05 metres in urban areas;</p> <p class=\"clause-e\">  (b) 0.2 metres in rural areas; or</p> <p class=\"clause-e\">  (c) one metre in remote areas.  O. Reg. 216/10, s. 14 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "15.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Field notes",
+            "content": " 15. For each survey, field notes shall be prepared in the field and shall contain a clear, accurate and detailed account of everything found, observed and done in the field in the course of and relevant to the survey.  O. Reg. 216/10, s. 15; O. Reg. 507/21, s. 4. Plans",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK18\"></a><b>15. </b>For each survey, field notes shall be prepared in the field and shall contain a clear, accurate and detailed account of everything found, observed and done in the field in the course of and relevant to the survey.  O. Reg. 216/10, s. 15; O. Reg. 507/21, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK19\"></a>Plans</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "Plans",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Plans",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "16.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Use of word “survey”",
+            "content": " 16. The word “survey” and its equivalent in any other language shall not be used in the title of any plan unless the plan has been prepared from a survey of land made for the purpose of establishing, locating, defining or describing any line, boundary, or corner of a parcel of land, or land covered with water.  O. Reg. 216/10, s. 16.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK20\"></a><b>16. </b>The word “survey” and its equivalent in any other language shall not be used in the title of any plan unless the plan has been prepared from a survey of land made for the purpose of establishing, locating, defining or describing any line, boundary, or corner of a parcel of land, or land covered with water.  O. Reg. 216/10, s. 16.</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "17.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Plan requirements for hard copy registration or deposit",
+            "content": " 17. (1) A plan to be registered or deposited in the registry system or the land titles system in hard copy format shall, (a) be drawn on translucent linen or translucent plastic material that is of durable quality and will not crack or break; (b) be rectangular; (c) be drawn and signed in black adhesion type ink; (d) be drawn to a scale or scales sufficient for clarity of all particulars on the plan; (e) be prepared to a drafting standard that will permit legible and accurate copies to be made from it; and (f) not be coloured. O. Reg. 507/21, s. 5. (2) The only handwriting to appear on a plan shall be the original signatures of persons required to sign the plan and the dates of the signatures.  O. Reg. 216/10, s. 17 (2). (3) Despite clauses (1) (a) and (c), a plan may be in whole or in part a photographic reproduction on plastic material that is of durable quality and will not crack or break, but all additions to the photographic reproduction shall be in black adhesion type ink and signatures shall not be reproductions.  O. Reg. 216/10, s. 17 (3). (4) Despite clause (1) (c), the title, legend and margin and any applicable certificates and forms prescribed by the regulations under which the plan is prepared may be pre-printed on a plan in a manner that is permanent and permits legible and accurate copies of the plan to be made.  O. Reg. 216/10, s. 17 (4).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK21\"></a><b>17. </b>(1) A plan to be registered or deposited in the registry system or the land titles system in hard copy format shall,</p> <p class=\"clause-e\">  (a) be drawn on translucent linen or translucent plastic material that is of durable quality and will not crack or break;</p> <p class=\"clause-e\">  (b) be rectangular;</p> <p class=\"clause-e\">  (c) be drawn and signed in black adhesion type ink;</p> <p class=\"clause-e\">  (d) be drawn to a scale or scales sufficient for clarity of all particulars on the plan;</p> <p class=\"clause-e\">  (e) be prepared to a drafting standard that will permit legible and accurate copies to be made from it; and</p> <p class=\"clause-e\">  (f) not be coloured. O. Reg. 507/21, s. 5.</p> <p class=\"subsection-e\">  (2) The only handwriting to appear on a plan shall be the original signatures of persons required to sign the plan and the dates of the signatures.  O. Reg. 216/10, s. 17 (2).</p> <p class=\"subsection-e\">  (3) Despite clauses (1) (a) and (c), a plan may be in whole or in part a photographic reproduction on plastic material that is of durable quality and will not crack or break, but all additions to the photographic reproduction shall be in black adhesion type ink and signatures shall not be reproductions.  O. Reg. 216/10, s. 17 (3).</p> <p class=\"subsection-e\">  (4) Despite clause (1) (c), the title, legend and margin and any applicable certificates and forms prescribed by the regulations under which the plan is prepared may be pre-printed on a plan in a manner that is permanent and permits legible and accurate copies of the plan to be made.  O. Reg. 216/10, s. 17 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "17.1",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Plan requirements in case of electronic registration or deposit",
+            "content": " 17.1 A plan to be electronically registered or deposited in the registry system or the land titles system shall, (a) comply with the requirements for the electronic registration or deposit of plans of the Registry Act and the Land Titles Act and the regulations made under those Acts; and (b) not be coloured. O. Reg. 507/21, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK22\"></a><b>17.1 </b>A plan to be electronically registered or deposited in the registry system or the land titles system shall,</p> <p class=\"clause-e\">  (a) comply with the requirements for the electronic registration or deposit of plans of the <i>Registry Act</i> and the <i>Land Titles Act</i> and the regulations made under those Acts; and</p> <p class=\"clause-e\">  (b) not be coloured. O. Reg. 507/21, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "17.2",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Plan requirements where no registration or deposit",
+            "content": " 17.2 (1) A plan prepared as a result of a cadastral survey that will not be registered or deposited in the registry system or the land titles system shall, (a) be produced in a hard copy or electronic format that is of durable quality suitable for long-term reproduction and preservation; (b) be rectangular; (c) be drawn and signed physically or electronically; (d) be drawn to a scale or scales sufficient for clarity of all particulars on the plan; (e) be prepared to a drafting standard that will permit legible and accurate copies to be made from it; and (f) if any colour appears on the plan, contain a note on the face of the plan indicating that the original was in colour. O. Reg. 507/21, s. 6. (2) A plan prepared under subsection (1) that is to be delivered electronically shall include the following notation below the scale bar required by clause 18 (1) (h): The intended plot size of this plan is __mm in width by __mm in height when plotted at a scale of 1:__ . O. Reg. 507/21, s. 6. (3) The only handwriting to appear on a plan shall be the original signatures of persons required to sign the plan and the dates of the signatures. O. Reg. 507/21, s. 6. (4) Despite clauses (1) (a) and (c), a plan may be in whole or in part a photographic reproduction on plastic material that is of durable quality and will not crack or break, but all additions to the photographic reproduction shall be in black adhesion type ink and signatures shall not be reproductions. O. Reg. 507/21, s. 6. (5) Despite clause (1) (c), the title, legend and margin and any applicable certificates and forms prescribed by the regulations under which the plan is prepared may be pre-printed on a plan in a manner that is permanent and permits legible and accurate copies of the plan to be made. O. Reg. 507/21, s. 6. (6) In this section, “intended plot size” means the intended overall physical dimensions of a plan, including a 15 mm plan margin, when a plan is printed at the scale at which the plan was drawn. O. Reg. 507/21, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK23\"></a><b>17.2 </b>(1) A plan prepared as a result of a cadastral survey that will not be registered or deposited in the registry system or the land titles system shall,</p> <p class=\"clause-e\">  (a) be produced in a hard copy or electronic format that is of durable quality suitable for long-term reproduction and preservation;</p> <p class=\"clause-e\">  (b) be rectangular;</p> <p class=\"clause-e\">  (c) be drawn and signed physically or electronically;</p> <p class=\"clause-e\">  (d) be drawn to a scale or scales sufficient for clarity of all particulars on the plan;</p> <p class=\"clause-e\">  (e) be prepared to a drafting standard that will permit legible and accurate copies to be made from it; and</p> <p class=\"clause-e\">  (f) if any colour appears on the plan, contain a note on the face of the plan indicating that the original was in colour. O. Reg. 507/21, s. 6.</p> <p class=\"subsection-e\">  (2) A plan prepared under subsection (1) that is to be delivered electronically shall include the following notation below the scale bar required by clause 18 (1) (h):</p> <p class=\"paranoindt-e\">The intended plot size of this plan is __mm in width by __mm in height when plotted at a scale of 1:__ .</p> <p class=\"footnote-e\">O. Reg. 507/21, s. 6.</p> <p class=\"subsection-e\">  (3) The only handwriting to appear on a plan shall be the original signatures of persons required to sign the plan and the dates of the signatures. O. Reg. 507/21, s. 6.</p> <p class=\"subsection-e\">  (4) Despite clauses (1) (a) and (c), a plan may be in whole or in part a photographic reproduction on plastic material that is of durable quality and will not crack or break, but all additions to the photographic reproduction shall be in black adhesion type ink and signatures shall not be reproductions. O. Reg. 507/21, s. 6.</p> <p class=\"subsection-e\">  (5) Despite clause (1) (c), the title, legend and margin and any applicable certificates and forms prescribed by the regulations under which the plan is prepared may be pre-printed on a plan in a manner that is permanent and permits legible and accurate copies of the plan to be made. O. Reg. 507/21, s. 6.</p> <p class=\"subsection-e\">  (6) In this section,</p> <p class=\"definition-e\">“intended plot size” means the intended overall physical dimensions of a plan, including a 15 mm plan margin, when a plan is printed at the scale at which the plan was drawn. O. Reg. 507/21, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "18.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Contents",
+            "content": " 18. (1) A plan shall show, (a) every right of way and easement affecting the land shown on the plan that is, (i) described in a registered instrument, or (ii) shown on a registered or deposited plan; (b) the bearing and length of each straight line forming any surveyed limit or part of any surveyed limit, except that, in the case of a tier of subdivision units that is shown by the dimensions to be a series of parallelograms, the direction of each of the side lines of the subdivision units may be indicated by the bearings at both ends of the tier; (c) the radius, arc length, chord length and chord bearing of each curved line forming any limit or part of any limit; (d) the perpendicular or radial widths of all streets, lanes and public passages within the surveyed area of which the limits are parallel or concentric; (e) the straight line distance and bearing between the points of intersection of street limits on the same side of the street and, if all or part of any intersection is on a curve, the radius, arc length, chord length and chord bearing of the curved portion; (f) the location of the radial centre of an arc that forms a cul-de-sac, clearly defined with reference to the street or streets connected to the cul-de-sac; (g) an accurately plotted simple north point; (h) the scale, expressed in numerical form, to which the plan is drawn and a scale bar clearly identified as representing either feet or metres; (i) if a survey has been integrated with a coordinate system in accordance with section 14, (i) a table containing the coordinates of at least two monumented points related to the survey, (ii) a note stating that the coordinates cannot, in themselves, be used to re-establish the corners or boundaries shown on the plan, (iii) a note stating that the coordinates comply with subsection 14 (2), (iv) a note stating the source from which the coordinates were derived and specifying the map projection, zone, datum and if applicable, adjustment epoch, and (v) sufficient data to enable the location of the parcel of land surveyed to be ascertained in relation to the monumented points that are used to integrate the survey and that are shown in the table described in subclause (i); (j) the location and form of all survey evidence found, conflicting or otherwise; (k) the procedure used in re-establishing all existing boundaries forming part of a survey or on which a survey is dependent; (l) the source of the distance or direction, if a distance or direction is set; (m) sufficient data to permit the calculation of the error of closure in respect of the limits of each parcel of land shown on the plan; and (n) if applicable, the name of the holder of the certificate of authorization.  O. Reg. 216/10, s. 18 (1). (2) If space does not permit the showing of bearings and lengths, as required by clauses (1) (b) and (c), in their normal position, they may be shown in schedule form on the plan.  O. Reg. 216/10, s. 18 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK24\"></a><b>18. </b>(1) A plan shall show,</p> <p class=\"clause-e\">  (a) every right of way and easement affecting the land shown on the plan that is,</p> <p class=\"subclause-e\">  (i) described in a registered instrument, or</p> <p class=\"subclause-e\">  (ii) shown on a registered or deposited plan;</p> <p class=\"clause-e\">  (b) the bearing and length of each straight line forming any surveyed limit or part of any surveyed limit, except that, in the case of a tier of subdivision units that is shown by the dimensions to be a series of parallelograms, the direction of each of the side lines of the subdivision units may be indicated by the bearings at both ends of the tier;</p> <p class=\"clause-e\">  (c) the radius, arc length, chord length and chord bearing of each curved line forming any limit or part of any limit;</p> <p class=\"clause-e\">  (d) the perpendicular or radial widths of all streets, lanes and public passages within the surveyed area of which the limits are parallel or concentric;</p> <p class=\"clause-e\">  (e) the straight line distance and bearing between the points of intersection of street limits on the same side of the street and, if all or part of any intersection is on a curve, the radius, arc length, chord length and chord bearing of the curved portion; </p> <p class=\"clause-e\">  (f) the location of the radial centre of an arc that forms a cul-de-sac, clearly defined with reference to the street or streets connected to the cul-de-sac;</p> <p class=\"clause-e\">  (g) an accurately plotted simple north point;</p> <p class=\"clause-e\">  (h) the scale, expressed in numerical form, to which the plan is drawn and a scale bar clearly identified as representing either feet or metres; </p> <p class=\"clause-e\">  (i) if a survey has been integrated with a coordinate system in accordance with section 14,</p> <p class=\"subclause-e\">  (i) a table containing the coordinates of at least two monumented points related to the survey,</p> <p class=\"subclause-e\">  (ii) a note stating that the coordinates cannot, in themselves, be used to re-establish the corners or boundaries shown on the plan,</p> <p class=\"subclause-e\">  (iii) a note stating that the coordinates comply with subsection 14 (2),</p> <p class=\"subclause-e\">  (iv) a note stating the source from which the coordinates were derived and specifying the map projection, zone, datum and if applicable, adjustment epoch, and</p> <p class=\"subclause-e\">  (v) sufficient data to enable the location of the parcel of land surveyed to be ascertained in relation to the monumented points that are used to integrate the survey and that are shown in the table described in subclause (i);</p> <p class=\"clause-e\">  (j) the location and form of all survey evidence found, conflicting or otherwise;</p> <p class=\"clause-e\">  (k) the procedure used in re-establishing all existing boundaries forming part of a survey or on which a survey is dependent;</p> <p class=\"clause-e\">  (l) the source of the distance or direction, if a distance or direction is set;</p> <p class=\"clause-e\">  (m) sufficient data to permit the calculation of the error of closure in respect of the limits of each parcel of land shown on the plan; and</p> <p class=\"clause-e\">  (n) if applicable, the name of the holder of the certificate of authorization.  O. Reg. 216/10, s. 18 (1).</p> <p class=\"subsection-e\">  (2) If space does not permit the showing of bearings and lengths, as required by clauses (1) (b) and (c), in their normal position, they may be shown in schedule form on the plan.  O. Reg. 216/10, s. 18 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "19.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Distances",
+            "content": " 19. (1) All distances on a plan shall be shown either in imperial units, namely measurements in feet and decimals of a foot, or in metric units, namely measurements in metres and decimals of a metre.  O. Reg. 216/10, s. 19 (1). (2) A note in bold printing shall be included in a conspicuous position on every plan that indicates that the distances and coordinates shown on the plan, (a) are in metres and can be converted to feet by dividing by 0.3048; or (b) are in feet and can be converted to metres by multiplying by 0.3048.  O. Reg. 216/10, s. 19 (2). (3) If a survey has been integrated with a coordinate system in accordance with section 14, a note shall be included on the plan to indicate that the distances shown on the plan, (a) are ground and can be converted to grid by multiplying by the stated combined scale factor; or (b) are grid and can be converted to ground by dividing by the stated combined scale factor.  O. Reg. 216/10, s. 19 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK25\"></a><b>19. </b>(1) All distances on a plan shall be shown either in imperial units, namely measurements in feet and decimals of a foot, or in metric units, namely measurements in metres and decimals of a metre.  O. Reg. 216/10, s. 19 (1).</p> <p class=\"subsection-e\">  (2) A note in bold printing shall be included in a conspicuous position on every plan that indicates that the distances and coordinates shown on the plan,</p> <p class=\"clause-e\">  (a) are in metres and can be converted to feet by dividing by 0.3048; or</p> <p class=\"clause-e\">  (b) are in feet and can be converted to metres by multiplying by 0.3048.  O. Reg. 216/10, s. 19 (2).</p> <p class=\"subsection-e\">  (3) If a survey has been integrated with a coordinate system in accordance with section 14, a note shall be included on the plan to indicate that the distances shown on the plan,</p> <p class=\"clause-e\">  (a) are ground and can be converted to grid by multiplying by the stated combined scale factor; or</p> <p class=\"clause-e\">  (b) are grid and can be converted to ground by dividing by the stated combined scale factor.  O. Reg. 216/10, s. 19 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "20.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Bearings",
+            "content": " 20. (1) The origin of the bearings shall be noted on a plan.  O. Reg. 216/10, s. 20 (1). (2) If bearings have been determined from astronomic or gyroscopic observations, a note shall be included on the plan indicating whether the bearings are, (a) astronomic or gyroscopic, derived from observations on Polaris, or other stars or planets, or derived from gyroscopic observations; and (b) referred to the meridian at a given longitude or through a stated point on the ground definable by survey.  O. Reg. 216/10, s. 20 (2). (3) If bearings have been derived from survey evidence of a line of known bearing, a note shall be included on the plan, (a) indicating the source of the bearings, the specified limit from which they are derived and the stated bearing; and (b) describing the evidence used to re-establish the line.  O. Reg. 216/10, s. 20 (3). (4) If bearings have been derived from specified control points or observed reference points, a note shall be included on the plan indicating that the bearings are grid bearings and are referred to the stated map projection, zone, datum and if applicable adjustment epoch.  O. Reg. 216/10, s. 20 (4).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK26\"></a><b>20. </b>(1) The origin of the bearings shall be noted on a plan.  O. Reg. 216/10, s. 20 (1).</p> <p class=\"subsection-e\">  (2) If bearings have been determined from astronomic or gyroscopic observations, a note shall be included on the plan indicating whether the bearings are,</p> <p class=\"clause-e\">  (a) astronomic or gyroscopic, derived from observations on Polaris, or other stars or planets, or derived from gyroscopic observations; and</p> <p class=\"clause-e\">  (b) referred to the meridian at a given longitude or through a stated point on the ground definable by survey.  O. Reg. 216/10, s. 20 (2).</p> <p class=\"subsection-e\">  (3) If bearings have been derived from survey evidence of a line of known bearing, a note shall be included on the plan,</p> <p class=\"clause-e\">  (a) indicating the source of the bearings, the specified limit from which they are derived and the stated bearing; and</p> <p class=\"clause-e\">  (b) describing the evidence used to re-establish the line.  O. Reg. 216/10, s. 20 (3).</p> <p class=\"subsection-e\">  (4) If bearings have been derived from specified control points or observed reference points, a note shall be included on the plan indicating that the bearings are grid bearings and are referred to the stated map projection, zone, datum and if applicable adjustment epoch.  O. Reg. 216/10, s. 20 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "21.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Location information",
+            "content": " 21. (1) By the use of light, broken or unbroken, lines of uniform width, a plan shall clearly and accurately show, (a) sufficient data to enable the identification of, (i) the limits of existing subdivision units included within the land surveyed, (ii) the limits defined by registered instruments or parcels affecting land included within the land surveyed, and (iii) the limits of subdivision units adjoining the land surveyed and the limits defined by instruments or parcels referred to in subclause (f) (ii) that join or intersect the perimeter of the land surveyed; (b) sufficient data to enable the location of the parcel of land surveyed to be ascertained in relation to the limits of the lot of which it is a part; (c) the identifying numbers, letters or words of the existing subdivision units included within and adjoining the land surveyed; (d) the property identifiers assigned to the land surveyed; (e) the property identifiers assigned to the land adjoining the land surveyed; (f) if property identifiers have not been assigned, the numbers of, (i) the registered instruments or parcels referred to in subclause (a) (ii), and (ii) the registered instruments or parcels that define the limits of land adjoining the land surveyed; and (g) the new headings in the abstract index for each parcel included in the plan, if the plan includes land in an area that has been divided into parcels for abstract purposes under subsection 83 (3) of the Registry Act.  O. Reg. 216/10, s. 21 (1). (2) Clause (1) (e) and subclause (1) (f) (ii) do not apply in respect of an undivided subdivision unit created by a registered plan of subdivision.  O. Reg. 216/10, s. 21 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK27\"></a><b>21. </b>(1) By the use of light, broken or unbroken, lines of uniform width, a plan shall clearly and accurately show,</p> <p class=\"clause-e\">  (a) sufficient data to enable the identification of,</p> <p class=\"subclause-e\">  (i) the limits of existing subdivision units included within the land surveyed,</p> <p class=\"subclause-e\">  (ii) the limits defined by registered instruments or parcels affecting land included within the land surveyed, and</p> <p class=\"subclause-e\">  (iii) the limits of subdivision units adjoining the land surveyed and the limits defined by instruments or parcels referred to in subclause (f) (ii) that join or intersect the perimeter of the land surveyed;</p> <p class=\"clause-e\">  (b) sufficient data to enable the location of the parcel of land surveyed to be ascertained in relation to the limits of the lot of which it is a part;</p> <p class=\"clause-e\">  (c) the identifying numbers, letters or words of the existing subdivision units included within and adjoining the land surveyed;</p> <p class=\"clause-e\">  (d) the property identifiers assigned to the land surveyed;</p> <p class=\"clause-e\">  (e) the property identifiers assigned to the land adjoining the land surveyed;</p> <p class=\"clause-e\">  (f) if property identifiers have not been assigned, the numbers of,</p> <p class=\"subclause-e\">  (i) the registered instruments or parcels referred to in subclause (a) (ii), and</p> <p class=\"subclause-e\">  (ii) the registered instruments or parcels that define the limits of land adjoining the land surveyed; and</p> <p class=\"clause-e\">  (g) the new headings in the abstract index for each parcel included in the plan, if the plan includes land in an area that has been divided into parcels for abstract purposes under subsection 83 (3) of the <i>Registry Act</i>.  O. Reg. 216/10, s. 21 (1).</p> <p class=\"subsection-e\">  (2) Clause (1) (e) and subclause (1) (f) (ii) do not apply in respect of an undivided subdivision unit created by a registered plan of subdivision.  O. Reg. 216/10, s. 21 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "22.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Boundary information",
+            "content": " 22. There shall be shown on a plan by solid lines of uniform width significantly heavier than the lines mentioned in section 21, (a) the boundaries of the land being surveyed; (b) in the case of a plan showing new subdivision units, the limits of the new subdivision units and the identifying numbers, letters or words of the new subdivision units; or (c) in the case of a plan showing boundaries sought to be confirmed under the Boundaries Act, the boundaries sought to be confirmed.  O. Reg. 216/10, s. 22.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK28\"></a><b>22. </b>There shall be shown on a plan by solid lines of uniform width significantly heavier than the lines mentioned in section 21,</p> <p class=\"clause-e\">  (a) the boundaries of the land being surveyed;</p> <p class=\"clause-e\">  (b) in the case of a plan showing new subdivision units, the limits of the new subdivision units and the identifying numbers, letters or words of the new subdivision units; or</p> <p class=\"clause-e\">  (c) in the case of a plan showing boundaries sought to be confirmed under the <i>Boundaries Act</i>, the boundaries sought to be confirmed.  O. Reg. 216/10, s. 22.</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "23.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Comparison information",
+            "content": " 23. If a measurement of distance or direction to be shown on a plan differs from that shown on a previously registered or deposited plan or contained in a description in a previously registered instrument or parcel, the plan shall show, (a) the measured distance or direction; (b) the corresponding distance or direction shown on the most recently registered or deposited plan or contained in the description in the most recently registered instrument or parcel, followed by whatever information is required to identify its source; (c) the corresponding direction shown on the most recently registered or deposited plan or contained in the description in the most recently registered instrument or parcel, which shall be made consistent with the measured direction as to the ground or grid reference for the plan being prepared; and (d) the rotation applied to the previous plan or description, in a note or table format.  O. Reg. 216/10, s. 23; O. Reg. 507/21, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK29\"></a><b>23. </b>If a measurement of distance or direction to be shown on a plan differs from that shown on a previously registered or deposited plan or contained in a description in a previously registered instrument or parcel, the plan shall show,</p> <p class=\"clause-e\">  (a) the measured distance or direction;</p> <p class=\"clause-e\">  (b) the corresponding distance or direction shown on the most recently registered or deposited plan or contained in the description in the most recently registered instrument or parcel, followed by whatever information is required to identify its source;</p> <p class=\"clause-e\">  (c) the corresponding direction shown on the most recently registered or deposited plan or contained in the description in the most recently registered instrument or parcel, which shall be made consistent with the measured direction as to the ground or grid reference for the plan being prepared; and</p> <p class=\"clause-e\">  (d) the rotation applied to the previous plan or description, in a note or table format.  O. Reg. 216/10, s. 23; O. Reg. 507/21, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "24.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Topographic information",
+            "content": " 24. (1) A plan shall show, (a) all topographic information that, (i) forms, controls or marks the position of a boundary of the surveyed parcel, (ii) may indicate an interest in the title to the surveyed parcel, or (iii) indicates an encroachment from the surveyed parcel onto the adjacent lands or from the adjacent lands onto the surveyed parcel; and (b) all survey data necessary to define the position of topographic information required by clause (a), which may be in schedule form in the case of subclause (a) (i).  O. Reg. 216/10, s. 24 (1). (2) A plan prepared for registration or deposit in a land registry office shall not show topographic information that is not required under clause (1) (a) but may show sufficient topographic information to illustrate the position of the boundary being surveyed in relation to the topographic information adjoining the boundary.  O. Reg. 216/10, s. 24 (2). (3) Subclauses (1) (a) (i) and (iii) do not apply in the case of existing boundaries of a previously surveyed public highway if the current plan is prepared for the purpose of widening the highway.  O. Reg. 216/10, s. 24 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK30\"></a><b>24. </b>(1) A plan shall show,</p> <p class=\"clause-e\">  (a) all topographic information that,</p> <p class=\"subclause-e\">  (i) forms, controls or marks the position of a boundary of the surveyed parcel,</p> <p class=\"subclause-e\">  (ii) may indicate an interest in the title to the surveyed parcel, or</p> <p class=\"subclause-e\">  (iii) indicates an encroachment from the surveyed parcel onto the adjacent lands or from the adjacent lands onto the surveyed parcel; and</p> <p class=\"clause-e\">  (b) all survey data necessary to define the position of topographic information required by clause (a), which may be in schedule form in the case of subclause (a) (i).  O. Reg. 216/10, s. 24 (1).</p> <p class=\"subsection-e\">  (2) A plan prepared for registration or deposit in a land registry office shall not show topographic information that is not required under clause (1) (a) but may show sufficient topographic information to illustrate the position of the boundary being surveyed in relation to the topographic information adjoining the boundary.  O. Reg. 216/10, s. 24 (2).</p> <p class=\"subsection-e\">  (3) Subclauses (1) (a) (i) and (iii) do not apply in the case of existing boundaries of a previously surveyed public highway if the current plan is prepared for the purpose of widening the highway.  O. Reg. 216/10, s. 24 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "25.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Highways stopped up or closed",
+            "content": " 25. If a plan shows a part of a street or highway that has been stopped up or closed, the plan shall include a reference to the by-law or other instrument by which the street or highway was stopped up or closed and to the registration number of, (a) the by-law if, (i) it was passed on or after March 29, 1873 in respect of lands registered under the Registry Act at the time it was passed, or (ii) it was passed on or after February 12, 1987 in respect of lands registered under the Land Titles Act; or (b) the other instrument.  O. Reg. 216/10, s. 25.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK31\"></a><b>25. </b>If a plan shows a part of a street or highway that has been stopped up or closed, the plan shall include a reference to the by-law or other instrument by which the street or highway was stopped up or closed and to the registration number of,</p> <p class=\"clause-e\">  (a) the by-law if,</p> <p class=\"subclause-e\">  (i) it was passed on or after March 29, 1873 in respect of lands registered under the <i>Registry Act</i> at the time it was passed, or</p> <p class=\"subclause-e\">  (ii) it was passed on or after February 12, 1987 in respect of lands registered under the <i>Land Titles Act</i>; or </p> <p class=\"clause-e\">  (b) the other instrument.  O. Reg. 216/10, s. 25.</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "26.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Confirmed boundaries",
+            "content": " 26. If a plan shows a boundary that was confirmed under the Surveys Act or confirmed and certified under the Boundaries Act or a predecessor of either of those Acts, a reference to the confirmation and to the registered plan number, if applicable, shall be included on the plan.  O. Reg. 216/10, s. 26.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK32\"></a><b>26. </b>If a plan shows a boundary that was confirmed under the <i>Surveys Act</i> or confirmed and certified under the <i>Boundaries Act</i> or a predecessor of either of those Acts, a reference to the confirmation and to the registered plan number, if applicable, shall be included on the plan.  O. Reg. 216/10, s. 26.</p>"
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "27.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Title information",
+            "content": " 27. (1) Every plan shall bear a title that includes, (a) the designation of every existing subdivision unit, any portion of which is included in the land surveyed, except if the unit is designated as a part; (b) the new headings in the abstract index for each parcel included in the plan, if the plan includes land in an area that has been divided into parcels for abstract purposes under subsection 83 (3) of the Registry Act; (c) the name of the geographic township, if any, where the land was situate at the time of the original survey, except in the case of patented land within a registered plan; and (d) the name of the local municipality and of the upper-tier municipality where the land was situate on the day the plan was signed by the licensed member.  O. Reg. 216/10, s. 27 (1). (2) If a plan creates new subdivision units, the references to existing subdivision units, new headings in the abstract index and the name of the geographic township required by subsection (1) to be included in the title of a plan may, instead, be set out in a schedule near the upper right corner of the plan relating them to the new subdivision units.  O. Reg. 216/10, s. 27 (2). Surveyor’s Real Property Report",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK33\"></a><b>27. </b>(1) Every plan shall bear a title that includes,</p> <p class=\"clause-e\">  (a) the designation of every existing subdivision unit, any portion of which is included in the land surveyed, except if the unit is designated as a part;</p> <p class=\"clause-e\">  (b) the new headings in the abstract index for each parcel included in the plan, if the plan includes land in an area that has been divided into parcels for abstract purposes under subsection 83 (3) of the <i>Registry Act</i>;</p> <p class=\"clause-e\">  (c) the name of the geographic township, if any, where the land was situate at the time of the original survey, except in the case of patented land within a registered plan; and</p> <p class=\"clause-e\">  (d) the name of the local municipality and of the upper-tier municipality where the land was situate on the day the plan was signed by the licensed member.  O. Reg. 216/10, s. 27 (1).</p> <p class=\"subsection-e\">  (2) If a plan creates new subdivision units, the references to existing subdivision units, new headings in the abstract index and the name of the geographic township required by subsection (1) to be included in the title of a plan may, instead, be set out in a schedule near the upper right corner of the plan relating them to the new subdivision units.  O. Reg. 216/10, s. 27 (2).</p> <p class=\"heading1-e\"><a name=\"BK34\"></a>Surveyor’s Real Property Report</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "Surveyor’s Real Property Report",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Surveyor’s Real Property Report",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "28.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Definition",
+            "content": " 28. In sections 29 and 30, “surveyor’s real property report” means a survey that locates a building or structure in relation to the boundaries of a unit of land which is not occupied by apartment or condominium buildings, townhouses or industrial or commercial buildings.  O. Reg. 216/10, s. 28; O. Reg. 507/21, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK35\"></a><b>28. </b>In sections 29 and 30,</p> <p class=\"firstdef-e\">“surveyor’s real property report” means a survey that locates a building or structure in relation to the boundaries of a unit of land which is not occupied by apartment or condominium buildings, townhouses or industrial or commercial buildings.  O. Reg. 216/10, s. 28; O. Reg. 507/21, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "29.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Required deliverables",
+            "content": " 29. (1) The deliverables for a surveyor’s real property report shall consist of a plan and a written report.  O. Reg. 216/10, s. 29 (1); O. Reg. 507/21, s. 9. (2) If the plan and the written report are separate documents, the plan shall include a note indicating that the written report is to be read in conjunction with the plan.  O. Reg. 216/10, s. 29 (2). (3) The plan shall include a note specifying the name of the client for whom the surveyor’s real property report was prepared.  O. Reg. 216/10, s. 29 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK36\"></a><b>29. </b>(1) The deliverables for a surveyor’s real property report shall consist of a plan and a written report.  O. Reg. 216/10, s. 29 (1); O. Reg. 507/21, s. 9.</p> <p class=\"subsection-e\">  (2) If the plan and the written report are separate documents, the plan shall include a note indicating that the written report is to be read in conjunction with the plan.  O. Reg. 216/10, s. 29 (2).</p> <p class=\"subsection-e\">  (3) The plan shall include a note specifying the name of the client for whom the surveyor’s real property report was prepared.  O. Reg. 216/10, s. 29 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "30.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Contents of report",
+            "content": " 30. In addition to the other requirements of this Part, the surveyor’s real property report shall show, (a) all buildings and structures and the foundations of all buildings and structures under construction on the lands and their distances from the boundaries of the lands; (b) the number of storeys of all buildings and their external construction materials; and (c) the municipal address of the property, if any.  O. Reg. 216/10, s. 30. Integration with Coordinate System",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK37\"></a><b>30. </b>In addition to the other requirements of this Part, the surveyor’s real property report shall show,</p> <p class=\"clause-e\">  (a) all buildings and structures and the foundations of all buildings and structures under construction on the lands and their distances from the boundaries of the lands;</p> <p class=\"clause-e\">  (b) the number of storeys of all buildings and their external construction materials; and</p> <p class=\"clause-e\">  (c) the municipal address of the property, if any.  O. Reg. 216/10, s. 30.</p> <p class=\"heading1-e\"><a name=\"BK38\"></a>Integration with Coordinate System</p>"
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "Integration with Coordinate System",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Integration with Coordinate System",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "31.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Reference datum and map projection",
+            "content": " 31. If a survey is integrated with a coordinate system, (a) the system shall be referenced to the North American Datum 1983 (Original) or the North American Datum 1983 (Canadian Spatial Reference System) realization; and (b) coordinates shall be expressed as grid coordinates in a Universal Transverse Mercator map projection or a Modified Transverse Mercator map projection that complies with sections 32 to 35.  O. Reg. 216/10, s. 31.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK39\"></a><b>31. </b>If a survey is integrated with a coordinate system,</p> <p class=\"clause-e\">  (a) the system shall be referenced to the North American Datum 1983 (Original) or the North American Datum 1983 (Canadian Spatial Reference System) realization; and</p> <p class=\"clause-e\">  (b) coordinates shall be expressed as grid coordinates in a Universal Transverse Mercator map projection or a Modified Transverse Mercator map projection that complies with sections 32 to 35.  O. Reg. 216/10, s. 31.</p>"
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "32.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Universal Transverse Mercator map projection",
+            "content": " 32. (1) For the purposes of identification of coordinates of points in the Universal Transverse Mercator map projection, Ontario is divided into four 6° zones that are numbered 15 to 18.  O. Reg. 216/10, s. 32 (1). (2) The central meridian for a zone mentioned in Column 1 of the Table is the meridian of longitude shown opposite in Column 2 and is the Y-axis of the zone. Table   Universal Transverse Mercator map projection  Column 1   Column 2 \n\n  Zone   Central Meridian \n\n  15   93º W \n\n  16   87º W \n\n  17   81º W \n\n  18   75º W O. Reg. 216/10, s. 32 (2). (3) The X-axis of a zone in the Universal Transverse Mercator map projection is the equator.  O. Reg. 216/10, s. 32 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK40\"></a><b>32. </b>(1) For the purposes of identification of coordinates of points in the Universal Transverse Mercator map projection, Ontario is divided into four 6° zones that are numbered 15 to 18.  O. Reg. 216/10, s. 32 (1).</p> <p class=\"subsection-e\">  (2) The central meridian for a zone mentioned in Column 1 of the Table is the meridian of longitude shown opposite in Column 2 and is the Y-axis of the zone. </p> <p class=\"headingx-e\">Table <br/>  Universal Transverse Mercator map projection</p> <p class=\"MsoNormal\"> </p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"672\">\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">Column 1</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">Column 2</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">Zone</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">Central Meridian</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">15</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">93º W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">16</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">87º W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">17</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">81º W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">18</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">75º W</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 216/10, s. 32 (2).</p> <p class=\"subsection-e\">  (3) The X-axis of a zone in the Universal Transverse Mercator map projection is the equator.  O. Reg. 216/10, s. 32 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "33.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Modified Transverse Mercator map projection",
+            "content": " 33. (1) For the purposes of identification of coordinates of points in the Modified Transverse Mercator map projection, Ontario is divided into ten 3° zones that are numbered 8 to 17.  O. Reg. 216/10, s. 33 (1). (2) The central meridian for a zone mentioned in Column 1 of the Table is the meridian of longitude shown opposite in Column 2 and is the Y-axis for the zone. Table   Modified Transverse Mercator map projection  Column 1   Column 2 \n\n  Zone   Central Meridian \n\n  8   73º 30' W \n\n  9   76º 30' W \n\n  10   79º 30' W \n\n  11   82º 30' W \n\n  12   81º 00' W \n\n  13   84º 00' W \n\n  14   87º 00' W \n\n  15   90º 00' W \n\n  16   93º 00' W \n\n  17   96º 00' W O. Reg. 216/10, s. 33 (2). (3) The X-axis of a zone in the Modified Transverse Mercator map projection is the equator.  O. Reg. 216/10, s. 33 (3). (4) Zones 10 and 11 in the Modified Transverse Mercator map projection do not extend north of and zones 12 and 13 do not extend south of a line described as follows: Beginning at the intersection of the boundary between Ontario and Quebec with meridian of longitude 79°30'; thence south along that meridian to parallel of latitude 47°00'; thence west along that parallel to meridian of longitude 80°15'; thence south along that meridian to parallel of latitude 46°00'; thence west along that parallel to its intersection with the boundary between Canada and the United States of America. O. Reg. 216/10, s. 33 (4).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK41\"></a><b>33. </b>(1) For the purposes of identification of coordinates of points in the Modified Transverse Mercator map projection, Ontario is divided into ten 3° zones that are numbered 8 to 17.  O. Reg. 216/10, s. 33 (1).</p> <p class=\"subsection-e\">  (2) The central meridian for a zone mentioned in Column 1 of the Table is the meridian of longitude shown opposite in Column 2 and is the Y-axis for the zone.  </p> <p class=\"headingx-e\">Table <br/>  Modified Transverse Mercator map projection</p> <p class=\"MsoNormal\"> </p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"672\">\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">Column 1</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">Column 2</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">Zone</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">Central Meridian</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">8</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">73º 30' W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">9</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">76º 30' W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">10</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">79º 30' W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">11</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">82º 30' W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">12</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">81º 00' W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">13</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">84º 00' W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">14</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">87º 00' W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">15</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">90º 00' W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">16</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">93º 00' W</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">17</p> </td> <td valign=\"top\" width=\"336\"> <p class=\"table-e\">96º 00' W</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 216/10, s. 33 (2).</p> <p class=\"subsection-e\">  (3) The X-axis of a zone in the Modified Transverse Mercator map projection is the equator.  O. Reg. 216/10, s. 33 (3).</p> <p class=\"subsection-e\">  (4) Zones 10 and 11 in the Modified Transverse Mercator map projection do not extend north of and zones 12 and 13 do not extend south of a line described as follows:</p> <p class=\"parawindt-e\">Beginning at the intersection of the boundary between Ontario and Quebec with meridian of longitude 79°30'; thence south along that meridian to parallel of latitude 47°00'; thence west along that parallel to meridian of longitude 80°15'; thence south along that meridian to parallel of latitude 46°00'; thence west along that parallel to its intersection with the boundary between Canada and the United States of America.  </p> <p class=\"footnote-e\">O. Reg. 216/10, s. 33 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "34.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Scale factor at a central meridian",
+            "content": " 34. The scale factor at a central meridian is, (a) 0.9996 in the Universal Transverse Mercator map projection; and (b) 0.9999 in the Modified Transverse Mercator map projection.  O. Reg. 216/10, s. 34.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK42\"></a><b>34</b><b>. </b>The scale factor at a central meridian is,</p> <p class=\"clause-e\">  (a) 0.9996 in the Universal Transverse Mercator map projection; and</p> <p class=\"clause-e\">  (b) 0.9999 in the Modified Transverse Mercator map projection.  O. Reg. 216/10, s. 34.</p>"
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "35.",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Origin of coordinates",
+            "content": " 35. (1) The origin of coordinates in a zone in the Universal Transverse Mercator map projection or the Modified Transverse Mercator map projection is the intersection of the central meridian of the zone and the equator.  O. Reg. 216/10, s. 35 (1). (2) In the Universal Transverse Mercator map projection, the Northing coordinate is zero metres and the Easting coordinate is 500,000 metres.  O. Reg. 216/10, s. 35 (2). (3) In the Modified Transverse Mercator map projection, the Northing coordinate is zero metres and the Easting coordinate is 304,800 metres.  O. Reg. 216/10, s. 35 (3). Provincial Survey Records Index",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK43\"></a><b>35. </b>(1) The origin of coordinates in a zone in the Universal Transverse Mercator map projection or the Modified Transverse Mercator map projection is the intersection of the central meridian of the zone and the equator.  O. Reg. 216/10, s. 35 (1).</p> <p class=\"subsection-e\">  (2) In the Universal Transverse Mercator map projection, the Northing coordinate is zero metres and the Easting coordinate is 500,000 metres.  O. Reg. 216/10, s. 35 (2).</p> <p class=\"subsection-e\">  (3) In the Modified Transverse Mercator map projection, the Northing coordinate is zero metres and the Easting coordinate is 304,800 metres.  O. Reg. 216/10, s. 35 (3). </p> <p class=\"heading1-e\"><a name=\"BK44\"></a>Provincial Survey Records Index</p>"
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "Provincial Survey Records Index",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Provincial Survey Records Index",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "35.1",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Provincial Survey Records Index",
+            "content": " 35.1 The Association shall establish and maintain a provincial Survey Records Index to facilitate members’ research of survey records that is capable of communicating with any other survey records system endorsed by the Council. O. Reg. 507/21, s. 10.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK45\"></a><b>35.1 </b>The Association shall establish and maintain a provincial Survey Records Index to facilitate members’ research of survey records that is capable of communicating with any other survey records system endorsed by the Council. O. Reg. 507/21, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "35.2",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "New records to be indexed",
+            "content": " 35.2 Where any survey project that establishes or retraces a property boundary is completed, within one month of the completion of the project or one month of the signing of a plan associated with the project the surveyor completing the project shall enter the following information in respect of the project in the provincial Survey Records Index, or in a survey records system endorsed by the Council: 1. Land Registry Office applicable in respect of the survey. 2. Municipality in which the survey is made. 3. Survey Record Type. 4. Survey Record Prefix (Alpha). 5. Plan number or Concession number. 6. Survey date. 7. Job number. O. Reg. 507/21, s. 10.",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK46\"></a>35.2 </b>Where any survey project that establishes or retraces a property boundary is completed, within one month of the completion of the project or one month of the signing of a plan associated with the project the surveyor completing the project shall enter the following information in respect of the project in the provincial Survey Records Index, or in a survey records system endorsed by the Council:</p> <p class=\"paragraph-e\">  1. Land Registry Office applicable in respect of the survey.</p> <p class=\"paragraph-e\">  2. Municipality in which the survey is made.</p> <p class=\"paragraph-e\">  3. Survey Record Type.</p> <p class=\"paragraph-e\">  4. Survey Record Prefix (Alpha).</p> <p class=\"paragraph-e\">  5. Plan number or Concession number.</p> <p class=\"paragraph-e\">  6. Survey date.</p> <p class=\"paragraph-e\">  7. Job number. O. Reg. 507/21, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "35.3",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Historical records to be indexed",
+            "content": " 35.3 (1) In this section, “firm” means any holder of a certificate of authorization practising cadastral surveying. O. Reg. 507/21, s. 10. (2) Within five years after the day this section comes into force, firms shall, in respect of all survey records under their control, enter the information described in paragraphs 1 to 7 of section 35.2 in the provincial Survey Records Index. O. Reg. 507/21, s. 10. (3) The Council may extend the five-year deadline referred to in subsection (2) upon receiving a written request from the holder of a certificate of authorization. O. Reg. 507/21, s. 10. (4) The Council may exempt a firm from the requirement set out in subsection (2) upon receiving a written request from the holder of a certificate of authorization, if the following conditions are met: 1. The request is in respect of an area where there is limited searching activity by other firms. 2. The firm enters a record into the provincial Survey Records Index that describes its normal area of practice. 3. The firm agrees to provide timely and reasonable responses to research requests from other firms. O. Reg. 507/21, s. 10. (5) Where there is a change in the holder of the certificate of authorization for a firm, a new written request for an exemption must be made to the Council within 30 days of the change. O. Reg. 507/21, s. 10.",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK47\"></a>35.3 </b>(1) In this section,</p> <p class=\"definition-e\">“firm” means any holder of a certificate of authorization practising cadastral surveying. O. Reg. 507/21, s. 10.</p> <p class=\"subsection-e\">  (2) Within five years after the day this section comes into force, firms shall, in respect of all survey records under their control, enter the information described in paragraphs 1 to 7 of section 35.2 in the provincial Survey Records Index. O. Reg. 507/21, s. 10.</p> <p class=\"subsection-e\">  (3) The Council may extend the five-year deadline referred to in subsection (2) upon receiving a written request from the holder of a certificate of authorization. O. Reg. 507/21, s. 10.</p> <p class=\"subsection-e\">  (4) The Council may exempt a firm from the requirement set out in subsection (2) upon receiving a written request from the holder of a certificate of authorization, if the following conditions are met:</p> <p class=\"paragraph-e\">  1. The request is in respect of an area where there is limited searching activity by other firms.</p> <p class=\"paragraph-e\">  2. The firm enters a record into the provincial Survey Records Index that describes its normal area of practice.</p> <p class=\"paragraph-e\">  3. The firm agrees to provide timely and reasonable responses to research requests from other firms. O. Reg. 507/21, s. 10.</p> <p class=\"subsection-e\">  (5) Where there is a change in the holder of the certificate of authorization for a firm, a new written request for an exemption must be made to the Council within 30 days of the change. O. Reg. 507/21, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "35.4",
+            "part_id": "PART II  ",
+            "part_type": "PART II CADASTRAL SURVEYING",
+            "section": "Partial survey",
+            "content": " 35.4 Where a surveyor provides a deliverable that is not completely based on a survey, the deliverable shall, (a) clearly indicate the purpose for which it was provided in the title block; (b) identify any information shown that is not based on a survey as “not based on a survey” and indicate the source of the information; and (c) include the following notation: “Caution: This product is not a plan of survey and shall not be used except for the purpose indicated in the title block. This product is protected by copyright.” O. Reg. 507/21, s. 10. PART III   GEODETIC SURVEYING",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK48\"></a>35.4 </b>Where a surveyor provides a deliverable that is not completely based on a survey, the deliverable shall,</p> <p class=\"clause-e\">  (a) clearly indicate the purpose for which it was provided in the title block;</p> <p class=\"clause-e\">  (b) identify any information shown that is not based on a survey as “not based on a survey” and indicate the source of the information; and</p> <p class=\"clause-e\">  (c) include the following notation:</p> <p class=\"Sclause-e\">“Caution: This product is not a plan of survey and shall not be used except for the purpose indicated in the title block. This product is protected by copyright.”</p> <p class=\"footnote-e\">O. Reg. 507/21, s. 10.</p> <p class=\"partnum-e\"><a name=\"BK49\"></a>PART III <br/>  GEODETIC SURVEYING</p>"
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "PART III  ",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section": "PART III GEODETIC SURVEYING",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "36.",
+            "part_id": "PART III  ",
+            "part_type": "PART III GEODETIC SURVEYING",
+            "section": "Project design and implementation",
+            "content": " 36. In addition to the requirements of Part I, when performing geodetic surveying for a project, a professional member shall, (a) acquire adequate measurements with appropriate precision to produce results that satisfy the project specifications; and (b) use sufficient existing control to allow proper orientation and scale of the project network.  O. Reg. 216/10, s. 36.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK50\"></a><b>36. </b>In addition to the requirements of Part I, when performing geodetic surveying for a project, a professional member shall,</p> <p class=\"clause-e\">  (a) acquire adequate measurements with appropriate precision to produce results that satisfy the project specifications; and</p> <p class=\"clause-e\">  (b) use sufficient existing control to allow proper orientation and scale of the project network.  O. Reg. 216/10, s. 36.</p>"
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "37.",
+            "part_id": "PART III  ",
+            "part_type": "PART III GEODETIC SURVEYING",
+            "section": "Project report",
+            "content": " 37. When performing geodetic surveying for a project, a professional member shall ensure that the project report described in section 4, in addition to complying with that section, includes or makes reference to, (a) the number of new control stations; (b) the date and results of the most recent instrument calibrations; (c) the adjustment and analysis procedures that describe, (i) the minimally constrained adjustment, so that the latitude and longitude of one existing control point and orthometric or ellipsoidal height of one existing control point are held fixed to their published values, (ii) the fully constrained adjustment, so that all existing horizontal and vertical control in the network are held fixed to their published provincially recognized values, (iii) the justification for any rejected observations, (iv) the verification of any existing control used, and (v) the geoid model used if the project requires orthometric height.  O. Reg. 216/10, s. 37; O. Reg. 507/21, s. 11. PART IV   HYDROGRAPHIC SURVEYING",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK51\"></a><b>37. </b>When performing geodetic surveying for a project, a professional member shall ensure that the project report described in section 4, in addition to complying with that section, includes or makes reference to,</p> <p class=\"clause-e\">  (a) the number of new control stations;</p> <p class=\"clause-e\">  (b) the date and results of the most recent instrument calibrations;</p> <p class=\"clause-e\">  (c) the adjustment and analysis procedures that describe,</p> <p class=\"subclause-e\">  (i) the minimally constrained adjustment, so that the latitude and longitude of one existing control point and orthometric or ellipsoidal height of one existing control point are held fixed to their published values,</p> <p class=\"subclause-e\">  (ii) the fully constrained adjustment, so that all existing horizontal and vertical control in the network are held fixed to their published provincially recognized values,</p> <p class=\"subclause-e\">  (iii) the justification for any rejected observations,</p> <p class=\"subclause-e\">  (iv) the verification of any existing control used, and</p> <p class=\"subclause-e\">  (v) the geoid model used if the project requires orthometric height.  O. Reg. 216/10, s. 37; O. Reg. 507/21, s. 11.</p> <p class=\"partnum-e\"><a name=\"BK52\"></a>PART IV <br/>  HYDROGRAPHIC SURVEYING</p>"
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "PART IV  ",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section": "PART IV HYDROGRAPHIC SURVEYING",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "38.",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV HYDROGRAPHIC SURVEYING",
+            "section": "Project design and implementation",
+            "content": " 38. In addition to the requirements of Part I, when performing hydrographic surveying for a project, a professional member shall, (a) acquire adequate measurements with appropriate precision to produce results that satisfy the project specifications; and (b) use sufficient existing control to allow proper orientation and scale of the project deliverables.  O. Reg. 216/10, s. 38.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK53\"></a><b>38. </b>In addition to the requirements of Part I, when performing hydrographic surveying for a project, a professional member shall,</p> <p class=\"clause-e\">  (a) acquire adequate measurements with appropriate precision to produce results that satisfy the project specifications; and</p> <p class=\"clause-e\">  (b) use sufficient existing control to allow proper orientation and scale of the project deliverables.  O. Reg. 216/10, s. 38.</p>"
+        },
+        {
+            "ahref_id": "#BK54",
+            "TOCid": "39.",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV HYDROGRAPHIC SURVEYING",
+            "section": "Project report",
+            "content": " 39. When performing hydrographic surveying for a project, a professional member shall ensure that the project report described in section 4, in addition to complying with that section, includes or makes reference to the standards specific to the project.  O. Reg. 216/10, s. 39; O. Reg. 507/21, s. 12. PART V   PHOTOGRAMMETRIC SURVEYING",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK54\"></a><b>39. </b>When performing hydrographic surveying for a project, a professional member shall ensure that the project report described in section 4, in addition to complying with that section, includes or makes reference to the standards specific to the project.  O. Reg. 216/10, s. 39; O. Reg. 507/21, s. 12.</p> <p class=\"partnum-e\"><a name=\"BK55\"></a>PART V <br/>  PHOTOGRAMMETRIC SURVEYING</p>"
+        },
+        {
+            "ahref_id": "#BK55",
+            "TOCid": "PART V  ",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section": "PART V PHOTOGRAMMETRIC SURVEYING",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK56",
+            "TOCid": "40.",
+            "part_id": "PART V  ",
+            "part_type": "PART V PHOTOGRAMMETRIC SURVEYING",
+            "section": "Project design and implementation",
+            "content": " 40. In addition to the requirements of Part I, when performing photogrammetric surveying for a project, a professional member shall, (a) acquire adequate measurements to determine system calibration parameters of the sensor; (b) acquire adequate measurements to determine the exterior orientation parameters of the sensor relative to the project coordinate system.  O. Reg. 216/10, s. 40.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK56\"></a><b>40. </b>In addition to the requirements of Part I, when performing photogrammetric surveying for a project, a professional member shall,</p> <p class=\"clause-e\">  (a) acquire adequate measurements to determine system calibration parameters of the sensor;</p> <p class=\"clause-e\">  (b) acquire adequate measurements to determine the exterior orientation parameters of the sensor relative to the project coordinate system.  O. Reg. 216/10, s. 40.</p>"
+        },
+        {
+            "ahref_id": "#BK57",
+            "TOCid": "41.",
+            "part_id": "PART V  ",
+            "part_type": "PART V PHOTOGRAMMETRIC SURVEYING",
+            "section": "Project report",
+            "content": " 41. When performing photogrammetric surveying for a project, a professional member shall ensure that the project report described in section 4, in addition to complying with that section identifies the sensing equipment make and model.  O. Reg. 216/10, s. 41.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK57\"></a><b>41. </b>When performing photogrammetric surveying for a project, a professional member shall ensure that the project report described in section 4, in addition to complying with that section identifies the sensing equipment make and model.  O. Reg. 216/10, s. 41.</p>"
+        },
+        {
+            "ahref_id": "#BK58",
+            "TOCid": "42.",
+            "part_id": "PART V  ",
+            "part_type": "PART V PHOTOGRAMMETRIC SURVEYING",
+            "section": "Project quality assurance",
+            "content": " 42. (1) When performing photogrammetric surveying for a project, a professional member shall, in addition to complying with section 5, demonstrate that, (a) system calibration parameters have been properly applied; (b) exterior orientation parameters have been properly applied; (c) data collection meets the project accuracy requirements and adequately covers the project area; (d) the sensing system is internally consistent by confirming the results of redundant project data; (e) the results match the checks derived by an alternate technology; and (f) the results meet the datum, map projection, feature symbology, feature topology and project format criteria.  O. Reg. 216/10, s. 42 (1). (2) When performing photogrammetric surveying for a project, a professional member shall, (a) acquire adequate measurements and results to verify the internal accuracy of the applied technology and process; and (b) acquire adequate checks that have been derived by alternate technologies that are at least as precise as the sensing technology used for the project results.  O. Reg. 216/10, s. 42 (2). PART VI   GEOGRAPHIC INFORMATION MANAGEMENT",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK58\"></a><b>42. </b>(1) When performing photogrammetric surveying for a project, a professional member shall, in addition to complying with section 5, demonstrate that,</p> <p class=\"clause-e\">  (a) system calibration parameters have been properly applied;</p> <p class=\"clause-e\">  (b) exterior orientation parameters have been properly applied;</p> <p class=\"clause-e\">  (c) data collection meets the project accuracy requirements and adequately covers the project area;</p> <p class=\"clause-e\">  (d) the sensing system is internally consistent by confirming the results of redundant project data;</p> <p class=\"clause-e\">  (e) the results match the checks derived by an alternate technology; and</p> <p class=\"clause-e\">  (f) the results meet the datum, map projection, feature symbology, feature topology and project format criteria.  O. Reg. 216/10, s. 42 (1).</p> <p class=\"subsection-e\">  (2) When performing photogrammetric surveying for a project, a professional member shall,</p> <p class=\"clause-e\">  (a) acquire adequate measurements and results to verify the internal accuracy of the applied technology and process; and</p> <p class=\"clause-e\">  (b) acquire adequate checks that have been derived by alternate technologies that are at least as precise as the sensing technology used for the project results.  O. Reg. 216/10, s. 42 (2).</p> <p class=\"partnum-e\"><a name=\"BK59\"></a>PART VI <br/>  GEOGRAPHIC INFORMATION MANAGEMENT</p>"
+        },
+        {
+            "ahref_id": "#BK59",
+            "TOCid": "PART VI  ",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section": "PART VI GEOGRAPHIC INFORMATION MANAGEMENT",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK60",
+            "TOCid": "43.",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GEOGRAPHIC INFORMATION MANAGEMENT",
+            "section": "Project design and implementation",
+            "content": " 43. In addition to the requirements of Part I, when performing geographic information management for a project, a professional member shall, (a) establish how the data are to be used, maintained, archived and disposed; (b) research and recommend the most appropriate software, developed within the scope of the project or commercially available, and validation methods and expected results; (c) identify software inputs and deliverables for the project and licence, ownership, authorship and copyright issues for the project; (d) assess and validate the project input quality and metadata; and (e) assess acceptance of the project deliverables with the client.  O. Reg. 216/10, s. 43.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK60\"></a><b>43. </b>In addition to the requirements of Part I, when performing geographic information management for a project, a professional member shall,</p> <p class=\"clause-e\">  (a) establish how the data are to be used, maintained, archived and disposed;</p> <p class=\"clause-e\">  (b) research and recommend the most appropriate software, developed within the scope of the project or commercially available, and validation methods and expected results;</p> <p class=\"clause-e\">  (c) identify software inputs and deliverables for the project and licence, ownership, authorship and copyright issues for the project;</p> <p class=\"clause-e\">  (d) assess and validate the project input quality and metadata; and</p> <p class=\"clause-e\">  (e) assess acceptance of the project deliverables with the client.  O. Reg. 216/10, s. 43.</p>"
+        },
+        {
+            "ahref_id": "#BK61",
+            "TOCid": "44.",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GEOGRAPHIC INFORMATION MANAGEMENT",
+            "section": "Project report",
+            "content": " 44. When performing geographic information management for a project, a professional member shall ensure that the project report described in section 4, in addition to complying with that section, includes or makes reference to the standards specific to the project.  O. Reg. 216/10, s. 44. 45. Omitted (revokes other Regulations).  O. Reg. 216/10, s. 45. 46. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 216/10, s. 46. FORM 1   SURVEYOR’s certificate (section 4 of the Regulation) Surveyors Act  I certify that: \n\n  1.    This survey and plan (if the plan is a strata plan consisting of more than one sheet add:\r comprising sheets 1 to …..) are correct and in accordance with the Surveys Act, the Surveyors Act\r and …………………………… and the regulations made under them. \n\n          (title of appropriate Act)     \n\n                \n\n  2.   The survey was completed on …….......................……….         \n\n          (date)         \n\n                \n\n      …….......................…………………......................………       …………………………….….. \n\n      (date)       (signature) \n\n                \n\n                \n\n              ……………………………....... \n\n              (name in printed letters) \n\n              Ontario Land Surveyor O. Reg. 216/10, Form 1.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK61\"></a><b>44. </b>When performing geographic information management for a project, a professional member shall ensure that the project report described in section 4, in addition to complying with that section, includes or makes reference to the standards specific to the project.  O. Reg. 216/10, s. 44.</p> <p class=\"section-e\"> <b>45.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">revokes other Regulations</span>).  O. Reg. 216/10, s. 45.</p> <p class=\"section-e\"> <b>46.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).  O. Reg. 216/10, s. 46.</p> <p class=\"form-e\"><a name=\"BK62\"></a>FORM 1 <br/>  SURVEYOR’s certificate (section 4 of the Regulation)</p> <p class=\"act-e\">Surveyors Act</p> <p class=\"MsoNormal\"> </p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"680\">\n<tr> <td colspan=\"6\" valign=\"top\" width=\"680\"> <p class=\"table-e\">I certify that:</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\">1. </p> </td> <td colspan=\"5\" valign=\"top\" width=\"633\"> <p class=\"table-e\">This survey and plan (<i>if the plan is a strata plan consisting of more than one sheet add:</i>\r comprising sheets 1 to …..) are correct and in accordance with the <i>Surveys Act</i>, the <i>Surveyors Act</i>\r and …………………………… and the regulations made under them.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p class=\"table-e\"><i> </i></p> </td> <td valign=\"top\" width=\"147\"> <p align=\"center\" class=\"table-e\">(<i>title of appropriate Act</i>)</p> </td> <td colspan=\"2\" valign=\"top\" width=\"191\"> <p class=\"table-e\"><i> </i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\">2.</p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p class=\"table-e\">The survey was completed on …….......................……….</p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"><i> </i></p> </td> <td valign=\"top\" width=\"147\"> <p align=\"right\" class=\"table-e\"><i> </i></p> </td> <td valign=\"top\" width=\"147\"> <p align=\"center\" class=\"table-e\"><i>(date)</i></p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"><i> </i></p> </td> <td valign=\"top\" width=\"169\"> <p class=\"table-e\"><i> </i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p class=\"table-e\">…….......................…………………......................………</p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"169\"> <p class=\"table-e\">…………………………….…..</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"><i> </i></p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p align=\"center\" class=\"table-e\"><i>(date)</i></p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"><i> </i></p> </td> <td valign=\"top\" width=\"169\"> <p align=\"center\" class=\"table-e\"><i>(signature)</i></p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"169\"> <p class=\"table-e\">…………………………….......</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"169\"> <p align=\"center\" class=\"table-e\">(<i>name in printed letters</i>)</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"><i> </i></p> </td> <td valign=\"top\" width=\"169\"> <p align=\"center\" class=\"table-e\">Ontario Land Surveyor</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"47\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"295\"> <p class=\"table-e\"> </p> </td> <td colspan=\"2\" valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"169\"> <p class=\"table-e\"> </p> </td>\n</tr>\n<tr height=\"0\"> <td width=\"47\"></td> <td width=\"147\"></td> <td width=\"147\"></td> <td width=\"147\"></td> <td width=\"22\"></td> <td width=\"169\"></td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 216/10, Form 1.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/100216\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "ahref_id": "#BK62",
+            "TOCid": "Form 1",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GEOGRAPHIC INFORMATION MANAGEMENT",
+            "section": "Surveyor’s certificate (section 4 of the regulation)",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

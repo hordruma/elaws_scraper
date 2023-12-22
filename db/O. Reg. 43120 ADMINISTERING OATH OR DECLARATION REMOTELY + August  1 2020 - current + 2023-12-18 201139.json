@@ -1,0 +1,51 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 431/20: ADMINISTERING OATH OR DECLARATION REMOTELY",
+        "reg_name_text": "ADMINISTERING OATH OR DECLARATION REMOTELY",
+        "citation": "O. Reg. 431/20: ",
+        "act_under": "Commissioners for Taking Affidavits Act",
+        "url": "https://www.ontario.ca/laws/regulation/200431",
+        "date_scraped": "2023-12-18 20:11:40"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "August  1, 2020",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/200431/v1",
+            "valid_from": "July 30, 2020",
+            "valid_to": "July 31, 2020"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Remote administering of oath, declaration permitted",
+            "content": "  1. An oath or declaration may be taken by a deponent or declarant without being in the physical presence of the person administering the oath or declaration, if the following conditions are met: 1. The oath or declaration is being administered by an electronic method of communication in which the person administering the oath or declaration and the deponent or declarant are able to see, hear and communicate with each other in real time throughout the entire transaction. 2. The person administering the oath or declaration confirms the identity of the deponent or declarant. 3. A modified version of the jurat or declaration is used that indicates, i. that the oath or declaration was administered in accordance with this Regulation, and ii. the location of the person administering the oath or declaration and of the deponent or declarant at the time of the administering. 4. In the case of a commissioner to whom section 5 of the Act applies, the information on the stamp required to be used under that section appears on or in the document being signed. 5. The person administering the oath or declaration takes reasonable precautions in the execution of the person’s duties, including ensuring that the deponent or declarant understands what is being signed.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>An oath or declaration may be taken by a deponent or declarant without being in the physical presence of the person administering the oath or declaration, if the following conditions are met:</p> <p class=\"paragraph-e\">  1. The oath or declaration is being administered by an electronic method of communication in which the person administering the oath or declaration and the deponent or declarant are able to see, hear and communicate with each other in real time throughout the entire transaction.</p> <p class=\"paragraph-e\">  2. The person administering the oath or declaration confirms the identity of the deponent or declarant.</p> <p class=\"paragraph-e\">  3. A modified version of the jurat or declaration is used that indicates,</p> <p class=\"subpara-e\">  i. that the oath or declaration was administered in accordance with this Regulation, and</p> <p class=\"subpara-e\">  ii. the location of the person administering the oath or declaration and of the deponent or declarant at the time of the administering.</p> <p class=\"paragraph-e\">  4. In the case of a commissioner to whom section 5 of the Act applies, the information on the stamp required to be used under that section appears on or in the document being signed.</p> <p class=\"paragraph-e\">  5. The person administering the oath or declaration takes reasonable precautions in the execution of the person’s duties, including ensuring that the deponent or declarant understands what is being signed.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Records",
+            "content": " 2. Every person who administers an oath or declaration in accordance with section 1 shall keep a record of the transaction.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>Every person who administers an oath or declaration in accordance with section 1 shall keep a record of the transaction.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Records",
+            "content": " 3. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>3.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Records",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/200431\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

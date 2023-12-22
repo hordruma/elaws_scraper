@@ -1,0 +1,51 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 111/12: ONTARIO LOCAL FOREST MANAGEMENT CORPORATIONS",
+        "reg_name_text": "Ontario Local Forest management Corporations",
+        "citation": "O. Reg. 111/12: ONTARIO LOCAL FOREST MANAGEMENT CORPORATIONS",
+        "act_under": "Ontario Forest Tenure Modernization Act, 2011",
+        "url": "https://www.ontario.ca/laws/regulation/120111",
+        "date_scraped": "2023-12-18 19:26:03"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "December 15, 2020",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/120111/v1",
+            "valid_from": "May 29, 2012",
+            "valid_to": "December 14, 2020"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Nawiinginokiima Forest Management Corporation established",
+            "content": " 1. An Ontario local forest management corporation to be known in English as the Nawiinginokiima Forest Management Corporation and in French as Société de gestion forestière Nawiinginokiima is established as a corporation without share capital.  O. Reg. 111/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>An Ontario local forest management corporation to be known in English as the Nawiinginokiima Forest Management Corporation and in French as Société de gestion forestière Nawiinginokiima is established as a corporation without share capital.  O. Reg. 111/12, s. 1.</p>"
+        },
+        {
+            "id": "1",
+            "section": "Temagami Forest Management Corporation established",
+            "content": " 1.1 An Ontario local forest management corporation to be known in English as the Temagami Forest Management Corporation and in French as Société de gestion forestière Temagami is established as a corporation without share capital. O. Reg. 750/20, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1</b><b>.1 </b>An Ontario local forest management corporation to be known in English as the Temagami Forest Management Corporation and in French as Société de gestion forestière Temagami is established as a corporation without share capital. O. Reg. 750/20, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Temagami Forest Management Corporation established",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 111/12, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).  O. Reg. 111/12, s. 2.</p>"
+        },
+        {
+            "id": null,
+            "section": "Temagami Forest Management Corporation established",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/120111\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

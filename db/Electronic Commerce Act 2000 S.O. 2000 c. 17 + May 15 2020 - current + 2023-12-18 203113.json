@@ -1,0 +1,458 @@
+{
+    "act_info": {
+        "full_title": "Electronic Commerce Act, 2000, S.O. 2000, c. 17",
+        "act_name_text": "Electronic Commerce Act, 2000",
+        "citation": "S.O. 2000, c. 17",
+        "url": "https://www.ontario.ca/laws/statute/00e17",
+        "date_scraped": "2023-12-18 20:31:17"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "May 15, 2020",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/00e17/v4",
+            "valid_from": "May 29, 2019",
+            "valid_to": "May 14, 2020"
+        },
+        {
+            "a_href": "/laws/statute/00e17/v3",
+            "valid_from": "July  1, 2015",
+            "valid_to": "May 28, 2019"
+        },
+        {
+            "a_href": "/laws/statute/00e17/v2",
+            "valid_from": "June 13, 2013",
+            "valid_to": "June 30, 2015"
+        },
+        {
+            "a_href": "/laws/statute/00e17/v1",
+            "valid_from": "October 16, 2000",
+            "valid_to": "June 12, 2013"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "General",
+            "section_x": "General",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Definitions",
+            "content": "1 (1) In this Act, “electronic” includes created, recorded, transmitted or stored in digital form or in other intangible form by electronic, magnetic or optical means or by any other means that has capabilities for creation, recording, transmission or storage similar to those means and “electronically” has a corresponding meaning;  (“électronique”, “par voie électronique”) “electronic agent” means a computer program or any other electronic means used to initiate an act or to respond to electronic documents or acts, in whole or in part, without review by an individual at the time of the response or act;  (“agent électronique”) “electronic signature” means electronic information that a person creates or adopts in order to sign a document and that is in, attached to or associated with the document;  (“signature électronique”) “public body” means, (a) any ministry, agency, board, commission or other body of the Government of Ontario, (b) a municipality or its local board, or (c) an entity that is designated as a public body by a regulation made under clause 32 (a).  (“organisme public”)  2000, c. 17, s. 1 (1). Extended meaning of “legal requirement” (2) In this Act, a reference to a legal requirement includes a reference to a provision of law, (a) that imposes consequences if writing is not used or a form is not used, a document is not signed or an original document is not provided or retained; or (b) by virtue of which the use of writing, the presence of a signature or the provision or retention of an original document leads to a special permission or other result.  2000, c. 17, s. 1 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>1 </b>(1) In this Act,</p> <p class=\"definition\">“electronic” includes created, recorded, transmitted or stored in digital form or in other intangible form by electronic, magnetic or optical means or by any other means that has capabilities for creation, recording, transmission or storage similar to those means and “electronically” has a corresponding meaning;  (“électronique”, “par voie électronique”)</p> <p class=\"definition\">“electronic agent” means a computer program or any other electronic means used to initiate an act or to respond to electronic documents or acts, in whole or in part, without review by an individual at the time of the response or act;  (“agent électronique”)</p> <p class=\"definition\">“electronic signature” means electronic information that a person creates or adopts in order to sign a document and that is in, attached to or associated with the document;  (“signature électronique”)</p> <p class=\"definition\">“public body” means,</p> <p class=\"paragraph\">  (a) any ministry, agency, board, commission or other body of the Government of Ontario,</p> <p class=\"paragraph\">  (b) a municipality or its local board, or</p> <p class=\"paragraph\">  (c) an entity that is designated as a public body by a regulation made under clause 32 (a).  (“organisme public”)  2000, c. 17, s. 1 (1).</p> <p class=\"headnote\">Extended meaning of “legal requirement”</p> <p class=\"subsection\">(2) In this Act, a reference to a legal requirement includes a reference to a provision of law,</p> <p class=\"paragraph\">  (a) that imposes consequences if writing is not used or a form is not used, a document is not signed or an original document is not provided or retained; or</p> <p class=\"paragraph\">  (b) by virtue of which the use of writing, the presence of a signature or the provision or retention of an original document leads to a special permission or other result.  2000, c. 17, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "2.",
+            "section_x": "Crown",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Crown",
+            "content": "2 This Act binds the Crown.  2000, c. 17, s. 2.",
+            "raw_html": "<p class=\"section\"><a name=\"BK2\"></a><b>2 </b>This Act binds the Crown.  2000, c. 17, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "3.",
+            "section_x": "Use, etc., of electronic information or document not mandatory",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Use, etc., of electronic information or document  not mandatory",
+            "content": "3 (1) Nothing in this Act requires a person who uses, provides or accepts information or a document to use, provide or accept it in an electronic form without the person’s consent.  2000, c. 17, s. 3 (1). Implied consent (2) Consent for the purpose of subsection (1) may be inferred from a person’s conduct if there are reasonable grounds to believe that the consent is genuine and is relevant to the information or document.  2000, c. 17, s. 3 (2). Same (3) Subsection (2) is subject to section 14 (public bodies).  2000, c. 17, s. 3 (3). Payments (4) For greater certainty, subsection (1) applies to all kinds of information and documents, including payments.  2000, c. 17, s. 3 (4). Functional Equivalency Rules",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>3 </b>(1) Nothing in this Act requires a person who uses, provides or accepts information or a document to use, provide or accept it in an electronic form without the person’s consent.  2000, c. 17, s. 3 (1).</p> <p class=\"headnote\">Implied consent</p> <p class=\"subsection\">(2) Consent for the purpose of subsection (1) may be inferred from a person’s conduct if there are reasonable grounds to believe that the consent is genuine and is relevant to the information or document.  2000, c. 17, s. 3 (2).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3) Subsection (2) is subject to section 14 (public bodies).  2000, c. 17, s. 3 (3).</p> <p class=\"headnote\">Payments</p> <p class=\"subsection\">(4) For greater certainty, subsection (1) applies to all kinds of information and documents, including payments.  2000, c. 17, s. 3 (4).</p> <p class=\"heading1\"><a name=\"BK4\"></a>Functional Equivalency Rules</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "Functional Equivalency Rules",
+            "section_x": "Functional Equivalency Rules",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "4.",
+            "section_x": "Legal recognition of electronic information and documents",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Legal recognition of electronic information and documents",
+            "content": "4 Information or a document to which this Act applies is not invalid or unenforceable by reason only of being in electronic form.  2000, c. 17, s.  4.",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>4 </b>Information or a document to which this Act applies is not invalid or unenforceable by reason only of being in electronic form.  2000, c. 17, s.  4.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "5.",
+            "section_x": "Legal requirement that information or document be in writing",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Legal requirement that information or document be in writing",
+            "content": "5 A legal requirement that information or a document be in writing is satisfied by information or a document that is in electronic form if it is accessible so as to be usable for subsequent reference.  2000, c. 17, s. 5.",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>5 </b>A legal requirement that information or a document be in writing is satisfied by information or a document that is in electronic form if it is accessible so as to be usable for subsequent reference.  2000, c. 17, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "6.",
+            "section_x": "Legal requirement to provide information or document in writing",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Legal requirement to provide information or document in writing",
+            "content": "6 (1) A legal requirement that a person provide information or a document in writing to another person is satisfied by the provision of the information or document in an electronic form that is, (a) accessible by the other person so as to be usable for subsequent reference; and (b) capable of being retained by the other person.  2000, c. 17, s. 6 (1). Additional rules, public bodies (2) Subsection (1) is subject to section 16.  2000, c. 17, s. 6 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>6 </b>(1) A legal requirement that a person provide information or a document in writing to another person is satisfied by the provision of the information or document in an electronic form that is,</p> <p class=\"paragraph\">  (a) accessible by the other person so as to be usable for subsequent reference; and</p> <p class=\"paragraph\">  (b) capable of being retained by the other person.  2000, c. 17, s. 6 (1).</p> <p class=\"headnote\">Additional rules, public bodies</p> <p class=\"subsection\">(2) Subsection (1) is subject to section 16.  2000, c. 17, s. 6 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "7.",
+            "section_x": "Legal requirement to provide information or document in specified non-electronic form",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Legal requirement to provide information or document in specified non-electronic form",
+            "content": "7 (1) A legal requirement that a person provide information or a document in a specified non-electronic form to another person is satisfied by the provision of the information or document in an electronic form that is, (a) organized in the same or substantially the same way as the specified non-electronic form; (b) accessible by the other person so as to be usable for subsequent reference; and (c) capable of being retained by the other person.  2000, c. 17, s. 7 (1). Additional rules, public bodies (2) Subsection (1) is subject to section 16.  2000, c. 17, s. 7 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK8\"></a><b>7 </b>(1) A legal requirement that a person provide information or a document in a specified non-electronic form to another person is satisfied by the provision of the information or document in an electronic form that is,</p> <p class=\"paragraph\">  (a) organized in the same or substantially the same way as the specified non-electronic form;</p> <p class=\"paragraph\">  (b) accessible by the other person so as to be usable for subsequent reference; and</p> <p class=\"paragraph\">  (c) capable of being retained by the other person.  2000, c. 17, s. 7 (1).</p> <p class=\"headnote\">Additional rules, public bodies</p> <p class=\"subsection\">(2) Subsection (1) is subject to section 16.  2000, c. 17, s. 7 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "8.",
+            "section_x": "Legal requirement re original documents",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Legal requirement re original documents",
+            "content": "8 (1) A legal requirement that an original document be provided, retained or examined is satisfied by the provision, retention or examination of an electronic document if, (a) there exists a reliable assurance as to the integrity of the information contained in the electronic document from the time the document to be provided, retained or examined was first created in its final form, whether as a written document or as an electronic document; and (b) in a case where the original document is to be provided to a person, the electronic document that is provided is accessible by the person so as to be usable for subsequent reference and capable of being retained by the person.  2000, c. 17, s. 8 (1). Integrity and reliability (2) For the purposes of clause (1) (a), (a) the criterion for assessing integrity is whether the information has remained complete and unaltered, apart from the introduction of any changes that arise in the normal course of communication, storage and display; (b) whether an assurance is reliable shall be determined in light of all the circumstances, including the purpose for which the document was created.  2000, c. 17, s. 8 (2). Additional rules, public bodies (3) Subsection (1) is subject to section 16.  2000, c. 17, s. 8 (3). (4) Repealed: 2019, c. 7, Sched. 49, s. 10. Section Amendments with date in force (d/m/y) 2019, c. 7, Sched. 49, s. 10 - 15/05/2020",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>8 </b>(1) A legal requirement that an original document be provided, retained or examined is satisfied by the provision, retention or examination of an electronic document if,</p> <p class=\"paragraph\">  (a) there exists a reliable assurance as to the integrity of the information contained in the electronic document from the time the document to be provided, retained or examined was first created in its final form, whether as a written document or as an electronic document; and</p> <p class=\"paragraph\">  (b) in a case where the original document is to be provided to a person, the electronic document that is provided is accessible by the person so as to be usable for subsequent reference and capable of being retained by the person.  2000, c. 17, s. 8 (1).</p> <p class=\"headnote\">Integrity and reliability</p> <p class=\"subsection\">(2) For the purposes of clause (1) (a),</p> <p class=\"paragraph\">  (a) the criterion for assessing integrity is whether the information has remained complete and unaltered, apart from the introduction of any changes that arise in the normal course of communication, storage and display;</p> <p class=\"paragraph\">  (b) whether an assurance is reliable shall be determined in light of all the circumstances, including the purpose for which the document was created.  2000, c. 17, s. 8 (2).</p> <p class=\"headnote\">Additional rules, public bodies</p> <p class=\"subsection\">(3) Subsection (1) is subject to section 16.  2000, c. 17, s. 8 (3).</p> <p class=\"subsection\">(4) <span class=\"ovsmallcap\">Repealed</span>: 2019, c. 7, Sched. 49, s. 10.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><span><a href=\"http://www.ontario.ca/laws/statute/S19007#sched49s10\">2019, c. 7, Sched. 49, s. 10</a></span></span> - 15/05/2020</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "9.",
+            "section_x": "Whether information or document is capable of being retained",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Whether information or document is capable of being retained",
+            "content": "9 For the purposes of sections 6, 7 and 8, electronic information or an electronic document is not capable of being retained if the person providing the information or document prevents or does anything to hinder its printing or storage by the recipient.  2000, c. 17, s. 9.",
+            "raw_html": "<p class=\"section\"><a name=\"BK10\"></a><b>9 </b>For the purposes of sections 6, 7 and 8, electronic information or an electronic document is not capable of being retained if the person providing the information or document prevents or does anything to hinder its printing or storage by the recipient.  2000, c. 17, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "10.",
+            "section_x": "Whether information or document is provided",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Whether information or document is provided",
+            "content": "10 (1) For the purposes of sections 6, 7 and 8, electronic information or an electronic document is not provided to a person if it is merely made available for access by the person, for example on a website.  2000, c. 17, s. 10 (1). Same (2) For greater certainty, the following are examples of actions that constitute providing electronic information or an electronic document to a person, if section 6, 7 or 8 is otherwise complied with: 1. Sending the electronic information or electronic document to the person by electronic mail. 2. Displaying it to the person in the course of a transaction that is being conducted electronically.  2000, c. 17, s. 10 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>10 </b>(1) For the purposes of sections 6, 7 and 8, electronic information or an electronic document is not provided to a person if it is merely made available for access by the person, for example on a website.  2000, c. 17, s. 10 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) For greater certainty, the following are examples of actions that constitute providing electronic information or an electronic document to a person, if section 6, 7 or 8 is otherwise complied with:</p> <p class=\"paragraph\">  1. Sending the electronic information or electronic document to the person by electronic mail. </p> <p class=\"paragraph\">  2. Displaying it to the person in the course of a transaction that is being conducted electronically.  2000, c. 17, s. 10 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "11.",
+            "section_x": "Legal requirement that document be signed",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Legal requirement that document be signed",
+            "content": "11 (1) Subject to subsections (3) and (4), a legal requirement that a document be signed is satisfied by an electronic signature.  2000, c. 17, s. 11 (1). Endorsement (2) For greater certainty, subsection (1) also applies to a legal requirement that a document be endorsed.  2000, c. 17, s. 11 (2). Reliability requirements (3) If the document is prescribed for the purposes of this subsection or belongs to a class prescribed for those purposes, the legal requirement is satisfied only if in light of all the circumstances, including any relevant agreement, the purpose for which the document is created and the time the electronic signature is made, (a) the electronic signature is reliable for the purpose of identifying the person; and (b) the association of the electronic signature with the relevant electronic document is reliable.  2000, c. 17, s. 11 (3). Other requirements (4) If the document is prescribed for the purposes of this subsection or belongs to a class prescribed for those purposes, the legal requirement is satisfied only if, (a) the electronic signature meets the prescribed requirements, if any, as to method; and (b) the electronic signature meets the prescribed information technology standards, if any.  2000, c. 17, s. 11 (4). Additional rules, public bodies (5) Subsection (1) is subject to section 17.  2000, c. 17, s. 11 (5). Seal (6) The document shall be deemed to have been sealed if, (a) a legal requirement that the document be signed is satisfied in accordance with subsection (1), (3) or (4), as the case may be; and (b) the electronic document and electronic signature meet the prescribed seal equivalency requirements.  2000, c. 17, s. 11 (6).",
+            "raw_html": "<p class=\"section\"><a name=\"BK12\"></a><b>11 </b>(1) Subject to subsections (3) and (4), a legal requirement that a document be signed is satisfied by an electronic signature.  2000, c. 17, s. 11 (1).</p> <p class=\"headnote\">Endorsement</p> <p class=\"subsection\">(2) For greater certainty, subsection (1) also applies to a legal requirement that a document be endorsed.  2000, c. 17, s. 11 (2).</p> <p class=\"headnote\">Reliability requirements</p> <p class=\"subsection\">(3) If the document is prescribed for the purposes of this subsection or belongs to a class prescribed for those purposes, the legal requirement is satisfied only if in light of all the circumstances, including any relevant agreement, the purpose for which the document is created and the time the electronic signature is made,</p> <p class=\"paragraph\">  (a) the electronic signature is reliable for the purpose of identifying the person; and</p> <p class=\"paragraph\">  (b) the association of the electronic signature with the relevant electronic document is reliable.  2000, c. 17, s. 11 (3).</p> <p class=\"headnote\">Other requirements</p> <p class=\"subsection\">(4) If the document is prescribed for the purposes of this subsection or belongs to a class prescribed for those purposes, the legal requirement is satisfied only if,</p> <p class=\"paragraph\">  (a) the electronic signature meets the prescribed requirements, if any, as to method; and</p> <p class=\"paragraph\">  (b) the electronic signature meets the prescribed information technology standards, if any.  2000, c. 17, s. 11 (4).</p> <p class=\"headnote\">Additional rules, public bodies</p> <p class=\"subsection\">(5) Subsection (1) is subject to section 17.  2000, c. 17, s. 11 (5).</p> <p class=\"headnote\">Seal</p> <p class=\"subsection\">(6) The document shall be deemed to have been sealed if,</p> <p class=\"paragraph\">  (a) a legal requirement that the document be signed is satisfied in accordance with subsection (1), (3) or (4), as the case may be; and</p> <p class=\"paragraph\">  (b) the electronic document and electronic signature meet the prescribed seal equivalency requirements.  2000, c. 17, s. 11 (6).</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "12.",
+            "section_x": "Legal requirement re retention of written documents",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Legal requirement re retention of written documents",
+            "content": "12 (1) A legal requirement to retain a document that is originally created, sent or received in written form is satisfied by the retention of an electronic document if, (a) the electronic document is retained in the same format as the one in which the written document was created, sent or received, or in a format that accurately represents the information contained in the written document; and (b) the information in the electronic document will be accessible so as to be usable for subsequent reference by any person who is entitled to have access to the written document or who is authorized to require its production.  2000, c. 17, s. 12 (1). Same, electronic documents (2) A legal requirement to retain a document that is originally created, sent or received electronically is satisfied by the retention of an electronic document if, (a) the electronic document is retained in the format in which it was created, sent or received, or in a format that accurately represents the information contained in the document that was originally created, sent or received; (b) the information in the electronic document that is retained will be accessible so as to be usable for subsequent reference by any person who is entitled to have access to the document that was originally created, sent or received, or who is authorized to require its production; and (c) where the electronic document was sent or received, information, if any, that identifies its origin and destination and the date and time when it was sent or received is also retained.  2000, c. 17, s. 12 (2). Previously retained electronic documents (3) A legal requirement described in subsection (2) is satisfied despite non-compliance with clause (2) (c) if the electronic document was retained before the day this Act comes into force.  2000, c. 17, s. 12 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>12 </b>(1) A legal requirement to retain a document that is originally created, sent or received in written form is satisfied by the retention of an electronic document if,</p> <p class=\"paragraph\">  (a) the electronic document is retained in the same format as the one in which the written document was created, sent or received, or in a format that accurately represents the information contained in the written document; and</p> <p class=\"paragraph\">  (b) the information in the electronic document will be accessible so as to be usable for subsequent reference by any person who is entitled to have access to the written document or who is authorized to require its production.  2000, c. 17, s. 12 (1).</p> <p class=\"headnote\">Same, electronic documents</p> <p class=\"subsection\">(2) A legal requirement to retain a document that is originally created, sent or received electronically is satisfied by the retention of an electronic document if,</p> <p class=\"paragraph\">  (a) the electronic document is retained in the format in which it was created, sent or received, or in a format that accurately represents the information contained in the document that was originally created, sent or received;</p> <p class=\"paragraph\">  (b) the information in the electronic document that is retained will be accessible so as to be usable for subsequent reference by any person who is entitled to have access to the document that was originally created, sent or received, or who is authorized to require its production; and</p> <p class=\"paragraph\">  (c) where the electronic document was sent or received, information, if any, that identifies its origin and destination and the date and time when it was sent or received is also retained.  2000, c. 17, s. 12 (2).</p> <p class=\"headnote\">Previously retained electronic documents</p> <p class=\"subsection\">(3) A legal requirement described in subsection (2) is satisfied despite non-compliance with clause (2) (c) if the electronic document was retained before the day this Act comes into force.  2000, c. 17, s. 12 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "13.",
+            "section_x": "Legal requirements re one or more copies",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Legal requirements re one or more copies",
+            "content": "13 If the use of electronic information or an electronic document is otherwise permitted, a legal requirement that a copy of information or of a document be provided or that one or more copies of information or of a document be provided to the same person at the same time is satisfied by the provision of a single version of electronic information or of an electronic document.  2000, c. 17, s. 13. Public Bodies",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>13 </b>If the use of electronic information or an electronic document is otherwise permitted, a legal requirement that a copy of information or of a document be provided or that one or more copies of information or of a document be provided to the same person at the same time is satisfied by the provision of a single version of electronic information or of an electronic document.  2000, c. 17, s. 13.</p> <p class=\"heading1\"><a name=\"BK15\"></a>Public Bodies</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "Public Bodies",
+            "section_x": "Public Bodies",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "14.",
+            "section_x": "No implied consent",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "No implied consent",
+            "content": "14 For the purposes of subsection 3 (1), the consent of a public body is given only by an explicit communication that is accessible to the persons likely to seek to communicate with the public body about the matter or purpose in question.  2000, c. 17, s. 14.",
+            "raw_html": "<p class=\"section\"><a name=\"BK16\"></a><b>14 </b>For the purposes of subsection 3 (1), the consent of a public body is given only by an explicit communication that is accessible to the persons likely to seek to communicate with the public body about the matter or purpose in question.  2000, c. 17, s. 14.</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "15.",
+            "section_x": "Power to use electronic means",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Power to use electronic means",
+            "content": "15 (1) If a public body has power to create, collect, receive, store, transfer, distribute, publish or otherwise deal with information and documents, it has power to do so electronically.  2000, c. 17, s. 15 (1). Express provision (2) Subsection (1) is subject to any provision of law that expressly prohibits the use of electronic means or expressly requires them to be used in specified ways.  2000, c. 17, s. 15 (2). References to writing or signing (3) For the purposes of subsection (2), a reference to writing or signing does not in itself constitute an express prohibition of the use of electronic means.  2000, c. 17, s. 15 (3). Consent of other persons (4) Nothing in this Act authorizes a public body to require other persons to use, provide or accept information or documents in electronic form without their consent.  2000, c. 17, s. 15 (4).",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>15 </b>(1) If a public body has power to create, collect, receive, store, transfer, distribute, publish or otherwise deal with information and documents, it has power to do so electronically.  2000, c. 17, s. 15 (1).</p> <p class=\"headnote\">Express provision</p> <p class=\"subsection\">(2) Subsection (1) is subject to any provision of law that expressly prohibits the use of electronic means or expressly requires them to be used in specified ways.  2000, c. 17, s. 15 (2).</p> <p class=\"headnote\">References to writing or signing</p> <p class=\"subsection\">(3) For the purposes of subsection (2), a reference to writing or signing does not in itself constitute an express prohibition of the use of electronic means.  2000, c. 17, s. 15 (3).</p> <p class=\"headnote\">Consent of other persons</p> <p class=\"subsection\">(4) Nothing in this Act authorizes a public body to require other persons to use, provide or accept information or documents in electronic form without their consent.  2000, c. 17, s. 15 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "16.",
+            "section_x": "Additional conditions, provision of electronic information or documents",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Additional conditions, provision of electronic information or documents",
+            "content": "16 When information or a document is to be provided to a public body, a legal requirement mentioned in section 6, 7 or 8 is satisfied by the provision of electronic information or an electronic document only if, (a) the electronic information or document meets the information technology standards, if any, of the public body; (b) the public body acknowledges receipt of the information or document in accordance with its own acknowledgment rules, if any; and (c) the conditions in section 6, 7 or 8, as the case may be, are also satisfied.  2000, c. 17, s. 16.",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>16 </b>When information or a document is to be provided to a public body, a legal requirement mentioned in section 6, 7 or 8 is satisfied by the provision of electronic information or an electronic document only if,</p> <p class=\"paragraph\">  (a) the electronic information or document meets the information technology standards, if any, of the public body;</p> <p class=\"paragraph\">  (b) the public body acknowledges receipt of the information or document in accordance with its own acknowledgment rules, if any; and</p> <p class=\"paragraph\">  (c) the conditions in section 6, 7 or 8, as the case may be, are also satisfied.  2000, c. 17, s. 16.</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "17.",
+            "section_x": "Additional conditions, electronic signatures",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Additional conditions, electronic signatures",
+            "content": "17 A legal requirement for a signature that is to be provided to a public body is satisfied by an electronic signature only if, (a) the electronic signature meets the information technology standards, if any, of the public body; and (b) the electronic signature meets the requirements as to method and as to reliability of the signature, if any, of the public body.  2000, c. 17, s. 17.",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>17 </b>A legal requirement for a signature that is to be provided to a public body is satisfied by an electronic signature only if,</p> <p class=\"paragraph\">  (a) the electronic signature meets the information technology standards, if any, of the public body; and</p> <p class=\"paragraph\">  (b) the electronic signature meets the requirements as to method and as to reliability of the signature, if any, of the public body.  2000, c. 17, s. 17.</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "18.",
+            "section_x": "Electronic payments",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Electronic payments",
+            "content": "18 (1) Subject to subsection (2), a payment to or by a public body may be made in electronic form in any manner specified by the public body.  2000, c. 17, s. 18 (1). Same, Minister of Finance (2) A payment into or out of the Consolidated Revenue Fund may be made in electronic form in any manner specified by the Minister of Finance.  2000, c. 17, s. 18 (2). Electronic Transactions and Electronic Agents",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>18 </b>(1) Subject to subsection (2), a payment to or by a public body may be made in electronic form in any manner specified by the public body.  2000, c. 17, s. 18 (1).</p> <p class=\"headnote\">Same, Minister of Finance</p> <p class=\"subsection\">(2) A payment into or out of the Consolidated Revenue Fund may be made in electronic form in any manner specified by the Minister of Finance.  2000, c. 17, s. 18 (2).</p> <p class=\"heading1\"><a name=\"BK21\"></a>Electronic Transactions and Electronic Agents</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "Electronic Transactions and Electronic Agents",
+            "section_x": "Electronic Transactions and Electronic Agents",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "19.",
+            "section_x": "Formation and operation of electronic contracts",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Formation and operation of electronic contracts",
+            "content": "19 (1) An offer, the acceptance of an offer or any other matter that is material to the formation or operation of a contract may be expressed, (a) by means of electronic information or an electronic document; or (b) by an act that is intended to result in electronic communication, such as, (i) touching or clicking on an appropriate icon or other place on a computer screen, or (ii) speaking.  2000, c. 17, s. 19 (1). Contracting out (2) Subsection (1) applies unless the parties agree otherwise.  2000, c. 17, s. 19 (2). Legal recognition of electronic contracts (3) A contract is not invalid or unenforceable by reason only of being in electronic form.  2000, c. 17, s. 19 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>19 </b>(1) An offer, the acceptance of an offer or any other matter that is material to the formation or operation of a contract may be expressed,</p> <p class=\"paragraph\">  (a) by means of electronic information or an electronic document; or</p> <p class=\"paragraph\">  (b) by an act that is intended to result in electronic communication, such as,</p> <p class=\"subclause\">  (i) touching or clicking on an appropriate icon or other place on a computer screen, or</p> <p class=\"subclause\">  (ii) speaking.  2000, c. 17, s. 19 (1).</p> <p class=\"headnote\">Contracting out</p> <p class=\"subsection\">(2) Subsection (1) applies unless the parties agree otherwise.  2000, c. 17, s. 19 (2).</p> <p class=\"headnote\">Legal recognition of electronic contracts</p> <p class=\"subsection\">(3) A contract is not invalid or unenforceable by reason only of being in electronic form.  2000, c. 17, s. 19 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "20.",
+            "section_x": "Involvement of electronic agents",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Involvement of electronic agents",
+            "content": "20 A contract may be formed by the interaction of an electronic agent and an individual or by the interaction of electronic agents.  2000, c. 17, s. 20.",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>20 </b>A contract may be formed by the interaction of an electronic agent and an individual or by the interaction of electronic agents.  2000, c. 17, s. 20.</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "21.",
+            "section_x": "Errors, transactions with electronic agents",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Errors, transactions with electronic agents",
+            "content": "21 An electronic transaction between an individual and another person’s electronic agent is not enforceable by the other person if, (a) the individual makes a material error in electronic information or an electronic document used in the transaction; (b) the electronic agent does not give the individual an opportunity to prevent or correct the error; (c) on becoming aware of the error, the individual promptly notifies the other person; and (d) in a case where consideration is received as a result of the error, the individual, (i) returns or destroys the consideration in accordance with the other person’s instructions or, if there are no instructions, deals with the consideration in a reasonable manner, and (ii) does not benefit materially by receiving the consideration.  2000, c. 17, s. 21.",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>21 </b>An electronic transaction between an individual and another person’s electronic agent is not enforceable by the other person if,</p> <p class=\"paragraph\">  (a) the individual makes a material error in electronic information or an electronic document used in the transaction;</p> <p class=\"paragraph\">  (b) the electronic agent does not give the individual an opportunity to prevent or correct the error;</p> <p class=\"paragraph\">  (c) on becoming aware of the error, the individual promptly notifies the other person; and</p> <p class=\"paragraph\">  (d) in a case where consideration is received as a result of the error, the individual,</p> <p class=\"subclause\">  (i) returns or destroys the consideration in accordance with the other person’s instructions or, if there are no instructions, deals with the consideration in a reasonable manner, and</p> <p class=\"subclause\">  (ii) does not benefit materially by receiving the consideration.  2000, c. 17, s. 21.</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "22.",
+            "section_x": "Time of sending of electronic information or document",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Time of sending of electronic information or document",
+            "content": "22 (1) Electronic information or an electronic document is sent when it enters an information system outside the sender’s control or, if the sender and the addressee use the same information system, when it becomes capable of being retrieved and processed by the addressee.  2000, c. 17, s. 22 (1). Contracting out (2) Subsection (1) applies unless the parties agree otherwise.  2000, c. 17, s. 22 (2). Presumption, time of receipt (3) Electronic information or an electronic document is presumed to be received by the addressee, (a) if the addressee has designated or uses an information system for the purpose of receiving information or documents of the type sent, when it enters that information system and becomes capable of being retrieved and processed by the addressee; or (b) if the addressee has not designated or does not use an information system for the purpose of receiving information or documents of the type sent, when the addressee becomes aware of the information or document in the addressee’s information system and it becomes capable of being retrieved and processed by the addressee.  2000, c. 17, s. 22 (3). Places of sending and receipt (4) Electronic information or an electronic document is deemed to be sent from the sender’s place of business and received at the addressee’s place of business.  2000, c. 17, s. 22 (4). Contracting out (5) Subsection (4) applies unless the parties agree otherwise.  2000, c. 17, s. 22 (5). Place of business (6) If the sender or the addressee has more than one place of business, the place of business for the purposes of subsection (4) is the one with the closest relationship to the underlying transaction to which the electronic information or document relates or, if there is no underlying transaction, the person’s principal place of business.  2000, c. 17, s. 22 (6). Habitual residence (7) If the sender or the addressee does not have a place of business, the person’s place of habitual residence is deemed to be the place of business for the purposes of subsection (4).  2000, c. 17, s. 22 (7). Contracts for the Carriage of Goods",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>22 </b>(1) Electronic information or an electronic document is sent when it enters an information system outside the sender’s control or, if the sender and the addressee use the same information system, when it becomes capable of being retrieved and processed by the addressee.  2000, c. 17, s. 22 (1).</p> <p class=\"headnote\">Contracting out</p> <p class=\"subsection\">(2) Subsection (1) applies unless the parties agree otherwise.  2000, c. 17, s. 22 (2).</p> <p class=\"headnote\">Presumption, time of receipt</p> <p class=\"subsection\">(3) Electronic information or an electronic document is presumed to be received by the addressee,</p> <p class=\"paragraph\">  (a) if the addressee has designated or uses an information system for the purpose of receiving information or documents of the type sent, when it enters that information system and becomes capable of being retrieved and processed by the addressee; or</p> <p class=\"paragraph\">  (b) if the addressee has not designated or does not use an information system for the purpose of receiving information or documents of the type sent, when the addressee becomes aware of the information or document in the addressee’s information system and it becomes capable of being retrieved and processed by the addressee.  2000, c. 17, s. 22 (3).</p> <p class=\"headnote\">Places of sending and receipt</p> <p class=\"subsection\">(4) Electronic information or an electronic document is deemed to be sent from the sender’s place of business and received at the addressee’s place of business.  2000, c. 17, s. 22 (4).</p> <p class=\"headnote\">Contracting out</p> <p class=\"subsection\">(5) Subsection (4) applies unless the parties agree otherwise.  2000, c. 17, s. 22 (5).</p> <p class=\"headnote\">Place of business</p> <p class=\"subsection\">(6) If the sender or the addressee has more than one place of business, the place of business for the purposes of subsection (4) is the one with the closest relationship to the underlying transaction to which the electronic information or document relates or, if there is no underlying transaction, the person’s principal place of business.  2000, c. 17, s. 22 (6).</p> <p class=\"headnote\">Habitual residence</p> <p class=\"subsection\">(7) If the sender or the addressee does not have a place of business, the person’s place of habitual residence is deemed to be the place of business for the purposes of subsection (4).  2000, c. 17, s. 22 (7).</p> <p class=\"heading1\"><a name=\"BK26\"></a>Contracts for the Carriage of Goods</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "Contracts for the Carriage of Goods",
+            "section_x": "Contracts for the Carriage of Goods",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "23.",
+            "section_x": "Acts related to contracts for the carriage of goods",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Acts related to contracts for the carriage of goods",
+            "content": "23 (1) This section applies to anything done in connection with a contract for the carriage of goods, including, but not limited to, (a) furnishing the marks, number, quantity or weight of goods; (b) stating or declaring the nature or value of goods; (c) issuing a receipt for goods; (d) confirming that goods have been loaded; (e) giving instructions to a carrier of goods; (f) claiming delivery of goods; (g) authorizing release of goods; (h) giving notice of loss of, or damage to, goods; (i) undertaking to deliver goods to a named person or a person authorized to claim delivery; (j) granting, acquiring, renouncing, surrendering, transferring or negotiating rights in goods; (k) notifying a person of terms and conditions of a contract of carriage of goods; (l) giving a notice or statement in connection with the performance of a contract of carriage of goods; and (m) acquiring or transferring rights and obligations under a contract of carriage of goods.  2000, c. 17, s. 23 (1). Use of electronic documents (2) A legal requirement that an act referred to in subsection (1) be done in writing or by using a written document is satisfied if the act is done electronically.  2000, c. 17, s. 23 (2). Exception, documents of title (3) Despite subsection (2), if a right is to be granted to or an obligation is to be acquired by a particular person, and there is a legal requirement that this be done by the transfer or use of a written document, the legal requirement is satisfied by the use of one or more electronic documents only if they are created by a method that gives a reliable assurance that the right or obligation has become the right or obligation of that person.  2000, c. 17, s. 23 (3). Standard of reliability (4) For the purposes of subsection (3), whether an assurance is reliable shall be determined in light of all the circumstances, including the purpose for which the right or obligation is conveyed and any relevant agreement.  2000, c. 17, s. 23 (4). Reverting to writing (5) If one or more electronic documents are used to do an act referred to in clause (1) (j) or (m), no written document used to do the same act with respect to the same goods is valid unless, (a)   the use of electronic documents has been terminated with respect to the act and the goods, unilaterally or by agreement; and (b) the document in writing that replaces the electronic document contains a statement of the termination.  2000, c. 17, s. 23 (5). Same (6) The replacement of the electronic documents by a document in writing described in subsection (5) does not affect the parties’ rights or obligations.  2000, c. 17, s. 23 (6). Rule of law re written document (7) No rule of law is inapplicable to a contract of carriage of goods by reason only that the contract is set out in or evidenced by one or more electronic documents rather than by written documents.  2000, c. 17, s. 23 (7). Forms",
+            "raw_html": "<p class=\"section\"><a name=\"BK27\"></a><b>23 </b>(1) This section applies to anything done in connection with a contract for the carriage of goods, including, but not limited to,</p> <p class=\"paragraph\">  (a) furnishing the marks, number, quantity or weight of goods;</p> <p class=\"paragraph\">  (b) stating or declaring the nature or value of goods;</p> <p class=\"paragraph\">  (c) issuing a receipt for goods;</p> <p class=\"paragraph\">  (d) confirming that goods have been loaded;</p> <p class=\"paragraph\">  (e) giving instructions to a carrier of goods;</p> <p class=\"paragraph\">  (f) claiming delivery of goods;</p> <p class=\"paragraph\">  (g) authorizing release of goods;</p> <p class=\"paragraph\">  (h) giving notice of loss of, or damage to, goods;</p> <p class=\"paragraph\">  (i) undertaking to deliver goods to a named person or a person authorized to claim delivery;</p> <p class=\"paragraph\">  (j) granting, acquiring, renouncing, surrendering, transferring or negotiating rights in goods;</p> <p class=\"paragraph\">  (k) notifying a person of terms and conditions of a contract of carriage of goods;</p> <p class=\"paragraph\">  (l) giving a notice or statement in connection with the performance of a contract of carriage of goods; and</p> <p class=\"paragraph\">  (m) acquiring or transferring rights and obligations under a contract of carriage of goods.  2000, c. 17, s. 23 (1).</p> <p class=\"headnote\">Use of electronic documents</p> <p class=\"subsection\">(2) A legal requirement that an act referred to in subsection (1) be done in writing or by using a written document is satisfied if the act is done electronically.  2000, c. 17, s. 23 (2).</p> <p class=\"headnote\">Exception, documents of title</p> <p class=\"subsection\">(3) Despite subsection (2), if a right is to be granted to or an obligation is to be acquired by a particular person, and there is a legal requirement that this be done by the transfer or use of a written document, the legal requirement is satisfied by the use of one or more electronic documents only if they are created by a method that gives a reliable assurance that the right or obligation has become the right or obligation of that person.  2000, c. 17, s. 23 (3).</p> <p class=\"headnote\">Standard of reliability</p> <p class=\"subsection\">(4) For the purposes of subsection (3), whether an assurance is reliable shall be determined in light of all the circumstances, including the purpose for which the right or obligation is conveyed and any relevant agreement.  2000, c. 17, s. 23 (4).</p> <p class=\"headnote\">Reverting to writing</p> <p class=\"subsection\">(5) If one or more electronic documents are used to do an act referred to in clause (1) (j) or (m), no written document used to do the same act with respect to the same goods is valid unless,</p> <p class=\"paragraph\">  (a)   the use of electronic documents has been terminated with respect to the act and the goods, unilaterally or by agreement; and</p> <p class=\"paragraph\">  (b) the document in writing that replaces the electronic document contains a statement of the termination.  2000, c. 17, s. 23 (5).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(6) The replacement of the electronic documents by a document in writing described in subsection (5) does not affect the parties’ rights or obligations.  2000, c. 17, s. 23 (6).</p> <p class=\"headnote\">Rule of law re written document</p> <p class=\"subsection\">(7) No rule of law is inapplicable to a contract of carriage of goods by reason only that the contract is set out in or evidenced by one or more electronic documents rather than by written documents.  2000, c. 17, s. 23 (7).</p> <p class=\"heading1\"><a name=\"BK28\"></a>Forms</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "Forms",
+            "section_x": "Forms",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "24.",
+            "section_x": "Authority to prescribe, approve or provide form",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Authority to prescribe, approve or provide form",
+            "content": "24 (1) Authority to prescribe, approve or provide a form includes authority to prescribe, approve or provide an electronic form and to prescribe requirements for its electronic signature.  2000, c. 17, s. 24 (1). Authority to prescribe or approve manner of submitting form (2) Authority to prescribe or approve the manner of submitting a form includes authority to prescribe or approve that it be submitted electronically.  2000, c. 17, s. 24 (2). Statutory form (3) If a form is set out in an Act, the Lieutenant Governor in Council has authority to make a regulation under that Act prescribing an electronic form that is substantially the same as the form set out in the Act and prescribing requirements for its electronic signature; the prescribed electronic form may be substituted for the statutory form for all purposes.  2000, c. 17, s. 24 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>24 </b>(1) Authority to prescribe, approve or provide a form includes authority to prescribe, approve or provide an electronic form and to prescribe requirements for its electronic signature.  2000, c. 17, s. 24 (1).</p> <p class=\"headnote\">Authority to prescribe or approve manner of submitting form</p> <p class=\"subsection\">(2) Authority to prescribe or approve the manner of submitting a form includes authority to prescribe or approve that it be submitted electronically.  2000, c. 17, s. 24 (2).</p> <p class=\"headnote\">Statutory form</p> <p class=\"subsection\">(3) If a form is set out in an Act, the Lieutenant Governor in Council has authority to make a regulation under that Act prescribing an electronic form that is substantially the same as the form set out in the Act and prescribing requirements for its electronic signature; the prescribed electronic form may be substituted for the statutory form for all purposes.  2000, c. 17, s. 24 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "25.",
+            "section_x": "Communication of information",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Communication of information",
+            "content": "25 (1) If a provision of law requires a person to communicate information otherwise than by means of a form, the Lieutenant Governor in Council has authority to make a regulation prescribing electronic means that may be used to communicate the information and prescribing requirements for electronic signature of the information.  2000, c. 17, s. 25 (1). Same (2) For the purposes of subsection (1), (a) if the provision of law forms part of an Act, the regulation prescribing electronic means is made under that Act; and (b) if the provision of law forms part of a regulation, the regulation prescribing electronic means is made under the same Act as that regulation.  2000, c. 17, s. 25 (2). Application of Act",
+            "raw_html": "<p class=\"section\"><a name=\"BK30\"></a><b>25 </b>(1) If a provision of law requires a person to communicate information otherwise than by means of a form, the Lieutenant Governor in Council has authority to make a regulation prescribing electronic means that may be used to communicate the information and prescribing requirements for electronic signature of the information.  2000, c. 17, s. 25 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) For the purposes of subsection (1),</p> <p class=\"paragraph\">  (a) if the provision of law forms part of an Act, the regulation prescribing electronic means is made under that Act; and</p> <p class=\"paragraph\">  (b) if the provision of law forms part of a regulation, the regulation prescribing electronic means is made under the same Act as that regulation.  2000, c. 17, s. 25 (2).</p> <p class=\"heading1\"><a name=\"BK31\"></a>Application of Act</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "Application of Act",
+            "section_x": "Application of Act",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "25.1",
+            "section_x": "Application to information, documents",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Application to information, documents",
+            "content": "25.1 For greater certainty, the application of this Act to information or a document is not affected by when the information or document was created or came into existence. 2013, c. 2, Sched. 5, s. 1. Section Amendments with date in force (d/m/y) 2013, c. 2, Sched. 5, s. 1 - 1/07/2015.",
+            "raw_html": "<p class=\"section\"><a name=\"BK32\"></a><b>25.1 </b>For greater certainty, the application of this Act to information or a document is not affected by when the information or document was created or came into existence. 2013, c. 2, Sched. 5, s. 1.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><a href=\"http://www.ontario.ca/laws/statute/S13002#sched5s1\">2013, c. 2, Sched. 5, s. 1</a> - 1/07/2015.</p>"
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "26.",
+            "section_x": "Preservation of other laws re electronic documents",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Preservation of other laws re electronic documents",
+            "content": "26 (1) Nothing in this Act limits the operation of any provision of law that expressly authorizes, prohibits or regulates the use of electronic information or electronic documents.  2000, c. 17, s. 26 (1). Other requirements continue to apply (2) Nothing in this Act limits the operation of a legal requirement for information to be posted or displayed in a specified manner or for any information or document to be transmitted by a specified method.  2000, c. 17, s. 26 (2). References to writing or signing (3) A reference to writing or signing does not in itself constitute a prohibition for the purpose of subsection (1) or a legal requirement for the purpose of subsection (2).  2000, c. 17, s. 26 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK33\"></a><b>26 </b>(1) Nothing in this Act limits the operation of any provision of law that expressly authorizes, prohibits or regulates the use of electronic information or electronic documents.  2000, c. 17, s. 26 (1).</p> <p class=\"headnote\">Other requirements continue to apply</p> <p class=\"subsection\">(2) Nothing in this Act limits the operation of a legal requirement for information to be posted or displayed in a specified manner or for any information or document to be transmitted by a specified method.  2000, c. 17, s. 26 (2).</p> <p class=\"headnote\">References to writing or signing</p> <p class=\"subsection\">(3) A reference to writing or signing does not in itself constitute a prohibition for the purpose of subsection (1) or a legal requirement for the purpose of subsection (2).  2000, c. 17, s. 26 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "27.",
+            "section_x": "Preservation of other laws re privacy, access to information",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Preservation of other laws re privacy, access to information",
+            "content": "27 (1) Nothing in this Act limits the operation of the Freedom of Information and Protection of Privacy Act, the Municipal Freedom of Information and Protection of Privacy Act, or any other provision of law that is intended to, (a) protect the privacy of individuals; or (b) provide rights of access to information held by public bodies and similar entities.  2000, c. 17, s. 27 (1). No premature destruction of non-electronic documents (2) This Act does not authorize a public body or similar entity to destroy a document whose retention is otherwise required by a provision of law or a schedule for the retention or destruction of documents, where the document, (a) is in a non-electronic form; and (b) was first created by or on behalf of the body or entity, or communicated to it, in that non-electronic form.  2000, c. 17, s. 27 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK34\"></a><b>27 </b>(1) Nothing in this Act limits the operation of the <i>Freedom of Information and Protection of Privacy Act</i>, the <i>Municipal Freedom of Information and Protection of Privacy Act</i>, or any other provision of law that is intended to,</p> <p class=\"paragraph\">  (a) protect the privacy of individuals; or</p> <p class=\"paragraph\">  (b) provide rights of access to information held by public bodies and similar entities.  2000, c. 17, s. 27 (1).</p> <p class=\"headnote\">No premature destruction of non-electronic documents</p> <p class=\"subsection\">(2) This Act does not authorize a public body or similar entity to destroy a document whose retention is otherwise required by a provision of law or a schedule for the retention or destruction of documents, where the document,</p> <p class=\"paragraph\">  (a) is in a non-electronic form; and</p> <p class=\"paragraph\">  (b) was first created by or on behalf of the body or entity, or communicated to it, in that non-electronic form.  2000, c. 17, s. 27 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "28.",
+            "section_x": "Legal requirements to which Act does not apply",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Legal requirements to which Act does not apply",
+            "content": "28 This Act does not apply to legal requirements that are prescribed or belong to prescribed classes.  2000, c. 17, s. 28.",
+            "raw_html": "<p class=\"section\"><a name=\"BK35\"></a><b>28 </b>This Act does not apply to legal requirements that are prescribed or belong to prescribed classes.  2000, c. 17, s. 28.</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "29.",
+            "section_x": "Biometric information",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Biometric information",
+            "content": "29 (1) This Act does not apply to the use of biometric information as an electronic signature or other personal identifier, unless another Act expressly provides for that use or unless all parties to a transaction expressly consent to that use.  2000, c. 17, s. 29 (1). Definition (2) In subsection (1), “biometric information” means information derived from an individual’s unique personal characteristics, other than a representation of his or her photograph or signature.  2000, c. 17, s. 29 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK36\"></a><b>29 </b>(1) This Act does not apply to the use of biometric information as an electronic signature or other personal identifier, unless another Act expressly provides for that use or unless all parties to a transaction expressly consent to that use.  2000, c. 17, s. 29 (1).</p> <p class=\"headnote\">Definition</p> <p class=\"subsection\">(2) In subsection (1),</p> <p class=\"definition\">“biometric information” means information derived from an individual’s unique personal characteristics, other than a representation of his or her photograph or signature.  2000, c. 17, s. 29 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "30.",
+            "section_x": "Election Act and Municipal Elections Act, 1996",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Election Act and Municipal Elections Act, 1996",
+            "content": "30 This Act does not apply to anything done under the Election Act or the Municipal Elections Act, 1996.  2000, c. 17, s. 30.",
+            "raw_html": "<p class=\"section\"><a name=\"BK37\"></a><b>30 </b>This Act does not apply to anything done under the <i>Election Act</i> or the <i>Municipal Elections Act, 1996</i>.  2000, c. 17, s. 30.</p>"
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "31.",
+            "section_x": "Documents to which Act does not apply",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Documents to which Act does not apply",
+            "content": "31 (1) This Act does not apply to the following documents: 1. Wills and codicils. 2. Trusts created by wills or codicils. 3. Powers of attorney, to the extent that they are in respect of an individual’s financial affairs or personal care. 4.  Repealed: 2013, c. 2, Sched. 5, s. 2. 5. Negotiable instruments. 6. Documents that are prescribed or belong to a prescribed class.  2000, c. 17, s. 31 (1); 2013, c. 2, Sched. 5, s. 2. Exception: documents of title (2) Except for section 23 (contracts for carriage of goods), this Act does not apply to documents of title.  2000, c. 17, s. 31 (2). Section Amendments with date in force (d/m/y) 2013, c. 2, Sched. 5, s. 2 - 1/07/2015. Regulations",
+            "raw_html": "<p class=\"section\"><a name=\"BK38\"></a><b>31 </b>(1) This Act does not apply to the following documents:</p> <p class=\"paragraph\">  1. Wills and codicils.</p> <p class=\"paragraph\">  2. Trusts created by wills or codicils.</p> <p class=\"paragraph\">  3. Powers of attorney, to the extent that they are in respect of an individual’s financial affairs or personal care.</p> <p class=\"paragraph\">  4.  <span class=\"ovsmallcap\">Repealed</span>: 2013, c. 2, Sched. 5, s. 2.</p> <p class=\"paragraph\">  5. Negotiable instruments.</p> <p class=\"paragraph\">  6. Documents that are prescribed or belong to a prescribed class.  2000, c. 17, s. 31 (1); 2013, c. 2, Sched. 5, s. 2.</p> <p class=\"headnote\">Exception: documents of title</p> <p class=\"subsection\">(2) Except for section 23 (contracts for carriage of goods), this Act does not apply to documents of title.  2000, c. 17, s. 31 (2).</p> <p align=\"left\" class=\"footnoteLeft\"><a name=\"BK39\"></a><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><a href=\"http://www.ontario.ca/laws/statute/S13002#sched5s2\">2013, c. 2, Sched. 5, s. 2</a> - 1/07/2015.</p> <p class=\"heading1\">Regulations</p>"
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "Regulations",
+            "section_x": "Regulations",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "32.",
+            "section_x": "Regulations",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Regulations",
+            "content": "32 The Lieutenant Governor in Council may, by regulation, (a) designate entities or classes of entities as public bodies for the purposes of clause (c) of the definition of “public body” in subsection 1 (1); (b) prescribe documents or classes of documents for the purposes of subsection 11 (3) (reliability requirements for electronic signatures); (c) prescribe documents or classes of documents, requirements as to method for electronic signatures and information technology standards for the purposes of subsection 11 (4); (d) prescribe seal equivalency requirements for electronic signatures for the purposes of subsection 11 (6); (e) prescribe legal requirements or classes of legal requirements for the purposes of section 28; (f) prescribe documents or classes of documents for the purposes of paragraph 6 of subsection 31 (1).  2000, c. 17, s. 32. 33 Omitted (provides for coming into force of provisions of this Act).  2000, c. 17, s. 33. 34 Omitted (enacts short title of this Act).  2000, c. 17, s. 34. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK40\"></a><b>32 </b>The Lieutenant Governor in Council may, by regulation,</p> <p class=\"paragraph\">  (a) designate entities or classes of entities as public bodies for the purposes of clause (c) of the definition of “public body” in subsection 1 (1);</p> <p class=\"paragraph\">  (b) prescribe documents or classes of documents for the purposes of subsection 11 (3) (reliability requirements for electronic signatures);</p> <p class=\"paragraph\">  (c) prescribe documents or classes of documents, requirements as to method for electronic signatures and information technology standards for the purposes of subsection 11 (4);</p> <p class=\"paragraph\">  (d) prescribe seal equivalency requirements for electronic signatures for the purposes of subsection 11 (6);</p> <p class=\"paragraph\">  (e) prescribe legal requirements or classes of legal requirements for the purposes of section 28;</p> <p class=\"paragraph\">  (f) prescribe documents or classes of documents for the purposes of paragraph 6 of subsection 31 (1).  2000, c. 17, s. 32.</p> <p class=\"section\"><b>33 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  2000, c. 17, s. 33.</p> <p class=\"section\"><b>34 </b><span>Omitted (enacts short title of this Act)</span>.  2000, c. 17, s. 34.</p> <p class=\"line\">______________</p> <p class=\"line\"><u><span> </span></u></p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/00e17\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

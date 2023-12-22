@@ -1,0 +1,34 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 121/01: DESIGNATION OF PARTICIPATING MUNICIPALITY AND NUMBER OF MEMBERS APPOINTED",
+        "reg_name_text": "DESIGNATION OF PARTICIPATING MUNICIPALITY AND NUMBER OF MEMBERS APPOINTED",
+        "citation": "O. Reg. 121/01: ",
+        "act_under": "St. Clair Parks Commission Act, 2000   Loi de 2000 sur la Commission des parcs de la Sainte-Claire",
+        "url": "https://www.ontario.ca/laws/regulation/010121",
+        "date_scraped": "2023-12-19 08:00:10"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/010121/v1",
+            "valid_from": "April 27, 2001",
+            "valid_to": "October  9, 2008"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Participating municipality",
+            "content": "1. The County of Lambton is designated as a participating municipality. O. Reg. 121/01, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>The County of Lambton is designated as a participating municipality. O. Reg. 121/01, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Members appointed",
+            "content": "2. The County of Lambton may appoint four members to the Commission. O. Reg. 121/01, s. 2. ",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>The County of Lambton may appoint four members to the Commission. O. Reg. 121/01, s. 2.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

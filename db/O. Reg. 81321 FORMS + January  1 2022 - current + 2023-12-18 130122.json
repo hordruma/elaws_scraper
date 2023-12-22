@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 813/21: FORMS",
+        "reg_name_text": "FORMS",
+        "citation": "O. Reg. 813/21: ",
+        "act_under": "Interprovincial Summonses Act",
+        "url": "https://www.ontario.ca/laws/regulation/210813",
+        "date_scraped": "2023-12-18 13:01:23"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "January  1, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/210813/v1",
+            "valid_from": "December  1, 2021",
+            "valid_to": "December 31, 2021"
+        }
+    ],
+    "content": [
+        {
+            "id": "Sig",
+            "section": "Form",
+            "content": " 1. The form titled “Certificate”, dated November 3, 2021 and available on the internet at the Ontario Court Forms website, may be used for the purposes of subsections 2 (2) and 5 (1) of the Act.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The form titled “Certificate”, dated November 3, 2021 and available on the internet at the Ontario Court Forms website, may be used for the purposes of subsections 2 (2) and 5 (1) of the Act.<a name=\"Sig\"></a></p>"
+        },
+        {
+            "id": "2.",
+            "section": "Form",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Form",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/210813\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

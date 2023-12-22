@@ -1,0 +1,39 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 20/03: PRESCRIBED PAYMENT PER BED - CLAUSE 6 (A) OF THE ACT",
+        "reg_name_text": "PRESCRIBED PAYMENT PER BED — CLAUSE 6 (a) OF THE ACT",
+        "citation": "O. Reg. 20/03: PRESCRIBED PAYMENT PER BED - CLAUSE 6 (A) OF THE ACT",
+        "act_under": "Charitable Institutions Act   Loi sur les établissements de bienfaisance",
+        "url": "https://www.ontario.ca/laws/regulation/030020",
+        "date_scraped": "2023-12-19 06:29:01"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/030020/v2",
+            "valid_from": "March 29, 2010",
+            "valid_to": "June 30, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/030020/v1",
+            "valid_from": "February  5, 2003",
+            "valid_to": "March 28, 2010"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Prescribed amount",
+            "content": "1. The prescribed amount per bed for the purposes of clause 6 (a) of the Act is an amount not exceeding $50,000. O. Reg. 20/03, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>The prescribed amount per bed for the purposes of clause 6 (a) of the Act is an amount not exceeding $50,000. O. Reg. 20/03, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Prescribed amount",
+            "content": "2. Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 20/03, s. 2. ",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 20/03, s. 2.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

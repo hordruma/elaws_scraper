@@ -1,0 +1,923 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 440: VEGETABLES FOR PROCESSING - MARKETING",
+        "reg_name_text": "VEGETABLES FOR PROCESSING — MARKETING",
+        "citation": "R.R.O. 1990, Reg. 440: VEGETABLES FOR PROCESSING - MARKETING",
+        "act_under": "Farm Products Marketing Act",
+        "url": "https://www.ontario.ca/laws/regulation/900440",
+        "date_scraped": "2023-12-18 22:08:31"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "February  5, 2020",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v12",
+            "valid_from": "December 10, 2019",
+            "valid_to": "February  4, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v11",
+            "valid_from": "March 29, 2018",
+            "valid_to": "December  9, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v10",
+            "valid_from": "December 21, 2017",
+            "valid_to": "March 28, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v9",
+            "valid_from": "October 15, 2015",
+            "valid_to": "December 20, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v8",
+            "valid_from": "December  3, 2014",
+            "valid_to": "October 14, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v7",
+            "valid_from": "November  1, 2013",
+            "valid_to": "December  2, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v6",
+            "valid_from": "June 21, 2013",
+            "valid_to": "October 31, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v5",
+            "valid_from": "January 22, 2013",
+            "valid_to": "June 20, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v4",
+            "valid_from": "August 31, 2011",
+            "valid_to": "January 21, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v3",
+            "valid_from": "March 17, 2005",
+            "valid_to": "August 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v2",
+            "valid_from": "August 23, 2004",
+            "valid_to": "March 16, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900440/v1",
+            "valid_from": "February 19, 2002",
+            "valid_to": "August 22, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "None",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "General",
+            "Section2": "1-2",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Licences",
+            "Section2": "3-8",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Powers of Local Board",
+            "Section2": "9-15",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Fund",
+            "Section2": "15.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation, Sections 15.1.0.1 to 26",
+            "Section2": "15.1.0.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Requirements for Associated Producer Agreements",
+            "Section2": "15.1.1-15.1.2.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Annual Meetings in Advance of Negotiations",
+            "Section2": "15.1.2.2-15.1.3",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Negotiating Agencies",
+            "Section2": "15.2-18",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Negotiations",
+            "Section2": "19",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Late Negotiations",
+            "Section2": "20",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Producer Meetings",
+            "Section2": "21",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Conciliation and Arbitration",
+            "Section2": "22-23",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Tomato and Carrot Negotiations",
+            "Section2": "23.1-23.2",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Annual Meetings in Advance of Negotiations — Tomatoes and Carrots",
+            "Section2": "23.3",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Direct Negotiations",
+            "Section2": "23.4",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Negotiating Agencies — Tomatoes and Carrots",
+            "Section2": "23.5",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Negotiations — Tomatoes and Carrots",
+            "Section2": "23.6",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Late Negotiations — Tomatoes and Carrots",
+            "Section2": "23.7",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Producers Meetings — Tomatoes and Carrots",
+            "Section2": "23.8",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Conciliation and Arbitration — Tomatoes and Carrots",
+            "Section2": "23.9-23.10",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Conduct of Business by Negotiating Agencies",
+            "Section2": "24-25",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Advisory Committees",
+            "Section2": "26-27",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Review",
+            "Section2": "28-29",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Deadlines Not Falling on Business Day",
+            "Section2": "30",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. (1) In this Regulation, “Association” means the Ontario Fruit and Vegetable Processors’ Association; (“Association”) “green shipper” means any person who buys or acquires cucumbers or peppers from producers for the purpose of selling them to processors, and who may, before selling the cucumbers or peppers to a processor, (a) clean and separate them, (b) in the case of cucumbers, brine them to extend their storage life, (c) inspect them, or (d) sort them by size, grade, class or variety; (“expéditeur vert”) “local board” means Ontario Processing Vegetable Growers; (“commission locale”) “plan” means The Ontario Vegetable Growers’ Marketing-for-Processing Plan; (“plan”) “processing” means, (a) canning, dehydrating, drying, freezing, pickling or processing with sugar or sulphur dioxide or any other chemical or by heat, and combining or mixing a vegetable with one or more other vegetables, (b) entering into an agreement for the purchase of vegetables for the purpose of performing on the vegetables any of the operations mentioned in clause (a), or (c) entering into an agreement for the purpose of having any of the operations mentioned in clause (a) performed on vegetables; (“transformation”) “processor” means a person engaged in the business of processing vegetables; (“transformateur”) “producer” means a person engaged in the production of vegetables; (“producteur”) “vegetables” means the following vegetables produced in Ontario and used for processing: green and wax beans, lima beans, red beets, cabbage other than cabbage used for coleslaw, carrots, cauliflower, sweet corn, cucumbers, Spanish-type onions used for onion rings, green peas, peppers, pumpkin and squash or tomatoes. (“légumes”)  R.R.O. 1990, Reg. 440, s. 1; O. Reg. 554/99, s. 1 (1); O. Reg. 247/04, s. 1; O. Reg. 424/11, s. 1 (1); O. Reg. 193/13, s. 1; O. Reg. 250/14, s. 1; O. Reg. 569/17, s. 1; O. Reg. 419/19, s. 1. (2) A person who brines cucumbers to extend their storage life so they may be sold for processing, but who does not do to cucumbers anything else described in the definition of “processing” in subsection (1), is not considered to be a processor of cucumbers for the purposes of this Regulation.  O. Reg. 554/99, s. 1 (2). (3) If a person is both a processor and a green shipper of cucumbers, (a) the person is deemed not to be a green shipper of cucumbers for the purposes of this Regulation; and (b) all purchases or sales of cucumbers carried out by the person, whether for processing or green shipping purposes, shall be deemed to be purchases or sales carried out by a processor for the purposes of this Regulation.  O. Reg. 424/11, s. 1 (2). (4) If a person is both a processor and a green shipper of peppers, (a) the person is deemed not to be a green shipper of peppers for the purposes of this Regulation; and (b) all purchases or sales of peppers carried out by the person, whether for processing or green shipping purposes, shall be deemed to be purchases or sales carried out by a processor for the purposes of this Regulation.  O. Reg. 424/11, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>1.</b> (1) In this Regulation,</p> <p class=\"definition-e\">“Association” means the Ontario Fruit and Vegetable Processors’ Association; (“Association”)</p> <p class=\"definition-e\">“green shipper” means any person who buys or acquires cucumbers or peppers from producers for the purpose of selling them to processors, and who may, before selling the cucumbers or peppers to a processor, </p> <p class=\"defclause-e\">  (a) clean and separate them,</p> <p class=\"defclause-e\">  (b) in the case of cucumbers, brine them to extend their storage life,</p> <p class=\"defclause-e\">  (c) inspect them, or </p> <p class=\"defclause-e\">  (d) sort them by size, grade, class or variety; (“expéditeur vert”) </p> <p class=\"definition-e\">“local board” means Ontario Processing Vegetable Growers; (“commission locale”)</p> <p class=\"definition-e\">“plan” means The Ontario Vegetable Growers’ Marketing-for-Processing Plan; (“plan”)</p> <p class=\"definition-e\">“processing” means,</p> <p class=\"defclause-e\">  (a) canning, dehydrating, drying, freezing, pickling or processing with sugar or sulphur dioxide or any other chemical or by heat, and combining or mixing a vegetable with one or more other vegetables, </p> <p class=\"defclause-e\">  (b) entering into an agreement for the purchase of vegetables for the purpose of performing on the vegetables any of the operations mentioned in clause (a), or</p> <p class=\"defclause-e\">  (c) entering into an agreement for the purpose of having any of the operations mentioned in clause (a) performed on vegetables; (“transformation”)</p> <p class=\"definition-e\">“processor” means a person engaged in the business of processing vegetables; (“transformateur”)</p> <p class=\"definition-e\">“producer” means a person engaged in the production of vegetables; (“producteur”)</p> <p class=\"definition-e\">“vegetables” means the following vegetables produced in Ontario and used for processing:</p> <p class=\"Sdefinition-e\">green and wax beans, lima beans, red beets, cabbage other than cabbage used for coleslaw, carrots, cauliflower, sweet corn, cucumbers, Spanish-type onions used for onion rings, green peas, peppers, pumpkin and squash or tomatoes. (“légumes”)  R.R.O. 1990, Reg. 440, s. 1; O. Reg. 554/99, s. 1 (1); O. Reg. 247/04, s. 1; O. Reg. 424/11, s. 1 (1); O. Reg. 193/13, s. 1; O. Reg. 250/14, s. 1; O. Reg. 569/17, s. 1; O. Reg. 419/19, s. 1.</p> <p class=\"subsection-e\">  (2) A person who brines cucumbers to extend their storage life so they may be sold for processing, but who does not do to cucumbers anything else described in the definition of “processing” in subsection (1), is not considered to be a processor of cucumbers for the purposes of this Regulation.  O. Reg. 554/99, s. 1 (2).</p> <p class=\"subsection-e\">  (3) If a person is both a processor and a green shipper of cucumbers,</p> <p class=\"clause-e\">  (a) the person is deemed not to be a green shipper of cucumbers for the purposes of this Regulation; and </p> <p class=\"clause-e\">  (b) all purchases or sales of cucumbers carried out by the person, whether for processing or green shipping purposes, shall be deemed to be purchases or sales carried out by a processor for the purposes of this Regulation.  O. Reg. 424/11, s. 1 (2).</p> <p class=\"subsection-e\">  (4) If a person is both a processor and a green shipper of peppers,</p> <p class=\"clause-e\">  (a) the person is deemed not to be a green shipper of peppers for the purposes of this Regulation; and </p> <p class=\"clause-e\">  (b) all purchases or sales of peppers carried out by the person, whether for processing or green shipping purposes, shall be deemed to be purchases or sales carried out by a processor for the purposes of this Regulation.  O. Reg. 424/11, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. This Regulation provides for the control and regulation in any or all respects of the producing and marketing within Ontario of vegetables, including the prohibition of such producing and marketing in whole or in part.  R.R.O. 1990, Reg. 440, s. 2. Licences",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>This Regulation provides for the control and regulation in any or all respects of the producing and marketing within Ontario of vegetables, including the prohibition of such producing and marketing in whole or in part.  R.R.O. 1990, Reg. 440, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Licences</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) No person shall commence or continue to engage in the processing of vegetables except under the authority of a licence from the Commission and except in compliance with the terms and conditions of the licence.  R.R.O. 1990, Reg. 440, s. 3 (1). (2) A licence expires on the date set out in the licence as the expiry date.  O. Reg. 811/93, s. 1. (2.1) If any expiry date is not set out in a licence, the licence expires when the licensee ceases to engage in the processing of vegetables.  O. Reg. 811/93, s. 1. (3) Where the Commission issues a licence to a processor, the Commission shall not charge a licence fee to the processor.  R.R.O. 1990, Reg. 440, s. 3 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) No person shall commence or continue to engage in the processing of vegetables except under the authority of a licence from the Commission and except in compliance with the terms and conditions of the licence.  R.R.O. 1990, Reg. 440, s. 3 (1).</p> <p class=\"subsection-e\">  (2) A licence expires on the date set out in the licence as the expiry date.  O. Reg. 811/93, s. 1.</p> <p class=\"subsection-e\">  (2.1) If any expiry date is not set out in a licence, the licence expires when the licensee ceases to engage in the processing of vegetables.  O. Reg. 811/93, s. 1.</p> <p class=\"subsection-e\">  (3) Where the Commission issues a licence to a processor, the Commission shall not charge a licence fee to the processor.  R.R.O. 1990, Reg. 440, s. 3 (3).</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. The Commission may refuse to grant a licence or may suspend or revoke a licence, (a) where the applicant or licensee is not qualified by experience or equipment to properly engage in the business for which the application was made or the licence granted; or (b) where the applicant or licensee has failed to comply with or has contravened the Act, the regulations, the plan or any order or direction of the Commission.  R.R.O. 1990, Reg. 440, s. 4; O. Reg. 167/92, s. 1; O. Reg. 811/93, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>The Commission may refuse to grant a licence or may suspend or revoke a licence,</p> <p class=\"clause-e\">  (a) where the applicant or licensee is not qualified by experience or equipment to properly engage in the business for which the application was made or the licence granted; or</p> <p class=\"clause-e\">  (b) where the applicant or licensee has failed to comply with or has contravened the Act, the regulations, the plan or any order or direction of the Commission.  R.R.O. 1990, Reg. 440, s. 4; O. Reg. 167/92, s. 1; O. Reg. 811/93, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. The Commission may impose such terms and conditions upon a licence as the Commission considers proper.  R.R.O. 1990, Reg. 440, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>The Commission may impose such terms and conditions upon a licence as the Commission considers proper.  R.R.O. 1990, Reg. 440, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. Where, after a hearing, the Commission is of the opinion that the applicant or licensee has failed to comply with or has contravened any term or condition of the licence or the Act, the regulations, the plan or any order or direction of the Commission, the Commission may impose a penalty on the applicant or licensee.  R.R.O. 1990, Reg. 440, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>Where, after a hearing, the Commission is of the opinion that the applicant or licensee has failed to comply with or has contravened any term or condition of the licence or the Act, the regulations, the plan or any order or direction of the Commission, the Commission may impose a penalty on the applicant or licensee.  R.R.O. 1990, Reg. 440, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) The Commission may require that a processor furnish security or a performance bond that shall not exceed 50 per cent of the price payable to producers for vegetables processed during the immediately preceding twelve-month period or proposed to be processed in the ensuring twelve-month period by the processor.  O. Reg. 811/93, s. 3; O. Reg. 424/11, s. 2 (1). (2) The Commission may determine that the security or performance bond is forfeited when the processor who furnished the security or bond fails to comply with or contravenes any term or condition of the processor’s licence or the Act, the regulations, the plan or any order or direction of the Commission.  O. Reg. 811/93, s. 3; O. Reg. 424/11, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>(1) The Commission may require that a processor furnish security or a performance bond that shall not exceed 50 per cent of the price payable to producers for vegetables processed during the immediately preceding twelve-month period or proposed to be processed in the ensuring twelve-month period by the processor.  O. Reg. 811/93, s. 3; O. Reg. 424/11, s. 2 (1).</p> <p class=\"subsection-e\">  (2) The Commission may determine that the security or performance bond is forfeited when the processor who furnished the security or bond fails to comply with or contravenes any term or condition of the processor’s licence or the Act, the regulations, the plan or any order or direction of the Commission.  O. Reg. 811/93, s. 3; O. Reg. 424/11, s. 2 (2).</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. (1) If a penalty is imposed under section 6 or security or a performance bond is forfeited under subsection 7 (2), the Commission shall pay the penalty or the proceeds of the security or performance bond to the local board for distribution proportionately among the producers of vegetables who sold vegetables to the processor and who did not receive the minimum price for the vegetables, to the extent of the money owing to them.  O. Reg. 811/93, s. 3; O. Reg. 424/11, s. 3. (2) If there are no producers as described in subsection (1) or if there is an excess balance of penalty or proceeds, the Commission shall pay the penalty, proceeds or excess balance into the Consolidated Revenue Fund.  O. Reg. 811/93, s. 3. Powers of Local Board",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>(1) If a penalty is imposed under section 6 or security or a performance bond is forfeited under subsection 7 (2), the Commission shall pay the penalty or the proceeds of the security or performance bond to the local board for distribution proportionately among the producers of vegetables who sold vegetables to the processor and who did not receive the minimum price for the vegetables, to the extent of the money owing to them.  O. Reg. 811/93, s. 3; O. Reg. 424/11, s. 3.</p> <p class=\"subsection-e\">  (2) If there are no producers as described in subsection (1) or if there is an excess balance of penalty or proceeds, the Commission shall pay the penalty, proceeds or excess balance into the Consolidated Revenue Fund.  O. Reg. 811/93, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Powers of Local Board</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. The Commission delegates to the local board the power, (a) to require persons engaged in producing or marketing vegetables to register their names, addresses and occupations with the local board; (b) to require persons engaged in producing or marketing vegetables to furnish such information relating to the production or marketing of vegetables, including the completing and filing of returns, as the local board determines; (c) to appoint persons to inspect the books, records, documents, lands and premises and any vegetables of persons engaged in producing or marketing vegetables; (d) to appoint persons to enter on lands or premises used for the producing of vegetables and measure the area of land used to produce vegetables; (e) to stimulate, increase and improve the marketing of vegetables by such means as it considers proper; (f) to co-operate with a marketing board, local board, marketing commission or marketing agency of Canada or of any province in Canada for the purpose of marketing vegetables; and (g) to do such acts and make such orders and issue such directions as are necessary to enforce the due observance and carrying out of the Act, the regulations and the plan.  R.R.O. 1990, Reg. 440, s. 9.",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>The Commission delegates to the local board the power,</p> <p class=\"clause-e\">  (a) to require persons engaged in producing or marketing vegetables to register their names, addresses and occupations with the local board;</p> <p class=\"clause-e\">  (b) to require persons engaged in producing or marketing vegetables to furnish such information relating to the production or marketing of vegetables, including the completing and filing of returns, as the local board determines;</p> <p class=\"clause-e\">  (c) to appoint persons to inspect the books, records, documents, lands and premises and any vegetables of persons engaged in producing or marketing vegetables;</p> <p class=\"clause-e\">  (d) to appoint persons to enter on lands or premises used for the producing of vegetables and measure the area of land used to produce vegetables;</p> <p class=\"clause-e\">  (e) to stimulate, increase and improve the marketing of vegetables by such means as it considers proper;</p> <p class=\"clause-e\">  (f) to co-operate with a marketing board, local board, marketing commission or marketing agency of Canada or of any province in Canada for the purpose of marketing vegetables; and</p> <p class=\"clause-e\">  (g) to do such acts and make such orders and issue such directions as are necessary to enforce the due observance and carrying out of the Act, the regulations and the plan.  R.R.O. 1990, Reg. 440, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. (1) The Commission delegates to the local board its powers to make regulations with respect to vegetables, (a) providing for the licensing of any or all persons before commencing or continuing to engage in the producing or marketing of vegetables; (b) prescribing or providing for classes of licences and the imposition of terms and conditions on any class of licence; (c) prohibiting persons from engaging in the producing or marketing of vegetables except under the authority of a licence and except in compliance with the terms and conditions of the licence; (d) providing for the refusal to grant or renew a licence or for the suspension or revocation of a licence, (i) where the applicant or licensee is not qualified by experience, financial responsibility or equipment to properly engage in the business for which the application was made or the licence granted, or (ii) where the applicant or licensee has failed to comply with or has contravened the Act, the regulations, the plan or any order or direction of the Commission, Director or local board or of a marketing agency of Canada; (e) providing for the imposition, amount, disposition and use of penalties where, after a hearing, the local board is of the opinion that the applicant or licensee has failed to comply with or has contravened any term or condition of the licence or the Act or the regulations, the plan or any order or direction of the local board; (f) providing for the fixing of licence fees and the payment thereof by any or all persons who are engaged in the producing or marketing of vegetables and the collecting of the licence fees and their recovery by suit in a court of competent jurisdiction; (g) prescribing the form of licences; (g.1) providing for the exemption from any or all of the regulations, orders or directions under the plan of any class, variety, grade or size of vegetables, or any person or class of persons engaged in the producing or marketing of vegetables or any class, variety, grade or size of vegetables; (h) authorizing the fixing of prompt payment discounts, delayed payment penalties and interest on licence fees and service charges owing by any producer or processor or by any person engaged in the marketing of vegetables; (i) providing for the control and regulation of the producing or marketing of vegetables, including the times and places at which vegetables may be produced or marketed; (j) providing for the control and regulation of agreements entered into by producers of vegetables with persons engaged in marketing or processing vegetables and the prohibition of any provision or clause in such agreements; (k) requiring any person who produces and processes vegetables to furnish to the local board statements of the amounts of vegetables that he produced in any year and used for processing; (l) requiring that no charges, costs or expenses relating to the production or marketing of a vegetable shall be made other than such charges, costs or expenses as are provided in the agreement or award or renegotiated agreement or award in force for the marketing of the vegetable; (m) requiring any person who produces vegetables to offer to sell and to sell the vegetables through the local board; (n) prohibiting any person from processing, packing or packaging any vegetables that have not been sold by or through the local board; (o) requiring any person who receives vegetables to deduct from the money payable for the vegetables, any licence fees payable to the local board by the person from whom the vegetables are received, and to forward the licence fees to the local board; and (p) requiring and providing for the furnishing of security or proof of financial responsibility or of a performance bond by persons engaged as green shippers in the marketing of cucumbers or peppers and providing for the administration, forfeiture and disposition of any money or securities so furnished and the proceeds therefrom. R.R.O. 1990, Reg. 440, s. 10; O. Reg. 27/93, s. 1; O. Reg. 554/99, s. 2; O. Reg. 424/11 s. 4; O. Reg. 18/13, s. 1. (2) If the local board proposes to make a regulation under subsection (1), the local board shall file with the Commission a copy of the proposed regulation at least 30 days before the earliest day on which a provision of the regulation would come into force. O. Reg. 569/17, s. 2. (3) Despite subsection (2), a copy of a proposed regulation may be filed with the Commission less than 30 days before a provision of the regulation is to come into force if the Commission consents. O. Reg. 569/17, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>(1) The Commission delegates to the local board its powers to make regulations with respect to vegetables,</p> <p class=\"clause-e\">  (a) providing for the licensing of any or all persons before commencing or continuing to engage in the producing or marketing of vegetables;</p> <p class=\"clause-e\">  (b) prescribing or providing for classes of licences and the imposition of terms and conditions on any class of licence;</p> <p class=\"clause-e\">  (c) prohibiting persons from engaging in the producing or marketing of vegetables except under the authority of a licence and except in compliance with the terms and conditions of the licence;</p> <p class=\"clause-e\">  (d) providing for the refusal to grant or renew a licence or for the suspension or revocation of a licence,</p> <p class=\"subclause-e\">  (i) where the applicant or licensee is not qualified by experience, financial responsibility or equipment to properly engage in the business for which the application was made or the licence granted, or</p> <p class=\"subclause-e\">  (ii) where the applicant or licensee has failed to comply with or has contravened the Act, the regulations, the plan or any order or direction of the Commission, Director or local board or of a marketing agency of Canada;</p> <p class=\"clause-e\">  (e) providing for the imposition, amount, disposition and use of penalties where, after a hearing, the local board is of the opinion that the applicant or licensee has failed to comply with or has contravened any term or condition of the licence or the Act or the regulations, the plan or any order or direction of the local board;</p> <p class=\"clause-e\">  (f) providing for the fixing of licence fees and the payment thereof by any or all persons who are engaged in the producing or marketing of vegetables and the collecting of the licence fees and their recovery by suit in a court of competent jurisdiction;</p> <p class=\"clause-e\">  (g) prescribing the form of licences;</p> <p class=\"clause-e\"> (g.1) providing for the exemption from any or all of the regulations, orders or directions under the plan of any class, variety, grade or size of vegetables, or any person or class of persons engaged in the producing or marketing of vegetables or any class, variety, grade or size of vegetables;</p> <p class=\"clause-e\">  (h) authorizing the fixing of prompt payment discounts, delayed payment penalties and interest on licence fees and service charges owing by any producer or processor or by any person engaged in the marketing of vegetables;</p> <p class=\"clause-e\">  (i) providing for the control and regulation of the producing or marketing of vegetables, including the times and places at which vegetables may be produced or marketed;</p> <p class=\"clause-e\">  (j) providing for the control and regulation of agreements entered into by producers of vegetables with persons engaged in marketing or processing vegetables and the prohibition of any provision or clause in such agreements;</p> <p class=\"clause-e\">  (k) requiring any person who produces and processes vegetables to furnish to the local board statements of the amounts of vegetables that he produced in any year and used for processing;</p> <p class=\"clause-e\">  (l) requiring that no charges, costs or expenses relating to the production or marketing of a vegetable shall be made other than such charges, costs or expenses as are provided in the agreement or award or renegotiated agreement or award in force for the marketing of the vegetable;</p> <p class=\"clause-e\">  (m) requiring any person who produces vegetables to offer to sell and to sell the vegetables through the local board;</p> <p class=\"clause-e\">  (n) prohibiting any person from processing, packing or packaging any vegetables that have not been sold by or through the local board;</p> <p class=\"clause-e\">  (o) requiring any person who receives vegetables to deduct from the money payable for the vegetables, any licence fees payable to the local board by the person from whom the vegetables are received, and to forward the licence fees to the local board; and</p> <p class=\"clause-e\">  (p) requiring and providing for the furnishing of security or proof of financial responsibility or of a performance bond by persons engaged as green shippers in the marketing of cucumbers or peppers and providing for the administration, forfeiture and disposition of any money or securities so furnished and the proceeds therefrom. R.R.O. 1990, Reg. 440, s. 10; O. Reg. 27/93, s. 1; O. Reg. 554/99, s. 2; O. Reg. 424/11 s. 4; O. Reg. 18/13, s. 1.</p> <p class=\"subsection-e\">  (2) If the local board proposes to make a regulation under subsection (1), the local board shall file with the Commission a copy of the proposed regulation at least 30 days before the earliest day on which a provision of the regulation would come into force. O. Reg. 569/17, s. 2.</p> <p class=\"subsection-e\">  (3) Despite subsection (2), a copy of a proposed regulation may be filed with the Commission less than 30 days before a provision of the regulation is to come into force if the Commission consents. O. Reg. 569/17, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. The local board may impose such terms and conditions upon a licence as the local board considers proper.  R.R.O. 1990, Reg. 440, s. 11.",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>The local board may impose such terms and conditions upon a licence as the local board considers proper.  R.R.O. 1990, Reg. 440, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. The delegation of the Commission’s powers under section 10 is subject to the following limitations: 1. The powers of the local board under clause 10 (1) (j) shall not be exercised in a way that is inconsistent with any terms, conditions and forms of agreement settled by a negotiating agency established under section 16, 17, 20 or 23.5 or awarded by an arbitration board under section 23. 2. The powers of the local board under clauses 10 (1) (b), (i), (j), (l), (m) and (n) and section 11 shall not be used to regulate the production and marketing of tomatoes or carrots. O. Reg. 419/19, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>The delegation of the Commission’s powers under section 10 is subject to the following limitations:</p> <p class=\"paragraph-e\">  1. The powers of the local board under clause 10 (1) (j) shall not be exercised in a way that is inconsistent with any terms, conditions and forms of agreement settled by a negotiating agency established under section 16, 17, 20 or 23.5 or awarded by an arbitration board under section 23.</p> <p class=\"paragraph-e\">  2. The powers of the local board under clauses 10 (1) (b), (i), (j), (l), (m) and (n) and section 11 shall not be used to regulate the production and marketing of tomatoes or carrots. O. Reg. 419/19, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. (1) The Commission authorizes the local board to use any class of licence fees, service charges and other money payable to it, for the purposes of paying the expenses of the local board, carrying out and enforcing the Act and the regulations and carrying out the purposes of the plan.  R.R.O. 1990, Reg. 440, s. 13 (1). (2) The Commission authorizes the local board to establish a fund in connection with the plan for the payment of any money that may be required for the purposes mentioned in subsection (1).  R.R.O. 1990, Reg. 440, s. 13 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>(1) The Commission authorizes the local board to use any class of licence fees, service charges and other money payable to it, for the purposes of paying the expenses of the local board, carrying out and enforcing the Act and the regulations and carrying out the purposes of the plan.  R.R.O. 1990, Reg. 440, s. 13 (1).</p> <p class=\"subsection-e\">  (2) The Commission authorizes the local board to establish a fund in connection with the plan for the payment of any money that may be required for the purposes mentioned in subsection (1).  R.R.O. 1990, Reg. 440, s. 13 (2).</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. The Commission authorizes the local board to require the price or prices payable or owing to the producers for vegetables, with the exception of tomatoes or carrots, to be paid to or through the local board. R.R.O. 1990, Reg. 440, s. 14; O. Reg. 419/19, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b>The Commission authorizes the local board to require the price or prices payable or owing to the producers for vegetables, with the exception of tomatoes or carrots, to be paid to or through the local board. R.R.O. 1990, Reg. 440, s. 14; O. Reg. 419/19, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. The Commission authorizes the local board to prohibit the marketing locally within Ontario of any class, variety, grade or size of vegetables, with the exception of tomatoes or carrots. R.R.O. 1990, Reg. 440, s. 15; O. Reg. 419/19, s. 4. Fund",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>The Commission authorizes the local board to prohibit the marketing locally within Ontario of any class, variety, grade or size of vegetables, with the exception of tomatoes or carrots. R.R.O. 1990, Reg. 440, s. 15; O. Reg. 419/19, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Fund</p>"
+        },
+        {
+            "ahref_id": "#15.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15.1 The local board shall establish a fund with the money transferred to it under Ontario Regulation 672/92 and shall administer the fund in accordance with the following terms: 1. The capital may be invested in securities referred to in section 26 of the Trustee Act, other than first mortgages, charges or hypothecs upon real estate in Canada. 2. The capital of the fund shall not be spent. 3. The income of the fund may be spent for purposes of research, market development and education relating to vegetables. 4. The fund shall be audited annually and the auditor’s report shall be submitted to the Commission as part of the audit of the accounts of the local board.  O. Reg. 673/92, s. 1. Interpretation, Sections 15.1.0.1 to 26",
+            "raw_html": "<p class=\"section-e\"> <b>15.1 </b>The local board shall establish a fund with the money transferred to it under Ontario Regulation 672/92 and shall administer the fund in accordance with the following terms:</p> <p class=\"paragraph-e\">  1. The capital may be invested in securities referred to in section 26 of the <i>Trustee Act</i>, other than first mortgages, charges or hypothecs upon real estate in Canada.</p> <p class=\"paragraph-e\">  2. The capital of the fund shall not be spent.</p> <p class=\"paragraph-e\">  3. The income of the fund may be spent for purposes of research, market development and education relating to vegetables.</p> <p class=\"paragraph-e\">  4. The fund shall be audited annually and the auditor’s report shall be submitted to the Commission as part of the audit of the accounts of the local board.  O. Reg. 673/92, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Interpretation, Sections 15.1.0.1 to 26</p>"
+        },
+        {
+            "ahref_id": "#15.1.0.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15.1.0.1 In this section and in sections 15.1.1 to 26, “annual agreement” means an agreement, within the framework of an associated producer agreement, between a processor or green shipper and an associated producer for the purchase and sale of vegetables in a particular crop year; (“accord annuel”) “associated producer” means, in relation to a processor or green shipper, a producer who has entered into an associated producer agreement with the processor or green shipper; (“producteur associé”) “associated producer agreement” means an agreement between a producer and a processor or green shipper for the purchase and sale of vegetables. (“accord de producteur associé”) O. Reg. 419/19, s. 5. Requirements for Associated Producer Agreements",
+            "raw_html": "<p class=\"section-e\"> <b>15.1.0.1 </b>In this section and in sections 15.1.1 to 26,</p> <p class=\"definition-e\">“annual agreement” means an agreement, within the framework of an associated producer agreement, between a processor or green shipper and an associated producer for the purchase and sale of vegetables in a particular crop year; (“accord annuel”)</p> <p class=\"definition-e\">“associated producer” means, in relation to a processor or green shipper, a producer who has entered into an associated producer agreement with the processor or green shipper; (“producteur associé”)</p> <p class=\"definition-e\">“associated producer agreement” means an agreement between a producer and a processor or green shipper for the purchase and sale of vegetables. (“accord de producteur associé”) O. Reg. 419/19, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Requirements for Associated Producer Agreements</p>"
+        },
+        {
+            "ahref_id": "#15.1.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15.1.1  Sections 15.1.2 and 15.1.2.1 apply to every associated producer agreement entered into on or after November 15, 2019. O. Reg. 419/19, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>15.1.1 </b> Sections 15.1.2 and 15.1.2.1 apply to every associated producer agreement entered into on or after November 15, 2019. O. Reg. 419/19, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#15.1.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15.1.2 (1) Every associated producer agreement shall have a minimum term of three years and provide for the negotiation of annual agreements. O. Reg. 419/19, s. 6. (2) Every associated producer agreement shall provide, as a term of the agreement, that the agreement may be terminated, (a) immediately by the processor or green shipper, for cause, if the associated producer fails to produce in a crop year the vegetable to which the agreement relates, unless the associated producer and the processor or green shipper agree that the associated producer will not produce the vegetable in the crop year; (b) by either party to the agreement, as of the date determined in accordance with subsection (3); or (c) at any time agreed upon by both of the parties in writing. O. Reg. 419/19, s. 6. (3) If notice of termination of an associated producer agreement is given under clause (2) (b), the termination shall be effective, (a) in the case of an agreement relating to tomatoes or carrots, on January 1 of the third year following the year in which the notice is given; or (b) in the case of an agreement relating to all other vegetables, on January 1 of the second year following the year in which the notice is given. O. Reg. 419/19, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>15.1.2 </b>(1) Every associated producer agreement shall have a minimum term of three years and provide for the negotiation of annual agreements. O. Reg. 419/19, s. 6.</p> <p class=\"subsection-e\">  (2) Every associated producer agreement shall provide, as a term of the agreement, that the agreement may be terminated,</p> <p class=\"clause-e\">  (a) immediately by the processor or green shipper, for cause, if the associated producer fails to produce in a crop year the vegetable to which the agreement relates, unless the associated producer and the processor or green shipper agree that the associated producer will not produce the vegetable in the crop year;</p> <p class=\"clause-e\">  (b) by either party to the agreement, as of the date determined in accordance with subsection (3); or</p> <p class=\"clause-e\">  (c) at any time agreed upon by both of the parties in writing. O. Reg. 419/19, s. 6.</p> <p class=\"subsection-e\">  (3) If notice of termination of an associated producer agreement is given under clause (2) (b), the termination shall be effective,</p> <p class=\"clause-e\">  (a) in the case of an agreement relating to tomatoes or carrots, on January 1 of the third year following the year in which the notice is given; or</p> <p class=\"clause-e\">  (b) in the case of an agreement relating to all other vegetables, on January 1 of the second year following the year in which the notice is given. O. Reg. 419/19, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#15.1.2.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15.1.2.1 (1) Every associated producer agreement for tomatoes or carrots shall be in writing and contain the following: 1. The associated producer’s minimum annual tonnage to be included in annual agreements the associated producer enters into in respect of crop years covered by the associated producer agreement. 2. A dispute resolution mechanism to be used by the associated producer and the processor when directly negotiating an annual agreement pursuant to section 23.4 during the term of the associated producer agreement. O. Reg. 419/19, s. 6; O. Reg. 11/20, s. 1 (1). (2) Subject to subsection (3), the minimum annual tonnage set out in every associated producer agreement referred to in subsection (1) for the 2020, 2021 and 2022 crop years shall be, at a minimum, 90 per cent of the amount determined in accordance with the following rules: 1. For any of the 2017, 2018 and 2019 crop years in which an associated producer produced tomatoes or carrots, as the case may be, determine the average tonnage of tomatoes or carrots, as the case may be, contracted by the processor to the associated producer during those crop years, represented as a percentage of the total tonnage of tomatoes or carrots, as the case may be, contracted by the processor during those crop years to all of its associated producers. 2. Multiply the percentage determined under paragraph 1 by the total tonnage of tomatoes or carrots, as the case may be, contracted by the processor in the 2019 crop year to all of its associated producers. O. Reg. 419/19, s. 6; O. Reg. 11/20, s. 1 (2). (3) Every associated producer agreement referred to in subsection (1) shall provide that the processor may reduce the associated producer’s minimum annual tonnage for the 2020, 2021 or 2022 crop year provided that, (a) the processor reduces the associated producer’s minimum annual tonnage by the same percentage as it reduces the minimum annual tonnage of each of its associated producers; (b) the total minimum annual tonnage for all of the processor’s associated producers in the crop year does not exceed the minimum annual tonnage as reduced by clause (a); and (c) the processor provides notice to its associated producers at or before the annual meeting held under section 23.3 of its intention to reduce the associated producers’ minimum annual tonnage. O. Reg. 11/20, s. 1 (3). Annual Meetings in Advance of Negotiations",
+            "raw_html": "<p class=\"section-e\"> <b>15.1.2.1 </b>(1) Every associated producer agreement for tomatoes or carrots shall be in writing and contain the following:</p> <p class=\"paragraph-e\">  1. The associated producer’s minimum annual tonnage to be included in annual agreements the associated producer enters into in respect of crop years covered by the associated producer agreement.</p> <p class=\"paragraph-e\">  2. A dispute resolution mechanism to be used by the associated producer and the processor when directly negotiating an annual agreement pursuant to section 23.4 during the term of the associated producer agreement. O. Reg. 419/19, s. 6; O. Reg. 11/20, s. 1 (1).</p> <p class=\"subsection-e\">  (2) Subject to subsection (3), the minimum annual tonnage set out in every associated producer agreement referred to in subsection (1) for the 2020, 2021 and 2022 crop years shall be, at a minimum, 90 per cent of the amount determined in accordance with the following rules:</p> <p class=\"paragraph-e\">  1. For any of the 2017, 2018 and 2019 crop years in which an associated producer produced tomatoes or carrots, as the case may be, determine the average tonnage of tomatoes or carrots, as the case may be, contracted by the processor to the associated producer during those crop years, represented as a percentage of the total tonnage of tomatoes or carrots, as the case may be, contracted by the processor during those crop years to all of its associated producers.</p> <p class=\"paragraph-e\">  2. Multiply the percentage determined under paragraph 1 by the total tonnage of tomatoes or carrots, as the case may be, contracted by the processor in the 2019 crop year to all of its associated producers. O. Reg. 419/19, s. 6; O. Reg. 11/20, s. 1 (2).</p> <p class=\"subsection-e\"><a name=\"BK7\"></a>  (3) Every associated producer agreement referred to in subsection (1) shall provide that the processor may reduce the associated producer’s minimum annual tonnage for the 2020, 2021 or 2022 crop year provided that,</p> <p class=\"clause-e\">  (a) the processor reduces the associated producer’s minimum annual tonnage by the same percentage as it reduces the minimum annual tonnage of each of its associated producers;</p> <p class=\"clause-e\">  (b) the total minimum annual tonnage for all of the processor’s associated producers in the crop year does not exceed the minimum annual tonnage as reduced by clause (a); and</p> <p class=\"clause-e\">  (c) the processor provides notice to its associated producers at or before the annual meeting held under section 23.3 of its intention to reduce the associated producers’ minimum annual tonnage. O. Reg. 11/20, s. 1 (3).</p> <p class=\"heading1-e\">Annual Meetings in Advance of Negotiations</p>"
+        },
+        {
+            "ahref_id": "#15.1.2.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15.1.2.2 Except as provided for in sections 23.1 to 23.10, sections 15.1.3 to 23 do not apply with respect to tomatoes or carrots. O. Reg. 419/19, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>15.1.2.2 </b>Except as provided for in sections 23.1 to 23.10, sections 15.1.3 to 23 do not apply with respect to tomatoes or carrots. O. Reg. 419/19, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#15.1.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15.1.3 (1) The local board shall hold an annual meeting for each processor and green shipper that has entered into associated producer agreements and invite the processor or green shipper, as the case may be, and its associated producers to the meeting for the purpose of, (a) allowing the processor or green shipper and its associated producers to discuss anything relevant to the matters described in section 15.2 that are to be negotiated annually by negotiating agencies; and (b) allowing the associated producers to elect from among themselves, by secret ballot, (i) in the case of a processor or green shipper that has 10 or more associated producers, four individuals to be appointed as members to a negotiating agency by the local board under paragraph 1 of subsection 16 (3), or (ii) in the case of a processor or green shipper that has fewer than 10 associated producers, two individuals to be appointed as members to a negotiating agency by the local board under paragraph 1 of subsection 16 (4). O. Reg. 569/17, s. 4; O. Reg. 419/19, s. 8 (1, 2). (2) If a processor or green shipper has associated producers who produce more than one type of vegetable, the local board shall hold separate meetings with respect to each type of vegetable, but if a processor or green shipper so requests, the local board may hold a joint meeting for the processor or green shipper, as the case may be, and their associated producers who produce the relevant vegetable or vegetables. O. Reg. 569/17, s. 4. (3) The local board shall give at least two weeks’ notice of the meeting to the processor or green shipper, as the case may be, and to their associated producers. O. Reg. 569/17, s. 4. (4) The notice shall be given electronically or by telephone, at the email address or telephone number on file with the local board at the relevant time. O. Reg. 569/17, s. 4. (5) The meeting shall be held at any time before the deadline set out for the relevant vegetable in Column 2 of the Schedule to this Regulation. O. Reg. 419/19, s. 8 (3). (6) If a processor or green shipper elects to negotiate jointly with one or more other processors or green shippers and each of the processors or green shippers has filed written consents with the local board in accordance with subsection 17 (1) before the deadline for giving notice of a meeting under subsection (3), the local board shall hold a joint meeting for the processors or green shippers, as the case may be, and their associated producers. O. Reg. 569/17, s. 4. (7) At a joint meeting held under subsection (6), the associated producers shall elect, from among themselves, two individuals for every processor or green shipper who is a party to the joint negotiating agency who are to be appointed as members to the joint negotiating agency by the local board under subparagraph 1 ii of subsection 17 (2). O. Reg. 569/17, s. 4. Negotiating Agencies",
+            "raw_html": "<p class=\"section-e\"> <b>15.1.3 </b>(1) The local board shall hold an annual meeting for each processor and green shipper that has entered into associated producer agreements and invite the processor or green shipper, as the case may be, and its associated producers to the meeting for the purpose of,</p> <p class=\"clause-e\">  (a) allowing the processor or green shipper and its associated producers to discuss anything relevant to the matters described in section 15.2 that are to be negotiated annually by negotiating agencies; and</p> <p class=\"clause-e\">  (b) allowing the associated producers to elect from among themselves, by secret ballot,</p> <p class=\"subclause-e\">  (i) in the case of a processor or green shipper that has 10 or more associated producers, four individuals to be appointed as members to a negotiating agency by the local board under paragraph 1 of subsection 16 (3), or</p> <p class=\"subclause-e\">  (ii) in the case of a processor or green shipper that has fewer than 10 associated producers, two individuals to be appointed as members to a negotiating agency by the local board under paragraph 1 of subsection 16 (4). O. Reg. 569/17, s. 4; O. Reg. 419/19, s. 8 (1, 2).</p> <p class=\"subsection-e\">  (2) If a processor or green shipper has associated producers who produce more than one type of vegetable, the local board shall hold separate meetings with respect to each type of vegetable, but if a processor or green shipper so requests, the local board may hold a joint meeting for the processor or green shipper, as the case may be, and their associated producers who produce the relevant vegetable or vegetables. O. Reg. 569/17, s. 4.</p> <p class=\"subsection-e\">  (3) The local board shall give at least two weeks’ notice of the meeting to the processor or green shipper, as the case may be, and to their associated producers. O. Reg. 569/17, s. 4.</p> <p class=\"subsection-e\">  (4) The notice shall be given electronically or by telephone, at the email address or telephone number on file with the local board at the relevant time. O. Reg. 569/17, s. 4.</p> <p class=\"subsection-e\">  (5) The meeting shall be held at any time before the deadline set out for the relevant vegetable in Column 2 of the Schedule to this Regulation. O. Reg. 419/19, s. 8 (3).</p> <p class=\"subsection-e\">  (6) If a processor or green shipper elects to negotiate jointly with one or more other processors or green shippers and each of the processors or green shippers has filed written consents with the local board in accordance with subsection 17 (1) before the deadline for giving notice of a meeting under subsection (3), the local board shall hold a joint meeting for the processors or green shippers, as the case may be, and their associated producers. O. Reg. 569/17, s. 4.</p> <p class=\"subsection-e\">  (7) At a joint meeting held under subsection (6), the associated producers shall elect, from among themselves, two individuals for every processor or green shipper who is a party to the joint negotiating agency who are to be appointed as members to the joint negotiating agency by the local board under subparagraph 1 ii of subsection 17 (2). O. Reg. 569/17, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Negotiating Agencies</p>"
+        },
+        {
+            "ahref_id": "#15.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15.2 Each year, negotiating agencies shall be established in accordance with this Regulation to adopt or settle the following matters by agreement: 1. Minimum prices for vegetables, including any class, variety, grade or size of vegetables. 2. Terms, conditions and forms of agreements relating to the producing and marketing of vegetables. 3. Any charges, costs or expenses relating to the production or marketing of vegetables. O. Reg. 424/11, s. 5; O. Reg. 419/19, s. 9.",
+            "raw_html": "<p class=\"section-e\"> <b>15.2 </b>Each year, negotiating agencies shall be established in accordance with this Regulation to adopt or settle the following matters by agreement:</p> <p class=\"paragraph-e\">  1. Minimum prices for vegetables, including any class, variety, grade or size of vegetables.</p> <p class=\"paragraph-e\">  2. Terms, conditions and forms of agreements relating to the producing and marketing of vegetables.</p> <p class=\"paragraph-e\">  3. Any charges, costs or expenses relating to the production or marketing of vegetables. O. Reg. 424/11, s. 5; O. Reg. 419/19, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#15.2, 15.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15.2, 15.3 Revoked: O. Reg. 569/17, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>15.2, 15.3 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 569/17, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. (1) A negotiating agency shall be established under this section for each processor or green shipper of each vegetable. O. Reg. 569/17, s. 5. (2) Revoked: O. Reg. 419/19, s. 10 (1). (3) If a processor or green shipper has 10 or more associated producers, the negotiating agency for the processor or green shipper shall consist of a maximum of 12 members appointed to the agency by the parties as follows: 1. The local board shall appoint the four associated producers of the processor or green shipper who were elected under subclause 15.1.3 (1) (b) (i) and may appoint a maximum of two additional individuals. 2. The processor or green shipper shall appoint a maximum of six individuals. O. Reg. 569/17, s. 5. (4) If a processor or green shipper has fewer than 10 associated producers, the negotiating agency for the processor or green shipper shall consist of a maximum of six members appointed to the agency by the parties as follows: 1. The local board shall appoint the two associated producers of the processor or green shipper who were elected under subclause 15.1.3 (1) (b) (ii) and may appoint one additional individual. 2. The processor or green shipper shall appoint a maximum of three individuals. O. Reg. 569/17, s. 5. (5) On or before the deadline set out for the relevant vegetable in Column 2 of the Schedule to this Regulation, the local board and the processor or green shipper shall give notice of the appointment of their members to each other and to the Commission. O. Reg. 419/19, s. 10 (2). (6) A notice of appointment of members to a negotiating agency shall include, (a) the name of each member; and (b) for each member, his or her name, address, email address and phone number. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 10 (3). (7) If the local board or a processor or green shipper has failed to appoint a member to a negotiating agency on or before the deadline set out for the relevant vegetable in Column 2 of the Schedule to this Regulation, the Commission may make the appointment. O. Reg. 569/17, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>16. </b>(1) A negotiating agency shall be established under this section for each processor or green shipper of each vegetable. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 419/19, s. 10 (1).</p> <p class=\"subsection-e\">  (3) If a processor or green shipper has 10 or more associated producers, the negotiating agency for the processor or green shipper shall consist of a maximum of 12 members appointed to the agency by the parties as follows:</p> <p class=\"paragraph-e\">  1. The local board shall appoint the four associated producers of the processor or green shipper who were elected under subclause 15.1.3 (1) (b) (i) and may appoint a maximum of two additional individuals.</p> <p class=\"paragraph-e\">  2. The processor or green shipper shall appoint a maximum of six individuals. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (4) If a processor or green shipper has fewer than 10 associated producers, the negotiating agency for the processor or green shipper shall consist of a maximum of six members appointed to the agency by the parties as follows:</p> <p class=\"paragraph-e\">  1. The local board shall appoint the two associated producers of the processor or green shipper who were elected under subclause 15.1.3 (1) (b) (ii) and may appoint one additional individual.</p> <p class=\"paragraph-e\">  2. The processor or green shipper shall appoint a maximum of three individuals. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (5) On or before the deadline set out for the relevant vegetable in Column 2 of the Schedule to this Regulation, the local board and the processor or green shipper shall give notice of the appointment of their members to each other and to the Commission. O. Reg. 419/19, s. 10 (2).</p> <p class=\"subsection-e\">  (6) A notice of appointment of members to a negotiating agency shall include,</p> <p class=\"clause-e\">  (a) the name of each member; and</p> <p class=\"clause-e\">  (b) for each member, his or her name, address, email address and phone number. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 10 (3).</p> <p class=\"subsection-e\">  (7) If the local board or a processor or green shipper has failed to appoint a member to a negotiating agency on or before the deadline set out for the relevant vegetable in Column 2 of the Schedule to this Regulation, the Commission may make the appointment. O. Reg. 569/17, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#16.1, 16.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16.1, 16.2 Revoked: O. Reg. 569/17, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>16.1, 16.2 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 569/17, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. (1) Despite subsection 16 (1), a negotiating agency may be established for two or more processors or green shippers of the same vegetable, or for a combination of two or more processors and green shippers of the same vegetable, if the processors and green shippers who are interested in forming a joint negotiating agency each file a written consent to the establishment of a joint negotiating agency with the local board on or before the deadline set out for the relevant vegetable in Column 2 of the Schedule to this Regulation. O. Reg. 569/17, s. 5. (2) Subsections 16 (3) to (7) apply with necessary modifications to the establishment of a joint negotiating agency, subject to the following: 1. The local board shall appoint associated producers from one of the following groups, as applicable: i. If annual meetings are held separately for each processor or green shipper before the written consent mentioned in subsection (1) is filed, the local board shall appoint, from among the associated producers who were elected at the annual meetings, two individuals for every processor or green shipper who is a party to the negotiating agency. ii. If a joint annual meeting is held under subsection 15.1.3 (6), the local board shall appoint the individuals who were elected under subsection 15.1.3 (7). 2. The local board may appoint two additional individuals. 3. The relevant processors and green shippers may jointly appoint the same number of individuals as the total number of individuals the local board is authorized to appoint under paragraphs 1 and 2. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 11.",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b>(1) Despite subsection 16 (1), a negotiating agency may be established for two or more processors or green shippers of the same vegetable, or for a combination of two or more processors and green shippers of the same vegetable, if the processors and green shippers who are interested in forming a joint negotiating agency each file a written consent to the establishment of a joint negotiating agency with the local board on or before the deadline set out for the relevant vegetable in Column 2 of the Schedule to this Regulation. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (2) Subsections 16 (3) to (7) apply with necessary modifications to the establishment of a joint negotiating agency, subject to the following:</p> <p class=\"paragraph-e\">  1. The local board shall appoint associated producers from one of the following groups, as applicable:</p> <p class=\"subpara-e\">  i. If annual meetings are held separately for each processor or green shipper before the written consent mentioned in subsection (1) is filed, the local board shall appoint, from among the associated producers who were elected at the annual meetings, two individuals for every processor or green shipper who is a party to the negotiating agency.</p> <p class=\"subpara-e\">  ii. If a joint annual meeting is held under subsection 15.1.3 (6), the local board shall appoint the individuals who were elected under subsection 15.1.3 (7).</p> <p class=\"paragraph-e\">  2. The local board may appoint two additional individuals.</p> <p class=\"paragraph-e\">  3. The relevant processors and green shippers may jointly appoint the same number of individuals as the total number of individuals the local board is authorized to appoint under paragraphs 1 and 2. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. (1) Despite sections 16 and 17, if the local board is unable to appoint the required number of associated producers to a negotiating agency under those sections for a year, the local board may request that the Commission reduce the number of members that must be appointed by the local board for that year. O. Reg. 569/17, s. 5. (2) If the Commission reduces the number of members under subsection (1), the Commission shall direct the parties with respect to the composition of the negotiating agency for that year in a manner that permits the parties to have balanced representation on the negotiating agency. O. Reg. 569/17, s. 5. Negotiations",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>(1) Despite sections 16 and 17, if the local board is unable to appoint the required number of associated producers to a negotiating agency under those sections for a year, the local board may request that the Commission reduce the number of members that must be appointed by the local board for that year. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (2) If the Commission reduces the number of members under subsection (1), the Commission shall direct the parties with respect to the composition of the negotiating agency for that year in a manner that permits the parties to have balanced representation on the negotiating agency. O. Reg. 569/17, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Negotiations</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. (1) The first meeting of a negotiating agency established under section 16 or 17 shall be held no later than the deadline set out for the relevant vegetable in Column 3 of the Schedule to this Regulation. O. Reg. 569/17, s. 5. (2) The members of a negotiating agency may convene a meeting of the agency, (a) by sending written notice of the meeting to the other members of the agency at least seven days before the meeting; or (b) by any means with the consent of all the members. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 12 (1). (3) The period of negotiations for a negotiating agency established under section 16 or 17 shall end, (a) at 4:00 p.m. on the deadline set out for the relevant vegetable in Column 4 of the Schedule to this Regulation; or (b) at any earlier time at which an agreement is reached. O. Reg. 569/17, s. 5. (4) Revoked: O. Reg. 419/19, s. 12 (2). Late Negotiations",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>(1) The first meeting of a negotiating agency established under section 16 or 17 shall be held no later than the deadline set out for the relevant vegetable in Column 3 of the Schedule to this Regulation. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (2) The members of a negotiating agency may convene a meeting of the agency,</p> <p class=\"clause-e\">  (a) by sending written notice of the meeting to the other members of the agency at least seven days before the meeting; or</p> <p class=\"clause-e\">  (b) by any means with the consent of all the members. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 12 (1).</p> <p class=\"subsection-e\">  (3) The period of negotiations for a negotiating agency established under section 16 or 17 shall end,</p> <p class=\"clause-e\">  (a) at 4:00 p.m. on the deadline set out for the relevant vegetable in Column 4 of the Schedule to this Regulation; or</p> <p class=\"clause-e\">  (b) at any earlier time at which an agreement is reached. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (4) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 419/19, s. 12 (2).</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Late Negotiations</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. (1) A processor or green shipper of a vegetable that is not operating in Ontario at the time negotiating agencies for the vegetable are established under section 16 or 17 for a given year may nonetheless negotiate an agreement with the local board for that year, with respect to matters referred to in section 15.2, if the processor or green shipper gives a notice of intention to negotiate to the local board and to the Commission. O. Reg. 569/17, s. 5. (2) If notice is given under subsection (1) by a processor or green shipper, a negotiating agency shall be established. O. Reg. 419/19, s. 13 (1). (3) Within five days after a notice of intention to negotiate is given under subsection (1), the local board and the processor or green shipper shall determine the following dates and give the Commission written notice of them: 1. The date by which members must be appointed to the negotiating agency. 2. The date by which the members must conclude negotiations. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 13 (2). (4) If the Commission does not receive written notice of the dates referred to in subsection (3) within the time period set out in that subsection, the Commission shall determine the dates and notify the local board and the processor or green shipper. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 13 (3). (5) Subsections 16 (3) to (7) apply with necessary modifications to the appointment of members to a negotiating agency established under subsection (2), subject to the following: 1. The deadline for appointing the members is the date determined by the negotiating agency under subsection (3) or by the Commission under subsection (4). 2. If the processor or green shipper that gave notice of intention to negotiate under subsection (1) does not have any associated producers as of the relevant date referred to in paragraph 1, the following rules apply: i. The local board shall appoint a maximum of six individuals, who shall include at least four producers of the relevant vegetable. ii. The processor or green shipper shall appoint a maximum of six individuals. O. Reg. 569/17, s. 5. (6) The period of negotiations for a negotiating agency established under subsection (2) shall end, (a) at 4:00 p.m. on the date determined by the negotiating agency under subsection (3) or by the Commission under subsection (4); or (b) at any earlier time at which an agreement is reached. O. Reg. 569/17, s. 5. (7) Revoked: O. Reg. 419/19, s. 13 (4). Producer Meetings",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>(1) A processor or green shipper of a vegetable that is not operating in Ontario at the time negotiating agencies for the vegetable are established under section 16 or 17 for a given year may nonetheless negotiate an agreement with the local board for that year, with respect to matters referred to in section 15.2, if the processor or green shipper gives a notice of intention to negotiate to the local board and to the Commission. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (2) If notice is given under subsection (1) by a processor or green shipper, a negotiating agency shall be established. O. Reg. 419/19, s. 13 (1).</p> <p class=\"subsection-e\">  (3) Within five days after a notice of intention to negotiate is given under subsection (1), the local board and the processor or green shipper shall determine the following dates and give the Commission written notice of them:</p> <p class=\"paragraph-e\">  1. The date by which members must be appointed to the negotiating agency.</p> <p class=\"paragraph-e\">  2. The date by which the members must conclude negotiations. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 13 (2).</p> <p class=\"subsection-e\">  (4) If the Commission does not receive written notice of the dates referred to in subsection (3) within the time period set out in that subsection, the Commission shall determine the dates and notify the local board and the processor or green shipper. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 13 (3).</p> <p class=\"subsection-e\">  (5) Subsections 16 (3) to (7) apply with necessary modifications to the appointment of members to a negotiating agency established under subsection (2), subject to the following:</p> <p class=\"paragraph-e\">  1. The deadline for appointing the members is the date determined by the negotiating agency under subsection (3) or by the Commission under subsection (4).</p> <p class=\"paragraph-e\">  2. If the processor or green shipper that gave notice of intention to negotiate under subsection (1) does not have any associated producers as of the relevant date referred to in paragraph 1, the following rules apply:</p> <p class=\"subpara-e\">  i. The local board shall appoint a maximum of six individuals, who shall include at least four producers of the relevant vegetable.</p> <p class=\"subpara-e\">  ii. The processor or green shipper shall appoint a maximum of six individuals. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (6) The period of negotiations for a negotiating agency established under subsection (2) shall end,</p> <p class=\"clause-e\">  (a) at 4:00 p.m. on the date determined by the negotiating agency under subsection (3) or by the Commission under subsection (4); or</p> <p class=\"clause-e\">  (b) at any earlier time at which an agreement is reached. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (7) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 419/19, s. 13 (4).</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Producer Meetings</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. (1) The members of a negotiating agency established for a processor or green shipper for a particular vegetable under section 16, 17 or 20 who were appointed by the local board may call a meeting of all the associated producers who produce that vegetable for the processor or green shipper at any time before the end of the period of negotiations to discuss any matter related to the negotiations. O. Reg. 569/17, s. 5. (2) Despite subsection (1), the members of a negotiating agency established for a processor or green shipper under section 16, 17 or 20 who were appointed by the local board shall call a meeting of all the associated producers who produce vegetables for the processor or green shipper if, (a) at least 10 per cent of the associated producers have signed a written request for the meeting and submitted it to the members appointed by the local board; or (b) the negotiating agency has given notice to the Commission under section 23 that it has not arrived at a comprehensive settlement of matters set out in section 15.2. O. Reg. 569/17, s. 5. (3) A meeting of associated producers shall be held, (a) in the case of a meeting required under clause (2) (a), before the end of the period of negotiations for the negotiating agency set out for the relevant vegetable in Column 4 of the Schedule to this Regulation; or (b) in the case of a meeting required under clause (2) (b), within five business days after the negotiating agency gives notice to the Commission under section 23. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 14. (4) The meeting shall be called by giving notice to all associated producers electronically or by telephone, at each producer’s email address or telephone number on file with the local board. O. Reg. 569/17, s. 5. (5) At a meeting required under clause (2) (b), the question of whether the negotiating agency should accept the processor’s or green shipper’s final negotiated offer or whether it should proceed to arbitration shall be voted on by secret ballot by all the associated producers present at the meeting if, (a) at least 50 per cent of the associated producers for the processor or green shipper who is a party to the negotiating agency are present at the meeting; and (b) at least 25 per cent of the associated producers referred to in clause (a) indicate that they are in favour of holding a vote on the matter. O. Reg. 569/17, s. 5. (6) The result of any vote taken under subsection (5) is binding on the members of the negotiating agency who are appointed by the local board. O. Reg. 569/17, s. 5. (7) This section does not apply to a negotiating agency established under section 20 if the processor or green shipper does not have any associated producers as of the date for appointing members determined by the negotiating agency under paragraph 1 of subsection 20 (3) or by the Commission under subsection 20 (4). O. Reg. 569/17, s. 5. Conciliation and Arbitration",
+            "raw_html": "<p class=\"section-e\"> <b>21. </b>(1) The members of a negotiating agency established for a processor or green shipper for a particular vegetable under section 16, 17 or 20 who were appointed by the local board may call a meeting of all the associated producers who produce that vegetable for the processor or green shipper at any time before the end of the period of negotiations to discuss any matter related to the negotiations. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (2) Despite subsection (1), the members of a negotiating agency established for a processor or green shipper under section 16, 17 or 20 who were appointed by the local board shall call a meeting of all the associated producers who produce vegetables for the processor or green shipper if,</p> <p class=\"clause-e\">  (a) at least 10 per cent of the associated producers have signed a written request for the meeting and submitted it to the members appointed by the local board; or</p> <p class=\"clause-e\">  (b) the negotiating agency has given notice to the Commission under section 23 that it has not arrived at a comprehensive settlement of matters set out in section 15.2. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (3) A meeting of associated producers shall be held,</p> <p class=\"clause-e\">  (a) in the case of a meeting required under clause (2) (a), before the end of the period of negotiations for the negotiating agency set out for the relevant vegetable in Column 4 of the Schedule to this Regulation; or</p> <p class=\"clause-e\">  (b) in the case of a meeting required under clause (2) (b), within five business days after the negotiating agency gives notice to the Commission under section 23. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 14.</p> <p class=\"subsection-e\">  (4) The meeting shall be called by giving notice to all associated producers electronically or by telephone, at each producer’s email address or telephone number on file with the local board. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (5) At a meeting required under clause (2) (b), the question of whether the negotiating agency should accept the processor’s or green shipper’s final negotiated offer or whether it should proceed to arbitration shall be voted on by secret ballot by all the associated producers present at the meeting if,</p> <p class=\"clause-e\">  (a) at least 50 per cent of the associated producers for the processor or green shipper who is a party to the negotiating agency are present at the meeting; and</p> <p class=\"clause-e\">  (b) at least 25 per cent of the associated producers referred to in clause (a) indicate that they are in favour of holding a vote on the matter. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (6) The result of any vote taken under subsection (5) is binding on the members of the negotiating agency who are appointed by the local board. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (7) This section does not apply to a negotiating agency established under section 20 if the processor or green shipper does not have any associated producers as of the date for appointing members determined by the negotiating agency under paragraph 1 of subsection 20 (3) or by the Commission under subsection 20 (4). O. Reg. 569/17, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Conciliation and Arbitration</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22. (1) The associated producer or processor or green shipper members of a negotiating agency may refer matters to conciliation in accordance with this section at any time before the end of the period of negotiations. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 15 (1). (2) The Commission shall appoint a conciliator acceptable to the members of the negotiating agency. O. Reg. 569/17, s. 5. (3) The negotiating agency shall submit to the conciliator a statement of matters in dispute. O. Reg. 569/17, s. 5. (4) The conciliator shall, (a) endeavour to reach an agreement on any matter referred to the conciliator under subsection (3); and (b) recommend adoption of any agreement reached under clause (a) to the negotiating agency. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 15 (2, 3).",
+            "raw_html": "<p class=\"section-e\"> <b>22. </b>(1) The associated producer or processor or green shipper members of a negotiating agency may refer matters to conciliation in accordance with this section at any time before the end of the period of negotiations. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 15 (1).</p> <p class=\"subsection-e\">  (2) The Commission shall appoint a conciliator acceptable to the members of the negotiating agency. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (3) The negotiating agency shall submit to the conciliator a statement of matters in dispute. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (4) The conciliator shall,</p> <p class=\"clause-e\">  (a) endeavour to reach an agreement on any matter referred to the conciliator under subsection (3); and</p> <p class=\"clause-e\">  (b) recommend adoption of any agreement reached under clause (a) to the negotiating agency. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 15 (2, 3).</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23. (1) A negotiating agency shall immediately notify the Commission in writing if the negotiating agency has not arrived at a comprehensive settlement of matters set out in section 15.2 by, (a) in the case of a negotiating agency established under section 16 or 17, 4:00 p.m. on the deadline set out for the relevant vegetable in Column 4 of the Schedule to this Regulation; and (b) in the case of a negotiating agency established under subsection 20 (2), 4:00 p.m. on the date determined by the negotiating agency under paragraph 2 of subsection 20 (3) or by the Commission under subsection 20 (4). O. Reg. 569/17, s. 5. (2) The notice referred to in subsection (1) shall be accompanied by, (a) one or more statements of the matters in dispute; (b) a statement of the final position of the members of the negotiating agency who were appointed by the local board; and (c) a statement of the final position of the members of the negotiating agency who were appointed by the processor or green shipper. O. Reg. 569/17, s. 5. (3) The Commission shall not refer the matters in dispute to an arbitration board before the meeting of associated producers required under clause 21 (2) (b) has taken place. O. Reg. 569/17, s. 5. (4) The arbitration board shall be appointed by the Commission and shall consist of, (a) three members, if all the members of the negotiating agency consent to there being three members on the arbitration board; or (b) one member, in every other case. O. Reg. 569/17, s. 5. (5) If more than one arbitration is required for different negotiating agencies established for processors or green shippers of the same vegetable, the Commission shall appoint the same arbitration board to conduct the arbitrations unless doing so is not practical in the circumstances. O. Reg. 569/17, s. 5. (6) If a member of an arbitration board dies, resigns or becomes unable to act before the arbitration board has made an award, the vacancy shall be filled by the Commission and the arbitration shall be continued and completed by the arbitration board as newly established. O. Reg. 569/17, s. 5. (7) An arbitration board shall not make an award on a matter until at least three days after the hearing has been completed. O. Reg. 569/17, s. 5. (8) An arbitration board shall, in making an award, select without modification one of the statements of final position filed with the Commission under subsection (2), except that, if the parties to an arbitration agree, the arbitration board may, (a) make individual awards with respect to one or more matters in dispute by selecting the position set out on the matter or matters in one of the statements of final position; or (b) make any award that settles the matters regardless of the statements of final position. O. Reg. 569/17, s. 5. (9) If only one statement of final position has been filed with the Commission under subsection (2), subsection (8) does not apply and the arbitration board shall select that statement as the award. O. Reg. 569/17, s. 5. Tomato and Carrot Negotiations",
+            "raw_html": "<p class=\"section-e\"> <b>23. </b>(1) A negotiating agency shall immediately notify the Commission in writing if the negotiating agency has not arrived at a comprehensive settlement of matters set out in section 15.2 by,</p> <p class=\"clause-e\">  (a) in the case of a negotiating agency established under section 16 or 17, 4:00 p.m. on the deadline set out for the relevant vegetable in Column 4 of the Schedule to this Regulation; and</p> <p class=\"clause-e\">  (b) in the case of a negotiating agency established under subsection 20 (2), 4:00 p.m. on the date determined by the negotiating agency under paragraph 2 of subsection 20 (3) or by the Commission under subsection 20 (4). O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (2) The notice referred to in subsection (1) shall be accompanied by,</p> <p class=\"clause-e\">  (a) one or more statements of the matters in dispute;</p> <p class=\"clause-e\">  (b) a statement of the final position of the members of the negotiating agency who were appointed by the local board; and</p> <p class=\"clause-e\">  (c) a statement of the final position of the members of the negotiating agency who were appointed by the processor or green shipper. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (3) The Commission shall not refer the matters in dispute to an arbitration board before the meeting of associated producers required under clause 21 (2) (b) has taken place. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (4) The arbitration board shall be appointed by the Commission and shall consist of,</p> <p class=\"clause-e\">  (a) three members, if all the members of the negotiating agency consent to there being three members on the arbitration board; or</p> <p class=\"clause-e\">  (b) one member, in every other case. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (5) If more than one arbitration is required for different negotiating agencies established for processors or green shippers of the same vegetable, the Commission shall appoint the same arbitration board to conduct the arbitrations unless doing so is not practical in the circumstances. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (6) If a member of an arbitration board dies, resigns or becomes unable to act before the arbitration board has made an award, the vacancy shall be filled by the Commission and the arbitration shall be continued and completed by the arbitration board as newly established. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (7) An arbitration board shall not make an award on a matter until at least three days after the hearing has been completed. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (8) An arbitration board shall, in making an award, select without modification one of the statements of final position filed with the Commission under subsection (2), except that, if the parties to an arbitration agree, the arbitration board may,</p> <p class=\"clause-e\">  (a) make individual awards with respect to one or more matters in dispute by selecting the position set out on the matter or matters in one of the statements of final position; or</p> <p class=\"clause-e\">  (b) make any award that settles the matters regardless of the statements of final position. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (9) If only one statement of final position has been filed with the Commission under subsection (2), subsection (8) does not apply and the arbitration board shall select that statement as the award. O. Reg. 569/17, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK13\"></a>Tomato and Carrot Negotiations</p>"
+        },
+        {
+            "ahref_id": "#23.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.1 Sections 23.2 to 23.10 apply only with respect to tomatoes and carrots. O. Reg. 419/19, s. 16.",
+            "raw_html": "<p class=\"section-e\"> <b>23.1 </b>Sections 23.2 to 23.10 apply only with respect to tomatoes and carrots. O. Reg. 419/19, s. 16.</p>"
+        },
+        {
+            "ahref_id": "#23.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.2 (1) Each year, an associated producer shall negotiate certain terms and conditions of the associated producer’s annual agreement with the processor by, (a) negotiating, at a minimum, the terms and conditions set out in section 23.4 directly with the associated producer’s processor; or (b) negotiating the matters set out in subsection 23.5 (1) through a negotiating agency established in accordance with that section. O. Reg. 419/19, s. 16. (2) The associated producers of each processor shall negotiate through a negotiating agency unless, during an annual meeting held under section 23.3, a majority of the associated producers present at the meeting vote to negotiate directly with the processor. O. Reg. 419/19, s. 16. (3) The vote shall be by secret ballot and conducted by a representative of the Commission. O. Reg. 419/19, s. 16. (4) If negotiations are conducted through a negotiating agency established under section 23.5, no charges, costs or expenses relating to the production or marketing of tomatoes or carrots, as the case may be, shall be made other than the charges, costs or expenses provided for in any agreement entered into following the negotiations or, if the negotiating agency is unable to reach a comprehensive settlement, the charges, costs or expenses provided for in an award of an arbitration board. O. Reg. 419/19, s. 16. Annual Meetings in Advance of Negotiations — Tomatoes and Carrots",
+            "raw_html": "<p class=\"section-e\"> <b>23.2 </b>(1) Each year, an associated producer shall negotiate certain terms and conditions of the associated producer’s annual agreement with the processor by,</p> <p class=\"clause-e\">  (a) negotiating, at a minimum, the terms and conditions set out in section 23.4 directly with the associated producer’s processor; or</p> <p class=\"clause-e\">  (b) negotiating the matters set out in subsection 23.5 (1) through a negotiating agency established in accordance with that section. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (2) The associated producers of each processor shall negotiate through a negotiating agency unless, during an annual meeting held under section 23.3, a majority of the associated producers present at the meeting vote to negotiate directly with the processor. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (3) The vote shall be by secret ballot and conducted by a representative of the Commission. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (4) If negotiations are conducted through a negotiating agency established under section 23.5, no charges, costs or expenses relating to the production or marketing of tomatoes or carrots, as the case may be, shall be made other than the charges, costs or expenses provided for in any agreement entered into following the negotiations or, if the negotiating agency is unable to reach a comprehensive settlement, the charges, costs or expenses provided for in an award of an arbitration board. O. Reg. 419/19, s. 16.</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Annual Meetings in Advance of Negotiations — Tomatoes and Carrots</p>"
+        },
+        {
+            "ahref_id": "#23.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.3 (1) Each processor shall hold an annual meeting and invite its associated producers to the meeting for the purposes of, (a) giving the processor’s associated producers an opportunity to conduct a vote as to whether to negotiate directly with the processor; (b) allowing the processor and its associated producers to discuss anything relevant to the matters that are to be negotiated as part of an annual agreement; and (c) if negotiations are to be conducted through a negotiating agency, allowing the associated producers to elect, from among themselves, by secret ballot, up to three individuals as members of the negotiating agency for the processor. O. Reg. 419/19, s. 16. (2) The processor shall give at least two weeks’ notice of the meeting to its associated producers. O. Reg. 419/19, s. 16. (3) The notice shall be given electronically or by telephone, at the associated producer’s email address or telephone number set out in the associated producer agreement. O. Reg. 419/19, s. 16. (4) The meeting shall be held at any time before the deadline set out for tomatoes or carrots, as the case may be, in Column 2 of the Schedule to this Regulation. O. Reg. 419/19, s. 16. Direct Negotiations",
+            "raw_html": "<p class=\"section-e\"> <b>23.3 </b>(1) Each processor shall hold an annual meeting and invite its associated producers to the meeting for the purposes of,</p> <p class=\"clause-e\">  (a) giving the processor’s associated producers an opportunity to conduct a vote as to whether to negotiate directly with the processor;</p> <p class=\"clause-e\">  (b) allowing the processor and its associated producers to discuss anything relevant to the matters that are to be negotiated as part of an annual agreement; and</p> <p class=\"clause-e\">  (c) if negotiations are to be conducted through a negotiating agency, allowing the associated producers to elect, from among themselves, by secret ballot, up to three individuals as members of the negotiating agency for the processor. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (2) The processor shall give at least two weeks’ notice of the meeting to its associated producers. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (3) The notice shall be given electronically or by telephone, at the associated producer’s email address or telephone number set out in the associated producer agreement. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (4) The meeting shall be held at any time before the deadline set out for tomatoes or carrots, as the case may be, in Column 2 of the Schedule to this Regulation. O. Reg. 419/19, s. 16.</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Direct Negotiations</p>"
+        },
+        {
+            "ahref_id": "#23.4",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.4 At a minimum, the following terms and conditions must be included in an annual agreement negotiated directly by a processor and its associated producer: 1. Minimum prices for tomatoes or carrots, including for any class, variety, grade or size. 2. The payment schedule for payments by the processor to the associated producer. 3. Any charges, costs or expenses relating to the production or marketing of tomatoes or carrots. O. Reg. 419/19, s. 16. Negotiating Agencies — Tomatoes and Carrots",
+            "raw_html": "<p class=\"section-e\"> <b>23.4 </b>At a minimum, the following terms and conditions must be included in an annual agreement negotiated directly by a processor and its associated producer:</p> <p class=\"paragraph-e\">  1. Minimum prices for tomatoes or carrots, including for any class, variety, grade or size.</p> <p class=\"paragraph-e\">  2. The payment schedule for payments by the processor to the associated producer.</p> <p class=\"paragraph-e\">  3. Any charges, costs or expenses relating to the production or marketing of tomatoes or carrots. O. Reg. 419/19, s. 16.</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Negotiating Agencies — Tomatoes and Carrots</p>"
+        },
+        {
+            "ahref_id": "#23.5",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.5 (1) Each year in which negotiations are to be conducted through a negotiating agency, a negotiating agency shall be established for the processor to adopt or settle the following matters by agreement: 1. Minimum prices for tomatoes or carrots, including for any class, variety, grade or size. 2. Terms, conditions and forms of agreements relating to the producing and marketing of tomatoes or carrots. 3. Any charges, costs or expenses relating to the production or marketing of tomatoes or carrots. O. Reg. 419/19, s. 16. (2) The members of the negotiating agency for the processor shall be determined in accordance with the following rules: 1. The associated producers of the processor who were elected under clause 23.3 (1) (c) are members of the negotiating agency. 2. The processor shall appoint individuals as processor members of the negotiating agency. 3. Subject to paragraph 4, the processor may appoint up to three associated producer members to the negotiating agency. 4. The associated producer members of the negotiating agency appointed by the processor under paragraph 3 shall not be a majority of the associated producer members of the negotiating agency. O. Reg. 419/19, s. 16. (3) On or before the deadline set out for tomatoes or carrots, as the case may be, in Column 2 of the Schedule to this Regulation, a notice of the appointment of the members to the negotiating agency shall be given to the local board and the Commission. O. Reg. 419/19, s. 16. (4) The notice of the appointment of the members of the negotiating agency shall include, (a) the name of each member; and (b) for each member, his or her name, address, email address and phone number. O. Reg. 419/19, s. 16. (5) If no members have been elected under clause 23.3 (1) (c) or if no members have been appointed by the processor under paragraph 3 of subsection (2) on or before the relevant deadline, the Commission shall appoint members to the negotiating agency in a manner that permits balanced representation on the negotiating agency. O. Reg. 419/19, s. 16. Negotiations — Tomatoes and Carrots",
+            "raw_html": "<p class=\"section-e\"> <b>23.5 </b>(1) Each year in which negotiations are to be conducted through a negotiating agency, a negotiating agency shall be established for the processor to adopt or settle the following matters by agreement:</p> <p class=\"paragraph-e\">  1. Minimum prices for tomatoes or carrots, including for any class, variety, grade or size.</p> <p class=\"paragraph-e\">  2. Terms, conditions and forms of agreements relating to the producing and marketing of tomatoes or carrots.</p> <p class=\"paragraph-e\">  3. Any charges, costs or expenses relating to the production or marketing of tomatoes or carrots. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (2) The members of the negotiating agency for the processor shall be determined in accordance with the following rules:</p> <p class=\"paragraph-e\">  1. The associated producers of the processor who were elected under clause 23.3 (1) (c) are members of the negotiating agency.</p> <p class=\"paragraph-e\">  2. The processor shall appoint individuals as processor members of the negotiating agency.</p> <p class=\"paragraph-e\">  3. Subject to paragraph 4, the processor may appoint up to three associated producer members to the negotiating agency.</p> <p class=\"paragraph-e\">  4. The associated producer members of the negotiating agency appointed by the processor under paragraph 3 shall not be a majority of the associated producer members of the negotiating agency. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (3) On or before the deadline set out for tomatoes or carrots, as the case may be, in Column 2 of the Schedule to this Regulation, a notice of the appointment of the members to the negotiating agency shall be given to the local board and the Commission. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (4) The notice of the appointment of the members of the negotiating agency shall include,</p> <p class=\"clause-e\">  (a) the name of each member; and</p> <p class=\"clause-e\">  (b) for each member, his or her name, address, email address and phone number. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (5) If no members have been elected under clause 23.3 (1) (c) or if no members have been appointed by the processor under paragraph 3 of subsection (2) on or before the relevant deadline, the Commission shall appoint members to the negotiating agency in a manner that permits balanced representation on the negotiating agency. O. Reg. 419/19, s. 16.</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>Negotiations — Tomatoes and Carrots</p>"
+        },
+        {
+            "ahref_id": "#23.6",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.6 Section 19 applies, with necessary modifications, to negotiations respecting tomatoes and carrots. O. Reg. 419/19, s. 16. Late Negotiations — Tomatoes and Carrots",
+            "raw_html": "<p class=\"section-e\"> <b>23.6 </b>Section 19 applies, with necessary modifications, to negotiations respecting tomatoes and carrots. O. Reg. 419/19, s. 16.</p> <p class=\"heading1-e\"><a name=\"BK18\"></a>Late Negotiations — Tomatoes and Carrots</p>"
+        },
+        {
+            "ahref_id": "#23.7",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.7 (1) A processor of tomatoes or carrots that is not operating in Ontario at the time negotiating agencies are established under section 23.5 for any given year may enter into associated producer agreements and annual agreements with producers of tomatoes or carrots, as the case may be. O. Reg. 419/19, s. 16. (2) In the first year of operation of the processor referred to in subsection (1), the associated producers of the processor shall negotiate directly with the processor. O. Reg. 419/19, s. 16. Producers Meetings — Tomatoes and Carrots",
+            "raw_html": "<p class=\"section-e\"> <b>23.7 </b>(1) A processor of tomatoes or carrots that is not operating in Ontario at the time negotiating agencies are established under section 23.5 for any given year may enter into associated producer agreements and annual agreements with producers of tomatoes or carrots, as the case may be. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (2) In the first year of operation of the processor referred to in subsection (1), the associated producers of the processor shall negotiate directly with the processor. O. Reg. 419/19, s. 16.</p> <p class=\"heading1-e\"><a name=\"BK19\"></a>Producers Meetings — Tomatoes and Carrots</p>"
+        },
+        {
+            "ahref_id": "#23.8",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.8 (1) Subject to subsection (2), section 21 applies, with necessary modifications, to meetings of associated producers respecting tomatoes and carrots. O. Reg. 419/19, s. 16. (2) Only associated producers negotiating through a negotiating agency established under section 23.5 are eligible to attend producer meetings. O. Reg. 419/19, s. 16. Conciliation and Arbitration — Tomatoes and Carrots",
+            "raw_html": "<p class=\"section-e\"> <b>23.8 </b>(1) Subject to subsection (2),<b> </b>section 21 applies, with necessary modifications, to meetings of associated producers respecting tomatoes and carrots. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (2) Only associated producers negotiating through a negotiating agency established under section 23.5 are eligible to attend producer meetings. O. Reg. 419/19, s. 16.</p> <p class=\"heading1-e\"><a name=\"BK20\"></a>Conciliation and Arbitration — Tomatoes and Carrots</p>"
+        },
+        {
+            "ahref_id": "#23.9",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.9 (1) Subject to subsection (2), the Commission shall appoint a conciliator acceptable to the members of the negotiating agency two weeks before the deadline set out for tomatoes or carrots, as the case may be, in Column 4 of the Schedule to this Regulation. O. Reg. 419/19, s. 16. (2) The Commission shall not appoint a conciliator where the members of a negotiating agency provide written notice to the Commission that they do not wish to refer the agreement to conciliation. O. Reg. 419/19, s. 16. (3) Any conciliator appointed under subsection (1) shall, (a) endeavour to reach agreement on the matters set out in subsection 23.5 (1); and (b) recommend adoption of any agreement reached under clause (a) to the negotiating agency. O. Reg. 419/19, s. 16.",
+            "raw_html": "<p class=\"section-e\"> <b>23.9 </b>(1) Subject to subsection (2), the Commission shall appoint a conciliator acceptable to the members of the negotiating agency two weeks before the deadline set out for tomatoes or carrots, as the case may be, in Column 4 of the Schedule to this Regulation. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (2) The Commission shall not appoint a conciliator where the members of a negotiating agency provide written notice to the Commission that they do not wish to refer the agreement to conciliation. O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (3) Any conciliator appointed under subsection (1) shall,</p> <p class=\"clause-e\">  (a) endeavour to reach agreement on the matters set out in subsection 23.5 (1); and</p> <p class=\"clause-e\">  (b) recommend adoption of any agreement reached under clause (a) to the negotiating agency. O. Reg. 419/19, s. 16.</p>"
+        },
+        {
+            "ahref_id": "#23.10",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23.10 (1) Where a negotiating agency has not reached a comprehensive settlement of the matters set out in subsection 23.5 (1) by 4:00 p.m. on the deadline set out for tomatoes or carrots in Column 4 of the Schedule to this Regulation, section 23 applies with necessary modifications, subject to subsection (2). O. Reg. 419/19, s. 16. (2) If the Commission appointed a conciliator under subsection 23.9 (1), the arbitration board referred to in section 23 shall consist of one member who shall be the individual who was appointed as conciliator, despite subsection 23 (4). O. Reg. 419/19, s. 16. Conduct of Business by Negotiating Agencies",
+            "raw_html": "<p class=\"section-e\"> <b>23.10 </b>(1) Where a negotiating agency has not reached a comprehensive settlement of the matters set out in subsection 23.5 (1) by 4:00 p.m. on the deadline set out for tomatoes or carrots in Column 4 of the Schedule to this Regulation, section 23 applies with necessary modifications, subject to subsection (2). O. Reg. 419/19, s. 16.</p> <p class=\"subsection-e\">  (2) If the Commission appointed a conciliator under subsection 23.9 (1), the arbitration board referred to in section 23 shall consist of one member who shall be the individual who was appointed as conciliator, despite subsection 23 (4). O. Reg. 419/19, s. 16.</p> <p class=\"heading1-e\"><a name=\"BK21\"></a>Conduct of Business by Negotiating Agencies</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 24. (1) If a vacancy occurs for any reason in the membership of a negotiating agency before the end of negotiations or of conciliation or arbitration under this Regulation, the party who appointed the member whose position is vacant shall fill the vacancy within three days after the vacancy occurs. O. Reg. 569/17, s. 5. (2) If a party fails to fill a vacancy within the time required under subsection (1), the Commission shall fill the vacancy. O. Reg. 569/17, s. 5. (3) If the vacant position belonged to an individual who was an associated producer of a processor or green shipper and who was elected at an annual meeting, the local board shall appoint another associated producer of the processor or green shipper to fill the vacancy. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 17.",
+            "raw_html": "<p class=\"section-e\"> <b>24. </b>(1) If a vacancy occurs for any reason in the membership of a negotiating agency before the end of negotiations or of conciliation or arbitration under this Regulation, the party who appointed the member whose position is vacant shall fill the vacancy within three days after the vacancy occurs. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (2) If a party fails to fill a vacancy within the time required under subsection (1), the Commission shall fill the vacancy. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (3) If the vacant position belonged to an individual who was an associated producer of a processor or green shipper and who was elected at an annual meeting, the local board shall appoint another associated producer of the processor or green shipper to fill the vacancy. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 17.</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. Any deadlines for negotiations conducted by a negotiating agency that are set under this Regulation may be extended by agreement of the parties to the negotiating agency and with the approval of the Commission. O. Reg. 569/17, s. 5. Advisory Committees",
+            "raw_html": "<p class=\"section-e\"> <b>25. </b>Any deadlines for negotiations conducted by a negotiating agency that are set under this Regulation may be extended by agreement of the parties to the negotiating agency and with the approval of the Commission. O. Reg. 569/17, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK22\"></a>Advisory Committees</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. (1) An advisory committee is hereby established under the name “Vegetables for Processing Industry Advisory Committee” in English and “Comité consultatif de l’industrie des légumes de transformation” in French. O. Reg. 569/17, s. 5. (2) The advisory committee shall be composed of a chair and a maximum of 20 other members, appointed as follows: 1. The Commission shall appoint the chair. 2. The local board shall appoint, i. three producers elected by the producers from among themselves at a meeting held by the local board, and ii. up to four other producers selected by the local board. 3. The Commission may appoint up to four producers. 4. The Association may appoint up to five processors. 5. The Commission may appoint up to two processors that are not members of the Association. 6. The Commission may appoint up to two industry stakeholders. O. Reg. 569/17, s. 5. (3) Beginning in 2018, the members of the advisory committee shall be appointed by April 30 in each year and shall hold office from May 1 of that year until April 30 of the following year. O. Reg. 569/17, s. 5. (4) If a member of the advisory committee dies, resigns or is unable to act, the entity that appointed the member shall appoint a replacement member to fill the vacancy for the remainder of the member’s term. O. Reg. 569/17, s. 5. (5) The advisory committee has the power to advise and make recommendations to the Commission, the local board or the Association in respect of, (a) the promotion of harmonious relationships between persons engaged in the production and marketing of vegetables for processing; (b) the promotion of greater efficiency in the production and marketing of vegetables for processing; (c) the prevention and correction of irregularities and inequities in the marketing of vegetables for processing; (d) the improvement of the quality and variety of vegetables for processing; (e) the improvement of the circulation of market information respecting vegetables for processing; and (f) any matter in respect of which the Commission or the local board may be empowered to make regulations under the Act. O. Reg. 569/17, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b>(1) An advisory committee is hereby established under the name “Vegetables for Processing Industry Advisory Committee” in English and “Comité consultatif de l’industrie des légumes de transformation” in French. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (2) The advisory committee shall be composed of a chair and a maximum of 20 other members, appointed as follows:</p> <p class=\"paragraph-e\">  1. The Commission shall appoint the chair.</p> <p class=\"paragraph-e\">  2. The local board shall appoint,</p> <p class=\"subpara-e\">  i. three producers elected by the producers from among themselves at a meeting held by the local board, and</p> <p class=\"subpara-e\">  ii. up to four other producers selected by the local board.</p> <p class=\"paragraph-e\">  3. The Commission may appoint up to four producers.</p> <p class=\"paragraph-e\">  4. The Association may appoint up to five processors.</p> <p class=\"paragraph-e\">  5. The Commission may appoint up to two processors that are not members of the Association.</p> <p class=\"paragraph-e\">  6. The Commission may appoint up to two industry stakeholders. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (3) Beginning in 2018, the members of the advisory committee shall be appointed by April 30 in each year and shall hold office from May 1 of that year until April 30 of the following year. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (4) If a member of the advisory committee dies, resigns or is unable to act, the entity that appointed the member shall appoint a replacement member to fill the vacancy for the remainder of the member’s term. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (5) The advisory committee has the power to advise and make recommendations to the Commission, the local board or the Association in respect of,</p> <p class=\"clause-e\">  (a) the promotion of harmonious relationships between persons engaged in the production and marketing of vegetables for processing;</p> <p class=\"clause-e\">  (b) the promotion of greater efficiency in the production and marketing of vegetables for processing;</p> <p class=\"clause-e\">  (c) the prevention and correction of irregularities and inequities in the marketing of vegetables for processing;</p> <p class=\"clause-e\">  (d) the improvement of the quality and variety of vegetables for processing;</p> <p class=\"clause-e\">  (e) the improvement of the circulation of market information respecting vegetables for processing; and</p> <p class=\"clause-e\">  (f) any matter in respect of which the Commission or the local board may be empowered to make regulations under the Act. O. Reg. 569/17, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#27.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27. Revoked: O. Reg. 419/19, s. 18. Review",
+            "raw_html": "<p class=\"section-e\"> <b>27. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 419/19, s. 18.</p> <p class=\"heading1-e\"><a name=\"BK23\"></a>Review</p>"
+        },
+        {
+            "ahref_id": "#28.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 28. The Commission shall conduct a review of this Regulation no later than June 30, 2023. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 19.",
+            "raw_html": "<p class=\"section-e\"> <b>28. </b>The Commission shall conduct a review of this Regulation no later than June 30, 2023. O. Reg. 569/17, s. 5; O. Reg. 419/19, s. 19.</p>"
+        },
+        {
+            "ahref_id": "#29.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 29. Revoked: O. Reg. 419/19, s. 20. Deadlines Not Falling on Business Day",
+            "raw_html": "<p class=\"section-e\"> <b>29. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 419/19, s. 20.</p> <p class=\"heading1-e\"><a name=\"BK24\"></a>Deadlines Not Falling on Business Day</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. (1) For the purposes of sections 15.1.2 to 29, if something is required to be done on or before a date specified in this Regulation that is not a business day in a particular year, the thing must be done on or before the next business day. O. Reg. 569/17, s. 5. (2) In this section, “business day” means a day that is not, (a) Saturday, or (b) a holiday within the meaning of section 88 of the Legislation Act, 2006. Schedule Item   Column 1   Vegetable   Column 2   Deadline for appointing members   Column 3   Deadline for starting negotiations   Column 4   Deadline for completing negotiations \n\n  1.   Cucumbers   November 15   November 24   December 15 \n\n  2.   Peas   January 15   February 1   February 22 \n\n  3.   Sweet corn   January 15   February 6   February 27 \n\n  4.   Tomatoes   January 15   February 8   March 1 \n\n  5.   Carrots   January 15   February 6   March 6 \n\n  6.   Cabbage   January 15   February 14   March 7 \n\n  7.   Peppers   January 15   February 15   March 8 \n\n  8.   Beets   January 15   February 26   March 19 \n\n  9.   Cauliflower   January 15   February 26   March 19 \n\n  10.   Green and waxed beans   January 15   February 20   March 13 \n\n  11.   Lima beans   January 15   March 1   March 22 \n\n  12.   Pumpkin and squash   January 15   March 1   March 22 \n\n  13.   Spanish-type onions used for onion rings    October 15   October 25   November 15 O. Reg. 569/17, s. 5.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>30. </b>(1) For the purposes of sections 15.1.2 to 29, if something is required to be done on or before a date specified in this Regulation that is not a business day in a particular year, the thing must be done on or before the next business day. O. Reg. 569/17, s. 5.</p> <p class=\"subsection-e\">  (2) In this section,</p> <p class=\"definition-e\">“business day” means a day that is not,</p> <p class=\"defclause-e\">  (a) Saturday, or</p> <p class=\"defclause-e\">  (b) a holiday within the meaning of section 88 of the <i>Legislation Act, 2006</i>.</p> <p class=\"schedule-e\"><a name=\"BK25\"></a>Schedule</p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"672\">\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">Item</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Column 1 <br/>  Vegetable</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Column 2 <br/>  Deadline for appointing members</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Column 3 <br/>  Deadline for starting negotiations</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Column 4 <br/>  Deadline for completing negotiations</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">1.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Cucumbers</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">November 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">November 24</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">December 15</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">2.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Peas</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">January 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">February 1</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">February 22</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">3.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Sweet corn</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">January 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">February 6</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">February 27</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">4.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Tomatoes</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">January 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">February 8</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">March 1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">5.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Carrots</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">January 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">February 6</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">March 6</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">6.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Cabbage</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">January 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">February 14</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">March 7</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">7.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Peppers</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">January 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">February 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">March 8</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">8.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Beets</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">January 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">February 26</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">March 19</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">9.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Cauliflower</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">January 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">February 26</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">March 19</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">10.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Green and waxed beans</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">January 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">February 20</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">March 13</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">11.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Lima beans</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">January 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">March 1</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">March 22</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">12.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Pumpkin and squash</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">January 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">March 1</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">March 22</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"44\"> <p class=\"table-e\">13.</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">Spanish-type onions used for onion rings </p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">October 15</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">October 25</p> </td> <td valign=\"top\" width=\"157\"> <p class=\"table-e\">November 15</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 569/17, s. 5.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/900440\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

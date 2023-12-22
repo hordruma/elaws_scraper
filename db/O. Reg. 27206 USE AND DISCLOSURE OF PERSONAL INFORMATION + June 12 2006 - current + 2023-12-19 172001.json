@@ -1,0 +1,40 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 272/06: USE AND DISCLOSURE OF PERSONAL INFORMATION",
+        "reg_name_text": "USE AND DISCLOSURE OF PERSONAL INFORMATION",
+        "citation": "O. Reg. 272/06: ",
+        "act_under": "Health Insurance Act   Loi sur l’assurance-santé",
+        "url": "https://www.ontario.ca/laws/regulation/060272",
+        "date_scraped": "2023-12-19 17:20:01"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "June 12, 2006",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definitions",
+            "content": "1. In this Regulation, “health information custodian” means a health information custodian as that term is defined in section 3 of the Personal Health Information Protection Act, 2004; “personal health information” means personal information that is personal health information within the meaning of section 4 of the Personal Health Information Protection Act, 2004. O. Reg. 272/06, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>In this Regulation,</p> <p class=\"firstdef-e\">“health information custodian” means a health information custodian as that term is defined in section 3 of the <i>Personal Health Information Protection Act, 2004</i>;</p> <p class=\"definition-e\">“personal health information” means personal information that is personal health information within the meaning of section 4 of the <i>Personal Health Information Protection Act, 2004</i>. O. Reg. 272/06, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Use",
+            "content": "2. If, in the opinion of the Minister or General Manager, as the case may be, the use is necessary for the purpose, the Minister or General Manager may use personal health information for the purpose of developing and maintaining an electronic master person index for the Province of Ontario’s health sector to accurately identify and organize records of personal health information that relate to an individual. O. Reg. 272/06, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>If, in the opinion of the Minister or General Manager, as the case may be, the use is necessary for the purpose, the Minister or General Manager may use personal health information for the purpose of developing and maintaining an<b> </b>electronic master person index<b> </b>for the Province of Ontario’s health sector to accurately identify and organize records of personal health information that relate to an individual. O. Reg. 272/06, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Disclosure ",
+            "content": "3. If, in the opinion of the Minister or General Manager, as the case may be, the disclosure is necessary for the purpose, the Minister or General Manager shall disclose personal health information from the index mentioned in section 2 to a health information custodian that has been provided access to the index for the purpose of assisting the health information custodian in accurately identifying and organizing records of personal health information that relate to an individual. O. Reg. 272/06, s. 3. ",
+            "raw_html": "<p class=\"section-e\"><b>3. </b>If, in the opinion of the Minister or General Manager, as the case may be, the disclosure is necessary for the purpose, the Minister or General Manager shall disclose personal health information from the index mentioned in section 2 to a health information custodian that has been provided access to the index for the purpose of assisting the health information custodian in accurately identifying and organizing records of personal health information that relate to an individual. O. Reg. 272/06, s. 3.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

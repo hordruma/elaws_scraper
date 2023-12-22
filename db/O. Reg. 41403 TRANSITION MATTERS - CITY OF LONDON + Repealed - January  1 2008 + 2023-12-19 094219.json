@@ -1,0 +1,39 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 414/03: TRANSITION MATTERS - CITY OF LONDON",
+        "reg_name_text": "TRANSITION MATTERS — CITY OF LONDON",
+        "citation": "O. Reg. 414/03: TRANSITION MATTERS - CITY OF LONDON",
+        "act_under": "Municipal Act, 2001   Loi de 2001 sur les municipalités",
+        "url": "https://www.ontario.ca/laws/regulation/030414",
+        "date_scraped": "2023-12-19 09:42:20"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/030414/v2",
+            "valid_from": "August 16, 2007",
+            "valid_to": "December 31, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/030414/v1",
+            "valid_from": "December  4, 2003",
+            "valid_to": "August 15, 2007"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "City of London — urban services",
+            "content": "1. Despite the repeal of the London-Middlesex Act, 1992 and the revocation of Ontario Regulation 931/93, that regulation, as it read on December 31, 2002 shall be deemed to be a by-law of the City of London and the deemed by-law, (a) includes any amendments to the regulation made by the City of London under subsection 45 (5) of the London-Middlesex Act, 1992 before its repeal; and (b) may not, unless the approval of the Ontario Municipal Board is first obtained, be further amended or repealed by the City of London. O. Reg. 414/03, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>Despite the repeal of the <i>London-Middlesex Act, 1992</i> and the revocation of Ontario Regulation 931/93, that regulation, as it read on December 31, 2002 shall be deemed to be a by-law of the City of London and the deemed by-law,</p> <p class=\"clause-e\">(a) includes any amendments to the regulation made by the City of London under subsection 45 (5) of the <i>London-Middlesex Act, 1992 </i>before its repeal; and</p> <p class=\"clause-e\">(b) may not, unless the approval of the Ontario Municipal Board is first obtained, be further amended or repealed by the City of London. O. Reg. 414/03, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "City of London — property tax phase-in",
+            "content": "2. Despite the revocation of Ontario Regulation 291/94, that regulation continues to apply to the City of London until January 1, 2004. O. Reg. 414/03, s. 2. ",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>Despite the revocation of Ontario Regulation 291/94, that regulation continues to apply to the City of London until January 1, 2004. O. Reg. 414/03, s. 2.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

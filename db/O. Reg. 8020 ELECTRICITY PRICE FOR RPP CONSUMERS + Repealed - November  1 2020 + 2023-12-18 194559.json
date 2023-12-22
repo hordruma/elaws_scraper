@@ -1,0 +1,60 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 80/20: ELECTRICITY PRICE FOR RPP CONSUMERS",
+        "reg_name_text": "ELECTRICITY PRICE FOR RPP CONSUMERS",
+        "citation": "O. Reg. 80/20: ",
+        "act_under": "Reopening Ontario (A Flexible Response to COVID-19) Act, 2020",
+        "url": "https://www.ontario.ca/laws/regulation/200080",
+        "date_scraped": "2023-12-18 19:46:00"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/200080/v4",
+            "valid_from": "October 20, 2020",
+            "valid_to": "October 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200080/v3",
+            "valid_from": "July 15, 2020",
+            "valid_to": "October 19, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200080/v2",
+            "valid_from": "May 29, 2020",
+            "valid_to": "July 14, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200080/v1",
+            "valid_from": "March 24, 2020",
+            "valid_to": "May 28, 2020"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Terms of Order",
+            "content": " 1. The terms of this Order are set out in Schedule 1. O. Reg. 382/20, s. 3. Schedule 1   ELECTRICITY PRICE FOR RPP CONSUMERS",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The terms of this Order are set out in Schedule 1. O. Reg. 382/20, s. 3.</p> <p class=\"schedule-e\">Schedule 1 <br/>  ELECTRICITY PRICE FOR RPP CONSUMERS</p>"
+        },
+        {
+            "id": "1.",
+            "section": "Terms of Order",
+            "content": " 1. The commodity price for electricity payable by an RPP consumer, as defined in the Ontario Energy Board’s Standard Supply Service Code (“SSS Code”), that is paying electricity prices set in accordance with section 3.4 of the SSS Code shall be fixed at the applicable rate set out in section 2 for each of the following price periods referred to in section 3.4 of the SSS Code: 1.  The price period referred to in that section as RPEMOFF. 2.  The price period referred to in that section as RPEMMID. 3.  The price period referred to in that section as RPEMON.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The commodity price for electricity payable by an RPP consumer, as defined in the Ontario Energy Board’s Standard Supply Service Code (“SSS Code”), that is paying electricity prices set in accordance with section 3.4 of the SSS Code shall be fixed at the applicable rate set out in section 2 for each of the following price periods referred to in section 3.4 of the SSS Code:</p> <p class=\"paragraph-e\">  1.  The price period referred to in that section as RPEM<sub>OFF</sub>.</p> <p class=\"paragraph-e\">  2.  The price period referred to in that section as RPEM<sub>MID</sub>.</p> <p class=\"paragraph-e\">  3.  The price period referred to in that section as RPEM<sub>ON</sub>.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Terms of Order",
+            "content": " 2. The following are the applicable rates for the purposes of section 1: 1.  10.1 cents/kWh for the period beginning at the first instant of March 24, 2020 and ending at the last instant of May 31, 2020 or, if this Order is revoked on or before May 31, 2020, at the last instant of the day immediately preceding the day on which it is revoked. 2.  If this Order is not revoked on or before June 1, 2020, for the period beginning at the first instant of June 1, 2020 and ending at the last instant of the day immediately preceding the day on which this Order is revoked or ceases to apply, 12.8 cents/kWh, that rate being equivalent to the forecast average RPP supply cost for RPP consumers set out in the document entitled “Regulated Price Plan: Price Report” issued by the Ontario Energy Board on October 22, 2019. O. Reg. 80/20, Sched. 1; O. Reg. 243/20, s. 1, 2; O. Reg. 382/20, s. 4.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>The following are the applicable rates for the purposes of section 1:</p> <p class=\"paragraph-e\">  1.  10.1 cents/kWh for the period beginning at the first instant of March 24, 2020 and ending at the last instant of May 31, 2020 or, if this Order is revoked on or before May 31, 2020, at the last instant of the day immediately preceding the day on which it is revoked.</p> <p class=\"paragraph-e\">  2.  If this Order is not revoked on or before June 1, 2020, for the period beginning at the first instant of June 1, 2020 and ending at the last instant of the day immediately preceding the day on which this Order is revoked or ceases to apply, 12.8 cents/kWh, that rate being equivalent to the forecast average RPP supply cost for RPP consumers set out in the document entitled “Regulated Price Plan: Price Report” issued by the Ontario Energy Board on October 22, 2019.</p> <p class=\"footnote-e\">O. Reg. 80/20, Sched. 1; O. Reg. 243/20, s. 1, 2; O. Reg. 382/20, s. 4.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/200080\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

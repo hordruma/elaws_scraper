@@ -1,0 +1,40 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 266/21: RESIDENTIAL EVICTIONS",
+        "reg_name_text": "RESIDENTIAL EVICTIONS",
+        "citation": "O. Reg. 266/21: ",
+        "act_under": "Emergency Management and Civil Protection Act",
+        "url": "https://www.ontario.ca/laws/regulation/210266",
+        "date_scraped": "2023-12-18 18:02:28"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/210266/v1",
+            "valid_from": "April  7, 2021",
+            "valid_to": "June  1, 2021"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Terms of Order",
+            "content": " 1. The terms of this Order are set out in Schedule 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The terms of this Order are set out in Schedule 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Application",
+            "content": " 2. This Order applies as of 12:01 a.m. on April 8, 2021. SCHEDULE 1   EVICTIONS",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>This Order applies as of 12:01 a.m. on April 8, 2021.</p> <p class=\"schedule-e\">SCHEDULE 1 <br/>  EVICTIONS</p>"
+        },
+        {
+            "id": "1.",
+            "section": "No enforcement of evictions or writs of possession",
+            "content": " 1. (1) No person shall attend at a residential premises for the purpose of enforcing any of the following: 1.  An order evicting a tenant under the Residential Tenancies Act, 2006. 2.  A writ of possession issued by the Superior Court of Justice removing a person from their place of residence. (2) Subsection (1) does not apply if, (a)  in respect of an order described in paragraph 1 of subsection (1), the Landlord and Tenant Board requests that the sheriff expedite the enforcement of the order; or (b)  in respect of a writ of possession described in paragraph 2 of subsection (1), a judge of the Superior Court of Justice orders that the sheriff expedite the enforcement of the writ.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) No person shall attend at a residential premises for the purpose of enforcing any of the following:</p> <p class=\"paragraph-e\">  1.  An order evicting a tenant under the <i>Residential Tenancies Act, 2006</i>.</p> <p class=\"paragraph-e\">  2.  A writ of possession issued by the Superior Court of Justice removing a person from their place of residence.</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply if,</p> <p class=\"clause-e\">  (a)  in respect of an order described in paragraph 1 of subsection (1), the Landlord and Tenant Board requests that the sheriff expedite the enforcement of the order; or</p> <p class=\"clause-e\">  (b)  in respect of a writ of possession described in paragraph 2 of subsection (1), a judge of the Superior Court of Justice orders that the sheriff expedite the enforcement of the writ.</p> <p class=\"clause-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/210266\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

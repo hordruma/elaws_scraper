@@ -1,0 +1,63 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 748/20: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "O. Reg. 748/20: ",
+        "act_under": "Supporting Local Restaurants Act, 2020",
+        "url": "https://www.ontario.ca/laws/regulation/200748",
+        "date_scraped": "2023-12-18 19:24:05"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "December 19, 2020",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/200748/v1",
+            "valid_from": "December 14, 2020",
+            "valid_to": "December 18, 2020"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definitions",
+            "content": " 1. For the purposes of the Act and this Regulation, “compensation” means anything paid or provided, directly or indirectly, to or for the benefit of an employee or contractor, and includes salary, benefits, perquisites and all forms of non-discretionary and discretionary payments; (“rémunération”) “related services” includes online ordering services that are used by customers to order food or beverages, whether for pickup or delivery, and the provision of online marketplace platforms. (“services connexes”)",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>For the purposes of the Act and this Regulation,</p> <p class=\"definition-e\">“compensation” means anything paid or provided, directly or indirectly, to or for the benefit of an employee or contractor, and includes salary, benefits, perquisites and all forms of non-discretionary and discretionary payments; (“rémunération”)</p> <p class=\"definition-e\">“related services” includes online ordering services that are used by customers to order food or beverages, whether for pickup or delivery, and the provision of online marketplace platforms. (“services connexes”)</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Food delivery services provider",
+            "content": " 2. (1) A “food delivery services provider” is a person that provides food and beverage delivery services or related services to a restaurant. (2) A food delivery services provider provides food and beverage delivery services or related services to a restaurant if it arranges for or facilitates the provision of such services.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) A “food delivery services provider” is a person that provides food and beverage delivery services or related services to a restaurant.</p> <p class=\"subsection-e\">  (2) A food delivery services provider provides food and beverage delivery services or related services to a restaurant if it arranges for or facilitates the provision of such services.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Exemption",
+            "content": " 3. (1) A food delivery services provider is exempt from the Act if it provides food and beverage delivery services or related services to fewer than 500 restaurants. (2) Chain restaurants shall be counted for the purposes of determining the number of restaurants to which a food delivery services provider provides services.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1)<b> </b>A food delivery services provider is exempt from the Act if it provides food and beverage delivery services or related services to fewer than 500 restaurants.</p> <p class=\"subsection-e\">  (2) Chain restaurants shall be counted for the purposes of determining the number of restaurants to which a food delivery services provider provides services.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Maximum fee",
+            "content": "  4. (1) The maximum amount that a food delivery services provider may charge a restaurant for each customer order is, (a) 20% of the total cost of the customer order, before HST, for all food and beverage delivery services and related services it provides to the restaurant; (b) 15% of the total cost of the customer order, before HST, for food and beverage delivery services it provides to the restaurant for customer orders that are delivered to the customer; and (c) 10% of the total cost of the customer order, before HST, for related services it provides to the restaurant for orders that the customer picks up from the restaurant or for orders for which the restaurant arranges delivery other than through the food delivery services provider. (2) Nothing in this section limits the amount that a food delivery services provider may charge a restaurant for services other than food and beverage delivery services and related services that are in respect of a customer order.",
+            "raw_html": "<p class=\"section-e\"><b>  4. </b>(1) The maximum amount that a food delivery services provider may charge a restaurant for each customer order is,</p> <p class=\"clause-e\">  (a) 20% of the total cost of the customer order, before HST, for all food and beverage delivery services and related services it provides to the restaurant;</p> <p class=\"clause-e\">  (b) 15% of the total cost of the customer order, before HST, for food and beverage delivery services it provides to the restaurant for customer orders that are delivered to the customer; and</p> <p class=\"clause-e\">  (c) 10% of the total cost of the customer order, before HST, for related services it provides to the restaurant for orders that the customer picks up from the restaurant or for orders for which the restaurant arranges delivery other than through the food delivery services provider.</p> <p class=\"subsection-e\">  (2) Nothing in this section limits the amount that a food delivery services provider may charge a restaurant for services other than food and beverage delivery services and related services that are in respect of a customer order.</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Maximum fee",
+            "content": " 5. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>5.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Maximum fee",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/200748\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

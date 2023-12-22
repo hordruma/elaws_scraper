@@ -1,0 +1,57 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 670/00: CONSERVATION AUTHORITY LEVIES",
+        "reg_name_text": "Conservation authority levies",
+        "citation": "O. Reg. 670/00: CONSERVATION AUTHORITY LEVIES",
+        "act_under": "Conservation Authorities Act   Loi sur les offices de protection de la nature",
+        "url": "https://www.ontario.ca/laws/regulation/000670",
+        "date_scraped": "2023-12-18 04:00:40"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/000670/v2",
+            "valid_from": "April 20, 2022",
+            "valid_to": "June 30, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/000670/v1",
+            "valid_from": "December 19, 2000",
+            "valid_to": "April 19, 2022"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": "  1. In this Regulation, “current value assessment” means the current value assessment of land, determined under the provisions of the Assessment Act, for a given year; “property class” means a class of real property prescribed under the Assessment Act.  O. Reg. 670/00, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>  1.</b> In this Regulation,</p> <p class=\"firstdef-e\">“current value assessment” means the current value assessment of land, determined under the provisions of the <i>Assessment Act</i>, for a given year;</p> <p class=\"definition-e\">“property class” means a class of real property prescribed under the <i>Assessment Act</i>.  O. Reg. 670/00, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": " 2. (1) In determining the levy payable by a participating municipality to an authority for maintenance costs pursuant to subsection 27 (2) of the Act, the authority shall apportion such costs to the participating municipalities on the basis of the benefit derived or to be derived by each participating municipality determined, (a) by agreement among the authority and the participating municipalities; or (b) by calculating the ratio that each participating municipality’s modified assessment bears to the total authority’s modified assessment.  O. Reg. 670/00, s. 2 (1). (2) In determining the levy payable by a participating municipality to an authority for administration costs pursuant to subsection 27 (3) of the Act, the authority shall apportion such costs to the participating municipalities on the basis of the ratio that each participating municipality’s modified assessment bears to the total authority’s modified assessment.  O. Reg. 670/00, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> (1) In determining the levy payable by a participating municipality to an authority for maintenance costs pursuant to subsection 27 (2) of the Act, the authority shall apportion such costs to the participating municipalities on the basis of the benefit derived or to be derived by each participating municipality determined,</p> <p class=\"clause-e\">  (a) by agreement among the authority and the participating municipalities; or</p> <p class=\"clause-e\">  (b) by calculating the ratio that each participating municipality’s modified assessment bears to the total authority’s modified assessment.  O. Reg. 670/00, s. 2 (1).</p> <p class=\"subsection-e\">  (2) In determining the levy payable by a participating municipality to an authority for administration costs pursuant to subsection 27 (3) of the Act, the authority shall apportion such costs to the participating municipalities on the basis of the ratio that each participating municipality’s modified assessment bears to the total authority’s modified assessment.  O. Reg. 670/00, s. 2 (2).</p>"
+        },
+        {
+            "id": "3.",
+            "section": null,
+            "content": " 3. The following rules apply for the purposes of section 2: 1. The modified current value assessment is calculated by adding the current value assessments of all lands within a municipality all or part of which are within an authority’s jurisdiction and by applying the following factors to the current value assessment of the land in the following property classes:  Property Class   Factor \n\n        \n\n  Residential/Farm   1 \n\n  Multi-Residential   2.1 \n\n  Commercial   2.1 \n\n  Industrial   2.1 \n\n  Farmlands   0.25 \n\n  Pipe Lines   1.7 \n\n  Managed Forests   0.25 \n\n  New Multi-Residential    2.1 \n\n  Office Building    2.1 \n\n  Shopping Centre   2.1 \n\n  Parking Lots and Vacant Land   2.1 \n\n  Large Industrial   2.1 2.  A participating municipality’s modified assessment is the assessment calculated by dividing the area of the participating municipality within the authority’s jurisdiction by its total area and multiplying that ratio by the modified current value assessment for that participating municipality. 3. The total authority’s modified assessment is calculated by adding the sum of all of the participating municipalities’ modified assessments for that authority.  O. Reg. 670/00, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3.</b> The following rules apply for the purposes of section 2:</p> <p class=\"paragraph-e\">  1. The modified current value assessment is calculated by adding the current value assessments of all lands within a municipality all or part of which are within an authority’s jurisdiction and by applying the following factors to the current value assessment of the land in the following property classes:</p> <p class=\"MsoNormal\"> </p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"312\">\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Property Class</p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">Factor</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\"> </p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Residential/Farm</p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Multi-Residential</p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">2.1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Commercial</p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">2.1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Industrial</p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">2.1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Farmlands</p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">0.25</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Pipe Lines</p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">1.7</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Managed Forests</p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">0.25</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">New Multi-Residential </p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">2.1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Office Building </p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">2.1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Shopping Centre</p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">2.1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Parking Lots and Vacant Land</p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">2.1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Large Industrial</p> </td> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">2.1</p> </td>\n</tr>\n</table> <p class=\"paragraph-e\"><span>  2.</span>  A participating municipality’s modified assessment is the assessment calculated by dividing the area of the participating municipality within the authority’s jurisdiction by its total area and multiplying that ratio by the modified current value assessment for that participating municipality.</p> <p class=\"paragraph-e\">  3. The total authority’s modified assessment is calculated by adding the sum of all of the participating municipalities’ modified assessments for that authority.  O. Reg. 670/00, s. 3.</p>"
+        },
+        {
+            "id": "4.",
+            "section": null,
+            "content": " 4. An authority may establish a minimum sum that may be levied against a participating municipality within the authority’s jurisdiction.  O. Reg. 670/00, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>4.</b> An authority may establish a minimum sum that may be levied against a participating municipality within the authority’s jurisdiction.  O. Reg. 670/00, s. 4.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "    ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

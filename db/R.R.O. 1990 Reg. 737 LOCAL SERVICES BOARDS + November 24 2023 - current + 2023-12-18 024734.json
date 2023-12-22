@@ -1,0 +1,1456 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 737: LOCAL SERVICES BOARDS",
+        "reg_name_text": "LOCAL SERVICES BOARDS",
+        "citation": "R.R.O. 1990, Reg. 737: ",
+        "act_under": "Northern Services Boards Act",
+        "url": "https://www.ontario.ca/laws/regulation/900737",
+        "date_scraped": "2023-12-18 02:47:36"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November 24, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v35",
+            "valid_from": "July 31, 2019",
+            "valid_to": "November 23, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v34",
+            "valid_from": "March 27, 2018",
+            "valid_to": "July 30, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v33",
+            "valid_from": "April 13, 2017",
+            "valid_to": "March 26, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v32",
+            "valid_from": "November  7, 2016",
+            "valid_to": "April 12, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v31",
+            "valid_from": "October  3, 2016",
+            "valid_to": "November  6, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v30",
+            "valid_from": "June  2, 2016",
+            "valid_to": "October  2, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v29",
+            "valid_from": "April 21, 2016",
+            "valid_to": "June  1, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v28",
+            "valid_from": "October 23, 2015",
+            "valid_to": "April 20, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v27",
+            "valid_from": "September 29, 2015",
+            "valid_to": "October 22, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v26",
+            "valid_from": "May  7, 2015",
+            "valid_to": "September 28, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v25",
+            "valid_from": "November 18, 2014",
+            "valid_to": "May  6, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v24",
+            "valid_from": "October 11, 2013",
+            "valid_to": "November 17, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v23",
+            "valid_from": "September 28, 2012",
+            "valid_to": "October 10, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v22",
+            "valid_from": "January 19, 2012",
+            "valid_to": "September 27, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v21",
+            "valid_from": "January 14, 2011",
+            "valid_to": "January 18, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v20",
+            "valid_from": "November 30, 2010",
+            "valid_to": "January 13, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v19",
+            "valid_from": "July  8, 2010",
+            "valid_to": "November 29, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v18",
+            "valid_from": "August 13, 2009",
+            "valid_to": "July  7, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v17",
+            "valid_from": "May  7, 2009",
+            "valid_to": "August 12, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v16",
+            "valid_from": "April  2, 2009",
+            "valid_to": "May  6, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v15",
+            "valid_from": "January 13, 2009",
+            "valid_to": "April  1, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v14",
+            "valid_from": "December 12, 2008",
+            "valid_to": "January 12, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v13",
+            "valid_from": "December  5, 2008",
+            "valid_to": "December 11, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v12",
+            "valid_from": "June 25, 2008",
+            "valid_to": "December  4, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v11",
+            "valid_from": "April 23, 2008",
+            "valid_to": "June 24, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v10",
+            "valid_from": "November 23, 2007",
+            "valid_to": "April 22, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v9",
+            "valid_from": "March 22, 2007",
+            "valid_to": "November 22, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v8",
+            "valid_from": "January 12, 2007",
+            "valid_to": "March 21, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v7",
+            "valid_from": "October 10, 2006",
+            "valid_to": "January 11, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v6",
+            "valid_from": "October  2, 2006",
+            "valid_to": "October  9, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v5",
+            "valid_from": "August 24, 2006",
+            "valid_to": "October  1, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v4",
+            "valid_from": "June 13, 2006",
+            "valid_to": "August 23, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v3",
+            "valid_from": "December 16, 2005",
+            "valid_to": "June 12, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v2",
+            "valid_from": "September 12, 2005",
+            "valid_to": "December 15, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900737/v1",
+            "valid_from": "May 14, 2003",
+            "valid_to": "September 11, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "1Sections",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Armstrong",
+            "Section2": "2",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Aweres",
+            "Section2": "3-4",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Batchawana Bay",
+            "Section2": "4.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Britt-Byng Inlet",
+            "Section2": "5-7., 8",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Cartier",
+            "Section2": "9",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Dawson",
+            "Section2": "9.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "East Gorham",
+            "Section2": "10.0.1-11",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Foleyet",
+            "Section2": "12",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Gogama",
+            "Section2": "13",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Goulais River",
+            "Section2": "14",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Greater Oxdrift",
+            "Section2": "14.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Hallebourg",
+            "Section2": "15",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Hawk Junction",
+            "Section2": "16-18",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Hurkett",
+            "Section2": "19",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Jogues",
+            "Section2": "20",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Kaministiquia",
+            "Section2": "21",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "KeeMan",
+            "Section2": "21.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Kenogami",
+            "Section2": "22",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "King-Lebel",
+            "Section2": "23",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Lac-Ste-Thérèse",
+            "Section2": "24",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Lappe",
+            "Section2": "25",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Laurier",
+            "Section2": "26-27",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Loring — Port Loring and District",
+            "Section2": "27.1-29",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Maisonville",
+            "Section2": "30-32",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Melgund",
+            "Section2": "33-34",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Minaki",
+            "Section2": "35-37",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Moose Factory",
+            "Section2": "38",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Nolalu",
+            "Section2": "39-40",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Peace Tree",
+            "Section2": "41",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Pellatt, Pelican, Umbach, Gidley",
+            "Section2": "42",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Rainbow",
+            "Section2": "42.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Redbridge",
+            "Section2": "43",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Redditt",
+            "Section2": "44",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Restoule",
+            "Section2": "45",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Robinson",
+            "Section2": "46",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Rossport",
+            "Section2": "47",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Round Lake",
+            "Section2": "47.1-48",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Savard",
+            "Section2": "49",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Searchmont",
+            "Section2": "50-51",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Shebandowan",
+            "Section2": "52-53",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Thorne",
+            "Section2": "54",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Tilden Lake",
+            "Section2": "55",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Upsala",
+            "Section2": "55.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Wabigoon",
+            "Section2": "56",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Wharncliffe and Kynoch",
+            "Section2": "57-58",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. Revoked:  O. Reg. 303/06, s. 1. Armstrong",
+            "raw_html": "<p class=\"section-e\"> <b>1.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 303/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK0\"></a>Armstrong</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. (1) The Local Services Board known as “The Local Services Board of Armstrong” is continued.  R.R.O. 1990, Reg. 737, s. 2 (1). (2) The boundaries of the Board area are that portion of the Territorial District of Thunder Bay beginning at a point in the centre line of the Canadian National Railways at a distance of 1 mile northwesterly from the middle of the main channel of the Whitesand River; thence due north 6 miles; due west 12 miles; due south 12 miles; due east 12 miles; and due north 6 miles to the place of beginning.  R.R.O. 1990, Reg. 737, s. 2 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 2 (3). (4) The Board may exercise the powers set out in paragraphs 1, 2, 3, 5 and 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 2 (4). Aweres",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) The Local Services Board known as “The Local Services Board of Armstrong” is continued.  R.R.O. 1990, Reg. 737, s. 2 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are that portion of the Territorial District of Thunder Bay beginning at a point in the centre line of the Canadian National Railways at a distance of 1 mile northwesterly from the middle of the main channel of the Whitesand River; thence due north 6 miles; due west 12 miles; due south 12 miles; due east 12 miles; and due north 6 miles to the place of beginning.  R.R.O. 1990, Reg. 737, s. 2 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 2 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1, 2, 3, 5 and 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 2 (4).</p> <p class=\"heading1-e\"><a name=\"BK1\"></a>Aweres</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) The Local Services Board known as “The Local Services Board of Aweres” is continued.  R.R.O. 1990, Reg. 737, s. 3 (1). (2) The boundaries of the Board area are all land in the Township of Aweres in the Territorial District of Algoma except Lots 1 to 20, inclusive, blocks A to G, inclusive, and Peace Tree Drive, all as shown on Registered Plan M-369.  R.R.O. 1990, Reg. 737, s. 3 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 3 (3). (4) The Board may exercise the powers set out in paragraphs 2, 3, 8 and 9 of the Schedule to the Act. O. Reg. 301/15, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) The Local Services Board known as “The Local Services Board of Aweres” is continued.  R.R.O. 1990, Reg. 737, s. 3 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are all land in the Township of Aweres in the Territorial District of Algoma except Lots 1 to 20, inclusive, blocks A to G, inclusive, and Peace Tree Drive, all as shown on Registered Plan M-369.  R.R.O. 1990, Reg. 737, s. 3 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 3 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 3, 8 and 9 of the Schedule to the Act. O. Reg. 301/15, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. Revoked:  O. Reg. 661/05, s. 1. Batchawana Bay",
+            "raw_html": "<p class=\"section-e\"> <b>4.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 661/05, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Batchawana Bay</p>"
+        },
+        {
+            "ahref_id": "#4.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4.1 (1) A Local Services Board is established under the name “The Local Services Board of Batchawana Bay” effective the 24th day of April, 1989.  O. Reg. 325/92, s. 1. (2) The boundaries of the Board area are those described in the Schedule to this section.  O. Reg. 325/92, s. 1. (3) The Board shall be composed of five members.  O. Reg. 325/92, s. 1. (4) The Board may exercise the powers set out in paragraph 2 of the Schedule to the Act.  O. Reg. 325/92, s. 1. Schedule All those parcels of tracts of land in the Territorial District of Algoma being more particularly described as follows: FIRSTLY:  Sections D, E, F, G and H, in the Township of Ryan, the Township of Herrick and that part of the Townships of Tilley and Fisher lying north of the water’s edge along the northerly shore of Lake Superior, in the said territorial district. SECONDLY:  That part of the A. McDonell Location and part of the Montreal Mining Co. Locations, in the said territorial district, being more particularly described as follows: Beginning at a point in the westerly boundary of the Township of Ryan, distant 300 metres in perpendicular distance northerly from the centre line of the King’s Highway No. 17, as travelled; Thence in a general westerly and northerly direction along a line every point of which is distant 300 metres from the nearest point in the said centre line to its intersection with the water’s edge along the southerly shore of Mamainse Creek; Thence in a general westerly, southerly and easterly direction along the water’s edge of said Creek and Lake Superior to the intersection with the southerly production of the westerly boundary of the Township of Ryan; Thence northerly along the said production and the said boundary to the place of beginning. O. Reg. 325/92, s. 1. Britt-Byng Inlet",
+            "raw_html": "<p class=\"section-e\"> <b>4.1 </b>(1) A Local Services Board is established under the name “The Local Services Board of Batchawana Bay” effective the 24th day of April, 1989.  O. Reg. 325/92, s. 1.</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to this section.  O. Reg. 325/92, s. 1.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  O. Reg. 325/92, s. 1.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraph 2 of the Schedule to the Act.  O. Reg. 325/92, s. 1.</p> <p class=\"headingx-e\">Schedule</p> <p class=\"parawtab-e\">  All those parcels of tracts of land in the Territorial District of Algoma being more particularly described as follows:</p> <p class=\"paranoindt-e\"> <span class=\"ovallcaps\">FIRSTLY</span>:  Sections D, E, F, G and H, in the Township of Ryan, the Township of Herrick and that part of the Townships of Tilley and Fisher lying north of the water’s edge along the northerly shore of Lake Superior, in the said territorial district.</p> <p class=\"paranoindt-e\"> <span class=\"ovallcaps\">SECONDLY</span>:  That part of the A. McDonell Location and part of the Montreal Mining Co. Locations, in the said territorial district, being more particularly described as follows:</p> <p class=\"parawindt-e\">Beginning at a point in the westerly boundary of the Township of Ryan, distant 300 metres in perpendicular distance northerly from the centre line of the King’s Highway No. 17, as travelled;</p> <p class=\"parawindt-e\">Thence in a general westerly and northerly direction along a line every point of which is distant 300 metres from the nearest point in the said centre line to its intersection with the water’s edge along the southerly shore of Mamainse Creek;</p> <p class=\"parawindt-e\">Thence in a general westerly, southerly and easterly direction along the water’s edge of said Creek and Lake Superior to the intersection with the southerly production of the westerly boundary of the Township of Ryan;</p> <p class=\"parawindt-e\">Thence northerly along the said production and the said boundary to the place of beginning.</p> <p class=\"footnote-e\">O. Reg. 325/92, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Britt-Byng Inlet</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) A Local Services Board is established under the name “The Local Services Board of Britt-Byng Inlet”.  O. Reg. 489/98, s. 2. (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 489/98, s. 2. (3) The Board shall be composed of five members.  O. Reg. 489/98, s. 2. (4) The Board may exercise the powers set out in paragraphs 2, 3, 4, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 1. (5) The election of the first members of the Board shall be held in the Board area on or after August 1, 1998 and before September 30, 1998 and the members so elected shall hold office from October 1, 1998 to September 30, 1999 and until a new Board is elected.  O. Reg. 489/98, s. 2. (6) Esther Taylor, Northern Development Officer, is appointed to conduct the election of the first members of the Board and, for that purpose, has the general supervision of the election and the power to direct the manner of the election and to implement or to carry out any thing that may be required for the effective undertaking of the election.  O. Reg. 489/98, s. 2. (7) The assets and liabilities of the former Local Services Board of Britt and Area and the former Local Services Board of Byng Inlet are transferred to The Local Services Board of Britt-Byng Inlet.  O. Reg. 489/98, s. 2. Schedule All those parcels or tracts of land in the geographic Townships of Henvey, Mowat and Wallbridge and lands to the west of the geographic Township of Mowat in the Territorial District of Parry Sound, in the Province of Ontario, described as follows: FIRSTLY: Beginning at a point along the water’s edge of the northerly bank of the Key River, said point being on the southwesterly production of the southeasterly limit of Crown Location CL 4850 designated as Part 1, on Reference Plan 42R-9593, deposited in the Land Registry Office at Parry Sound and shown as having a bearing of N 36° 14' E; Thence northeasterly along the said southwesterly production and along the southeasterly limit of Crown Location CL 4850 to the most easterly angle of said Part 1; Thence northwesterly and westerly along the northerly limit of said Crown Location CL 4850 crossing the westerly boundary of the geographic Township of Mowat to the northwest angle of Crown Location CL 4850 being the northwest angle of Part 2, Plan 42R-9593 and a point on the easterly limit of Crown Location CT 11; Thence northerly along the easterly limit of Crown Location CT 11 to the northeasterly angle thereof; Thence southwesterly along the northerly limit of Crown Location CT 11 and the southwesterly production thereof, to the westerly limit of Highway No. 69; Thence northerly and along the said westerly limit of Highway No. 69 to a point being on the westerly production of the southerly limit of Grundy Lake Provincial Park; Thence in a general easterly direction along the said westerly production and the southerly limit of Grundy Lake Provincial Park to a point distant 0.804 kilometre measured easterly from, and perpendicular to, the centre line of Highway No. 69; Thence southerly and parallel with that centre line, 0.804 kilometre in perpendicular distance therefrom, to the water’s edge along the northerly bank of the Key River; Thence in a general westerly direction along that water’s edge to the point of beginning. SECONDLY: Beginning at the southeasterly corner of the geographic Township of Henvey; Thence northerly along the easterly boundary of that geographic Township to the water’s edge along the southerly shore of Straight Lake; Thence westerly along the water’s edge to the easterly limit of Henvey Inlet Indian Reserve No. 2; Thence in a southeasterly and southwesterly direction along the easterly and southerly limits of that Reserve to a point distant 0.804 kilometre measured westerly from, and perpendicular to, the westerly limit of the King’s Highway No. 69; Thence southerly parallel with that King’s Highway and 0.804 kilometre in perpendicular distance therefrom, to the intersection with a line drawn parallel to and distant 1.609 kilometres perpendicularly from the northwesterly limit of the King’s Highway No. 526; Thence southwesterly and parallel to the northwesterly limit of the King’s Highway No. 526 and at a perpendicular distance of 1.609 kilometres therefrom and continuing to the most southeasterly extremity of Doctor Oil Island; Then south astronomic in a straight line to the centre of the North Channel; Thence easterly along the centre of the North Channel, Byng Inlet and the Magnetawan River to the intersection with the southerly production of the easterly boundary of the geographic Township of Henvey; Thence northerly along that southerly production to the place of beginning. THIRDLY All that parcel or tract of land in the Township of Wallbridge, in the Territorial District of Parry Sound being composed of part of the Clarke, White and Co.’s Milling Location, Mill Location B and part of that Township, more particularly described as follows: Beginning at the intersection of the west limit of the Magnetawan Indian Reserve No. 1 with the southerly limit of the King’s Highway No. 645; Thence west astronomic 1,000 metres to the point of commencement; Thence west astronomic 3,920 metres more or less, to the southerly production of the west limit of the Clarke, White and Co.’s Milling Location; Thence northerly along that southerly production and west limit 1,360 metres more or less, to the water’s edge of Byng Inlet; Thence easterly along that water’s edge to its intersection with a line drawn north astronomic from the point of commencement; Thence south along that north astronomic line 1,900 metres more or less, to the point of commencement. O. Reg. 400/06, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) A Local Services Board is established under the name “The Local Services Board of Britt-Byng Inlet”.  O. Reg. 489/98, s. 2.</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 489/98, s. 2.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  O. Reg. 489/98, s. 2.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 3, 4, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 1.</p> <p class=\"subsection-e\">  (5) The election of the first members of the Board shall be held in the Board area on or after August 1, 1998 and before September 30, 1998 and the members so elected shall hold office from October 1, 1998 to September 30, 1999 and until a new Board is elected.  O. Reg. 489/98, s. 2.</p> <p class=\"subsection-e\">  (6) Esther Taylor, Northern Development Officer, is appointed to conduct the election of the first members of the Board and, for that purpose, has the general supervision of the election and the power to direct the manner of the election and to implement or to carry out any thing that may be required for the effective undertaking of the election.  O. Reg. 489/98, s. 2.</p> <p class=\"subsection-e\">  (7) The assets and liabilities of the former Local Services Board of Britt and Area and the former Local Services Board of Byng Inlet are transferred to The Local Services Board of Britt-Byng Inlet.  O. Reg. 489/98, s. 2.</p> <p class=\"headingx-e\">Schedule</p> <p class=\"parawtab-e\">  All those parcels or tracts of land in the geographic Townships of Henvey, Mowat and Wallbridge and lands to the west of the geographic Township of Mowat in the Territorial District of Parry Sound, in the Province of Ontario, described as follows:</p> <p class=\"paranoindt-e\">FIRSTLY:</p> <p class=\"parawindt-e\">Beginning at a point along the water’s edge of the northerly bank of the Key River, said point being on the southwesterly production of the southeasterly limit of Crown Location CL 4850 designated as Part 1, on Reference Plan 42R-9593, deposited in the Land Registry Office at Parry Sound and shown as having a bearing of N 36° 14' E;</p> <p class=\"parawindt-e\">Thence northeasterly along the said southwesterly production and along the southeasterly limit of Crown Location CL 4850 to the most easterly angle of said Part 1;</p> <p class=\"parawindt-e\">Thence northwesterly and westerly along the northerly limit of said Crown Location CL 4850 crossing the westerly boundary of the geographic Township of Mowat to the northwest angle of Crown Location CL 4850 being the northwest angle of Part 2, Plan 42R-9593 and a point on the easterly limit of Crown Location CT 11;</p> <p class=\"parawindt-e\">Thence northerly along the easterly limit of Crown Location CT 11 to the northeasterly angle thereof;</p> <p class=\"parawindt-e\">Thence southwesterly along the northerly limit of Crown Location CT 11 and the southwesterly production thereof, to the westerly limit of Highway No. 69;</p> <p class=\"parawindt-e\">Thence northerly and along the said westerly limit of Highway No. 69 to a point being on the westerly production of the southerly limit of Grundy Lake Provincial Park;</p> <p class=\"parawindt-e\">Thence in a general easterly direction along the said westerly production and the southerly limit of Grundy Lake Provincial Park to a point distant 0.804 kilometre measured easterly from, and perpendicular to, the centre line of Highway No. 69;</p> <p class=\"parawindt-e\">Thence southerly and parallel with that centre line, 0.804 kilometre in perpendicular distance therefrom, to the water’s edge along the northerly bank of the Key River;</p> <p class=\"parawindt-e\">Thence in a general westerly direction along that water’s edge to the point of beginning.</p> <p class=\"paranoindt-e\">SECONDLY:</p> <p class=\"parawindt-e\">Beginning at the southeasterly corner of the geographic Township of Henvey;</p> <p class=\"parawindt-e\">Thence northerly along the easterly boundary of that geographic Township to the water’s edge along the southerly shore of Straight Lake;</p> <p class=\"parawindt-e\">Thence westerly along the water’s edge to the easterly limit of Henvey Inlet Indian Reserve No. 2;</p> <p class=\"parawindt-e\">Thence in a southeasterly and southwesterly direction along the easterly and southerly limits of that Reserve to a point distant 0.804 kilometre measured westerly from, and perpendicular to, the westerly limit of the King’s Highway No. 69;</p> <p class=\"parawindt-e\">Thence southerly parallel with that King’s Highway and 0.804 kilometre in perpendicular distance therefrom, to the intersection with a line drawn parallel to and distant 1.609 kilometres perpendicularly from the northwesterly limit of the King’s Highway No. 526;</p> <p class=\"parawindt-e\">Thence southwesterly and parallel to the northwesterly limit of the King’s Highway No. 526 and at a perpendicular distance of 1.609 kilometres therefrom and continuing to the most southeasterly extremity of Doctor Oil Island;</p> <p class=\"parawindt-e\">Then south astronomic in a straight line to the centre of the North Channel;</p> <p class=\"parawindt-e\">Thence easterly along the centre of the North Channel, Byng Inlet and the Magnetawan River to the intersection with the southerly production of the easterly boundary of the geographic Township of Henvey;</p> <p class=\"parawindt-e\">Thence northerly along that southerly production to the place of beginning.</p> <p class=\"paranoindt-e\">THIRDLY</p> <p class=\"parawtab-e\">  All that parcel or tract of land in the Township of Wallbridge, in the Territorial District of Parry Sound being composed of part of the Clarke, White and Co.’s Milling Location, Mill Location B and part of that Township, more particularly described as follows:</p> <p class=\"parawindt-e\">Beginning at the intersection of the west limit of the Magnetawan Indian Reserve No. 1 with the southerly limit of the King’s Highway No. 645;</p> <p class=\"parawindt-e\">Thence west astronomic 1,000 metres to the point of commencement;</p> <p class=\"parawindt-e\">Thence west astronomic 3,920 metres more or less, to the southerly production of the west limit of the Clarke, White and Co.’s Milling Location;</p> <p class=\"parawindt-e\">Thence northerly along that southerly production and west limit 1,360 metres more or less, to the water’s edge of Byng Inlet;</p> <p class=\"parawindt-e\">Thence easterly along that water’s edge to its intersection with a line drawn north astronomic from the point of commencement;</p> <p class=\"parawindt-e\">Thence south along that north astronomic line 1,900 metres more or less, to the point of commencement.</p> <p class=\"footnote-e\">O. Reg. 400/06, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. Revoked:  O. Reg. 489/98, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 489/98, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#7., 8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7., 8. Revoked:  O. Reg. 303/06, s. 1. Cartier",
+            "raw_html": "<p class=\"section-e\"> <b>7., 8.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 303/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Cartier</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) The Local Services Board known as “The Local Services Board of Cartier” is continued.  R.R.O. 1990, Reg. 737, s. 9 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 326/82.  R.R.O. 1990, Reg. 737, s. 9 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 9 (3). (4) The Board may exercise the powers set out in paragraphs 2, 5, 6 and 8 of the Schedule to the Act.  O. Reg. 478/06, s. 1. Dawson",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) The Local Services Board known as “The Local Services Board of Cartier” is continued.  R.R.O. 1990, Reg. 737, s. 9 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 326/82.  R.R.O. 1990, Reg. 737, s. 9 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 9 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 5, 6 and 8 of the Schedule to the Act.  O. Reg. 478/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Dawson</p>"
+        },
+        {
+            "ahref_id": "#9.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9.1 (1) A Local Services Board is established under the name “The Local Services Board of Dawson Township”.  O. Reg. 510/00, s. 1. (2) The boundaries of the Board area are all land in the Territorial District of Manitoulin composed of the geographic Township of Dawson  O. Reg. 510/00, s. 1. (3) The Board shall be composed of five members.  O. Reg. 510/00, s. 1. (4) The Board may exercise the powers set out in paragraphs 2, 3, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 2. (5) The election of the first members of the Board shall be held no later than February 1, 2001 and the first members shall hold office until no later than September 30, 2002 and a new Board is elected.  O. Reg. 510/00, s. 1. (6) The Northern Development Officer for Manitoulin/Espanola is appointed to conduct and supervise the election of the first members and he or she may do any thing that is reasonably required for that purpose.  O. Reg. 510/00, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>9.1 </b>(1) A Local Services Board is established under the name “The Local Services Board of Dawson Township”.  O. Reg. 510/00, s. 1.</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are all land in the Territorial District of Manitoulin composed of the geographic Township of Dawson  O. Reg. 510/00, s. 1.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  O. Reg. 510/00, s. 1.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 3, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 2.</p> <p class=\"subsection-e\">  (5) The election of the first members of the Board shall be held no later than February 1, 2001 and the first members shall hold office until no later than September 30, 2002 and a new Board is elected.  O. Reg. 510/00, s. 1.</p> <p class=\"subsection-e\">  (6) The Northern Development Officer for Manitoulin/Espanola is appointed to conduct and supervise the election of the first members and he or she may do any thing that is reasonably required for that purpose.  O. Reg. 510/00, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. Revoked: O. Reg. 253/19, s. 1. East Gorham",
+            "raw_html": "<p class=\"section-e\"><a name=\"BK6\"></a> <b>10. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 253/19, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>East Gorham</p>"
+        },
+        {
+            "ahref_id": "#10.0.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.0.1 (1) A Local Services Board is established under the name “The Local Services Board of East Gorham”.  O. Reg. 307/02, s. 1. (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 307/02, s. 1. (3) The Board shall be composed of five members.  O. Reg. 307/02, s. 1. (4) The Board may exercise the powers set out in paragraph 2 of the Schedule to the Act.  O. Reg. 307/02, s. 1. (5) The election of the first members of the Board shall be held on 10 days notice, no later than November 30, 2002, and the first members shall hold office until no later than September 30, 2003 if a new Board is elected by that date or until a new Board is elected if a new Board has not been elected by that date.  O. Reg. 307/02, s. 1. (6) The Manager of the Thunder Bay Area Team of the Ministry is appointed to conduct and supervise the election of the first members and he or she may do anything that is reasonably required for that purpose.  O. Reg. 307/02, s. 1. Schedule The areas of land and land under water in the geographic Townships of Gorham and Jacques, in the Territorial District of Thunder Bay, being composed of those parts of the geographic townships designated as Parts 1 and 2, on a plan known as The Local Services Board of East Gorham, filed on April 23, 2008, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources. O. Reg. 442/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>10.0.1</b><b> </b>(1) A Local Services Board is established under the name “The Local Services Board of East Gorham”.  O. Reg. 307/02, s. 1.</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 307/02, s. 1.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  O. Reg. 307/02, s. 1.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraph 2 of the Schedule to the Act.  O. Reg. 307/02, s. 1.</p> <p class=\"subsection-e\">  (5) The election of the first members of the Board shall be held on 10 days notice, no later than November 30, 2002, and the first members shall hold office until no later than September 30, 2003 if a new Board is elected by that date or until a new Board is elected if a new Board has not been elected by that date.  O. Reg. 307/02, s. 1.</p> <p class=\"subsection-e\">  (6) The Manager of the Thunder Bay Area Team of the Ministry is appointed to conduct and supervise the election of the first members and he or she may do anything that is reasonably required for that purpose.  O. Reg. 307/02, s. 1.</p> <p class=\"headingx-e\">Schedule</p> <p class=\"parawtab-e\">  The areas of land and land under water in the geographic Townships of Gorham and Jacques, in the Territorial District of Thunder Bay, being composed of those parts of the geographic townships designated as Parts 1 and 2, on a plan known as The Local Services Board of East Gorham, filed on April 23, 2008, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources.</p> <p class=\"footnote-e\">O. Reg. 442/08, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#10.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.1 Revoked:  O. Reg. 279/10, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>10.1 </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 279/10, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. Revoked:  O. Reg. 303/06, s. 1. Foleyet",
+            "raw_html": "<p class=\"section-e\"> <b>11.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 303/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Foleyet</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. (1) The Local Services Board known as “The Local Services Board of Foleyet” is continued.  R.R.O. 1990, Reg. 737, s. 12 (1). (2) The boundaries of the Board area are those described in the Schedule to Regulation 602 of the Revised Regulations of Ontario, 1980.  R.R.O. 1990, Reg. 737, s. 12 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 12 (3). (4) The Board may exercise the powers set out in paragraphs 1, 2, 4, 5 and 6 of the Schedule to the Act.  O. Reg. 147/93, s. 1. Gogama",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>(1) The Local Services Board known as “The Local Services Board of Foleyet” is continued.  R.R.O. 1990, Reg. 737, s. 12 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Regulation 602 of the Revised Regulations of Ontario, 1980.  R.R.O. 1990, Reg. 737, s. 12 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 12 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1, 2, 4, 5 and 6 of the Schedule to the Act.  O. Reg. 147/93, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Gogama</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. (1) The Local Services Board known as “The Local Services Board of Gogama” is continued.  R.R.O. 1990, Reg. 737, s. 13 (1). (2) The boundaries of the Board area are those described in the Schedule to Regulation 603 of the Revised Regulations of Ontario, 1980.  R.R.O. 1990, Reg. 737, s. 13 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 13 (3). (4) The Board may exercise the powers set out in paragraphs 1 to 6 and 8 of the Schedule to the Act.  O. Reg. 453/00, s. 1. Goulais River",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>(1) The Local Services Board known as “The Local Services Board of Gogama” is continued.  R.R.O. 1990, Reg. 737, s. 13 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Regulation 603 of the Revised Regulations of Ontario, 1980.  R.R.O. 1990, Reg. 737, s. 13 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 13 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1 to 6 and 8 of the Schedule to the Act.  O. Reg. 453/00, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Goulais River</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. (1) The Local Services Board known as “The Local Services Board of Goulais and District” is continued.  R.R.O. 1990, Reg. 737, s. 14 (1). (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 361/97, s. 1 (1). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 14 (3). (4) The Board may exercise the powers set out in paragraphs 2, 3, 6 and 8 of the Schedule to the Act. O. Reg. 215/14, s. 1. Schedule The portion of the Geographic Township of Dennis lying north of Goulais Bay and all of the geographic townships of Fenwick, Havilland, Kars, Ley, Pennefather, Tupper and Vankoughnet in the Territorial District of Algoma except for Batchawana Island, Maple Island and the Goulais Bay Indian Reserve No. 15A. O. Reg. 1/00, s. 1. Greater Oxdrift",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b>(1) The Local Services Board known as “The Local Services Board of Goulais and District” is continued.  R.R.O. 1990, Reg. 737, s. 14 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 361/97, s. 1 (1).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 14 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 3, 6 and 8 of the Schedule to the Act. O. Reg. 215/14, s. 1.</p> <p class=\"headingx-e\">Schedule</p> <p class=\"parawtab-e\">  The portion of the Geographic Township of Dennis lying north of Goulais Bay and all of the geographic townships of Fenwick, Havilland, Kars, Ley, Pennefather, Tupper and Vankoughnet in the Territorial District of Algoma except for Batchawana Island, Maple Island and the Goulais Bay Indian Reserve No. 15A.</p> <p class=\"footnote-e\">O. Reg. 1/00, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Greater Oxdrift</p>"
+        },
+        {
+            "ahref_id": "#14.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14.1 (1) A Local Services Board is established under the name “The Greater Oxdrift Local Services Board”.  O. Reg. 186/09, s. 1. (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 186/09, s. 1. (3) The Board shall be composed of five members.  O. Reg. 186/09, s. 1. (4) The Board may exercise the powers set out in paragraphs 2, 6 and 9 of the Schedule to the Act.  O. Reg. 186/09, s. 1. SCHEDULE The areas of land and land under water in the geographic Townships of Rugby, Britton, Eton, Wainwright, Zealand, Brownbridge, Aubrey and Van Horne and part of the bed of Wabigoon Lake in front of the geographic Township of Van Horne, in the Territorial District of Kenora, being composed of that part of the said lake bed and geographic townships designated as Part 1, on a plan known as Plan of the Local Services Board of Greater Oxdrift filed on November 6, 2008, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources. O. Reg. 186/09, s. 1. Hallebourg",
+            "raw_html": "<p class=\"section-e\"> <b>14.1 </b>(1) A Local Services Board is established under the name “The Greater Oxdrift Local Services Board”.  O. Reg. 186/09, s. 1.</p> <p class=\"subsection-e\"><span>  (2) </span>The boundaries of the Board area are those described in the Schedule.  O. Reg. 186/09, s. 1.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  O. Reg. 186/09, s. 1.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 6 and 9 of the Schedule to the Act.  O. Reg. 186/09, s. 1.</p> <p class=\"headingx-e\">SCHEDULE</p> <p class=\"parawtab-e\">  The areas of land and land under water in the geographic Townships of Rugby, Britton, Eton, Wainwright, Zealand, Brownbridge, Aubrey and Van Horne and part of the bed of Wabigoon Lake in front of the geographic Township of Van Horne, in the Territorial District of Kenora, being composed of that part of the said lake bed and geographic townships designated as Part 1, on a plan known as Plan of the Local Services Board of Greater Oxdrift filed on November 6, 2008, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources.</p> <p class=\"footnote-e\">O. Reg. 186/09, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Hallebourg</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. (1) The Local Services Board known as “The Local Services Board of Hallebourg” is continued.  R.R.O. 1990, Reg. 737, s. 15 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 688/85.  R.R.O. 1990, Reg. 737, s. 15 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 15 (3). (4) The Board may exercise the powers set out in paragraphs 1, 2, 4, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 421/08, s. 1. Hawk Junction",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>(1) The Local Services Board known as “The Local Services Board of Hallebourg” is continued.  R.R.O. 1990, Reg. 737, s. 15 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 688/85.  R.R.O. 1990, Reg. 737, s. 15 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 15 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1, 2, 4, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 421/08, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK13\"></a>Hawk Junction</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. (1) The Local Services Board known as “The Local Services Board of Hawk Junction” is continued.  R.R.O. 1990, Reg. 737, s. 16 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 85/81.  R.R.O. 1990, Reg. 737, s. 16 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 16 (3). (4) The Board may exercise the powers set out in paragraphs 2, 3, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>16. </b>(1) The Local Services Board known as “The Local Services Board of Hawk Junction” is continued.  R.R.O. 1990, Reg. 737, s. 16 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 85/81.  R.R.O. 1990, Reg. 737, s. 16 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 16 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 3, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. Revoked:  O. Reg. 153/96, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 153/96, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. Revoked:  O. Reg. 303/06, s. 1. Hurkett",
+            "raw_html": "<p class=\"section-e\"> <b>18.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 303/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Hurkett</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. (1) The Local Services Board known as “The Local Services Board of Hurkett” is continued.  R.R.O. 1990, Reg. 737, s. 19 (1). (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 664/05, s. 1 (1). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 19 (3). (4) The Board may exercise the powers set out in paragraphs 2, 6 and 8 of the Schedule to the Act.  O. Reg. 411/00, s. 3. SCHEDULE All that parcel or tract of land in the Geographic Townships of Stirling and Lyon, in the Territorial District of Thunder Bay, described as follows: Beginning at the southwesterly corner of Lot 1 in Concession 3, in the said Township of Stirling; Thence northerly along the limit between Concessions 3 and 4, to the northwesterly corner of Lot 6 in Concession 3; Thence easterly along the north limit of Lot 6 in Concessions 3, 2 and 1, to the limit between the east half and the west half of Lot 7 in Concession 1; Thence northerly along the limit between the east half and the west half of Lots 7, 8, and 9 in Concession 1, to the north limit of Lot 9 in Concession 1; Thence easterly along the northerly limit of Lot 9 in Concession 1 to the northeasterly corner of Lot 9 in Concession 1, being a point on the limit between the Townships of Stirling and Lyon; Thence northerly along the limit between the Townships of Stirling and Lyon to the northwesterly corner of Lot 2 in Concession 11, in the Township of Lyon; Thence easterly along the north limit of Lot 2 in Concessions 11 and 10, to the northeasterly corner of Lot 2 in Concession 10; Thence southerly along the east limit of Lots 2 and 3 in Concession 10, to the northeasterly corner of Location AL 764; Thence southerly along the east limit of Location AL 764 to the northwesterly corner of Lot 4 in Concession 9; Thence easterly along the north limit of Lot 4 in Concessions 9 and 8, to the northeasterly corner of Lot 4 in Concession 8; Thence northerly along the west limit of Lot 3 in Concession 7, to the northwesterly corner of Lot 3 in Concession 7; Thence easterly along the north limit of Lot 3 in Concession 7 to its intersection with a line drawn parallel to and perpendicularly distant 766.85 metres (38.12 chains) measured westerly from the easterly limits of Lots 2 and 1 in Concession 7; Thence northerly along said line to the north limit of Lot 1 in Concession 7, being a point in the north limit of the Township of Lyon; Thence easterly along the north limit of Lot 1 in Concessions 7 and 6 to the limit between the east half and the west half of Lot 1 in Concession 6; Thence southerly along the limit between the east half and the west half of Lot 1 in Concession 6, to the south limit of Lot 1 in Concession 6; Thence easterly along the northerly limit of Lot 2 in Concessions 6 and 5 to the limit between the east half and the west half of Lot 2 in Concession 5; Thence southerly along the limit between the east half and the west half of Lot 2 in Concession 5 to the south limit of Lot 2 in Concession 5; Thence westerly along the southerly limit of Lot 2 in Concessions 5 and 6 to its intersection with a line drawn parallel to and perpendicularly distant 804.67 metres (40 chains) measured westerly from the east limit of Lot 3 in Concession 6; Thence southerly along said line to the south limit of said lot; Thence along the limit between Lots 3 and 4 in Concession 6, to the westerly limit of the easterly 64.75 hectares (160 acres) of Lot 4 in Concession 6; Thence southerly along the west limit of the easterly 64.75 hectares (160 acres) of Lot 4 in Concession 6 to the north limit of the Black Surgeon River and continuing on the production of said limit across the Black Sturgeon River to the south limit of the said river, being a point in the north limit of Lot 5 in Concession 6; Thence in a general westerly direction along the south limit of the Black Sturgeon River to its intersection with the limit between Lots 4 and 5 in Concession 6; Thence westerly along the south limit of Lot 4 in Concession 6 and along the south limit of Lot 4 in Concession 7 to the limit between the east half and the west half of Lot 5 in Concession 7; Thence southerly along the limit between the east half and the west half of Lot 5 in Concession 7 to the southerly limit of Lot 5 in Concession 7; Thence westerly along the south limit of Lot 5 in Concessions 7 and 8 to the southwesterly corner of Lot 5 in Concession 8; Thence southerly along the east limit of Lots 6, 7, 8 and 9 in Concession 9 to the southeast corner of Lot 9 in Concession 9; Thence westerly along the southerly limit of Lot 9 in Concession 9 to the southwest corner of Lot 9 in Concession 9; Thence southerly along the east limit of Lots 10 and 11 in Concession 10 to its intersection with the inner limit of the shore road allowance along Black Bay of Lake Superior; Thence continuing southerly on the production of the limit between Concessions 9 and 10, across the road allowance to the water’s edge of Black Bay; Thence in a westerly and southwesterly direction along the water’s edge of Black Bay to its intersection with the limit between the Townships of Stirling and Dorion; Thence westerly along the said township limit across the road allowance to the southeast corner of Lot 1 in Concession 1; Thence westerly along the south limit of Lot 1 in Concessions 1, 2, and 3 to the place of beginning. O. Reg. 664/05, s. 1 (2). Jogues",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>(1) The Local Services Board known as “The Local Services Board of Hurkett” is continued.  R.R.O. 1990, Reg. 737, s. 19 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 664/05, s. 1 (1).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 19 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 6 and 8 of the Schedule to the Act.  O. Reg. 411/00, s. 3.</p> <p class=\"headingx-e\">SCHEDULE</p> <p class=\"parawtab-e\">  All that parcel or tract of land in the Geographic Townships of Stirling and Lyon, in the Territorial District of Thunder Bay, described as follows:</p> <p class=\"parawindt-e\">Beginning at the southwesterly corner of Lot 1 in Concession 3, in the said Township of Stirling;</p> <p class=\"parawindt-e\">Thence northerly along the limit between Concessions 3 and 4, to the northwesterly corner of Lot 6 in Concession 3;</p> <p class=\"parawindt-e\">Thence easterly along the north limit of Lot 6 in Concessions 3, 2 and 1, to the limit between the east half and the west half of Lot 7 in Concession 1;</p> <p class=\"parawindt-e\">Thence northerly along the limit between the east half and the west half of Lots 7, 8, and 9 in Concession 1, to the north limit of Lot 9 in Concession 1;</p> <p class=\"parawindt-e\">Thence easterly along the northerly limit of Lot 9 in Concession 1 to the northeasterly corner of Lot 9 in Concession 1, being a point on the limit between the Townships of Stirling and Lyon;</p> <p class=\"parawindt-e\">Thence northerly along the limit between the Townships of Stirling and Lyon to the northwesterly corner of Lot 2 in Concession 11, in the Township of Lyon;</p> <p class=\"parawindt-e\">Thence easterly along the north limit of Lot 2 in Concessions 11 and 10, to the northeasterly corner of Lot 2 in Concession 10;</p> <p class=\"parawindt-e\">Thence southerly along the east limit of Lots 2 and 3 in Concession 10, to the northeasterly corner of Location AL 764;</p> <p class=\"parawindt-e\">Thence southerly along the east limit of Location AL 764 to the northwesterly corner of Lot 4 in Concession 9;</p> <p class=\"parawindt-e\">Thence easterly along the north limit of Lot 4 in Concessions 9 and 8, to the northeasterly corner of Lot 4 in Concession 8;</p> <p class=\"parawindt-e\">Thence northerly along the west limit of Lot 3 in Concession 7, to the northwesterly corner of Lot 3 in Concession 7;</p> <p class=\"parawindt-e\">Thence easterly along the north limit of Lot 3 in Concession 7 to its intersection with a line drawn parallel to and perpendicularly distant 766.85 metres (38.12 chains) measured westerly from the easterly limits of Lots 2 and 1 in Concession 7;</p> <p class=\"parawindt-e\">Thence northerly along said line to the north limit of Lot 1 in Concession 7, being a point in the north limit of the Township of Lyon;</p> <p class=\"parawindt-e\">Thence easterly along the north limit of Lot 1 in Concessions 7 and 6 to the limit between the east half and the west half of Lot 1 in Concession 6;</p> <p class=\"parawindt-e\">Thence southerly along the limit between the east half and the west half of Lot 1 in Concession 6, to the south limit of Lot 1 in Concession 6;</p> <p class=\"parawindt-e\">Thence easterly along the northerly limit of Lot 2 in Concessions 6 and 5 to the limit between the east half and the west half of Lot 2 in Concession 5;</p> <p class=\"parawindt-e\">Thence southerly along the limit between the east half and the west half of Lot 2 in Concession 5 to the south limit of Lot 2 in Concession 5;</p> <p class=\"parawindt-e\">Thence westerly along the southerly limit of Lot 2 in Concessions 5 and 6 to its intersection with a line drawn parallel to and perpendicularly distant 804.67 metres (40 chains) measured westerly from the east limit of Lot 3 in Concession 6;</p> <p class=\"parawindt-e\">Thence southerly along said line to the south limit of said lot;</p> <p class=\"parawindt-e\">Thence along the limit between Lots 3 and 4 in Concession 6, to the westerly limit of the easterly 64.75 hectares (160 acres) of Lot 4 in Concession 6;</p> <p class=\"parawindt-e\">Thence southerly along the west limit of the easterly 64.75 hectares (160 acres) of Lot 4 in Concession 6 to the north limit of the Black Surgeon River and continuing on the production of said limit across the Black Sturgeon River to the south limit of the said river, being a point in the north limit of Lot 5 in Concession 6;</p> <p class=\"parawindt-e\">Thence in a general westerly direction along the south limit of the Black Sturgeon River to its intersection with the limit between Lots 4 and 5 in Concession 6;</p> <p class=\"parawindt-e\">Thence westerly along the south limit of Lot 4 in Concession 6 and along the south limit of Lot 4 in Concession 7 to the limit between the east half and the west half of Lot 5 in Concession 7;</p> <p class=\"parawindt-e\">Thence southerly along the limit between the east half and the west half of Lot 5 in Concession 7 to the southerly limit of Lot 5 in Concession 7;</p> <p class=\"parawindt-e\">Thence westerly along the south limit of Lot 5 in Concessions 7 and 8 to the southwesterly corner of Lot 5 in Concession 8;</p> <p class=\"parawindt-e\">Thence southerly along the east limit of Lots 6, 7, 8 and 9 in Concession 9 to the southeast corner of Lot 9 in Concession 9;</p> <p class=\"parawindt-e\">Thence westerly along the southerly limit of Lot 9 in Concession 9 to the southwest corner of Lot 9 in Concession 9;</p> <p class=\"parawindt-e\">Thence southerly along the east limit of Lots 10 and 11 in Concession 10 to its intersection with the inner limit of the shore road allowance along Black Bay of Lake Superior;</p> <p class=\"parawindt-e\">Thence continuing southerly on the production of the limit between Concessions 9 and 10, across the road allowance to the water’s edge of Black Bay;</p> <p class=\"parawindt-e\">Thence in a westerly and southwesterly direction along the water’s edge of Black Bay to its intersection with the limit between the Townships of Stirling and Dorion;</p> <p class=\"parawindt-e\">Thence westerly along the said township limit across the road allowance to the southeast corner of Lot 1 in Concession 1;</p> <p class=\"parawindt-e\">Thence westerly along the south limit of Lot 1 in Concessions 1, 2, and 3 to the place of beginning.</p> <p class=\"footnote-e\">O. Reg. 664/05, s. 1 (2).</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Jogues</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. (1) The Local Services Board known as “The Local Services Board of Jogues” is continued.  R.R.O. 1990, Reg. 737, s. 20 (1). (2) The boundaries of the Board area are those described in the Schedule. O. Reg. 278/13, s. 1 (1). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 20 (3). (4) The Board may exercise the powers set out in paragraphs 2, 3, 4, 6, 8 and 9 of the Schedule to the Act. O. Reg. 278/13, s. 1 (2). SCHEDULE All that parcel or tract of land in the geographic Townships of Lowther, Way, Kendall and Shetland in the Territorial District of Cochrane, described as follows: All of lots 24 to 29 both inclusive in Concessions I to VII both inclusive in the geographic Township of Kendall; All of lots 1 to 20 both inclusive in Concession XII in the geographic Township of Lowther; All of lots 24 to 29 both inclusive in Concession XII in the geographic Township of Shetland; All of lots 1 to 20 both inclusive in Concessions I to VII both inclusive in the geographic Township of Way. O. Reg. 278/13, s. 1 (3). Kaministiquia",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>(1) The Local Services Board known as “The Local Services Board of Jogues” is continued.  R.R.O. 1990, Reg. 737, s. 20 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule. O. Reg. 278/13, s. 1 (1).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 20 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 3, 4, 6, 8 and 9 of the Schedule to the Act. O. Reg. 278/13, s. 1 (2).</p> <p class=\"headingx-e\">SCHEDULE</p> <p class=\"paranoindt-e\">All that parcel or tract of land in the geographic Townships of Lowther, Way, Kendall and Shetland in the Territorial District of Cochrane, described as follows:</p> <p class=\"paranoindt-e\">All of lots 24 to 29 both inclusive in Concessions I to VII both inclusive in the geographic Township of Kendall;\r\n</p> <p class=\"paranoindt-e\">All of lots 1 to 20 both inclusive in Concession XII in the geographic Township of Lowther; </p> <p class=\"paranoindt-e\">All of lots 24 to 29 both inclusive in Concession XII in the geographic Township of Shetland; </p> <p class=\"paranoindt-e\">All of lots 1 to 20 both inclusive in Concessions I to VII both inclusive in the geographic Township of Way.</p> <p class=\"footnote-e\">O. Reg. 278/13, s. 1 (3).</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Kaministiquia</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. (1) The Local Services Board known as “The Local Services Board of Kaministiquia” is continued.  R.R.O. 1990, Reg. 737, s. 21 (1). (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 76/03, s. 1 (1). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 21 (3). (4) The Board may exercise the powers set out in paragraphs 2 and 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 21 (4). SCHEDULE The areas of land and land under water in the geographic Townships of Fowler, Ware, Forbes and Dawson Road Lots, in the Territorial District of Thunder Bay, being composed of those parts of the geographic townships designated as Parts 1 to 4, inclusive, on a plan known as The Local Services Board of Kaministiquia filed on July 28, 2008, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources. O. Reg. 3/09, s. 1. KeeMan",
+            "raw_html": "<p class=\"section-e\"> <b>21. </b>(1) The Local Services Board known as “The Local Services Board of Kaministiquia” is continued.  R.R.O. 1990, Reg. 737, s. 21 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 76/03, s. 1 (1).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 21 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2 and 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 21 (4).</p> <p class=\"headingx-e\">SCHEDULE</p> <p class=\"parawtab-e\">  The areas of land and land under water in the geographic Townships of Fowler, Ware, Forbes and Dawson Road Lots, in the Territorial District of Thunder Bay, being composed of those parts of the geographic townships designated as Parts 1 to 4, inclusive, on a plan known as The Local Services Board of Kaministiquia filed on July 28, 2008, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources.</p> <p class=\"footnote-e\">O. Reg. 3/09, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>KeeMan</p>"
+        },
+        {
+            "ahref_id": "#21.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21.1 (1) A Local Services Board is established under the name “The KeeMan Local Services Board”.  O. Reg. 3/11, s. 1. (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 3/11, s. 1. (3) The Board shall be composed of five members.  O. Reg. 3/11, s. 1. (4) The Board may exercise the powers set out in paragraph 2 of the Schedule to the Act.  O. Reg. 3/11, s. 1. SCHEDULE In the geographic Townships of Gundy, Broderick, Gidley, Pellatt, Ewat, Forgie, Boys and Glass, and in unsurveyed territory in the Territorial District of Kenora, being composed of those parts of the said geographic townships and unsurveyed territory designated as Part 1 on a plan known as Plan of the Local Services Board of KeeMan filed on April 21, 2010 with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources. O. Reg. 3/11, s. 1. Kenogami",
+            "raw_html": "<p class=\"section-e\"> <b>21.1 </b>(1) A Local Services Board is established under the name “The KeeMan Local Services Board”.  O. Reg. 3/11, s. 1.</p> <p class=\"subsection-e\"><span>  (2) </span>The boundaries of the Board area are those described in the Schedule.  O. Reg. 3/11, s. 1.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  O. Reg. 3/11, s. 1.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraph 2 of the Schedule to the Act.  O. Reg. 3/11, s. 1.</p> <p class=\"headingx-e\">SCHEDULE</p> <p class=\"parawtab-e\">  In the geographic Townships of Gundy, Broderick, Gidley, Pellatt, Ewat, Forgie, Boys and Glass, and in unsurveyed territory in the Territorial District of Kenora, being composed of those parts of the said geographic townships and unsurveyed territory designated as Part 1 on a plan known as Plan of the Local Services Board of KeeMan filed on April 21, 2010 with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources.</p> <p class=\"footnote-e\">O. Reg. 3/11, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK18\"></a>Kenogami</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22. (1) The Local Services Board known as “The Local Services Board of Kenogami and District” is continued.  R.R.O. 1990, Reg. 737, s. 22 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 687/88.  R.R.O. 1990, Reg. 737, s. 22 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 22 (3). (4) The Board may exercise the powers set out in paragraphs 2 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 6. King-Lebel",
+            "raw_html": "<p class=\"section-e\"> <b>22. </b>(1) The Local Services Board known as “The Local Services Board of Kenogami and District” is continued.  R.R.O. 1990, Reg. 737, s. 22 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 687/88.  R.R.O. 1990, Reg. 737, s. 22 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 22 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK19\"></a>King-Lebel</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23. (1) The Local Services Board known as “The Local Services Board of King-Lebel” is continued.  R.R.O. 1990, Reg. 737, s. 23 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 806/82.  R.R.O. 1990, Reg. 737, s. 23 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 23 (3). (4) The Board may exercise the powers set out in paragraphs 2, 5, 6 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 7. Lac-Ste-Thérèse",
+            "raw_html": "<p class=\"section-e\"> <b>23. </b>(1) The Local Services Board known as “The Local Services Board of King-Lebel” is continued.  R.R.O. 1990, Reg. 737, s. 23 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 806/82.  R.R.O. 1990, Reg. 737, s. 23 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 23 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 5, 6 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 7.</p> <p class=\"heading1-e\"><a name=\"BK20\"></a>Lac-Ste-Thérèse</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 24. (1) The Local Services Board known as “The Local Services Board of Lac-Ste-Thérèse” is continued.  R.R.O. 1990, Reg. 737, s. 24 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 302/88.  R.R.O. 1990, Reg. 737, s. 24 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 24 (3). (4) The Board may exercise the powers set out in paragraphs 1 to 6, 8 and 9 of the Schedule to the Act.  O. Reg. 99/07, s. 1. Lappe",
+            "raw_html": "<p class=\"section-e\"> <b>24. </b>(1) The Local Services Board known as “The Local Services Board of Lac-Ste-Thérèse” is continued.  R.R.O. 1990, Reg. 737, s. 24 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 302/88.  R.R.O. 1990, Reg. 737, s. 24 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 24 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1 to 6, 8 and 9 of the Schedule to the Act.  O. Reg. 99/07, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK21\"></a>Lappe</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. (1) The Local Services Board known as “The Local Services Board of Lappe and Area” is continued.  R.R.O. 1990, Reg. 737, s. 25 (1). (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 70/03, s. 1 (1). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 25 (3). (4) The Board may exercise the powers set out in paragraphs 2, 3, 6 and 8 of the Schedule to the Act. O. Reg. 316/15, s. 1. SCHEDULE All that parcel or tract of land in the geographic townships of Gorham, Jacques, Fowler and Ware, in the Territorial District of Thunder Bay and Province of Ontario, described as follows: Beginning at the southeasterly corner of Lot 12, Concession 8, in the geographic Township of Gorham; Thence northerly along the easterly limit of the said Lot 12, Concession 8, to the northeasterly corner thereof; Thence easterly along the boundary between the geographic Township of Jacques and Gorham, to the southeasterly corner of Lot 4, Concession 1, in the said Township of Jacques; Thence northerly along the easterly boundary of Lot 4 in Concessions 1, 2, 3, 4 and 5, to the northeasterly corner of the S ½ of Lot 4, Concession 5; Thence westerly along the northerly limit of the S ½ of Lots 4, 5, 6, 7, 8, 9, 10, 11 and 12, Concession 5, to the northwesterly corner of the S ½ of Lot 12, Concession 5, in the said Township of Jacques; Thence northerly along the boundary between the geographic Townships of Jacques and Fowler to the northeasterly corner of Lot 1, Concession 5, in the said geographic Township of Fowler; Thence westerly along the northerly limit of Lots 1, 2, 3 and 4, Concession 5, to the northwesterly corner of Lot 4, Concession 5, in the said geographic Township of Fowler; Thence southerly along the westerly limit of Lot 4, Concession 5, to the southwesterly corner of Lot 4, Concession 5, at the water’s edge of Hawk Lake; Thence in a southwesterly direction along the water’s edge of Hawk Lake, being also the south and southeasterly limit of Lots 5 and 6, Concession 5, to intersection of said water’s edge with the line between Concessions 4 and 5; Thence westerly along the northerly limit of Lots 6, 7 and 8, Concession 4, to the northwesterly corner of Lot 8, Concession 4; Thence southerly along the westerly limit of Lot 8, Concession 4, to a point being at the intersection of the said westerly limit with the northerly water’s edge of Hawk Lake; Thence in a southwesterly direction along the northerly water’s edge of Hawk Lake to a point on the westerly limit of Lot 9, Concession 4, being at the intersection of the said westerly limit with the said northerly water’s edge; Thence southerly along the westerly limit of Lot 9, Concession 4, and the extension of the said westerly limit across Hawk Lake to the southwesterly corner of Lot 9, Concession 4; Thence southerly along the easterly limit of Lot 10, Concessions 1, 2 and 3, to the southeasterly corner of Lot 10, Concession 1, in the said geographic Township of Fowler; Thence easterly along the boundary between the Townships of Fowler and Ware to the northwesterly corner of Lot 3, Concession 8, in the geographic Township of Ware; Thence southerly along the westerly limit of Lot 3, Concessions 8, 7, and 6, to the northeasterly corner of Lot 4, Concession 5; Thence westerly along the northerly limit of Lots 4, 5, and 6, Concession 5, to the northwesterly corner of Lot 6, Concession 5; Thence southerly along the westerly limit of the said Lot 6 to the line between the north and south halves of Lot 7, Concession 5; Thence westerly along the line between the north and south halves of said Lot 7 to the westerly limit of the said lot; Thence southerly along the westerly limit of Lot 7, Concessions 5 and 4, to the northerly limit of Mining Location 210T; Thence easterly along the said northerly limit to the northeasterly corner of the said Mining Location; Thence southerly along the easterly limit of Mining locations 210T and 214T to the southeasterly corner of Mining Location 214T; Thence westerly along the southerly limit of said Mining Location 214T to the northwesterly corner of Lot 7, Concession 3; Thence southerly along the westerly limit of Lot 7, Concessions 3 and 2, to the line between the north and south halves of Lot 7, Concession 2; Thence easterly along the line between the north and south halves of said Lot 7 to the westerly limit of Lot 6, Concession 2; Thence southerly along the westerly limit of the said Lot 6, Concession 2, to the southwesterly corner thereof; Thence easterly along the southerly limit of the said Lot 6, Concession 2, to the northwesterly corner of Lot 5, Concession 1; Thence southerly along the westerly limit of the said Lot 5, Concession 1, to the line between the north and south halves of Lot 5, Concession 1; Thence easterly along the line between the north and south halves of Lots 5 and 4, Concession 1, to the westerly limit of Lot 3, Concession 1; Thence southerly along the westerly limit of said Lot 3, Concession 1, to the southerly boundary of the geographic Township of Ware; Thence easterly along the southerly boundary of the geographic townships of Ware and Gorham to the southeasterly corner of Lot 9, Concession 1, in the said Township of Gorham; Thence northerly along the easterly limit of Lot 9, Concession 1, to the northeasterly corner thereof; Thence in a straight line northerly, across Mining locations AL 43 and R 463, to the southeast corner of Lot 9, Concession 2; Thence northerly along the easterly limit of Lot 9, Concessions 2, 3, and 4, to the line between the north and south halves of Lot 9, Concession 4; Thence westerly along the line between the north and south halves of said Lot 9 to the easterly limit of Lot 10, Concession 4; Thence northerly along the easterly limit of Lot 10, Concessions 4, 5, 6, and 7, to the line between the north and south halves of Lot 10, Concession 7; Thence westerly along the line between the north and south halves of said Lot 10 to the easterly limit of Lot 11, Concession 7; Thence northerly along the easterly limit of said Lot 11, Concession 7, to the northeasterly corner thereof; Thence westerly along the northerly limit of said Lot 11, Concession 7, to the place of beginning. O. Reg. 400/06, s. 2. Laurier",
+            "raw_html": "<p class=\"section-e\"> <b>25. </b>(1) The Local Services Board known as “The Local Services Board of Lappe and Area” is continued.  R.R.O. 1990, Reg. 737, s. 25 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 70/03, s. 1 (1).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 25 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 3, 6 and 8 of the Schedule to the Act. O. Reg. 316/15, s. 1.</p> <p class=\"headingx-e\">SCHEDULE</p> <p class=\"parawtab-e\">  All that parcel or tract of land in the geographic townships of Gorham, Jacques, Fowler and Ware, in the Territorial District of Thunder Bay and Province of Ontario, described as follows:</p> <p class=\"parawindt-e\">Beginning at the southeasterly corner of Lot 12, Concession 8, in the geographic Township of Gorham;</p> <p class=\"parawindt-e\">Thence northerly along the easterly limit of the said Lot 12, Concession 8, to the northeasterly corner thereof;</p> <p class=\"parawindt-e\">Thence easterly along the boundary between the geographic Township of Jacques and Gorham, to the southeasterly corner of Lot 4, Concession 1, in the said Township of Jacques;</p> <p class=\"parawindt-e\">Thence northerly along the easterly boundary of Lot 4 in Concessions 1, 2, 3, 4 and 5, to the northeasterly corner of the S ½ of Lot 4, Concession 5;</p> <p class=\"parawindt-e\">Thence westerly along the northerly limit of the S ½ of Lots 4, 5, 6, 7, 8, 9, 10, 11 and 12, Concession 5, to the northwesterly corner of the S ½ of Lot 12, Concession 5, in the said Township of Jacques;</p> <p class=\"parawindt-e\">Thence northerly along the boundary between the geographic Townships of Jacques and Fowler to the northeasterly corner of Lot 1, Concession 5, in the said geographic Township of Fowler;</p> <p class=\"parawindt-e\">Thence westerly along the northerly limit of Lots 1, 2, 3 and 4, Concession 5, to the northwesterly corner of Lot 4, Concession 5, in the said geographic Township of Fowler;</p> <p class=\"parawindt-e\">Thence southerly along the westerly limit of Lot 4, Concession 5, to the southwesterly corner of Lot 4, Concession 5, at the water’s edge of Hawk Lake;</p> <p class=\"parawindt-e\">Thence in a southwesterly direction along the water’s edge of Hawk Lake, being also the south and southeasterly limit of Lots 5 and 6, Concession 5, to intersection of said water’s edge with the line between Concessions 4 and 5;</p> <p class=\"parawindt-e\">Thence westerly along the northerly limit of Lots 6, 7 and 8, Concession 4, to the northwesterly corner of Lot 8, Concession 4;</p> <p class=\"parawindt-e\">Thence southerly along the westerly limit of Lot 8, Concession 4, to a point being at the intersection of the said westerly limit with the northerly water’s edge of Hawk Lake;</p> <p class=\"parawindt-e\">Thence in a southwesterly direction along the northerly water’s edge of Hawk Lake to a point on the westerly limit of Lot 9, Concession 4, being at the intersection of the said westerly limit with the said northerly water’s edge;</p> <p class=\"parawindt-e\">Thence southerly along the westerly limit of Lot 9, Concession 4, and the extension of the said westerly limit across Hawk Lake to the southwesterly corner of Lot 9, Concession 4;</p> <p class=\"parawindt-e\">Thence southerly along the easterly limit of Lot 10, Concessions 1, 2 and 3, to the southeasterly corner of Lot 10, Concession 1, in the said geographic Township of Fowler;</p> <p class=\"parawindt-e\">Thence easterly along the boundary between the Townships of Fowler and Ware to the northwesterly corner of Lot 3, Concession 8, in the geographic Township of Ware;</p> <p class=\"parawindt-e\">Thence southerly along the westerly limit of Lot 3, Concessions 8, 7, and 6, to the northeasterly corner of Lot 4, Concession 5;</p> <p class=\"parawindt-e\">Thence westerly along the northerly limit of Lots 4, 5, and 6, Concession 5, to the northwesterly corner of Lot 6, Concession 5;</p> <p class=\"parawindt-e\">Thence southerly along the westerly limit of the said Lot 6 to the line between the north and south halves of Lot 7, Concession 5;</p> <p class=\"parawindt-e\">Thence westerly along the line between the north and south halves of said Lot 7 to the westerly limit of the said lot;</p> <p class=\"parawindt-e\">Thence southerly along the westerly limit of Lot 7, Concessions 5 and 4, to the northerly limit of Mining Location 210T;</p> <p class=\"parawindt-e\">Thence easterly along the said northerly limit to the northeasterly corner of the said Mining Location;</p> <p class=\"parawindt-e\">Thence southerly along the easterly limit of Mining locations 210T and 214T to the southeasterly corner of Mining Location 214T;</p> <p class=\"parawindt-e\">Thence westerly along the southerly limit of said Mining Location 214T to the northwesterly corner of Lot 7, Concession 3;</p> <p class=\"parawindt-e\">Thence southerly along the westerly limit of Lot 7, Concessions 3 and 2, to the line between the north and south halves of Lot 7, Concession 2;</p> <p class=\"parawindt-e\">Thence easterly along the line between the north and south halves of said Lot 7 to the westerly limit of Lot 6, Concession 2;</p> <p class=\"parawindt-e\">Thence southerly along the westerly limit of the said Lot 6, Concession 2, to the southwesterly corner thereof;</p> <p class=\"parawindt-e\">Thence easterly along the southerly limit of the said Lot 6, Concession 2, to the northwesterly corner of Lot 5, Concession 1;</p> <p class=\"parawindt-e\">Thence southerly along the westerly limit of the said Lot 5, Concession 1, to the line between the north and south halves of Lot 5, Concession 1;</p> <p class=\"parawindt-e\">Thence easterly along the line between the north and south halves of Lots 5 and 4, Concession 1, to the westerly limit of Lot 3, Concession 1;</p> <p class=\"parawindt-e\">Thence southerly along the westerly limit of said Lot 3, Concession 1, to the southerly boundary of the geographic Township of Ware;</p> <p class=\"parawindt-e\">Thence easterly along the southerly boundary of the geographic townships of Ware and Gorham to the southeasterly corner of Lot 9, Concession 1, in the said Township of Gorham;</p> <p class=\"parawindt-e\">Thence northerly along the easterly limit of Lot 9, Concession 1, to the northeasterly corner thereof;</p> <p class=\"parawindt-e\">Thence in a straight line northerly, across Mining locations AL 43 and R 463, to the southeast corner of Lot 9, Concession 2;</p> <p class=\"parawindt-e\">Thence northerly along the easterly limit of Lot 9, Concessions 2, 3, and 4, to the line between the north and south halves of Lot 9, Concession 4;</p> <p class=\"parawindt-e\">Thence westerly along the line between the north and south halves of said Lot 9 to the easterly limit of Lot 10, Concession 4;</p> <p class=\"parawindt-e\">Thence northerly along the easterly limit of Lot 10, Concessions 4, 5, 6, and 7, to the line between the north and south halves of Lot 10, Concession 7;</p> <p class=\"parawindt-e\">Thence westerly along the line between the north and south halves of said Lot 10 to the easterly limit of Lot 11, Concession 7;</p> <p class=\"parawindt-e\">Thence northerly along the easterly limit of said Lot 11, Concession 7, to the northeasterly corner thereof;</p> <p class=\"parawindt-e\">Thence westerly along the northerly limit of said Lot 11, Concession 7, to the place of beginning.</p> <p class=\"footnote-e\">O. Reg. 400/06, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK22\"></a>Laurier</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. (1) The Local Services Board known as “The Local Services Board of Laurier” is continued.  R.R.O. 1990, Reg. 737, s. 26 (1). (2) The boundaries of the Board area are the Township of Laurier in the Territorial District of Parry Sound.  R.R.O. 1990, Reg. 737, s. 26 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 26 (3). (4) The Board may exercise the powers set out in paragraphs 2, 3, 8 and 9 of the Schedule to the Act.  O. Reg. 398/06, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b>(1) The Local Services Board known as “The Local Services Board of Laurier” is continued.  R.R.O. 1990, Reg. 737, s. 26 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are the Township of Laurier in the Territorial District of Parry Sound.  R.R.O. 1990, Reg. 737, s. 26 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 26 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 3, 8 and 9 of the Schedule to the Act.  O. Reg. 398/06, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#27.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27. Revoked:  O. Reg. 303/06, s. 1. Loring — Port Loring and District",
+            "raw_html": "<p class=\"section-e\"> <b>27.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 303/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK23\"></a>Loring — Port Loring and District</p>"
+        },
+        {
+            "ahref_id": "#27.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27.1 (1) A Local Services Board is established under the name “The Local Services Board of Loring — Port Loring and District”.  O. Reg. 324/92, s. 1. (2) The boundaries of the Board area are those described in the Schedule to this section.  O. Reg. 324/92, s. 1. (3) The Board shall be composed of five members.  O. Reg. 324/92, s. 1. (4) The Board may exercise the powers set out in paragraphs 1, 2, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 280/10, s. 1. (5), (6) Revoked:  O. Reg. 316/01, s. 1. Schedule All those parcels or tracts of land in the Territorial District of Parry Sound and Province of Ontario, composed of those parts of the said territorial district, more particularly described as follows: FIRSTLY:  All of the Township of Wilson. SECONDLY:  All that part of the Township of McConkey, lying south of the northerly limit of Concession X in the said township. THIRDLY:  All that part of the Township of Hardy lying south of the northerly limit of Concession X in the said township, together with all those islands lying south of the prolongation of the northerly limit of Concession XI within the confines of Memesagamesing Lake. FOURTHLY:  All of the Township of Blair. FIFTHLY:  All of the Township of East Mills. SIXTHLY:  All of the Township of Pringle, save and except all of Lots 21, 22 and 23, Concessions XIII and XIV, and all of Lots 24 to 35, both inclusive, Concessions X to XIV, both inclusive. O. Reg. 453/00, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>27.1 </b>(1) A Local Services Board is established under the name “The Local Services Board of Loring — Port Loring and District”.  O. Reg. 324/92, s. 1.</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to this section.  O. Reg. 324/92, s. 1.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  O. Reg. 324/92, s. 1.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1, 2, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 280/10, s. 1.</p> <p class=\"subsection-e\">  (5), (6) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 316/01, s. 1.</p> <p class=\"headingx-e\">Schedule</p> <p class=\"parawtab-e\">  All those parcels or tracts of land in the Territorial District of Parry Sound and Province of Ontario, composed of those parts of the said territorial district, more particularly described as follows:</p> <p class=\"paranoindt-e\"><span class=\"ovallcaps\">FIRSTLY</span>:  All of the Township of Wilson.</p> <p class=\"paranoindt-e\"><span class=\"ovallcaps\">SECONDLY</span>:  All that part of the Township of McConkey, lying south of the northerly limit of Concession X in the said township.</p> <p class=\"paranoindt-e\"><span class=\"ovallcaps\">THIRDLY</span>:  All that part of the Township of Hardy lying south of the northerly limit of Concession X in the said township, together with all those islands lying south of the prolongation of the northerly limit of Concession XI within the confines of Memesagamesing Lake.</p> <p class=\"paranoindt-e\"><span class=\"ovallcaps\">FOURTHLY</span>:  All of the Township of Blair.</p> <p class=\"paranoindt-e\"><span class=\"ovallcaps\">FIFTHLY</span>:  All of the Township of East Mills.</p> <p class=\"paranoindt-e\"><span class=\"ovallcaps\">SIXTHLY</span>:  All of the Township of Pringle, save and except all of Lots 21, 22 and 23, Concessions XIII and XIV, and all of Lots 24 to 35, both inclusive, Concessions X to XIV, both inclusive.</p> <p class=\"footnote-e\">O. Reg. 453/00, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#27.2, 28.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27.2, 28. Revoked:  O. Reg. 303/06, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>27.2, 28.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 303/06, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#29.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 29. Revoked:  O. Reg. 125/98, s. 4. Maisonville",
+            "raw_html": "<p class=\"section-e\"> <b>29. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 125/98, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK24\"></a>Maisonville</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. (1) The Local Services Board known as “The Local Services Board of Maisonville” is continued.  R.R.O. 1990, Reg. 737, s. 30 (1). (2) The boundaries of the Board area are the Township of Maisonville in the Territorial District of Timiskaming containing 12,818 acres, more or less.  R.R.O. 1990, Reg. 737, s. 30 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 30 (3). (4) The Board may exercise the powers set out in paragraphs 2, 6 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 9.",
+            "raw_html": "<p class=\"section-e\"> <b>30. </b>(1) The Local Services Board known as “The Local Services Board of Maisonville” is continued.  R.R.O. 1990, Reg. 737, s. 30 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are the Township of Maisonville in the Territorial District of Timiskaming containing 12,818 acres, more or less.  R.R.O. 1990, Reg. 737, s. 30 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 30 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 6 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#31.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31. Revoked:  O. Reg. 303/06, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>31. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 303/06, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32. Revoked:  O. Reg. 305/06, s. 1. Melgund",
+            "raw_html": "<p class=\"section-e\"> <b>32. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 305/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK25\"></a>Melgund</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. (1) A Local Services Board is established under the name “The Local Services Board of Melgund”.  O. Reg. 305/06, s. 2. (2) The boundaries of the Board area are all land in the Territorial District of Kenora composed of the geographic Township of Melgund.  O. Reg. 305/06, s. 2. (3) The Board shall be composed of three members.  O. Reg. 305/06, s. 2. (4) The Board may exercise the powers set out in paragraphs 3 and 6 of the Schedule to the Act. O. Reg. 105/15, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>33. </b>(1) A Local Services Board is established under the name “The Local Services Board of Melgund”.  O. Reg. 305/06, s. 2.</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are all land in the Territorial District of Kenora composed of the geographic Township of Melgund.  O. Reg. 305/06, s. 2.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of three members.  O. Reg. 305/06, s. 2.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 3 and 6 of the Schedule to the Act. O. Reg. 105/15, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#34.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34. Revoked:  O. Reg. 303/06, s. 1. Minaki",
+            "raw_html": "<p class=\"section-e\"> <b>34. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 303/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK26\"></a>Minaki</p>"
+        },
+        {
+            "ahref_id": "#35.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 35. (1) The Local Services Board known as “The Local Services Board of Minaki” is continued.  R.R.O. 1990, Reg. 737, s. 35 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 212/83.  R.R.O. 1990, Reg. 737, s. 35 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 35 (3). (4) The Board may exercise the powers set out in paragraphs 2, 5 and 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 35 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>35. </b>(1) The Local Services Board known as “The Local Services Board of Minaki” is continued.  R.R.O. 1990, Reg. 737, s. 35 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 212/83.  R.R.O. 1990, Reg. 737, s. 35 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 35 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 5 and 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 35 (4).</p>"
+        },
+        {
+            "ahref_id": "#36.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 36. Revoked: O. Reg. 108/16, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>36. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 108/16, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#37.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 37. Revoked:  O. Reg. 303/06, s. 1. Moose Factory",
+            "raw_html": "<p class=\"section-e\"> <b>37. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 303/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK27\"></a>Moose Factory</p>"
+        },
+        {
+            "ahref_id": "#38.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 38. (1) The Local Services Board known as “The Local Services Board of Moose Factory” is continued.  R.R.O. 1990, Reg. 737, s. 38 (1). (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 2/07, s. 1 (1). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 38 (3). (4) The Board may exercise the powers set out in paragraphs 1, 2, 3, 4, 5 and 6 of the Schedule to the Act.  O. Reg. 492/05, s. 1. SCHEDULE All that parcel or tract of land in the Territorial District of Cochrane and being that part of Moose Factory Island described as follows: Commencing at the northwesterly corner of Lot 2, Registered Plan M-140 C; Thence southerly along the westerly limit of the said Lot 2 to the intersection with the most northerly limit of Lot 1, Registered Plan M-376 Coch.; Thence westerly along said most northerly limit to the northwesterly corner of said Lot 1, Registered Plan M-376 Coch., being also the northeasterly corner of Part 1, Deposited Plan CR-312; Thence westerly along the northerly limit of Part 1, Deposited Plan CR-312, to the northwesterly corner of said Part 1; Thence southerly along the westerly limit of Part 1, Deposited Plan CR-312, to the southwesterly corner of said Part 1; Thence easterly along the southerly limit of Part 1, Deposited Plan CR-312, to the southeasterly corner of said Part 1, being a point in the westerly limit of Lot 1, Registered Plan M-376 Coch.; Thence southerly along the westerly limit of said Lot 1 and the westerly limit of Centre Street, Registered Plan M-376 Coch., to the southwesterly corner of said Centre Street; Thence easterly along the southerly limit of said Centre Street to the northwesterly corner of Lot 71, Registered Plan M-376 Coch.; Thence southerly along the westerly limits of lots 71, 70, 69 and 68, Registered Plan M-376 Coch., to the southwesterly corner of said Lot 68; Thence westerly along the northerly limits of Lots 74, 73 and 72, Registered Plan M-376 Coch., to the northwesterly corner of said Lot 72; Thence southerly along the westerly limit of Lot 72, Registered Plan M-376 Coch., to the southwesterly corner thereof; Thence westerly along the northerly limit of Horden Street, Registered Plan M-376 Coch., to the northwesterly corner thereof; Thence southerly along the westerly limit of the said Horden Street and its southerly prolongation to the intersection with the southerly limit of the road between Lots 4 and 10, as shown on Registered Plan M-140 C; Thence westerly along the southerly limit of said road between Lots 4 and 10 to the southwesterly corner of Lot 10, Registered Plan M-140 C; Thence in a generally easterly direction along the southerly limits of Lots 10 and 8, Registered Plan M-140 C, to the southeasterly corner of Lot 8 South of the road, as shown on Registered Plan M-140 C; Thence northerly along the easterly limit of said Lot 8 South of the road to the northeasterly corner of Lot 8 South of the road, as shown on Registered Plan M-140 C; Thence in a straight line, across the 66 foot road between Lot 8 South of the road and Lot 8 North of the road, to the southeasterly corner of Lot 8 North of the road, all as shown on Registered Plan M-140 C; Thence northerly along the easterly limit of Lot 8 North of the road, the easterly limit of the road between Lots 8 North of the road and Lot 7, and the easterly limit of Lot 7, to the northeasterly corner of the said Lot 7, all as shown on Registered Plan M-140 C; Thence in a generally westerly direction along the northerly limit of Lots 7 and 2 to the point of commencement. O. Reg. 2/07, s. 1 (2). Nolalu",
+            "raw_html": "<p class=\"section-e\"> <b>38. </b>(1) The Local Services Board known as “The Local Services Board of Moose Factory” is continued.  R.R.O. 1990, Reg. 737, s. 38 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 2/07, s. 1 (1).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 38 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1, 2, 3, 4, 5 and 6 of the Schedule to the Act.  O. Reg. 492/05, s. 1.</p> <p class=\"headingx-e\">SCHEDULE</p> <p class=\"paranoindt-e\">All that parcel or tract of land in the Territorial District of Cochrane and being that part of Moose Factory Island described as follows: </p> <p class=\"paranoindt-e\">Commencing at the northwesterly corner of Lot 2, Registered Plan M-140 C; </p> <p class=\"paranoindt-e\">Thence southerly along the westerly limit of the said Lot 2 to the intersection with the most northerly limit of Lot 1, Registered Plan M-376 Coch.;</p> <p class=\"paranoindt-e\">Thence westerly along said most northerly limit to the northwesterly corner of said Lot 1, Registered Plan M-376 Coch., being also the northeasterly corner of Part 1, Deposited Plan CR-312; </p> <p class=\"paranoindt-e\">Thence westerly along the northerly limit of Part 1, Deposited Plan CR-312, to the northwesterly corner of said Part 1; </p> <p class=\"paranoindt-e\">Thence southerly along the westerly limit of Part 1, Deposited Plan CR-312, to the southwesterly corner of said Part 1; </p> <p class=\"paranoindt-e\">Thence easterly along the southerly limit of Part 1, Deposited Plan CR-312, to the southeasterly corner of said Part 1, being a point in the westerly limit of Lot 1, Registered Plan M-376 Coch.;</p> <p class=\"paranoindt-e\">Thence southerly along the westerly limit of said Lot 1 and the westerly limit of Centre Street, Registered Plan M-376 Coch., to the southwesterly corner of said Centre Street; </p> <p class=\"paranoindt-e\">Thence easterly along the southerly limit of said Centre Street to the northwesterly corner of Lot 71, Registered Plan M-376 Coch.; </p> <p class=\"paranoindt-e\">Thence southerly along the westerly limits of lots 71, 70, 69 and 68, Registered Plan M-376 Coch., to the southwesterly corner of said Lot 68; </p> <p class=\"paranoindt-e\">Thence westerly along the northerly limits of Lots 74, 73 and 72, Registered Plan M-376 Coch., to the northwesterly corner of said Lot 72; </p> <p class=\"paranoindt-e\">Thence southerly along the westerly limit of Lot 72, Registered Plan M-376 Coch., to the southwesterly corner thereof; </p> <p class=\"paranoindt-e\">Thence westerly along the northerly limit of Horden Street, Registered Plan M-376 Coch., to the northwesterly corner thereof; </p> <p class=\"paranoindt-e\">Thence southerly along the westerly limit of the said Horden Street and its southerly prolongation to the intersection with the southerly limit of the road between Lots 4 and 10, as shown on Registered Plan M-140 C; </p> <p class=\"paranoindt-e\">Thence westerly along the southerly limit of said road between Lots 4 and 10 to the southwesterly corner of Lot 10, Registered Plan M-140 C; </p> <p class=\"paranoindt-e\">Thence in a generally easterly direction along the southerly limits of Lots 10 and 8, Registered Plan M-140 C, to the southeasterly corner of Lot 8 South of the road, as shown on Registered Plan M-140 C; </p> <p class=\"paranoindt-e\">Thence northerly along the easterly limit of said Lot 8 South of the road to the northeasterly corner of Lot 8 South of the road, as shown on Registered Plan M-140 C; </p> <p class=\"paranoindt-e\">Thence in a straight line, across the 66 foot road between Lot 8 South of the road and Lot 8 North of the road, to the southeasterly corner of Lot 8 North of the road, all as shown on Registered Plan M-140 C; </p> <p class=\"paranoindt-e\">Thence northerly along the easterly limit of Lot 8 North of the road, the easterly limit of the road between Lots 8 North of the road and Lot 7, and the easterly limit of Lot 7, to the northeasterly corner of the said Lot 7, all as shown on Registered Plan M-140 C; </p> <p class=\"paranoindt-e\">Thence in a generally westerly direction along the northerly limit of Lots 7 and 2 to the point of commencement. </p> <p class=\"footnote-e\">O. Reg. 2/07, s. 1 (2).</p> <p class=\"heading1-e\"><a name=\"BK28\"></a>Nolalu</p>"
+        },
+        {
+            "ahref_id": "#39.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 39. (1) A local services board is established under the name “The Local Services Board of Nolalu”.  O. Reg. 69/03, s. 1. (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 69/03, s. 1. (3) The Board shall be composed of five members.  O. Reg. 69/03, s. 1. (4) The Board may exercise the powers set out in paragraphs 2 and 6 of the Schedule to the Act.  O. Reg. 69/03, s. 1. (5) The election of the members of the Board shall be held no later than April 30, 2003 and the first members shall hold office until no later than September 30, 2003 if a new Board is elected by that date or until the Board is elected if a new Board has not been elected by that date.  O. Reg. 69/03, s. 1. (6) The Northern Development Officer for Atikokan is appointed to conduct and supervise the election of the first members and he or she may do anything that is reasonably required for that purpose.  O. Reg. 69/03, s. 1. Schedule All that parcel or tract of land in the geographic Townships of Marks, Lybster, Strange, Hardwick and Lismore in the Territorial District of Thunder Bay, being composed of those parts of the said geographic townships designated as Parts 1 and 2 on a plan known as Plan of the Local Services Board of Nolalu filed on July 22, 2016, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources and Forestry. O. Reg. 103/17, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>39. </b>(1) A local services board is established under the name “The Local Services Board of Nolalu”.  O. Reg. 69/03, s. 1.</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 69/03, s. 1.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  O. Reg. 69/03, s. 1.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2 and 6 of the Schedule to the Act.  O. Reg. 69/03, s. 1.</p> <p class=\"subsection-e\">  (5) The election of the members of the Board shall be held no later than April 30, 2003 and the first members shall hold office until no later than September 30, 2003 if a new Board is elected by that date or until the Board is elected if a new Board has not been elected by that date.  O. Reg. 69/03, s. 1.</p> <p class=\"subsection-e\">  (6) The Northern Development Officer for Atikokan is appointed to conduct and supervise the election of the first members and he or she may do anything that is reasonably required for that purpose.  O. Reg. 69/03, s. 1.</p> <p class=\"headingx-e\">Schedule</p> <p class=\"parawtab-e\">All that parcel or tract of land in the geographic Townships of Marks, Lybster, Strange, Hardwick and Lismore in the Territorial District of Thunder Bay, being composed of those parts of the said geographic townships designated as Parts 1 and 2 on a plan known as Plan of the Local Services Board of Nolalu filed on July 22, 2016, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources and Forestry.</p> <p class=\"footnote-e\">O. Reg. 103/17, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#40.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 40. Revoked:  O. Reg. 372/96, s. 8. Peace Tree",
+            "raw_html": "<p class=\"section-e\"> <b>40. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 372/96, s. 8.</p> <p class=\"heading1-e\"><a name=\"BK29\"></a>Peace Tree</p>"
+        },
+        {
+            "ahref_id": "#41.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 41. (1) The Local Services Board known as “The Local Services Board of Peace Tree” is continued.  R.R.O. 1990, Reg. 737, s. 41 (1). (2) The boundaries of the Board area are those tracts of land in the geographic Township of Aweres in the District of Algoma, being composed of part of the northwest quarter, Section 20, in the geographic Township of Aweres as shown on Registered Plan M-369.  R.R.O. 1990, Reg. 737, s. 41 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 41 (3). (4) The Board may exercise the powers set out in paragraphs 1 to 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 41 (4). Pellatt, Pelican, Umbach, Gidley",
+            "raw_html": "<p class=\"section-e\"> <b>41. </b>(1) The Local Services Board known as “The Local Services Board of Peace Tree” is continued.  R.R.O. 1990, Reg. 737, s. 41 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those tracts of land in the geographic Township of Aweres in the District of Algoma, being composed of part of the northwest quarter, Section 20, in the geographic Township of Aweres as shown on Registered Plan M-369.  R.R.O. 1990, Reg. 737, s. 41 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 41 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1 to 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 41 (4).</p> <p class=\"heading1-e\"><a name=\"BK30\"></a>Pellatt, Pelican, Umbach, Gidley</p>"
+        },
+        {
+            "ahref_id": "#42.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 42. (1) A Local Services Board is established under the name “The Local Services Board of Pellatt, Pelican, Umbach, Gidley”. O. Reg. 299/12, s. 1. (2) The boundaries of the Board area are those described in the Schedule. O. Reg. 299/12, s. 1. (3) The Board shall be composed of five members. O. Reg. 299/12, s. 1. (4) The Board may exercise the powers set out in paragraphs 2, 6 and 9 of the Schedule to the Act. O. Reg. 329/16, s. 1; O. Reg. 348/23, s. 1. Schedule All those tracts of land in the geographic Townships of Pellatt, Pelican, Umbach and Gidley, in the Territorial District of Kenora, being composed of those parts of the geographic townships designated as Parts 1, 2 and 3 on a plan known as The Local Services Board of Pellatt, Pelican, Umbach, Gidley, filed on October 13, 2010, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources. O. Reg. 299/12, s. 1. Rainbow",
+            "raw_html": "<p class=\"section-e\"> <b>42. </b>(1) A Local Services Board is established under the name “The Local Services Board of Pellatt, Pelican, Umbach, Gidley”. O. Reg. 299/12, s. 1.</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule. O. Reg. 299/12, s. 1.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members. O. Reg. 299/12, s. 1.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 6 and 9 of the Schedule to the Act. O. Reg. 329/16, s. 1; O. Reg. 348/23, s. 1.</p> <p class=\"headingx-e\">Schedule</p> <p class=\"parawtab-e\">  All those tracts of land in the geographic Townships of Pellatt, Pelican, Umbach and Gidley, in the Territorial District of Kenora, being composed of those parts of the geographic townships designated as Parts 1, 2 and 3 on a plan known as The Local Services Board of Pellatt, Pelican, Umbach, Gidley, filed on October 13, 2010, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources. </p> <p class=\"footnote-e\">O. Reg. 299/12, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK31\"></a>Rainbow</p>"
+        },
+        {
+            "ahref_id": "#42.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 42.1 (1) A Local Services Board is established under the name “The Local Services Board of Rainbow Country”.  O. Reg. 73/97, s. 1. (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 73/97, s. 1. (3) The Board shall be composed of five members.  O. Reg. 73/97, s. 1. (4) The Board may exercise the powers set out in paragraphs 1 to 6, 8 and 9 of the Schedule to the Act.  O. Reg. 421/08, s. 2. (5) The following persons are the first members of the Board and shall hold office from October 1, 1996 to September 30, 1997 or until a new Board is elected: 1. Ron Botan 2. Gary Clackett 3. John Gallinger 4. Helen Wojcik 5. Gary Wright O. Reg. 73/97, s. 1. (6) The Local Services Board of McGregor/Bay of Islands and The Local Services Board of Willisville and Whitefish Falls and their respective Board areas are dissolved under subsection 32 (2) of the Act.  O. Reg. 73/97, s. 1. (7) The assets and liabilities of the Boards specified in subsection (6) shall be vested in and assumed by The Local Services Board of Rainbow Country.  O. Reg. 73/97, s. 1. (8) The records and files of the Boards specified in subsection (6) shall be kept by The Local Services Board of Rainbow Country for at least five years from the date of this order.  O. Reg. 73/97, s. 1. Schedule FIRSTLY:  All that tract of land in the geographic Townships of Mongowin, Curtin and Merritt, in the Territorial District of Sudbury, described as follows: Commencing at the northeast corner of the geographic Township of Curtin; Thence southerly along the east boundary of the said geographic Township of Curtin to the southeast corner thereof; Thence westerly along the south boundary of the said geographic Township of Curtin to the waters edge of Iroquois Bay of McGregor Bay; Thence in a general westerly, northerly, easterly, northerly and westerly direction following the said waters edge to the southeast corner of Lot 8, of the subdivision of the surrendered portion of the Whitefish River Indian Reserve No. 4; Thence south astronomically across Iroquois Bay to the north limit of Whitefish River Indian Reserve No. 4; Thence south 87° 30' west along the said north limit 1207 metres, more or less, to the most northwest corner of the said Indian Reserve; Thence south astronomically along a part of the west limit of the said Indian Reserve 1870.86 metres, more or less; Thence west astronomically along a part of the northerly limit of said Indian Reserve 2212.85 metres, more or less, to the waters edge of north channel of Lake Huron; Thence in a general westerly, northerly, easterly, northerly and westerly direction following the said waters edge to the west boundary of the geographic Township of Mongowin; Thence northerly along the said west boundary to the northwest corner of the geographic Township of Mongowin; Thence easterly along the north boundary of the geographic Township of Mongowin to the southwest corner of Lot 7, Concession I in the geographic Township of Merritt; Thence northerly along the west limits of Lots 7, Concessions I and II to the southwest corner of Lot 7, Concession III; Thence northerly along the west limit of Lot 7, Concession III and its prolongation across Apsey Lake and continuing along the said westerly limit to the intersection with the waters edge on the southerly shore of Clear Lake; Thence easterly along the said waters edge to the intersection with the northerly limit of the said Concession III; Thence easterly along the said northerly limit to the intersection with the easterly boundary of the geographic Township of Merritt; Thence southerly along the said easterly boundary to the southerly limit of the said geographic township being also the north boundary of the geographic Township of Mongowin; Thence easterly along the north boundary of the geographic Townships of Mongowin and Curtin to the point of commencement; Saving and excepting thereout and therefrom lots 4, 5, 6, 8, 9, 10, 11, 12, 14, 15, 16, 17, 21, 22, 23, 29, 32 and 39 as shown on plan of the Surrender Portion of the Whitefish River Indian Reserve by T.J. Patten, Ontario Land Surveyor, dated March 14, 1921. SECONDLY:  All that tract of land in the Territorial District of Manitoulin and Province of Ontario described as follows: PARCEL 1:  That part of the Bay of Islands in the North Channel of Lake Huron in that territorial district, adjoining the southerly boundary of the Townships of McKinnon, Mongowin and Curtin in the Territorial District of Sudbury; Commencing at the intersection of the meridian of Longitude 81° 53' West with the waters edge of the northerly shore of the Bay; Thence in a general easterly direction along that waters edge being the southerly shore of the said townships to its intersection with the limit between the Townships of Mongowin and Curtin; Thence along that waters edge in a general easterly, southerly and westerly direction across the mouth of the Whitefish River and around the waters edge along the shore of Moose Point, Haystack Harbour and continuing along the waters edge of Birch Island and the westerly shore of the La Cloche Peninsula to its intersection with the Parallel of Latitude 46° 03' North on the easterly shore of the La Cloche Channel; Thence west astronomically to the waters edge along the easterly shore of Great La Cloche Island at the point of land on the northerly side of Jumbo Bay; Thence northerly, easterly and southerly along the waters edge on the northerly shore of Great La Cloche Island and the shore of Sturgeon Bay to its intersection with the meridian of Longitude West; Thence north astronomically along that meridian to the point of commencement. PARCEL 2:  That part of Iroquois Bay, McGregor Bay, Baie Fine and Frazer Bay of the North Channel of Lake Huron and adjoining the southerly and westerly boundaries of the Townships of Curtin and Killarney; Commencing at a point on the waters edge of the North Channel of Lake Huron at the intersection with the westerly boundary of Killarney Provincial Park as regulated; Thence easterly, southerly and westerly along the waters edge of the North Channel, the East Channel, McGregor Bay and Baie Fine to a point on the southerly shore of Baie Fine at the northeast corner of Summer Resort Location AE 283; Thence South 28° West astronomically, along the easterly limit of that Location to a point on the waters edge on the northerly shore of Frazer Bay being the southeast corner of that Location; Thence easterly, southerly and westerly following the waters edge along the northerly, easterly and southerly shores of Frazer Bay to its intersection with the Parallel of Latitude 45° 59' North; Thence west astronomically along that Parallel to a point at the waters edge on the west shore of Little La Cloche Island in the proximity of Dinner Point; Thence northerly, southerly, westerly and easterly following the waters edge along the shore of Little La Cloche Island to a point at the entrance to the Boat Passage; Thence in a straight line across the mouth of the Boat Passage to a point at the waters edge on the easterly shore of the La Cloche Peninsula; Thence northerly, westerly and easterly continuing along the waters edge on the easterly shore of the La Cloche Peninsula being the westerly shore of McGregor Bay to its intersection with the northerly limit of the District of Manitoulin; Thence easterly along that northerly limit across the waters of Iroquois Bay to its intersection with the waters edge on the northerly shore of the North Channel; Thence continuing along the waters edge of the North Channel to the point of commencement. O. Reg. 73/97, s. 1. Redbridge",
+            "raw_html": "<p class=\"section-e\"> <b>42.1 </b>(1) A Local Services Board is established under the name “The Local Services Board of Rainbow Country”.  O. Reg. 73/97, s. 1.</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 73/97, s. 1.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  O. Reg. 73/97, s. 1.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1 to 6, 8 and 9 of the Schedule to the Act.  O. Reg. 421/08, s. 2.</p> <p class=\"subsection-e\">  (5) The following persons are the first members of the Board and shall hold office from October 1, 1996 to September 30, 1997 or until a new Board is elected:</p> <p class=\"paragraph-e\">  1. Ron Botan</p> <p class=\"paragraph-e\">  2. Gary Clackett</p> <p class=\"paragraph-e\">  3. John Gallinger</p> <p class=\"paragraph-e\">  4. Helen Wojcik</p> <p class=\"paragraph-e\">  5. Gary Wright </p> <p class=\"footnote-e\">O. Reg. 73/97, s. 1.</p> <p class=\"subsection-e\">  (6) The Local Services Board of McGregor/Bay of Islands and The Local Services Board of Willisville and Whitefish Falls and their respective Board areas are dissolved under subsection 32 (2) of the Act.  O. Reg. 73/97, s. 1.</p> <p class=\"subsection-e\">  (7) The assets and liabilities of the Boards specified in subsection (6) shall be vested in and assumed by The Local Services Board of Rainbow Country.  O. Reg. 73/97, s. 1.</p> <p class=\"subsection-e\">  (8) The records and files of the Boards specified in subsection (6) shall be kept by The Local Services Board of Rainbow Country for at least five years from the date of this order.  O. Reg. 73/97, s. 1.</p> <p class=\"headingx-e\">Schedule</p> <p class=\"paranoindt-e\"> <span class=\"ovallcaps\">FIRSTLY</span>:  All that tract of land in the geographic Townships of Mongowin, Curtin and Merritt, in the Territorial District of Sudbury, described as follows:</p> <p class=\"parawindt-e\">Commencing at the northeast corner of the geographic Township of Curtin;</p> <p class=\"parawindt-e\">Thence southerly along the east boundary of the said geographic Township of Curtin to the southeast corner thereof;</p> <p class=\"parawindt-e\">Thence westerly along the south boundary of the said geographic Township of Curtin to the waters edge of Iroquois Bay of McGregor Bay;</p> <p class=\"parawindt-e\">Thence in a general westerly, northerly, easterly, northerly and westerly direction following the said waters edge to the southeast corner of Lot 8, of the subdivision of the surrendered portion of the Whitefish River Indian Reserve No. 4;</p> <p class=\"parawindt-e\">Thence south astronomically across Iroquois Bay to the north limit of Whitefish River Indian Reserve No. 4;</p> <p class=\"parawindt-e\">Thence south 87° 30' west along the said north limit 1207 metres, more or less, to the most northwest corner of the said Indian Reserve;</p> <p class=\"parawindt-e\">Thence south astronomically along a part of the west limit of the said Indian Reserve 1870.86 metres, more or less;</p> <p class=\"parawindt-e\">Thence west astronomically along a part of the northerly limit of said Indian Reserve 2212.85 metres, more or less, to the waters edge of north channel of Lake Huron;</p> <p class=\"parawindt-e\">Thence in a general westerly, northerly, easterly, northerly and westerly direction following the said waters edge to the west boundary of the geographic Township of Mongowin;</p> <p class=\"parawindt-e\">Thence northerly along the said west boundary to the northwest corner of the geographic Township of Mongowin;</p> <p class=\"parawindt-e\">Thence easterly along the north boundary of the geographic Township of Mongowin to the southwest corner of Lot 7, Concession I in the geographic Township of Merritt;</p> <p class=\"parawindt-e\">Thence northerly along the west limits of Lots 7, Concessions I and II to the southwest corner of Lot 7, Concession III;</p> <p class=\"parawindt-e\">Thence northerly along the west limit of Lot 7, Concession III and its prolongation across Apsey Lake and continuing along the said westerly limit to the intersection with the waters edge on the southerly shore of Clear Lake;</p> <p class=\"parawindt-e\">Thence easterly along the said waters edge to the intersection with the northerly limit of the said Concession III;</p> <p class=\"parawindt-e\">Thence easterly along the said northerly limit to the intersection with the easterly boundary of the geographic Township of Merritt;</p> <p class=\"parawindt-e\">Thence southerly along the said easterly boundary to the southerly limit of the said geographic township being also the north boundary of the geographic Township of Mongowin;</p> <p class=\"parawindt-e\">Thence easterly along the north boundary of the geographic Townships of Mongowin and Curtin to the point of commencement;</p> <p class=\"parawindt-e\">Saving and excepting thereout and therefrom lots 4, 5, 6, 8, 9, 10, 11, 12, 14, 15, 16, 17, 21, 22, 23, 29, 32 and 39 as shown on plan of the Surrender Portion of the Whitefish River Indian Reserve by T.J. Patten, Ontario Land Surveyor, dated March 14, 1921.</p> <p class=\"paranoindt-e\"> <span class=\"ovallcaps\">SECONDLY</span>:  All that tract of land in the Territorial District of Manitoulin and Province of Ontario described as follows:</p> <p class=\"paranoindt-e\"> <span class=\"ovallcaps\">PARCEL</span> 1:  That part of the Bay of Islands in the North Channel of Lake Huron in that territorial district, adjoining the southerly boundary of the Townships of McKinnon, Mongowin and Curtin in the Territorial District of Sudbury;</p> <p class=\"parawindt-e\">Commencing at the intersection of the meridian of Longitude 81° 53' West with the waters edge of the northerly shore of the Bay;</p> <p class=\"parawindt-e\">Thence in a general easterly direction along that waters edge being the southerly shore of the said townships to its intersection with the limit between the Townships of Mongowin and Curtin;</p> <p class=\"parawindt-e\">Thence along that waters edge in a general easterly, southerly and westerly direction across the mouth of the Whitefish River and around the waters edge along the shore of Moose Point, Haystack Harbour and continuing along the waters edge of Birch Island and the westerly shore of the La Cloche Peninsula to its intersection with the Parallel of Latitude 46° 03' North on the easterly shore of the La Cloche Channel; </p> <p class=\"parawindt-e\">Thence west astronomically to the waters edge along the easterly shore of Great La Cloche Island at the point of land on the northerly side of Jumbo Bay; </p> <p class=\"parawindt-e\">Thence northerly, easterly and southerly along the waters edge on the northerly shore of Great La Cloche Island and the shore of Sturgeon Bay to its intersection with the meridian of Longitude West;</p> <p class=\"parawindt-e\">Thence north astronomically along that meridian to the point of commencement.</p> <p class=\"paranoindt-e\"> <span class=\"ovallcaps\">PARCEL</span> 2:  That part of Iroquois Bay, McGregor Bay, Baie Fine and Frazer Bay of the North Channel of Lake Huron and adjoining the southerly and westerly boundaries of the Townships of Curtin and Killarney;</p> <p class=\"parawindt-e\">Commencing at a point on the waters edge of the North Channel of Lake Huron at the intersection with the westerly boundary of Killarney Provincial Park as regulated;</p> <p class=\"parawindt-e\">Thence easterly, southerly and westerly along the waters edge of the North Channel, the East Channel, McGregor Bay and Baie Fine to a point on the southerly shore of Baie Fine at the northeast corner of Summer Resort Location AE 283;</p> <p class=\"parawindt-e\">Thence South 28° West astronomically, along the easterly limit of that Location to a point on the waters edge on the northerly shore of Frazer Bay being the southeast corner of that Location;</p> <p class=\"parawindt-e\">Thence easterly, southerly and westerly following the waters edge along the northerly, easterly and southerly shores of Frazer Bay to its intersection with the Parallel of Latitude 45° 59' North; </p> <p class=\"parawindt-e\">Thence west astronomically along that Parallel to a point at the waters edge on the west shore of Little La Cloche Island in the proximity of Dinner Point;</p> <p class=\"parawindt-e\">Thence northerly, southerly, westerly and easterly following the waters edge along the shore of Little La Cloche Island to a point at the entrance to the Boat Passage;</p> <p class=\"parawindt-e\">Thence in a straight line across the mouth of the Boat Passage to a point at the waters edge on the easterly shore of the La Cloche Peninsula;</p> <p class=\"parawindt-e\">Thence northerly, westerly and easterly continuing along the waters edge on the easterly shore of the La Cloche Peninsula being the westerly shore of McGregor Bay to its intersection with the northerly limit of the District of Manitoulin;</p> <p class=\"parawindt-e\">Thence easterly along that northerly limit across the waters of Iroquois Bay to its intersection with the waters edge on the northerly shore of the North Channel;</p> <p class=\"parawindt-e\">Thence continuing along the waters edge of the North Channel to the point of commencement.</p> <p class=\"footnote-e\">O. Reg. 73/97, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK32\"></a>Redbridge</p>"
+        },
+        {
+            "ahref_id": "#43.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 43. (1) The Local Services Board known as “The Local Services Board of Redbridge” is continued.  R.R.O. 1990, Reg. 737, s. 43 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 674/88.  R.R.O. 1990, Reg. 737, s. 43 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 43 (3). (4) The Board may exercise the powers set out in paragraphs 2, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 399/06, s. 1. Redditt",
+            "raw_html": "<p class=\"section-e\"> <b>43. </b>(1) The Local Services Board known as “The Local Services Board of Redbridge” is continued.  R.R.O. 1990, Reg. 737, s. 43 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 674/88.  R.R.O. 1990, Reg. 737, s. 43 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 43 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 399/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK33\"></a>Redditt</p>"
+        },
+        {
+            "ahref_id": "#44.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 44. (1) The Local Services Board known as “The Local Services Board of Redditt” is continued.  R.R.O. 1990, Reg. 737, s. 44 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 796/81.  R.R.O. 1990, Reg. 737, s. 44 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 44 (3). (4) The Board may exercise the powers set out in paragraphs 1, 2 and 6 of the Schedule to the Act.  O. Reg. 421/08, s. 3. Restoule",
+            "raw_html": "<p class=\"section-e\"> <b>44. </b>(1) The Local Services Board known as “The Local Services Board of Redditt” is continued.  R.R.O. 1990, Reg. 737, s. 44 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 796/81.  R.R.O. 1990, Reg. 737, s. 44 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 44 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1, 2 and 6 of the Schedule to the Act.  O. Reg. 421/08, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK34\"></a>Restoule</p>"
+        },
+        {
+            "ahref_id": "#45.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 45. (1) The Local Services Board known as “The Local Services Board of Restoule” is continued.  R.R.O. 1990, Reg. 737, s. 45 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 633/81 as that Schedule read on the 31st day of December, 1990.  R.R.O. 1990, Reg. 737, s. 45 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 45 (3). (4) The Board may exercise the powers set out in paragraphs 2, 4, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 663/05, s. 2. Robinson",
+            "raw_html": "<p class=\"section-e\"> <b>45. </b>(1) The Local Services Board known as “The Local Services Board of Restoule” is continued.  R.R.O. 1990, Reg. 737, s. 45 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 633/81 as that Schedule read on the 31st day of December, 1990.  R.R.O. 1990, Reg. 737, s. 45 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 45 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 4, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 663/05, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK35\"></a>Robinson</p>"
+        },
+        {
+            "ahref_id": "#46.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 46. (1) The Local Services Board known as “The Local Services Board of Robinson” is continued.  R.R.O. 1990, Reg. 737, s. 46 (1). (2) The boundaries of the Board area are all of Robinson Township, except the Indian Reserves known as 19A and 20 and all the land north of the Indian Reserve 20 and all islands off the coast of Robinson Township.  R.R.O. 1990, Reg. 737, s. 46 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 46 (3). (4) The Board may exercise the powers set out in paragraphs 2, 3, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 10. Rossport",
+            "raw_html": "<p class=\"section-e\"> <b>46. </b>(1) The Local Services Board known as “The Local Services Board of Robinson” is continued.  R.R.O. 1990, Reg. 737, s. 46 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are all of Robinson Township, except the Indian Reserves known as 19A and 20 and all the land north of the Indian Reserve 20 and all islands off the coast of Robinson Township.  R.R.O. 1990, Reg. 737, s. 46 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 46 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 3, 5, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 10.</p> <p class=\"heading1-e\"><a name=\"BK36\"></a>Rossport</p>"
+        },
+        {
+            "ahref_id": "#47.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 47. (1) The Local Services Board known as “The Local Services Board of Rossport” is continued.  R.R.O. 1990, Reg. 737, s. 47 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 782/82.  R.R.O. 1990, Reg. 737, s. 47 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 47 (3). (4) The Board may exercise the powers set out in paragraphs 1, 2, 6 and 9 of the Schedule to the Act.  O. Reg. 470/06, s. 1. Round Lake",
+            "raw_html": "<p class=\"section-e\"> <b>47. </b>(1) The Local Services Board known as “The Local Services Board of Rossport” is continued.  R.R.O. 1990, Reg. 737, s. 47 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 782/82.  R.R.O. 1990, Reg. 737, s. 47 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 47 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1, 2, 6 and 9 of the Schedule to the Act.  O. Reg. 470/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK37\"></a>Round Lake</p>"
+        },
+        {
+            "ahref_id": "#47.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 47.1 (1) A Local Services Board is established under the name “The Local Services Board of Round Lake and Area”.  O. Reg. 268/91, s. 1. (2) The boundaries of the Board area are those described in the Schedule to this section.  O. Reg. 268/91, s. 1. (3) The Board shall be composed of five members.  O. Reg. 268/91, s. 1. (4) The Board may exercise the powers set out in paragraphs 2 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 11. (5) The election of the first members of the Board shall be held in the community of Round Lake and Area on the 18th day of June, 1991 and the members so elected shall hold office from the 18th day of June, 1991 to the 30th day of September, 1992 and until a new Board is elected.  O. Reg. 268/91, s. 1. (6) Mr. Fernand Poupart Jr., Northern Development Officer, is appointed to conduct and supervise that election, and he may implement or carry out any other act or thing that is reasonably required for that purpose.  O. Reg. 268/91, s. 1. Schedule All that parcel or tract of land in the geographic Townships of Boston, Marquis, Otto and Pacaud in the Territorial District of Timiskaming, being composed of those parts of the said geographic townships designated as Parts 1 to 5 on a plan known as Plan of the Local Services Board of Round Lake and Area filed on September 12, 2017, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources and Forestry. O. Reg. 115/18, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>47.1 </b>(1) A Local Services Board is established under the name “The Local Services Board of Round Lake and Area”.  O. Reg. 268/91, s. 1.</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to this section.  O. Reg. 268/91, s. 1.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  O. Reg. 268/91, s. 1.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 11.</p> <p class=\"subsection-e\">  (5) The election of the first members of the Board shall be held in the community of Round Lake and Area on the 18th day of June, 1991 and the members so elected shall hold office from the 18th day of June, 1991 to the 30th day of September, 1992 and until a new Board is elected.  O. Reg. 268/91, s. 1.</p> <p class=\"subsection-e\">  (6) Mr. Fernand Poupart Jr., Northern Development Officer, is appointed to conduct and supervise that election, and he may implement or carry out any other act or thing that is reasonably required for that purpose.  O. Reg. 268/91, s. 1.</p> <p class=\"headingx-e\">Schedule</p> <p class=\"parawindt-e\">All that parcel or tract of land in the geographic Townships of Boston, Marquis, Otto and Pacaud in the Territorial District of Timiskaming, being composed of those parts of the said geographic townships designated as Parts 1 to 5 on a plan known as Plan of the Local Services Board of Round Lake and Area filed on September 12, 2017, with the Office of the Surveyor General of Ontario in the Ministry of Natural Resources and Forestry.</p> <p class=\"footnote-e\">O. Reg. 115/18, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#48.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 48. Revoked:  O. Reg. 7/12, s. 1. Savard",
+            "raw_html": "<p class=\"section-e\"> <b>48. </b><span class=\"ovsmallcap\">Revoked</span><span class=\"section-eChar\">:  O. Reg. 7/12, s.</span> 1.</p> <p class=\"heading1-e\"><a name=\"BK38\"></a>Savard</p>"
+        },
+        {
+            "ahref_id": "#49.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 49. (1) The Local Services Board known as “The Local Services Board of Savard and Area” is continued.  R.R.O. 1990, Reg. 737, s. 49 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 528/83.  R.R.O. 1990, Reg. 737, s. 49 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 49 (3). (4) The Board may exercise the powers set out in paragraphs 2, 4 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 12. Searchmont",
+            "raw_html": "<p class=\"section-e\"> <b>49. </b>(1) The Local Services Board known as “The Local Services Board of Savard and Area” is continued.  R.R.O. 1990, Reg. 737, s. 49 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 528/83.  R.R.O. 1990, Reg. 737, s. 49 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 49 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 4 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 12.</p> <p class=\"heading1-e\"><a name=\"BK39\"></a>Searchmont</p>"
+        },
+        {
+            "ahref_id": "#50.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 50. (1) The Local Services Board known as “The Local Services Board of Searchmont and Area” is continued.  R.R.O. 1990, Reg. 737, s. 50 (1). (2) The boundaries of the Board area are all land in the Territorial District of Algoma, being composed of the Townships of Deroche, Gaudette, Hodgins and Shields.  R.R.O. 1990, Reg. 737, s. 50 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 50 (3). (4) The Board may exercise the powers set out in paragraphs 2, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 281/10, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>50. </b>(1) The Local Services Board known as “The Local Services Board of Searchmont and Area” is continued.  R.R.O. 1990, Reg. 737, s. 50 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are all land in the Territorial District of Algoma, being composed of the Townships of Deroche, Gaudette, Hodgins and Shields.  R.R.O. 1990, Reg. 737, s. 50 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 50 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 6, 8 and 9 of the Schedule to the Act.  O. Reg. 281/10, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#51.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 51. Revoked:  O. Reg. 303/06, s. 1. Shebandowan",
+            "raw_html": "<p class=\"section-e\"> <b>51. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 303/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK40\"></a>Shebandowan</p>"
+        },
+        {
+            "ahref_id": "#52.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 52. (1) The Local Services Board known as “The Local Services Board of Shebandowan” is continued.  R.R.O. 1990, Reg. 737, s. 52 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 545/88.  R.R.O. 1990, Reg. 737, s. 52 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 52 (3). (4) The Board may exercise the powers set out in paragraphs 2 and 9 of the Schedule to the Act. O. Reg. 115/18, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>52. </b>(1) The Local Services Board known as “The Local Services Board of Shebandowan” is continued.  R.R.O. 1990, Reg. 737, s. 52 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 545/88.  R.R.O. 1990, Reg. 737, s. 52 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 52 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2 and 9 of the Schedule to the Act. O. Reg. 115/18, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#53.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 53. Revoked:  O. Reg. 108/08, s. 1. Thorne",
+            "raw_html": "<p class=\"section-e\"> <b>53. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 108/08, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK41\"></a>Thorne</p>"
+        },
+        {
+            "ahref_id": "#54.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 54. (1) The Local Services Board known as “The Local Services Board of Thorne” is continued.  R.R.O. 1990, Reg. 737, s. 54 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 58/82.  R.R.O. 1990, Reg. 737, s. 54 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 54 (3). (4) The Board may exercise the powers set out in paragraphs 1 to 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 54 (4). Tilden Lake",
+            "raw_html": "<p class=\"section-e\"> <b>54. </b>(1) The Local Services Board known as “The Local Services Board of Thorne” is continued.  R.R.O. 1990, Reg. 737, s. 54 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 58/82.  R.R.O. 1990, Reg. 737, s. 54 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 54 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1 to 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 54 (4).</p> <p class=\"heading1-e\"><a name=\"BK42\"></a>Tilden Lake</p>"
+        },
+        {
+            "ahref_id": "#55.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 55. (1) The Local Services Board known as “The Local Services Board of Tilden Lake” is continued.  R.R.O. 1990, Reg. 737, s. 55 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 686/88.  R.R.O. 1990, Reg. 737, s. 55 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 55 (3). (4) The Board may exercise the powers set out in paragraphs 2, 6 and 9 of the Schedule to the Act.  O. Reg. 399/06, s. 2. Upsala",
+            "raw_html": "<p class=\"section-e\"> <b>55. </b>(1) The Local Services Board known as “The Local Services Board of Tilden Lake” is continued.  R.R.O. 1990, Reg. 737, s. 55 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 686/88.  R.R.O. 1990, Reg. 737, s. 55 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 55 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 6 and 9 of the Schedule to the Act.  O. Reg. 399/06, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK43\"></a>Upsala</p>"
+        },
+        {
+            "ahref_id": "#55.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 55.1 (1) A Local Services Board is established under the name “The Local Services Board of Upsala”.  O. Reg. 148/93, s. 1. (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 148/93, s. 1. (3) The Board shall be composed of five members.  O. Reg. 148/93, s. 1. (4) The Board may exercise the powers set out in paragraphs 2, 6 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 13. (5) The election of the first members of the Board shall be held in the community of Upsala on the 15th day of March, 1993 and the members so elected shall hold office from the 15th day of March, 1993 to the 30th day of September, 1994 and until a new Board is elected.  O. Reg. 148/93, s. 1. (6) Serge Cossais, Northern Development Officer, is appointed to conduct the election of the first members of the Board and for that purpose has the general supervision of the election and the power to direct the manner of the election and to implement or to carry out any other act or thing that may be required for the effective undertaking of the election of the first members of the Board.  O. Reg. 148/93, s. 1. Schedule The parcel of land in the Townships of Inwood, Stedman and Upsala, in the Territorial District of Thunder Bay, and Province of Ontario, described as follows: Starting at the northeast corner of the Township of Upsala; Then southerly along the easterly boundary of the Township to the southeast corner, being also the northeast corner of the Township of Inwood; Then continuing southerly along the easterly boundary of the Township of Inwood to the intersection with the southerly limit of the pipeline easement as shown on a plan entered in the register for the Northern Ontario Pipeline Corporation, in the Land Registry Office at Thunder Bay, as Plan FW 13; Then northwesterly along the southerly limit of the pipeline easement to the intersection with the southerly limit of Inwood Provincial Park; Then westerly along the southerly limit of the provincial park, to the southwest corner; Then northerly along the westerly limit of the provincial park to the intersection with the southerly limit of the Township of Upsala; Then westerly along the southerly limit of the Township to the southwest corner; Then northerly along the westerly boundary of the Township to the intersection with the southerly limit of the pipeline easement as shown on a plan entered in the register for the Northern Ontario Pipeline Corporation, in the Land Registry Office at Thunder Bay, as Plan FW 19; Then westerly along the southerly limit of the pipeline easement to the intersection with the centre line of the Lac de Mille Lac Dam Road; Then northerly along the centre line of the road to the intersection with the centre line of the King’s Highway No. 17; Then north astronomically to the intersection with the northerly limit of the right-of-way of Canadian Pacific Railways; Then easterly along the northerly limit of the right-of-way of Canadian Pacific Railways to the intersection with the easterly boundary of the Township of Stedman, being also the westerly boundary of the Township of Upsala; Then northerly along the westerly boundary to the northwest corner of the Township of Upsala; Then easterly along the northerly boundary of the Township to the starting point. O. Reg. 927/93, s. 8. Wabigoon",
+            "raw_html": "<p class=\"section-e\"> <b>55.1 </b>(1) A Local Services Board is established under the name “The Local Services Board of Upsala”.  O. Reg. 148/93, s. 1.</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule.  O. Reg. 148/93, s. 1.</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  O. Reg. 148/93, s. 1.</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2, 6 and 9 of the Schedule to the Act.  O. Reg. 660/05, s. 13.</p> <p class=\"subsection-e\">  (5) The election of the first members of the Board shall be held in the community of Upsala on the 15th day of March, 1993 and the members so elected shall hold office from the 15th day of March, 1993 to the 30th day of September, 1994 and until a new Board is elected.  O. Reg. 148/93, s. 1.</p> <p class=\"subsection-e\">  (6) Serge Cossais, Northern Development Officer, is appointed to conduct the election of the first members of the Board and for that purpose has the general supervision of the election and the power to direct the manner of the election and to implement or to carry out any other act or thing that may be required for the effective undertaking of the election of the first members of the Board.  O. Reg. 148/93, s. 1.</p> <p class=\"headingx-e\">Schedule</p> <p class=\"parawtab-e\">  The parcel of land in the Townships of Inwood, Stedman and Upsala, in the Territorial District of Thunder Bay, and Province of Ontario, described as follows:</p> <p class=\"parawindt-e\">Starting at the northeast corner of the Township of Upsala;</p> <p class=\"parawindt-e\">Then southerly along the easterly boundary of the Township to the southeast corner, being also the northeast corner of the Township of Inwood;</p> <p class=\"parawindt-e\">Then continuing southerly along the easterly boundary of the Township of Inwood to the intersection with the southerly limit of the pipeline easement as shown on a plan entered in the register for the Northern Ontario Pipeline Corporation, in the Land Registry Office at Thunder Bay, as Plan FW 13;</p> <p class=\"parawindt-e\">Then northwesterly along the southerly limit of the pipeline easement to the intersection with the southerly limit of Inwood Provincial Park;</p> <p class=\"parawindt-e\">Then westerly along the southerly limit of the provincial park, to the southwest corner;</p> <p class=\"parawindt-e\">Then northerly along the westerly limit of the provincial park to the intersection with the southerly limit of the Township of Upsala;</p> <p class=\"parawindt-e\">Then westerly along the southerly limit of the Township to the southwest corner;</p> <p class=\"parawindt-e\">Then northerly along the westerly boundary of the Township to the intersection with the southerly limit of the pipeline easement as shown on a plan entered in the register for the Northern Ontario Pipeline Corporation, in the Land Registry Office at Thunder Bay, as Plan FW 19;</p> <p class=\"parawindt-e\">Then westerly along the southerly limit of the pipeline easement to the intersection with the centre line of the Lac de Mille Lac Dam Road;</p> <p class=\"parawindt-e\">Then northerly along the centre line of the road to the intersection with the centre line of the King’s Highway No. 17;</p> <p class=\"parawindt-e\">Then north astronomically to the intersection with the northerly limit of the right-of-way of Canadian Pacific Railways;</p> <p class=\"parawindt-e\">Then easterly along the northerly limit of the right-of-way of Canadian Pacific Railways to the intersection with the easterly boundary of the Township of Stedman, being also the westerly boundary of the Township of Upsala;</p> <p class=\"parawindt-e\">Then northerly along the westerly boundary to the northwest corner of the Township of Upsala;</p> <p class=\"parawindt-e\">Then easterly along the northerly boundary of the Township to the starting point.</p> <p class=\"footnote-e\">O. Reg. 927/93, s. 8.</p> <p class=\"heading1-e\"><a name=\"BK44\"></a>Wabigoon</p>"
+        },
+        {
+            "ahref_id": "#56.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 56. (1) The Local Services Board known as “The Local Services Board of Wabigoon” is continued.  R.R.O. 1990, Reg. 737, s. 56 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 7/81 as that Schedule read on the 31st day of December, 1990.  R.R.O. 1990, Reg. 737, s. 56 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 56 (3). (4) The Board may exercise the powers set out in paragraphs 1 to 6, 8 and 9 of the Schedule to the Act.  O. Reg. 3/07, s. 1. Wharncliffe and Kynoch",
+            "raw_html": "<p class=\"section-e\"> <b>56. </b>(1) The Local Services Board known as “The Local Services Board of Wabigoon” is continued.  R.R.O. 1990, Reg. 737, s. 56 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 7/81 as that Schedule read on the 31st day of December, 1990.  R.R.O. 1990, Reg. 737, s. 56 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 56 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 1 to 6, 8 and 9 of the Schedule to the Act.  O. Reg. 3/07, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK45\"></a>Wharncliffe and Kynoch</p>"
+        },
+        {
+            "ahref_id": "#57.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 57. (1) The Local Services Board known as “The Local Services Board of Wharncliffe and Kynoch” is continued.  R.R.O. 1990, Reg. 737, s. 57 (1). (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 672/88.  R.R.O. 1990, Reg. 737, s. 57 (2). (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 57 (3). (4) The Board may exercise the powers set out in paragraphs 2 and 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 57 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>57. </b>(1) The Local Services Board known as “The Local Services Board of Wharncliffe and Kynoch” is continued.  R.R.O. 1990, Reg. 737, s. 57 (1).</p> <p class=\"subsection-e\">  (2) The boundaries of the Board area are those described in the Schedule to Ontario Regulation 672/88.  R.R.O. 1990, Reg. 737, s. 57 (2).</p> <p class=\"subsection-e\">  (3) The Board shall be composed of five members.  R.R.O. 1990, Reg. 737, s. 57 (3).</p> <p class=\"subsection-e\">  (4) The Board may exercise the powers set out in paragraphs 2 and 6 of the Schedule to the Act.  R.R.O. 1990, Reg. 737, s. 57 (4).</p>"
+        },
+        {
+            "ahref_id": "#58.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 58. Revoked:  O. Reg. 73/97, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>58. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 73/97, s. 2.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/900737\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

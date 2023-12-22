@@ -1,0 +1,76 @@
+{
+    "act_info": {
+        "full_title": "Grain Corn Marketing Act, R.S.O. 1990, c. G.9",
+        "act_name_text": "Not Found",
+        "citation": "Grain Corn Marketing Act, R.S.O. 1990, c. G.9",
+        "url": "https://www.ontario.ca/laws/statute/90g09",
+        "date_scraped": "2023-12-21 13:19:05"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/statute/90g09/v2",
+            "valid_from": "December 15, 2009",
+            "valid_to": "January 31, 2010"
+        },
+        {
+            "a_href": "/laws/statute/90g09/v1",
+            "valid_from": "December 31, 1990",
+            "valid_to": "December 14, 2009"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [
+        {
+            "revoked_reg_a_href": "/laws/regulation/900539",
+            "revoked_reg_citation": "R.R.O. 1990, Reg. 539",
+            "revoked_reg_title": "LICENCE FEES"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definitions",
+            "content": "1. In this Act, “Association” means the Ontario Corn Producers’ Association; (“Association”) “buyer” means a person engaged in buying grain corn from producers of grain corn in Ontario; (“acheteur”) “licence” means a licence provided for under this Act; (“permis”) “Minister” means the Minister of Agriculture, Food and Rural Affairs; (“ministre”) “regulations” means the regulations made under this Act. (“règlements”) R.S.O. 1990, c. G.9, s. 1; 2009, c. 33, Sched. 1, s. 14 (1).",
+            "raw_html": "<p class=\"section-e\"><b>1.</b> In this Act,</p> <p class=\"firstdef-e\">“Association” means the Ontario Corn Producers’ Association; (“Association”)</p> <p class=\"definition-e\">“buyer” means a person engaged in buying grain corn from producers of grain corn in Ontario; (“acheteur”)</p> <p class=\"definition-e\">“licence” means a licence provided for under this Act; (“permis”)</p> <p class=\"definition-e\">“Minister” means the Minister of Agriculture, Food and Rural Affairs; (“ministre”)</p> <p class=\"definition-e\">“regulations” means the regulations made under this Act. (“règlements”) R.S.O. 1990, c. G.9, s. 1; 2009, c. 33, Sched. 1, s. 14 (1).</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Purpose and intent of Act",
+            "content": "2. (1) The purpose and intent of this Act is to provide for the financing of the Association so it may expend money to advance the production of corn in all its branches and improve the marketing of corn by, (a) encouraging and promoting improvement in all phases of corn production and marketing; (b) co-operating with government and agencies of government to improve the production and marketing of corn; (c) holding meetings for the consideration of questions relating to the corn industry; (d) co-operating with organizations of producers of agricultural products; (e) collecting, arranging, assembling and disseminating information; and (f) making representations to all levels of government and to agencies of government. R.S.O. 1990, c. G.9, s. 2 (1). Use of licence fees by Association (2) The Association may use licence fees paid to it under this Act for defraying the expenses of the Association in doing any thing referred to in subsection (1) and in carrying out its objects. R.S.O. 1990, c. G.9, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> (1) The purpose and intent of this Act is to provide for the financing of the Association so it may expend money to advance the production of corn in all its branches and improve the marketing of corn by,</p> <p class=\"clause-e\">(a) encouraging and promoting improvement in all phases of corn production and marketing;</p> <p class=\"clause-e\">(b) co-operating with government and agencies of government to improve the production and marketing of corn;</p> <p class=\"clause-e\">(c) holding meetings for the consideration of questions relating to the corn industry;</p> <p class=\"clause-e\">(d) co-operating with organizations of producers of agricultural products;</p> <p class=\"clause-e\">(e) collecting, arranging, assembling and disseminating information; and</p> <p class=\"clause-e\">(f) making representations to all levels of government and to agencies of government. R.S.O. 1990, c. G.9, s. 2 (1).</p> <p class=\"headnote-e\"><b>Use of licence fees by Association</b></p> <p class=\"subsection-e\">(2) The Association may use licence fees paid to it under this Act for defraying the expenses of the Association in doing any thing referred to in subsection (1) and in carrying out its objects. R.S.O. 1990, c. G.9, s. 2 (2).</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Licences",
+            "content": "3. (1) Except under the authority of a licence, no person shall sell grain corn to a buyer. R.S.O. 1990, c. G.9, s. 3 (1). Idem (2) Every person who sells grain corn to a buyer shall be deemed to be the holder of a licence, except when in default of payment of licence fees prescribed under this Act. R.S.O. 1990, c. G.9, s. 3 (2). Exception (3) Subsection (1) does not apply in respect of the sale of seed corn, sweet corn or popping corn. R.S.O. 1990, c. G.9, s. 3 (3).",
+            "raw_html": "<p class=\"section-e\"><b>3.</b> (1) Except under the authority of a licence, no person shall sell grain corn to a buyer. R.S.O. 1990, c. G.9, s. 3 (1).</p> <p class=\"headnote-e\"><b>Idem</b></p> <p class=\"subsection-e\">(2) Every person who sells grain corn to a buyer shall be deemed to be the holder of a licence, except when in default of payment of licence fees prescribed under this Act. R.S.O. 1990, c. G.9, s. 3 (2).</p> <p class=\"headnote-e\"><b>Exception</b></p> <p class=\"subsection-e\">(3) Subsection (1) does not apply in respect of the sale of seed corn, sweet corn or popping corn. R.S.O. 1990, c. G.9, s. 3 (3).</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Refund of licence fees",
+            "content": "4. (1) Every person who is the holder of a licence under section 3 may apply for a refund of any licence fees paid by the person to the Association under this Act. R.S.O. 1990, c. G.9, s. 4 (1). Idem (2) Every application for a refund shall be made in the manner and within the time prescribed by the regulations. R.S.O. 1990, c. G.9, s. 4 (2). Idem (3) Where the Association receives an application for a refund, it shall refund the licence fees in the manner prescribed in the regulations and in any case not later than six months after receipt of the application therefor. R.S.O. 1990, c. G.9, s. 4 (3). Producer-buyer (4) Any person who is a producer and a buyer is entitled in the person’s respective capacities as a producer and as a buyer to all the rights and privileges and is subject to all the duties and obligations of a producer and of a buyer. R.S.O. 1990, c. G.9, s. 4 (4). Idem (5) A person who is both a producer and a buyer shall be deemed to have received in the capacity of a buyer from himself, herself or itself in the capacity of a producer the grain corn produced by the person that the person buys, and to have contracted as a buyer with himself, herself or itself as a producer for the marketing thereof upon the condition that this Act and the regulations apply. R.S.O. 1990, c. G.9, s. 4 (5).",
+            "raw_html": "<p class=\"section-e\"><b>4.</b> (1) Every person who is the holder of a licence under section 3 may apply for a refund of any licence fees paid by the person to the Association under this Act. R.S.O. 1990, c. G.9, s. 4 (1).</p> <p class=\"headnote-e\"><b>Idem</b></p> <p class=\"subsection-e\">(2) Every application for a refund shall be made in the manner and within the time prescribed by the regulations. R.S.O. 1990, c. G.9, s. 4 (2).</p> <p class=\"headnote-e\"><b>Idem</b></p> <p class=\"subsection-e\">(3) Where the Association receives an application for a refund, it shall refund the licence fees in the manner prescribed in the regulations and in any case not later than six months after receipt of the application therefor. R.S.O. 1990, c. G.9, s. 4 (3).</p> <p class=\"headnote-e\"><b>Producer-buyer</b></p> <p class=\"subsection-e\">(4) Any person who is a producer and a buyer is entitled in the person’s respective capacities as a producer and as a buyer to all the rights and privileges and is subject to all the duties and obligations of a producer and of a buyer. R.S.O. 1990, c. G.9, s. 4 (4).</p> <p class=\"headnote-e\"><b>Idem</b></p> <p class=\"subsection-e\">(5) A person who is both a producer and a buyer shall be deemed to have received in the capacity of a buyer from himself, herself or itself in the capacity of a producer the grain corn produced by the person that the person buys, and to have contracted as a buyer with himself, herself or itself as a producer for the marketing thereof upon the condition that this Act and the regulations apply. R.S.O. 1990, c. G.9, s. 4 (5).</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Recommendation by directors of Association",
+            "content": "5. Where the board of directors of the Association is of the opinion that a majority of the members of the Association are in favour thereof, the board of directors may recommend through the Minister to the Lieutenant Governor in Council the making, amending or revoking of regulations respecting any of the matters set forth in section 6. R.S.O. 1990, c. G.9, s. 5.",
+            "raw_html": "<p class=\"section-e\"><b>5.</b> Where the board of directors of the Association is of the opinion that a majority of the members of the Association are in favour thereof, the board of directors may recommend through the Minister to the Lieutenant Governor in Council the making, amending or revoking of regulations respecting any of the matters set forth in section 6. R.S.O. 1990, c. G.9, s. 5.</p>"
+        },
+        {
+            "id": "6.",
+            "section": "Regulations",
+            "content": "6. (1) Despite section 5, the Lieutenant Governor in Council may make regulations, (a) fixing the amount of licence fees up to but not exceeding forty cents per tonne of any grain corn sold by a producer; (b) requiring persons to pay to the Association licence fees owing by them; (c) requiring any buyer who receives grain corn from a seller thereof to deduct, from the money payable to the seller, any licence fees payable by the seller to the Association, and to forward such licence fees to the Association; (d) providing for the recovery by the Association of licence fees by suit in any court of competent jurisdiction, and requiring persons engaged in buying or selling grain corn to account for licence fees payable to the Association; (e) prescribing the manner and the time within which applications for refund of licence fees shall be made and the manner in which refunds shall be made; (f) providing for the exemption from this Act or any or all of the regulations of any grain corn or class thereof or any person or class of persons; (g) prescribing forms and providing for their use. R.S.O. 1990, c. G.9, s. 6 (1). Scope of regulations (2) A regulation may be general or particular in its application. R.S.O. 1990, c. G.9, s. 6 (2).",
+            "raw_html": "<p class=\"section-e\"><b>6.</b> (1) Despite section 5, the Lieutenant Governor in Council may make regulations,</p> <p class=\"clause-e\">(a) fixing the amount of licence fees up to but not exceeding forty cents per tonne of any grain corn sold by a producer;</p> <p class=\"clause-e\">(b) requiring persons to pay to the Association licence fees owing by them;</p> <p class=\"clause-e\">(c) requiring any buyer who receives grain corn from a seller thereof to deduct, from the money payable to the seller, any licence fees payable by the seller to the Association, and to forward such licence fees to the Association;</p> <p class=\"clause-e\">(d) providing for the recovery by the Association of licence fees by suit in any court of competent jurisdiction, and requiring persons engaged in buying or selling grain corn to account for licence fees payable to the Association;</p> <p class=\"clause-e\">(e) prescribing the manner and the time within which applications for refund of licence fees shall be made and the manner in which refunds shall be made;</p> <p class=\"clause-e\">(f) providing for the exemption from this Act or any or all of the regulations of any grain corn or class thereof or any person or class of persons;</p> <p class=\"clause-e\">(g) prescribing forms and providing for their use. R.S.O. 1990, c. G.9, s. 6 (1).</p> <p class=\"headnote-e\"><b>Scope of regulations</b></p> <p class=\"subsection-e\">(2) A regulation may be general or particular in its application. R.S.O. 1990, c. G.9, s. 6 (2).</p>"
+        },
+        {
+            "id": "7.",
+            "section": "Offence",
+            "content": "7. Every person who contravenes any of the provisions of this Act or the regulations is guilty of an offence and on conviction is liable for a first offence to a fine of not more than $2,000 and for a subsequent offence to a fine of not more than $5,000. R.S.O. 1990, c. G.9, s. 7. ____________________ Français ",
+            "raw_html": "<p class=\"section-e\"><b>7.</b> Every person who contravenes any of the provisions of this Act or the regulations is guilty of an offence and on conviction is liable for a first offence to a fine of not more than $2,000 and for a subsequent offence to a fine of not more than $5,000. R.S.O. 1990, c. G.9, s. 7.</p> <p class=\"line-e\">____________________</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90g09_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90g09_f.htm\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

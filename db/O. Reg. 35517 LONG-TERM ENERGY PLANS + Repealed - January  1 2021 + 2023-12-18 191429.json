@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 355/17: LONG-TERM ENERGY PLANS",
+        "reg_name_text": "LONG-TERM ENERGY PLANS",
+        "citation": "O. Reg. 355/17: ",
+        "act_under": "Electricity Act, 1998",
+        "url": "https://www.ontario.ca/laws/regulation/170355",
+        "date_scraped": "2023-12-18 19:14:31"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/170355/v2",
+            "valid_from": "November  6, 2020",
+            "valid_to": "December 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/170355/v1",
+            "valid_from": "September  1, 2017",
+            "valid_to": "November  5, 2020"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Prescribed periods",
+            "content": "  1. For the purposes of subsection 25.29 (1) of the Act, the periods for the issuance of long-term energy plans are as follows: 1.  The first long-term energy plan shall be issued within three months after the day this Regulation comes into force. 2.  Each subsequent long-term energy plan shall be issued within three years of the approval by the Minister of all implementation plans submitted under section 25.31 of the Act in respect of the preceding long-term energy plan, or, within three years of the issuance of the preceding long-term energy plan if no implementation plans were required to be submitted in respect of it.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>For the purposes of subsection 25.29 (1) of the Act, the periods for the issuance of long-term energy plans are as follows:</p> <p class=\"paragraph-e\">  1.  The first long-term energy plan shall be issued within three months after the day this Regulation comes into force.</p> <p class=\"paragraph-e\">  2.  Each subsequent long-term energy plan shall be issued within three years of the approval by the Minister of all implementation plans submitted under section 25.31 of the Act in respect of the preceding long-term energy plan, or, within three years of the issuance of the preceding long-term energy plan if no implementation plans were required to be submitted in respect of it.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Prescribed periods",
+            "content": "  2. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"><b>  2. </b><span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation)</span>.</p>"
+        },
+        {
+            "id": null,
+            "section": "Prescribed periods",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/170355\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

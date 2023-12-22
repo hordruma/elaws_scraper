@@ -1,0 +1,764 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 135/98: ADMINISTRATION AND COST SHARING",
+        "reg_name_text": "ADMINISTRATION AND COST SHARING",
+        "citation": "O. Reg. 135/98: ",
+        "act_under": "Ontario Works Act, 1997",
+        "url": "https://www.ontario.ca/laws/regulation/980135",
+        "date_scraped": "2023-12-18 03:13:29"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "September  1, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v44",
+            "valid_from": "August 21, 2023",
+            "valid_to": "August 31, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v43",
+            "valid_from": "July 31, 2018",
+            "valid_to": "August 20, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v42",
+            "valid_from": "April 20, 2018",
+            "valid_to": "July 30, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v41",
+            "valid_from": "October  1, 2017",
+            "valid_to": "April 19, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v40",
+            "valid_from": "July 28, 2017",
+            "valid_to": "September 30, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v39",
+            "valid_from": "November 21, 2016",
+            "valid_to": "July 27, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v38",
+            "valid_from": "October  1, 2016",
+            "valid_to": "November 20, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v37",
+            "valid_from": "June 22, 2016",
+            "valid_to": "September 30, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v36",
+            "valid_from": "December 11, 2015",
+            "valid_to": "June 21, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v35",
+            "valid_from": "November  6, 2015",
+            "valid_to": "December 10, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v34",
+            "valid_from": "November  1, 2015",
+            "valid_to": "November  5, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v33",
+            "valid_from": "June 24, 2015",
+            "valid_to": "October 31, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v32",
+            "valid_from": "October  1, 2014",
+            "valid_to": "June 23, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v31",
+            "valid_from": "August 15, 2014",
+            "valid_to": "September 30, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v30",
+            "valid_from": "September  1, 2013",
+            "valid_to": "August 14, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v29",
+            "valid_from": "July 19, 2013",
+            "valid_to": "August 31, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v28",
+            "valid_from": "April  1, 2013",
+            "valid_to": "July 18, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v27",
+            "valid_from": "March 28, 2013",
+            "valid_to": "March 31, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v26",
+            "valid_from": "December  1, 2012",
+            "valid_to": "March 27, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v25",
+            "valid_from": "August  2, 2012",
+            "valid_to": "November 30, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v24",
+            "valid_from": "July 20, 2012",
+            "valid_to": "August  1, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v23",
+            "valid_from": "July  1, 2012",
+            "valid_to": "July 19, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v22",
+            "valid_from": "June  1, 2012",
+            "valid_to": "June 30, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v21",
+            "valid_from": "December  1, 2011",
+            "valid_to": "May 31, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v20",
+            "valid_from": "July 22, 2011",
+            "valid_to": "November 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v19",
+            "valid_from": "June 24, 2011",
+            "valid_to": "July 21, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v18",
+            "valid_from": "December  1, 2010",
+            "valid_to": "June 23, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v17",
+            "valid_from": "October  1, 2010",
+            "valid_to": "November 30, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v16",
+            "valid_from": "January  1, 2010",
+            "valid_to": "September 30, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v15",
+            "valid_from": "December  1, 2009",
+            "valid_to": "December 31, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v14",
+            "valid_from": "November  5, 2009",
+            "valid_to": "November 30, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v13",
+            "valid_from": "October  2, 2009",
+            "valid_to": "November  4, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v12",
+            "valid_from": "March 27, 2009",
+            "valid_to": "October  1, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v11",
+            "valid_from": "October 23, 2008",
+            "valid_to": "March 26, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v10",
+            "valid_from": "July  1, 2008",
+            "valid_to": "October 22, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v9",
+            "valid_from": "January  1, 2008",
+            "valid_to": "June 30, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v8",
+            "valid_from": "August 24, 2007",
+            "valid_to": "December 31, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v7",
+            "valid_from": "June 15, 2007",
+            "valid_to": "August 23, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v6",
+            "valid_from": "December 14, 2006",
+            "valid_to": "June 14, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v5",
+            "valid_from": "September 29, 2006",
+            "valid_to": "December 13, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v4",
+            "valid_from": "June  9, 2006",
+            "valid_to": "September 28, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v3",
+            "valid_from": "June 24, 2005",
+            "valid_to": "June  8, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v2",
+            "valid_from": "March 24, 2005",
+            "valid_to": "June 23, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/980135/v1",
+            "valid_from": "January  1, 2003",
+            "valid_to": "March 23, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Application and Interpretation",
+            "Section2": "0.1-1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "General",
+            "Section2": "2-5",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Emergency Hostel Services",
+            "Section2": "6",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Subsidies",
+            "Section2": "7-13",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Costs Prescribed for Cost Sharing Purposes",
+            "Section2": "13.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Agreements for Sharing of Costs by Municipalities",
+            "Section2": "13.2-13.2.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Arbitration Process",
+            "Section2": "13.3-13.8",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Accommodation for Appeals",
+            "Section2": "14-15",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#0.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 0.1 This Regulation does not apply in respect of a geographic area in which the Ministry is designated as the delivery agent for the period of that designation. O. Reg. 304/23, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>0.1</b> This Regulation does not apply in respect of a geographic area in which the Ministry is designated as the delivery agent for the period of that designation. O. Reg. 304/23, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. In this Regulation, “assistance costs” means the sum of, (a)  the cost of assistance provided under the Act, except, (i)  the cost of assistance under section 8 of this Regulation, and (ii)  the cost of employment assistance otherwise reimbursed or cost shared by Ontario, (b)  the cost of interim assistance under the Act or under a predecessor of it; (“coûts de l’aide”) “cost of administration” means the administrative costs, including the costs of staff training, incurred with respect to providing assistance under the Act, except for administrative costs otherwise reimbursed or cost shared by Ontario; (“coûts d’administration”) “designation date”, when used in connection with a geographic area or a proposed geographic area, means the first date on which a delivery agent is designated for the geographic area; (“date de désignation”) “geographic area” means an area designated as a geographic area for a designated delivery agent; (“zone géographique”) “Greater Toronto Area” means the territory that lies within the jurisdiction, as constituted from time to time, of The Regional Municipality of Durham, The Regional Municipality of Halton, The Regional Municipality of Peel, the City of Toronto and The Regional Municipality of York; (“grand Toronto”) “prescribed costs” means the costs set out in section 13.1; (“coûts prescrits”) “proposed geographic area” means an area designated as a geographic area for the purpose of preparing to designate a single delivery agent for it. (“zone géographique proposée”)  O. Reg. 135/98, s. 1; O. Reg. 274/98, s. 1; O. Reg. 548/98, s. 1; O. Reg. 12/02, s. 1. General",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Regulation,</p> <p class=\"firstdef-e\">“assistance costs” means the sum of,</p> <p class=\"defclause-e\">  (a)  the cost of assistance provided under the Act, except,</p> <p class=\"defsubclause-e\">  (i)  the cost of assistance under section 8 of this Regulation, and</p> <p class=\"defsubclause-e\">  (ii)  the cost of employment assistance otherwise reimbursed or cost shared by Ontario,</p> <p class=\"defclause-e\">  (b)  the cost of interim assistance under the Act or under a predecessor of it; (“coûts de l’aide”)</p> <p class=\"definition-e\">“cost of administration” means the administrative costs, including the costs of staff training, incurred with respect to providing assistance under the Act, except for administrative costs otherwise reimbursed or cost shared by Ontario; (“coûts d’administration”)</p> <p class=\"definition-e\">“designation date”, when used in connection with a geographic area or a proposed geographic area, means the first date on which a delivery agent is designated for the geographic area; (“date de désignation”)</p> <p class=\"definition-e\">“geographic area” means an area designated as a geographic area for a designated delivery agent; (“zone géographique”)</p> <p class=\"definition-e\">“Greater Toronto Area” means the territory that lies within the jurisdiction, as constituted from time to time, of The Regional Municipality of Durham, The Regional Municipality of Halton, The Regional Municipality of Peel, the City of Toronto and The Regional Municipality of York; (“grand Toronto”)</p> <p class=\"definition-e\">“prescribed costs” means the costs set out in section 13.1; (“coûts prescrits”)</p> <p class=\"definition-e\">“proposed geographic area” means an area designated as a geographic area for the purpose of preparing to designate a single delivery agent for it. (“zone géographique proposée”)  O. Reg. 135/98, s. 1; O. Reg. 274/98, s. 1; O. Reg. 548/98, s. 1; O. Reg. 12/02, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>General</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. (1) An administrator shall complete a monthly application for payment of a subsidy by Ontario with respect to assistance paid in a month and shall forward it to the Director before the 20th day of the month next following.  O. Reg. 135/98, s. 2 (1). (2) An administrator shall complete an annual application for payment of a subsidy by Ontario with respect to the cost of administration.  O. Reg. 135/98, s. 2 (2). (3) An administrator shall complete a quarterly report with respect to the costs referred to in subsection (2), if requested to do so by the Director.  O. Reg. 135/98, s. 2 (3). (4) An administrator shall complete a separate statement of account for each recipient to whom or on whose behalf assistance has been paid during each month and retain the statement in the administrator’s files.  O. Reg. 135/98, s. 2 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) An administrator shall complete a monthly application for payment of a subsidy by Ontario with respect to assistance paid in a month and shall forward it to the Director before the 20th day of the month next following.  O. Reg. 135/98, s. 2 (1).</p> <p class=\"subsection-e\">  (2) An administrator shall complete an annual application for payment of a subsidy by Ontario with respect to the cost of administration.  O. Reg. 135/98, s. 2 (2).</p> <p class=\"subsection-e\">  (3) An administrator shall complete a quarterly report with respect to the costs referred to in subsection (2), if requested to do so by the Director.  O. Reg. 135/98, s. 2 (3).</p> <p class=\"subsection-e\">  (4) An administrator shall complete a separate statement of account for each recipient to whom or on whose behalf assistance has been paid during each month and retain the statement in the administrator’s files.  O. Reg. 135/98, s. 2 (4).</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) The Director may, (a)  require an administrator to provide the Director with whatever information as to the contents of the information submitted under section 2 that the Director considers necessary; (b)  require an inspection and audit of the books and accounts of the delivery agent relating to the information submitted under section 2.  O. Reg. 135/98, s. 3 (1). (2) An administrator shall provide the Director with such information and evidence as the Director may require with respect to an applicant or recipient to determine whether or not the applicant or recipient is eligible for assistance.  O. Reg. 135/98, s. 3 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) The Director may,</p> <p class=\"clause-e\">  (a)  require an administrator to provide the Director with whatever information as to the contents of the information submitted under section 2 that the Director considers necessary; </p> <p class=\"clause-e\">  (b)  require an inspection and audit of the books and accounts of the delivery agent relating to the information submitted under section 2.  O. Reg. 135/98, s. 3 (1).</p> <p class=\"subsection-e\">  (2) An administrator shall provide the Director with such information and evidence as the Director may require with respect to an applicant or recipient to determine whether or not the applicant or recipient is eligible for assistance.  O. Reg. 135/98, s. 3 (2).</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. An administrator shall review at regular intervals the eligibility of recipients and the amount of assistance payable with respect to them.  O. Reg. 135/98, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>An administrator shall review at regular intervals the eligibility of recipients and the amount of assistance payable with respect to them.  O. Reg. 135/98, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. A person administering or enforcing the Act on behalf of a delivery agent shall not disclose the identity of a person who is eligible for or receives assistance to the head or a member of one of the following bodies without the prior approval of the Director: 1.  The council of a municipality, including a regional or district municipality. 2.  The council of a band. 3.  A district social services administration board.  O. Reg. 135/98, s. 5; O. Reg. 228/98, s. 1; O. Reg. 548/98, s. 2. Emergency Hostel Services",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>A person administering or enforcing the Act on behalf of a delivery agent shall not disclose the identity of a person who is eligible for or receives assistance to the head or a member of one of the following bodies without the prior approval of the Director:</p> <p class=\"paragraph-e\">  1.  The council of a municipality, including a regional or district municipality.</p> <p class=\"paragraph-e\">  2.  The council of a band.</p> <p class=\"paragraph-e\">  3.  A district social services administration board.  O. Reg. 135/98, s. 5; O. Reg. 228/98, s. 1; O. Reg. 548/98, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Emergency Hostel Services</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. A delivery agent may contract with a person or organization for the provision of emergency hostel services.  O. Reg. 135/98, s. 6. Subsidies",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>A delivery agent may contract with a person or organization for the provision of emergency hostel services.  O. Reg. 135/98, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Subsidies</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) Subject to subsections (2), (2.1) and (3), section 7.1, subsection 8.1 (1) and section 8.9, the subsidy payable by Ontario to a delivery agent shall be equal to the sum of, (a)  the following per cent of the assistance costs incurred by the delivery agent: (i)  For 2010, 80.6 per cent. (ii)  For 2011, 81.2 per cent. (iii)  For 2012, 82.8 per cent. (iv)  For 2013, 85.8 per cent. (v)  For 2014, 88.6 per cent. (vi)  For 2015, 91.4 per cent. (vii)  For 2016, 94.2 per cent. (viii)  For 2017, 97.2 per cent. (ix)  For 2018 and subsequent years, 100 per cent; (b)  if the delivery agent employs a full-time administrator, 50 per cent of the delivery agent’s reasonable cost of administration, as approved by the Director; and (c)  if the delivery agent does not employ a full-time administrator, 50 per cent of the delivery agent’s reasonable costs of staff training, as approved by the Director, that form part of the delivery agent’s cost of administration. Table Revoked: O. Reg. 379/16, s. 1 (2). O. Reg. 427/09, s. 1 (1); O. Reg. 380/10, s. 1; O. Reg. 302/11, s. 1; O. Reg. 206/12, s. 1; O. Reg. 228/12, s. 1 (1, 2); O. Reg. 223/13, s. 1; O. Reg. 165/14, s. 1; O. Reg. 178/15, s. 1; O. Reg. 229/16, s. 1; O. Reg. 379/16, s. 1 (1, 2); O. Reg. 283/17, s. 1; O. Reg. 280/18, s. 1. (1.1) Despite subsection (1), if the delivery agent is a band designated as a delivery agent under section 2 of Ontario Regulation 136/98 (Designation of Geographic Areas and Delivery Agents), made under the Act, the subsidy payable by Ontario under clause (1) (a) shall be 100 per cent of the assistance costs with respect to those assistance costs the band pays to or on behalf of a person who, (a)  is not a member of the band; and (b)  is otherwise eligible for assistance under the Act.  O. Reg. 120/09, s. 1. (1.2) Despite subsection (1), if the delivery agent is a delivery agent referred to in subsection 2.1 (2) or 2.2 (2) or section 2.3, 2.4, 2.5 or 2.6 of Ontario Regulation 136/98 (Designation of Geographic Areas and Delivery Agents), made under the Act, the subsidy payable by Ontario under clause (1) (a) shall be 100 per cent of the assistance costs with respect to those assistance costs the delivery agent pays to or on behalf of a person who, (a)  is not a member of one of the bands that are within the geographic area of the delivery agent; and (b)  is otherwise eligible for assistance under the Act.  O. Reg. 120/09, s. 1; O. Reg. 228/12, s. 1 (3); O. Reg. 325/15, s. 1 (1). (2) For the years 2007 to 2012, the apportioning of costs among Ontario and the delivery agents that are municipalities in the Greater Toronto Area listed in the following Table shall be determined by adjusting annually the amount determined under subsection (1) by the dollar amounts indicated for the delivery agent, as set out in the following Table: TABLE  Municipality   2007   2008   2009   2010   2011   2012 \n\n  Toronto   92,866,000   77,525,000   62,020,000   46,516,000   31,010,000   15,507,000 \n\n  Durham   1,912,000   1,457,000   1,166,000   875,000   583,000   292,000 \n\n  Halton   -20,557,000   -17,130,000   -13,704,000   -10,278,000   -6,852,000   -3,426,000 \n\n  Peel   -35,428,000   -29,523,000   -23,618,000   -17,714,000   -11,809,000   -5,904,000 \n\n  York   -39,683,000   -33,069,000   -26,455,000   -19,841,000   -13,227,000   -6,613,000 O. Reg. 478/07, s. 1 (1). (2.1) If a delivery agent’s geographic area includes territory without municipal organization, the subsidy payable by Ontario to the delivery agent shall be equal to the sum of, (a)  the following per cent of the assistance costs incurred by the delivery agent in respect of assistance provided in a municipality: (i)  For 2010, 80.6 per cent. (ii)  For 2011, 81.2 per cent. (iii)  For 2012, 82.8 per cent. (iv)  For 2013, 85.8 per cent. (v)  For 2014, 88.6 per cent. (vi)  For 2015, 91.4 per cent. (vii)  For 2016, 94.2 per cent. (viii)  For 2017, 97.2 per cent. (ix)  For 2018 and subsequent years, 100 per cent; (b)  100 per cent of the assistance costs incurred by the delivery agent in respect of assistance provided in territory without municipal organization; (c)  if the delivery agent employs a full-time administrator, (i)  50 per cent of the delivery agent’s reasonable cost of administration, as approved by the Director, incurred in respect of assistance provided in a municipality, and (ii)  100 per cent of the delivery agent’s reasonable cost of administration, as approved by the Director, incurred in respect of assistance provided in territory without municipal organization; and (d)  if the delivery agent does not employ a full-time administrator, (i)  50 per cent of the delivery agent’s reasonable costs of staff training, as approved by the Director, that form part of the delivery agent’s cost of administration and that are incurred in respect of assistance provided in a municipality, and (ii)  100 per cent of the delivery agent’s reasonable costs of staff training, as approved by the Director, that form part of the delivery agent’s cost of administration and that are incurred in respect of assistance provided in territory without municipal organization. Table Revoked: O. Reg. 379/16, s. 1 (4). O. Reg. 427/09, s. 1 (2); O. Reg. 379/16, s. 1 (3, 4). (2.2) In subsection (2.1), costs incurred by a delivery agent in respect of assistance provided in the Town of Moosonee shall be considered as if they were incurred in territory without municipal organization.  O. Reg. 619/00, s. 1. (3) The Minister may deduct from a subsidy payable by Ontario to a delivery agent under this section an amount equal to the sum of, (a)  the amount the delivery agent is required to pay to Ontario under section 23 of Ontario Regulation 137/98 (Transition from General Welfare Assistance and Family Benefits to Ontario Works), made under the Social Assistance Reform Act, 1997; (b)  Revoked: O. Reg. 325/15, s. 1 (2). (c)  the amount the delivery agent is required to pay to Ontario under section 2 of Ontario Regulation 225/98 (Administration and Cost Sharing), made under the Ontario Disability Support Program Act, 1997.  O. Reg. 228/98, s. 2 (2) ; O. Reg. 228/12, s. 2; O. Reg. 325/15, s. 1 (2). (4)-(8) Revoked:  O. Reg. 478/07, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>7.</b> (1) Subject to subsections (2), (2.1) and (3), section 7.1, subsection 8.1 (1) and section 8.9, the subsidy payable by Ontario to a delivery agent shall be equal to the sum of,</p> <p class=\"clause-e\">  (a)  the following per cent of the assistance costs incurred by the delivery agent:</p> <p class=\"subclause-e\">  (i)  For 2010, 80.6 per cent.</p> <p class=\"subclause-e\">  (ii)  For 2011, 81.2 per cent.</p> <p class=\"subclause-e\">  (iii)  For 2012, 82.8 per cent.</p> <p class=\"subclause-e\">  (iv)  For 2013, 85.8 per cent.</p> <p class=\"subclause-e\">  (v)  For 2014, 88.6 per cent.</p> <p class=\"subclause-e\">  (vi)  For 2015, 91.4 per cent.</p> <p class=\"subclause-e\">  (vii)  For 2016, 94.2 per cent.</p> <p class=\"subclause-e\">  (viii)  For 2017, 97.2 per cent.</p> <p class=\"subclause-e\">  (ix)  For 2018 and subsequent years, 100 per cent;</p> <p class=\"clause-e\">  (b)  if the delivery agent employs a full-time administrator, 50 per cent of the delivery agent’s reasonable cost of administration, as approved by the Director; and</p> <p class=\"clause-e\">  (c)  if the delivery agent does not employ a full-time administrator, 50 per cent of the delivery agent’s reasonable costs of staff training, as approved by the Director, that form part of the delivery agent’s cost of administration.</p> <p class=\"tableheadingRepeal-e\"><span class=\"ovallcaps\">Table</span> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 379/16, s. 1 (2).</p> <p class=\"footnote-e\">O. Reg. 427/09, s. 1 (1); O. Reg. 380/10, s. 1; O. Reg. 302/11, s. 1; O. Reg. 206/12, s. 1; O. Reg. 228/12, s. 1 (1, 2); O. Reg. 223/13, s. 1; O. Reg. 165/14, s. 1; O. Reg. 178/15, s. 1; O. Reg. 229/16, s. 1; O. Reg. 379/16, s. 1 (1, 2); O. Reg. 283/17, s. 1; O. Reg. 280/18, s. 1.</p> <p class=\"subsection-e\">  (1.1) Despite subsection (1), if the delivery agent is a band designated as a delivery agent under section 2 of Ontario Regulation 136/98 (Designation of Geographic Areas and Delivery Agents), made under the Act, the subsidy payable by Ontario under clause (1) (a) shall be 100 per cent of the assistance costs with respect to those assistance costs the band pays to or on behalf of a person who,</p> <p class=\"clause-e\">  (a)  is not a member of the band; and</p> <p class=\"clause-e\">  (b)  is otherwise eligible for assistance under the Act.  O. Reg. 120/09, s. 1.</p> <p class=\"subsection-e\">  (1.2) Despite subsection (1), if the delivery agent is a delivery agent referred to in subsection 2.1 (2) or 2.2 (2) or section 2.3, 2.4, 2.5 or 2.6 of Ontario Regulation 136/98 (Designation of Geographic Areas and Delivery Agents), made under the Act, the subsidy payable by Ontario under clause (1) (a) shall be 100 per cent of the assistance costs with respect to those assistance costs the delivery agent pays to or on behalf of a person who,</p> <p class=\"clause-e\">  (a)  is not a member of one of the bands that are within the geographic area of the delivery agent; and</p> <p class=\"clause-e\">  (b)  is otherwise eligible for assistance under the Act.  O. Reg. 120/09, s. 1; O. Reg. 228/12, s. 1 (3); O. Reg. 325/15, s. 1 (1).</p> <p class=\"subsection-e\">  (2) For the years 2007 to 2012, the apportioning of costs among Ontario and the delivery agents that are municipalities in the Greater Toronto Area listed in the following Table shall be determined by adjusting annually the amount determined under subsection (1) by the dollar amounts indicated for the delivery agent, as set out in the following Table:</p> <p class=\"headingx-e\">TABLE</p> <p class=\"MsoNormal\"> </p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"672\">\n<tr> <td valign=\"top\" width=\"85\"> <p class=\"table-e\">Municipality</p> </td> <td valign=\"top\" width=\"80\"> <p class=\"table-e\">2007</p> </td> <td valign=\"top\" width=\"80\"> <p class=\"table-e\">2008</p> </td> <td valign=\"top\" width=\"80\"> <p class=\"table-e\">2009</p> </td> <td valign=\"top\" width=\"82\"> <p class=\"table-e\">2010</p> </td> <td valign=\"top\" width=\"80\"> <p class=\"table-e\">2011</p> </td> <td valign=\"top\" width=\"80\"> <p class=\"table-e\">2012</p> </td>\n</tr>\n<tr> <td nowrap=\"\" width=\"85\"> <p class=\"table-e\">Toronto</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">92,866,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">77,525,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">62,020,000</p> </td> <td nowrap=\"\" width=\"82\"> <p align=\"right\" class=\"table-e\">46,516,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">31,010,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">15,507,000</p> </td>\n</tr>\n<tr> <td nowrap=\"\" width=\"85\"> <p class=\"table-e\">Durham</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">1,912,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">1,457,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">1,166,000</p> </td> <td nowrap=\"\" width=\"82\"> <p align=\"right\" class=\"table-e\">875,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">583,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">292,000</p> </td>\n</tr>\n<tr> <td nowrap=\"\" width=\"85\"> <p class=\"table-e\">Halton</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-20,557,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-17,130,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-13,704,000</p> </td> <td nowrap=\"\" width=\"82\"> <p align=\"right\" class=\"table-e\">-10,278,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-6,852,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-3,426,000</p> </td>\n</tr>\n<tr> <td nowrap=\"\" width=\"85\"> <p class=\"table-e\">Peel</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-35,428,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-29,523,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-23,618,000</p> </td> <td nowrap=\"\" width=\"82\"> <p align=\"right\" class=\"table-e\">-17,714,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-11,809,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-5,904,000</p> </td>\n</tr>\n<tr> <td nowrap=\"\" width=\"85\"> <p class=\"table-e\">York</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-39,683,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-33,069,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-26,455,000</p> </td> <td nowrap=\"\" width=\"82\"> <p align=\"right\" class=\"table-e\">-19,841,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-13,227,000</p> </td> <td nowrap=\"\" width=\"80\"> <p align=\"right\" class=\"table-e\">-6,613,000</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 478/07, s. 1 (1).</p> <p class=\"subsection-e\">  (2.1) If a delivery agent’s geographic area includes territory without municipal organization, the subsidy payable by Ontario to the delivery agent shall be equal to the sum of,</p> <p class=\"clause-e\">  (a)  the following per cent of the assistance costs incurred by the delivery agent in respect of assistance provided in a municipality:</p> <p class=\"subclause-e\">  (i)  For 2010, 80.6 per cent.</p> <p class=\"subclause-e\">  (ii)  For 2011, 81.2 per cent.</p> <p class=\"subclause-e\">  (iii)  For 2012, 82.8 per cent.</p> <p class=\"subclause-e\">  (iv)  For 2013, 85.8 per cent.</p> <p class=\"subclause-e\">  (v)  For 2014, 88.6 per cent.</p> <p class=\"subclause-e\">  (vi)  For 2015, 91.4 per cent.</p> <p class=\"subclause-e\">  (vii)  For 2016, 94.2 per cent.</p> <p class=\"subclause-e\">  (viii)  For 2017, 97.2 per cent.</p> <p class=\"subclause-e\">  (ix)  For 2018 and subsequent years, 100 per cent;</p> <p class=\"clause-e\">  (b)  100 per cent of the assistance costs incurred by the delivery agent in respect of assistance provided in territory without municipal organization;</p> <p class=\"clause-e\">  (c)  if the delivery agent employs a full-time administrator,</p> <p class=\"subclause-e\">  (i)  50 per cent of the delivery agent’s reasonable cost of administration, as approved by the Director, incurred in respect of assistance provided in a municipality, and</p> <p class=\"subclause-e\">  (ii)  100 per cent of the delivery agent’s reasonable cost of administration, as approved by the Director, incurred in respect of assistance provided in territory without municipal organization; and</p> <p class=\"clause-e\">  (d)  if the delivery agent does not employ a full-time administrator,</p> <p class=\"subclause-e\">  (i)  50 per cent of the delivery agent’s reasonable costs of staff training, as approved by the Director, that form part of the delivery agent’s cost of administration and that are incurred in respect of assistance provided in a municipality, and</p> <p class=\"subclause-e\">  (ii)  100 per cent of the delivery agent’s reasonable costs of staff training, as approved by the Director, that form part of the delivery agent’s cost of administration and that are incurred in respect of assistance provided in territory without municipal organization.</p> <p class=\"tableheadingRepeal-e\"><span class=\"ovallcaps\">Table</span> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 379/16, s. 1 (4).</p> <p class=\"footnote-e\">O. Reg. 427/09, s. 1 (2); O. Reg. 379/16, s. 1 (3, 4).</p> <p class=\"subsection-e\">  (2.2) In subsection (2.1), costs incurred by a delivery agent in respect of assistance provided in the Town of Moosonee shall be considered as if they were incurred in territory without municipal organization.  O. Reg. 619/00, s. 1.</p> <p class=\"subsection-e\">  (3) The Minister may deduct from a subsidy payable by Ontario to a delivery agent under this section an amount equal to the sum of,</p> <p class=\"clause-e\">  (a)  the amount the delivery agent is required to pay to Ontario under section 23 of Ontario Regulation 137/98 (Transition from General Welfare Assistance and Family Benefits to Ontario Works), made under the <i>Social Assistance Reform Act, 1997</i>;\r\n</p> <p class=\"clause-e\">  (b)  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 325/15, s. 1 (2).</p> <p class=\"clause-e\">  (c)  the amount the delivery agent is required to pay to Ontario under section 2 of Ontario Regulation 225/98 (Administration and Cost Sharing), made under the <i>Ontario</i><i> Disability Support Program Act, 1997</i>.  O. Reg. 228/98, s. 2 (2) ; O. Reg. 228/12, s. 2; O. Reg. 325/15, s. 1 (2).</p> <p class=\"subsection-e\">  (4)-(8) <span>Revoked</span>:  O. Reg. 478/07, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#7.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  7.1 (1) Subject to subsection (2), for the purpose of calculating the subsidy payable by Ontario under section 7 to an entity that is designated as a delivery agent under section 1 of Ontario Regulation 136/98 (Designation of Geographic Areas and Delivery Agents) made under the Act, the amount that may be included in the calculation of assistance costs incurred by the delivery agent in a month in providing the benefits set out in section 59 of Ontario Regulation 134/98 (General) made under the Act shall not exceed the sum of, (a)  the product obtained by multiplying $10.00 by the number of recipients to whom the delivery agent provided basic financial assistance; and (b)  the product obtained by multiplying $10.00 by the number of recipients of income support under the Ontario Disability Support Program Act, 1997 in the geographic area of the delivery agent.  O. Reg. 123/12, s. 1; O. Reg. 228/12, s. 2; O. Reg. 127/13, s. 1 (1); O. Reg. 280/18, s. 2 (1). (2) For the purpose of subsection (1), the amount that may be included in the calculation of assistance costs incurred by the delivery agent in a month in providing the benefits set out in section 59 of Ontario Regulation 134/98 (General) made under the Act is deemed to be $2,500, if the sum of clauses (1) (a) and (b) is less than $2,500. O. Reg. 127/13, s. 1 (2). (3)-(4) Revoked: O. Reg. 280/18, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"><b>  7.1</b> (1) Subject to subsection (2), for the purpose of calculating the subsidy payable by Ontario under section 7 to an entity that is designated as a delivery agent under section 1 of Ontario Regulation 136/98 (Designation of Geographic Areas and Delivery Agents) made under the Act, the amount that may be included in the calculation of assistance costs incurred by the delivery agent in a month in providing the benefits set out in section 59 of Ontario Regulation 134/98 (General) made under the Act shall not exceed the sum of,</p> <p class=\"clause-e\">  (a)  the product obtained by multiplying $10.00 by the number of recipients to whom the delivery agent provided basic financial assistance; and </p> <p class=\"clause-e\">  (b)  the product obtained by multiplying $10.00 by the number of recipients of income support under the <i>Ontario</i><i> Disability Support Program Act, 1997</i> in the geographic area of the delivery agent.  O. Reg. 123/12, s. 1; O. Reg. 228/12, s. 2; O. Reg. 127/13, s. 1 (1); O. Reg. 280/18, s. 2 (1).</p> <p class=\"subsection-e\">  (2) For the purpose of subsection (1), the amount that may be included in the calculation of assistance costs incurred by the delivery agent in a month in providing the benefits set out in section 59 of Ontario Regulation 134/98 (General) made under the Act is deemed to be $2,500, if the sum of clauses (1) (a) and (b) is less than $2,500. O. Reg. 127/13, s. 1 (2).</p> <p class=\"subsection-e\">  (3)-(4) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 280/18, s. 2 (2).</p>"
+        },
+        {
+            "ahref_id": "#7.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7.2 Revoked: O. Reg. 228/12, s. 3 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>7.2</b> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 228/12, s. 3 (2).</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. (1) Subsection (2) applies if,  (a)  at any time during the 12-month period preceding his or her application for assistance, an applicant resided in Ontario on a reserve or in a geographic area for which the Council of a band was the delivery agent; and (b)  at the time of applying for assistance the applicant no longer lives on the reserve or in a geographic area for which the Council of a band is the delivery agent.  O. Reg. 135/98, s. 8 (1). (2) Ontario shall reimburse a delivery agent that is not a band for the full amount it expends for assistance for the person referred to in subsection (1) until the person has resided for 12 consecutive months in a municipality.  O. Reg. 135/98, s. 8 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>(1) Subsection (2) applies if, </p> <p class=\"clause-e\">  (a)  at any time during the 12-month period preceding his or her application for assistance, an applicant resided in Ontario on a reserve or in a geographic area for which the Council of a band was the delivery agent; and</p> <p class=\"clause-e\">  (b)  at the time of applying for assistance the applicant no longer lives on the reserve or in a geographic area for which the Council of a band is the delivery agent.  O. Reg. 135/98, s. 8 (1).</p> <p class=\"subsection-e\">  (2) Ontario shall reimburse a delivery agent that is not a band for the full amount it expends for assistance for the person referred to in subsection (1) until the person has resided for 12 consecutive months in a municipality.  O. Reg. 135/98, s. 8 (2).</p>"
+        },
+        {
+            "ahref_id": "#8.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8.1 (1) Ontario shall pay 100 per cent of the assistance costs with respect to the following: 1.-4.  Revoked:  O. Reg. 381/09, s. 2. 5.  The fee paid under paragraph 1.1 of subsection 55 (1) of Ontario Regulation 134/98 (General) made under the Act for periodic oculo-visual assessments for every member of a benefit unit. 6.  The cost for drugs paid under subparagraph 1 i of subsection 55 (1) of Ontario Regulation 134/98 (General) made under the Act. 6.1  The cost of dental services paid under paragraph 1 of subsection 55 (1) of Ontario Regulation 134/98 (General) made under the Act. 7.  The transition child benefit paid under section 58.3 of Ontario Regulation 134/98 (General) made under the Act.  O. Reg. 140/05, s. 2; O. Reg. 478/07, s. 3; O. Reg. 481/07, s. 1; O. Reg. 381/09, s. 2; O. Reg.411/15, s. 1 (1). (2) Ontario is required to pay the assistance costs set out in paragraph 5 of subsection (1) incurred on and after November 1, 2004.  O. Reg. 140/05, s. 2. (3) Ontario is required to pay the assistance costs set out in paragraph 6.1 of subsection (1) incurred on and after August 1, 2015. O. Reg.411/15, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>8.1 </b>(1) Ontario shall pay 100 per cent of the assistance costs with respect to the following:</p> <p class=\"paragraph-e\"> 1.-4.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 381/09, s. 2.</p> <p class=\"paragraph-e\">  5.  The fee paid under paragraph 1.1 of subsection 55 (1) of Ontario Regulation 134/98 (General) made under the Act for periodic oculo-visual assessments for every member of a benefit unit. </p> <p class=\"paragraph-e\">  6.  The cost for drugs paid under subparagraph 1 i of subsection 55 (1) of Ontario Regulation 134/98 (General) made under the Act.</p> <p class=\"paragraph-e\">  6.1  The cost of dental services paid under paragraph 1 of subsection 55 (1) of Ontario Regulation 134/98 (General) made under the Act.</p> <p class=\"paragraph-e\">  7.  The transition child benefit paid under section 58.3 of Ontario Regulation 134/98 (General) made under the Act.  O. Reg. 140/05, s. 2; O. Reg. 478/07, s. 3; O. Reg. 481/07, s. 1; O. Reg. 381/09, s. 2; O. Reg.411/15, s. 1 (1).</p> <p class=\"subsection-e\">  (2) Ontario is required to pay the assistance costs set out in paragraph 5 of subsection (1) incurred on and after November 1, 2004.  O. Reg. 140/05, s. 2.</p> <p class=\"subsection-e\">  (3) Ontario is required to pay the assistance costs set out in paragraph 6.1 of subsection (1) incurred on and after August 1, 2015. O. Reg.411/15, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#8.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8.2 Revoked: O. Reg. 206/12, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>8.2 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 206/12, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#8.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8.3 Revoked: O. Reg. 223/13, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>8.3 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 223/13, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#8.4",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8.4 Revoked: O. Reg. 165/14, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>8.4 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 165/14, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#8.5",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8.5 Revoked: O. Reg. 178/15, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>8.5 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 178/15, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#8.6",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8.6 Revoked: O. Reg. 229/16, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>8.6</b> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 229/16, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#8.7",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8.7 Revoked: O. Reg. 283/17, s. 2. ",
+            "raw_html": "<p class=\"section-e\"> <b>8.7 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 283/17, s. 2. </p>"
+        },
+        {
+            "ahref_id": "#8.8",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8.8 Revoked: O. Reg. 280/18, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>8.8</b> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 280/18, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#8.9",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8.9 With respect to 2017, Ontario shall pay 100 per cent of the increase in the assistance costs that result from the following: 1.  Amendments made to Ontario Regulation 134/98 (General) made under the Act, by Ontario Regulation 282/17. 2.  An increase, commencing in October 2017, in an amount approved by the Director for emergency hostel services in accordance with subsection 43 (2) of Ontario Regulation 134/98. O. Reg. 283/17, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>8.9 </b>With respect to 2017, Ontario shall pay 100 per cent of the increase in the assistance costs that result from the following:</p> <p class=\"paragraph-e\">  1.  Amendments made to Ontario Regulation 134/98 (General) made under the Act, by Ontario Regulation 282/17.</p> <p class=\"paragraph-e\">  2.  An increase, commencing in October 2017, in an amount approved by the Director for emergency hostel services in accordance with subsection 43 (2) of Ontario Regulation 134/98. O. Reg. 283/17, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. Where the municipalities participating in a district social services administration board established under the District Social Services Administration Boards Act are unduly burdened in any year as a result of costs of carrying out the purposes of the Act, by reason of the transfer by amalgamation or annexation of one or more municipalities or any part of one or more municipalities participating in the board to one or more municipalities not participating in the board, the Province of Ontario shall, in respect of that year, pay an amount prescribed by the Minister to the municipalities participating in the board.  O. Reg. 135/98, s. 9; O. Reg. 228/98, s. 3; O. Reg. 548/98, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>Where the municipalities participating in a district social services administration board established under the <i>District Social Services Administration Boards Act</i> are unduly burdened in any year as a result of costs of carrying out the purposes of the Act, by reason of the transfer by amalgamation or annexation of one or more municipalities or any part of one or more municipalities participating in the board to one or more municipalities not participating in the board, the Province of Ontario shall, in respect of that year, pay an amount prescribed by the Minister to the municipalities participating in the board.  O. Reg. 135/98, s. 9; O. Reg. 228/98, s. 3; O. Reg. 548/98, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. A delivery agent that recovers all or part of assistance paid shall refund to Ontario the percentage of the amount recovered that is equal to the subsidy payable by Ontario in the year that the delivery agent recovers all or part of the assistance.  O. Reg. 427/09, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>A delivery agent that recovers all or part of assistance paid shall refund to Ontario the percentage of the amount recovered that is equal to the subsidy payable by Ontario in the year that the delivery agent recovers all or part of the assistance.  O. Reg. 427/09, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  11. If a delivery agent has paid assistance to a recipient who is not eligible for it, the amount paid may be included as assistance for the purposes of section 7.  O. Reg. 135/98, s. 11.",
+            "raw_html": "<p class=\"section-e\"><b>  11. </b>If a delivery agent has paid assistance to a recipient who is not eligible for it, the amount paid may be included as assistance for the purposes of section 7.  O. Reg. 135/98, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. (1) The Director may pay assistance to any person who is eligible for it and, if the person resides in the geographic area of a delivery agent, the delivery agent’s share of the assistance paid is recoverable from the delivery agent as a debt due to the Crown in right of Ontario and may be deducted from any money payable by Ontario to the delivery agent under the authority of any Act, or may be sued for in a court of competent jurisdiction.  O. Reg. 135/98, s. 12 (1). (2) If Ontario pays assistance to a person who resides in the geographic area of a delivery agent, the Province may deduct from any subsidy payable to the delivery agent under this Regulation an amount equal to the administrative costs incurred by Ontario as a result of paying the assistance to the person.  O. Reg. 135/98, s. 12 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>(1) The Director may pay assistance to any person who is eligible for it and, if the person resides in the geographic area of a delivery agent, the delivery agent’s share of the assistance paid is recoverable from the delivery agent as a debt due to the Crown in right of Ontario and may be deducted from any money payable by Ontario to the delivery agent under the authority of any Act, or may be sued for in a court of competent jurisdiction.  O. Reg. 135/98, s. 12 (1).</p> <p class=\"subsection-e\">  (2) If Ontario pays assistance to a person who resides in the geographic area of a delivery agent, the Province may deduct from any subsidy payable to the delivery agent under this Regulation an amount equal to the administrative costs incurred by Ontario as a result of paying the assistance to the person.  O. Reg. 135/98, s. 12 (2).</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  13. The Director shall pay, on behalf of an applicant or recipient,  (a)  the cost of completion of a medical report in the amount of $15 if it is a report or a supplementary report requested by the administrator and submitted by an approved health professional; (b)  the cost in the amount of $20 of completion by an approved health professional of an application for a special diet because of a medical condition set out in Schedule 1 to Ontario Regulation 564/05 (Prescribed Policy Statements) made under the Act or a nutritional allowance referred to in paragraph 6 of subsection 41 (1), paragraph 6 of subsection 44 (1), paragraph 6 of subsection 44 (2), paragraph 5 of subsection 44 (3) or clause 57 (5) (e) of Ontario Regulation 134/98 (General) made under the Act.  O. Reg. 263/06, s. 3; O. Reg. 348/11, s. 1. Costs Prescribed for Cost Sharing Purposes",
+            "raw_html": "<p class=\"section-e\"><b>  13. </b>The Director shall pay, on behalf of an applicant or recipient, </p> <p class=\"clause-e\">  (a)  the cost of completion of a medical report in the amount of $15 if it is a report or a supplementary report requested by the administrator and submitted by an approved health professional;</p> <p class=\"clause-e\">  (b)  the cost in the amount of $20 of completion by an approved health professional of an application for a special diet because of a medical condition set out in Schedule 1 to Ontario Regulation 564/05 (Prescribed Policy Statements) made under the Act or a nutritional allowance referred to in paragraph 6 of subsection 41 (1), paragraph 6 of subsection 44 (1), paragraph 6 of subsection 44 (2), paragraph 5 of subsection 44 (3) or clause 57 (5) (e) of Ontario Regulation 134/98 (General) made under the Act.  O. Reg. 263/06, s. 3; O. Reg. 348/11, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Costs Prescribed for Cost Sharing Purposes</p>"
+        },
+        {
+            "ahref_id": "#13.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.1 The prescribed costs for the purposes of section 51 of the Act are the assistance costs and the cost of administration.  O. Reg. 274/98, s. 2; O. Reg. 12/02, s. 3. Agreements for Sharing of Costs by Municipalities",
+            "raw_html": "<p class=\"section-e\"> <b>13.1 </b>The prescribed costs for the purposes of section 51 of the Act are the assistance costs and the cost of administration.  O. Reg. 274/98, s. 2; O. Reg. 12/02, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Agreements for Sharing of Costs by Municipalities</p>"
+        },
+        {
+            "ahref_id": "#13.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.2 (1) The municipalities set out in the designation of a geographic area or a proposed geographic area may enter into an agreement under which the prescribed costs payable or to be payable by those municipalities under this Regulation are apportioned among them.  O. Reg. 274/98, s. 2. (2) The agreement becomes effective, (a)  in the case of a proposed geographic area, on the designation date; or (b)  in the case of a geographic area, (i)  if a date is specified in the agreement, on the specified date, and (ii)  otherwise, on the day the agreement is made.  O. Reg. 274/98, s. 2. (3) Subject to subsection (4), the agreement may be effective with respect to a period before it is made and, in that case, shall provide for a monetary reconciliation among the parties.  O. Reg. 274/98, s. 2. (4) If the delivery agent is a district social services administration board, the agreement shall not be effective with respect to a period before July 1, 1998.  O. Reg. 274/98, s. 2. (5) The delivery agent shall provide a copy of the agreement to the Minister forthwith after it is made.  O. Reg. 274/98, s. 2. (6) Haldimand County and Norfolk County may not enter into an agreement under subsection (1) that apportions between them the prescribed costs payable or to be payable by them under this Regulation for a period before January 1, 2002.  O. Reg. 12/02, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>13.2 </b>(1) The municipalities set out in the designation of a geographic area or a proposed geographic area may enter into an agreement under which the prescribed costs payable or to be payable by those municipalities under this Regulation are apportioned among them.  O. Reg. 274/98, s. 2.</p> <p class=\"subsection-e\">  (2) The agreement becomes effective,</p> <p class=\"clause-e\">  (a)  in the case of a proposed geographic area, on the designation date; or</p> <p class=\"clause-e\">  (b)  in the case of a geographic area, </p> <p class=\"subclause-e\">  (i)  if a date is specified in the agreement, on the specified date, and</p> <p class=\"subclause-e\">  (ii)  otherwise, on the day the agreement is made.  O. Reg. 274/98, s. 2.</p> <p class=\"subsection-e\">  (3) Subject to subsection (4), the agreement may be effective with respect to a period before it is made and, in that case, shall provide for a monetary reconciliation among the parties.  O. Reg. 274/98, s. 2.</p> <p class=\"subsection-e\">  (4) If the delivery agent is a district social services administration board, the agreement shall not be effective with respect to a period before July 1, 1998.  O. Reg. 274/98, s. 2.</p> <p class=\"subsection-e\">  (5) The delivery agent shall provide a copy of the agreement to the Minister forthwith after it is made.  O. Reg. 274/98, s. 2.</p> <p class=\"subsection-e\">  (6) Haldimand County and Norfolk County may not enter into an agreement under subsection (1) that apportions between them the prescribed costs payable or to be payable by them under this Regulation for a period before January 1, 2002.  O. Reg. 12/02, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#13.2.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.2.1 (1) If, by March 1, 2002, Haldimand County and Norfolk County have entered into an agreement under subsection 13.2 (1) that apportions between them the prescribed costs payable or to be payable by them under this Regulation for the period commencing on January 1, 2002, subsections 13.2 (2) and (3) do not apply to the agreement.  O. Reg. 12/02, s. 5. (2) The agreement becomes effective on January 1, 2002, even if it is made after that date.  O. Reg. 12/02, s. 5. (3) If the agreement is made after January 1, 2002, it shall provide for a monetary reconciliation between the parties.  O. Reg. 12/02, s. 5. Arbitration Process",
+            "raw_html": "<p class=\"section-e\"> <b>13.2.1</b><b> </b>(1) If, by March 1, 2002, Haldimand County and Norfolk County have entered into an agreement under subsection 13.2 (1) that apportions between them the prescribed costs payable or to be payable by them under this Regulation for the period commencing on January 1, 2002, subsections 13.2 (2) and (3) do not apply to the agreement.  O. Reg. 12/02, s. 5.</p> <p class=\"subsection-e\">  (2) The agreement becomes effective on January 1, 2002, even if it is made after that date.  O. Reg. 12/02, s. 5.</p> <p class=\"subsection-e\">  (3) If the agreement is made after January 1, 2002, it shall provide for a monetary reconciliation between the parties.  O. Reg. 12/02, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Arbitration Process</p>"
+        },
+        {
+            "ahref_id": "#13.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.3 Sections 13.5 to 13.8 do not apply with respect to a geographic area whose delivery agent is a district social services administration board or a band or a proposed geographic area whose delivery agent is to be a district social services administration board or a band.  O. Reg. 274/98, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>13.3 </b>Sections 13.5 to 13.8 do not apply with respect to a geographic area whose delivery agent is a district social services administration board or a band or a proposed geographic area whose delivery agent is to be a district social services administration board or a band.  O. Reg. 274/98, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#13.4",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.4 Arbitrations under sections 13.5, 13.5.1, 13.6 and 13.7 are governed by the Arbitration Act, 1991, subject to those sections and to the following rules: 1.  The parties may jointly appoint a single arbitrator on or after the day the arbitration is commenced. 2.  If the parties have not appointed an arbitrator, the Superior Court of Justice may make the appointment on a party’s application under section 10 of the Arbitration Act, 1991. 3.  The arbitrator shall make a final award that disposes of the issue, within three months after being appointed. 4.  The date by which the arbitrator is required to make an award shall not be extended by a court, despite section 39 of the Arbitration Act, 1991.  However, that date may be extended by agreement of the parties. 5.  The final award shall apportion among the parties the prescribed costs with respect to the geographic area or proposed geographic area. 6.  The arbitration shall not deal with the prescribed costs incurred before the designation date. 6.1  An arbitration between Haldimand County and Norfolk County shall not deal with the prescribed costs payable or to be payable under this Regulation by either of them for a period before January 1, 2002. 7.  The final award may be effective with respect to a period before it is made and, in that case, shall provide for a monetary reconciliation among the parties. 8.  A party may appeal the final award to the Superior Court of Justice only on a question of law, with leave, which the court shall grant only if it is satisfied that the conditions in clauses 45 (1) (a) and (b) of the Arbitration Act, 1991 are met.  No appeal lies on a question of fact or of mixed law and fact, despite any agreement by the parties. 9.  The arbitrator shall provide a copy of the final award to the Minister forthwith after it is made. 10.  At any time during the arbitration, the parties may enter into an agreement under section 13.2 that includes an agreement apportioning the costs of the arbitration among the parties, in which case the arbitration terminates. 11.  The parties may, at any time, amend the final award by agreement or replace the award with an agreement under section 13.2.  O. Reg. 274/98, s. 2; O. Reg. 12/02, s. 6; O. Reg. 140/05, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>13.4 </b>Arbitrations under sections 13.5, 13.5.1, 13.6 and 13.7 are governed by the <i>Arbitration Act, 1991</i>, subject to those sections and to the following rules:</p> <p class=\"paragraph-e\">  1.  The parties may jointly appoint a single arbitrator on or after the day the arbitration is commenced.</p> <p class=\"paragraph-e\">  2.  If the parties have not appointed an arbitrator, the Superior Court of Justice may make the appointment on a party’s application under section 10 of the <i>Arbitration Act, 1991</i>.</p> <p class=\"paragraph-e\">  3.  The arbitrator shall make a final award that disposes of the issue, within three months after being appointed.</p> <p class=\"paragraph-e\">  4.  The date by which the arbitrator is required to make an award shall not be extended by a court, despite section 39 of the <i>Arbitration Act, 1991</i>.  However, that date may be extended by agreement of the parties.</p> <p class=\"paragraph-e\">  5.  The final award shall apportion among the parties the prescribed costs with respect to the geographic area or proposed geographic area.</p> <p class=\"paragraph-e\">  6.  The arbitration shall not deal with the prescribed costs incurred before the designation date.</p> <p class=\"paragraph-e\">  6.1  An arbitration between Haldimand County and Norfolk County shall not deal with the prescribed costs payable or to be payable under this Regulation by either of them for a period before January 1, 2002.</p> <p class=\"paragraph-e\">  7.  The final award may be effective with respect to a period before it is made and, in that case, shall provide for a monetary reconciliation among the parties.</p> <p class=\"paragraph-e\">  8.  A party may appeal the final award to the Superior Court of Justice only on a question of law, with leave, which the court shall grant only if it is satisfied that the conditions in clauses 45 (1) (a) and (b) of the <i>Arbitration Act, 1991</i> are met.  No appeal lies on a question of fact or of mixed law and fact, despite any agreement by the parties.</p> <p class=\"paragraph-e\">  9.  The arbitrator shall provide a copy of the final award to the Minister forthwith after it is made.</p> <p class=\"paragraph-e\">  10.  At any time during the arbitration, the parties may enter into an agreement under section 13.2 that includes an agreement apportioning the costs of the arbitration among the parties, in which case the arbitration terminates.</p> <p class=\"paragraph-e\">  11.  The parties may, at any time, amend the final award by agreement or replace the award with an agreement under section 13.2.  O. Reg. 274/98, s. 2; O. Reg. 12/02, s. 6; O. Reg. 140/05, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#13.5",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.5 (1) If, by September 8, 1998, the municipalities set out in the designation of a proposed geographic area have not entered into an agreement under section 13.2, they shall be deemed to have commenced an arbitration on September 8, 1998 of the apportionment among them of the prescribed costs with respect to the proposed geographic area.  O. Reg. 274/98, s. 2. (2) At any time before September 8, 1998 a party may, by serving a notice on the other parties, commence an arbitration of the apportionment.  O. Reg. 274/98, s. 2. (3) The rules set out in section 13.4 and the following rule apply to an arbitration under subsection (1) or (2): 1.  The final award shall come into effect or be deemed to have come into effect on the designation date, and remains in effect unless superseded by an agreement under section 13.2 or a final award in a subsequent arbitration.  O. Reg. 274/98, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>13.5 </b>(1) If, by September 8, 1998, the municipalities set out in the designation of a proposed geographic area have not entered into an agreement under section 13.2, they shall be deemed to have commenced an arbitration on September 8, 1998 of the apportionment among them of the prescribed costs with respect to the proposed geographic area.  O. Reg. 274/98, s. 2.</p> <p class=\"subsection-e\">  (2) At any time before September 8, 1998 a party may, by serving a notice on the other parties, commence an arbitration of the apportionment.  O. Reg. 274/98, s. 2.</p> <p class=\"subsection-e\">  (3) The rules set out in section 13.4 and the following rule apply to an arbitration under subsection (1) or (2):</p> <p class=\"paragraph-e\">  1.  The final award shall come into effect or be deemed to have come into effect on the designation date, and remains in effect unless superseded by an agreement under section 13.2 or a final award in a subsequent arbitration.  O. Reg. 274/98, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#13.5.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  13.5.1 (1) If, by March 1, 2002, Haldimand County and Norfolk County have not entered into an agreement under subsection 13.2 (1) that apportions between them the prescribed costs payable or to be payable by them under this Regulation for the period commencing on January 1, 2002, they shall be deemed to have commenced an arbitration on March 1, 2002 of the apportionment between them of those costs.  O. Reg. 12/02, s. 7. (2) At any time before March 1, 2002, either of Haldimand County and Norfolk County may, by serving a notice on the other, commence an arbitration of the apportionment between them of the prescribed costs payable or to be payable by them under this Regulation for the period commencing on January 1, 2002.  O. Reg. 12/02, s. 7. (3) The rules set out in section 13.4 and the following rule apply to an arbitration under subsection (1) or (2): 1.  The final award shall come into effect or be deemed to have come into effect on January 1, 2002, and remains in effect unless superseded by an agreement under section 13.2 or a final award in a subsequent arbitration.  O. Reg. 12/02, s. 7.",
+            "raw_html": "<p class=\"section-e\"><b>  13.5.1</b><b> </b>(1) If, by March 1, 2002, Haldimand County and Norfolk County have not entered into an agreement under subsection 13.2 (1) that apportions between them the prescribed costs payable or to be payable by them under this Regulation for the period commencing on January 1, 2002, they shall be deemed to have commenced an arbitration on March 1, 2002 of the apportionment between them of those costs.  O. Reg. 12/02, s. 7.</p> <p class=\"subsection-e\">  (2) At any time before March 1, 2002, either of Haldimand County and Norfolk County may, by serving a notice on the other, commence an arbitration of the apportionment between them of the prescribed costs payable or to be payable by them under this Regulation for the period commencing on January 1, 2002.  O. Reg. 12/02, s. 7.</p> <p class=\"subsection-e\">  (3) The rules set out in section 13.4 and the following rule apply to an arbitration under subsection (1) or (2):</p> <p class=\"paragraph-e\">  1.  The final award shall come into effect or be deemed to have come into effect on January 1, 2002, and remains in effect unless superseded by an agreement under section 13.2 or a final award in a subsequent arbitration.  O. Reg. 12/02, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#13.6",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.6 (1) If a final award has been in effect for at least two years, a party may, by serving a notice on the other parties, commence a new arbitration to deal with the apportionment among the parties of the prescribed costs with respect to the geographic area.  O. Reg. 274/98, s. 2. (2) The rules set out in section 13.4 and the following rule apply to an arbitration under subsection (1): 1.  The final award shall come into effect and supersede the previous award or be deemed to have come into effect and superseded the previous award on the later of the day that is three years after the effective date of the last award and the day the notice is served.  O. Reg. 274/98, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>13.6 </b>(1) If a final award has been in effect for at least two years, a party may, by serving a notice on the other parties, commence a new arbitration to deal with the apportionment among the parties of the prescribed costs with respect to the geographic area.  O. Reg. 274/98, s. 2.</p> <p class=\"subsection-e\">  (2) The rules set out in section 13.4 and the following rule apply to an arbitration under subsection (1):</p> <p class=\"paragraph-e\">  1.  The final award shall come into effect and supersede the previous award or be deemed to have come into effect and superseded the previous award on the later of the day that is three years after the effective date of the last award and the day the notice is served.  O. Reg. 274/98, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#13.7",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.7 (1) If an agreement expires or is terminated in accordance with the agreement and the parties have not entered into a new agreement, they shall be deemed to have commenced an arbitration on the date of expiry or termination of the apportionment among them of the prescribed costs with respect to the geographic area.  O. Reg. 274/98, s. 2. (2) The date of expiry or termination of the agreement, (a)  shall be the date determined in accordance with the agreement or notice of termination, if that date is the last day of a month; or (b)  otherwise, shall be deemed to be the last day of the month in which that date falls.  O. Reg. 274/98, s. 2. (3) A party may commence an arbitration of the apportionment by serving a notice on the other parties, (a)  if a notice of termination of the agreement is served, on or after the day it is served; or (b)  otherwise, at any time during the 12 months preceding the date of expiry of an agreement.  O. Reg. 274/98, s. 2. (4) The rules set out in section 13.4 and the following rules apply to an arbitration under this section: 1.  Subject to paragraph 2, the final award shall come into effect or be deemed to have come into effect on the day the agreement expires or is terminated. 2.  If the agreement expires or is terminated before the final award is made, i.  the agreement shall be deemed to be in effect until the final award is made, and ii.  the final award shall provide for a monetary reconciliation among the parties.  O. Reg. 274/98, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>13.7 </b>(1) If an agreement expires or is terminated in accordance with the agreement and the parties have not entered into a new agreement, they shall be deemed to have commenced an arbitration on the date of expiry or termination of the apportionment among them of the prescribed costs with respect to the geographic area.  O. Reg. 274/98, s. 2.</p> <p class=\"subsection-e\">  (2) The date of expiry or termination of the agreement,</p> <p class=\"clause-e\">  (a)  shall be the date determined in accordance with the agreement or notice of termination, if that date is the last day of a month; or</p> <p class=\"clause-e\">  (b)  otherwise, shall be deemed to be the last day of the month in which that date falls.  O. Reg. 274/98, s. 2.</p> <p class=\"subsection-e\">  (3) A party may commence an arbitration of the apportionment by serving a notice on the other parties,</p> <p class=\"clause-e\">  (a)  if a notice of termination of the agreement is served, on or after the day it is served; or</p> <p class=\"clause-e\">  (b)  otherwise, at any time during the 12 months preceding the date of expiry of an agreement.  O. Reg. 274/98, s. 2.</p> <p class=\"subsection-e\">  (4) The rules set out in section 13.4 and the following rules apply to an arbitration under this section:</p> <p class=\"paragraph-e\">  1.  Subject to paragraph 2, the final award shall come into effect or be deemed to have come into effect on the day the agreement expires or is terminated.</p> <p class=\"paragraph-e\">  2.  If the agreement expires or is terminated before the final award is made, </p> <p class=\"subpara-e\">  i.  the agreement shall be deemed to be in effect until the final award is made, and</p> <p class=\"subpara-e\">  ii.  the final award shall provide for a monetary reconciliation among the parties.  O. Reg. 274/98, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#13.8",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  13.8 (1) If an arbitration is commenced or deemed to have been commenced under this Regulation and an arbitration involving the same parties is also commenced under a regulation made under provisions listed in subsection (2) but an arbitrator has not yet been appointed for any of the arbitrations, (a)  one arbitrator shall be appointed for all of the arbitrations; and (b)  the arbitrations shall be held as one arbitration.  O. Reg. 133/01, s. 1. (2) Subsection (1) applies with respect to an arbitration commenced under a regulation made under: 1.  Clause 22 (1) (e.2) and paragraph 2 of subsection 22 (2.1) of the Ambulance Act. 2.  Clause 22 (1) (e.5) and paragraph 2 of subsection 22 (2.3) of the Ambulance Act. 3.  Subsection 22.0.1 (1), clause 22.0.1 (2) (b) and paragraph 2 of subsection 22.0.1 (2.1) of the Ambulance Act. 4.  Clause 82 (1) (w) of the Child Care and Early Years Act, 2014. 5.  Paragraph 42 of subsection 55 (1) and paragraph 2 of subsection 55 (8) of the Ontario Disability Support Program Act, 1997. 6.  Paragraph 9 or 11 of subsection 174 (1) and paragraph 2 of subsection 174 (2) of the Social Housing Reform Act, 2000.  O. Reg. 133/01, s. 1; O. Reg. 325/15, s. 3. (3) An arbitration under this section is governed by the Arbitration Act, 1991, subject to the following rules: 1.  The parties may jointly appoint a single arbitrator on or after the day the arbitrations are consolidated. 2.  If the parties are entitled to appoint an arbitrator jointly but have not done so, the Superior Court of Justice may make the appointment on a party’s application under section 10 of the Arbitration Act, 1991. 3.  The arbitrator shall make a final award that disposes of the issue within three months after being appointed. 4.  The date by which the arbitrator is required to make an award shall not be extended by a court, despite section 39 of the Arbitration Act, 1991.  However, that date may be extended by agreement of the parties. 5.  The final award shall apportion among the parties the prescribed costs with respect to the geographic area or proposed geographic area. 6.  The arbitration shall not deal with the prescribed costs incurred before the designation date. 6.1  An arbitration between Haldimand County and Norfolk County shall not deal with the prescribed costs payable or to be payable under this Regulation by either of them for a period before January 1, 2002. 7.  The final award may be effective with respect to a period or periods before it is made and, in that case, shall provide for a monetary reconciliation among the parties. 8.  A party may appeal the final award to the Superior Court of Justice only on a question of law, with leave, which the court shall grant only if it is satisfied that the conditions in clauses 45 (1) (a) and (b) of the Arbitration Act, 1991 are met.  No appeal lies on a question of fact or of mixed law and fact, despite any agreement by the parties. 9.  The arbitrator shall provide a copy of the final award to the Minister forthwith after it is made. 10.  At any time during the arbitration, the parties may enter into an agreement under section 13.2 that includes an agreement apportioning among the parties that part of the costs of the arbitration attributable to the prescribed costs, in which case that part of the arbitration terminates. 11.  The parties may, at any time, amend that part of the final award concerning the prescribed costs by agreement or replace that part of the award with an agreement under section 13.2. 12.  That part of the final award in the consolidated arbitration attributable to the prescribed costs comes into effect in accordance with subsection 13.5 (3), 13.5.1 (3), 13.6 (2) or 13.7 (4), as the case may be.  O. Reg. 274/98, s. 2; O. Reg. 12/02, s. 8; O. Reg. 562/06, s. 2. Accommodation for Appeals",
+            "raw_html": "<p class=\"section-e\"><b>  13.8 </b>(1) If an arbitration is commenced or deemed to have been commenced under this Regulation and an arbitration involving the same parties is also commenced under a regulation made under provisions listed in subsection (2) but an arbitrator has not yet been appointed for any of the arbitrations,</p> <p class=\"clause-e\">  (a)  one arbitrator shall be appointed for all of the arbitrations; and</p> <p class=\"clause-e\">  (b)  the arbitrations shall be held as one arbitration.  O. Reg. 133/01, s. 1.</p> <p class=\"subsection-e\">  (2) Subsection (1) applies with respect to an arbitration commenced under a regulation made under:</p> <p class=\"paragraph-e\">  1.  Clause 22 (1) (e.2) and paragraph 2 of subsection 22 (2.1) of the <i>Ambulance Act</i>.</p> <p class=\"paragraph-e\">  2.  Clause 22 (1) (e.5) and paragraph 2 of subsection 22 (2.3) of the <i>Ambulance Act</i>.</p> <p class=\"paragraph-e\">  3.  Subsection 22.0.1 (1), clause 22.0.1 (2) (b) and paragraph 2 of subsection 22.0.1 (2.1) of the <i>Ambulance Act</i>. </p> <p class=\"paragraph-e\">  4.  Clause 82 (1) (w) of the <i>Child Care and Early Years Act, 2014</i>.</p> <p class=\"paragraph-e\">  5.  Paragraph 42 of subsection 55 (1) and paragraph 2 of subsection 55 (8) of the <i>Ontario</i><i> Disability Support Program Act, 1997</i>.</p> <p class=\"paragraph-e\">  6.  Paragraph 9 or 11 of subsection 174 (1) and paragraph 2 of subsection 174 (2) of the <i>Social Housing Reform Act, 2000</i>.  O. Reg. 133/01, s. 1; O. Reg. 325/15, s. 3.</p> <p class=\"subsection-e\">  (3) An arbitration under this section is governed by the <i>Arbitration Act, 1991</i>, subject to the following rules:</p> <p class=\"paragraph-e\">  1.  The parties may jointly appoint a single arbitrator on or after the day the arbitrations are consolidated. </p> <p class=\"paragraph-e\">  2.  If the parties are entitled to appoint an arbitrator jointly but have not done so, the Superior Court of Justice may make the appointment on a party’s application under section 10 of the <i>Arbitration Act, 1991</i>.</p> <p class=\"paragraph-e\">  3.  The arbitrator shall make a final award that disposes of the issue within three months after being appointed.</p> <p class=\"paragraph-e\">  4.  The date by which the arbitrator is required to make an award shall not be extended by a court, despite section 39 of the <i>Arbitration Act, 1991</i>.  However, that date may be extended by agreement of the parties.</p> <p class=\"paragraph-e\">  5.  The final award shall apportion among the parties the prescribed costs with respect to the geographic area or proposed geographic area.</p> <p class=\"paragraph-e\">  6.  The arbitration shall not deal with the prescribed costs incurred before the designation date.</p> <p class=\"paragraph-e\">  6.1  An arbitration between Haldimand County and Norfolk County shall not deal with the prescribed costs payable or to be payable under this Regulation by either of them for a period before January 1, 2002.</p> <p class=\"paragraph-e\">  7.  The final award may be effective with respect to a period or periods before it is made and, in that case, shall provide for a monetary reconciliation among the parties.</p> <p class=\"paragraph-e\">  8.  A party may appeal the final award to the Superior Court of Justice only on a question of law, with leave, which the court shall grant only if it is satisfied that the conditions in clauses 45 (1) (a) and (b) of the <i>Arbitration Act, 1991</i> are met.  No appeal lies on a question of fact or of mixed law and fact, despite any agreement by the parties.</p> <p class=\"paragraph-e\">  9.  The arbitrator shall provide a copy of the final award to the Minister forthwith after it is made.</p> <p class=\"paragraph-e\">  10.  At any time during the arbitration, the parties may enter into an agreement under section 13.2 that includes an agreement apportioning among the parties that part of the costs of the arbitration attributable to the prescribed costs, in which case that part of the arbitration terminates.</p> <p class=\"paragraph-e\">  11.  The parties may, at any time, amend that part of the final award concerning the prescribed costs by agreement or replace that part of the award with an agreement under section 13.2.</p> <p class=\"paragraph-e\">  12.  That part of the final award in the consolidated arbitration attributable to the prescribed costs comes into effect in accordance with subsection 13.5 (3), 13.5.1 (3), 13.6 (2) or 13.7 (4), as the case may be.  O. Reg. 274/98, s. 2; O. Reg. 12/02, s. 8; O. Reg. 562/06, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Accommodation for Appeals</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. A delivery agent shall provide a suitable room and other necessary accommodation for holding hearings of the Tribunal in the delivery agent’s geographic area.  O. Reg. 228/98, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b>A delivery agent shall provide a suitable room and other necessary accommodation for holding hearings of the Tribunal in the delivery agent’s geographic area.  O. Reg. 228/98, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. Revoked:  O. Reg. 378/05, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 378/05, s. 1.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/980135\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

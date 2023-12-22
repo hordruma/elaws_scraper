@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 314/17: DERIVATIVES TRADED BY CROWN AGENTS",
+        "reg_name_text": "DERIVATIVES TRADED BY CROWN AGENTS",
+        "citation": "O. Reg. 314/17: ",
+        "act_under": "Securities Act",
+        "url": "https://www.ontario.ca/laws/regulation/170314",
+        "date_scraped": "2023-12-19 02:12:17"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "January  1, 2018",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/170314/v1",
+            "valid_from": "July 28, 2017",
+            "valid_to": "December 31, 2017"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Crown agents",
+            "content": " 1. The following are prescribed for the purposes of paragraph 142 (3) (d) of the Act: 1. Metrolinx, when it is acting as agent of Her Majesty in right of Ontario. 2. Ontario Electricity Financial Corporation. 3. Ontario Infrastructure and Lands Corporation, when it is acting as agent of Her Majesty in right of Ontario.",
+            "raw_html": "<p class=\"section-e\"> <b>1.</b> The following are prescribed for the purposes of paragraph 142 (3) (d) of the Act:</p> <p class=\"paragraph-e\">  1. Metrolinx, when it is acting as agent of Her Majesty in right of Ontario.</p> <p class=\"paragraph-e\">  2. Ontario Electricity Financial Corporation.</p> <p class=\"paragraph-e\">  3. Ontario Infrastructure and Lands Corporation, when it is acting as agent of Her Majesty in right of Ontario.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Crown agents",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Crown agents",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/170314\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

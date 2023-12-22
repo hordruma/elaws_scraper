@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 143/14: ADDITIONAL OBJECTS OF THE OPA",
+        "reg_name_text": "ADDITIONAL OBJECTS OF THE OPa",
+        "citation": "O. Reg. 143/14: ADDITIONAL OBJECTS OF THE OPA",
+        "act_under": "Electricity Act, 1998   Loi de 1998 sur l’électricité",
+        "url": "https://www.ontario.ca/laws/regulation/140143",
+        "date_scraped": "2023-12-19 04:10:56"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/140143/v2",
+            "valid_from": "December 16, 2014",
+            "valid_to": "December 31, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/140143/v1",
+            "valid_from": "July 18, 2014",
+            "valid_to": "December 15, 2014"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Additional objects",
+            "content": "  1. The following are additional objects of the OPA: 1. To engage in activities that facilitate incremental changes in electricity consumption by consumers or classes of consumers, by means of contract-based rebates, refunds or offsetting payments related to electricity costs associated with the incremental changes.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>The following are additional objects of the OPA:</p> <p class=\"paragraph-e\">  1. To engage in activities that facilitate incremental changes in electricity consumption by consumers or classes of consumers, by means of contract-based rebates, refunds or offsetting payments related to electricity costs associated with the incremental changes. </p>"
+        },
+        {
+            "id": "2.",
+            "section": "Additional objects",
+            "content": "  2. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"><b>  2. </b><span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Additional objects",
+            "content": "    ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

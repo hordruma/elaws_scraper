@@ -1,0 +1,34 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 113/96: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "O. Reg. 113/96: ",
+        "act_under": "Health Care Accessibility Act   Loi sur l’accessibilité aux services de santé",
+        "url": "https://www.ontario.ca/laws/regulation/960113",
+        "date_scraped": "2023-12-19 18:35:00"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/960113/v1",
+            "valid_from": "January  1, 1997",
+            "valid_to": "September 22, 2004"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": "1. A hospital may accept co-payments for accommodation and meals under section 10 of Regulation 552 of the Revised Regulations of Ontario, 1990 (chronic care). O. Reg. 495/96, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>A hospital may accept co-payments for accommodation and meals under section 10 of Regulation 552 of the Revised Regulations of Ontario, 1990 (chronic care). O. Reg. 495/96, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": "2. Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 113/96, s. 2. ",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 113/96, s. 2.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

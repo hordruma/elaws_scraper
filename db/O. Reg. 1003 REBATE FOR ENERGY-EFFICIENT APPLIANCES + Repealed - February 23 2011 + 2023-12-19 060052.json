@@ -1,0 +1,34 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 10/03: REBATE FOR ENERGY-EFFICIENT APPLIANCES",
+        "reg_name_text": "REBATE FOR ENERGY-EFFICIENT APPLIANCES",
+        "citation": "O. Reg. 10/03: ",
+        "act_under": "Retail Sales Tax Act   Loi sur la taxe de vente au détail",
+        "url": "https://www.ontario.ca/laws/regulation/030010",
+        "date_scraped": "2023-12-19 06:00:52"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/030010/v1",
+            "valid_from": "January 17, 2003",
+            "valid_to": "February 22, 2011"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Household appliances",
+            "content": "1. The following household appliances are prescribed by the Minister for the purposes of the definition of “appliance” in subsection 9.1 (1) of the Act: 1. Freezers. O. Reg. 10/03, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>The following household appliances are prescribed by the Minister for the purposes of the definition of “appliance” in subsection 9.1 (1) of the Act:</p> <p class=\"paragraph-e\">1. Freezers. O. Reg. 10/03, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Household appliances",
+            "content": "2. Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 10/03, s. 2. ",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 10/03, s. 2.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

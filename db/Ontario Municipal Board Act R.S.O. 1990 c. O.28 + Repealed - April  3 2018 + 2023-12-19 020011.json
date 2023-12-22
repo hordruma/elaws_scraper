@@ -1,0 +1,1138 @@
+{
+    "act_info": {
+        "full_title": "Ontario Municipal Board Act, R.S.O. 1990, c. O.28",
+        "act_name_text": "Ontario Municipal Board Act",
+        "citation": "R.S.O. 1990, c. O.28",
+        "url": "https://www.ontario.ca/laws/statute/90o28",
+        "date_scraped": "2023-12-19 02:00:14"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/statute/90o28/v9",
+            "valid_from": "January  1, 2018",
+            "valid_to": "April  2, 2018"
+        },
+        {
+            "a_href": "/laws/statute/90o28/v8",
+            "valid_from": "December 14, 2017",
+            "valid_to": "December 31, 2017"
+        },
+        {
+            "a_href": "/laws/statute/90o28/v7",
+            "valid_from": "December 12, 2017",
+            "valid_to": "December 13, 2017"
+        },
+        {
+            "a_href": "/laws/statute/90o28/v6",
+            "valid_from": "December 15, 2009",
+            "valid_to": "December 11, 2017"
+        },
+        {
+            "a_href": "/laws/statute/90o28/v5",
+            "valid_from": "August 20, 2007",
+            "valid_to": "December 14, 2009"
+        },
+        {
+            "a_href": "/laws/statute/90o28/v4",
+            "valid_from": "January  1, 2007",
+            "valid_to": "August 19, 2007"
+        },
+        {
+            "a_href": "/laws/statute/90o28/v3",
+            "valid_from": "December 20, 2006",
+            "valid_to": "December 31, 2006"
+        },
+        {
+            "a_href": "/laws/statute/90o28/v2",
+            "valid_from": "June 22, 2006",
+            "valid_to": "December 19, 2006"
+        },
+        {
+            "a_href": "/laws/statute/90o28/v1",
+            "valid_from": "January  1, 2003",
+            "valid_to": "June 21, 2006"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": null,
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I  ",
+            "section_x": "PART I INTERPRETATION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION",
+            "section_y": "Definitions",
+            "content": "1 (1) In this Act, “Board” means the Ontario Municipal Board; (“Commission”) “local board” means a school board, public utility commission, transportation commission, public library board, board of park management, local board of health, board of commissioners of police, planning board, or any other board, commission, committee, body or local authority established or exercising any power or authority under any general or special Act with respect to any of the affairs or purposes, including school purposes, of a municipality or of two or more municipalities or parts thereof; (“conseil local”) “municipality” includes a local board of a municipality and a board, commission or other local authority exercising any power with respect to municipal affairs or purposes, including school purposes, in an unorganized township or unsurveyed territory;  (“municipalité”) “public utility” means a waterworks, gasworks, including works for the production, transmission, distribution and supply of natural gas, electric heat, light and power works, and telegraph lines, or any works supplying the general public with necessaries or conveniences. (“service public”)  R.S.O. 1990, c. O.28, s. 1 (1); 2002, c. 17, Sched. F, Table. Interpretation (2) The interpretation sections of The Railways Act, being chapter 331 of the Revised Statutes of Ontario, 1950, apply to this Act.  R.S.O. 1990, c. O.28, s. 1 (2). Section Amendments with date in force (d/m/y) 2002, c. 17, Sched. F, Table - 01/01/2003",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>1 </b>(1) In this Act,</p> <p class=\"definition\">“Board” means the Ontario Municipal Board; (“Commission”)</p> <p class=\"definition\">“local board” means a school board, public utility commission, transportation commission, public library board, board of park management, local board of health, board of commissioners of police, planning board, or any other board, commission, committee, body or local authority established or exercising any power or authority under any general or special Act with respect to any of the affairs or purposes, including school purposes, of a municipality or of two or more municipalities or parts thereof; (“conseil local”)</p> <p class=\"definition\">“municipality” includes a local board of a municipality and a board, commission or other local authority exercising any power with respect to municipal affairs or purposes, including school purposes, in an unorganized township or unsurveyed territory;  (“municipalité”)</p> <p class=\"definition\">“public utility” means a waterworks, gasworks, including works for the production, transmission, distribution and supply of natural gas, electric heat, light and power works, and telegraph lines, or any works supplying the general public with necessaries or conveniences. (“service public”)  R.S.O. 1990, c. O.28, s. 1 (1); 2002, c. 17, Sched. F, Table.</p> <p class=\"headnote\">Interpretation</p> <p class=\"subsection\">(2) The interpretation sections of <i>The Railways Act</i>, being chapter 331 of the Revised Statutes of Ontario, 1950, apply to this Act.  R.S.O. 1990, c. O.28, s. 1 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S02017#schedfs2\">2002, c. 17, Sched. F, Table</a></span> - 01/01/2003</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "2.",
+            "section_x": "Application of Act to all railways",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION",
+            "section_y": "Application of Act to all railways",
+            "content": "2 The provisions of this Act relating to railways apply to all railways, whether operated by steam, electricity or other motive power, including street railways.  R.S.O. 1990, c. O.28, s. 2.",
+            "raw_html": "<p class=\"section\"><a name=\"BK2\"></a><b>2 </b>The provisions of this Act relating to railways apply to all railways, whether operated by steam, electricity or other motive power, including street railways.  R.S.O. 1990, c. O.28, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "3.",
+            "section_x": "References to former board",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION",
+            "section_y": "References to former board",
+            "content": "3 Where in any general or special Act reference is made to the Ontario Railway and Municipal Board or to that board under any other name, it shall be deemed that such reference is made to the Board as named in this Act.  R.S.O. 1990, c. O.28, s. 3. PART II   CONSTITUTION OF BOARD",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>3 </b>Where in any general or special Act reference is made to the Ontario Railway and Municipal Board or to that board under any other name, it shall be deemed that such reference is made to the Board as named in this Act.  R.S.O. 1990, c. O.28, s. 3.</p> <p class=\"partnum\"><a name=\"BK4\"></a>PART II <br/>  CONSTITUTION OF BOARD</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "PART II  ",
+            "section_x": "PART II CONSTITUTION OF BOARD",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "4.",
+            "section_x": "Municipal Board continued",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Municipal Board continued",
+            "content": "4 The Ontario Municipal Board is continued under the name Ontario Municipal Board in English and Commission des affaires municipales de l’Ontario in French under the provisions of this Act.  R.S.O. 1990, c. O.28, s. 4.",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>4 </b>The Ontario Municipal Board is continued under the name Ontario Municipal Board in English and Commission des affaires municipales de l’Ontario in French under the provisions of this Act.  R.S.O. 1990, c. O.28, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "5.",
+            "section_x": "Composition of Board",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Composition of Board",
+            "content": "5 (1) The Board shall be composed of as many members as the Lieutenant Governor in Council may from time to time determine.  R.S.O. 1990, c. O.28, s. 5 (1). Appointments (2) The Lieutenant Governor in Council shall appoint the members of the Board and shall appoint one member as chair and may appoint one vice-chair or more.  R.S.O. 1990, c. O.28, s. 5 (2). Salary (3) A member of the Board shall be paid such salary as may be fixed by the Lieutenant Governor in Council.  R.S.O. 1990, c. O.28, s. 5 (3). How payable (4) The salaries and travelling expenses of members of the Board are payable out of the money appropriated therefor by the Legislature.  R.S.O. 1990, c. O.28, s. 5 (4). (5) Repealed:  2006, c. 35, Sched. C, s. 103 (1). Pension (6) The Public Service Pension Act applies and shall be deemed always to have applied to members of the Board.  R.S.O. 1990, c. O.28, s. 5 (6). Section Amendments with date in force (d/m/y) 2006, c. 35, Sched. C, s. 103 (1) - 20/08/2007 6 Repealed:  2009, c. 33, Sched. 2, s. 54 (1). Section Amendments with date in force (d/m/y) 2002, c. 17, Sched. F, Table - 01/01/2003 2006, c. 32, Sched. C, s. 43 (1) - 01/01/2007 2009, c. 33, Sched. 2, s. 54 (1) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>5 </b>(1) The Board shall be composed of as many members as the Lieutenant Governor in Council may from time to time determine.  R.S.O. 1990, c. O.28, s. 5 (1).</p> <p class=\"headnote\">Appointments</p> <p class=\"subsection\">(2) The Lieutenant Governor in Council shall appoint the members of the Board and shall appoint one member as chair and may appoint one vice-chair or more.  R.S.O. 1990, c. O.28, s. 5 (2).</p> <p class=\"headnote\">Salary</p> <p class=\"subsection\">(3) A member of the Board shall be paid such salary as may be fixed by the Lieutenant Governor in Council.  R.S.O. 1990, c. O.28, s. 5 (3).</p> <p class=\"headnote\">How payable</p> <p class=\"subsection\">(4) The salaries and travelling expenses of members of the Board are payable out of the money appropriated therefor by the Legislature.  R.S.O. 1990, c. O.28, s. 5 (4).</p> <p class=\"subsection\">(5) <span class=\"ovsmallcap\">Repealed</span>:  2006, c. 35, Sched. C, s. 103 (1).</p> <p class=\"headnote\">Pension</p> <p class=\"subsection\">(6) The <i>Public Service Pension Act</i> applies and shall be deemed always to have applied to members of the Board.  R.S.O. 1990, c. O.28, s. 5 (6).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06035#schedcs103s1\">2006, c. 35, Sched. C, s. 103 (1)</a></span> - 20/08/2007</p> <p class=\"section\"><b>6 </b><span class=\"ovsmallcap\">Repealed</span>:  2009, c. 33, Sched. 2, s. 54 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S02017#schedfs2\">2002, c. 17, Sched. F, Table</a></span> - 01/01/2003</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06032#schedcs43s1\">2006, c. 32, Sched. C, s. 43 (1)</a></span> - 01/01/2007</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched2s54s1\">2009, c. 33, Sched. 2, s. 54 (1)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "7.",
+            "section_x": "Vacancies",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Vacancies",
+            "content": "7 Vacancies in membership of the Board caused by death, resignation or otherwise may be filled by the Lieutenant Governor in Council.  R.S.O. 1990, c. O.28, s. 7. 8 Repealed:  2006, c. 34, s. 38. Section Amendments with date in force (d/m/y) 2006, c. 34, s. 38\r\n- 20/12/2006",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>7 </b>Vacancies in membership of the Board caused by death, resignation or otherwise may be filled by the Lieutenant Governor in Council.  R.S.O. 1990, c. O.28, s. 7.</p> <p class=\"section\"><b>8 </b><span class=\"ovsmallcap\">Repealed</span>:  2006, c. 34, s. 38.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06034#s38\">2006, c. 34, s. 38</a></span>\r\n- 20/12/2006</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "9.",
+            "section_x": "Absence, etc., of chair",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Absence, etc., of chair",
+            "content": "9 Where, (a) the chair is absent or unable to act, a vice-chair designated by the chair; or (b) the office of chair is vacant, a vice-chair designated by the Attorney General, has and shall exercise the jurisdiction and powers of the chair, including the power to complete any unfinished matter.  R.S.O. 1990, c. O.28, s. 9.",
+            "raw_html": "<p class=\"section\"><a name=\"BK8\"></a><b>9 </b>Where,</p> <p class=\"paragraph\">  (a) the chair is absent or unable to act, a vice-chair designated by the chair; or</p> <p class=\"paragraph\">  (b) the office of chair is vacant, a vice-chair designated by the Attorney General,</p> <p class=\"section\">has and shall exercise the jurisdiction and powers of the chair, including the power to complete any unfinished matter.  R.S.O. 1990, c. O.28, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "10.",
+            "section_x": "Presumption of having duly acted",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Presumption of having duly acted",
+            "content": "10 Whenever it appears that a vice-chair has acted for and instead of the chair, it shall conclusively be presumed that he or she has so acted in the absence or disability of or vacancy in the office of the chair.  R.S.O. 1990, c. O.28, s. 10.",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>10 </b>Whenever it appears that a vice-chair has acted for and instead of the chair, it shall conclusively be presumed that he or she has so acted in the absence or disability of or vacancy in the office of the chair.  R.S.O. 1990, c. O.28, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "11.",
+            "section_x": "Powers of Board on vacancy",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Powers of Board on vacancy",
+            "content": "11 A vacancy in membership of the Board or the absence or inability of a member to act does not impair the powers of the Board or of the remaining members who shall exercise all the jurisdiction and powers of the Board.  R.S.O. 1990, c. O.28, s. 11.",
+            "raw_html": "<p class=\"section\"><a name=\"BK10\"></a><b>11 </b>A vacancy in membership of the Board or the absence or inability of a member to act does not impair the powers of the Board or of the remaining members who shall exercise all the jurisdiction and powers of the Board.  R.S.O. 1990, c. O.28, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "12.",
+            "section_x": "Term expires",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Term expires",
+            "content": "12 If a member of the Board commences to hold a hearing and the term of office of the member expires before the proceeding is disposed of, the member shall remain a member of the Board for the purpose of completing the disposition of the proceeding in the same manner as if his or her term of office had not expired.  1994, c. 23, s. 70. Section Amendments with date in force (d/m/y) 1994, c. 23, s. 70 - 28/03/1995",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>12 </b>If a member of the Board commences to hold a hearing and the term of office of the member expires before the proceeding is disposed of, the member shall remain a member of the Board for the purpose of completing the disposition of the proceeding in the same manner as if his or her term of office had not expired.  1994, c. 23, s. 70.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1994, c. 23, s. 70 - 28/03/1995</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "13.",
+            "section_x": "Quorum",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Quorum",
+            "content": "13 (1) One member of the Board is a quorum and is sufficient for the exercise of all of the jurisdiction and powers of the Board.  1994, c. 23, s. 71. Where more than two members attend hearing (2) Where the number of members of the Board attending at the hearing of an application is more than two, the number shall be uneven, and the decision of the majority of such members constitutes the decision of the Board. Signature of orders, etc. (3) All orders, rules, regulations, certificates and other documents made or issued by the Board may be signed by any member of the Board or the secretary of the Board or any officer of the Board designated by the Lieutenant Governor in Council as a signing officer.  R.S.O. 1990, c. O.28, s. 13 (2, 3). Section Amendments with date in force (d/m/y) 1994, c. 23, s. 71 - 28/03/1995",
+            "raw_html": "<p class=\"section\"><a name=\"BK12\"></a><b>13 </b>(1) One member of the Board is a quorum and is sufficient for the exercise of all of the jurisdiction and powers of the Board.  1994, c. 23, s. 71.</p> <p class=\"headnote\">Where more than two members attend hearing</p> <p class=\"subsection\">(2) Where the number of members of the Board attending at the hearing of an application is more than two, the number shall be uneven, and the decision of the majority of such members constitutes the decision of the Board.</p> <p class=\"headnote\">Signature of orders, etc.</p> <p class=\"subsection\">(3) All orders, rules, regulations, certificates and other documents made or issued by the Board may be signed by any member of the Board or the secretary of the Board or any officer of the Board designated by the Lieutenant Governor in Council as a signing officer.  R.S.O. 1990, c. O.28, s. 13 (2, 3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1994, c. 23, s. 71 - 28/03/1995</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "14.",
+            "section_x": "Assignment of members and staff for sittings",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Assignment of members and staff for sittings",
+            "content": "14 The chair shall from time to time assign the members of the Board to its various sittings and may change any such assignments at any time and the chair may from time to time direct any officer or other member of the staff of the Board to attend any of the sittings of the Board and may prescribe his or her duties.  R.S.O. 1990, c. O.28, s. 14. 15., 16 Repealed:  1994, c. 23, s. 72. Section Amendments with date in force (d/m/y) 1994, c. 23, s. 72 - 28/03/1995",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>14 </b>The chair shall from time to time assign the members of the Board to its various sittings and may change any such assignments at any time and the chair may from time to time direct any officer or other member of the staff of the Board to attend any of the sittings of the Board and may prescribe his or her duties.  R.S.O. 1990, c. O.28, s. 14.</p> <p class=\"section\"><b>15., 16 </b><span>Repealed</span>:  1994, c. 23, s. 72.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1994, c. 23, s. 72 - 28/03/1995</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "17.",
+            "section_x": "Attendance to duties",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Attendance to duties",
+            "content": "17 Unless otherwise authorized by statute or the rules of the Assembly or the Lieutenant Governor in Council, the members shall devote the whole of their time to the performance of their duties as members of the Board, and shall not accept or hold any office or employment inconsistent with such duties.  R.S.O. 1990, c. O.28, s. 17. 18.-20 Repealed:  2009, c. 33, Sched. 2, s. 54 (2). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 2, s. 54 (2) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>17 </b>Unless otherwise authorized by statute or the rules of the Assembly or the Lieutenant Governor in Council, the members shall devote the whole of their time to the performance of their duties as members of the Board, and shall not accept or hold any office or employment inconsistent with such duties.  R.S.O. 1990, c. O.28, s. 17.</p> <p class=\"section\"><b>18.-20 </b><span class=\"ovsmallcap\">Repealed</span>:  2009, c. 33, Sched. 2, s. 54 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched2s54s2\">2009, c. 33, Sched. 2, s. 54 (2)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "21.",
+            "section_x": "Securing assistance for purpose of inquiry",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Securing assistance for purpose of inquiry",
+            "content": "21 For the purpose of any inquiry or examination conducted by it or in the performance of any of the other duties assigned to it by this or any other Act or by the Lieutenant Governor in Council, the Board may, with the consent of the Minister in charge of any ministry of the Government, avail itself of the services of any officer or employee of such ministry, and for any such purpose it may, with the approval of the Lieutenant Governor in Council, avail itself of the services of any member, officer or employee of any board or commission established by Act of the Legislature.  R.S.O. 1990, c. O.28, s. 21.",
+            "raw_html": "<p class=\"section\"><a name=\"BK15\"></a><b>21 </b>For the purpose of any inquiry or examination conducted by it or in the performance of any of the other duties assigned to it by this or any other Act or by the Lieutenant Governor in Council, the Board may, with the consent of the Minister in charge of any ministry of the Government, avail itself of the services of any officer or employee of such ministry, and for any such purpose it may, with the approval of the Lieutenant Governor in Council, avail itself of the services of any member, officer or employee of any board or commission established by Act of the Legislature.  R.S.O. 1990, c. O.28, s. 21.</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "22.",
+            "section_x": "Offices at Toronto",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Offices at Toronto",
+            "content": "22 The Lieutenant Governor in Council shall provide within the City of Toronto a suitable place in which the sittings of the Board may be held and also suitable offices for the members, secretary, and other employees and all necessary furnishings, stationery and equipment for the establishment, conduct and maintenance of the same and for the performance of the duties of the Board.  R.S.O. 1990, c. O.28, s. 22.",
+            "raw_html": "<p class=\"section\"><a name=\"BK16\"></a><b>22 </b>The Lieutenant Governor in Council shall provide within the City of Toronto a suitable place in which the sittings of the Board may be held and also suitable offices for the members, secretary, and other employees and all necessary furnishings, stationery and equipment for the establishment, conduct and maintenance of the same and for the performance of the duties of the Board.  R.S.O. 1990, c. O.28, s. 22.</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "23.",
+            "section_x": "Sittings of Board",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Sittings of Board",
+            "content": "23 The Board shall sit at such times and places within Ontario as the chair may from time to time designate and shall conduct its proceedings in such manner as it may consider most convenient for the speedy and effectual dispatch of its duties.  R.S.O. 1990, c. O.28, s. 23.",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>23 </b>The Board shall sit at such times and places within Ontario as the chair may from time to time designate and shall conduct its proceedings in such manner as it may consider most convenient for the speedy and effectual dispatch of its duties.  R.S.O. 1990, c. O.28, s. 23.</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "24.",
+            "section_x": "Private or public",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Private or public",
+            "content": "24 The sittings of the Board may be either private or open to the public, but any complaint made to the Board shall, on the application of any party thereto, be publicly heard.  R.S.O. 1990, c. O.28, s. 24.",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>24 </b>The sittings of the Board may be either private or open to the public, but any complaint made to the Board shall, on the application of any party thereto, be publicly heard.  R.S.O. 1990, c. O.28, s. 24.</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "25.",
+            "section_x": "Use of court house",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Use of court house",
+            "content": "25 Where sittings of the Board or any member thereof are appointed to be held in any municipality in which a court house is situate, the Board or members have in all respects the same authority and right as a judge of the Superior Court of Justice with respect to the use of the court house and any part thereof, and of other buildings and apartments set aside in the municipality for the administration of justice.  R.S.O. 1990, c. O.28, s. 25; 2006, c. 19, Sched. C, s. 1 (1). Section Amendments with date in force (d/m/y) 2006, c. 19, Sched. C, s. 1 (1) - 22/06/2006",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>25 </b>Where sittings of the Board or any member thereof are appointed to be held in any municipality in which a court house is situate, the Board or members have in all respects the same authority and right as a judge of the Superior Court of Justice with respect to the use of the court house and any part thereof, and of other buildings and apartments set aside in the municipality for the administration of justice.  R.S.O. 1990, c. O.28, s. 25; 2006, c. 19, Sched. C, s. 1 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedcs1s1\">2006, c. 19, Sched. C, s. 1 (1)</a></span> - 22/06/2006</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "26.",
+            "section_x": "Use of town hall",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Use of town hall",
+            "content": "26 Where sittings of the Board or any member thereof are appointed to be held in any municipality in which there is a hall belonging to the corporation thereof, but no court house, the corporation shall, upon request, allow such sittings to be held in such hall and shall make all arrangements necessary and suitable for such purpose.  R.S.O. 1990, c. O.28, s. 26.",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>26 </b>Where sittings of the Board or any member thereof are appointed to be held in any municipality in which there is a hall belonging to the corporation thereof, but no court house, the corporation shall, upon request, allow such sittings to be held in such hall and shall make all arrangements necessary and suitable for such purpose.  R.S.O. 1990, c. O.28, s. 26.</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "27.",
+            "section_x": "Experts",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Experts",
+            "content": "27 (1) The Lieutenant Governor in Council may from time to time, upon the recommendation of the Board, appoint one or more experts or persons having technical or special knowledge of matters or subjects within the jurisdiction of the Board or in question in respect of any particular matter or subject before the Board to assist the Board in an advisory or other capacity. Acting member (2) The Lieutenant Governor in Council, on the recommendation of the chair of the Board, may from time to time appoint as an acting member of the Board a person who, in the opinion of the chair, is specially qualified to assist the Board with respect to any particular application to be assigned by the chair to act with any two members of the Board for the purpose of hearing and determining such application and the person so appointed has all the powers of a member of the Board for such purpose and is entitled to such remuneration as the Lieutenant Governor in Council may authorize.  R.S.O. 1990, c. O.28, s. 27.",
+            "raw_html": "<p class=\"section\"><a name=\"BK21\"></a><b>27 </b>(1) The Lieutenant Governor in Council may from time to time, upon the recommendation of the Board, appoint one or more experts or persons having technical or special knowledge of matters or subjects within the jurisdiction of the Board or in question in respect of any particular matter or subject before the Board to assist the Board in an advisory or other capacity.</p> <p class=\"headnote\">Acting member</p> <p class=\"subsection\">(2) The Lieutenant Governor in Council, on the recommendation of the chair of the Board, may from time to time appoint as an acting member of the Board a person who, in the opinion of the chair, is specially qualified to assist the Board with respect to any particular application to be assigned by the chair to act with any two members of the Board for the purpose of hearing and determining such application and the person so appointed has all the powers of a member of the Board for such purpose and is entitled to such remuneration as the Lieutenant Governor in Council may authorize.  R.S.O. 1990, c. O.28, s. 27.</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "28.",
+            "section_x": "Secretary",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Secretary",
+            "content": "28 (1) There shall be a secretary of the Board who shall be appointed under Part III of the Public Service of Ontario Act, 2006.  R.S.O. 1990, c. O.28, s. 28 (1); 2006, c. 35, Sched. C, s. 103 (2). Acting secretary (2) Where the office of the secretary is vacant or in his or her absence or inability to act, the Board may appoint a temporary secretary, who shall act in the place of the secretary, or a member of the Board may act as secretary.  R.S.O. 1990, c. O.28, s. 28 (2). Section Amendments with date in force (d/m/y) 2006, c. 35, Sched. C, s. 103 (2) - 20/08/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>28 </b>(1) There shall be a secretary of the Board who shall be appointed under Part III of the <i>Public Service of Ontario Act, 2006</i>.  R.S.O. 1990, c. O.28, s. 28 (1); 2006, c. 35, Sched. C, s. 103 (2).</p> <p class=\"headnote\">Acting secretary</p> <p class=\"subsection\">(2) Where the office of the secretary is vacant or in his or her absence or inability to act, the Board may appoint a temporary secretary, who shall act in the place of the secretary, or a member of the Board may act as secretary.  R.S.O. 1990, c. O.28, s. 28 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06035#schedcs103s2\">2006, c. 35, Sched. C, s. 103 (2)</a></span> - 20/08/2007</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "29.",
+            "section_x": "Duties of secretary:",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Duties of secretary:",
+            "content": "29 It is the duty of the secretary, keep minutes (a) to keep a record of all applications to and proceedings before the Board or any member; custody of records (b) to have the custody and care of all records and documents of or pertaining to the business of or proceedings before the Board or any member, or filed in his or her office; authentication of regulations, orders, etc. (c) to have every order, rule, regulation and certificate drawn pursuant to the directions of the Board and according to the provisions of any statute affecting the same properly authenticated and issued, filed and otherwise dealt with as may be requisite; record books (d) to keep proper books of record in which he or she shall cause to be entered a true copy of every order, rule and regulation made by the Board and of every other document that the Board may require to be entered therein, and such entry constitutes and is the original record of every such order, rule, regulation and document; other matters (e) to carry out such other functions and duties as may by statute, the Lieutenant Governor in Council or the Board be assigned to him or her or his or her office; obey directions (f) to obey all rules, regulations and directions made or given by the Board touching his or her duties or his or her office.  R.S.O. 1990, c. O.28, s. 29.",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>29 </b>It is the duty of the secretary,</p> <p class=\"headnote\">keep minutes</p> <p class=\"paragraph\">  (a) to keep a record of all applications to and proceedings before the Board or any member;</p> <p class=\"headnote\">custody of records</p> <p class=\"paragraph\">  (b) to have the custody and care of all records and documents of or pertaining to the business of or proceedings before the Board or any member, or filed in his or her office;</p> <p class=\"headnote\">authentication of regulations, orders, etc.</p> <p class=\"paragraph\">  (c) to have every order, rule, regulation and certificate drawn pursuant to the directions of the Board and according to the provisions of any statute affecting the same properly authenticated and issued, filed and otherwise dealt with as may be requisite;</p> <p class=\"headnote\">record books</p> <p class=\"paragraph\">  (d) to keep proper books of record in which he or she shall cause to be entered a true copy of every order, rule and regulation made by the Board and of every other document that the Board may require to be entered therein, and such entry constitutes and is the original record of every such order, rule, regulation and document;</p> <p class=\"headnote\">other matters</p> <p class=\"paragraph\">  (e) to carry out such other functions and duties as may by statute, the Lieutenant Governor in Council or the Board be assigned to him or her or his or her office;</p> <p class=\"headnote\">obey directions</p> <p class=\"paragraph\">  (f) to obey all rules, regulations and directions made or given by the Board touching his or her duties or his or her office.  R.S.O. 1990, c. O.28, s. 29.</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "30.",
+            "section_x": "Certified copies of regulations or orders",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Certified copies of regulations or orders",
+            "content": "30 Upon application of any person and on payment of such fees as the Board may prescribe, the secretary shall deliver to such person a certified copy of any order, rule, regulation, certificate or other document made, given or issued by the Board.  R.S.O. 1990, c. O.28, s. 30.",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>30 </b>Upon application of any person and on payment of such fees as the Board may prescribe, the secretary shall deliver to such person a certified copy of any order, rule, regulation, certificate or other document made, given or issued by the Board.  R.S.O. 1990, c. O.28, s. 30.</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "31.",
+            "section_x": "Remuneration of appointee",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Remuneration of appointee",
+            "content": "31 Whenever the Board by virtue of any power vested in it appoints or directs any person other than a member of the staff of the Board to perform any service required by this or any other Act, such person shall be paid such sum for services and expenses as, upon the recommendation of the Board, the Lieutenant Governor in Council may approve.  R.S.O. 1990, c. O.28, s. 31.",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>31 </b>Whenever the Board by virtue of any power vested in it appoints or directs any person other than a member of the staff of the Board to perform any service required by this or any other Act, such person shall be paid such sum for services and expenses as, upon the recommendation of the Board, the Lieutenant Governor in Council may approve.  R.S.O. 1990, c. O.28, s. 31.</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "32.",
+            "section_x": "Protection from being called as witnesses",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Protection from being called as witnesses",
+            "content": "32 No member of the Board or its secretary or any of its staff is required to give testimony in any civil suit with regard to information obtained by him or her in the discharge of his or her official duty.  R.S.O. 1990, c. O.28, s. 32.",
+            "raw_html": "<p class=\"section\"><a name=\"BK26\"></a><b>32 </b>No member of the Board or its secretary or any of its staff is required to give testimony in any civil suit with regard to information obtained by him or her in the discharge of his or her official duty.  R.S.O. 1990, c. O.28, s. 32.</p>"
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "33.",
+            "section_x": "Protection from personal liability",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSTITUTION OF BOARD",
+            "section_y": "Protection from personal liability",
+            "content": "33 No member of the Board or its secretary or any of its staff is personally liable for anything done by it or by him or her under the authority of this or any other Act.  R.S.O. 1990, c. O.28, s. 33. PART III   GENERAL JURISDICTION AND POWERS",
+            "raw_html": "<p class=\"section\"><a name=\"BK27\"></a><b>33 </b>No member of the Board or its secretary or any of its staff is personally liable for anything done by it or by him or her under the authority of this or any other Act.  R.S.O. 1990, c. O.28, s. 33.</p> <p class=\"partnum\"><a name=\"BK28\"></a>PART III <br/>  GENERAL JURISDICTION AND POWERS</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "PART III  ",
+            "section_x": "PART III GENERAL JURISDICTION AND POWERS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "34.",
+            "section_x": "Board to have powers of court of record and a seal",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Board to have powers of court of record and a seal",
+            "content": "34 The Board for all purposes of this Act has all the powers of a court of record and shall have an official seal which shall be judicially noticed.  R.S.O. 1990, c. O.28, s. 34.",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>34 </b>The Board for all purposes of this Act has all the powers of a court of record and shall have an official seal which shall be judicially noticed.  R.S.O. 1990, c. O.28, s. 34.</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "35.",
+            "section_x": "Power to determine law and fact",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Power to determine law and fact",
+            "content": "35 The Board, as to all matters within its jurisdiction under this Act, has authority to hear and determine all questions of law or of fact.  R.S.O. 1990, c. O.28, s. 35.",
+            "raw_html": "<p class=\"section\"><a name=\"BK30\"></a><b>35 </b>The Board, as to all matters within its jurisdiction under this Act, has authority to hear and determine all questions of law or of fact.  R.S.O. 1990, c. O.28, s. 35.</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "36.",
+            "section_x": "Jurisdiction exclusive",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Jurisdiction exclusive",
+            "content": "36 The Board has exclusive jurisdiction in all cases and in respect of all matters in which jurisdiction is conferred on it by this Act or by any other general or special Act.  R.S.O. 1990, c. O.28, s. 36.",
+            "raw_html": "<p class=\"section\"><a name=\"BK31\"></a><b>36 </b>The Board has exclusive jurisdiction in all cases and in respect of all matters in which jurisdiction is conferred on it by this Act or by any other general or special Act.  R.S.O. 1990, c. O.28, s. 36.</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "37.",
+            "section_x": "General jurisdiction and powers",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "General jurisdiction and powers",
+            "content": "37 The Board has jurisdiction and power, (a) to hear and determine all applications made, proceedings instituted and matters brought before it under this Act or any other general or special Act and for such purpose to make such orders, rules and regulations, give such directions, issue such certificates and otherwise do and perform all such acts, matters, deeds and things, as may be necessary or incidental to the exercise of the powers conferred upon the Board under such Act; (b) to perform such other functions and duties as are now or hereafter conferred upon or assigned to the Board by statute or under statutory authority; (c) to order and require or forbid, forthwith or within any specified time and in any manner prescribed by the Board, the doing of any act, matter or thing or the omission or abstention from doing or continuance of any act, matter or thing, which any person, firm, company, corporation or municipality is or may be required to do or omit to be done or to abstain from doing or continuing under this or any other general or special Act, or under any order of the Board or any regulation, rule, by-law or direction made or given under any such Act or order or under any agreement entered into by such person, firm, company, corporation or municipality; (d) to make, give or issue or refuse to make, give or issue any order, directions, regulation, rule, permission, approval, certificate or direction, which it has power to make, give or issue. (e) despite the Statutory Powers Procedure Act, to hold hearings or other proceedings by a conference telephone call or any other electronic or automated means, subject to any rules made by the Board under section 91 regulating their use.  R.S.O. 1990, c. O.28, s. 37; 1994, c. 23, s. 73. Section Amendments with date in force (d/m/y) 1994, c. 23, s. 73 - 28/03/1995",
+            "raw_html": "<p class=\"section\"><a name=\"BK32\"></a><b>37 </b>The Board has jurisdiction and power,</p> <p class=\"paragraph\">  (a) to hear and determine all applications made, proceedings instituted and matters brought before it under this Act or any other general or special Act and for such purpose to make such orders, rules and regulations, give such directions, issue such certificates and otherwise do and perform all such acts, matters, deeds and things, as may be necessary or incidental to the exercise of the powers conferred upon the Board under such Act;</p> <p class=\"paragraph\">  (b) to perform such other functions and duties as are now or hereafter conferred upon or assigned to the Board by statute or under statutory authority;</p> <p class=\"paragraph\">  (c) to order and require or forbid, forthwith or within any specified time and in any manner prescribed by the Board, the doing of any act, matter or thing or the omission or abstention from doing or continuance of any act, matter or thing, which any person, firm, company, corporation or municipality is or may be required to do or omit to be done or to abstain from doing or continuing under this or any other general or special Act, or under any order of the Board or any regulation, rule, by-law or direction made or given under any such Act or order or under any agreement entered into by such person, firm, company, corporation or municipality;</p> <p class=\"paragraph\">  (d) to make, give or issue or refuse to make, give or issue any order, directions, regulation, rule, permission, approval, certificate or direction, which it has power to make, give or issue.</p> <p class=\"paragraph\">  (e) despite the <i>Statutory Powers Procedure Act</i>, to hold hearings or other proceedings by a conference telephone call or any other electronic or automated means, subject to any rules made by the Board under section 91 regulating their use.  R.S.O. 1990, c. O.28, s. 37; 1994, c. 23, s. 73.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1994, c. 23, s. 73 - 28/03/1995</p>"
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "37.1",
+            "section_x": "Dismissal without hearing",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Dismissal without hearing",
+            "content": "37.1 (1) Despite the Statutory Powers Procedure Act or any other Act, the Board may dismiss any matter brought before it without holding a hearing on its own motion if, (a) the fee prescribed under this Act has not been paid; or (b) the person or public body that brought the matter before the Board has not responded to a request by the Board for further information within the time specified by the Board. Opportunity to respond (2) Before dismissing a matter brought before the Board, the Board shall notify the person or public body that brought the matter before it and give the person or public body an opportunity to pay the fee or respond to a request for further information and the Board may dismiss the matter after holding a hearing or without holding a hearing on the motion, as it considers appropriate.  1994, c. 23, s. 74. Section Amendments with date in force (d/m/y) 1994, c. 23, s. 74 - 28/03/1995",
+            "raw_html": "<p class=\"section\"><a name=\"BK33\"></a><b>37.1 </b>(1) Despite the <i>Statutory Powers Procedure Act</i> or any other Act, the Board may dismiss any matter brought before it without holding a hearing on its own motion if,</p> <p class=\"paragraph\">  (a) the fee prescribed under this Act has not been paid; or</p> <p class=\"paragraph\">  (b) the person or public body that brought the matter before the Board has not responded to a request by the Board for further information within the time specified by the Board.</p> <p class=\"headnote\">Opportunity to respond</p> <p class=\"subsection\">(2) Before dismissing a matter brought before the Board, the Board shall notify the person or public body that brought the matter before it and give the person or public body an opportunity to pay the fee or respond to a request for further information and the Board may dismiss the matter after holding a hearing or without holding a hearing on the motion, as it considers appropriate.  1994, c. 23, s. 74.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1994, c. 23, s. 74 - 28/03/1995</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "38.",
+            "section_x": "Powers of Superior Court of Justice exercisable by Board",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Powers of Superior Court of Justice exercisable by Board",
+            "content": "38 The Board, for the due exercise of its jurisdiction and powers and otherwise for carrying into effect the provisions of this or any other general or special Act, has all such powers, rights and privileges as are vested in the Superior Court of Justice with respect to the amendment of proceedings, addition or substitution of parties, attendance and examination of witnesses, production and inspection of documents, entry on and inspection of property, enforcement of its orders and all other matters necessary or proper therefor.  R.S.O. 1990, c. O.28, s. 38; 2006, c. 19, Sched. C, s. 1 (1). Section Amendments with date in force (d/m/y) 2006, c. 19, Sched. C, s. 1 (1) - 22/06/2006",
+            "raw_html": "<p class=\"section\"><a name=\"BK34\"></a><b>38 </b>The Board, for the due exercise of its jurisdiction and powers and otherwise for carrying into effect the provisions of this or any other general or special Act, has all such powers, rights and privileges as are vested in the Superior Court of Justice with respect to the amendment of proceedings, addition or substitution of parties, attendance and examination of witnesses, production and inspection of documents, entry on and inspection of property, enforcement of its orders and all other matters necessary or proper therefor.  R.S.O. 1990, c. O.28, s. 38; 2006, c. 19, Sched. C, s. 1 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedcs1s1\">2006, c. 19, Sched. C, s. 1 (1)</a></span> - 22/06/2006</p>"
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "39.",
+            "section_x": "Jurisdiction under letters patent",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Jurisdiction under letters patent",
+            "content": "39 Where, by the provisions of any letters patent or supplementary letters patent of any corporation, heretofore or hereafter issued under the Corporations Act or any other general or special Act, any jurisdiction is conferred upon the Board or it is provided that any matter in any way may be referred to the Board with respect thereto, it has power to inquire into, hear and determine all matters and things necessary or incidental to the due exercise of such jurisdiction and reference and to make and give orders, directions, regulations, rules, permissions, approvals, sanctions and certificates as to the Board may seem proper.  R.S.O. 1990, c. O.28, s. 39.",
+            "raw_html": "<p class=\"section\"><a name=\"BK35\"></a><b>39 </b>Where, by the provisions of any letters patent or supplementary letters patent of any corporation, heretofore or hereafter issued under the <i>Corporations Act</i> or any other general or special Act, any jurisdiction is conferred upon the Board or it is provided that any matter in any way may be referred to the Board with respect thereto, it has power to inquire into, hear and determine all matters and things necessary or incidental to the due exercise of such jurisdiction and reference and to make and give orders, directions, regulations, rules, permissions, approvals, sanctions and certificates as to the Board may seem proper.  R.S.O. 1990, c. O.28, s. 39.</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "40.",
+            "section_x": "Where Board’s approval not given",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Where Board’s approval not given",
+            "content": "40 Where by this or any other general or special Act the permission, approval or sanction of the Board is necessary to the exercise of any power or the doing, or the abstention from doing or continuing to do any act, matter, deed or thing, such power shall not be exercised or act, matter, deed or thing be done or abstained from being done or be continued until such permission, approval or sanction has been obtained.  R.S.O. 1990, c. O.28, s. 40.",
+            "raw_html": "<p class=\"section\"><a name=\"BK36\"></a><b>40 </b>Where by this or any other general or special Act the permission, approval or sanction of the Board is necessary to the exercise of any power or the doing, or the abstention from doing or continuing to do any act, matter, deed or thing, such power shall not be exercised or act, matter, deed or thing be done or abstained from being done or be continued until such permission, approval or sanction has been obtained.  R.S.O. 1990, c. O.28, s. 40.</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "41.",
+            "section_x": "When Board may act",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "When Board may act",
+            "content": "41 (1) The Board may, of its own motion, and shall, upon the request of the Lieutenant Governor in Council, inquire into, hear and determine any matter or thing that it may inquire into, hear and determine upon application or complaint, and with respect thereto has and may exercise the same powers as, upon any application or complaint, are vested in it. Power to act from time to time (2) Any power or authority vested in the Board under this or any other general or special Act may, though not so expressed, be exercised from time to time, or at any time, as the occasion may require.  R.S.O. 1990, c. O.28, s. 41.",
+            "raw_html": "<p class=\"section\"><a name=\"BK37\"></a><b>41 </b>(1) The Board may, of its own motion, and shall, upon the request of the Lieutenant Governor in Council, inquire into, hear and determine any matter or thing that it may inquire into, hear and determine upon application or complaint, and with respect thereto has and may exercise the same powers as, upon any application or complaint, are vested in it.</p> <p class=\"headnote\">Power to act from time to time</p> <p class=\"subsection\">(2) Any power or authority vested in the Board under this or any other general or special Act may, though not so expressed, be exercised from time to time, or at any time, as the occasion may require.  R.S.O. 1990, c. O.28, s. 41.</p>"
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "42.",
+            "section_x": "Appointment of counsel",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Appointment of counsel",
+            "content": "42 (1) The Lieutenant Governor in Council may from time to time, upon the request of the Board, or of the Lieutenant Governor in Council’s own motion, appoint counsel to appear before the Board and conduct an inquiry or hearing or to represent the Board upon the argument of any appeal to the Divisional Court or to any other court in an appeal from the Divisional Court in cases where any such appeal may lie.  R.S.O. 1990, c. O.28, s. 42 (1). Costs (2) The Board may direct that the costs of such counsel shall be paid by any party to the application, proceeding or matter, or by the Minister of Finance.  R.S.O. 1990, c. O.28, s. 42 (2); 2006, c. 19, Sched. B, s. 13 (1). Section Amendments with date in force (d/m/y) 2006, c. 19, Sched. B, s. 13 (1) - 22/06/2006",
+            "raw_html": "<p class=\"section\"><a name=\"BK38\"></a><b>42 </b>(1) The Lieutenant Governor in Council may from time to time, upon the request of the Board, or of the Lieutenant Governor in Council’s own motion, appoint counsel to appear before the Board and conduct an inquiry or hearing or to represent the Board upon the argument of any appeal to the Divisional Court or to any other court in an appeal from the Divisional Court in cases where any such appeal may lie.  R.S.O. 1990, c. O.28, s. 42 (1).</p> <p class=\"headnote\">Costs</p> <p class=\"subsection\">(2) The Board may direct that the costs of such counsel shall be paid by any party to the application, proceeding or matter, or by the Minister of Finance.  R.S.O. 1990, c. O.28, s. 42 (2); 2006, c. 19, Sched. B, s. 13 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedbs13s1\">2006, c. 19, Sched. B, s. 13 (1)</a></span> - 22/06/2006</p>"
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "43.",
+            "section_x": "Power to rehear, review, etc.",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Power to rehear, review, etc.",
+            "content": "43 The Board may rehear any application before deciding it or may review, rescind, change, alter or vary any decision, approval or order made by it.  R.S.O. 1990, c. O.28, s. 43.",
+            "raw_html": "<p class=\"section\"><a name=\"BK39\"></a><b>43 </b>The Board may rehear any application before deciding it or may review, rescind, change, alter or vary any decision, approval or order made by it.  R.S.O. 1990, c. O.28, s. 43.</p>"
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "44.",
+            "section_x": "Board to inquire and report on certain matters at request",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Board to inquire and report on certain matters at request",
+            "content": "44 The Board shall, when required so to do by the Lieutenant Governor in Council, the Assembly or any committee thereof, make or cause to be made under its supervision an inquiry into any facts that the Lieutenant Governor in Council, the Assembly or any such committee may desire to ascertain before passing upon the propriety of any proposed change in the general law, or upon any proposed Bill relating to a municipality or to a railway or to any corporation or person operating or proposing to operate a public utility, and upon the conclusion of such inquiry the Board shall report its opinion thereon.  R.S.O. 1990, c. O.28, s. 44.",
+            "raw_html": "<p class=\"section\"><a name=\"BK40\"></a><b>44 </b>The Board shall, when required so to do by the Lieutenant Governor in Council, the Assembly or any committee thereof, make or cause to be made under its supervision an inquiry into any facts that the Lieutenant Governor in Council, the Assembly or any such committee may desire to ascertain before passing upon the propriety of any proposed change in the general law, or upon any proposed Bill relating to a municipality or to a railway or to any corporation or person operating or proposing to operate a public utility, and upon the conclusion of such inquiry the Board shall report its opinion thereon.  R.S.O. 1990, c. O.28, s. 44.</p>"
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "45.",
+            "section_x": "Reference by Lieutenant Governor in Council for report",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Reference by Lieutenant Governor in Council for report",
+            "content": "45 The Lieutenant Governor in Council may at any time refer to the Board, for a report or other action, any question, matter or thing arising, or required to be done in respect of a municipality, railway or public utility subject to the jurisdiction of the Board, under any general or special Act, and the Board shall without unnecessary delay comply with the order in council.  R.S.O. 1990, c. O.28, s. 45.",
+            "raw_html": "<p class=\"section\"><a name=\"BK41\"></a><b>45 </b>The Lieutenant Governor in Council may at any time refer to the Board, for a report or other action, any question, matter or thing arising, or required to be done in respect of a municipality, railway or public utility subject to the jurisdiction of the Board, under any general or special Act, and the Board shall without unnecessary delay comply with the order in council.  R.S.O. 1990, c. O.28, s. 45.</p>"
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "46.",
+            "section_x": "Inquiry on municipal organization",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Inquiry on municipal organization",
+            "content": "46 The Board shall upon the request of the Lieutenant Governor in Council inquire into and report on the establishment, organization, reorganization and methods of operation of any two or more municipalities in any designated area and any question, matter or thing relating thereto.  R.S.O. 1990, c. O.28, s. 46.",
+            "raw_html": "<p class=\"section\"><a name=\"BK42\"></a><b>46 </b>The Board shall upon the request of the Lieutenant Governor in Council inquire into and report on the establishment, organization, reorganization and methods of operation of any two or more municipalities in any designated area and any question, matter or thing relating thereto.  R.S.O. 1990, c. O.28, s. 46.</p>"
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "47.",
+            "section_x": "Board may order inquiries",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Board may order inquiries",
+            "content": "47 (1) The Board may appoint or direct any person to make an inquiry and report upon any application, complaint or dispute before the Board, or upon any matter or thing over which the Board has jurisdiction. Costs (2) The Board may order by whom and in what proportion the costs and expenses incurred in making such inquiry and report shall be paid, and may fix the amount of such costs and expenses.  R.S.O. 1990, c. O.28, s. 47.",
+            "raw_html": "<p class=\"section\"><a name=\"BK43\"></a><b>47 </b>(1) The Board may appoint or direct any person to make an inquiry and report upon any application, complaint or dispute before the Board, or upon any matter or thing over which the Board has jurisdiction.</p> <p class=\"headnote\">Costs</p> <p class=\"subsection\">(2) The Board may order by whom and in what proportion the costs and expenses incurred in making such inquiry and report shall be paid, and may fix the amount of such costs and expenses.  R.S.O. 1990, c. O.28, s. 47.</p>"
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "48.",
+            "section_x": "General powers",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "General powers",
+            "content": "48 The Board may order and require any person or company, corporation or municipality to do forthwith or within or at any specified time, and in any manner prescribed by the Board, so far as is not inconsistent with this Act, any act, matter or thing that such person, company, corporation or municipality is or may be required to do under this Act, or under any other general or special Act, or under any regulation, order, direction, agreement or by-law, and may forbid the doing or continuing of any act, matter or thing that is in contravention of any such Act or of any such regulation, order, direction, agreement or by-law.  R.S.O. 1990, c. O.28, s. 48.",
+            "raw_html": "<p class=\"section\"><a name=\"BK44\"></a><b>48 </b>The Board may order and require any person or company, corporation or municipality to do forthwith or within or at any specified time, and in any manner prescribed by the Board, so far as is not inconsistent with this Act, any act, matter or thing that such person, company, corporation or municipality is or may be required to do under this Act, or under any other general or special Act, or under any regulation, order, direction, agreement or by-law, and may forbid the doing or continuing of any act, matter or thing that is in contravention of any such Act or of any such regulation, order, direction, agreement or by-law.  R.S.O. 1990, c. O.28, s. 48.</p>"
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "49.",
+            "section_x": "Adoption of appliances for protection of life, etc.",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Adoption of appliances for protection of life, etc.",
+            "content": "49 The Board may require any person, company, corporation or municipality, subject to its jurisdiction, to adopt such means and appliances and to take and use such precautions as the Board considers necessary or expedient for the safety of life and property.  R.S.O. 1990, c. O.28, s. 49.",
+            "raw_html": "<p class=\"section\"><a name=\"BK45\"></a><b>49 </b>The Board may require any person, company, corporation or municipality, subject to its jurisdiction, to adopt such means and appliances and to take and use such precautions as the Board considers necessary or expedient for the safety of life and property.  R.S.O. 1990, c. O.28, s. 49.</p>"
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "50.",
+            "section_x": "Duty to execute works ordered by Board",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Duty to execute works ordered by Board",
+            "content": "50 (1) When the Board, in the exercise of any power vested in it, by any order directs any structure, appliances, equipment, works, renewals or repairs to be provided, constructed, reconstructed, altered, installed, operated, used or maintained, it may order by what person, company, corporation or municipality interested or affected by such order, as the case may be, and when or within what time, and upon what terms and conditions as to the payment of compensation or otherwise, and under what supervision the same shall be provided, constructed, reconstructed, altered, installed, operated, used or maintained. Expenses (2) The Board may order by whom, in what proportion and when, the costs and expenses of providing, constructing, reconstructing, altering, installing and executing such structures, equipment, works, renewals or repairs, or of the supervision, if any, or of the continued operation, use or maintenance of the same, or of otherwise complying with such order, shall be paid.  R.S.O. 1990, c. O.28, s. 50.",
+            "raw_html": "<p class=\"section\"><a name=\"BK46\"></a><b>50 </b>(1) When the Board, in the exercise of any power vested in it, by any order directs any structure, appliances, equipment, works, renewals or repairs to be provided, constructed, reconstructed, altered, installed, operated, used or maintained, it may order by what person, company, corporation or municipality interested or affected by such order, as the case may be, and when or within what time, and upon what terms and conditions as to the payment of compensation or otherwise, and under what supervision the same shall be provided, constructed, reconstructed, altered, installed, operated, used or maintained.</p> <p class=\"headnote\">Expenses</p> <p class=\"subsection\">(2) The Board may order by whom, in what proportion and when, the costs and expenses of providing, constructing, reconstructing, altering, installing and executing such structures, equipment, works, renewals or repairs, or of the supervision, if any, or of the continued operation, use or maintenance of the same, or of otherwise complying with such order, shall be paid.  R.S.O. 1990, c. O.28, s. 50.</p>"
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "51.",
+            "section_x": "Board’s powers upon default in obeying order",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Board’s powers upon default in obeying order",
+            "content": "51 If default is made by a person, company, corporation or municipality in the doing of any act, matter or thing, that the Board has authority under this or any other general or special Act, to direct and has directed to be done, the Board may authorize such person as it may see fit to do the act, matter or thing, and in every such case the person so authorized may do such act, matter or thing, and the expense incurred in the doing of the same may be recovered from the person, company, corporation or municipality in default as money paid for and at his, her or its request, and the certificate of the Board of the amount so expended is conclusive evidence thereof.  R.S.O. 1990, c. O.28, s. 51.",
+            "raw_html": "<p class=\"section\"><a name=\"BK47\"></a><b>51 </b>If default is made by a person, company, corporation or municipality in the doing of any act, matter or thing, that the Board has authority under this or any other general or special Act, to direct and has directed to be done, the Board may authorize such person as it may see fit to do the act, matter or thing, and in every such case the person so authorized may do such act, matter or thing, and the expense incurred in the doing of the same may be recovered from the person, company, corporation or municipality in default as money paid for and at his, her or its request, and the certificate of the Board of the amount so expended is conclusive evidence thereof.  R.S.O. 1990, c. O.28, s. 51.</p>"
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "52.",
+            "section_x": "Enforcing orders of Board",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Enforcing orders of Board",
+            "content": "52 The Board also has power to enforce its orders and directions respecting any public utility in the manner and by the means provided in section 261 of The Railways Act, being chapter 331 of the Revised Statutes of Ontario, 1950.  R.S.O. 1990, c. O.28, s. 52.",
+            "raw_html": "<p class=\"section\"><a name=\"BK48\"></a><b>52 </b>The Board also has power to enforce its orders and directions respecting any public utility in the manner and by the means provided in section 261 of <i>The Railways Act</i>, being chapter 331 of the Revised Statutes of Ontario, 1950.  R.S.O. 1990, c. O.28, s. 52.</p>"
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "53.",
+            "section_x": "Powers respecting inquiries:",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL JURISDICTION AND POWERS",
+            "section_y": "Powers respecting inquiries:",
+            "content": "53 The Board, inspecting engineer, or person appointed under this Act to make any inquiry or report may, entry (a) enter upon and inspect any place, building or works, being the property or under the control of any company, the entry or inspection of which appears requisite; inspection (b) inspect any works, structure, rolling stock or property of the company; attendance of witnesses (c) require the attendance of all such persons as is thought fit to summon, and examine and require answers or returns to such inquiries as is thought fit to make; production of documents, etc. (d) require the production of all books, papers, plans, specifications, drawings and documents, relating to any matter before the Board, inspecting engineer, or person appointed; oaths (e) administer oaths and affirmations, summoning witnesses and enforcing attendance and has the like power to summon witnesses and enforce their attendance, and compel them to give evidence and to produce books, papers or things that they are required to produce, as is vested in any court in civil cases.  R.S.O. 1990, c. O.28, s. 53. PART IV   GENERAL MUNICIPAL JURISDICTION",
+            "raw_html": "<p class=\"section\"><a name=\"BK49\"></a><b>53 </b>The Board, inspecting engineer, or person appointed under this Act to make any inquiry or report may,</p> <p class=\"headnote\">entry</p> <p class=\"paragraph\">  (a) enter upon and inspect any place, building or works, being the property or under the control of any company, the entry or inspection of which appears requisite;</p> <p class=\"headnote\">inspection</p> <p class=\"paragraph\">  (b) inspect any works, structure, rolling stock or property of the company;</p> <p class=\"headnote\">attendance of witnesses</p> <p class=\"paragraph\">  (c) require the attendance of all such persons as is thought fit to summon, and examine and require answers or returns to such inquiries as is thought fit to make;</p> <p class=\"headnote\">production of documents, etc.</p> <p class=\"paragraph\">  (d) require the production of all books, papers, plans, specifications, drawings and documents, relating to any matter before the Board, inspecting engineer, or person appointed;</p> <p class=\"headnote\">oaths</p> <p class=\"paragraph\">  (e) administer oaths and affirmations,</p> <p class=\"headnote\">summoning witnesses and enforcing attendance</p> <p class=\"Ssection\">and has the like power to summon witnesses and enforce their attendance, and compel them to give evidence and to produce books, papers or things that they are required to produce, as is vested in any court in civil cases.  R.S.O. 1990, c. O.28, s. 53.</p> <p class=\"partnum\"><a name=\"BK50\"></a>PART IV <br/>  GENERAL MUNICIPAL JURISDICTION</p>"
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "PART IV  ",
+            "section_x": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "54.",
+            "section_x": "General municipal jurisdiction of the Board:",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "General municipal jurisdiction of the Board:",
+            "content": "54 (1) The Board has jurisdiction and power in relation to municipal affairs, approving borrowings (a) to approve the exercise in whole or in part of any of the powers by a municipality under any general or special Act that may or will involve or require the borrowing of money by the issue of debentures, or the incurring of any debt or the issuing of any debentures, which approval the municipality voluntarily applies for or is required by law to obtain; approving by-laws (b) to approve any by-law or proposed by-law of a municipality, which approval the municipality voluntarily applies for or is required by law to obtain; floating debt (c) to authorize the issue by a municipality, without the assent of the electors, of debentures to pay any floating indebtedness that it may have incurred, upon such terms, in such manner and at such times as the Board may approve, or to direct that such floating indebtedness be paid in such other manner and within such time as the Board may require. callable debentures (d) to authorize the issue by a municipality, without the assent of the electors, of debentures to retire debentures that are redeemable before maturity, and the raising of the sum required for payment of such new debentures in the same manner as the sum required for payment of the retired debentures; certifying validity of debentures (e) to certify to the validity of debentures issued under the authority of any by-law of a municipality that the Board has approved; assent of electors to by-laws (f) to direct that before any approval is given by the Board to the exercise of any powers by a municipality or to any by-law passed by it, or before any authorization is given by the Board to the issue by a municipality of debentures to pay any floating indebtedness, the assent of the electors thereof or of those thereof who are qualified to vote on money by-laws first be obtained, even though such assent is not otherwise requisite; supervising certain expenditures (g) to supervise, where considered necessary, the expenditure of any money borrowed by a municipality with the approval of the Board; detailed statement of affairs (h) to require and obtain from any municipality at any time and for any definite period statements in detail of any of its affairs, financial and otherwise; power of investigation (i) to inquire at any time into any or all of the affairs, financial and otherwise, of a municipality and hold such hearings and make such investigations in respect thereof as may appear necessary or expedient to be made in the interest of the municipality, its ratepayers, inhabitants and creditors and particularly to make and hold such inquiries, hearings and investigations for the purpose of avoiding any default or recurrence of a default by any municipality in meeting its obligations; settlement of disputes between municipalities (j) when authorized by an agreement heretofore or hereafter entered into by two or more municipalities in which the municipalities agree to be bound by the decision of the Board, to hear and determine disputes in relation to such agreement; water or sewage service (k) where water or sewage service is supplied or to be supplied by one municipality to another municipality, to hear and determine the application of either municipality to confirm, vary or fix rates charged or to be charged in connection with such water or sewage service; general (l) generally, to exercise such jurisdiction and powers as by or under the authority of this Act or the Municipal Act, 2001 or the City of Toronto Act, 2006 or any other general or special Act are conferred upon the Board.  R.S.O. 1990, c. O.28, s. 54 (1); 2002, c. 17, Sched. F, Table; 2006, c. 32, Sched. C, s. 43 (2). Conflict (2) Clauses (1) (c) and (d) have effect despite any general or special Act.  R.S.O. 1990, c. O.28, s. 54 (2). Section Amendments with date in force (d/m/y) 2002, c. 17, Sched. F, Table - 01/01/2003 2006, c. 32, Sched. C, s. 43 (2) - 01/01/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK51\"></a><b>54 </b>(1) The Board has jurisdiction and power in relation to municipal affairs,</p> <p class=\"headnote\">approving borrowings</p> <p class=\"paragraph\">  (a) to approve the exercise in whole or in part of any of the powers by a municipality under any general or special Act that may or will involve or require the borrowing of money by the issue of debentures, or the incurring of any debt or the issuing of any debentures, which approval the municipality voluntarily applies for or is required by law to obtain;</p> <p class=\"headnote\">approving by-laws</p> <p class=\"paragraph\">  (b) to approve any by-law or proposed by-law of a municipality, which approval the municipality voluntarily applies for or is required by law to obtain;</p> <p class=\"headnote\">floating debt</p> <p class=\"paragraph\">  (c) to authorize the issue by a municipality, without the assent of the electors, of debentures to pay any floating indebtedness that it may have incurred, upon such terms, in such manner and at such times as the Board may approve, or to direct that such floating indebtedness be paid in such other manner and within such time as the Board may require.</p> <p class=\"headnote\">callable debentures</p> <p class=\"paragraph\">  (d) to authorize the issue by a municipality, without the assent of the electors, of debentures to retire debentures that are redeemable before maturity, and the raising of the sum required for payment of such new debentures in the same manner as the sum required for payment of the retired debentures;</p> <p class=\"headnote\">certifying validity of debentures</p> <p class=\"paragraph\">  (e) to certify to the validity of debentures issued under the authority of any by-law of a municipality that the Board has approved;</p> <p class=\"headnote\">assent of electors to by-laws</p> <p class=\"paragraph\">  (f) to direct that before any approval is given by the Board to the exercise of any powers by a municipality or to any by-law passed by it, or before any authorization is given by the Board to the issue by a municipality of debentures to pay any floating indebtedness, the assent of the electors thereof or of those thereof who are qualified to vote on money by-laws first be obtained, even though such assent is not otherwise requisite;</p> <p class=\"headnote\">supervising certain expenditures</p> <p class=\"paragraph\">  (g) to supervise, where considered necessary, the expenditure of any money borrowed by a municipality with the approval of the Board;</p> <p class=\"headnote\">detailed statement of affairs</p> <p class=\"paragraph\">  (h) to require and obtain from any municipality at any time and for any definite period statements in detail of any of its affairs, financial and otherwise;</p> <p class=\"headnote\">power of investigation</p> <p class=\"paragraph\">  (i) to inquire at any time into any or all of the affairs, financial and otherwise, of a municipality and hold such hearings and make such investigations in respect thereof as may appear necessary or expedient to be made in the interest of the municipality, its ratepayers, inhabitants and creditors and particularly to make and hold such inquiries, hearings and investigations for the purpose of avoiding any default or recurrence of a default by any municipality in meeting its obligations;</p> <p class=\"headnote\">settlement of disputes between municipalities</p> <p class=\"paragraph\">  (j) when authorized by an agreement heretofore or hereafter entered into by two or more municipalities in which the municipalities agree to be bound by the decision of the Board, to hear and determine disputes in relation to such agreement;</p> <p class=\"headnote\">water or sewage service</p> <p class=\"paragraph\">  (k) where water or sewage service is supplied or to be supplied by one municipality to another municipality, to hear and determine the application of either municipality to confirm, vary or fix rates charged or to be charged in connection with such water or sewage service;</p> <p class=\"headnote\">general</p> <p class=\"paragraph\">  (l) generally, to exercise such jurisdiction and powers as by or under the authority of this Act or the <i>Municipal Act, 2001 </i>or the <i>City of Toronto Act, 2006 </i>or any other general or special Act are conferred upon the Board.  R.S.O. 1990, c. O.28, s. 54 (1); 2002, c. 17, Sched. F, Table; 2006, c. 32, Sched. C, s. 43 (2).</p> <p class=\"headnote\">Conflict</p> <p class=\"subsection\">(2) Clauses (1) (c) and (d) have effect despite any general or special Act.  R.S.O. 1990, c. O.28, s. 54 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S02017#schedfs2\">2002, c. 17, Sched. F, Table</a></span> - 01/01/2003</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06032#schedcs43s2\">2006, c. 32, Sched. C, s. 43 (2)</a></span> - 01/01/2007</p>"
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "55.",
+            "section_x": "Voluntary application for approval of by-laws",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Voluntary application for approval of by-laws",
+            "content": "55 A municipality may apply to the Board for its approval of any by-law, the passing of which has been authorized by an order of the Board made under section 65.  R.S.O. 1990, c. O.28, s. 55.",
+            "raw_html": "<p class=\"section\"><a name=\"BK52\"></a><b>55 </b>A municipality may apply to the Board for its approval of any by-law, the passing of which has been authorized by an order of the Board made under section 65.  R.S.O. 1990, c. O.28, s. 55.</p>"
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "56.",
+            "section_x": "Application to Board for approval of by-law authorizing borrowing",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Application to Board for approval of by-law authorizing borrowing",
+            "content": "56 Any person the holder of or otherwise entitled to receive any debenture of a municipality or the proceeds of sale thereof or to whom a debt has been incurred or from whom money has been borrowed under the authority of any by-law of a municipality may apply to the Board for approval of the by-law, and the Board may approve the same.  R.S.O. 1990, c. O.28, s. 56.",
+            "raw_html": "<p class=\"section\"><a name=\"BK53\"></a><b>56 </b>Any person the holder of or otherwise entitled to receive any debenture of a municipality or the proceeds of sale thereof or to whom a debt has been incurred or from whom money has been borrowed under the authority of any by-law of a municipality may apply to the Board for approval of the by-law, and the Board may approve the same.  R.S.O. 1990, c. O.28, s. 56.</p>"
+        },
+        {
+            "ahref_id": "#BK54",
+            "TOCid": "57.",
+            "section_x": "Approval to be withheld where litigation pending",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Approval to be withheld where litigation pending",
+            "content": "57 The Board shall not grant or issue any approval or certificate under this or any other general or special Act in respect of any municipal affair or matter, while the same or the validity thereof is called in question in any pending action or proceeding or by which it is sought to quash any by-law of a municipality relating thereto.  R.S.O. 1990, c. O.28, s. 57.",
+            "raw_html": "<p class=\"section\"><a name=\"BK54\"></a><b>57 </b>The Board shall not grant or issue any approval or certificate under this or any other general or special Act in respect of any municipal affair or matter, while the same or the validity thereof is called in question in any pending action or proceeding or by which it is sought to quash any by-law of a municipality relating thereto.  R.S.O. 1990, c. O.28, s. 57.</p>"
+        },
+        {
+            "ahref_id": "#BK55",
+            "TOCid": "58.",
+            "section_x": "Time for certifying validity of debentures",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Time for certifying validity of debentures",
+            "content": "58 (1) The Board shall not certify the validity of any debenture issued under any by-law of a municipality until thirty days after the final passing of the by-law, unless such notice, if any, as the Board may direct has been published or given of the application for such certification. Exception (2) This section does not apply to any debenture authorized under clause 54 (1) (d) or to a consolidating by-law if every by-law consolidated was finally passed at least thirty days before certification.  R.S.O. 1990, c. O.28, s. 58.",
+            "raw_html": "<p class=\"section\"><a name=\"BK55\"></a><b>58 </b>(1) The Board shall not certify the validity of any debenture issued under any by-law of a municipality until thirty days after the final passing of the by-law, unless such notice, if any, as the Board may direct has been published or given of the application for such certification.</p> <p class=\"headnote\">Exception</p> <p class=\"subsection\">(2) This section does not apply to any debenture authorized under clause 54 (1) (d) or to a consolidating by-law if every by-law consolidated was finally passed at least thirty days before certification.  R.S.O. 1990, c. O.28, s. 58.</p>"
+        },
+        {
+            "ahref_id": "#BK56",
+            "TOCid": "59.",
+            "section_x": "Validation of by-laws and debentures",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Validation of by-laws and debentures",
+            "content": "59 (1) In any case where either prior or subsequent to the issue and sale of any debentures issued or to be issued by a municipality, application is made to the Board for its approval of any by-law authorizing the issue of such debentures, and of the debentures, the Board may approve the by-law and certify the validity of the debentures, despite any omission, illegality, invalidity or irregularity in the by-law or debentures or in any of the proceedings relating or incidental thereto occurring, had or taken prior or subsequent to the final passing of the by-law or issue of the debentures. No approval if by-law quashed, etc. (2) The Board shall not approve any by-law of a municipality or certify the validity of any debentures issued thereunder if the validity thereof is being questioned in any pending litigation or such by-law has been set aside, quashed or declared to be invalid by any court.  R.S.O. 1990, c. O.28, s. 59.",
+            "raw_html": "<p class=\"section\"><a name=\"BK56\"></a><b>59 </b>(1) In any case where either prior or subsequent to the issue and sale of any debentures issued or to be issued by a municipality, application is made to the Board for its approval of any by-law authorizing the issue of such debentures, and of the debentures, the Board may approve the by-law and certify the validity of the debentures, despite any omission, illegality, invalidity or irregularity in the by-law or debentures or in any of the proceedings relating or incidental thereto occurring, had or taken prior or subsequent to the final passing of the by-law or issue of the debentures.</p> <p class=\"headnote\">No approval if by-law quashed, etc.</p> <p class=\"subsection\">(2) The Board shall not approve any by-law of a municipality or certify the validity of any debentures issued thereunder if the validity thereof is being questioned in any pending litigation or such by-law has been set aside, quashed or declared to be invalid by any court.  R.S.O. 1990, c. O.28, s. 59.</p>"
+        },
+        {
+            "ahref_id": "#BK57",
+            "TOCid": "60.",
+            "section_x": "Debentures to be certified",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Debentures to be certified",
+            "content": "60 (1) Every debenture the validity of which is certified by the Board shall bear the seal and certificate of the Board establishing that the by-law under the authority of which the debenture is issued has been approved by the Board and that the debenture is issued in conformity therewith. Signature on certificate (2) Despite subsection 13 (3), the certificate may be signed by any member of the Board or by a person specially authorized by the chair and the signature may be written, printed or otherwise mechanically reproduced.  R.S.O. 1990, c. O.28, s. 60.",
+            "raw_html": "<p class=\"section\"><a name=\"BK57\"></a><b>60 </b>(1) Every debenture the validity of which is certified by the Board shall bear the seal and certificate of the Board establishing that the by-law under the authority of which the debenture is issued has been approved by the Board and that the debenture is issued in conformity therewith.</p> <p class=\"headnote\">Signature on certificate</p> <p class=\"subsection\">(2) Despite subsection 13 (3), the certificate may be signed by any member of the Board or by a person specially authorized by the chair and the signature may be written, printed or otherwise mechanically reproduced.  R.S.O. 1990, c. O.28, s. 60.</p>"
+        },
+        {
+            "ahref_id": "#BK58",
+            "TOCid": "61.",
+            "section_x": "Form of certificate",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Form of certificate",
+            "content": "61 (1) The certificate of the Board to the validity of any debenture of a municipality shall be in the following form: The Ontario Municipal Board In pursuance of the Ontario Municipal Board Act, the Board certifies that By-law No. ............ of The Corporation of the ................ of ......................, passed on the ............... day of ....................., 20...., has been approved by the Board, and that the within debenture, issued under the authority of such by-law and in conformity therewith, is valid and binding upon the said corporation and its validity may not be contested or questioned for any cause whatsoever. Dated this ............ day of .................., 20.... (SEAL) .............................. for the Board. Language (2) The certificate may be written in English, in French or in both languages.  R.S.O. 1990, c. O.28, s. 61.",
+            "raw_html": "<p class=\"section\"><a name=\"BK58\"></a><b>61 </b>(1) The certificate of the Board to the validity of any debenture of a municipality shall be in the following form:</p> <p class=\"headingx\">The Ontario Municipal Board</p> <p class=\"paragraph\"> In pursuance of the <i>Ontario Municipal Board Act</i>, the Board certifies that By-law No. ............ of The Corporation of the ................ of ......................, passed on the ............... day of ....................., 20...., has been approved by the Board, and that the within debenture, issued under the authority of such by-law and in conformity therewith, is valid and binding upon the said corporation and its validity may not be contested or questioned for any cause whatsoever.</p> <p class=\"paragraph\"> Dated this ............ day of .................., 20....</p> <p class=\"paragraph\">(<span>SEAL</span>) ..............................</p> <p class=\"paragraph\"><i>for the Board</i>.</p> <p class=\"headnote\">Language</p> <p class=\"subsection\">(2) The certificate may be written in English, in French or in both languages.  R.S.O. 1990, c. O.28, s. 61.</p>"
+        },
+        {
+            "ahref_id": "#BK59",
+            "TOCid": "62.",
+            "section_x": "Validity of certified debentures",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Validity of certified debentures",
+            "content": "62 Despite the provisions of any Act, every by-law of a municipality approved by the Board and every debenture issued thereunder bearing the seal and certificate of the Board is for all purposes valid and binding upon the corporation of the municipality and the ratepayers thereof and upon the property liable for any rate imposed under the by-law, and the validity of the by-law and every such debenture shall not be contested or questioned in any manner.  R.S.O. 1990, c. O.28, s. 62.",
+            "raw_html": "<p class=\"section\"><a name=\"BK59\"></a><b>62 </b>Despite the provisions of any Act, every by-law of a municipality approved by the Board and every debenture issued thereunder bearing the seal and certificate of the Board is for all purposes valid and binding upon the corporation of the municipality and the ratepayers thereof and upon the property liable for any rate imposed under the by-law, and the validity of the by-law and every such debenture shall not be contested or questioned in any manner.  R.S.O. 1990, c. O.28, s. 62.</p>"
+        },
+        {
+            "ahref_id": "#BK60",
+            "TOCid": "63.",
+            "section_x": "Scope of Board inquiry",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Scope of Board inquiry",
+            "content": "63 The Board, upon any application of a municipality for approval of the exercise by a municipality of any of its powers, or of the incurring of any debt, or of the issue of any debentures, or of any by-law, shall, before approving the same, make such inquiry into the nature of the power sought to be exercised or undertaking that is proposed to be or has been proceeded with, the necessity or expediency of the same, the financial position and obligations of the municipality, the burden of taxation upon the ratepayers and into all other relative matters, as in the opinion of the Board may appear to be necessary or expedient.  R.S.O. 1990, c. O.28, s. 63.",
+            "raw_html": "<p class=\"section\"><a name=\"BK60\"></a><b>63 </b>The Board, upon any application of a municipality for approval of the exercise by a municipality of any of its powers, or of the incurring of any debt, or of the issue of any debentures, or of any by-law, shall, before approving the same, make such inquiry into the nature of the power sought to be exercised or undertaking that is proposed to be or has been proceeded with, the necessity or expediency of the same, the financial position and obligations of the municipality, the burden of taxation upon the ratepayers and into all other relative matters, as in the opinion of the Board may appear to be necessary or expedient.  R.S.O. 1990, c. O.28, s. 63.</p>"
+        },
+        {
+            "ahref_id": "#BK61",
+            "TOCid": "64.",
+            "section_x": "When electors’ assent may be dispensed with",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "When electors’ assent may be dispensed with",
+            "content": "64 (1) Where under any general or special Act it is requisite that the assent of the electors of a municipality or of those qualified to vote on money by-laws first be obtained to the exercise by a municipality of any of its powers or the incurring of any debt, issue of any debentures or passing of any by-law the Board shall not approve the exercise of such power, incurring of debt, issue of debentures or the by-law until such assent has been obtained, unless the Board after due inquiry is satisfied that such assent may under all the circumstances properly be dispensed with, and the Board may, in any such case by its order, declare and direct that the assent of the electors or the qualified electors shall not be requisite to be obtained despite the provisions of such general or special Act. Public hearing (2) Except as provided in subsections (3), (4) and (5), the Board before making any order under subsection (1) shall hold a public hearing, after such notice thereof has been given as the Board may direct, for the purpose of inquiring into the merits of the matter and of hearing any objections that any person may desire to bring to the attention of the Board. Notice to provide for filing of objections (3) The Board may direct that the notice to be given shall state that anyone objecting to dispensing with the assent of the electors may, within such time from the giving of the notice as may be prescribed by the Board, file with the clerk of the municipality or, in the case of a local board, with the secretary of the local board his, her or its objection to dispensing with the assent of the electors. Where no objections (4) Where notice has been given under subsection (3), the Board may, when no notice of objection has been filed within the time specified in the notice, dispense with the assent of the electors without holding a public hearing. Where objections filed (5) If one or more objections have been filed within the time specified in the notice, the Board shall hold a public hearing unless, under all the circumstances affecting the matter, the Board considers the objection or, if more than one, all the objections to be insufficient to require a public hearing. Public hearing not required where additional expenditure approved (6) Despite subsection (2), where the Board has approved an expenditure for any purpose, it may, without holding a public hearing, dispense with the assent of the electors of a municipality or of those qualified to vote on money by-laws and approve additional expenditures for the same purpose not in excess of 25 per cent of the original expenditure approved. Conditions in dispensing with vote (7) The Board in making any order under subsection (1) dispensing with the necessity for obtaining the assent of the electors or qualified electors may impose such terms, conditions and restrictions not only in respect of the matter in which such order is made, but as to any further or subsequent exercise of any of the powers of the municipality or incurring of any other debt or issue of any other debentures or passing of any other by-law by such municipality as to the Board may appear requisite or expedient.  R.S.O. 1990, c. O.28, s. 64.",
+            "raw_html": "<p class=\"section\"><a name=\"BK61\"></a><b>64 </b>(1) Where under any general or special Act it is requisite that the assent of the electors of a municipality or of those qualified to vote on money by-laws first be obtained to the exercise by a municipality of any of its powers or the incurring of any debt, issue of any debentures or passing of any by-law the Board shall not approve the exercise of such power, incurring of debt, issue of debentures or the by-law until such assent has been obtained, unless the Board after due inquiry is satisfied that such assent may under all the circumstances properly be dispensed with, and the Board may, in any such case by its order, declare and direct that the assent of the electors or the qualified electors shall not be requisite to be obtained despite the provisions of such general or special Act.</p> <p class=\"headnote\">Public hearing</p> <p class=\"subsection\">(2) Except as provided in subsections (3), (4) and (5), the Board before making any order under subsection (1) shall hold a public hearing, after such notice thereof has been given as the Board may direct, for the purpose of inquiring into the merits of the matter and of hearing any objections that any person may desire to bring to the attention of the Board.</p> <p class=\"headnote\">Notice to provide for filing of objections</p> <p class=\"subsection\">(3) The Board may direct that the notice to be given shall state that anyone objecting to dispensing with the assent of the electors may, within such time from the giving of the notice as may be prescribed by the Board, file with the clerk of the municipality or, in the case of a local board, with the secretary of the local board his, her or its objection to dispensing with the assent of the electors.</p> <p class=\"headnote\">Where no objections</p> <p class=\"subsection\">(4) Where notice has been given under subsection (3), the Board may, when no notice of objection has been filed within the time specified in the notice, dispense with the assent of the electors without holding a public hearing.</p> <p class=\"headnote\">Where objections filed</p> <p class=\"subsection\">(5) If one or more objections have been filed within the time specified in the notice, the Board shall hold a public hearing unless, under all the circumstances affecting the matter, the Board considers the objection or, if more than one, all the objections to be insufficient to require a public hearing.</p> <p class=\"headnote\">Public hearing not required where additional expenditure approved</p> <p class=\"subsection\">(6) Despite subsection (2), where the Board has approved an expenditure for any purpose, it may, without holding a public hearing, dispense with the assent of the electors of a municipality or of those qualified to vote on money by-laws and approve additional expenditures for the same purpose not in excess of 25 per cent of the original expenditure approved.</p> <p class=\"headnote\">Conditions in dispensing with vote</p> <p class=\"subsection\">(7) The Board in making any order under subsection (1) dispensing with the necessity for obtaining the assent of the electors or qualified electors may impose such terms, conditions and restrictions not only in respect of the matter in which such order is made, but as to any further or subsequent exercise of any of the powers of the municipality or incurring of any other debt or issue of any other debentures or passing of any other by-law by such municipality as to the Board may appear requisite or expedient.  R.S.O. 1990, c. O.28, s. 64.</p>"
+        },
+        {
+            "ahref_id": "#BK62",
+            "TOCid": "65.",
+            "section_x": "Limitation re undertaking debt",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Limitation re undertaking debt",
+            "content": "65 (1) Despite any general or special Act, a municipality or board to which this subsection applies shall not authorize, exercise any of its powers to proceed with or provide money for any work or class of work if the cost or any portion of the cost of the work is to be or may be raised after the term for which the council or board was elected.  1996, c. 32, s. 81 (1). Application of subsection (1) (2) Subsection (1) applies to, (a)  Repealed:  2002, c. 17, Sched. F, Table. (b)  Repealed:  1997, c. 31, s. 162 (1). (c) a local board, other than a board as defined in subsection 1 (1) of the Education Act, that is entitled to apply to the council of a municipality mentioned in clause (a) to have money provided by the issue of debentures of the municipality.  1996, c. 32, s. 81 (1); 1997, c. 31, s. 162 (1, 2); 2002, c. 17, Sched. F, Table. Matters not requiring Board approval (3) Subsection (1) does not apply to, (a) anything done with the approval of the Board, if the approval is, (i) provided for by another Act or by another provision of this Act, and (ii) obtained in advance; (b) a by-law of a municipality containing a provision to the effect that it shall not come into force until the approval of the Board has been obtained; (c) the appointment of an engineer, land surveyor or commissioner under the Drainage Act; (d) anything done by a municipality that does not cause it to exceed the limit prescribed under subsection 401 (4) of the Municipal Act, 2001; (e), (f) Repealed:  1997, c. 31, s. 162 (3). (g) a by-law or resolution of a local board mentioned in clause (2) (c) containing a provision to the effect that it shall not come into force until the approval of the municipality has been obtained.  1996, c. 32, s. 81 (1); 1997, c. 31, s. 162 (3); 2002, c. 17, Sched. F, Table. Approval of Board (4) The approval of the Board mentioned in clause (3) (a) means and, despite the decision of any court, shall be deemed always to have meant the approval of the work mentioned in subsection (1).  1996, c. 32, s. 81 (1). Definition (5) In this section, “work” includes any undertaking, project, scheme, act, matter or thing.  1996, c. 32, s. 81 (1); 1997, c. 31, s. 162 (4). Non-application (6) This section does not apply to the City of Toronto.  2006, c. 32, Sched. C, s. 43 (3). Section Amendments with date in force (d/m/y) 1996, c. 32, s. 81 (1) - 06/03/1997 1997, c. 31, s. 162 (1-4) - 01/01/1998 2002, c. 17, Sched. F, Table - 01/01/2003 2006, c. 32, Sched. C, s. 43 (3) - 01/01/2007 66 Repealed:  1996, c. 32, s. 81 (2). Section Amendments with date in force (d/m/y) 1996, c. 32, s. 81 (2) - 06/03/1997",
+            "raw_html": "<p class=\"section\"><a name=\"BK62\"></a><b>65 </b>(1) Despite any general or special Act, a municipality or board to which this subsection applies shall not authorize, exercise any of its powers to proceed with or provide money for any work or class of work if the cost or any portion of the cost of the work is to be or may be raised after the term for which the council or board was elected.  1996, c. 32, s. 81 (1).</p> <p class=\"headnote\">Application of subsection (1)</p> <p class=\"subsection\">(2) Subsection (1) applies to,</p> <p class=\"paragraph\">  (a)  <span class=\"ovsmallcap\">Repealed</span>:  2002, c. 17, Sched. F, Table.</p> <p class=\"paragraph\">  (b)  <span class=\"ovsmallcap\">Repealed</span>:  1997, c. 31, s. 162 (1).</p> <p class=\"paragraph\">  (c) a local board, other than a board as defined in subsection 1 (1) of the <i>Education Act</i>, that is entitled to apply to the council of a municipality mentioned in clause (a) to have money provided by the issue of debentures of the municipality.  1996, c. 32, s. 81 (1); 1997, c. 31, s. 162 (1, 2); 2002, c. 17, Sched. F, Table.</p> <p class=\"headnote\">Matters not requiring Board approval</p> <p class=\"subsection\">(3) Subsection (1) does not apply to,</p> <p class=\"paragraph\">  (a) anything done with the approval of the Board, if the approval is,</p> <p class=\"subclause\">  (i) provided for by another Act or by another provision of this Act, and</p> <p class=\"subclause\">  (ii) obtained in advance;</p> <p class=\"paragraph\">  (b) a by-law of a municipality containing a provision to the effect that it shall not come into force until the approval of the Board has been obtained;</p> <p class=\"paragraph\">  (c) the appointment of an engineer, land surveyor or commissioner under the <i>Drainage Act</i>;</p> <p class=\"paragraph\"><span> </span>(d) anything done by a municipality that does not cause it to exceed the limit prescribed under subsection 401 (4) of the <i>Municipal Act, 2001</i>;</p> <p class=\"paragraph\"> (e), (f) <span class=\"ovsmallcap\">Repealed</span>:  1997, c. 31, s. 162 (3).</p> <p class=\"paragraph\">  (g) a by-law or resolution of a local board mentioned in clause (2) (c) containing a provision to the effect that it shall not come into force until the approval of the municipality has been obtained.  1996, c. 32, s. 81 (1); 1997, c. 31, s. 162 (3); 2002, c. 17, Sched. F, Table.</p> <p class=\"headnote\">Approval of Board</p> <p class=\"subsection\">(4) The approval of the Board mentioned in clause (3) (a) means and, despite the decision of any court, shall be deemed always to have meant the approval of the work mentioned in subsection (1).  1996, c. 32, s. 81 (1).</p> <p class=\"headnote\">Definition</p> <p class=\"subsection\">(5) In this section,</p> <p class=\"definition\">“work” includes any undertaking, project, scheme, act, matter or thing.  1996, c. 32, s. 81 (1); 1997, c. 31, s. 162 (4).</p> <p class=\"headnote\">Non-application</p> <p class=\"subsection\">(6) This section does not apply to the City of Toronto.  2006, c. 32, Sched. C, s. 43 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 32, s. 81 (1) - 06/03/1997</p> <p class=\"footnoteLeft\">1997, c. 31, s. 162 (1-4) - 01/01/1998</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S02017#schedfs2\">2002, c. 17, Sched. F, Table</a></span> - 01/01/2003</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06032#schedcs43s3\">2006, c. 32, Sched. C, s. 43 (3)</a></span> - 01/01/2007</p> <p class=\"section\"><b>66 </b><span class=\"ovsmallcap\">Repealed</span>:  1996, c. 32, s. 81 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 32, s. 81 (2) - 06/03/1997</p>"
+        },
+        {
+            "ahref_id": "#BK63",
+            "TOCid": "67.",
+            "section_x": "Inquiry by the Board",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Inquiry by the Board",
+            "content": "67 Upon an application being made to the Board for the approval required by section 65, the Board shall proceed to deal with the application in the manner provided by and shall have regard to the matters mentioned in section 63, and may hold such public hearings as to the Board may appear necessary.  R.S.O. 1990, c. O.28, s. 67.",
+            "raw_html": "<p class=\"section\"><a name=\"BK63\"></a><b>67 </b>Upon an application being made to the Board for the approval required by section 65, the Board shall proceed to deal with the application in the manner provided by and shall have regard to the matters mentioned in section 63, and may hold such public hearings as to the Board may appear necessary.  R.S.O. 1990, c. O.28, s. 67.</p>"
+        },
+        {
+            "ahref_id": "#BK64",
+            "TOCid": "68.",
+            "section_x": "Board may impose conditions on giving approval",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Board may impose conditions on giving approval",
+            "content": "68 The Board as a condition of giving its approval as required by section 65 may by its order impose such restrictions, limitations and conditions upon the municipality with respect to the matter before the Board or with respect to the current annual or future annual expenditures of the municipality for any purpose or with respect to further issues of debentures by the municipality, and otherwise with respect to the conduct and administration of the affairs of the municipality, as to the Board may appear necessary or expedient.  R.S.O. 1990, c. O.28, s. 68.",
+            "raw_html": "<p class=\"section\"><a name=\"BK64\"></a><b>68 </b>The Board as a condition of giving its approval as required by section 65 may by its order impose such restrictions, limitations and conditions upon the municipality with respect to the matter before the Board or with respect to the current annual or future annual expenditures of the municipality for any purpose or with respect to further issues of debentures by the municipality, and otherwise with respect to the conduct and administration of the affairs of the municipality, as to the Board may appear necessary or expedient.  R.S.O. 1990, c. O.28, s. 68.</p>"
+        },
+        {
+            "ahref_id": "#BK65",
+            "TOCid": "69.",
+            "section_x": "Board not required to approve",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Board not required to approve",
+            "content": "69 The Board is not required to give its approval on any application made to it under section 65, and shall not give such approval unless satisfied that the same is justified under all circumstances.  R.S.O. 1990, c. O.28, s. 69.",
+            "raw_html": "<p class=\"section\"><a name=\"BK65\"></a><b>69 </b>The Board is not required to give its approval on any application made to it under section 65, and shall not give such approval unless satisfied that the same is justified under all circumstances.  R.S.O. 1990, c. O.28, s. 69.</p>"
+        },
+        {
+            "ahref_id": "#BK66",
+            "TOCid": "70.",
+            "section_x": "Municipality may proceed upon approval",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL MUNICIPAL JURISDICTION",
+            "section_y": "Municipality may proceed upon approval",
+            "content": "70 When the Board has given its approval as required by section 65, the municipality may thereafter proceed in the manner and to the extent provided for by or consequent upon such approval, and for such purposes may exercise all its powers and do all things necessary or incidental thereto, and may pass all requisite by-laws, including debenture by-laws.  R.S.O. 1990, c. O.28, s. 70. PART V   RAILWAY AND UTILITIES JURISDICTION",
+            "raw_html": "<p class=\"section\"><a name=\"BK66\"></a><b>70 </b>When the Board has given its approval as required by section 65, the municipality may thereafter proceed in the manner and to the extent provided for by or consequent upon such approval, and for such purposes may exercise all its powers and do all things necessary or incidental thereto, and may pass all requisite by-laws, including debenture by-laws.  R.S.O. 1990, c. O.28, s. 70.</p> <p class=\"partnum\"><a name=\"BK67\"></a>PART V <br/>  RAILWAY AND UTILITIES JURISDICTION</p>"
+        },
+        {
+            "ahref_id": "#BK67",
+            "TOCid": "PART V  ",
+            "section_x": "PART V RAILWAY AND UTILITIES JURISDICTION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK68",
+            "TOCid": "71.",
+            "section_x": "Jurisdiction of Board:",
+            "part_id": "PART V  ",
+            "part_type": "PART V RAILWAY AND UTILITIES JURISDICTION",
+            "section_y": "Jurisdiction of Board:",
+            "content": "71 The Board has jurisdiction and power, railway and utility matters (a) to inquire into, hear and determine any applications made, proceedings instituted and matters brought before it under the provisions of any general or special Act relating to railways or public utilities or any of them where by such Act any jurisdiction or power is for such purpose conferred on the Board; complaints of breach of railway or utility statutes, orders, agreements, etc. (b) to hear and determine any application with respect to any railway or public utility, its construction, maintenance or operation by reason of the contravening or failure to comply on the part of any person, firm, company, corporation or municipality of or with the requirements of this or any other general or special Act, or of any regulation, rule, by-law or order made thereunder, or of any agreement entered into in relation to such railway or public utility, its construction, maintenance or operation; railway and public utility rates and tolls (c) to hear and determine any application with respect to any tolls charged by any person, firm, company, corporation or municipality operating a railway or public utility in excess of those approved or prescribed by lawful authority, or which are otherwise unlawful, unfair or unjust.  R.S.O. 1990, c. O.28, s. 71.",
+            "raw_html": "<p class=\"section\"><a name=\"BK68\"></a><b>71 </b>The Board has jurisdiction and power,</p> <p class=\"headnote\">railway and utility matters</p> <p class=\"paragraph\">  (a) to inquire into, hear and determine any applications made, proceedings instituted and matters brought before it under the provisions of any general or special Act relating to railways or public utilities or any of them where by such Act any jurisdiction or power is for such purpose conferred on the Board;</p> <p class=\"headnote\">complaints of breach of railway or utility statutes, orders, agreements, etc.</p> <p class=\"paragraph\">  (b) to hear and determine any application with respect to any railway or public utility, its construction, maintenance or operation by reason of the contravening or failure to comply on the part of any person, firm, company, corporation or municipality of or with the requirements of this or any other general or special Act, or of any regulation, rule, by-law or order made thereunder, or of any agreement entered into in relation to such railway or public utility, its construction, maintenance or operation;</p> <p class=\"headnote\">railway and public utility rates and tolls</p> <p class=\"paragraph\">  (c) to hear and determine any application with respect to any tolls charged by any person, firm, company, corporation or municipality operating a railway or public utility in excess of those approved or prescribed by lawful authority, or which are otherwise unlawful, unfair or unjust.  R.S.O. 1990, c. O.28, s. 71.</p>"
+        },
+        {
+            "ahref_id": "#BK69",
+            "TOCid": "72.",
+            "section_x": "Jurisdiction over receivers, liquidators, etc., of railway or public utility",
+            "part_id": "PART V  ",
+            "part_type": "PART V RAILWAY AND UTILITIES JURISDICTION",
+            "section_y": "Jurisdiction over receivers, liquidators, etc., of railway or public utility",
+            "content": "72 The fact that a manager or other official or the liquidator or receiver of a railway or public utility is managing or operating or liquidating it under the authority of any court is not a bar to the exercise by the Board of any jurisdiction or power conferred by this or any other general or special Act, and every such manager, official, liquidator or receiver is bound to manage, operate or liquidate such railway or public utility in accordance with this Act and under the orders and directions of the Board, whether general or referring particularly to such railway or public utility, and he, she or it and every person acting under him, her or it shall obey all orders and directions of the Board with respect to such railway or public utility and be subject to have them enforced against him, her or it by the Board, despite his, her or its authority or any order of the court under which he, she or it is appointed or acts.  R.S.O. 1990, c. O.28, s. 72.",
+            "raw_html": "<p class=\"section\"><a name=\"BK69\"></a><b>72 </b>The fact that a manager or other official or the liquidator or receiver of a railway or public utility is managing or operating or liquidating it under the authority of any court is not a bar to the exercise by the Board of any jurisdiction or power conferred by this or any other general or special Act, and every such manager, official, liquidator or receiver is bound to manage, operate or liquidate such railway or public utility in accordance with this Act and under the orders and directions of the Board, whether general or referring particularly to such railway or public utility, and he, she or it and every person acting under him, her or it shall obey all orders and directions of the Board with respect to such railway or public utility and be subject to have them enforced against him, her or it by the Board, despite his, her or its authority or any order of the court under which he, she or it is appointed or acts.  R.S.O. 1990, c. O.28, s. 72.</p>"
+        },
+        {
+            "ahref_id": "#BK70",
+            "TOCid": "73.",
+            "section_x": "Powers, etc., transferred to Board",
+            "part_id": "PART V  ",
+            "part_type": "PART V RAILWAY AND UTILITIES JURISDICTION",
+            "section_y": "Powers, etc., transferred to Board",
+            "content": "73 (1) Wherever, (a) any power or authority is given to or duty imposed upon the Railway Committee of the Executive Council of Ontario by any Act or document; (b) by any Act of the Legislature the location of any line of railway or the route and course thereof, or the maps, plans and specifications, or any part of the equipment are subject to the approval of the Lieutenant Governor in Council or of any of his or her Ministers, such power or authority may be exercised and such duty shall be performed and such approval may be given by the Board. Furnishing information (2) Whenever in any Act it is provided that any railway company shall, during construction of any line of railway, furnish such information as to the location and plans of passenger or freight stations as may from time to time be required by the Lieutenant Governor or any of his or her Ministers, or that such company shall comply with any directions that may be given for the erection of stations, or the number of them, such information shall be furnished to the Board and its directions shall be complied with by the company.  R.S.O. 1990, c. O.28, s. 73.",
+            "raw_html": "<p class=\"section\"><a name=\"BK70\"></a><b>73 </b>(1) Wherever,</p> <p class=\"paragraph\">  (a) any power or authority is given to or duty imposed upon the Railway Committee of the Executive Council of Ontario by any Act or document;</p> <p class=\"paragraph\">  (b) by any Act of the Legislature the location of any line of railway or the route and course thereof, or the maps, plans and specifications, or any part of the equipment are subject to the approval of the Lieutenant Governor in Council or of any of his or her Ministers,</p> <p class=\"section\">such power or authority may be exercised and such duty shall be performed and such approval may be given by the Board.</p> <p class=\"headnote\">Furnishing information</p> <p class=\"subsection\">(2) Whenever in any Act it is provided that any railway company shall, during construction of any line of railway, furnish such information as to the location and plans of passenger or freight stations as may from time to time be required by the Lieutenant Governor or any of his or her Ministers, or that such company shall comply with any directions that may be given for the erection of stations, or the number of them, such information shall be furnished to the Board and its directions shall be complied with by the company.  R.S.O. 1990, c. O.28, s. 73.</p>"
+        },
+        {
+            "ahref_id": "#BK71",
+            "TOCid": "74.",
+            "section_x": "Who is a “party interested”",
+            "part_id": "PART V  ",
+            "part_type": "PART V RAILWAY AND UTILITIES JURISDICTION",
+            "section_y": "Who is a “party interested”",
+            "content": "74 The decision of the Board as to whether any person, firm, company, corporation or municipality is or is not a party interested within the meaning of any of the provisions of this Part is binding and conclusive upon such persons, firms, companies, corporations or municipalities.  R.S.O. 1990, c. O.28, s. 74.",
+            "raw_html": "<p class=\"section\"><a name=\"BK71\"></a><b>74 </b>The decision of the Board as to whether any person, firm, company, corporation or municipality is or is not a party interested within the meaning of any of the provisions of this Part is binding and conclusive upon such persons, firms, companies, corporations or municipalities.  R.S.O. 1990, c. O.28, s. 74.</p>"
+        },
+        {
+            "ahref_id": "#BK72",
+            "TOCid": "75.",
+            "section_x": "Superintending accounts of railways and public utilities operated by municipalities",
+            "part_id": "PART V  ",
+            "part_type": "PART V RAILWAY AND UTILITIES JURISDICTION",
+            "section_y": "Superintending accounts of railways and public utilities operated by municipalities",
+            "content": "75 (1) The Board shall superintend the system of bookkeeping and keeping accounts of the assets, liabilities, revenue and expenditure of all railways and public utilities that are operated by or under the control of a municipality or a local board, and may require from it such returns and statements as to the Board may seem proper, and may extract from such returns and statements such information as, in the opinion of the Board, may be useful for publication, and may embody such portions of such returns and statements in the annual report of the Board as to it may seem proper. Inquiry and report as to rates charged by public utilities (2) The Board may from time to time require and report as to whether such railway or public utility is operated in such a way that the rates charged in respect thereof are sufficient to pay the debenture debt and interest created in respect thereof, and the cost of operation and maintenance, or whether greater rates are charged than are sufficient for such purposes.  R.S.O. 1990, c. O.28, s. 75 (1, 2). (3) Repealed:  1998, c. 15, Sched. E, s. 26 (1). Section Amendments with date in force (d/m/y) 1998, c. 15, Sched. E, s. 26 (1) - 01/04/1999 PART VI   PRACTICE AND PROCEDURE Notices and Evidence",
+            "raw_html": "<p class=\"section\"><a name=\"BK72\"></a><b>75 </b>(1) The Board shall superintend the system of bookkeeping and keeping accounts of the assets, liabilities, revenue and expenditure of all railways and public utilities that are operated by or under the control of a municipality or a local board, and may require from it such returns and statements as to the Board may seem proper, and may extract from such returns and statements such information as, in the opinion of the Board, may be useful for publication, and may embody such portions of such returns and statements in the annual report of the Board as to it may seem proper.</p> <p class=\"headnote\">Inquiry and report as to rates charged by public utilities</p> <p class=\"subsection\">(2) The Board may from time to time require and report as to whether such railway or public utility is operated in such a way that the rates charged in respect thereof are sufficient to pay the debenture debt and interest created in respect thereof, and the cost of operation and maintenance, or whether greater rates are charged than are sufficient for such purposes.  R.S.O. 1990, c. O.28, s. 75 (1, 2).</p> <p class=\"subsection\">(3) <span>Repealed</span>:  1998, c. 15, Sched. E, s. 26 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 15, Sched. E, s. 26 (1) - 01/04/1999</p> <p class=\"partnum\"><a name=\"BK73\"></a>PART VI <br/>  PRACTICE AND PROCEDURE</p> <p class=\"heading1\"><a name=\"BK74\"></a>Notices and Evidence</p>"
+        },
+        {
+            "ahref_id": "#BK73",
+            "TOCid": "PART VI  ",
+            "section_x": "PART VI PRACTICE AND PROCEDURE",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK74",
+            "TOCid": "Notices and Evidence",
+            "section_x": "Notices and Evidence",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK75",
+            "TOCid": "76.",
+            "section_x": "Notice, requisites",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Notice, requisites",
+            "content": "76 Any notice required or authorized to be given in writing, (a) by the Board, may be signed by the chair, a vice-chair, or the secretary; (b) by the inspecting engineer, or other officer or person appointed by the Board, may be signed by such inspecting engineer, officer or other person, as the case may be; (c) by any company or corporation, may be signed by the president or secretary, or by its duly authorized agent or solicitor; and (d) by any person, may be signed by such person or his, her or its duly authorized agent or solicitor.  R.S.O. 1990, c. O.28, s. 76.",
+            "raw_html": "<p class=\"section\"><a name=\"BK75\"></a><b>76 </b>Any notice required or authorized to be given in writing,</p> <p class=\"paragraph\">  (a) by the Board, may be signed by the chair, a vice-chair, or the secretary;</p> <p class=\"paragraph\">  (b) by the inspecting engineer, or other officer or person appointed by the Board, may be signed by such inspecting engineer, officer or other person, as the case may be;</p> <p class=\"paragraph\">  (c) by any company or corporation, may be signed by the president or secretary, or by its duly authorized agent or solicitor; and</p> <p class=\"paragraph\">  (d) by any person, may be signed by such person or his, her or its duly authorized agent or solicitor.  R.S.O. 1990, c. O.28, s. 76.</p>"
+        },
+        {
+            "ahref_id": "#BK76",
+            "TOCid": "77.",
+            "section_x": "Notices, how served",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Notices, how served",
+            "content": "77 (1) Any notice required to be given to a company, municipality, corporation, co-partnership, firm or individual, shall be deemed to be sufficiently given by delivering the notice, or a copy thereof, within the time, if any, limited therefor, railway company (a) in the case of a railway company, to the president, vice-president, managing director, secretary or superintendent of the company, or to some adult person in the employ of the company, at the head or any principal office of the company; municipality (b) in the case of a municipality, to the head of the municipality, or to the clerk; other companies (c) in the case of any other company or corporation, to the president, vice-president, manager or secretary, or to some adult person in its employ at its head or registered office; co-partnership or firm (d) in the case of a firm or co-partnership, to any member thereof, or, at the last known place of abode of any such member, to any adult member of his or her household, or at the office or place of business of the firm to a clerk employed therein; and individuals (e) in the case of an individual, to him or her, or, at his or her last known place of abode, to any adult member of the individual’s household, or at the individual’s office or place of business, to a clerk in his or her employ.  R.S.O. 1990, c. O.28, s. 77 (1); 1994, c. 23, s. 75 (1). Service by publication (2) If, in any case within the jurisdiction of the Board, it is made to appear to the satisfaction of the Board that service of any such notice cannot conveniently be made in the manner provided in subsection (1), the Board may order and allow such service to be made in such manner as the Board directs, and such publication in each case shall be deemed to be equivalent to service in the manner provided in subsection (1). Service of other documents (3) Any regulation, order, direction, decision, report or other document may, unless in any case otherwise provided, be served in like manner as notice may be given under this section.  R.S.O. 1990, c. O.28, s. 77 (2, 3). Service by facsimile (4) Despite subsection (1), service of any notice under this Act may be made by telephone transmission of a facsimile of the notice, subject to any rules made by the Board under section 91 regulating its use or any practice directive issued by the Board.  1994, c. 23, s. 75 (2). Section Amendments with date in force (d/m/y) 1994, c. 23, s. 75 (1, 2) - 28/03/1995",
+            "raw_html": "<p class=\"section\"><a name=\"BK76\"></a><b>77 </b>(1) Any notice required to be given to a company, municipality, corporation, co-partnership, firm or individual, shall be deemed to be sufficiently given by delivering the notice, or a copy thereof, within the time, if any, limited therefor,</p> <p class=\"headnote\">railway company</p> <p class=\"paragraph\">  (a) in the case of a railway company, to the president, vice-president, managing director, secretary or superintendent of the company, or to some adult person in the employ of the company, at the head or any principal office of the company;</p> <p class=\"headnote\">municipality</p> <p class=\"paragraph\">  (b) in the case of a municipality, to the head of the municipality, or to the clerk;</p> <p class=\"headnote\">other companies</p> <p class=\"paragraph\">  (c) in the case of any other company or corporation, to the president, vice-president, manager or secretary, or to some adult person in its employ at its head or registered office;</p> <p class=\"headnote\">co-partnership or firm</p> <p class=\"paragraph\">  (d) in the case of a firm or co-partnership, to any member thereof, or, at the last known place of abode of any such member, to any adult member of his or her household, or at the office or place of business of the firm to a clerk employed therein; and</p> <p class=\"headnote\">individuals</p> <p class=\"paragraph\">  (e) in the case of an individual, to him or her, or, at his or her last known place of abode, to any adult member of the individual’s household, or at the individual’s office or place of business, to a clerk in his or her employ.  R.S.O. 1990, c. O.28, s. 77 (1); 1994, c. 23, s. 75 (1).</p> <p class=\"headnote\">Service by publication</p> <p class=\"subsection\">(2) If, in any case within the jurisdiction of the Board, it is made to appear to the satisfaction of the Board that service of any such notice cannot conveniently be made in the manner provided in subsection (1), the Board may order and allow such service to be made in such manner as the Board directs, and such publication in each case shall be deemed to be equivalent to service in the manner provided in subsection (1).</p> <p class=\"headnote\">Service of other documents</p> <p class=\"subsection\">(3) Any regulation, order, direction, decision, report or other document may, unless in any case otherwise provided, be served in like manner as notice may be given under this section.  R.S.O. 1990, c. O.28, s. 77 (2, 3).</p> <p class=\"headnote\">Service by facsimile</p> <p class=\"subsection\">(4) Despite subsection (1), service of any notice under this Act may be made by telephone transmission of a facsimile of the notice, subject to any rules made by the Board under section 91 regulating its use or any practice directive issued by the Board.  1994, c. 23, s. 75 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1994, c. 23, s. 75 (1, 2) - 28/03/1995</p>"
+        },
+        {
+            "ahref_id": "#BK77",
+            "TOCid": "78.",
+            "section_x": "Duty of company on receipt of notice or order",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Duty of company on receipt of notice or order",
+            "content": "78 Every company, municipality or corporation shall, as soon as possible after the receipt by it, or service upon it, of any regulation, order, direction, decision, notice, report or other document of the Board, or of the inspecting engineer, give cognizance thereof to each of its officers and employees performing duties that are or may be affected thereby, by delivering a copy to him or her or by posting up a copy thereof in some place where his or her work or duties, or some of them, are to be performed.  R.S.O. 1990, c. O.28, s. 78.",
+            "raw_html": "<p class=\"section\"><a name=\"BK77\"></a><b>78 </b>Every company, municipality or corporation shall, as soon as possible after the receipt by it, or service upon it, of any regulation, order, direction, decision, notice, report or other document of the Board, or of the inspecting engineer, give cognizance thereof to each of its officers and employees performing duties that are or may be affected thereby, by delivering a copy to him or her or by posting up a copy thereof in some place where his or her work or duties, or some of them, are to be performed.  R.S.O. 1990, c. O.28, s. 78.</p>"
+        },
+        {
+            "ahref_id": "#BK78",
+            "TOCid": "79.",
+            "section_x": "Duty of sheriffs, etc.",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Duty of sheriffs, etc.",
+            "content": "79 Sheriffs, deputy sheriffs, police officers and other peace officers shall aid, assist and obey the Board in the exercise of the jurisdiction conferred by this Act whenever required so to do, and shall, upon the certificate of the secretary, be paid by the county interested the like fees as for similar services at the sitting of the Superior Court of Justice for the trial of actions, and such fees shall be charged as expenses of the administration of justice.  R.S.O. 1990, c. O.28, s. 79; 2006, c. 19, Sched. C, s. 1 (1). Section Amendments with date in force (d/m/y) 2006, c. 19, Sched. C, s. 1 (1) - 22/06/2006",
+            "raw_html": "<p class=\"section\"><a name=\"BK78\"></a><b>79 </b>Sheriffs, deputy sheriffs, police officers and other peace officers shall aid, assist and obey the Board in the exercise of the jurisdiction conferred by this Act whenever required so to do, and shall, upon the certificate of the secretary, be paid by the county interested the like fees as for similar services at the sitting of the Superior Court of Justice for the trial of actions, and such fees shall be charged as expenses of the administration of justice.  R.S.O. 1990, c. O.28, s. 79; 2006, c. 19, Sched. C, s. 1 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedcs1s1\">2006, c. 19, Sched. C, s. 1 (1)</a></span> - 22/06/2006</p>"
+        },
+        {
+            "ahref_id": "#BK79",
+            "TOCid": "80.",
+            "section_x": "Effect of documents issued by company",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Effect of documents issued by company",
+            "content": "80 Every written or printed document purporting to have been issued or authorized by a company or any officer, agent or employee of a company, or any other person or company for or on its behalf, shall, as against the company, be received as proof, in the absence of evidence to the contrary, of the issue of the document by the company, and of the contents thereof, without any further proof than the mere production of the document.  R.S.O. 1990, c. O.28, s. 80.",
+            "raw_html": "<p class=\"section\"><a name=\"BK79\"></a><b>80 </b>Every written or printed document purporting to have been issued or authorized by a company or any officer, agent or employee of a company, or any other person or company for or on its behalf, shall, as against the company, be received as proof, in the absence of evidence to the contrary, of the issue of the document by the company, and of the contents thereof, without any further proof than the mere production of the document.  R.S.O. 1990, c. O.28, s. 80.</p>"
+        },
+        {
+            "ahref_id": "#BK80",
+            "TOCid": "81.",
+            "section_x": "Evidence",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Evidence",
+            "content": "81 (1) Every document purporting to be signed by a member of the Board or the secretary or a signing officer of the Board, or by an inspecting engineer, is, without proof of the signature, proof in the absence of evidence to the contrary that the document was duly signed, and is sufficient notice to the company and all parties interested, if served in the manner provided by section 77 for service of notice, that the document was duly signed and issued by the Board, or inspecting engineer, as the case may be.  R.S.O. 1990, c. O.28, s. 81 (1); 1993, c. 27, Sched. Same (2) If the document purports to be a copy of any regulation, order, direction, decision or report, made or given by the Board, or inspecting engineer, it is proof in the absence of evidence to the contrary of the regulation, order, direction, decision or report, and, when served in the manner provided by section 77, is sufficient notice of the regulation, order, direction, decision or report from the time of such service.  R.S.O. 1990, c. O.28, s. 81 (2); 1993, c. 27, Sched. Section Amendments with date in force (d/m/y) 1993, c. 27, Sched. - 31/12/1991",
+            "raw_html": "<p class=\"section\"><a name=\"BK80\"></a><b>81 </b>(1) Every document purporting to be signed by a member of the Board or the secretary or a signing officer of the Board, or by an inspecting engineer, is, without proof of the signature, proof in the absence of evidence to the contrary that the document was duly signed, and is sufficient notice to the company and all parties interested, if served in the manner provided by section 77 for service of notice, that the document was duly signed and issued by the Board, or inspecting engineer, as the case may be.  R.S.O. 1990, c. O.28, s. 81 (1); 1993, c. 27, Sched.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) If the document purports to be a copy of any regulation, order, direction, decision or report, made or given by the Board, or inspecting engineer, it is proof in the absence of evidence to the contrary of the regulation, order, direction, decision or report, and, when served in the manner provided by section 77, is sufficient notice of the regulation, order, direction, decision or report from the time of such service.  R.S.O. 1990, c. O.28, s. 81 (2); 1993, c. 27, Sched.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1993, c. 27, Sched. - 31/12/1991</p>"
+        },
+        {
+            "ahref_id": "#BK81",
+            "TOCid": "82.",
+            "section_x": "Certified plan, etc., evidence",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Certified plan, etc., evidence",
+            "content": "82 (1) Any document purporting to be certified by the secretary as being a copy of any plan, profile, book of reference or other document deposited with the Board, or of any portion thereof, is, without proof of signature of the secretary, proof in the absence of evidence to the contrary of the original document, and that the same is so deposited, and is signed, certified, attested or executed by the persons by whom and in the manner in which the same purports to be signed, certified, attested or executed, as shown or appearing from the certified copy, and also, if the certificate states the time when the original was so deposited, that the same was deposited at the time so stated.  R.S.O. 1990, c. O.28, s. 82 (1); 1993, c. 27, Sched. Certified copies of documents of Board (2) A copy of any regulation, order or other document in the custody of the secretary, or of record with the Board, purporting to be certified by the secretary to be a true copy and purporting to be sealed with the seal of the Board, is proof in the absence of evidence to the contrary of the regulation, order or document, without proof of the signature of the secretary.  R.S.O. 1990, c. O.28, s. 82 (2); 1993, c. 27, Sched. Section Amendments with date in force (d/m/y) 1993, c. 27, Sched. - 31/12/1991",
+            "raw_html": "<p class=\"section\"><a name=\"BK81\"></a><b>82 </b>(1) Any document purporting to be certified by the secretary as being a copy of any plan, profile, book of reference or other document deposited with the Board, or of any portion thereof, is, without proof of signature of the secretary, proof in the absence of evidence to the contrary of the original document, and that the same is so deposited, and is signed, certified, attested or executed by the persons by whom and in the manner in which the same purports to be signed, certified, attested or executed, as shown or appearing from the certified copy, and also, if the certificate states the time when the original was so deposited, that the same was deposited at the time so stated.  R.S.O. 1990, c. O.28, s. 82 (1); 1993, c. 27, Sched.</p> <p class=\"headnote\">Certified copies of documents of Board</p> <p class=\"subsection\">(2) A copy of any regulation, order or other document in the custody of the secretary, or of record with the Board, purporting to be certified by the secretary to be a true copy and purporting to be sealed with the seal of the Board, is proof in the absence of evidence to the contrary of the regulation, order or document, without proof of the signature of the secretary.  R.S.O. 1990, c. O.28, s. 82 (2); 1993, c. 27, Sched.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1993, c. 27, Sched. - 31/12/1991</p>"
+        },
+        {
+            "ahref_id": "#BK82",
+            "TOCid": "83.",
+            "section_x": "Publication of regulations, orders, etc.",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Publication of regulations, orders, etc.",
+            "content": "83 Any rule, regulation, order or decision of the Board, when published by the Board, or by leave of the Board, for three weeks in The Ontario Gazette, and while the same remains in force, has the like effect as if enacted in this Act, and all courts shall take judicial notice thereof.  R.S.O. 1990, c. O.28, s. 83.",
+            "raw_html": "<p class=\"section\"><a name=\"BK82\"></a><b>83 </b>Any rule, regulation, order or decision of the Board, when published by the Board, or by leave of the Board, for three weeks in <i>The Ontario Gazette</i>, and while the same remains in force, has the like effect as if enacted in this Act, and all courts shall take judicial notice thereof.  R.S.O. 1990, c. O.28, s. 83.</p>"
+        },
+        {
+            "ahref_id": "#BK83",
+            "TOCid": "84.",
+            "section_x": "Notice of application",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Notice of application",
+            "content": "84 Unless otherwise provided, ten days notice of any application to the Board, or of any hearing by the Board, is sufficient, but the Board may in any case direct longer or permit shorter notice of the application.  R.S.O. 1990, c. O.28, s. 84.",
+            "raw_html": "<p class=\"section\"><a name=\"BK83\"></a><b>84 </b>Unless otherwise provided, ten days notice of any application to the Board, or of any hearing by the Board, is sufficient, but the Board may in any case direct longer or permit shorter notice of the application.  R.S.O. 1990, c. O.28, s. 84.</p>"
+        },
+        {
+            "ahref_id": "#BK84",
+            "TOCid": "85.",
+            "section_x": "Procedure in urgent cases when no notice given",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Procedure in urgent cases when no notice given",
+            "content": "85 (1) When the Board is authorized to hear an application, complaint or dispute, or make any order, upon notice to the parties interested, it may, upon the ground of urgency, or for other reason appearing to the Board to be sufficient, despite any want of or insufficiency in such notice, make the like order or decision in the matter as if due notice had been given to all parties, and such order or decision is as valid and shall take effect in all respects as if made on due notice. When rehearing in such cases may be had (2) Any person entitled to notice and not sufficiently notified may, at any time within ten days after becoming aware of the order or decision, or within such further time as the Board may allow, apply to the Board to vary, amend or rescind the order or decision, and the Board shall thereupon, on such notice to other parties interested as it may in its discretion think desirable, hear such application, and either amend, alter or rescind the order or decision, or dismiss the application, as may seem to it just.  R.S.O. 1990, c. O.28, s. 85. Orders of Court",
+            "raw_html": "<p class=\"section\"><a name=\"BK84\"></a><b>85 </b>(1) When the Board is authorized to hear an application, complaint or dispute, or make any order, upon notice to the parties interested, it may, upon the ground of urgency, or for other reason appearing to the Board to be sufficient, despite any want of or insufficiency in such notice, make the like order or decision in the matter as if due notice had been given to all parties, and such order or decision is as valid and shall take effect in all respects as if made on due notice.</p> <p class=\"headnote\">When rehearing in such cases may be had</p> <p class=\"subsection\">(2) Any person entitled to notice and not sufficiently notified may, at any time within ten days after becoming aware of the order or decision, or within such further time as the Board may allow, apply to the Board to vary, amend or rescind the order or decision, and the Board shall thereupon, on such notice to other parties interested as it may in its discretion think desirable, hear such application, and either amend, alter or rescind the order or decision, or dismiss the application, as may seem to it just.  R.S.O. 1990, c. O.28, s. 85.</p> <p class=\"heading1\"><a name=\"BK85\"></a>Orders of Court</p>"
+        },
+        {
+            "ahref_id": "#BK85",
+            "TOCid": "Orders of Court",
+            "section_x": "Orders of Court",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK86",
+            "TOCid": "86.",
+            "section_x": "Enforcement of orders",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Enforcement of orders",
+            "content": "86 (1) A certified copy of any order or decision made by the Board under this Act or any general or special Act may be filed with the Superior Court of Justice, and thereupon becomes and is enforceable as a judgment or order of the Superior Court of Justice to the same effect, but the order or decision may nevertheless be rescinded or varied by the Board.  R.S.O. 1990, c. O.28, s. 86 (1); 2006, c. 19, Sched. C, s. 1 (1). Board may select method of enforcing order (2) It is optional with the Board to adopt the method provided by this section for enforcing its orders or decisions or to enforce them by its own action.  R.S.O. 1990, c. O.28, s. 86 (2). Section Amendments with date in force (d/m/y) 2006, c. 19, Sched. C, s. 1 (1) - 22/06/2006 Terms of Orders",
+            "raw_html": "<p class=\"section\"><a name=\"BK86\"></a><b>86 </b>(1) A certified copy of any order or decision made by the Board under this Act or any general or special Act may be filed with the Superior Court of Justice, and thereupon becomes and is enforceable as a judgment or order of the Superior Court of Justice to the same effect, but the order or decision may nevertheless be rescinded or varied by the Board.  R.S.O. 1990, c. O.28, s. 86 (1); 2006, c. 19, Sched. C, s. 1 (1).</p> <p class=\"headnote\">Board may select method of enforcing order</p> <p class=\"subsection\">(2) It is optional with the Board to adopt the method provided by this section for enforcing its orders or decisions or to enforce them by its own action.  R.S.O. 1990, c. O.28, s. 86 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedcs1s1\">2006, c. 19, Sched. C, s. 1 (1)</a></span> - 22/06/2006</p> <p class=\"heading1\"><a name=\"BK87\"></a>Terms of Orders</p>"
+        },
+        {
+            "ahref_id": "#BK87",
+            "TOCid": "Terms of Orders",
+            "section_x": "Terms of Orders",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK88",
+            "TOCid": "87.",
+            "section_x": "Contingent orders",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Contingent orders",
+            "content": "87 (1) The Board may direct in any order that the order, or any portion or provision thereof, shall come into force at a future fixed time, or upon the happening of any contingency, event or condition specified in the order, or upon the performance, to the satisfaction of the Board or person named by it, of any terms which the Board may impose upon any party interested, and the Board may direct that the whole, or any portion of the order, shall have force for a limited time, or until the happening of any specified event. Interim orders (2) The Board may, instead of making an order final in the first instance, make an interim order and reserve further directions, either for an adjourned hearing of the matter or for further application.  R.S.O. 1990, c. O.28, s. 87.",
+            "raw_html": "<p class=\"section\"><a name=\"BK88\"></a><b>87 </b>(1) The Board may direct in any order that the order, or any portion or provision thereof, shall come into force at a future fixed time, or upon the happening of any contingency, event or condition specified in the order, or upon the performance, to the satisfaction of the Board or person named by it, of any terms which the Board may impose upon any party interested, and the Board may direct that the whole, or any portion of the order, shall have force for a limited time, or until the happening of any specified event.</p> <p class=\"headnote\">Interim orders</p> <p class=\"subsection\">(2) The Board may, instead of making an order final in the first instance, make an interim order and reserve further directions, either for an adjourned hearing of the matter or for further application.  R.S.O. 1990, c. O.28, s. 87.</p>"
+        },
+        {
+            "ahref_id": "#BK89",
+            "TOCid": "88.",
+            "section_x": "May grant partial or other relief than that applied for",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "May grant partial or other relief than that applied for",
+            "content": "88 Upon any application to the Board, the Board may make an order granting the whole, or part only, of the application, or may grant such further or other relief in addition to, or in substitution for, that applied for as to the Board may appear just and proper as fully in all respects as if the application had been for such partial, other, or further relief.  R.S.O. 1990, c. O.28, s. 88.",
+            "raw_html": "<p class=\"section\"><a name=\"BK89\"></a><b>88 </b>Upon any application to the Board, the Board may make an order granting the whole, or part only, of the application, or may grant such further or other relief in addition to, or in substitution for, that applied for as to the Board may appear just and proper as fully in all respects as if the application had been for such partial, other, or further relief.  R.S.O. 1990, c. O.28, s. 88.</p>"
+        },
+        {
+            "ahref_id": "#BK90",
+            "TOCid": "89.",
+            "section_x": "Interim orders without notice",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Interim orders without notice",
+            "content": "89 The Board may, if the special circumstances of any case, in its opinion, so require, make an interim order without notice authorizing, requiring or forbidding anything to be done that the Board would be empowered on application, notice and hearing to authorize, require or forbid, but no such order shall be made for any longer time than the Board may consider necessary to enable the matter to be heard and determined.  R.S.O. 1990, c. O.28, s. 89.",
+            "raw_html": "<p class=\"section\"><a name=\"BK90\"></a><b>89 </b>The Board may, if the special circumstances of any case, in its opinion, so require, make an interim order without notice authorizing, requiring or forbidding anything to be done that the Board would be empowered on application, notice and hearing to authorize, require or forbid, but no such order shall be made for any longer time than the Board may consider necessary to enable the matter to be heard and determined.  R.S.O. 1990, c. O.28, s. 89.</p>"
+        },
+        {
+            "ahref_id": "#BK91",
+            "TOCid": "90.",
+            "section_x": "Extension of time specified in order",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Extension of time specified in order",
+            "content": "90 When any work, act, matter or thing is, by any regulation, order or decision of the Board, required to be done, performed or completed within a specified time the Board may, if the circumstances of the case in its opinion so require, upon notice and hearing, or in its discretion upon application without notice, extend the time so specified.  R.S.O. 1990, c. O.28, s. 90. General Rules",
+            "raw_html": "<p class=\"section\"><a name=\"BK91\"></a><b>90 </b>When any work, act, matter or thing is, by any regulation, order or decision of the Board, required to be done, performed or completed within a specified time the Board may, if the circumstances of the case in its opinion so require, upon notice and hearing, or in its discretion upon application without notice, extend the time so specified.  R.S.O. 1990, c. O.28, s. 90.</p> <p class=\"heading1\"><a name=\"BK92\"></a>General Rules</p>"
+        },
+        {
+            "ahref_id": "#BK92",
+            "TOCid": "General Rules",
+            "section_x": "General Rules",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK93",
+            "TOCid": "91.",
+            "section_x": "Power to makes rules",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Power to makes rules",
+            "content": "91 The Board may make general rules regulating its practice and procedure.  R.S.O. 1990, c. O.28, s. 91. Other Provisions",
+            "raw_html": "<p class=\"section\"><a name=\"BK93\"></a><b>91 </b>The Board may make general rules regulating its practice and procedure.  R.S.O. 1990, c. O.28, s. 91.</p> <p class=\"heading1\"><a name=\"BK94\"></a>Other Provisions</p>"
+        },
+        {
+            "ahref_id": "#BK94",
+            "TOCid": "Other Provisions",
+            "section_x": "Other Provisions",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK95",
+            "TOCid": "92.",
+            "section_x": "Presumption of jurisdiction to make order",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Presumption of jurisdiction to make order",
+            "content": "92 An order of the Board need not show upon its face that any proceeding or notice was had or given, or any circumstance existed, necessary to give it jurisdiction to make the order.  R.S.O. 1990, c. O.28, s. 92.",
+            "raw_html": "<p class=\"section\"><a name=\"BK95\"></a><b>92 </b>An order of the Board need not show upon its face that any proceeding or notice was had or given, or any circumstance existed, necessary to give it jurisdiction to make the order.  R.S.O. 1990, c. O.28, s. 92.</p>"
+        },
+        {
+            "ahref_id": "#BK96",
+            "TOCid": "93.",
+            "section_x": "Effect of finding of fact in another court",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Effect of finding of fact in another court",
+            "content": "93 (1) In determining any question of fact, the Board is not concluded by the finding or judgment of any other court in any action, prosecution or proceeding involving the determination of such fact, but such finding or judgment is, in proceedings before the board, evidence only. Jurisdiction not affected (2) Except as otherwise provided in this Act, the pendency of any action, prosecution or proceeding in any other court involving questions of fact does not deprive the Board of jurisdiction to hear and determine the same questions of fact. Effect of finding of fact (3) The finding or determination of the Board upon any question of fact within its jurisdiction is binding and conclusive.  R.S.O. 1990, c. O.28, s. 93.",
+            "raw_html": "<p class=\"section\"><a name=\"BK96\"></a><b>93 </b>(1) In determining any question of fact, the Board is not concluded by the finding or judgment of any other court in any action, prosecution or proceeding involving the determination of such fact, but such finding or judgment is, in proceedings before the board, evidence only.</p> <p class=\"headnote\">Jurisdiction not affected</p> <p class=\"subsection\">(2) Except as otherwise provided in this Act, the pendency of any action, prosecution or proceeding in any other court involving questions of fact does not deprive the Board of jurisdiction to hear and determine the same questions of fact.</p> <p class=\"headnote\">Effect of finding of fact</p> <p class=\"subsection\">(3) The finding or determination of the Board upon any question of fact within its jurisdiction is binding and conclusive.  R.S.O. 1990, c. O.28, s. 93.</p>"
+        },
+        {
+            "ahref_id": "#BK97",
+            "TOCid": "94.",
+            "section_x": "Stating case for opinion of Divisional Court",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Stating case for opinion of Divisional Court",
+            "content": "94 (1) The Board may, at the request of the Lieutenant Governor in Council, or of its own motion, or upon the application of any party, and upon such security being given as it directs, state a case in writing for the opinion of the Divisional Court upon any question that, in the opinion of the Board, is a question of law. Action thereon (2) The Divisional Court shall hear and determine the stated case and remit it to the Board with the opinion of the court thereon.  R.S.O. 1990, c. O.28, s. 94. No petition to Lieutenant Governor in Council",
+            "raw_html": "<p class=\"section\"><a name=\"BK97\"></a><b>94 </b>(1) The Board may, at the request of the Lieutenant Governor in Council, or of its own motion, or upon the application of any party, and upon such security being given as it directs, state a case in writing for the opinion of the Divisional Court upon any question that, in the opinion of the Board, is a question of law.</p> <p class=\"headnote\">Action thereon</p> <p class=\"subsection\">(2) The Divisional Court shall hear and determine the stated case and remit it to the Board with the opinion of the court thereon.  R.S.O. 1990, c. O.28, s. 94.</p> <p class=\"headnote\">No petition to Lieutenant Governor in Council</p>"
+        },
+        {
+            "ahref_id": "#BK98",
+            "TOCid": "95.",
+            "section_x": "No petition to Lieutenant Governor in Council",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Definition",
+            "content": "95 (1) In this section, “old section 95” means this section as it read immediately before the day the Good Government Act, 2009 received Royal Assent.  2009, c. 33, Sched. 2, s. 54 (3). Not subject to petition (2) Every order or decision of the Board that is the subject of a petition filed under the old section 95 that is not disposed of or withdrawn before the day the Good Government Act, 2009 receives Royal Assent is deemed not to be subject to petition to the Lieutenant Governor in Council, and shall not be considered or continue to be considered, as the case may be, by the Lieutenant Governor in Council.  2009, c. 33, Sched. 2, s. 54 (3). Same (3) Every order or decision of the Board that may be the subject of a petition under the old section 95 is deemed not to be subject to petition to the Lieutenant Governor in Council, and shall not be considered by the Lieutenant Governor in Council.  2009, c. 33, Sched. 2, s. 54 (3). No effect on validity (4) Nothing in this section affects the validity of an order or decision of the Board that, but for subsection 54 (3) of Schedule 2 to the Good Government Act, 2009, was or could have been the subject of a petition filed under the old section 95.  2009, c. 33, Sched. 2, s. 54 (3). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 2, s. 54 (3) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK98\"></a><b>95 </b>(1) In this section,</p> <p class=\"definition\">“old section 95” means this section as it read immediately before the day the <i>Good Government Act, 2009</i> received Royal Assent.  2009, c. 33, Sched. 2, s. 54 (3).</p> <p class=\"headnote\">Not subject to petition</p> <p class=\"subsection\">(2) Every order or decision of the Board that is the subject of a petition filed under the old section 95 that is not disposed of or withdrawn before the day the <i>Good Government Act, 2009</i> receives Royal Assent is deemed not to be subject to petition to the Lieutenant Governor in Council, and shall not be considered or continue to be considered, as the case may be, by the Lieutenant Governor in Council.  2009, c. 33, Sched. 2, s. 54 (3).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3) Every order or decision of the Board that may be the subject of a petition under the old section 95 is deemed not to be subject to petition to the Lieutenant Governor in Council, and shall not be considered by the Lieutenant Governor in Council.  2009, c. 33, Sched. 2, s. 54 (3).</p> <p class=\"headnote\">No effect on validity</p> <p class=\"subsection\">(4) Nothing in this section affects the validity of an order or decision of the Board that, but for subsection 54 (3) of Schedule 2 to the <i>Good Government Act, 2009</i>, was or could have been the subject of a petition filed under the old section 95.  2009, c. 33, Sched. 2, s. 54 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched2s54s3\">2009, c. 33, Sched. 2, s. 54 (3)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "ahref_id": "#BK99",
+            "TOCid": "96.",
+            "section_x": "Appeal",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Appeal",
+            "content": "96 (1) Subject to the provisions of Part IV, an appeal lies from the Board to the Divisional Court, with leave of the Divisional Court, on a question of law.  R.S.O. 1990, c. O.28, s. 96 (1). Board may be heard by counsel (2) The Board is entitled to be heard, by counsel or otherwise, upon the argument of any such appeal.  R.S.O. 1990, c. O.28, s. 96 (2). Members of Board not liable for costs (3) Neither the Board nor any member of the Board is in any case liable to any costs by reason or in respect of any appeal or application under this section.  R.S.O. 1990, c. O.28, s. 96 (3). Decisions of Board to be final (4) Save as provided in this section and in section 43, (a) every decision or order of the Board is final; and (b) no order, decision or proceeding of the Board shall be questioned or reviewed, restrained or removed by prohibition, injunction, certiorari or any other process or proceeding in any court.  R.S.O. 1990, c. O.28, s. 96 (4); 2009, c. 33, Sched. 2, s. 54 (4). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 2, s. 54 (4) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK99\"></a><b>96 </b>(1) Subject to the provisions of Part IV, an appeal lies from the Board to the Divisional Court, with leave of the Divisional Court, on a question of law.  R.S.O. 1990, c. O.28, s. 96 (1).</p> <p class=\"headnote\">Board may be heard by counsel</p> <p class=\"subsection\">(2) The Board is entitled to be heard, by counsel or otherwise, upon the argument of any such appeal.  R.S.O. 1990, c. O.28, s. 96 (2).</p> <p class=\"headnote\">Members of Board not liable for costs</p> <p class=\"subsection\">(3) Neither the Board nor any member of the Board is in any case liable to any costs by reason or in respect of any appeal or application under this section.  R.S.O. 1990, c. O.28, s. 96 (3).</p> <p class=\"headnote\">Decisions of Board to be final</p> <p class=\"subsection\">(4) Save as provided in this section and in section 43,</p> <p class=\"paragraph\">  (a) every decision or order of the Board is final; and</p> <p class=\"paragraph\">  (b) no order, decision or proceeding of the Board shall be questioned or reviewed, restrained or removed by prohibition, injunction, <i>certiorari</i> or any other process or proceeding in any court.  R.S.O. 1990, c. O.28, s. 96 (4); 2009, c. 33, Sched. 2, s. 54 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched2s54s4\">2009, c. 33, Sched. 2, s. 54 (4)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "ahref_id": "#BK100",
+            "TOCid": "97.",
+            "section_x": "Costs",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Costs",
+            "content": "97 (1) The costs of and incidental to any proceeding before the Board, except as herein otherwise provided, shall be in the discretion of the Board, and may be fixed in any case at a sum certain or may be assessed. Taxation (2) The Board may order by whom and to whom any costs are to be paid, and by whom the same are to be assessed and allowed. Scale (3) The Board may prescribe a scale under which such costs shall be assessed.  R.S.O. 1990, c. O.28, s. 97.",
+            "raw_html": "<p class=\"section\"><a name=\"BK100\"></a><b>97 </b>(1) The costs of and incidental to any proceeding before the Board, except as herein otherwise provided, shall be in the discretion of the Board, and may be fixed in any case at a sum certain or may be assessed.</p> <p class=\"headnote\">Taxation</p> <p class=\"subsection\">(2) The Board may order by whom and to whom any costs are to be paid, and by whom the same are to be assessed and allowed.</p> <p class=\"headnote\">Scale</p> <p class=\"subsection\">(3) The Board may prescribe a scale under which such costs shall be assessed.  R.S.O. 1990, c. O.28, s. 97.</p>"
+        },
+        {
+            "ahref_id": "#BK101",
+            "TOCid": "98.",
+            "section_x": "Witness fees",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Witness fees",
+            "content": "98 Every person summoned to attend before the Board or before any inspecting engineer, or person appointed to make inquiry and report, shall, in the discretion of the Board, receive the like fees and allowances for so doing as if summoned to attend before the Superior Court of Justice.  R.S.O. 1990, c. O.28, s. 98; 2006, c. 19, Sched. C, s. 1 (1). Section Amendments with date in force (d/m/y) 2006, c. 19, Sched. C, s. 1 (1) - 22/06/2006",
+            "raw_html": "<p class=\"section\"><a name=\"BK101\"></a><b>98 </b>Every person summoned to attend before the Board or before any inspecting engineer, or person appointed to make inquiry and report, shall, in the discretion of the Board, receive the like fees and allowances for so doing as if summoned to attend before the Superior Court of Justice.  R.S.O. 1990, c. O.28, s. 98; 2006, c. 19, Sched. C, s. 1 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedcs1s1\">2006, c. 19, Sched. C, s. 1 (1)</a></span> - 22/06/2006</p>"
+        },
+        {
+            "ahref_id": "#BK102",
+            "TOCid": "99.",
+            "section_x": "Fees for copies, certificates, etc.",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Fees for copies, certificates, etc.",
+            "content": "99 (1) The Board may charge and collect such fees as to it may seem proper for all copies of documents, maps or plans, and all certificates as to the same.  R.S.O. 1990, c. O.28, s. 99 (1). Payment over to Province (2) All fees charged and collected by the Board shall be paid over quarterly, accompanied by a detailed statement thereof, to the Minister of Finance.  R.S.O. 1990, c. O.28, s. 99 (2); 2006, c. 19, Sched. B, s. 13 (2). Section Amendments with date in force (d/m/y) 2006, c. 19, Sched. B, s. 13 (2) - 22/06/2006",
+            "raw_html": "<p class=\"section\"><a name=\"BK102\"></a><b>99 </b>(1) The Board may charge and collect such fees as to it may seem proper for all copies of documents, maps or plans, and all certificates as to the same.  R.S.O. 1990, c. O.28, s. 99 (1).</p> <p class=\"headnote\">Payment over to Province</p> <p class=\"subsection\">(2) All fees charged and collected by the Board shall be paid over quarterly, accompanied by a detailed statement thereof, to the Minister of Finance.  R.S.O. 1990, c. O.28, s. 99 (2); 2006, c. 19, Sched. B, s. 13 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedbs13s2\">2006, c. 19, Sched. B, s. 13 (2)</a></span> - 22/06/2006</p>"
+        },
+        {
+            "ahref_id": "#BK103",
+            "TOCid": "100.",
+            "section_x": "Fees",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI PRACTICE AND PROCEDURE",
+            "section_y": "Fees",
+            "content": "100 (1) The Board may, with the approval of the Lieutenant Governor in Council, make regulations requiring fees to be paid to the Board in connection with its proceedings and prescribing the amounts thereof. Where fees may be waived or remitted (2) The Board may from time to time waive or remit in appropriate circumstances all or any portion of such fees.  R.S.O. 1990, c. O.28, s. 100. PART VII   MISCELLANEOUS 101 Repealed: 2017, c. 34, Sched. 46, s. 43. Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 46, s. 43 - 01/01/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK103\"></a><b>100 </b>(1) The Board may, with the approval of the Lieutenant Governor in Council, make regulations requiring fees to be paid to the Board in connection with its proceedings and prescribing the amounts thereof.</p> <p class=\"headnote\">Where fees may be waived or remitted</p> <p class=\"subsection\">(2) The Board may from time to time waive or remit in appropriate circumstances all or any portion of such fees.  R.S.O. 1990, c. O.28, s. 100.</p> <p class=\"partnum\"><a name=\"BK104\"></a>PART VII <br/>  MISCELLANEOUS</p> <p class=\"section\"><a name=\"BK105\"></a><b>101 </b><span class=\"ovsmallcap\">Repealed</span>: 2017, c. 34, Sched. 46, s. 43.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched46s43\">2017, c. 34, Sched. 46, s. 43</a></span> - 01/01/2018</p>"
+        },
+        {
+            "ahref_id": "#BK104",
+            "TOCid": "PART VII  ",
+            "section_x": "PART VII MISCELLANEOUS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK106",
+            "TOCid": "102.",
+            "section_x": "Publishing information without leave",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII MISCELLANEOUS",
+            "section_y": "Publishing information without leave",
+            "content": "102 If any officer or employee of the Board, or any person having access to or knowledge of any return made to the Board or of any evidence taken by the Board in connection therewith, without the authority of the Board first obtained, publishes or makes known any information, having obtained the same or knowing the same to have been derived from such return or evidence, the officer, employee or person is guilty of an offence and on conviction is liable to a fine of not more than $500 and is also liable to imprisonment for a term of not more than six months.  R.S.O. 1990, c. O.28, s. 102; 1993, c. 27, Sched. Section Amendments with date in force (d/m/y) 1993, c. 27, Sched. - 31/12/1991",
+            "raw_html": "<p class=\"section\"><a name=\"BK106\"></a><b>102 </b>If any officer or employee of the Board, or any person having access to or knowledge of any return made to the Board or of any evidence taken by the Board in connection therewith, without the authority of the Board first obtained, publishes or makes known any information, having obtained the same or knowing the same to have been derived from such return or evidence, the officer, employee or person is guilty of an offence and on conviction is liable to a fine of not more than $500 and is also liable to imprisonment for a term of not more than six months.  R.S.O. 1990, c. O.28, s. 102; 1993, c. 27, Sched.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1993, c. 27, Sched. - 31/12/1991</p>"
+        },
+        {
+            "ahref_id": "#BK107",
+            "TOCid": "103.",
+            "section_x": "Power of Ontario Energy Board",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII MISCELLANEOUS",
+            "section_y": "Power of Ontario Energy Board",
+            "content": "103 Nothing in this Act confers upon the Board any jurisdiction with respect to matters that are within the jurisdiction of the Ontario Energy Board.  1998, c. 15, Sched. E, s. 26 (2). Section Amendments with date in force (d/m/y) 1998, c. 15, Sched. E, s. 26 (2) - 01/04/1999 ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK107\"></a><b>103 </b>Nothing in this Act confers upon the Board any jurisdiction with respect to matters that are within the jurisdiction of the Ontario Energy Board.  1998, c. 15, Sched. E, s. 26 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 15, Sched. E, s. 26 (2) - 01/04/1999</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/90o28\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

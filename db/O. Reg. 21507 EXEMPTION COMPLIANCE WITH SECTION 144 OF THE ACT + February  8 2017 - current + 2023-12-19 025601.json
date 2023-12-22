@@ -1,0 +1,72 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 215/07: EXEMPTION: COMPLIANCE WITH SECTION 144 OF THE ACT",
+        "reg_name_text": "Exemption: Compliance with section 144 of the Act",
+        "citation": "O. Reg. 215/07: EXEMPTION: COMPLIANCE WITH SECTION 144 OF THE ACT",
+        "act_under": "Electricity Act, 1998",
+        "url": "https://www.ontario.ca/laws/regulation/070215",
+        "date_scraped": "2023-12-19 02:56:02"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "February  8, 2017",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/070215/v3",
+            "valid_from": "July  1, 2012",
+            "valid_to": "February  7, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/070215/v2",
+            "valid_from": "May 17, 2012",
+            "valid_to": "June 30, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/070215/v1",
+            "valid_from": "May 25, 2007",
+            "valid_to": "May 16, 2012"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definitions",
+            "content": " 1. In this Regulation, “municipal standby generation facility” means a generation facility that is owned or operated by a municipal corporation, or an agent of a municipal corporation, for the purposes of providing standby power to a municipal property or facility which normally receives electricity service from a distributor; (“installation de production municipale d’électricité d’appoint”) “municipal waste” has the same meaning as in Regulation 347 of the Revised Regulations of Ontario, 1990 (General — Waste Management) made under the Environmental Protection Act. (“déchets ménagers”)  O. Reg. 215/07, s. 1; O. Reg. 91/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Regulation,</p> <p class=\"firstdef-e\">“municipal standby generation facility” means a generation facility that is owned or operated by a municipal corporation, or an agent of a municipal corporation, for the purposes of providing standby power to a municipal property or facility which normally receives electricity service from a distributor; (“installation de production municipale d’électricité d’appoint”)</p> <p class=\"definition-e\">“municipal waste” has the same meaning as in Regulation 347 of the Revised Regulations of Ontario, 1990 (General — Waste Management) made under the <i>Environmental Protection Act</i>. (“déchets ménagers”)  O. Reg. 215/07, s. 1; O. Reg. 91/12, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Exemption, section 144",
+            "content": " 2. (1) Despite section 144 of the Act, a municipal corporation may generate electricity using a municipal standby generation facility if the criteria set out in this section are satisfied.  O. Reg. 215/07, s. 2 (1). (2) A municipal corporation may generate electricity using a municipal standby generation facility if the generation facility complies with all requirements under the Environmental Assessment Act and the Environmental Protection Act that apply to the generation facility or to the class of generation facilities to which the generation facility belongs and one of the following conditions is satisfied: 1. The IESO-controlled grid has entered or it is anticipated that it is about to enter an emergency operating state in accordance with section 2.3 of Chapter 5 of the Market Rules. 2. The voltage at the service connection point at the generation facility is less than 88 per cent or more than 106 per cent of the nominal supply voltage. 3. The frequency at the service connection point at the generation facility is less than 90 per cent or more than 110 per cent of the nominal supply frequency. 4. The generation facility is being operated for maintenance or testing purposes for periods totalling 60 hours or less in any calendar year.  O. Reg. 215/07, s. 2 (2). (3) If a municipality’s municipal standby generation facility is being operated under a condition listed in paragraph 1, 2 or 3 of subsection (2), the municipal corporation shall cease generating electricity using the generation facility as soon as reasonably practical after the condition ceases to exist.  O. Reg. 215/07, s. 2 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) Despite section 144 of the Act, a municipal corporation may generate electricity using a municipal standby generation facility if the criteria set out in this section are satisfied.  O. Reg. 215/07, s. 2 (1).</p> <p class=\"subsection-e\">  (2) A municipal corporation may generate electricity using a municipal standby generation facility if the generation facility complies with all requirements under the <i>Environmental Assessment Act</i><i> </i>and the <i>Environmental Protection Act</i> that apply to the generation facility or to the class of generation facilities to which the generation facility belongs and one of the following conditions is satisfied: </p> <p class=\"paragraph-e\">  1. The IESO-controlled grid has entered or it is anticipated that it is about to enter an emergency operating state in accordance with section 2.3 of Chapter 5 of the Market Rules.</p> <p class=\"paragraph-e\">  2. The voltage at the service connection point at the generation facility is less than 88 per cent or more than 106 per cent of the nominal supply voltage.</p> <p class=\"paragraph-e\">  3. The frequency at the service connection point at the generation facility is less than 90 per cent or more than 110 per cent of the nominal supply frequency. </p> <p class=\"paragraph-e\">  4. The generation facility is being operated for maintenance or testing purposes for periods totalling 60 hours or less in any calendar year.  O. Reg. 215/07, s. 2 (2).</p> <p class=\"subsection-e\">  (3) If a municipality’s municipal standby generation facility is being operated under a condition listed in paragraph 1, 2 or 3 of subsection (2), the municipal corporation shall cease generating electricity using the generation facility as soon as reasonably practical after the condition ceases to exist.  O. Reg. 215/07, s. 2 (3).</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Exemption, section 144",
+            "content": " 3. Revoked:  O. Reg. 91/12, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b><span>Revoked</span>:  O. Reg. 91/12, s. 2.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Exception",
+            "content": " 4. For the purposes of section 2, a municipality may generate electricity using a municipal standby generation facility other than through a corporation incorporated under the Business Corporations Act.  O. Reg. 215/07, s. 4; O. Reg. 91/12, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>For the purposes of section 2, a municipality may generate electricity using a municipal standby generation facility other than through a corporation incorporated under the <i>Business Corporations Act</i>.  O. Reg. 215/07, s. 4; O. Reg. 91/12, s. 3.</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Exemption re specified generation facility",
+            "content": " 5. (1) Despite section 144 of the Act, the municipalities listed in subsection (2) may generate electricity using a generation facility located in the Municipality of Clarington that generates electricity from the thermal treatment of municipal waste, if the generation facility is wholly-owned by one or more Ontario municipalities.  O. Reg. 91/12, s. 4. (2) The following are the municipalities that are authorized to generate electricity using the generation facility described in subsection (1): 1. The Regional Municipality of Durham. 2. The Regional Municipality of York.  O. Reg. 91/12, s. 4.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) Despite section 144 of the Act, the municipalities listed in subsection (2) may generate electricity using a generation facility located in the Municipality of Clarington that generates electricity from the thermal treatment of municipal waste, if the generation facility is wholly-owned by one or more Ontario municipalities.  O. Reg. 91/12, s. 4.</p> <p class=\"subsection-e\">  (2) The following are the municipalities that are authorized to generate electricity using the generation facility described in subsection (1):</p> <p class=\"paragraph-e\">  1. The Regional Municipality of Durham.</p> <p class=\"paragraph-e\">  2. The Regional Municipality of York.  O. Reg. 91/12, s. 4.</p> <p class=\"paragraph-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/070215\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

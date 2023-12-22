@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 579: DESIGNATION OF HIGHWAYS",
+        "reg_name_text": "DESIGNATION OF HIGHWAYS",
+        "citation": "R.R.O. 1990, Reg. 579: ",
+        "act_under": "Highway Traffic Act",
+        "url": "https://www.ontario.ca/laws/regulation/900579",
+        "date_scraped": "2023-12-19 07:26:21"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "October  1, 2009",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900579/v1",
+            "valid_from": "December 31, 1990",
+            "valid_to": "September 30, 2009"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": " 1. The following highways are designated as Class A highways: 1. The King’s Highway. 2. Every highway within a city, town or incorporated village, except those on which heavy traffic is prohibited by municipal by-law. 3. Every hard-surfaced county and township highway, except those designated by by-law of a county or township.  R.R.O. 1990, Reg. 579, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The following highways are designated as Class A highways:</p> <p class=\"paragraph-e\">  1. The King’s Highway.</p> <p class=\"paragraph-e\">  2. Every highway within a city, town or incorporated village, except those on which heavy traffic is prohibited by municipal by-law.</p> <p class=\"paragraph-e\">  3. Every hard-surfaced county and township highway, except those designated by by-law of a county or township.  R.R.O. 1990, Reg. 579, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": " 2. The King’s Highway is designated as a through highway.  R.R.O. 1990, Reg. 579, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>The King’s Highway is designated as a through highway.  R.R.O. 1990, Reg. 579, s. 2.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/900579\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,418 @@
+{
+    "act_info": {
+        "full_title": "Financial Services Commission of Ontario Act, 1997, S.O. 1997, c. 28",
+        "act_name_text": "Financial Services Commission of Ontario Act, 1997",
+        "citation": "S.O. 1997, c. 28",
+        "url": "https://www.ontario.ca/laws/statute/97f28",
+        "date_scraped": "2023-12-18 19:30:41"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/statute/97f28/v29",
+            "valid_from": "July  1, 2019",
+            "valid_to": "December  7, 2020"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v28",
+            "valid_from": "June  8, 2019",
+            "valid_to": "June 30, 2019"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v27",
+            "valid_from": "May 29, 2019",
+            "valid_to": "June  7, 2019"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v26",
+            "valid_from": "April  1, 2019",
+            "valid_to": "May 28, 2019"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v25",
+            "valid_from": "January  1, 2018",
+            "valid_to": "March 31, 2019"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v24",
+            "valid_from": "December 14, 2017",
+            "valid_to": "December 31, 2017"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v23",
+            "valid_from": "July  1, 2017",
+            "valid_to": "December 13, 2017"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v22",
+            "valid_from": "May 17, 2017",
+            "valid_to": "June 30, 2017"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v21",
+            "valid_from": "November  8, 2016",
+            "valid_to": "May 16, 2017"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v20",
+            "valid_from": "April  1, 2016",
+            "valid_to": "November  7, 2016"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v19",
+            "valid_from": "June  4, 2015",
+            "valid_to": "March 31, 2016"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v18",
+            "valid_from": "May 28, 2015",
+            "valid_to": "June  3, 2015"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v17",
+            "valid_from": "November 20, 2014",
+            "valid_to": "May 27, 2015"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v16",
+            "valid_from": "June  1, 2014",
+            "valid_to": "November 19, 2014"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v15",
+            "valid_from": "June 13, 2013",
+            "valid_to": "May 31, 2014"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v14",
+            "valid_from": "January  1, 2013",
+            "valid_to": "June 12, 2013"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v13",
+            "valid_from": "June 20, 2012",
+            "valid_to": "December 31, 2012"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v12",
+            "valid_from": "December 31, 2011",
+            "valid_to": "June 19, 2012"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v11",
+            "valid_from": "December  8, 2010",
+            "valid_to": "December 30, 2011"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v10",
+            "valid_from": "October  1, 2010",
+            "valid_to": "December  7, 2010"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v9",
+            "valid_from": "May 18, 2010",
+            "valid_to": "September 30, 2010"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v8",
+            "valid_from": "December 15, 2009",
+            "valid_to": "May 17, 2010"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v7",
+            "valid_from": "July  1, 2008",
+            "valid_to": "December 14, 2009"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v6",
+            "valid_from": "August 20, 2007",
+            "valid_to": "June 30, 2008"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v5",
+            "valid_from": "December 20, 2006",
+            "valid_to": "August 19, 2007"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v4",
+            "valid_from": "June 22, 2006",
+            "valid_to": "December 19, 2006"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v3",
+            "valid_from": "December 16, 2004",
+            "valid_to": "June 21, 2006"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v2",
+            "valid_from": "November 30, 2004",
+            "valid_to": "December 15, 2004"
+        },
+        {
+            "a_href": "/laws/statute/97f28/v1",
+            "valid_from": "December 22, 1999",
+            "valid_to": "November 29, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": null,
+    "content": [
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "Definitions",
+            "section_x": "Definitions",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Definitions",
+            "content": "1 In this Act, “Commission” means the Financial Services Commission of Ontario established under section 2; (“Commission”) “Minister” means the Minister of Finance, and “Ministry” has a corresponding meaning; (“ministre”, “ministère”) “regulated sector” means a sector that consists of, (a)  all co-operative corporations to which the Co-operative Corporations Act applies, (b)  all credit unions, caisses populaires and leagues to which the Credit Unions and Caisses Populaires Act, 1994 applies, (c)  all persons engaged in the business of insurance and governed by the Insurance Act, (c.1)  all holders of a service provider’s licence issued under Part VI (Automobile Insurance) of the Insurance Act, (d)  all corporations registered or incorporated under the Loan and Trust Corporations Act, (e)  all mortgage brokerages, mortgage brokers, mortgage agents and mortgage administrators licensed under the Mortgage Brokerages, Lenders and Administrators Act, 2006, (f)  all persons who establish or administer a pension plan within the meaning of the Pension Benefits Act and all employers or other persons on their behalf who are required to contribute to any such pension plan, or (g)  all persons licensed to establish and administer pooled registered pension plans under the Pooled Registered Pension Plans Act, 2015 and all employers who enter into contracts with those persons; (“secteur réglementé”) “Superintendent” means the Superintendent of Financial Services appointed under section 5; (“surintendant”) “Tribunal” means the Financial Services Tribunal continued under the Financial Services Tribunal Act, 2017. (“Tribunal”) 1997, c. 28, s. 1; 2006, c. 29, s. 62 (1); 2013, c. 2, Sched. 6, s. 1; 2014, c. 9, Sched. 5, s. 1; 2015, c. 9, s. 29 (1); 2017, c. 34, Sched. 17, s. 20 (1). Section Amendments with date in force (d/m/y) 2006, c. 29, s. 62 (1) - 01/07/2008 2013, c. 2, Sched. 6, s. 1 - 01/06/2014 2014, c. 9, Sched. 5, s. 1 - 01/04/2016 2015, c. 9, s. 29 (1)\r\n- 08/11/2016 2017, c. 34, Sched. 17, s. 20 (1) - 01/04/2019 Commission",
+            "raw_html": "<p class=\"section\"><a name=\"BK2\"></a><b>1 </b>In this Act,</p> <p class=\"definition\">“Commission” means the Financial Services Commission of Ontario established under section 2; (“Commission”)</p> <p class=\"definition\">“Minister” means the Minister of Finance, and “Ministry” has a corresponding meaning; (“ministre”, “ministère”)</p> <p class=\"definition\">“regulated sector” means a sector that consists of, </p> <p class=\"paragraph\">  (a)  all co-operative corporations to which the <i>Co-operative Corporations Act</i> applies,</p> <p class=\"paragraph\">  (b)  all credit unions, caisses populaires and leagues to which the <i>Credit Unions and Caisses Populaires Act, 1994</i> applies,</p> <p class=\"paragraph\">  (c)  all persons engaged in the business of insurance and governed by the <i>Insurance Act</i>,</p> <p class=\"paragraph\"> (c.1)  all holders of a service provider’s licence issued under Part VI (Automobile Insurance) of the <i>Insurance Act</i>,</p> <p class=\"paragraph\">  (d)  all corporations registered or incorporated under the <i>Loan and Trust Corporations Act</i>,</p> <p class=\"paragraph\">  (e)  all mortgage brokerages, mortgage brokers, mortgage agents and mortgage administrators licensed under the <i>Mortgage Brokerages, Lenders and Administrators Act, 2006</i>,</p> <p class=\"paragraph\">  (f)  all persons who establish or administer a pension plan within the meaning of the <i>Pension Benefits Act</i> and all employers or other persons on their behalf who are required to contribute to any such pension plan, or</p> <p class=\"paragraph\">  (g)  all persons licensed to establish and administer pooled registered pension plans under the <i>Pooled Registered Pension Plans Act, 2015</i> and all employers who enter into contracts with those persons; (“secteur réglementé”)</p> <p class=\"definition\">“Superintendent” means the Superintendent of Financial Services appointed under section 5; (“surintendant”)</p> <p class=\"definition\">“Tribunal” means the Financial Services Tribunal continued under the <i>Financial Services Tribunal Act, 2017</i>. (“Tribunal”) 1997, c. 28, s. 1; 2006, c. 29, s. 62 (1); 2013, c. 2, Sched. 6, s. 1; 2014, c. 9, Sched. 5, s. 1; 2015, c. 9, s. 29 (1); 2017, c. 34, Sched. 17, s. 20 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06029#s62s1\">2006, c. 29, s. 62 (1)</a></span> - 01/07/2008</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S13002#sched6s1\">2013, c. 2, Sched. 6, s. 1</a></span> - 01/06/2014</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S14009#sched5s1\">2014, c. 9, Sched. 5, s. 1</a></span> - 01/04/2016</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15009#s29s1\">2015, c. 9, s. 29 (1)</a></span>\r\n- 08/11/2016</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s1\">2017, c. 34, Sched. 17, s. 20 (1)</a></span> - 01/04/2019</p> <p class=\"heading1\"><a name=\"BK3\"></a>Commission</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Commission",
+            "section_x": "Commission",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "2.",
+            "section_x": "Commission established",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Commission established",
+            "content": "2 (1) There is hereby established a commission to be known in English as the Financial Services Commission of Ontario and in French as Commission des services financiers de l’Ontario.  1997, c. 28, s. 2 (1). Members (2) The Commission shall consist of the chair and the two vice-chairs of the Commission and the Superintendent.  1997, c. 28, s. 2 (2); 2014, c. 9, Sched. 5, s. 2. Quorum (3) A majority of the members of the Commission constitutes a quorum.  1997, c. 28, s. 2 (3). Section Amendments with date in force (d/m/y) 2014, c. 9, Sched. 5, s. 2 - 01/04/2016",
+            "raw_html": "<p class=\"section\"><a name=\"BK4\"></a><b>2 </b>(1) There is hereby established a commission to be known in English as the Financial Services Commission of Ontario and in French as Commission des services financiers de l’Ontario.  1997, c. 28, s. 2 (1).</p> <p class=\"headnote\">Members</p> <p class=\"subsection\">(2) The Commission shall consist of the chair and the two vice-chairs of the Commission and the Superintendent.  1997, c. 28, s. 2 (2); 2014, c. 9, Sched. 5, s. 2.</p> <p class=\"headnote\">Quorum</p> <p class=\"subsection\">(3) A majority of the members of the Commission constitutes a quorum.  1997, c. 28, s. 2 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S14009#sched5s2\">2014, c. 9, Sched. 5, s. 2</a></span> - 01/04/2016</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "3.",
+            "section_x": "Purposes",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Purposes",
+            "content": "3 The purposes of the Commission are, (a)  to provide regulatory services that protect the public interest and enhance public confidence in the regulated sectors; (b)  to make recommendations to the Minister on matters affecting the regulated sectors; and (c)  to provide the resources necessary for the proper functioning of the Tribunal.  1997, c. 28, s. 3.",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>3 </b>The purposes of the Commission are,</p> <p class=\"paragraph\">  (a)  to provide regulatory services that protect the public interest and enhance public confidence in the regulated sectors;</p> <p class=\"paragraph\">  (b)  to make recommendations to the Minister on matters affecting the regulated sectors; and</p> <p class=\"paragraph\">  (c)  to provide the resources necessary for the proper functioning of the Tribunal.  1997, c. 28, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "4.",
+            "section_x": "Chair and vice-chairs",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Chair and vice-chairs",
+            "content": "4 (1) The Lieutenant Governor in Council shall appoint the chair and the two vice-chairs of the Commission.  2006, c. 34, s. 33 (1). Acting chair (2) If the chair of the Commission is absent or unable to act, or if the office of chair is vacant, the vice-chairs shall designate one of them to act in the place of the chair who shall have the powers of the chair.  1997, c. 28, s. 4 (2). Acting vice-chair (3) If a vice-chair of the Commission is absent or unable to act, or if the office of a vice-chair is vacant, the chair of the Commission may designate a member of the Commission to act in the place of the vice-chair who shall have the powers of a vice-chair.  1997, c. 28, s. 4 (3); 2017, c. 34, Sched. 17, s. 20 (2). Transition (4) The chair and the vice-chair of the Pension Commission of Ontario holding office immediately before this section comes into force shall be the chair and one of the vice-chairs respectively of the Financial Services Commission of Ontario until the Lieutenant Governor in Council appoints their successors under subsection (1).  1997, c. 28, s. 4 (4). Section Amendments with date in force (d/m/y) 2006, c. 34, s. 33 (1) - 20/12/2006 2017, c. 34, Sched. 17, s. 20 (2) - 01/04/2019 Superintendent",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>4 </b>(1) The Lieutenant Governor in Council shall appoint the chair and the two vice-chairs of the Commission.  2006, c. 34, s. 33 (1).</p> <p class=\"headnote\">Acting chair </p> <p class=\"subsection\">(2) If the chair of the Commission is absent or unable to act, or if the office of chair is vacant, the vice-chairs shall designate one of them to act in the place of the chair who shall have the powers of the chair.  1997, c. 28, s. 4 (2).</p> <p class=\"headnote\">Acting vice-chair</p> <p class=\"subsection\">(3) If a vice-chair of the Commission is absent or unable to act, or if the office of a vice-chair is vacant, the chair of the Commission may designate a member of the Commission to act in the place of the vice-chair who shall have the powers of a vice-chair.  1997, c. 28, s. 4 (3); 2017, c. 34, Sched. 17, s. 20 (2).</p> <p class=\"headnote\">Transition</p> <p class=\"subsection\">(4) The chair and the vice-chair of the Pension Commission of Ontario holding office immediately before this section comes into force shall be the chair and one of the vice-chairs respectively of the Financial Services Commission of Ontario until the Lieutenant Governor in Council appoints their successors under subsection (1).  1997, c. 28, s. 4 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06034#s33s1\">2006, c. 34, s. 33 (1)</a></span> - 20/12/2006</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s2\">2017, c. 34, Sched. 17, s. 20 (2)</a></span> - 01/04/2019</p> <p class=\"heading1\"><a name=\"BK7\"></a>Superintendent</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "Superintendent",
+            "section_x": "Superintendent",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "5.",
+            "section_x": "Superintendent",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Superintendent",
+            "content": "5 (1) There shall be a Superintendent of Financial Services appointed under Part III of the Public Service of Ontario Act, 2006 who shall be the chief executive officer of the Commission.  1997, c. 28, s. 5 (1); 2006, c. 35, Sched. C, s. 43 (1). Powers and duties (2) The Superintendent shall, (a)  be responsible for the financial and administrative affairs of the Commission; (b)  exercise the powers and duties conferred on or assigned to the Superintendent; (c)  administer and enforce this Act and every other Act that confers powers on or assigns duties to the Superintendent; and (d)  supervise generally the regulated sectors.  1997, c. 28, s. 5 (2). Same (2.1) If an agreement under section 100 of the Pension Benefits Act provides for the delegation to the Superintendent of any powers or duties of a person who has supervisory or regulatory powers under the pension benefits legislation of another jurisdiction, the Superintendent is authorized to exercise those powers and perform those duties.  2010, c. 1, Sched. 8, s. 1. Same (2.2) If an agreement under section 5 (Bilateral agreement) or 6 (Multilateral agreement) of the Pooled Registered Pension Plans Act (Canada), as those sections apply for the purposes of the Pooled Registered Pension Plans Act, 2015, provides for the delegation to the Superintendent of any powers or duties of a person who has supervisory or regulatory powers under the pooled registered pension plan legislation of another jurisdiction, the Superintendent is authorized to exercise those powers and perform those duties. 2015, c. 9, s. 29 (2). Delegation of powers and duties (3) The Superintendent may, subject to the conditions that the Superintendent considers appropriate, delegate in writing to any person employed in the Commission the exercise of any power or the performance of any duty conferred on or assigned to the Superintendent under, (a)  this Act; (b)  any other Act; (c)  an agreement under section 100 of the Pension Benefits Act; or (d)  an agreement under section 5 (Bilateral agreement) or 6 (Multilateral agreement) of the Pooled Registered Pension Plans Act (Canada), as those sections apply for the purposes of the Pooled Registered Pension Plans Act, 2015. 2015, c. 9, s. 29 (3); 2019, c. 7, Sched. 26, s. 1 (1). Delegation to Ministry employee (3.0.1) The Minister may, subject to the conditions that the Minister considers appropriate, delegate in writing to any person employed in the Ministry the exercise of any power or the performance of any duty conferred on or assigned to the Superintendent or the Commission under this Act or any other Act. 2019, c. 7, Sched. 26, s. 1 (2). Same (3.0.2) If a delegation of a power or duty is given under subsection (3.0.1), any delegation of the same power or duty under subsection (3) ceases to have effect. 2019, c. 7, Sched. 26, s. 1 (2). Effect of delegation (3.1) An act done or decision made under a delegation given under this section is as valid and effective as if it had been done or made by the Superintendent or by the Commission, as the case may be. 2015, c. 9, s. 29 (3); 2019, c. 7, Sched. 26, s. 1 (3). Same, hearings (4) The Superintendent may appoint in writing any employee of the Commission, or any other person, to hold a hearing on behalf of the Superintendent and to exercise the powers and perform the duties of the Superintendent relating to the hearing.  1997, c. 28, s. 5 (4). Oaths (5) The Superintendent may administer an oath required under this Act and any other Act that confers powers on or assigns duties to the Superintendent.  1997, c. 28, s. 5 (5). Section Amendments with date in force (d/m/y) 2006, c. 35, Sched. C, s. 43 (1) - 20/08/2007 2010, c. 1, Sched. 8, s. 1 - 01/10/2010; 2010, c. 26, Sched. 8, s. 1 - 08/12/2010 2015, c. 9, s. 29 (2, 3)\r\n- 08/11/2016 2019, c. 7, Sched. 26, s. 1 (1); - 29/05/2019; 2019, c. 7, Sched. 26, s. 1 (2, 3) - 08/06/2019 6 Repealed: 2017, c. 34, Sched. 17, s. 20 (3). Section Amendments with date in force (d/m/y) 2006, c. 34, s. 33 (2) - 20/12/2006 2017, c. 34, Sched. 17, s. 20 (3) - 01/04/2019 7 Repealed: 2017, c. 34, Sched. 17, s. 20 (3). Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 17, s. 20 (3) - 01/04/2019 General",
+            "raw_html": "<p class=\"section\"><a name=\"BK8\"></a><b>5 </b>(1) There shall be a Superintendent of Financial Services appointed under Part III of the <i>Public Service of Ontario Act, 2006 </i>who shall be the chief executive officer of the Commission<i>.</i>  1997, c. 28, s. 5 (1); 2006, c. 35, Sched. C, s. 43 (1).</p> <p class=\"headnote\">Powers and duties</p> <p class=\"subsection\">(2) The Superintendent shall,</p> <p class=\"paragraph\">  (a)  be responsible for the financial and administrative affairs of the Commission;</p> <p class=\"paragraph\">  (b)  exercise the powers and duties conferred on or assigned to the Superintendent;</p> <p class=\"paragraph\">  (c)  administer and enforce this Act and every other Act that confers powers on or assigns duties to the Superintendent; and</p> <p class=\"paragraph\">  (d)  supervise generally the regulated sectors.  1997, c. 28, s. 5 (2).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2.1) If an agreement under section 100 of the <i>Pension Benefits Act</i> provides for the delegation to the Superintendent of any powers or duties of a person who has supervisory or regulatory powers under the pension benefits legislation of another jurisdiction, the Superintendent is authorized to exercise those powers and perform those duties.  2010, c. 1, Sched. 8, s. 1.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2.2) If an agreement under section 5 (Bilateral agreement) or 6 (Multilateral agreement) of the <i>Pooled Registered Pension Plans Act </i>(Canada), as those sections apply for the purposes of the <i>Pooled Registered Pension Plans Act, 2015</i>, provides for the delegation to the Superintendent of any powers or duties of a person who has supervisory or regulatory powers under the pooled registered pension plan legislation of another jurisdiction, the Superintendent is authorized to exercise those powers and perform those duties. 2015, c. 9, s. 29 (2).</p> <p class=\"headnote\">Delegation of powers and duties</p> <p class=\"subsection\">(3) The Superintendent may, subject to the conditions that the Superintendent considers appropriate, delegate in writing to any person employed in the Commission the exercise of any power or the performance of any duty conferred on or assigned to the Superintendent under,</p> <p class=\"paragraph\">  (a)  this Act;</p> <p class=\"paragraph\">  (b)  any other Act;</p> <p class=\"paragraph\">  (c)  an agreement under section 100 of the <i>Pension Benefits Act</i>; or</p> <p class=\"paragraph\">  (d)  an agreement under section 5 (Bilateral agreement) or 6 (Multilateral agreement) of the <i>Pooled Registered Pension Plans Act </i>(Canada), as those sections apply for the purposes of the <i>Pooled Registered Pension Plans Act, 2015</i>. 2015, c. 9, s. 29 (3); 2019, c. 7, Sched. 26, s. 1 (1).</p> <p class=\"headnote\">Delegation to Ministry employee</p> <p class=\"subsection\">(3.0.1) The Minister may, subject to the conditions that the Minister considers appropriate, delegate in writing to any person employed in the Ministry the exercise of any power or the performance of any duty conferred on or assigned to the Superintendent or the Commission under this Act or any other Act. 2019, c. 7, Sched. 26, s. 1 (2).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3.0.2) If a delegation of a power or duty is given under subsection (3.0.1), any delegation of the same power or duty under subsection (3) ceases to have effect. 2019, c. 7, Sched. 26, s. 1 (2).</p> <p class=\"headnote\">Effect of delegation</p> <p class=\"subsection\">(3.1) An act done or decision made under a delegation given under this section is as valid and effective as if it had been done or made by the Superintendent or by the Commission, as the case may be. 2015, c. 9, s. 29 (3); 2019, c. 7, Sched. 26, s. 1 (3).</p> <p class=\"headnote\">Same, hearings</p> <p class=\"subsection\">(4) The Superintendent may appoint in writing any employee of the Commission, or any other person, to hold a hearing on behalf of the Superintendent and to exercise the powers and perform the duties of the Superintendent relating to the hearing.  1997, c. 28, s. 5 (4).</p> <p class=\"headnote\">Oaths</p> <p class=\"subsection\">(5) The Superintendent may administer an oath required under this Act and any other Act that confers powers on or assigns duties to the Superintendent.  1997, c. 28, s. 5 (5).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06035#schedcs43s1\">2006, c. 35, Sched. C, s. 43 (1)</a></span> - 20/08/2007</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S10001#sched8s1\">2010, c. 1, Sched. 8, s. 1</a></span> - 01/10/2010; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S10026#sched8s1\">2010, c. 26, Sched. 8, s. 1</a></span> - 08/12/2010</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15009#s29s2\">2015, c. 9, s. 29 (2, 3)</a></span>\r\n- 08/11/2016</p> <p class=\"footnoteLeft\"><a href=\"http://www.ontario.ca/laws/statute/S19007#sched26s1s1\">2019, c. 7, Sched. 26, s. 1 (1)</a>; - 29/05/2019; <a href=\"http://www.ontario.ca/laws/statute/S19007#sched26s1s2\">2019, c. 7, Sched. 26, s. 1 (2, 3)</a> - 08/06/2019</p> <p class=\"section\"><b>6 </b><span class=\"ovsmallcap\">Repealed</span>: 2017, c. 34, Sched. 17, s. 20 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06034#s33s2\">2006, c. 34, s. 33 (2)</a></span> - 20/12/2006</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s3\">2017, c. 34, Sched. 17, s. 20 (3)</a></span> - 01/04/2019</p> <p class=\"section\"><b>7 </b><span class=\"ovsmallcap\">Repealed</span>: 2017, c. 34, Sched. 17, s. 20 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s3\">2017, c. 34, Sched. 17, s. 20 (3)</a></span> - 01/04/2019</p> <p class=\"heading1\"><a name=\"BK9\"></a>General</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "General",
+            "section_x": "General",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "8.",
+            "section_x": "Employees",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Employees",
+            "content": "8 (1) Such employees as are considered necessary for the proper conduct of the affairs of the Commission may be appointed under Part III of the Public Service of Ontario Act, 2006.  2006, c. 35, Sched. C, s. 43 (2). Professional assistance (2) The Superintendent may, (a)  engage persons, other than those mentioned in subsection (1), to provide professional, technical or other assistance to the Commission; and (b)  establish the terms of engagement and provide for the payment of the remuneration and expenses of the persons engaged under clause (a).  1997, c. 28, s. 8 (2); 2017, c. 34, Sched. 17, s. 20 (4). Section Amendments with date in force (d/m/y) 2006, c. 35, Sched. C, s. 43 (2) - 20/08/2007 2017, c. 34, Sched. 17, s. 20 (4) - 01/04/2019",
+            "raw_html": "<p class=\"section\"><a name=\"BK10\"></a><b>8 </b>(1) Such employees as are considered necessary for the proper conduct of the affairs of the Commission may be appointed under Part III of the <i>Public Service of Ontario Act, 2006</i>.  2006, c. 35, Sched. C, s. 43 (2).</p> <p class=\"headnote\">Professional assistance</p> <p class=\"subsection\">(2) The Superintendent may,</p> <p class=\"paragraph\">  (a)  engage persons, other than those mentioned in subsection (1), to provide professional, technical or other assistance to the Commission; and</p> <p class=\"paragraph\">  (b)  establish the terms of engagement and provide for the payment of the remuneration and expenses of the persons engaged under clause (a).  1997, c. 28, s. 8 (2); 2017, c. 34, Sched. 17, s. 20 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06035#schedcs43s2\">2006, c. 35, Sched. C, s. 43 (2)</a></span> - 20/08/2007</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s4\">2017, c. 34, Sched. 17, s. 20 (4)</a></span> - 01/04/2019</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "9.",
+            "section_x": "Conflict of interest",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Conflict of interest",
+            "content": "9 (1) The Commission shall establish conflict of interest guidelines with which the members of the Commission and the employees of the Commission shall comply.  1997, c. 28, s. 9 (1); 2017, c. 34, Sched. 17, s. 20 (5). Copy to Minister (2) The Commission shall deliver a copy of the guidelines to the Minister.  1997, c. 28, s. 9 (2). Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 17, s. 20 (5) - 01/04/2019",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>9 </b>(1) The Commission shall establish conflict of interest guidelines with which the members of the Commission and the employees of the Commission shall comply.  1997, c. 28, s. 9 (1); 2017, c. 34, Sched. 17, s. 20 (5).</p> <p class=\"headnote\">Copy to Minister</p> <p class=\"subsection\">(2) The Commission shall deliver a copy of the guidelines to the Minister.  1997, c. 28, s. 9 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s5\">2017, c. 34, Sched. 17, s. 20 (5)</a></span> - 01/04/2019</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "10.",
+            "section_x": "Immunity",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Immunity",
+            "content": "10 (1) No action or other proceeding for damages shall be instituted against the Superintendent, any member of the Commission, any employee of the Commission or any person engaged by the Superintendent for any act done in good faith in the execution or intended execution of the person’s powers or duties or for any neglect or default in the execution, in good faith, of the person’s powers or duties.  1997, c. 28, s. 10 (1); 2014, c. 9, Sched. 5, s. 3 (1); 2017, c. 34, Sched. 17, s. 20 (6). Crown liability (1.1) Despite subsection 8 (3) of the Crown Liability and Proceedings Act, 2019, subsection (1) does not relieve the Crown of any liability to which it would otherwise be subject.  2009, c. 33, Sched. 16, s. 5; 2019, c. 7, Sched. 17, s. 75. Testimony in civil proceedings (2) The Superintendent shall not be required to testify in a civil proceeding, in a proceeding before the Superintendent or the Tribunal or in a proceeding before any other tribunal respecting information obtained in the discharge of the Superintendent’s duties under this Act or any other Act. 2017, c. 34, Sched. 17, s. 20 (7). Same, employees (3) Except with the consent of the Superintendent, no employee of the Commission or any person engaged by the Superintendent shall be required to testify in a civil proceeding, in a proceeding before the Superintendent or the Tribunal or in a proceeding before any other tribunal respecting information obtained in the discharge of the person’s duties under this Act or any other Act.  1997, c. 28, s. 10 (3); 2017, c. 34, Sched. 17, s. 20 (8). Transition re: director of arbitrations (4) Subsections (1), (1.1) and (2) apply, with necessary modifications, with respect to every person who held office as the director of arbitrations as that office existed immediately before the repeal of section 6 of the Insurance Act by section 2 of Schedule 3 to  the Fighting Fraud and Reducing Automobile Insurance Rates Act, 2014 or as that office may be continued after that repeal by regulations under section 283 of the Insurance Act. 2014, c. 9, Sched. 5, s. 3 (3). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 16, s. 5 - 15/12/2009 2014, c. 9, Sched. 5, s. 3 (1-3) - 01/04/2016 2017, c. 34, Sched. 17, s. 20 (6-8) - 01/04/2019 2019, c. 7, Sched. 17, s. 75 - 01/07/2019 11 Repealed: 2019, c. 7, Sched. 26, s. 2. Section Amendments with date in force (d/m/y) 2004, c. 31, Sched. 14, s. 1 - 16/12/2004 2019, c. 7, Sched. 26, s. 2 - 08/06/2019",
+            "raw_html": "<p class=\"section\"><a name=\"BK12\"></a><b>10 </b>(1) No action or other proceeding for damages shall be instituted against the Superintendent, any member of the Commission, any employee of the Commission or any person engaged by the Superintendent for any act done in good faith in the execution or intended execution of the person’s powers or duties or for any neglect or default in the execution, in good faith, of the person’s powers or duties.  1997, c. 28, s. 10 (1); 2014, c. 9, Sched. 5, s. 3 (1); 2017, c. 34, Sched. 17, s. 20 (6).</p> <p class=\"headnote\">Crown liability</p> <p class=\"subsection\">(1.1) Despite subsection 8 (3) of the <i>Crown Liability and Proceedings Act, 2019</i>, subsection (1) does not relieve the Crown of any liability to which it would otherwise be subject.  2009, c. 33, Sched. 16, s. 5; 2019, c. 7, Sched. 17, s. 75.</p> <p class=\"headnote\">Testimony in civil proceedings</p> <p class=\"subsection\">(2) The Superintendent shall not be required to testify in a civil proceeding, in a proceeding before the Superintendent or the Tribunal or in a proceeding before any other tribunal respecting information obtained in the discharge of the Superintendent’s duties under this Act or any other Act. 2017, c. 34, Sched. 17, s. 20 (7).</p> <p class=\"headnote\">Same, employees</p> <p class=\"subsection\">(3) Except with the consent of the Superintendent, no employee of the Commission or any person engaged by the Superintendent shall be required to testify in a civil proceeding, in a proceeding before the Superintendent or the Tribunal or in a proceeding before any other tribunal respecting information obtained in the discharge of the person’s duties under this Act or any other Act.  1997, c. 28, s. 10 (3); 2017, c. 34, Sched. 17, s. 20 (8).</p> <p class=\"headnote\">Transition re: director of arbitrations</p> <p class=\"subsection\">(4) Subsections (1), (1.1) and (2) apply, with necessary modifications, with respect to every person who held office as the director of arbitrations as that office existed immediately before the repeal of section 6 of the <i>Insurance Act </i>by section 2 of Schedule 3 to  the <i>Fighting Fraud and Reducing Automobile Insurance Rates Act, 2014</i> or as that office may be continued after that repeal by regulations under section 283 of the <i>Insurance Act</i>. 2014, c. 9, Sched. 5, s. 3 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched16s5\">2009, c. 33, Sched. 16, s. 5</a></span> - 15/12/2009</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S14009#sched5s3s1\">2014, c. 9, Sched. 5, s. 3 (1-3)</a></span> - 01/04/2016</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s6\">2017, c. 34, Sched. 17, s. 20 (6-8)</a></span> - 01/04/2019</p> <p class=\"footnoteLeft\"><a href=\"http://www.ontario.ca/laws/statute/S19007#sched17s75\">2019, c. 7, Sched. 17, s. 75</a> - 01/07/2019</p> <p class=\"section\"><b>11 </b><span class=\"ovsmallcap\">Repealed</span>: 2019, c. 7, Sched. 26, s. 2.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S04031#sched14s1\">2004, c. 31, Sched. 14, s. 1</a></span> - 16/12/2004</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19007#sched26s2s1\">2019, c. 7, Sched. 26, s. 2</a></span> - 08/06/2019</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "12.",
+            "section_x": "Policy statements",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Policy statements",
+            "content": "12 (1) The Minister may issue policy statements on matters related to this Act or any other Act that confers powers on or assigns duties to the Commission or the Superintendent.  1997, c. 28, s. 12 (1). When effective (2) A policy statement takes effect on the day it is published in The Ontario Gazette.  1997, c. 28, s. 12 (2). Effect of statements (3) The Commission and the Superintendent shall have regard to the policy statements in making decisions.  1997, c. 28, s. 12 (3); 2017, c. 34, Sched. 17, s. 20 (9). Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 17, s. 20 (9) - 01/04/2019 13 Repealed.  See: Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 – December 31, 2011. Section Amendments with date in force (d/m/y) Table of Public Statute Provisions Repealed Under Section 10.1 of the Legislation Act, 2006 - 31/12/2011",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>12 </b>(1) The Minister may issue policy statements on matters related to this Act or any other Act that confers powers on or assigns duties to the Commission or the Superintendent.  1997, c. 28, s. 12 (1).</p> <p class=\"headnote\">When effective</p> <p class=\"subsection\">(2) A policy statement takes effect on the day it is published in <i>The Ontario Gazette</i>.  1997, c. 28, s. 12 (2).</p> <p class=\"headnote\">Effect of statements</p> <p class=\"subsection\">(3) The Commission and the Superintendent shall have regard to the policy statements in making decisions.  1997, c. 28, s. 12 (3); 2017, c. 34, Sched. 17, s. 20 (9).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s9\">2017, c. 34, Sched. 17, s. 20 (9)</a></span> - 01/04/2019</p> <p class=\"section\"><b>13 </b><span class=\"ovsmallcap\">Repealed</span><span>.  </span>See: Table of Public Statute Provisions Repealed Under Section 10.1 of the <i>Legislation Act, 2006</i> – December 31, 2011.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><a href=\"https://www.ontario.ca/laws/public-statute-provisions-repealed-under-section-101-legislation-act-2006\">Table of Public Statute Provisions Repealed Under Section 10.1 of the <i>Legislation Act, 2006</i></a> - 31/12/2011</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "14.",
+            "section_x": "Auditor General",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Auditor General",
+            "content": "14 The Auditor General shall examine annually the accounts and financial transactions of the Commission.  1997, c. 28, s. 14; 2004, c. 17, s. 32. Section Amendments with date in force (d/m/y) 2004, c. 17, s. 32 - 30/11/2004",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>14 </b>The Auditor General shall examine annually the accounts and financial transactions of the Commission.  1997, c. 28, s. 14; 2004, c. 17, s. 32.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S04017#s32\">2004, c. 17, s. 32</a></span> - 30/11/2004</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "15.",
+            "section_x": "Annual report",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Annual report",
+            "content": "15 (1) The Commission shall prepare an annual report, provide it to the Minister and make it available to the public. 2017, c. 34, Sched. 46, s. 16. Same (2) The Commission shall comply with such directives as may be issued by the Management Board of Cabinet with respect to, (a)  the form and content of the annual report; (b)  when to provide it to the Minister; and (c)  when and how to make it available to the public. 2017, c. 34, Sched. 46, s. 16. Same (3) The Commission shall include such additional content in the annual report as the Minister may require. 2017, c. 34, Sched. 46, s. 16. Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 46, s. 16 - 01/01/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK15\"></a><b>15 </b>(1) The Commission shall prepare an annual report, provide it to the Minister and make it available to the public. 2017, c. 34, Sched. 46, s. 16.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The Commission shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,</p> <p class=\"paragraph\">  (a)  the form and content of the annual report;</p> <p class=\"paragraph\">  (b)  when to provide it to the Minister; and</p> <p class=\"paragraph\">  (c)  when and how to make it available to the public. 2017, c. 34, Sched. 46, s. 16.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3) The Commission shall include such additional content in the annual report as the Minister may require. 2017, c. 34, Sched. 46, s. 16.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched46s16\">2017, c. 34, Sched. 46, s. 16</a></span> - 01/01/2018</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "15.0.1",
+            "section_x": "Tabling of annual report",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Tabling of annual report",
+            "content": "15.0.1 The Minister shall table the Commission’s annual report in the Assembly and shall comply with such directives as may be issued by the Management Board of Cabinet with respect to when to table it. 2017, c. 34, Sched. 46, s. 16. Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 46, s. 16 - 01/01/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK16\"></a><b>15.0.1 </b>The Minister shall table the Commission’s annual report in the Assembly and shall comply with such directives as may be issued by the Management Board of Cabinet with respect to when to table it. 2017, c. 34, Sched. 46, s. 16.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched46s16\">2017, c. 34, Sched. 46, s. 16</a></span> - 01/01/2018</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "15.0.2",
+            "section_x": "Other reports",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Other reports",
+            "content": "15.0.2 The Commission shall submit to the Minister all reports, other than the annual report, and all information that the Minister requires. 2017, c. 34, Sched. 46, s. 16. Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 46, s. 16 - 01/01/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>15.0.2 </b>The Commission shall submit to the Minister all reports, other than the annual report, and all information that the Minister requires. 2017, c. 34, Sched. 46, s. 16.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched46s16\">2017, c. 34, Sched. 46, s. 16</a></span> - 01/01/2018</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "15.1",
+            "section_x": "Format of filed documents, etc.",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Format of filed documents, etc.",
+            "content": "15.1 (1) This section applies with respect to documents and information to be delivered to, filed with or issued by the Superintendent under this or any other Act.  1999, c. 12, Sched. I, s. 3 (1). Conflict (2) In the event of a conflict between this section or a rule made under this section and a provision of this or any other Act, any regulation or any other rule, this section or the rule made under this section, as the case may be, prevails.  1999, c. 12, Sched. I, s. 3 (1). Permitted formats (3) Despite any requirement in or under this or any other Act respecting the format in which a document or information must be delivered to, filed with or issued by the Superintendent, the document or information may be delivered, filed or issued in electronic format or another format the Superintendent may approve.  1999, c. 12, Sched. I, s. 3 (1). Required formats (4) Despite any requirement in or under this or any other Act, the Superintendent may require a document or information that is to be delivered to, filed with or issued by him or her to be delivered, filed or issued in electronic format or another format specified by the Superintendent.  1999, c. 12, Sched. I, s. 3 (1). Rules (5) The Superintendent may make rules governing the delivery, filing, inspection, service or copying of documents and information in the formats approved by him or her under subsection (3) or specified by him or her under subsection (4).  1999, c. 12, Sched. I, s. 3 (1). Same (6) A rule may specify the manner in which a document or information that is not written on paper must be signed or certified, and may waive any requirement that a document or information must be signed or certified.  1999, c. 12, Sched. I, s. 3 (1). Conversion (7) The Superintendent may convert a document or information delivered to, filed with or issued by him or her from one format into another format chosen by him or her; the Superintendent is not required to retain the document or information in the format in which it is delivered, filed or issued.  1999, c. 12, Sched. I, s. 3 (1). Records (8) The Superintendent may maintain or store his or her records in any format the Superintendent considers suitable.  1999, c. 12, Sched. I, s. 3 (1). Section Amendments with date in force (d/m/y) 1999, c. 12, Sched. I, s. 3 (1) - 22/12/1999 Certificates and Documents 16 Repealed: 2019, c. 7, Sched. 26, s. 2. Section Amendments with date in force (d/m/y) 1999, c. 12, Sched. I, s. 3 (2) - 22/12/1999 2006, c. 29, s. 62 (2, 3) - 01/07/2008 2012, c. 8, Sched. 15, s. 1 - 01/01/2013 2015, c. 9, s. 29 (4)\r\n- 08/11/2016 2019, c. 7, Sched. 26, s. 2 - 08/06/2019 17 Repealed: 2019, c. 7, Sched. 26, s. 2. Section Amendments with date in force (d/m/y) 1999, c. 12, Sched. I, s. 3 (3) - 22/12/1999 2019, c. 7, Sched. 26, s. 2 - 08/06/2019 18-21 Repealed: 2017, c. 34, Sched. 17, s. 20 (10). Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 17, s. 20 (10) - 01/04/2019 22 Repealed: 2017, c. 34, Sched. 17, s. 20 (10). Section Amendments with date in force (d/m/y) 2017, c. 8, Sched. 11, s. 1 - 01/07/2017; 2017, c. 34, Sched. 17, s. 20 (10) - 01/04/2019 23 Repealed: 2017, c. 34, Sched. 17, s. 20 (10). Section Amendments with date in force (d/m/y) 2006, c. 19, Sched. C, s. 1 (1) - 22/06/2006 2017, c. 34, Sched. 17, s. 20 (10) - 01/04/2019 24 Repealed: 2017, c. 34, Sched. 17, s. 20 (10). Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 17, s. 20 (10) - 01/04/2019 Assessments",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>15.1</b> (1) This section applies with respect to documents and information to be delivered to, filed with or issued by the Superintendent under this or any other Act.  1999, c. 12, Sched. I, s. 3 (1).</p> <p class=\"headnote\">Conflict</p> <p class=\"subsection\">(2) In the event of a conflict between this section or a rule made under this section and a provision of this or any other Act, any regulation or any other rule, this section or the rule made under this section, as the case may be, prevails.  1999, c. 12, Sched. I, s. 3 (1).</p> <p class=\"headnote\">Permitted formats</p> <p class=\"subsection\">(3) Despite any requirement in or under this or any other Act respecting the format in which a document or information must be delivered to, filed with or issued by the Superintendent, the document or information may be delivered, filed or issued in electronic format or another format the Superintendent may approve.  1999, c. 12, Sched. I, s. 3 (1).</p> <p class=\"headnote\">Required formats</p> <p class=\"subsection\">(4) Despite any requirement in or under this or any other Act, the Superintendent may require a document or information that is to be delivered to, filed with or issued by him or her to be delivered, filed or issued in electronic format or another format specified by the Superintendent.  1999, c. 12, Sched. I, s. 3 (1).</p> <p class=\"headnote\">Rules</p> <p class=\"subsection\">(5) The Superintendent may make rules governing the delivery, filing, inspection, service or copying of documents and information in the formats approved by him or her under subsection (3) or specified by him or her under subsection (4).  1999, c. 12, Sched. I, s. 3 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(6) A rule may specify the manner in which a document or information that is not written on paper must be signed or certified, and may waive any requirement that a document or information must be signed or certified.  1999, c. 12, Sched. I, s. 3 (1).</p> <p class=\"headnote\">Conversion</p> <p class=\"subsection\">(7) The Superintendent may convert a document or information delivered to, filed with or issued by him or her from one format into another format chosen by him or her; the Superintendent is not required to retain the document or information in the format in which it is delivered, filed or issued.  1999, c. 12, Sched. I, s. 3 (1).</p> <p class=\"headnote\">Records</p> <p class=\"subsection\">(8) The Superintendent may maintain or store his or her records in any format the Superintendent considers suitable.  1999, c. 12, Sched. I, s. 3 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1999, c. 12, Sched. I, s. 3 (1) - 22/12/1999</p> <p class=\"heading1\"><a name=\"BK19\"></a>Certificates and Documents</p> <p class=\"section\"><b>16 </b><span class=\"ovsmallcap\">Repealed</span>: 2019, c. 7, Sched. 26, s. 2.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1999, c. 12, Sched. I, s. 3 (2) - 22/12/1999</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06029#s62s2\">2006, c. 29, s. 62 (2, 3)</a></span> - 01/07/2008</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S12008#sched15s1\">2012, c. 8, Sched. 15, s. 1</a></span> - 01/01/2013</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15009#s29s4\">2015, c. 9, s. 29 (4)</a></span>\r\n- 08/11/2016</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19007#sched26s2\">2019, c. 7, Sched. 26, s. 2</a></span> - 08/06/2019</p> <p class=\"section\"><b>17 </b><span class=\"ovsmallcap\">Repealed</span>: 2019, c. 7, Sched. 26, s. 2.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1999, c. 12, Sched. I, s. 3 (3) - 22/12/1999</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19007#sched26s2s1\">2019, c. 7, Sched. 26, s. 2</a></span> - 08/06/2019</p> <p class=\"section\"><b>18-21</b> <span class=\"ovsmallcap\">Repealed</span>: 2017, c. 34, Sched. 17, s. 20 (10).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s10\">2017, c. 34, Sched. 17, s. 20 (10)</a></span> - 01/04/2019</p> <p class=\"section\"><b>22 </b><span class=\"ovsmallcap\">Repealed</span>: 2017, c. 34, Sched. 17, s. 20 (10).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17008#sched11s1\">2017, c. 8, Sched. 11, s. 1</a></span> - 01/07/2017; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s10\">2017, c. 34, Sched. 17, s. 20 (10)</a></span> - 01/04/2019</p> <p class=\"section\"><b>23 </b><span class=\"ovsmallcap\">Repealed</span>: 2017, c. 34, Sched. 17, s. 20 (10).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedcs1s1\">2006, c. 19, Sched. C, s. 1 (1)</a></span> - 22/06/2006</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s10\">2017, c. 34, Sched. 17, s. 20 (10)</a></span> - 01/04/2019</p> <p class=\"section\"><b>24 </b><span class=\"ovsmallcap\">Repealed</span>: 2017, c. 34, Sched. 17, s. 20 (10).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s10\">2017, c. 34, Sched. 17, s. 20 (10)</a></span> - 01/04/2019</p> <p class=\"heading1\"><a name=\"BK20\"></a>Assessments</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "Certificates and Documents",
+            "section_x": "Certificates and Documents",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "Assessments",
+            "section_x": "Assessments",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "25.",
+            "section_x": "Assessment of regulated sector",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Assessment of regulated sector",
+            "content": "25 (1) The Lieutenant Governor in Council may assess all entities that form part of a regulated sector with respect to all expenses and expenditures that the Ministry, the Commission and the Tribunal have incurred and made in respect of the regulated sector under this Act or any other Act that confers powers on or assigns duties to the Ministry, the Commission, the Superintendent or the Tribunal.  1997, c. 28, s. 25 (1); 2014, c. 9, Sched. 5, s. 4 (1). Determination of amount (2) If an assessment is made under subsection (1), the share of the assessment in respect of the regulated sector and the share of the assessment payable by an entity that forms part of the sector shall be determined in the manner prescribed by the regulations made under this Act.  1997, c. 28, s. 25 (2). Same, variations (3) The manner of determining the share may vary for each regulated sector or for the entities that form part of the sector.  1997, c. 28, s. 25 (3). Same, fees received (4) In setting an assessment under subsection (1) in respect of a regulated sector, the Lieutenant Governor in Council shall take into account the fees that the Crown has received from the entities that form part of the sector.  1997, c. 28, s. 25 (4). (5) Repealed: 2014, c. 9, Sched. 5, s. 4 (2). Recommendation of Commission (6) On request, the Commission shall recommend to the Lieutenant Governor in Council the manner in which the regulations made under this Act should determine the share of the assessment in respect of a regulated sector and the share of the assessment payable by an entity that forms part of the sector.  1997, c. 28, s. 25 (6). Section Amendments with date in force (d/m/y) 2014, c. 9, Sched. 5, s. 4 (1, 2) - 01/04/2016",
+            "raw_html": "<p class=\"section\"><a name=\"BK21\"></a><b>25 </b>(1) The Lieutenant Governor in Council may assess all entities that form part of a regulated sector with respect to all expenses and expenditures that the Ministry, the Commission and the Tribunal have incurred and made in respect of the regulated sector under this Act or any other Act that confers powers on or assigns duties to the Ministry, the Commission, the Superintendent or the Tribunal.  1997, c. 28, s. 25 (1); 2014, c. 9, Sched. 5, s. 4 (1).</p> <p class=\"headnote\">Determination of amount</p> <p class=\"subsection\">(2) If an assessment is made under subsection (1), the share of the assessment in respect of the regulated sector and the share of the assessment payable by an entity that forms part of the sector shall be determined in the manner prescribed by the regulations made under this Act.  1997, c. 28, s. 25 (2).</p> <p class=\"headnote\">Same, variations</p> <p class=\"subsection\">(3) The manner of determining the share may vary for each regulated sector or for the entities that form part of the sector.  1997, c. 28, s. 25 (3).</p> <p class=\"headnote\">Same, fees received</p> <p class=\"subsection\">(4) In setting an assessment under subsection (1) in respect of a regulated sector, the Lieutenant Governor in Council shall take into account the fees that the Crown has received from the entities that form part of the sector.  1997, c. 28, s. 25 (4).</p> <p class=\"subsection\">(5) <span class=\"ovsmallcap\">Repealed</span>: 2014, c. 9, Sched. 5, s. 4 (2).</p> <p class=\"headnote\">Recommendation of Commission</p> <p class=\"subsection\">(6) On request, the Commission shall recommend to the Lieutenant Governor in Council the manner in which the regulations made under this Act should determine the share of the assessment in respect of a regulated sector and the share of the assessment payable by an entity that forms part of the sector.  1997, c. 28, s. 25 (6).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S14009#sched5s4s1\">2014, c. 9, Sched. 5, s. 4 (1, 2)</a></span> - 01/04/2016</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "26.",
+            "section_x": "Payment of assessment",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Payment of assessment",
+            "content": "26 (1) An entity that is assessed under section 25 shall pay the assessment.  1997, c. 28, s. 26 (1). Unpaid assessments (2) If an entity that is assessed does not pay the assessment, the unpaid amount of the assessment is a debt due to the Crown and the Crown may recover the debt by action or by any other remedy or procedure available by law to the Crown for the collection of debts owed to the Crown, whether or not the Superintendent exercises the rights set out in subsection (3), (4) or (5).  1997, c. 28, s. 26 (2). Insurer (3) If an insurer that is assessed does not pay the assessment, the Superintendent may suspend or cancel the insurer’s licence issued under the Insurance Act.  1997, c. 28, s. 26 (3). Loan and trust corporations (4) If a corporation registered under the Loan and Trust Corporations Act that is assessed does not pay the assessment, the Superintendent may revoke the registration of the corporation under that Act.  1997, c. 28, s. 26 (4). Mortgage brokerages, etc. (5) If a person or entity who has a licence issued under the Mortgage Brokerages, Lenders and Administrators Act, 2006 and who is assessed does not pay the assessment, the Superintendent may revoke the person’s or entity’s licence.  2006, c. 29, s. 62 (4). Holder of service provider’s licence (5.1) If a person or entity who holds a service provider’s licence issued under Part VI (Automobile Insurance) of the Insurance Act and who is assessed does not pay the assessment, the Superintendent may revoke the licence. 2013, c. 2, Sched. 6, s. 2. Revival (6) The Superintendent may revive the licence or restore the registration, as the case may be, if the entity that is assessed pays the amount owing on the assessment.  1997, c. 28, s. 26 (6). Section Amendments with date in force (d/m/y) 2006, c. 29, s. 62 (4) - 01/07/2008 2013, c. 2, Sched. 6, s. 2 - 01/06/2014 Fees, Forms and Regulations",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>26 </b>(1) An entity that is assessed under section 25 shall pay the assessment.  1997, c. 28, s. 26 (1).</p> <p class=\"headnote\">Unpaid assessments</p> <p class=\"subsection\">(2) If an entity that is assessed does not pay the assessment, the unpaid amount of the assessment is a debt due to the Crown and the Crown may recover the debt by action or by any other remedy or procedure available by law to the Crown for the collection of debts owed to the Crown, whether or not the Superintendent exercises the rights set out in subsection (3), (4) or (5).  1997, c. 28, s. 26 (2).</p> <p class=\"headnote\">Insurer</p> <p class=\"subsection\">(3) If an insurer that is assessed does not pay the assessment, the Superintendent may suspend or cancel the insurer’s licence issued under the <i>Insurance Act</i>.  1997, c. 28, s. 26 (3).</p> <p class=\"headnote\">Loan and trust corporations</p> <p class=\"subsection\">(4) If a corporation registered under the <i>Loan and Trust Corporations Act</i> that is assessed does not pay the assessment, the Superintendent may revoke the registration of the corporation under that Act.  1997, c. 28, s. 26 (4).</p> <p class=\"headnote\">Mortgage brokerages, etc.</p> <p class=\"subsection\">(5) If a person or entity who has a licence issued under the <i>Mortgage Brokerages, Lenders and Administrators Act, 2006</i> and who is assessed does not pay the assessment, the Superintendent may revoke the person’s or entity’s licence.  2006, c. 29, s. 62 (4).</p> <p class=\"headnote\">Holder of service provider’s licence</p> <p class=\"subsection\">(5.1) If a person or entity who holds a service provider’s licence issued under Part VI (Automobile Insurance) of the <i>Insurance Act</i> and who is assessed does not pay the assessment, the Superintendent may revoke the licence. 2013, c. 2, Sched. 6, s. 2.</p> <p class=\"headnote\">Revival</p> <p class=\"subsection\">(6) The Superintendent may revive the licence or restore the registration, as the case may be, if the entity that is assessed pays the amount owing on the assessment.  1997, c. 28, s. 26 (6).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06029#s62s4\">2006, c. 29, s. 62 (4)</a></span> - 01/07/2008</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S13002#sched6s2\">2013, c. 2, Sched. 6, s. 2</a></span> - 01/06/2014</p> <p class=\"heading1\"><a name=\"BK23\"></a>Fees, Forms and Regulations</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "Fees, Forms and Regulations",
+            "section_x": "Fees, Forms and Regulations",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "27.",
+            "section_x": "Fees and forms",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Fees and forms",
+            "content": "27 (1) Subject to the approval of the Minister, the Commission may require the payment of fees in relation to any matter under this Act and may set the amount of those fees.  1997, c. 28, s. 27 (1).  Forms (2) The Superintendent may approve forms for any purpose of this Act and require their use.  1997, c. 28, s. 27 (2). Content (3) The forms may provide that the person required to use them shall provide the information specified in them.  1997, c. 28, s. 27 (3). Section Amendments with date in force (d/m/y) 2015, c. 20, Sched. 12, s. 1 - no effect - see 2019, c. 7, Sched. 26, s. 3 - 29/05/2019",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>27 </b>(1) Subject to the approval of the Minister, the Commission may require the payment of fees in relation to any matter under this Act and may set the amount of those fees.  1997, c. 28, s. 27 (1). </p> <p class=\"headnote\">Forms</p> <p class=\"subsection\">(2) The Superintendent may approve forms for any purpose of this Act and require their use.  1997, c. 28, s. 27 (2).</p> <p class=\"headnote\">Content</p> <p class=\"subsection\">(3) The forms may provide that the person required to use them shall provide the information specified in them.  1997, c. 28, s. 27 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15020#sched12s1\">2015, c. 20, Sched. 12, s. 1</a></span> - no effect - see <a href=\"http://www.ontario.ca/laws/statute/S19007#sched26s3\">2019, c. 7, Sched. 26, s. 3</a> - 29/05/2019</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "28.",
+            "section_x": "Regulations",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Regulations",
+            "content": "28 (1)  The Lieutenant Governor in Council may make regulations prescribing any matter mentioned in this Act as prescribed.  1997, c. 28, s. 28. Same, transitional matters (2) The Lieutenant Governor in Council may make regulations governing transitional matters arising in respect of assessments made under this Act due to the amendments to this Act made by Schedule 17 of the Stronger, Fairer Ontario Act (Budget Measures), 2017. 2017, c. 34, Sched. 17, s. 20 (11). Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 17, s. 20 (11) - 01/04/2019 29-229 Omitted (amends or repeals other Acts).  1997, c. 28, ss. 29-229. 230 Omitted (provides for coming into force of provisions of this Act).  1997, c. 28, s. 230. 231 Omitted (enacts short title of this Act).  1997, c. 28, s. 231. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>28 </b>(1)<b> </b> The Lieutenant Governor in Council may make regulations prescribing any matter mentioned in this Act as prescribed.  1997, c. 28, s. 28.</p> <p class=\"headnote\">Same, transitional matters</p> <p class=\"subsection\">(2) The Lieutenant Governor in Council may make regulations governing transitional matters arising in respect of assessments made under this Act due to the amendments to this Act made by Schedule 17 of the <i>Stronger, Fairer Ontario Act (Budget Measures), 2017</i>. 2017, c. 34, Sched. 17, s. 20 (11).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched17s20s11\">2017, c. 34, Sched. 17, s. 20 (11)</a></span> - 01/04/2019</p> <p class=\"section\"><b>29-229 </b><span class=\"ovsmallcap\">Omitted (amends or repeals other Acts)</span>.  1997, c. 28, ss. 29-229.</p> <p class=\"section\"><b>230 </b><span class=\"ovsmallcap\">Omitted (provides for coming into force of provisions of this Act)</span>.  1997, c. 28, s. 230.</p> <p class=\"section\"><b>231 </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act)</span>.  1997, c. 28, s. 231.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/97f28\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

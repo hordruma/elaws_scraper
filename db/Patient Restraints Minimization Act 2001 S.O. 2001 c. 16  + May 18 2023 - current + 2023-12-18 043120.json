@@ -1,0 +1,111 @@
+{
+    "act_info": {
+        "full_title": "Patient Restraints Minimization Act, 2001, S.O. 2001, c. 16 ",
+        "act_name_text": "Patient Restraints Minimization Act, 2001",
+        "citation": "S.O. 2001, c. 16 ",
+        "url": "https://www.ontario.ca/laws/statute/01p16",
+        "date_scraped": "2023-12-18 04:31:21"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "May 18, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/01p16/v2",
+            "valid_from": "December 12, 2017",
+            "valid_to": "May 17, 2023"
+        },
+        {
+            "a_href": "/laws/statute/01p16/v1",
+            "valid_from": "June 29, 2001",
+            "valid_to": "December 11, 2017"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1",
+            "section": "Definitions",
+            "content": "1 (1) In this Act, “alternative method” means, with respect to the prevention of serious bodily harm to a patient or to others, a method that imposes less control on the patient than restraining or confining the patient or using a monitoring device on him or her; (“méthode de rechange”) “patient” includes a resident of a facility; (“malade”) “restrain” means, with respect to a person, to place the person under control by the minimal use of such force, mechanical means or chemicals as is reasonable having regard to the person’s physical and mental condition, and “restraint” has a corresponding meaning. (“maîtriser”, “contention”)  2001, c. 16, s. 1 (1). Monitoring devices (2) This Act governs the use of monitoring devices that are used to prevent serious bodily harm to a patient or to others, but not monitoring devices that are used for other diagnostic or treatment purposes.  2001, c. 16, s. 1 (2).",
+            "raw_html": "<p class=\"section\"><b>1 </b>(1) In this Act,</p> <p class=\"definition\">“alternative method” means, with respect to the prevention of serious bodily harm to a patient or to others, a method that imposes less control on the patient than restraining or confining the patient or using a monitoring device on him or her; (“méthode de rechange”)</p> <p class=\"definition\">“patient” includes a resident of a facility; (“malade”)</p> <p class=\"definition\">“restrain” means, with respect to a person, to place the person under control by the minimal use of such force, mechanical means or chemicals as is reasonable having regard to the person’s physical and mental condition, and “restraint” has a corresponding meaning. (“maîtriser”, “contention”)  2001, c. 16, s. 1 (1).</p> <p class=\"headnote\">Monitoring devices</p> <p class=\"subsection\">(2) This Act governs the use of monitoring devices that are used to prevent serious bodily harm to a patient or to others, but not monitoring devices that are used for other diagnostic or treatment purposes.  2001, c. 16, s. 1 (2).</p>"
+        },
+        {
+            "id": "2",
+            "section": "Application",
+            "content": "2 (1) This Act applies to every hospital that is approved as a public hospital under the Public Hospitals Act, every hospital that is licensed as a private hospital under the Private Hospitals Act\r\nand every facility and organization that is prescribed by regulation as a facility to which this Act applies.  2001, c. 16, s. 2 (1). Exception (2) This Act does not apply in circumstances in which the Mental Health Act governs the use of restraints on patients or other persons in psychiatric facilities.  2001, c. 16, s. 2 (2). Section Amendments with date in force (d/m/y) 2017, c. 25, Sched. 9, s. 107 - no effect - see 2023, c. 4, Sched. 1, s. 67 - 18/05/2023",
+            "raw_html": "<p class=\"section\"><b>2 </b>(1) This Act applies to every hospital that is approved as a public hospital under the <i>Public Hospitals Act</i>, every hospital that is licensed as a private hospital under the <i>Private Hospitals Act</i>\r\nand every facility and organization that is prescribed by regulation as a facility to which this Act applies.  2001, c. 16, s. 2 (1).</p> <p class=\"headnote\">Exception</p> <p class=\"subsection\">(2) This Act does not apply in circumstances in which the <i>Mental Health Act</i> governs the use of restraints on patients or other persons in psychiatric facilities.  2001, c. 16, s. 2 (2).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17025#sched9s107\">2017, c. 25, Sched. 9, s. 107</a></span> - no effect - see <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23004#sched1s67\">2023, c. 4, Sched. 1, s. 67</a></span> - 18/05/2023</p>"
+        },
+        {
+            "id": "3",
+            "section": "Purposes",
+            "content": "3 The purposes of this Act are to minimize the use of restraints on patients and to encourage hospitals and facilities to use alternative methods, whenever possible, when it is necessary to prevent serious bodily harm by a patient to himself or herself or to others.  2001, c. 16, s. 3. Criteria for the Use of Restraints, etc.",
+            "raw_html": "<p class=\"section\"><b>3 </b>The purposes of this Act are to minimize the use of restraints on patients and to encourage hospitals and facilities to use alternative methods, whenever possible, when it is necessary to prevent serious bodily harm by a patient to himself or herself or to others.  2001, c. 16, s. 3.</p> <p class=\"heading1\">Criteria for the Use of Restraints, etc.</p>"
+        },
+        {
+            "id": "4",
+            "section": "Prohibition",
+            "content": "4 A hospital or facility shall not restrain or confine a patient or use a monitoring device on a patient unless it is authorized to do so by section 5 or 6.  2001, c. 16, s. 4.",
+            "raw_html": "<p class=\"section\"><b>4 </b>A hospital or facility shall not restrain or confine a patient or use a monitoring device on a patient unless it is authorized to do so by section 5 or 6.  2001, c. 16, s. 4.</p>"
+        },
+        {
+            "id": "5",
+            "section": "Enhancement of freedom, etc.",
+            "content": "5 (1) A hospital or facility may restrain or confine a patient or use a monitoring device on him or her, (a)  if it is necessary to prevent serious bodily harm to him or her or to another person; (b)  if such other criteria as may be prescribed by regulation for restraining or confining a patient or for using a monitoring device on him or her are met; (c)  if it gives him or her greater freedom or greater enjoyment of life; and (d)  if placing him or her under restraint, confining him or her or using a monitoring device on him or her, as the case may be, is authorized by a plan of treatment to which the patient (or his or her substitute decision-maker) has consented.  2001, c. 16, s. 5 (1). Consent (2) A determination about whether a plan of treatment authorizes a patient to be restrained in a particular manner or to be confined, or authorizes the use of a monitoring device on him or her, is to be made in accordance with the regulations.  2001, c. 16, s. 5 (2). Definitions (3) In this section, “plan of treatment” and “substitute decision-maker” have the same meaning as in the Health Care Consent Act, 1996.  2001, c. 16, s. 5 (3).",
+            "raw_html": "<p class=\"section\"><b>5 </b>(1) A hospital or facility may restrain or confine a patient or use a monitoring device on him or her,</p> <p class=\"paragraph\">  (a)  if it is necessary to prevent serious bodily harm to him or her or to another person;</p> <p class=\"paragraph\">  (b)  if such other criteria as may be prescribed by regulation for restraining or confining a patient or for using a monitoring device on him or her are met;</p> <p class=\"paragraph\">  (c)  if it gives him or her greater freedom or greater enjoyment of life; and</p> <p class=\"paragraph\">  (d)  if placing him or her under restraint, confining him or her or using a monitoring device on him or her, as the case may be, is authorized by a plan of treatment to which the patient (or his or her substitute decision-maker) has consented.  2001, c. 16, s. 5 (1).</p> <p class=\"headnote\">Consent</p> <p class=\"subsection\">(2) A determination about whether a plan of treatment authorizes a patient to be restrained in a particular manner or to be confined, or authorizes the use of a monitoring device on him or her, is to be made in accordance with the regulations.  2001, c. 16, s. 5 (2).</p> <p class=\"headnote\">Definitions</p> <p class=\"subsection\">(3) In this section,</p> <p class=\"definition\">“plan of treatment” and “substitute decision-maker” have the same meaning as in the <i>Health Care Consent Act, 1996</i>.  2001, c. 16, s. 5 (3).</p>"
+        },
+        {
+            "id": "6",
+            "section": "Prevention of serious bodily harm",
+            "content": "6 (1) A hospital or facility may restrain or confine a patient or use a monitoring device on him or her, (a)  if it is necessary to prevent serious bodily harm to him or her or to another person; and (b)  if such other criteria as may be prescribed by regulation for restraining or confining a patient or for using a monitoring device on him or her are met.  2001, c. 16, s. 6 (1). Common law duty of caregivers (2) Subsection (1) does not affect the common law duty of a caregiver to restrain or confine a person when immediate action is necessary to prevent serious bodily harm to the person or to others.  2001, c. 16, s. 6 (2). Duties of Hospitals and Facilities",
+            "raw_html": "<p class=\"section\"><b>6 </b>(1) A hospital or facility may restrain or confine a patient or use a monitoring device on him or her,</p> <p class=\"paragraph\">  (a)  if it is necessary to prevent serious bodily harm to him or her or to another person; and</p> <p class=\"paragraph\">  (b)  if such other criteria as may be prescribed by regulation for restraining or confining a patient or for using a monitoring device on him or her are met.  2001, c. 16, s. 6 (1).</p> <p class=\"headnote\">Common law duty of caregivers</p> <p class=\"subsection\">(2) Subsection (1) does not affect the common law duty of a caregiver to restrain or confine a person when immediate action is necessary to prevent serious bodily harm to the person or to others.  2001, c. 16, s. 6 (2).</p> <p class=\"heading1\">Duties of Hospitals and Facilities</p>"
+        },
+        {
+            "id": "7",
+            "section": "Duty to establish policies",
+            "content": "7 (1) Every hospital or facility shall establish such policies as may be required by regulation with respect to restraining and confining patients and using monitoring devices on them and with respect to the use of alternative methods to prevent serious bodily harm by a patient to himself or herself or to others.  2001, c. 16, s. 7 (1). Content of policies (2) The policies must encourage the use of alternative methods to prevent serious bodily harm by a patient to himself or herself or to others, whenever alternative methods are reasonably available.  2001, c. 16, s. 7 (2). Compliance (3) A hospital or facility shall comply with its policies.  2001, c. 16, s. 7 (3). Public inspection (4) A regulation may require hospitals and facilities to make a copy of their policies available to the public for inspection.  2001, c. 16, s. 7 (4).",
+            "raw_html": "<p class=\"section\"><b>7 </b>(1) Every hospital or facility shall establish such policies as may be required by regulation with respect to restraining and confining patients and using monitoring devices on them and with respect to the use of alternative methods to prevent serious bodily harm by a patient to himself or herself or to others.  2001, c. 16, s. 7 (1).</p> <p class=\"headnote\">Content of policies</p> <p class=\"subsection\">(2) The policies must encourage the use of alternative methods to prevent serious bodily harm by a patient to himself or herself or to others, whenever alternative methods are reasonably available.  2001, c. 16, s. 7 (2).</p> <p class=\"headnote\">Compliance</p> <p class=\"subsection\">(3) A hospital or facility shall comply with its policies.  2001, c. 16, s. 7 (3).</p> <p class=\"headnote\">Public inspection</p> <p class=\"subsection\">(4) A regulation may require hospitals and facilities to make a copy of their policies available to the public for inspection.  2001, c. 16, s. 7 (4).</p>"
+        },
+        {
+            "id": "8",
+            "section": "Duty to monitor patients",
+            "content": "8 A hospital or facility shall ensure that a patient who is under restraint, who is confined, or on whom a monitoring device is used is monitored in accordance with the regulations and that the patient is reassessed in accordance with the regulations.  2001, c. 16, s. 8.",
+            "raw_html": "<p class=\"section\"><b>8 </b>A hospital or facility shall ensure that a patient who is under restraint, who is confined, or on whom a monitoring device is used is monitored in accordance with the regulations and that the patient is reassessed in accordance with the regulations.  2001, c. 16, s. 8.</p>"
+        },
+        {
+            "id": "9",
+            "section": "Staff training",
+            "content": "9 (1) A hospital or facility shall ensure that its staff receive such training as may be required by regulation with respect to restraining and confining patients and using monitoring devices on them and with respect to the use of alternative methods to prevent serious bodily harm by a patient to himself or herself or to others.  2001, c. 16, s. 9 (1). Quality control (2) A hospital or facility shall take such steps as may be required by regulation to ensure that it complies with this Act, the regulations and the policies of the hospital or facility when it restrains or confines patients and when it uses monitoring devices on patients.  2001, c. 16, s. 9 (2). Record-keeping (3) A hospital or facility shall ensure that it keeps such records as may be required by regulation about the restraining or confinement of patients and about its use of monitoring devices on patients, and shall ensure that the records are made by the persons and in the circumstances specified by regulation.  2001, c. 16, s. 9 (3). Reporting (4) A hospital or facility shall report to such persons as may be required by regulation, in such circumstances as may be specified by regulation, about restraining or confining patients and its use of monitoring devices on patients.  2001, c. 16, s. 9 (4). General",
+            "raw_html": "<p class=\"section\"><b>9 </b>(1) A hospital or facility shall ensure that its staff receive such training as may be required by regulation with respect to restraining and confining patients and using monitoring devices on them and with respect to the use of alternative methods to prevent serious bodily harm by a patient to himself or herself or to others.  2001, c. 16, s. 9 (1).</p> <p class=\"headnote\">Quality control</p> <p class=\"subsection\">(2) A hospital or facility shall take such steps as may be required by regulation to ensure that it complies with this Act, the regulations and the policies of the hospital or facility when it restrains or confines patients and when it uses monitoring devices on patients.  2001, c. 16, s. 9 (2).</p> <p class=\"headnote\">Record-keeping</p> <p class=\"subsection\">(3) A hospital or facility shall ensure that it keeps such records as may be required by regulation about the restraining or confinement of patients and about its use of monitoring devices on patients, and shall ensure that the records are made by the persons and in the circumstances specified by regulation.  2001, c. 16, s. 9 (3).</p> <p class=\"headnote\">Reporting</p> <p class=\"subsection\">(4) A hospital or facility shall report to such persons as may be required by regulation, in such circumstances as may be specified by regulation, about restraining or confining patients and its use of monitoring devices on patients.  2001, c. 16, s. 9 (4).</p> <p class=\"heading1\">General</p>"
+        },
+        {
+            "id": "10",
+            "section": "Order to restrain a patient",
+            "content": "10 (1) Only a physician or a person specified by regulation is authorized to write an order to restrain or confine a patient in a hospital or facility or to use a monitoring device on such a patient.  2001, c. 16, s. 10 (1). Same (2) The physician or person writing the order shall comply with this Act, the regulations made under this Act and any applicable policies of the hospital or facility about restraining patients.  2001, c. 16, s. 10 (2). Retroactive effect (3) An order may have retroactive effect.  2001, c. 16, s. 10 (3). Standing orders (4) A regulation may prohibit a standing order to be written authorizing a patient to be restrained or confined or authorizing the use of a monitoring device on a patient.  2001, c. 16, s. 10 (4).",
+            "raw_html": "<p class=\"section\"><b>10 </b>(1) Only a physician or a person specified by regulation is authorized to write an order to restrain or confine a patient in a hospital or facility or to use a monitoring device on such a patient.  2001, c. 16, s. 10 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The physician or person writing the order shall comply with this Act, the regulations made under this Act and any applicable policies of the hospital or facility about restraining patients.  2001, c. 16, s. 10 (2).</p> <p class=\"headnote\">Retroactive effect</p> <p class=\"subsection\">(3) An order may have retroactive effect.  2001, c. 16, s. 10 (3).</p> <p class=\"headnote\">Standing orders</p> <p class=\"subsection\">(4) A regulation may prohibit a standing order to be written authorizing a patient to be restrained or confined or authorizing the use of a monitoring device on a patient.  2001, c. 16, s. 10 (4).</p>"
+        },
+        {
+            "id": "11",
+            "section": "Regulations",
+            "content": "11 (1) The Lieutenant Governor in Council may make regulations, (a)  specifying the manner in which a patient may be restrained or confined in particular circumstances or the type of monitoring device that may be used, and the manner in which it may be used, in particular circumstances; (b)  prescribing anything that must or may be prescribed or required by regulation or that must or may be done in accordance with the regulations.  2001, c. 16, s. 11 (1). Classes (2) A regulation may create different classes of patients, hospitals and facilities and may impose different requirements on, or with respect to, each class.  2001, c. 16, s. 11 (2). General or particular (3) A regulation relating to a hospital or facility may be general or particular.  2001, c. 16, s. 11 (3). 12 Omitted (provides for coming into force of provisions of this Act).  2001, c. 16, s. 12. 13 Omitted (enacts short title of this Act).  2001, c. 16, s. 13. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>11 </b>(1) The Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a)  specifying the manner in which a patient may be restrained or confined in particular circumstances or the type of monitoring device that may be used, and the manner in which it may be used, in particular circumstances;</p> <p class=\"paragraph\">  (b)  prescribing anything that must or may be prescribed or required by regulation or that must or may be done in accordance with the regulations.  2001, c. 16, s. 11 (1).</p> <p class=\"headnote\">Classes</p> <p class=\"subsection\">(2) A regulation may create different classes of patients, hospitals and facilities and may impose different requirements on, or with respect to, each class.  2001, c. 16, s. 11 (2).</p> <p class=\"headnote\">General or particular</p> <p class=\"subsection\">(3) A regulation relating to a hospital or facility may be general or particular.  2001, c. 16, s. 11 (3).</p> <p class=\"section\"><b>12 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  2001, c. 16, s. 12.</p> <p class=\"section\"><b>13 </b><span>Omitted (enacts short title of this Act)</span>.  2001, c. 16, s. 13.</p> <p class=\"line\">______________</p> <p class=\"line\"><u><span> </span></u></p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/01p16\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "12",
+            "section": "General or particular",
+            "content": "12 Omitted (provides for coming into force of provisions of this Act).  2001, c. 16, s. 12. 13 Omitted (enacts short title of this Act).  2001, c. 16, s. 13. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>12 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  2001, c. 16, s. 12.</p> <p class=\"section\"><b>13 </b><span>Omitted (enacts short title of this Act)</span>.  2001, c. 16, s. 13.</p> <p class=\"line\">______________</p> <p class=\"line\"><u><span> </span></u></p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/01p16\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "13",
+            "section": "General or particular",
+            "content": "13 Omitted (enacts short title of this Act).  2001, c. 16, s. 13. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>13 </b><span>Omitted (enacts short title of this Act)</span>.  2001, c. 16, s. 13.</p> <p class=\"line\">______________</p> <p class=\"line\"><u><span> </span></u></p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/01p16\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

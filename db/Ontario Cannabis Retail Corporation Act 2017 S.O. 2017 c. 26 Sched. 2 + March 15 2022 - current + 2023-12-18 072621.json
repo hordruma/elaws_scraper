@@ -1,0 +1,404 @@
+{
+    "act_info": {
+        "full_title": "Ontario Cannabis Retail Corporation Act, 2017, S.O. 2017, c. 26, Sched. 2",
+        "act_name_text": "Ontario Cannabis Retail Corporation Act, 2017",
+        "citation": "S.O. 2017, c. 26, Sched. 2",
+        "url": "https://www.ontario.ca/laws/statute/17o26",
+        "date_scraped": "2023-12-18 07:26:23"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "March 15, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/17o26/v8",
+            "valid_from": "December  2, 2021",
+            "valid_to": "March 14, 2022"
+        },
+        {
+            "a_href": "/laws/statute/17o26/v7",
+            "valid_from": "November 29, 2021",
+            "valid_to": "December  1, 2021"
+        },
+        {
+            "a_href": "/laws/statute/17o26/v6",
+            "valid_from": "October 19, 2021",
+            "valid_to": "November 28, 2021"
+        },
+        {
+            "a_href": "/laws/statute/17o26/v5",
+            "valid_from": "December  8, 2020",
+            "valid_to": "October 18, 2021"
+        },
+        {
+            "a_href": "/laws/statute/17o26/v4",
+            "valid_from": "December 10, 2019",
+            "valid_to": "December  7, 2020"
+        },
+        {
+            "a_href": "/laws/statute/17o26/v3",
+            "valid_from": "November 16, 2018",
+            "valid_to": "December  9, 2019"
+        },
+        {
+            "a_href": "/laws/statute/17o26/v2",
+            "valid_from": "October 17, 2018",
+            "valid_to": "November 15, 2018"
+        },
+        {
+            "a_href": "/laws/statute/17o26/v1",
+            "valid_from": "December 12, 2017",
+            "valid_to": "October 16, 2018"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/180033",
+            "Citation": "O. Reg. 33/18",
+            "title": "GENERAL"
+        }
+    ],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "General",
+            "section_x": "General",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Interpretation",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Interpretation",
+            "content": "1 In this Act, “cannabis” has the same meaning as in the Cannabis Control Act, 2017; (“cannabis”) “Corporation” means the Ontario Cannabis Retail Corporation established under section 3; (“Société”) “LCBO” means the Liquor Control Board of Ontario continued under section 2 of the Liquor Control Board of Ontario Act, 2019; (“Régie des alcools”) “Minister” means the Minister of Finance or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”) “prescribed” means prescribed by the regulations; (“prescrit”) “regulations” means the regulations under this Act; (“règlements”) “sell” includes offer for sale, expose for sale and have in possession for sale. (“vente”) 2017, c. 26, Sched. 2, s. 1; 2018, c. 12, Sched. 1, s. 24; 2019, c. 15, Sched. 21, s. 21. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 1, s. 24 - 16/11/2018 2019, c. 15, Sched. 21, s. 21 - 29/11/2021",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>1 </b>In this Act,</p> <p class=\"definition\">“cannabis” has the same meaning as in the <i>Cannabis Control Act, 2017</i>; (“cannabis”)</p> <p class=\"definition\">“Corporation” means the Ontario Cannabis Retail Corporation established under section 3; (“Société”)</p> <p class=\"definition\">“LCBO” means the Liquor Control Board of Ontario continued under section 2 of the <i>Liquor Control Board of Ontario Act, 2019</i>; (“Régie des alcools”)</p> <p class=\"definition\">“Minister” means the Minister of Finance or such other member of the Executive Council as may be assigned the administration of this Act under the <i>Executive Council Act</i>; (“ministre”)</p> <p class=\"definition\">“prescribed” means prescribed by the regulations; (“prescrit”)</p> <p class=\"definition\">“regulations” means the regulations under this Act; (“règlements”)</p> <p class=\"definition\">“sell” includes offer for sale, expose for sale and have in possession for sale. (“vente”) 2017, c. 26, Sched. 2, s. 1; 2018, c. 12, Sched. 1, s. 24; 2019, c. 15, Sched. 21, s. 21.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched1s24\">2018, c. 12, Sched. 1, s. 24</a></span> - 16/11/2018</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19015#sched21s21\">2019, c. 15, Sched. 21, s. 21</a></span> - 29/11/2021</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "2.",
+            "section_x": "Exclusive rights, cannabis sales",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Exclusive rights, cannabis sales",
+            "content": "2 Except as provided by the regulations, the Corporation has the exclusive right in Ontario to sell cannabis, (a)  online, without doing so through a cannabis retail store under the Cannabis Licence Act, 2018; and (b)  to a holder of a retail store authorization under the Cannabis Licence Act, 2018 for the purpose of resale through a cannabis retail store. 2021, c. 34, Sched. 2, s. 14 (1). Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 1 - 17/10/2018 2019, c. 15, Sched. 4, s. 6 - 10/12/2019 2021, c. 34, Sched. 2, s. 14 (1) - 15/03/2022 Establishment, Objects, Powers, etc.",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>2 </b>Except as provided by the regulations, the Corporation has the exclusive right in Ontario to sell cannabis,</p> <p class=\"paragraph\">  (a)  online, without doing so through a cannabis retail store under the <i>Cannabis Licence Act, 2018</i>; and</p> <p class=\"paragraph\">  (b)  to a holder of a retail store authorization under the <i>Cannabis Licence Act, 2018</i> for the purpose of resale through a cannabis retail store. 2021, c. 34, Sched. 2, s. 14 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s1\">2018, c. 12, Sched. 3, s. 1</a></span> - 17/10/2018</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19015#sched4s6s1\">2019, c. 15, Sched. 4, s. 6</a></span> - 10/12/2019</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S21034#sched2s14s1\">2021, c. 34, Sched. 2, s. 14 (1)</a></span> - 15/03/2022</p> <p class=\"heading1\"><a name=\"BK4\"></a>Establishment, Objects, Powers, etc.</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "Establishment, Objects, Powers, etc.",
+            "section_x": "Establishment, Objects, Powers, etc.",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "3.",
+            "section_x": "Corporation established",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Corporation established",
+            "content": "3 (1) A corporation without share capital is established under the name Ontario Cannabis Retail Corporation in English and Société ontarienne de vente du cannabis in French. Name of Corporation (2) The name of the Corporation may be changed by regulation. Composition (3) The Corporation is composed of the members of its board of directors. Same (4) A person ceases to be a member of the Corporation when he or she ceases to be a director.",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>3 </b>(1) A corporation without share capital is established under the name Ontario Cannabis Retail Corporation in English and Société ontarienne de vente du cannabis in French.</p> <p class=\"headnote\">Name of Corporation</p> <p class=\"subsection\">(2) The name of the Corporation may be changed by regulation.</p> <p class=\"headnote\">Composition</p> <p class=\"subsection\">(3) The Corporation is composed of the members of its board of directors.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(4) A person ceases to be a member of the Corporation when he or she ceases to be a director.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "4.",
+            "section_x": "Objects",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Objects",
+            "content": "4 The Corporation’s objects are, (a)  to buy, possess and sell cannabis and related products; (b)  to determine, (i)  the varieties, forms or types of cannabis and related products it sells, subject to the regulations, and (ii)  the prices at which it sells them, subject to subsection 5 (5) and the regulations; (c)  to promote social responsibility in connection with cannabis; and (d)  to engage in such other activities as may be prescribed by regulation or assigned to the Corporation under this or any other Act. 2017, c. 26, Sched. 2, s. 4; 2018, c. 12, Sched. 2, s. 58 (1). Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 2, s. 58 (1) - 16/11/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>4 </b>The Corporation’s objects are,</p> <p class=\"paragraph\">  (a)  to buy, possess and sell cannabis and related products;</p> <p class=\"paragraph\">  (b)  to determine,</p> <p class=\"subpara\">  (i)  the varieties, forms or types of cannabis and related products it sells, subject to the regulations, and</p> <p class=\"subpara\">  (ii)  the prices at which it sells them, subject to subsection 5 (5) and the regulations;</p> <p class=\"paragraph\">  (c)  to promote social responsibility in connection with cannabis; and</p> <p class=\"paragraph\">  (d)  to engage in such other activities as may be prescribed by regulation or assigned to the Corporation under this or any other Act. 2017, c. 26, Sched. 2, s. 4; 2018, c. 12, Sched. 2, s. 58 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched2s58s1\">2018, c. 12, Sched. 2, s. 58 (1)</a></span> - 16/11/2018</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "5.",
+            "section_x": "Powers",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Powers",
+            "content": "5 (1) Except as limited by this Act and the regulations, the Corporation has the capacity, rights, powers and privileges of a natural person for carrying out its objects. Operation of retail stores prohibited (1.1) The Corporation shall not operate retail stores directly or indirectly. 2018, c. 12, Sched. 3, s. 2. Subsidiaries (2) The Corporation shall not create or acquire a subsidiary. Limitation, acquisition of real property (3) The Corporation shall not purchase real property that meets the prescribed criteria without the written approval of the Minister and, if the Minister is not the Minister of Finance, the Minister of Finance. Terms (4) An approval under subsection (3) may be subject to such terms as are considered advisable by the Minister and, if the Minister is not the Minister of Finance, the Minister of Finance. Limitation, minimum retail price (5) If a regulation is made under the Cannabis Licence Act, 2018 prohibiting the holder of a retail store authorization under that Act from selling cannabis at a price that is lower than the price prescribed under that Act, the Corporation shall not sell cannabis at retail at a price that is lower than the price prescribed under that Act. 2018, c. 12, Sched. 2, s. 58 (2). Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 2, s. 58 (2) - 16/11/2018; 2018, c. 12, Sched. 3, s. 2 - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>5 </b>(1) Except as limited by this Act and the regulations, the Corporation has the capacity, rights, powers and privileges of a natural person for carrying out its objects.</p> <p class=\"headnote\">Operation of retail stores prohibited</p> <p class=\"subsection\">(1.1) The Corporation shall not operate retail stores directly or indirectly. 2018, c. 12, Sched. 3, s. 2.</p> <p class=\"headnote\">Subsidiaries</p> <p class=\"subsection\">(2) The Corporation shall not create or acquire a subsidiary.</p> <p class=\"headnote\">Limitation, acquisition of real property</p> <p class=\"subsection\">(3) The Corporation shall not purchase real property that meets the prescribed criteria without the written approval of the Minister and, if the Minister is not the Minister of Finance, the Minister of Finance.</p> <p class=\"headnote\">Terms</p> <p class=\"subsection\">(4) An approval under subsection (3) may be subject to such terms as are considered advisable by the Minister and, if the Minister is not the Minister of Finance, the Minister of Finance.</p> <p class=\"headnote\">Limitation, minimum retail price</p> <p class=\"subsection\">(5) If a regulation is made under the <i>Cannabis Licence Act, 2018</i> prohibiting the holder of a retail store authorization under that Act from selling cannabis at a price that is lower than the price prescribed under that Act, the Corporation shall not sell cannabis at retail at a price that is lower than the price prescribed under that Act. 2018, c. 12, Sched. 2, s. 58 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched2s58s2\">2018, c. 12, Sched. 2, s. 58 (2)</a></span> - 16/11/2018; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s2\">2018, c. 12, Sched. 3, s. 2</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "6.",
+            "section_x": "Crown agent",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Crown agent",
+            "content": "6 The Corporation is an agent of the Crown in right of Ontario for all purposes. 7 Repealed: 2018, c. 12, Sched. 3, s. 3. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 3 - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK8\"></a><b>6 </b>The Corporation is an agent of the Crown in right of Ontario for all purposes.</p> <p class=\"section\"><b>7 </b><span class=\"ovsmallcap\">Repealed</span>: 2018, c. 12, Sched. 3, s. 3.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s3\">2018, c. 12, Sched. 3, s. 3</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "8.",
+            "section_x": "Board of directors",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Board of directors",
+            "content": "8 (1) The board of directors shall manage or supervise the management of the Corporation’s affairs. Delegation (2) The board of directors may delegate to a committee of the board or to an officer or employee of the Corporation any of the board’s powers other than the power to, (a)  approve the Corporation’s budget, including the budget for capital expenditures and staffing; (b)  approve the Corporation’s business plan, annual report and financial statements; (c)  appoint, remove and set the remuneration of the president and chief executive officer; (d)  establish committees of the board of directors and fill vacancies on those committees; (e)  make, amend or repeal by-laws; or (f)  do any other thing that may be prescribed. 2017, c. 26, Sched. 2, s. 8 (2); 2018, c. 12, Sched. 3, s. 4. Further delegation (3) The board of directors may authorize that powers delegated to an officer or employee of the Corporation may be further delegated to an employee of the Corporation on such terms as the board of directors may specify. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 4 - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>8 </b>(1) The board of directors shall manage or supervise the management of the Corporation’s affairs.</p> <p class=\"headnote\">Delegation</p> <p class=\"subsection\">(2) The board of directors may delegate to a committee of the board or to an officer or employee of the Corporation any of the board’s powers other than the power to,</p> <p class=\"paragraph\">  (a)  approve the Corporation’s budget, including the budget for capital expenditures and staffing;</p> <p class=\"paragraph\">  (b)  approve the Corporation’s business plan, annual report and financial statements;</p> <p class=\"paragraph\">  (c)  appoint, remove and set the remuneration of the president and chief executive officer;</p> <p class=\"paragraph\">  (d)  establish committees of the board of directors and fill vacancies on those committees;</p> <p class=\"paragraph\">  (e)  make, amend or repeal by-laws; or</p> <p class=\"paragraph\">  (f)  do any other thing that may be prescribed. 2017, c. 26, Sched. 2, s. 8 (2); 2018, c. 12, Sched. 3, s. 4.</p> <p class=\"headnote\">Further delegation</p> <p class=\"subsection\">(3) The board of directors may authorize that powers delegated to an officer or employee of the Corporation may be further delegated to an employee of the Corporation on such terms as the board of directors may specify.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s4\">2018, c. 12, Sched. 3, s. 4</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "9.",
+            "section_x": "Composition, etc.",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Composition, etc.",
+            "content": "9 (1) The board of directors shall consist of at least three and not more than nine members appointed by the Lieutenant Governor in Council. 2018, c. 12, Sched. 3, s. 5 (1); 2020, c. 36, Sched. 32, s. 1. Note: On a day to be named by proclamation of the Lieutenant Governor, section 9 of the Act is amended by adding the following subsection: (See: 2018, c. 12, Sched. 3, s. 5 (2)) Restriction, LCBO member (1.1) A member of the LCBO is not eligible to be appointed as a member of the Corporation’s board of directors. 2018, c. 12, Sched. 3, s. 5 (2). Chair (2) The Lieutenant Governor in Council shall designate a chair from among the members of the board of directors. 2018, c. 12, Sched. 3, s. 5 (1). Vice-chair (3) The Lieutenant Governor in Council may designate a vice-chair from among the members of the board of directors. 2018, c. 12, Sched. 3, s. 5 (1). Acting chair (4) If the chair is absent or unable to act, or if the office of the chair is vacant, the vice-chair shall act as chair. 2018, c. 12, Sched. 3, s. 5 (1). Same (5) If the chair and vice-chair are absent, the members present shall appoint an acting chair from among themselves. 2018, c. 12, Sched. 3, s. 5 (1). Quorum (6) A majority of the members constitutes a quorum of the board of directors. 2018, c. 12, Sched. 3, s. 5 (1). Remuneration (7) The members of the board of directors shall receive the remuneration and reimbursement for reasonable expenses as the Lieutenant Governor in Council determines. 2018, c. 12, Sched. 3, s. 5 (1). Transition (8) The chair, vice-chair and members of the board of directors who are in office on the day before the Cannabis Statute Law Amendment Act, 2018 receives Royal Assent shall each continue in office as the chair, vice-chair and members of the board of directors until the earliest of the following: 1.  The date on which the member’s term of office expires. 2.  The date on which the member dies. 3.  The date on which the member resigns. 4.  The date on which the member is removed by the Lieutenant Governor in Council. 5.  The date on which the member becomes bankrupt or unable to act. 2018, c. 12, Sched. 3, s. 5 (1). Same (9) The following rules apply to each individual described in subsection (8): 1.  The individual is deemed to be a public servant for the purposes of Parts IV, V and VI of the Public Service of Ontario Act, 2006. 2.  Until such time as the Lieutenant Governor in Council determines remuneration and reimbursement under subsection (7), the individual shall continue to be paid at the rates of remuneration that are in effect for that individual on the day before the Cannabis Statute Law Amendment Act, 2018 receives Royal Assent. 3.  If the individual is also a member of the LCBO, the individual is deemed not to have a conflict of interest by virtue only of that fact. 2018, c. 12, Sched. 3, s. 5 (1). Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 5 (1) - 17/10/2018; 2018, c. 12, Sched. 3, s. 5 (2) - not in force 2020, c. 36, Sched. 32, s. 1 - 08/12/2020 10 Repealed: 2018, c. 12, Sched. 3, s. 6. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 6 - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK10\"></a><b>9 </b>(1) The board of directors shall consist of at least three and not more than nine members appointed by the Lieutenant Governor in Council. 2018, c. 12, Sched. 3, s. 5 (1); 2020, c. 36, Sched. 32, s. 1.</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, section 9 of the Act is amended by adding the following subsection: (See: 2018, c. 12, Sched. 3, s. 5 (2))</span></p> <p class=\"Yheadnote\"><span>Restriction, LCBO member</span></p> <p class=\"Ysubsection\"><span>(1.1) A member of the LCBO is not eligible to be appointed as a member of the Corporation’s board of directors. 2018, c. 12, Sched. 3, s. 5 (2).</span></p> <p class=\"headnote\">Chair </p> <p class=\"subsection\">(2) The Lieutenant Governor in Council shall designate a chair from among the members of the board of directors. 2018, c. 12, Sched. 3, s. 5 (1).</p> <p class=\"headnote\">Vice-chair</p> <p class=\"subsection\">(3) The Lieutenant Governor in Council may designate a vice-chair from among the members of the board of directors. 2018, c. 12, Sched. 3, s. 5 (1).</p> <p class=\"headnote\">Acting chair</p> <p class=\"subsection\">(4) If the chair is absent or unable to act, or if the office of the chair is vacant, the vice-chair shall act as chair. 2018, c. 12, Sched. 3, s. 5 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(5) If the chair and vice-chair are absent, the members present shall appoint an acting chair from among themselves. 2018, c. 12, Sched. 3, s. 5 (1).</p> <p class=\"headnote\">Quorum</p> <p class=\"subsection\">(6) A majority of the members constitutes a quorum of the board of directors. 2018, c. 12, Sched. 3, s. 5 (1).</p> <p class=\"headnote\">Remuneration</p> <p class=\"subsection\">(7) The members of the board of directors shall receive the remuneration and reimbursement for reasonable expenses as the Lieutenant Governor in Council determines. 2018, c. 12, Sched. 3, s. 5 (1).</p> <p class=\"headnote\">Transition</p> <p class=\"subsection\">(8) The chair, vice-chair and members of the board of directors who are in office on the day before the <i>Cannabis Statute Law Amendment Act, 2018 </i>receives Royal Assent shall each continue in office as the chair, vice-chair and members of the board of directors until the earliest of the following:</p> <p class=\"paragraph\">  1.  The date on which the member’s term of office expires.</p> <p class=\"paragraph\">  2.  The date on which the member dies.</p> <p class=\"paragraph\">  3.  The date on which the member resigns.</p> <p class=\"paragraph\">  4.  The date on which the member is removed by the Lieutenant Governor in Council.</p> <p class=\"paragraph\">  5.  The date on which the member becomes bankrupt or unable to act. 2018, c. 12, Sched. 3, s. 5 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(9) The following rules apply to each individual described in subsection (8):</p> <p class=\"paragraph\">  1.  The individual is deemed to be a public servant for the purposes of Parts IV, V and VI of the <i>Public Service of Ontario Act, 2006</i>. </p> <p class=\"paragraph\">  2.  Until such time as the Lieutenant Governor in Council determines remuneration and reimbursement under subsection (7), the individual shall continue to be paid at the rates of remuneration that are in effect for that individual on the day before the <i>Cannabis Statute Law Amendment Act, 2018 </i>receives Royal Assent.</p> <p class=\"paragraph\">  3.  If the individual is also a member of the LCBO, the individual is deemed not to have a conflict of interest by virtue only of that fact. 2018, c. 12, Sched. 3, s. 5 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s5s1\">2018, c. 12, Sched. 3, s. 5 (1)</a></span> - 17/10/2018; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s5s2\">2018, c. 12, Sched. 3, s. 5 (2)</a></span> - not in force</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20036#sched32s1\">2020, c. 36, Sched. 32, s. 1</a></span> - 08/12/2020</p> <p class=\"section\"><b>10 </b><span class=\"ovsmallcap\">Repealed</span>: 2018, c. 12, Sched. 3, s. 6.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s6\">2018, c. 12, Sched. 3, s. 6</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "11.",
+            "section_x": "By-laws",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "By-laws",
+            "content": "11 (1) The board of directors may by resolution make, amend or repeal any by-law governing its proceedings and generally for the conduct and management of the Corporation’s affairs. Financial by-laws (2) A by-law of the Corporation relating to borrowing, investing or managing financial risks does not take effect until it is approved by the Minister and, if the Minister is not the Minister of Finance, by the Minister of Finance. 2018, c. 12, Sched. 3, s. 7. (3), (4) Repealed: 2018, c. 12, Sched. 3, s. 7. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 7 - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>11 </b>(1) The board of directors may by resolution make, amend or repeal any by-law governing its proceedings and generally for the conduct and management of the Corporation’s affairs.</p> <p class=\"headnote\">Financial by-laws</p> <p class=\"subsection\">(2) A by-law of the Corporation relating to borrowing, investing or managing financial risks does not take effect until it is approved by the Minister and, if the Minister is not the Minister of Finance, by the Minister of Finance. 2018, c. 12, Sched. 3, s. 7.</p> <p class=\"subsection\">(3), (4) <span class=\"ovsmallcap\">Repealed</span>: 2018, c. 12, Sched. 3, s. 7.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s7\">2018, c. 12, Sched. 3, s. 7</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "12.",
+            "section_x": "President and chief executive officer",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "President and chief executive officer",
+            "content": "12 (1) The Corporation shall appoint an individual to serve as the Corporation’s president and chief executive officer. 2018, c. 12, Sched. 3, s. 8 (1). Transition (2) The individual who is the Corporation’s president and chief operating officer on the day before the Cannabis Statute Law Amendment Act, 2018 receives Royal Assent shall continue as the Corporation’s president and chief executive officer until the earliest of the following: 1.  The date on which the individual’s term of office expires. 2.  The date on which the individual dies. 3.  The date on which the individual resigns. 4.  The date on which the individual is removed by the Corporation. 2018, c. 12, Sched. 3, s. 8 (1). References to president and chief operating officer (3) A reference in any by-law or resolution of the Corporation or other prescribed documents to the Corporation’s president and chief operating officer is deemed to be a reference to the president and chief executive officer. 2018, c. 12, Sched. 3, s. 8 (1). Status as officer (4) The president and chief executive officer is an officer of the Corporation and not a member of its board of directors. 2017, c. 26, Sched. 2, s. 12 (4); 2018, c. 12, Sched. 3, s. 8 (2). Responsibilities (5) The president and chief executive officer is responsible for the operation of the Corporation, subject to the supervision and direction of the board of directors, and for such other functions as the board of directors may assign. 2017, c. 26, Sched. 2, s. 12 (5); 2018, c. 12, Sched. 3, s. 8 (2). Attend meetings (6) The president and chief executive officer may attend and participate at any meeting of the board of directors but shall not have a vote with respect to any matter to be decided at the meeting. 2017, c. 26, Sched. 2, s. 12 (6); 2018, c. 12, Sched. 3, s. 8 (2). Exception (7) Despite subsection (6), the board of directors may exclude the president and chief executive officer from attending any meeting if a matter to be discussed at the meeting involves the position, performance or functions and duties of the president and chief executive officer. 2017, c. 26, Sched. 2, s. 12 (7); 2018, c. 12, Sched. 3, s. 8 (2). Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 8 (1, 2) - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK12\"></a><b>12</b> (1) The Corporation shall appoint an individual to serve as the Corporation’s president and chief executive officer. 2018, c. 12, Sched. 3, s. 8 (1).</p> <p class=\"headnote\">Transition</p> <p class=\"subsection\">(2) The individual who is the Corporation’s president and chief operating officer on the day before the <i>Cannabis Statute Law Amendment Act, 2018 </i>receives Royal Assent shall continue as the Corporation’s president and chief executive officer until the earliest of the following:</p> <p class=\"paragraph\">  1.  The date on which the individual’s term of office expires.</p> <p class=\"paragraph\">  2.  The date on which the individual dies.</p> <p class=\"paragraph\">  3.  The date on which the individual resigns.</p> <p class=\"paragraph\">  4.  The date on which the individual is removed by the Corporation. 2018, c. 12, Sched. 3, s. 8 (1).</p> <p class=\"headnote\">References to president and chief operating officer</p> <p class=\"subsection\">(3) A reference in any by-law or resolution of the Corporation or other prescribed documents<i> </i>to the Corporation’s president and chief operating officer is deemed to be a reference to the president and chief executive officer. 2018, c. 12, Sched. 3, s. 8 (1).</p> <p class=\"headnote\">Status as officer</p> <p class=\"subsection\">(4) The president and chief executive officer is an officer of the Corporation and not a member of its board of directors. 2017, c. 26, Sched. 2, s. 12 (4); 2018, c. 12, Sched. 3, s. 8 (2).</p> <p class=\"headnote\">Responsibilities</p> <p class=\"subsection\">(5) The president and chief executive officer is responsible for the operation of the Corporation, subject to the supervision and direction of the board of directors, and for such other functions as the board of directors may assign. 2017, c. 26, Sched. 2, s. 12 (5); 2018, c. 12, Sched. 3, s. 8 (2).</p> <p class=\"headnote\">Attend meetings</p> <p class=\"subsection\">(6) The president and chief executive officer may attend and participate at any meeting of the board of directors but shall not have a vote with respect to any matter to be decided at the meeting. 2017, c. 26, Sched. 2, s. 12 (6); 2018, c. 12, Sched. 3, s. 8 (2).</p> <p class=\"headnote\">Exception</p> <p class=\"subsection\">(7) Despite subsection (6), the board of directors may exclude the president and chief executive officer from attending any meeting if a matter to be discussed at the meeting involves the position, performance or functions and duties of the president and chief executive officer. 2017, c. 26, Sched. 2, s. 12 (7); 2018, c. 12, Sched. 3, s. 8 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s8s1\">2018, c. 12, Sched. 3, s. 8 (1, 2)</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "13.",
+            "section_x": "Application of certain Acts",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Application of certain Acts",
+            "content": "13 (1) Sections 21 (contract prior to corporate existence) and 132 (conflict of interest), subsections 134 (1) and (3) (standards of care, etc., of directors, etc.), section 136 (indemnification) and any prescribed provisions of the Business Corporations Act apply, with necessary modifications and any prescribed modifications, to the Corporation and its directors and officers. 2017, c. 26, Sched. 2, s. 13 (1). Same (2) The Not-for-Profit Corporations Act, 2010 and the Corporations Information Act do not apply to the Corporation. 2017, c. 26, Sched. 2, s. 13 (2), 30. Section Amendments with date in force (d/m/y) 2017, c. 26, Sched. 2, s. 30 - 19/10/2021",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>13 </b>(1) Sections 21 (contract prior to corporate existence) and 132 (conflict of interest), subsections 134 (1) and (3) (standards of care, etc., of directors, etc.), section 136 (indemnification) and any prescribed provisions of the <i>Business Corporations Act</i> apply, with necessary modifications and any prescribed modifications, to the Corporation and its directors and officers. 2017, c. 26, Sched. 2, s. 13 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The <i>Not-for-Profit Corporations Act, 2010</i> and the <i>Corporations Information Act</i> do not apply to the Corporation. 2017, c. 26, Sched. 2, s. 13 (2), 30.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17026#sched2s30\">2017, c. 26, Sched. 2, s. 30</a></span> - 19/10/2021</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "14.",
+            "section_x": "Staff",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Staff",
+            "content": "14 (1) The Corporation may appoint such officers and employees and retain such assistance as is considered necessary and may, subject to the approval of the Lieutenant Governor in Council, establish job categories, salary ranges and conditions of employment. Approval by Minister (2) Despite subsection (1), job categories, salary ranges and conditions of employment of officers and employees appointed by the Corporation who are not members of a bargaining unit, as defined in the Labour Relations Act, 1995, must be approved by the Minister and not by the Lieutenant Governor in Council.",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>14 </b>(1) The Corporation may appoint such officers and employees and retain such assistance as is considered necessary and may, subject to the approval of the Lieutenant Governor in Council, establish job categories, salary ranges and conditions of employment.</p> <p class=\"headnote\">Approval by Minister</p> <p class=\"subsection\">(2) Despite subsection (1), job categories, salary ranges and conditions of employment of officers and employees appointed by the Corporation who are not members of a bargaining unit, as defined in the <i>Labour Relations Act, 1995</i>, must be approved by the Minister and not by the Lieutenant Governor in Council.</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "15.",
+            "section_x": "Agreements with LCBO",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Agreements with LCBO",
+            "content": "15 (1) For greater certainty, the Corporation may enter into written agreements with the LCBO providing that the LCBO, or any of its officers or employees, will provide services, advice, assistance, goods or other property to the Corporation. Personal information (2) The Corporation shall take reasonable measures to ensure that any personal information it collects and maintains in connection with its activities is not collected, used or disclosed by the LCBO except for the purpose of providing services under an agreement described in subsection (1) or as otherwise authorized by law. Same, information technology services (3) If an agreement described in subsection (1) relates to information technology services or the storing of information collected and maintained by the Corporation, the Corporation shall take reasonable measures to ensure that any of its information that includes personal information is maintained separately from any other information maintained by the LCBO. Limitation re personal information (4) The Corporation shall not, under an agreement described in subsection (1), give the LCBO access to personal information it collects and maintains unless such access is reasonably necessary for the LCBO to provide services under the agreement. Interpretation, “personal information” (5) In this section, “personal information” has the same meaning as in the Freedom of Information and Protection of Privacy Act. 16 Repealed: 2018, c. 12, Sched. 3, s. 9. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 9 - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK15\"></a><b>15 </b>(1) For greater certainty, the Corporation may enter into written agreements with the LCBO providing that the LCBO, or any of its officers or employees, will provide services, advice, assistance, goods or other property to the Corporation.</p> <p class=\"headnote\">Personal information</p> <p class=\"subsection\">(2) The Corporation shall take reasonable measures to ensure that any personal information it collects and maintains in connection with its activities is not collected, used or disclosed by the LCBO except for the purpose of providing services under an agreement described in subsection (1) or as otherwise authorized by law. </p> <p class=\"headnote\">Same, information technology services</p> <p class=\"subsection\">(3) If an agreement described in subsection (1) relates to information technology services or the storing of information collected and maintained by the Corporation, the Corporation shall take reasonable measures to ensure that any of its information that includes personal information is maintained separately from any other information maintained by the LCBO.</p> <p class=\"headnote\">Limitation re personal information</p> <p class=\"subsection\">(4) The Corporation shall not, under an agreement described in subsection (1), give the LCBO access to personal information it collects and maintains unless such access is reasonably necessary for the LCBO to provide services under the agreement.</p> <p class=\"headnote\">Interpretation, “personal information”</p> <p class=\"subsection\">(5) In this section,</p> <p class=\"definition\">“personal information” has the same meaning as in the <i>Freedom of Information and Protection of Privacy Act</i>.</p> <p class=\"section\"><b>16</b> <span class=\"ovsmallcap\">Repealed</span>: 2018, c. 12, Sched. 3, s. 9.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s9\">2018, c. 12, Sched. 3, s. 9</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "17.",
+            "section_x": "Immunity of employees and others",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Immunity of employees and others",
+            "content": "17 (1) No cause of action arises against, (a)  a director, officer or employee of the Corporation as a result of any act done in good faith in the performance or intended performance of his or her duties or any alleged neglect or default in the performance in good faith of his or her duties; (b)  the Crown, a minister of the Crown or an employee of the Crown as a result of any act or omission of a person who is not a minister of the Crown or a Crown employee, if the act or omission is related, directly or indirectly, to the Corporation’s affairs or to the administration of this Act; or (c)  the LCBO or a member, officer or employee of the LCBO as a result of any act or omission of a person who is not a member, officer or employee of the LCBO, if the act or omission is related, directly or indirectly, to the Corporation’s affairs or to the administration of this Act. No proceeding (2) No proceeding, including but not limited to a proceeding for a remedy in contract, restitution, tort or trust, shall be instituted against, (a)  a director, officer or employee of the Corporation by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in clause (1) (a); (b)  the Crown, a minister of the Crown or an employee of the Crown by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in clause (1) (b); or (c)  the LCBO or a member, officer or employee of the LCBO by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in clause (1) (c). Liability of Corporation preserved (3) Subsections (1) and (2) do not relieve the Corporation of any liability to which it would otherwise be subject. Financial Matters",
+            "raw_html": "<p class=\"section\"><a name=\"BK16\"></a><b>17 </b>(1) No cause of action arises against,</p> <p class=\"paragraph\">  (a)  a director, officer or employee of the Corporation as a result of any act done in good faith in the performance or intended performance of his or her duties or any alleged neglect or default in the performance in good faith of his or her duties;</p> <p class=\"paragraph\">  (b)  the Crown, a minister of the Crown or an employee of the Crown as a result of any act or omission of a person who is not a minister of the Crown or a Crown employee, if the act or omission is related, directly or indirectly, to the Corporation’s affairs or to the administration of this Act; or</p> <p class=\"paragraph\"><b> </b>(c)  the LCBO or a member, officer or employee of the LCBO as a result of any act or omission of a person who is not a member, officer or employee of the LCBO, if the act or omission is related, directly or indirectly, to the Corporation’s affairs or to the administration of this Act.</p> <p class=\"headnote\">No proceeding</p> <p class=\"subsection\">(2) No proceeding, including but not limited to a proceeding for a remedy in contract, restitution, tort or trust, shall be instituted against,</p> <p class=\"paragraph\"><b> </b>(a)  a director, officer or employee of the Corporation by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in clause (1) (a);</p> <p class=\"paragraph\">  (b)  the Crown, a minister of the Crown or an employee of the Crown by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in clause (1) (b); or</p> <p class=\"paragraph\">  (c)  the LCBO or a member, officer or employee of the LCBO by a person who has suffered any damages, injury or other loss based on or related to any cause of action described in clause (1) (c).</p> <p class=\"headnote\">Liability of Corporation preserved</p> <p class=\"subsection\">(3) Subsections (1) and (2) do not relieve the Corporation of any liability to which it would otherwise be subject.</p> <p class=\"heading1\"><a name=\"BK17\"></a>Financial Matters</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "Financial Matters",
+            "section_x": "Financial Matters",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "18.",
+            "section_x": "Revenues not part of Consolidated Revenue Fund",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Revenues not part of Consolidated Revenue Fund",
+            "content": "18 (1) Despite Part I of the Financial Administration Act, the revenue and assets of the Corporation do not form part of the Consolidated Revenue Fund. Same (2) The revenue of the Corporation shall be applied to carrying out its objects.",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>18 </b>(1) Despite Part I of the <i>Financial Administration Act</i>, the revenue and assets of the Corporation do not form part of the Consolidated Revenue Fund.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The revenue of the Corporation shall be applied to carrying out its objects.</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "19.",
+            "section_x": "Payments into Consolidated Revenue Fund",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Payments into Consolidated Revenue Fund",
+            "content": "19 (1) The Corporation’s net profits shall be determined and paid into the Consolidated Revenue Fund at such times and in such manner as the Lieutenant Governor in Council may direct. 2017, c. 26, Sched. 2, s. 19. Financial reports (2) The Corporation shall give the Minister and, if the Minister is not the Minister of Finance, the Minister of Finance, at the times required by the Minister of Finance, reports setting out the Corporation’s net profit and net profit forecasts and containing such additional financial information as the Minister of Finance may request. 2018, c. 12, Sched. 3, s. 10. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 10 - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>19 </b>(1) The Corporation’s net profits shall be determined and paid into the Consolidated Revenue Fund at such times and in such manner as the Lieutenant Governor in Council may direct. 2017, c. 26, Sched. 2, s. 19.</p> <p class=\"headnote\">Financial reports</p> <p class=\"subsection\">(2) The Corporation shall give the Minister and, if the Minister is not the Minister of Finance, the Minister of Finance, at the times required by the Minister of Finance, reports setting out the Corporation’s net profit and net profit forecasts and containing such additional financial information as the Minister of Finance may request. 2018, c. 12, Sched. 3, s. 10.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s10\">2018, c. 12, Sched. 3, s. 10</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "20.",
+            "section_x": "Unpaid judgments against the Corporation",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Unpaid judgments against the Corporation",
+            "content": "20 The Minister of Finance shall pay from the Consolidated Revenue Fund the amount of any judgment against the Corporation that remains unpaid after the Corporation has made reasonable efforts, including liquidating its assets, to pay the amount of the judgment.",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>20 </b>The Minister of Finance shall pay from the Consolidated Revenue Fund the amount of any judgment against the Corporation that remains unpaid after the Corporation has made reasonable efforts, including liquidating its assets, to pay the amount of the judgment.</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "21.",
+            "section_x": "Major capital expenditures",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Major capital expenditures",
+            "content": "21 (1) If the Corporation proposes to undertake a major capital expenditure, it shall borrow the necessary funds. Same (2) An expenditure is a major capital expenditure for the purposes of this section in either of the following circumstances: 1.  It satisfies the criteria prescribed by regulation. 2.  If the Minister notifies the Corporation in writing that the expenditure is a major capital expenditure for the purposes of this section.",
+            "raw_html": "<p class=\"section\"><a name=\"BK21\"></a><b>21 </b>(1) If the Corporation proposes to undertake a major capital expenditure, it shall borrow the necessary funds.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) An expenditure is a major capital expenditure for the purposes of this section in either of the following circumstances:</p> <p class=\"paragraph\">  1.  It satisfies the criteria prescribed by regulation.</p> <p class=\"paragraph\">  2.  If the Minister notifies the Corporation in writing that the expenditure is a major capital expenditure for the purposes of this section.</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "22.",
+            "section_x": "Loans, etc., to the Corporation",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Loans, etc., to the Corporation",
+            "content": "22 (1) The Lieutenant Governor in Council may, by order, authorize the Minister of Finance to purchase securities of, or make loans to, the Corporation in the amounts, at the times and on the terms determined by the Minister, subject to the maximum principal amount specified by the Lieutenant Governor in Council that may be purchased or advanced or that may be outstanding at any time. Same (2) The Minister of Finance may pay out of the Consolidated Revenue Fund any amount required for the purposes of subsection (1). Delegation of Minister’s authority (3) The Lieutenant Governor in Council may, by order, delegate all or part of the authority of the Minister of Finance under subsection (1) to a public servant who works in the Ministry of Finance, other than in the office of the Minister, or who works in the Ontario Financing Authority.",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>22 </b>(1) The Lieutenant Governor in Council may, by order, authorize the Minister of Finance to purchase securities of, or make loans to, the Corporation in the amounts, at the times and on the terms determined by the Minister, subject to the maximum principal amount specified by the Lieutenant Governor in Council that may be purchased or advanced or that may be outstanding at any time.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The Minister of Finance may pay out of the Consolidated Revenue Fund any amount required for the purposes of subsection (1).</p> <p class=\"headnote\">Delegation of Minister’s authority</p> <p class=\"subsection\">(3) The Lieutenant Governor in Council may, by order, delegate all or part of the authority of the Minister of Finance under subsection (1) to a public servant who works in the Ministry of Finance, other than in the office of the Minister, or who works in the Ontario Financing Authority.</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "23.",
+            "section_x": "Fiscal year",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Fiscal year",
+            "content": "23 The Corporation’s fiscal year begins on April 1 in each year and ends on March 31 in the following year.",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>23 </b>The Corporation’s fiscal year begins on April 1 in each year and ends on March 31 in the following year.</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "24.",
+            "section_x": "Audits",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Audits",
+            "content": "24 The accounts and financial transactions of the Corporation shall be audited annually by the Auditor General.",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>24 </b>The accounts and financial transactions of the Corporation shall be audited annually by the Auditor General.</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "25.",
+            "section_x": "Annual report",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Annual report",
+            "content": "25 (1) The Corporation shall prepare an annual report, provide it to the Minister and make it available to the public. 2018, c. 12, Sched. 3, s. 11. Same (2) The Corporation shall comply with such directives as may be issued by the Management Board of Cabinet with respect to, (a)  the form and content of the annual report; (b)  when to provide it to the Minister; and (c)  when and how to make it available to the public. 2018, c. 12, Sched. 3, s. 11. Same (3) The Corporation shall include such additional content in the annual report as the Minister may require. 2018, c. 12, Sched. 3, s. 11. Tabling of annual report (4) The Minister shall table the Corporation’s annual report in the Assembly and shall comply with such directives as may be issued by the Management Board of Cabinet with respect to when to table it. 2018, c. 12, Sched. 3, s. 11. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 11 - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>25 </b>(1) The Corporation shall prepare an annual report, provide it to the Minister and make it available to the public. 2018, c. 12, Sched. 3, s. 11.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The Corporation shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,</p> <p class=\"paragraph\">  (a)  the form and content of the annual report; </p> <p class=\"paragraph\">  (b)  when to provide it to the Minister; and</p> <p class=\"paragraph\">  (c)  when and how to make it available to the public. 2018, c. 12, Sched. 3, s. 11.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3) The Corporation shall include such additional content in the annual report as the Minister may require. 2018, c. 12, Sched. 3, s. 11.</p> <p class=\"headnote\">Tabling of annual report</p> <p class=\"subsection\">(4) The Minister shall table the Corporation’s annual report in the Assembly and shall comply with such directives as may be issued by the Management Board of Cabinet with respect to when to table it. 2018, c. 12, Sched. 3, s. 11.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s11\">2018, c. 12, Sched. 3, s. 11</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "26.",
+            "section_x": "Other reports",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Other reports",
+            "content": "26 The Corporation shall promptly give the Minister such other reports and information as the Minister may request. 2017, c. 26, Sched. 2, s. 26; 2018, c. 12, Sched. 3, s. 12; 2020, c. 36, Sched. 32, s. 2. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 12 - 17/10/2018 2020, c. 36, Sched. 32, s. 2 - 08/12/2020 Miscellaneous",
+            "raw_html": "<p class=\"section\"><a name=\"BK26\"></a><b>26 </b>The Corporation shall promptly give the Minister such other reports and information as the Minister may request. 2017, c. 26, Sched. 2, s. 26; 2018, c. 12, Sched. 3, s. 12; 2020, c. 36, Sched. 32, s. 2.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s12\">2018, c. 12, Sched. 3, s. 12</a></span> - 17/10/2018</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20036#sched32s2\">2020, c. 36, Sched. 32, s. 2</a></span> - 08/12/2020</p> <p class=\"heading1\"><a name=\"BK27\"></a>Miscellaneous</p>"
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "Miscellaneous",
+            "section_x": "Miscellaneous",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "27.",
+            "section_x": "Restrictions on corporate operations, applicable federal law",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Restrictions on corporate operations, applicable federal law",
+            "content": "27 The Corporation, (a)  shall not sell cannabis unless the cannabis has been produced by a person or entity that is authorized under the Cannabis Act (Canada) to produce cannabis for commercial purposes; (b)  shall not sell cannabis to an individual under 19 years of age; (c)  shall keep appropriate records, in accordance with the regulations, respecting its activities in relation to cannabis that it possesses; (d)  shall take adequate measures, in accordance with the regulations, to reduce the risk of cannabis it possesses being diverted to an illicit market or activity. 2017, c. 26, Sched. 2, s. 27; 2018, c. 12, Sched. 3, s. 13. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 13 (1, 2) - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK28\"></a><b>27 </b>The Corporation,</p> <p class=\"paragraph\">  (a)  shall not sell cannabis unless the cannabis has been produced by a person or entity that is authorized under the <i>Cannabis Act </i>(Canada) to produce cannabis for commercial purposes;</p> <p class=\"paragraph\">  (b)  shall not sell cannabis to an individual under 19 years of age;</p> <p class=\"paragraph\">  (c)  shall keep appropriate records, in accordance with the regulations, respecting its activities in relation to cannabis that it possesses;</p> <p class=\"paragraph\">  (d)  shall take adequate measures, in accordance with the regulations, to reduce the risk of cannabis it possesses being diverted to an illicit market or activity. 2017, c. 26, Sched. 2, s. 27; 2018, c. 12, Sched. 3, s. 13.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s13s1\">2018, c. 12, Sched. 3, s. 13 (1, 2)</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "27.1",
+            "section_x": "Compliance with Cannabis Licence Act, 2018",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Compliance with Cannabis Licence Act, 2018",
+            "content": "27.1 At the request of a person under section 45 of the Cannabis Licence Act, 2018, the Corporation shall provide the person with information respecting cannabis sold by the Corporation to a holder of a retail store authorization under that Act. 2018, c. 12, Sched. 2, s. 58 (3). Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 2, s. 58 (3) - 16/11/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>27.1 </b>At the request of a person under section 45 of the <i>Cannabis Licence Act, 2018</i>, the Corporation shall provide the person with information respecting cannabis sold by the Corporation to a holder of a retail store authorization under that Act. 2018, c. 12, Sched. 2, s. 58 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched2s58s3\">2018, c. 12, Sched. 2, s. 58 (3)</a></span> - 16/11/2018</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "28.",
+            "section_x": "Agreement with council of the band",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Agreement with council of the band",
+            "content": "28 (1) In this section and section 28.1, “council of the band” has the same meaning as in subsection 2 (1) of the Indian Act (Canada); (“conseil de la bande”) “Indian” has the same meaning as in subsection 2 (1) of the\r\nIndian Act (Canada); (“Indien”) “reserve” means a reserve as defined in subsection 2 (1) of the Indian Act (Canada) or an Indian settlement located on Crown land, the Indian inhabitants of which are treated by Indigenous and Northern Affairs Canada in the same manner as Indians residing on a reserve. (“réserve”) 2017, c. 26, Sched. 2, s. 28 (1); 2018, c. 12, Sched. 3, s. 14 (1); 2020, c. 36, Sched. 32, s. 3. Same (2) Subject to subsection (3) and to the approval of the Lieutenant Governor in Council, the Minister may, on behalf of the Crown, enter into arrangements and agreements with a council of the band with respect to cannabis that is sold and delivered to a purchaser on a reserve. 2018, c. 12, Sched. 3, s. 14 (2). Same, requirement for agreement with other ministers (3) The Minister may only enter into an arrangement or agreement jointly with, (a)  the Minister of Finance, if the Minister is not the Minister of Finance; (b)  the Minister responsible for the administration of the Cannabis Control Act, 2017; and (c)  the Minister responsible for the administration of the Cannabis Licence Act, 2018. 2018, c. 12, Sched. 3, s. 14 (2, 3). Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 14 (1) - 17/10/2018; 2018, c. 12, Sched. 3, s. 14 (2, 3) - 16/11/2018 2020, c. 36, Sched. 32, s. 3 - 08/12/2020",
+            "raw_html": "<p class=\"section\"><a name=\"BK30\"></a><b>28 </b>(1) In this section and section 28.1,</p> <p class=\"definition\">“council of the band” has the same meaning as in subsection 2 (1) of the <i>Indian Act</i> (Canada); (“conseil de la bande”)</p> <p class=\"definition\">“Indian” has the same meaning as in subsection 2 (1) of the\r\n<i>Indian Act</i> (Canada); (“Indien”)</p> <p class=\"definition\">“reserve” means a reserve as defined in subsection 2 (1) of the <i>Indian Act</i> (Canada) or an Indian settlement located on Crown land, the Indian inhabitants of which are treated by Indigenous and Northern Affairs Canada in the same manner as Indians residing on a reserve. (“réserve”) 2017, c. 26, Sched. 2, s. 28 (1); 2018, c. 12, Sched. 3, s. 14 (1); 2020, c. 36, Sched. 32, s. 3.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) Subject to subsection (3) and to the approval of the Lieutenant Governor in Council, the Minister may, on behalf of the Crown, enter into arrangements and agreements with a council of the band with respect to cannabis that is sold and delivered to a purchaser on a reserve. 2018, c. 12, Sched. 3, s. 14 (2).</p> <p class=\"headnote\">Same, requirement for agreement with other ministers</p> <p class=\"subsection\">(3) The Minister may only enter into an arrangement or agreement jointly with,</p> <p class=\"paragraph\">  (a)  the Minister of Finance, if the Minister is not the Minister of Finance;</p> <p class=\"paragraph\">  (b)  the Minister responsible for the administration of the <i>Cannabis Control Act, 2017</i>; and</p> <p class=\"paragraph\">  (c)  the Minister responsible for the administration of the <i>Cannabis Licence Act, 2018</i>. 2018, c. 12, Sched. 3, s. 14 (2, 3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s14s1\">2018, c. 12, Sched. 3, s. 14 (1)</a></span> - 17/10/2018; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s14s2\">2018, c. 12, Sched. 3, s. 14 (2, 3)</a></span> - 16/11/2018</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20036#sched32s3\">2020, c. 36, Sched. 32, s. 3</a></span> - 08/12/2020</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "28.1",
+            "section_x": "No delivery to reserve on request",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "No delivery to reserve on request",
+            "content": "28.1 (1) If the Corporation receives a copy of a resolution of the council of the band in respect of a reserve requesting that the Corporation not deliver cannabis and related products to the reserve, the Corporation shall make reasonable efforts to comply with the request in a timely manner. 2018, c. 12, Sched. 3, s. 15. Additional information (2) The council of the band shall provide such information as the Corporation may reasonably require to enable it to comply with the request. 2018, c. 12, Sched. 3, s. 15. Amended, rescinded resolution (3) If the Corporation receives a copy of a resolution of the council of a band in respect of a reserve amending or rescinding a request described in subsection (1), the Corporation shall make reasonable efforts to comply with the amended or rescinded request in a timely manner. 2018, c. 12, Sched. 3, s. 15. Publication (4) The Corporation shall publish on its website a list of the reserves to which the Corporation does not deliver cannabis and related products in accordance with this section, along with the dates of the relevant resolutions. 2018, c. 12, Sched. 3, s. 15. Exception, wholesale deliveries (5) Subsection (1) does not apply with respect to the Corporation delivering cannabis and related products to the holder of a retail store authorization under the Cannabis Licence Act, 2018 for the purpose of resale in a cannabis retail store within the meaning of that Act which is located on the reserve. 2018, c. 12, Sched. 3, s. 15. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 15 - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK31\"></a><b>28.1 </b>(1) If the Corporation receives a copy of a resolution of the council of the band in respect of a reserve requesting that the Corporation not deliver cannabis and related products to the reserve, the Corporation shall make reasonable efforts to comply with the request in a timely manner. 2018, c. 12, Sched. 3, s. 15.</p> <p class=\"headnote\">Additional information</p> <p class=\"subsection\">(2) The council of the band shall provide such information as the Corporation may reasonably require to enable it to comply with the request. 2018, c. 12, Sched. 3, s. 15.</p> <p class=\"headnote\">Amended, rescinded resolution</p> <p class=\"subsection\">(3) If the Corporation receives a copy of a resolution of the council of a band in respect of a reserve amending or rescinding a request described in subsection (1), the Corporation shall make reasonable efforts to comply with the amended or rescinded request in a timely manner. 2018, c. 12, Sched. 3, s. 15.</p> <p class=\"headnote\">Publication</p> <p class=\"subsection\">(4) The Corporation shall publish on its website a list of the reserves to which the Corporation does not deliver cannabis and related products in accordance with this section, along with the dates of the relevant resolutions. 2018, c. 12, Sched. 3, s. 15.</p> <p class=\"headnote\">Exception, wholesale deliveries</p> <p class=\"subsection\">(5) Subsection (1) does not apply with respect to the Corporation delivering cannabis and related products<i> </i>to the holder of a retail store authorization under the <i>Cannabis Licence Act, 2018 </i>for the purpose of resale in a cannabis retail store within the meaning of that Act which is located on the reserve. 2018, c. 12, Sched. 3, s. 15.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s15\">2018, c. 12, Sched. 3, s. 15</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "28.2",
+            "section_x": "Review",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Review",
+            "content": "28.2 Within two years after the day on which the Cannabis Statute Law Amendment Act, 2018 receives Royal Assent, the Minister shall initiate a review of any matters relating to the Corporation that the Minister considers advisable. 2018, c. 12, Sched. 3, s. 16. Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 3, s. 16 - 17/10/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK32\"></a><b>28.2 </b>Within two years after the day on which the <i>Cannabis Statute Law Amendment Act, 2018 </i>receives Royal Assent, the Minister shall initiate a review of any matters relating to the Corporation that the Minister considers advisable. 2018, c. 12, Sched. 3, s. 16.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s16\">2018, c. 12, Sched. 3, s. 16</a></span> - 17/10/2018</p>"
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "29.",
+            "section_x": "Regulations",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Regulations",
+            "content": "29 (1) The Lieutenant Governor in Council may make regulations, (a)  respecting anything that, under this Act, may or must be prescribed, done or provided for by regulation; (b)  governing the sale of cannabis and related products; (c)  respecting varieties, forms and types of cannabis and related products that may and may not be sold by the Corporation; (d)  providing for exceptions to the application of section 2, and making such exceptions subject to conditions; (e)  subject to subsection 5 (5), respecting the Corporation’s determination of prices at which it sells cannabis and related products; (f)  governing packaging to be used for containing cannabis and related products sold by the Corporation; (g)  governing information to be provided or disseminated by the Corporation and the manner of providing or disseminating it; (h)  governing records to be kept by the Corporation; (i)  requiring the Corporation to take measures to reduce the risk that cannabis under its control is diverted to an illicit market or activity, and prescribing those measures; (j)  governing such transitional matters as the Lieutenant Governor in Council considers necessary or advisable to facilitate the implementation of this Act or to respond to changes in applicable federal law. 2017, c. 26, Sched. 2, s. 29 (1); 2018, c. 12, Sched. 2, s. 58 (4); 2018, c. 12, Sched. 3, s. 17 (1-3); 2021, c. 34, Sched. 2, s. 14 (2). (2) Repealed: 2018, c. 12, Sched. 3, s. 17 (4). Section Amendments with date in force (d/m/y) 2018, c. 12, Sched. 2, s. 58 (4) - 16/11/2018; 2018, c. 12, Sched. 3, s. 17 (1-4) - 17/10/2018 2021, c. 34, Sched. 2, s. 14 (2) - 15/03/2022 30 Omitted (provides for amendments to this Act). 31 Omitted (amends, repeals or revokes other legislation). 32 Omitted (provides for coming into force of provisions of this Act). 33 Omitted (enacts short title of this Act). ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK33\"></a><b>29 </b>(1) The Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a)  respecting anything that, under this Act, may or must be prescribed, done or provided for by regulation;</p> <p class=\"paragraph\">  (b)  governing the sale of cannabis and related products;</p> <p class=\"paragraph\">  (c)  respecting varieties, forms and types of cannabis and related products that may and may not be sold by the Corporation;</p> <p class=\"paragraph\">  (d)  providing for exceptions to the application of section 2, and making such exceptions subject to conditions;</p> <p class=\"paragraph\">  (e)  subject to subsection 5 (5), respecting the Corporation’s determination of prices at which it sells cannabis and related products;</p> <p class=\"paragraph\">  (f)  governing packaging to be used for containing cannabis and related products sold by the Corporation;</p> <p class=\"paragraph\">  (g)  governing information to be provided or disseminated by the Corporation and the manner of providing or disseminating it;</p> <p class=\"paragraph\">  (h)  governing records to be kept by the Corporation;</p> <p class=\"paragraph\">  (i)  requiring the Corporation to take measures to reduce the risk that cannabis under its control is diverted to an illicit market or activity, and prescribing those measures;</p> <p class=\"paragraph\">  (j)  governing such transitional matters as the Lieutenant Governor in Council considers necessary or advisable to facilitate the implementation of this Act or to respond to changes in applicable federal law. 2017, c. 26, Sched. 2, s. 29 (1); 2018, c. 12, Sched. 2, s. 58 (4); 2018, c. 12, Sched. 3, s. 17 (1-3); 2021, c. 34, Sched. 2, s. 14 (2).</p> <p class=\"subsection\">(2) <span class=\"ovsmallcap\">Repealed</span>: 2018, c. 12, Sched. 3, s. 17 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched2s58s4\">2018, c. 12, Sched. 2, s. 58 (4)</a></span> - 16/11/2018; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched3s17s1\">2018, c. 12, Sched. 3, s. 17 (1-4)</a></span> - 17/10/2018</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S21034#sched2s14s2\">2021, c. 34, Sched. 2, s. 14 (2)</a></span> - 15/03/2022</p> <p class=\"Psection\">30 <span class=\"ovsmallcap\"><span>Omitted (provides for amendments to this Act).</span></span></p> <p class=\"Psection\">31 <span class=\"ovsmallcap\"><span>Omitted (amends, repeals or revokes other legislation).</span></span></p> <p class=\"Psection\">32 <span class=\"ovsmallcap\"><span>Omitted</span></span><span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Act</span>).</span></p> <p class=\"section\"><b>33</b> <span class=\"ovsmallcap\">Omitted (enacts short title of this Act).</span></p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/17o26\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

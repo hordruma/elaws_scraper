@@ -1,0 +1,55 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 425/04: IESO BOARD OF DIRECTORS",
+        "reg_name_text": "IESO Board of Directors",
+        "citation": "O. Reg. 425/04: IESO BOARD OF DIRECTORS",
+        "act_under": "Electricity Act, 1998   Loi de 1998 sur l’électricité",
+        "url": "https://www.ontario.ca/laws/regulation/040425",
+        "date_scraped": "2023-12-19 04:12:59"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/040425/v3",
+            "valid_from": "December 16, 2014",
+            "valid_to": "December 31, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/040425/v2",
+            "valid_from": "February  5, 2005",
+            "valid_to": "December 15, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/040425/v1",
+            "valid_from": "December 20, 2004",
+            "valid_to": "February  4, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Prohibited class",
+            "content": " 1. A person who has a material interest in a market participant is a member of a class who may not hold office as a director of the IESO.  O. Reg. 425/04, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>A person who has a material interest in a market participant is a member of a class who may not hold office as a director of the IESO.  O. Reg. 425/04, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Prohibited class",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 425/04, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).  O. Reg. 425/04, s. 2.</p>"
+        },
+        {
+            "id": null,
+            "section": "Prohibited class",
+            "content": "    ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

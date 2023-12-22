@@ -1,0 +1,46 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 66/20: INFECTIOUS DISEASE EMERGENCY LEAVE",
+        "reg_name_text": "INFECTIOUS DISEASE EMERGENCY LEAVE",
+        "citation": "O. Reg. 66/20: ",
+        "act_under": "Employment Standards Act, 2000",
+        "url": "https://www.ontario.ca/laws/regulation/200066",
+        "date_scraped": "2023-12-18 20:30:53"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/200066/v1",
+            "valid_from": "March 19, 2020",
+            "valid_to": "May 28, 2020"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Designated diseases",
+            "content": " 1. For the purposes of section 50.1 of the Act, the following diseases are designated as infectious diseases: 1. Diseases caused by a novel coronavirus, including Severe Acute Respiratory Syndrome (SARS), Middle East Respiratory Syndrome (MERS) and Coronavirus (COVID-19).",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>For the purposes of section 50.1 of the Act, the following diseases are designated as infectious diseases:</p> <p class=\"paragraph-e\">  1. Diseases caused by a novel coronavirus, including Severe Acute Respiratory Syndrome (SARS), Middle East Respiratory Syndrome (MERS) and Coronavirus (COVID-19).</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Entitlement start date",
+            "content": " 2. Entitlement to emergency leave under clause 50.1 (1.1) (b) of the Act because of a reason related to Coronavirus (COVID-19) is deemed to have started on January 25, 2020.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>Entitlement to emergency leave under clause 50.1 (1.1) (b) of the Act because of a reason related to Coronavirus (COVID-19) is deemed to have started on January 25, 2020.</p>"
+        },
+        {
+            "id": "Sig",
+            "section": "Entitlement start date",
+            "content": " 3. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>3.<a name=\"Sig\"></a> </b><span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Entitlement start date",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/200066\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

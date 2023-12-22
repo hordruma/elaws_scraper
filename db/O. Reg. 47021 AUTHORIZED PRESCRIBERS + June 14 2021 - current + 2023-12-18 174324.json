@@ -1,0 +1,40 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 470/21: AUTHORIZED PRESCRIBERS",
+        "reg_name_text": "AUTHORIZED PRESCRIBERS",
+        "citation": "O. Reg. 470/21: ",
+        "act_under": "Ontario Drug Benefit Act",
+        "url": "https://www.ontario.ca/laws/regulation/210470",
+        "date_scraped": "2023-12-18 17:43:25"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "June 14, 2021",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Authorized prescribers",
+            "content": "  1. A physician or nurse who is authorized under the laws of Manitoba or Quebec to give a prescription within the scope of their practice is prescribed as an authorized prescriber for the purposes of section 16 of the Act.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>A physician or nurse who is authorized under the laws of Manitoba or Quebec to give a prescription within the scope of their practice is prescribed as an authorized prescriber for the purposes of section 16 of the Act.</p>"
+        },
+        {
+            "id": "2",
+            "section": "Authorized prescribers",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>2</b><b>.</b><b> </b><span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Authorized prescribers",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/210470\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

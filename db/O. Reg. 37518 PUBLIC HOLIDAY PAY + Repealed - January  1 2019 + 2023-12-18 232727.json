@@ -1,0 +1,55 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 375/18: PUBLIC HOLIDAY PAY",
+        "reg_name_text": "PUBLIC HOLIDAY PAY",
+        "citation": "O. Reg. 375/18: ",
+        "act_under": "Employment Standards Act, 2000",
+        "url": "https://www.ontario.ca/laws/regulation/180375",
+        "date_scraped": "2023-12-18 23:27:28"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/180375/v3",
+            "valid_from": "November 21, 2018",
+            "valid_to": "December 31, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/180375/v2",
+            "valid_from": "July  1, 2018",
+            "valid_to": "November 20, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/180375/v1",
+            "valid_from": "May  7, 2018",
+            "valid_to": "June 30, 2018"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Public holiday pay",
+            "content": "  1. The following manner of calculation is prescribed for the purpose of determining public holiday pay for an employee under clause 24 (1) (b) of the Act: 1. The employee’s public holiday pay for a given public holiday shall be equal to the total amount of regular wages earned and vacation pay payable to the employee in the four work weeks before the work week in which the public holiday occurred, divided by 20.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>The following manner of calculation is prescribed for the purpose of determining public holiday pay for an employee under clause 24 (1) (b) of the Act:</p> <p class=\"paragraph-e\">  1. The employee’s public holiday pay for a given public holiday shall be equal to the total amount of regular wages earned and vacation pay payable to the employee in the four work weeks before the work week in which the public holiday occurred, divided by 20.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Revocation",
+            "content": " 3. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>3.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Revocation",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/180375\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

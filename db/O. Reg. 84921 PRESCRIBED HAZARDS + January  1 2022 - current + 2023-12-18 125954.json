@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 849/21: PRESCRIBED HAZARDS",
+        "reg_name_text": "PRESCRIBED HAZARDS",
+        "citation": "O. Reg. 849/21: ",
+        "act_under": "Animal Health Act, 2009",
+        "url": "https://www.ontario.ca/laws/regulation/210849",
+        "date_scraped": "2023-12-18 12:59:55"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "January  1, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/210849/v1",
+            "valid_from": "December 13, 2021",
+            "valid_to": "December 31, 2021"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Surplus livestock, poultry",
+            "content": "  1. For the purposes of clause (c) of the definition of “hazard” in section 2 of the Act, any surplus of livestock or poultry in the Province is prescribed as a hazard if, (a) the surplus is caused by restrictions on the movement of the livestock, poultry or related animal products within Ontario or across interprovincial or international borders; and (b) the restrictions referred to in clause (a) were imposed due to concerns about a disease or a biological, chemical, physical or radiological agent or factor.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>For the purposes of clause (c) of the definition of “hazard” in section 2 of the Act, any surplus of livestock or poultry in the Province is prescribed as a hazard if,</p> <p class=\"clause-e\">  (a) the surplus is caused by restrictions on the movement of the livestock, poultry or related animal products within Ontario or across interprovincial or international borders; and</p> <p class=\"clause-e\">  (b) the restrictions referred to in clause (a) were imposed due to concerns about a disease or a biological, chemical, physical or radiological agent or factor.</p>"
+        },
+        {
+            "id": "Sig",
+            "section": "Surplus livestock, poultry",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b><span class=\"ovsmallcap\">Omitted (provides for coming into force of provisions of this Regulation)</span>.<a name=\"Sig\"></a></p>"
+        },
+        {
+            "id": null,
+            "section": "Surplus livestock, poultry",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/210849\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

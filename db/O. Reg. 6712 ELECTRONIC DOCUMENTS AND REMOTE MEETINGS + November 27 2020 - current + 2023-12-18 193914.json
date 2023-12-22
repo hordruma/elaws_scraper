@@ -1,0 +1,80 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 67/12: ELECTRONIC DOCUMENTS AND REMOTE MEETINGS",
+        "reg_name_text": "Electronic Documents and Remote MEETINGS",
+        "citation": "O. Reg. 67/12: ELECTRONIC DOCUMENTS AND REMOTE MEETINGS",
+        "act_under": "Provincial Offences Act",
+        "url": "https://www.ontario.ca/laws/regulation/120067",
+        "date_scraped": "2023-12-18 19:39:16"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November 27, 2020",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/120067/v2",
+            "valid_from": "March 19, 2020",
+            "valid_to": "November 26, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/120067/v1",
+            "valid_from": "May  3, 2012",
+            "valid_to": "March 18, 2020"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definitions",
+            "content": " 1. In this Regulation,  “electronic” and “electronically” have the meanings set out in the Electronic Commerce Act, 2000;\n(“électronique”, “par voie électronique”) “electronic signature” has the meaning set out in the Electronic Commerce Act, 2000.  (“signature électronique”)  O. Reg. 67/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Regulation, </p> <p class=\"firstdef-e\">“electronic” and “electronically” have the meanings set out in the <i>Electronic Commerce Act, 2000</i>;<i>\n</i>(“électronique”, “par voie électronique”)</p> <p class=\"definition-e\">“electronic signature” has the meaning set out in the <i>Electronic Commerce Act, 2000</i>.  (“signature électronique”)  O. Reg. 67/12, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Electronic signing",
+            "content": " 2. For the purposes of subsection 76.1 (1) of the Act, a document may be signed or endorsed by electronic means if the method of signing results in an electronic signature being in, attached to or associated with the document.  O. Reg. 67/12, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>For the purposes of subsection 76.1 (1) of the Act, a document may be signed or endorsed by electronic means if the method of signing results in an electronic signature being in, attached to or associated with the document.  O. Reg. 67/12, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Electronic filing ",
+            "content": " 3. (1) For the purposes of subsection 76.1 (1) of the Act, a document may be filed with a court office by direct electronic transmission if,  (a)  the document or the data or information in, attached to or associated with the document is sent to the court office electronically or on a computer-readable medium; (b)  the court office has indicated that the method of sending and the technical specifications of the document are acceptable to it; and (c)  the document or the data or information in, attached to or associated with the document indicates, (i)  the name of the document, (ii)  the form number and version date, if the document is a form, (iii)  the defendant’s name, (iv)  for a document relating to a proceeding commenced under Part I or II of the Act, (A)  if a court file number has not been assigned, the offence number and court location code, or (B)  if a court file number has been assigned, either the court file number or the offence number and court location code, (v)  for a document relating to a proceeding commenced under Part III of the Act, the court file number, if one has been assigned.  O. Reg. 67/12, s. 3 (1). (2) If a document is filed with a court office in accordance with subsection (1), the clerk of the court office shall ensure that an acknowledgment of receipt is sent to the filer indicating the date of receipt of the document.  O. Reg. 67/12, s. 3 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) For the purposes of subsection 76.1 (1) of the Act, a<b> </b>document may be filed with a court office by direct electronic transmission if, </p> <p class=\"clause-e\">  (a)  the document or the data or information in, attached to or associated with the document is sent to the court office electronically or on a computer-readable medium;</p> <p class=\"clause-e\">  (b)  the court office has indicated that the method of sending and the technical specifications of the document are acceptable to it; and </p> <p class=\"clause-e\">  (c)  the document or the data or information in, attached to or associated with the document indicates,</p> <p class=\"subclause-e\">  (i)  the name of the document,</p> <p class=\"subclause-e\">  (ii)  the form number and version date, if the document is a form,</p> <p class=\"subclause-e\">  (iii)  the defendant’s name,</p> <p class=\"subclause-e\">  (iv)  for a document relating to a proceeding commenced under Part I or II of the Act,</p> <p class=\"subsubclause-e\">  (A)  if a court file number has not been assigned, the offence number and court location code, or</p> <p class=\"subsubclause-e\">  (B)  if a court file number has been assigned, either the court file number or the offence number and court location code,</p> <p class=\"subclause-e\">  (v)  for a document relating to a proceeding commenced under Part III of the Act, the court file number, if one has been assigned.  O. Reg. 67/12, s. 3 (1).</p> <p class=\"subsection-e\">  (2) If a document is filed with a court office in accordance with subsection (1), the clerk of the court office shall ensure that an acknowledgment of receipt is sent to the filer indicating the date of receipt of the document.  O. Reg. 67/12, s. 3 (2).</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Electronic delivery",
+            "content": " 4. For the purposes of section 87 of the Act, a notice or document is sufficiently given or delivered by an electronic method if, (a)  the notice or document or the data or information in, attached to or associated with the notice or document is sent to the recipient electronically or on a computer-readable medium; (b)  the recipient has indicated that the method of sending and the technical specifications of the document are acceptable to it; and (c)  the document or the data or information in, attached to or associated with the document indicates, (i)  the name of the document, (ii)  the form number and version date, if the document is a form, (iii)  the defendant’s name, (iv)  for a document relating to a proceeding commenced under Part I or II of the Act, (A)  if a court file number has not been assigned, the offence number and court location code, or (B)  if a court file number has been assigned, either the court file number or the offence number and court location code, (v)  for a document relating to a proceeding commenced under Part III of the Act, the court file number, if one has been assigned.  O. Reg. 67/12, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>For the purposes of section 87 of the Act, a notice or document is sufficiently given or delivered by an electronic method if,</p> <p class=\"clause-e\">  (a)  the notice or document or the data or information in, attached to or associated with the notice or document is sent to the recipient electronically or on a computer-readable medium;</p> <p class=\"clause-e\">  (b)  the recipient has indicated that the method of sending and the technical specifications of the document are acceptable to it; and </p> <p class=\"clause-e\">  (c)  the document or the data or information in, attached to or associated with the document indicates,</p> <p class=\"subclause-e\">  (i)  the name of the document,</p> <p class=\"subclause-e\">  (ii)  the form number and version date, if the document is a form,</p> <p class=\"subclause-e\">  (iii)  the defendant’s name,</p> <p class=\"subclause-e\">  (iv)  for a document relating to a proceeding commenced under Part I or II of the Act,</p> <p class=\"subsubclause-e\">  (A)  if a court file number has not been assigned, the offence number and court location code, or</p> <p class=\"subsubclause-e\">  (B)  if a court file number has been assigned, either the court file number or the offence number and court location code,</p> <p class=\"subclause-e\">  (v)  for a document relating to a proceeding commenced under Part III of the Act, the court file number, if one has been assigned.  O. Reg. 67/12, s. 4.</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Timing of filing or delivery",
+            "content": " 5. A document that is filed or delivered electronically is deemed to be filed or delivered on the day the document is available to be retrieved and processed by the recipient, even if the recipient is not able, for his or her own technical or other reasons, to retrieve and process it on that day.  O. Reg. 67/12, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>A document that is filed or delivered electronically is deemed to be filed or delivered on the day the document is available to be retrieved and processed by the recipient, even if the recipient is not able, for his or her own technical or other reasons, to retrieve and process it on that day.  O. Reg. 67/12, s. 5.</p>"
+        },
+        {
+            "id": "6.",
+            "section": "Use and retention of electronic documents",
+            "content": " 6. (1) For every document that is filed under section 3 of this Regulation or retained under subsection 76.1 (1.1) of the Act, a record shall be made of the document such that it is possible to view and print a copy of, (a)  the document, if any, as it looked when it was received from the sender; and (b)  the data and information, if any, in, attached to or associated with the document, as it was when it was received from the sender.  O. Reg. 67/12, s. 6 (1). (2) A document filed under section 3 of this Regulation or retained under subsection 76.1 (1.1) of the Act, or an electronic court record that includes the document, may be altered if, (a)  a permanent archive is maintained that specifies the alteration and identifies when and by whom it was made; (b)  the alteration would be required or authorized to be done to the equivalent paper court record or is otherwise authorized by law; and (c)  the record of the document or of the data or information in, attached to or associated with the document, made in accordance with subsection (1), is not altered.  O. Reg. 67/12, s. 6 (2). (3) A printed copy of a document filed under section 3 of this Regulation or retained under subsection 76.1 (1.1) of the Act that is used for the purpose of disposing of a charge under the Act shall be deemed under subsection 76.1 (2) of the Act to have been filed as the original document if the printed copy is the only copy printed for the purpose and has marks on it indicating the time and date that it was printed and that it is the original document.  O. Reg. 67/12, s. 6 (3). (4) A justice of the peace, judge of the Ontario Court of Justice, judge of the Superior Court of Justice or any other judge may complete and sign by electronic means any electronic document so as to indicate the disposition of the proceeding or reflect an order that was made relating to a step in a proceeding.  O. Reg. 67/12, s. 6 (4). (5) The period of time for which a document is to be retained is not affected by whether the document is filed or maintained in an electronic format.  O. Reg. 67/12, s. 6 (5).",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) For every document that is filed under section 3 of this Regulation or retained under subsection 76.1 (1.1) of the Act, a record shall be made of the document such that it is possible to view and print a copy of,</p> <p class=\"clause-e\">  (a)  the document, if any, as it looked when it was received from the sender; and</p> <p class=\"clause-e\">  (b)  the data and information, if any, in, attached to or associated with the document, as it was when it was received from the sender.  O. Reg. 67/12, s. 6 (1).</p> <p class=\"subsection-e\">  (2) A document filed under section 3 of this Regulation or retained under subsection 76.1 (1.1) of the Act, or an electronic court record that includes the document, may be altered if,</p> <p class=\"clause-e\">  (a)  a permanent archive is maintained that specifies the alteration and identifies when and by whom it was made;</p> <p class=\"clause-e\">  (b)  the alteration would be required or authorized to be done to the equivalent paper court record or is otherwise authorized by law; and</p> <p class=\"clause-e\">  (c)  the record of the document or of the data or information in, attached to or associated with the document, made in accordance with subsection (1), is not altered.  O. Reg. 67/12, s. 6 (2).</p> <p class=\"subsection-e\">  (3) A printed copy of a document filed under section 3 of this Regulation or retained under subsection 76.1 (1.1) of the Act that is used for the purpose of disposing of a charge under the Act shall be deemed under subsection 76.1 (2) of the Act to have been filed as the original document if the printed copy is the only copy printed for the purpose and has marks on it indicating the time and date that it was printed and that it is the original document.  O. Reg. 67/12, s. 6 (3).</p> <p class=\"subsection-e\">  (4) A justice of the peace, judge of the Ontario Court of Justice, judge of the Superior Court of Justice or any other judge may complete and sign by electronic means any electronic document so as to indicate the disposition of the proceeding or reflect an order that was made relating to a step in a proceeding.  O. Reg. 67/12, s. 6 (4).</p> <p class=\"subsection-e\">  (5) The period of time for which a document is to be retained is not affected by whether the document is filed or maintained in an electronic format.  O. Reg. 67/12, s. 6 (5).</p>"
+        },
+        {
+            "id": "7-10",
+            "section": "Use and retention of electronic documents",
+            "content": " 7-10 Revoked: O. Reg. 673/20, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>7-10</b> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 673/20, s. 1.</p>"
+        },
+        {
+            "id": null,
+            "section": "Use and retention of electronic documents",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/120067\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "act_info": {
+        "full_title": "Lung Health Act, 2017, S.O. 2017, c. 28",
+        "act_name_text": "Lung Health Act, 2017",
+        "citation": "S.O. 2017, c. 28",
+        "url": "https://www.ontario.ca/laws/statute/17l28",
+        "date_scraped": "2023-12-18 22:35:51"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/statute/17l28/v3",
+            "valid_from": "April 18, 2019",
+            "valid_to": "December  1, 2019"
+        },
+        {
+            "a_href": "/laws/statute/17l28/v2",
+            "valid_from": "June 14, 2018",
+            "valid_to": "April 17, 2019"
+        },
+        {
+            "a_href": "/laws/statute/17l28/v1",
+            "valid_from": "December 14, 2017",
+            "valid_to": "June 13, 2018"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1",
+            "section": "Definitions",
+            "content": "1 In this Act, “Council” means the Lung Health Advisory Council established under section 2; (“Conseil”) “Minister” means the Minister of Health and Long-Term Care or any other member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act; (“ministre”) “Ministry” means the ministry of the Minister. (“ministère”)",
+            "raw_html": "<p class=\"section\"><b>1 </b>In this Act,</p> <p class=\"definition\">“Council” means the Lung Health Advisory Council established under section 2; (“Conseil”)</p> <p class=\"definition\">“Minister” means the Minister of Health and Long-Term Care or any other member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the <i>Executive Council Act</i>; (“ministre”)</p> <p class=\"definition\">“Ministry” means the ministry of the Minister. (“ministère”)</p>"
+        },
+        {
+            "id": "2",
+            "section": "Lung Health Advisory Council",
+            "content": "2 A council to be known in English as the “Lung Health Advisory Council” and in French as “Conseil consultatif de la maladie pulmonaire” is established.",
+            "raw_html": "<p class=\"section\"><b>2 </b>A council to be known in English as the “Lung Health Advisory Council” and in French as “Conseil consultatif de la maladie pulmonaire” is established.</p>"
+        },
+        {
+            "id": "3",
+            "section": "Composition of the Council",
+            "content": "3 (1) The Council shall be composed of up to 20 members appointed under subsections (2), (3) and (4). Lieutenant Governor in Council appointment (2) The Lieutenant Governor in Council shall appoint the Minister or a Deputy Minister, Assistant Deputy Minister or Director of the Ministry as a member of the Council. Same (3) The Lieutenant Governor in Council shall appoint up to 18 other members of the Council, including at least one representative of each of the following: 1. Persons with lung disease. 2. Informal caregivers of persons with lung disease. 3. Respirologists, other physicians who specialize in lung health or family physicians. 4. Respiratory therapists. 5. Registered nurses with lung health expertise. 6. Other professionals with expertise in the prevention or treatment of lung disease, such as pharmacists, physiotherapists or public health workers. 7. Researchers in the field of lung health. 8. Non-profit organizations with an interest in lung health. Ontario Lung Association appointment (4) The Ontario Lung Association shall, by resolution, appoint one member of the Council. Term (5) The members shall be appointed for a term of two years and are eligible for reappointment. Co-chairs of the Council (6) The member appointed under subsection (2) and the member appointed under subsection (4) shall be the co-chairs of the Council.",
+            "raw_html": "<p class=\"section\"><b>3 </b>(1) The Council shall be composed of up to 20 members appointed under subsections (2), (3) and (4).</p> <p class=\"headnote\">Lieutenant Governor in Council appointment</p> <p class=\"subsection\">(2) The Lieutenant Governor in Council shall appoint the Minister or a Deputy Minister, Assistant Deputy Minister or Director of the Ministry as a member of the Council.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3) The Lieutenant Governor in Council shall appoint up to 18 other members of the Council, including at least one representative of each of the following:</p> <p class=\"paragraph\">  1. Persons with lung disease.</p> <p class=\"paragraph\">  2. Informal caregivers of persons with lung disease.</p> <p class=\"paragraph\">  3. Respirologists, other physicians who specialize in lung health or family physicians.</p> <p class=\"paragraph\">  4. Respiratory therapists.</p> <p class=\"paragraph\">  5. Registered nurses with lung health expertise.</p> <p class=\"paragraph\">  6. Other professionals with expertise in the prevention or treatment of lung disease, such as pharmacists, physiotherapists or public health workers.</p> <p class=\"paragraph\">  7. Researchers in the field of lung health.</p> <p class=\"paragraph\">  8. Non-profit organizations with an interest in lung health.</p> <p class=\"headnote\">Ontario Lung Association appointment</p> <p class=\"subsection\">(4) The Ontario Lung Association shall, by resolution, appoint one member of the Council.</p> <p class=\"headnote\">Term</p> <p class=\"subsection\">(5) The members shall be appointed for a term of two years and are eligible for reappointment.</p> <p class=\"headnote\">Co-chairs of the Council</p> <p class=\"subsection\">(6) The member appointed under subsection (2) and the member appointed under subsection (4) shall be the co-chairs of the Council.</p>"
+        },
+        {
+            "id": "4",
+            "section": "Recommendations",
+            "content": "4 (1) The Council may make recommendations to the Minister in respect of the following: 1. Promoting the lung health of Ontarians. 2. Preventing lung disease. 3. Increasing early detection of lung disease and treatment interventions. 4. Ensuring fair and equitable patient access to proven and effective evidence-based supports needed to manage lung disease. 5. Disseminating best practices to improve the prevention, diagnosis and treatment of lung disease. 6. Accelerating investments in all areas of lung health research. 7. Research, diagnosis and treatment of lung disease. 8. Increasing public awareness to overcome the stigma related to lung disease. 9. Any other matter that the Minister requests. Annual report (2) The Council shall submit an annual report to the Minister containing recommendations on the matters listed in subsection (1).",
+            "raw_html": "<p class=\"section\"><b>4 </b>(1) The Council may make recommendations to the Minister in respect of the following:</p> <p class=\"paragraph\">  1. Promoting the lung health of Ontarians.</p> <p class=\"paragraph\">  2. Preventing lung disease.</p> <p class=\"paragraph\">  3. Increasing early detection of lung disease and treatment interventions.</p> <p class=\"paragraph\">  4. Ensuring fair and equitable patient access to proven and effective evidence-based supports needed to manage lung disease.</p> <p class=\"paragraph\">  5. Disseminating best practices to improve the prevention, diagnosis and treatment of lung disease.</p> <p class=\"paragraph\">  6. Accelerating investments in all areas of lung health research.</p> <p class=\"paragraph\">  7. Research, diagnosis and treatment of lung disease.</p> <p class=\"paragraph\">  8. Increasing public awareness to overcome the stigma related to lung disease.</p> <p class=\"paragraph\">  9. Any other matter that the Minister requests.</p> <p class=\"headnote\">Annual report</p> <p class=\"subsection\">(2) The Council shall submit an annual report to the Minister containing recommendations on the matters listed in subsection (1).</p>"
+        },
+        {
+            "id": "5",
+            "section": "Minister’s actions",
+            "content": "5 (1) The Minister shall, to the extent he or she considers it reasonable and appropriate to do so, (a) increase awareness of lung disease and its related risk factors; (b) develop partnerships across health-care sectors to provide greater integration of care and increased use of chronic disease prevention and management; (c) facilitate the creation of training and professional development opportunities for health-care providers in the detection, diagnosis, treatment and prevention of lung disease; (d) improve access to early diagnosis, treatment, rehabilitation and health maintenance services for persons with lung disease; and (e) improve access to community and home support services for persons with lung disease and their informal caregivers. Annual report (2) In every year, the Minister shall prepare an annual report regarding the progress made under subsection (1) and make it publicly available.",
+            "raw_html": "<p class=\"section\"><b>5 </b>(1) The Minister shall, to the extent he or she considers it reasonable and appropriate to do so,</p> <p class=\"paragraph\">  (a) increase awareness of lung disease and its related risk factors;</p> <p class=\"paragraph\">  (b) develop partnerships across health-care sectors to provide greater integration of care and increased use of chronic disease prevention and management;</p> <p class=\"paragraph\">  (c) facilitate the creation of training and professional development opportunities for health-care providers in the detection, diagnosis, treatment and prevention of lung disease;</p> <p class=\"paragraph\">  (d) improve access to early diagnosis, treatment, rehabilitation and health maintenance services for persons with lung disease; and</p> <p class=\"paragraph\">  (e) improve access to community and home support services for persons with lung disease and their informal caregivers.</p> <p class=\"headnote\">Annual report</p> <p class=\"subsection\">(2) In every year, the Minister shall prepare an annual report regarding the progress made under subsection (1) and make it publicly available.</p>"
+        },
+        {
+            "id": "6",
+            "section": "Ontario Lung Health Action Plan",
+            "content": "6 (1) The Minister shall develop and implement an Ontario Lung Health Action Plan respecting research, prevention, diagnosis and treatment of lung disease, taking into consideration, (a) the recommendations set out in the annual report of the Council; (b) any other recommendations made by the Council; (c) the annual report prepared by the Minister under subsection 5 (2); and (d) the annual report on the state of the health system in Ontario made by the Ontario Health Quality Council. Interim report (2) The Minister shall publish a report within two years after this Act comes into force respecting the Minister’s progress in developing the Ontario Lung Health Action Plan. Report on action plan (3) The Minister shall publish a report within three years after the day this Act comes into force that sets out the Ontario Lung Health Action Plan and the steps that the Minister intends to take to implement the Ontario Lung Health Action Plan.",
+            "raw_html": "<p class=\"section\"><b>6 </b>(1) The Minister shall develop and implement an Ontario Lung Health Action Plan respecting research, prevention, diagnosis and treatment of lung disease, taking into consideration,</p> <p class=\"paragraph\">  (a) the recommendations set out in the annual report of the Council;</p> <p class=\"paragraph\">  (b) any other recommendations made by the Council;</p> <p class=\"paragraph\">  (c) the annual report prepared by the Minister under subsection 5 (2); and</p> <p class=\"paragraph\">  (d) the annual report on the state of the health system in Ontario made by the Ontario Health Quality Council.</p> <p class=\"headnote\">Interim report</p> <p class=\"subsection\">(2) The Minister shall publish a report within two years after this Act comes into force respecting the Minister’s progress in developing the Ontario Lung Health Action Plan.</p> <p class=\"headnote\">Report on action plan</p> <p class=\"subsection\">(3) The Minister shall publish a report within three years after the day this Act comes into force that sets out the Ontario Lung Health Action Plan and the steps that the Minister intends to take to implement the Ontario Lung Health Action Plan.</p>"
+        },
+        {
+            "id": "7",
+            "section": "Regulations",
+            "content": "7 The Lieutenant Governor in Council may make regulations, (a) governing the calling, holding and conducting of meetings of the Council; (b) prescribing the duties or responsibilities of members of the Council, including the co-chairs of the Council; (c) governing the Council’s procedures for making recommendations to the Minister or preparing the annual report under section 4. 8 Omitted (provides for coming into force of provisions of this Act). 9 Omitted (enacts short title of this Act). ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>7 </b>The Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a) governing the calling, holding and conducting of meetings of the Council;</p> <p class=\"paragraph\">  (b) prescribing the duties or responsibilities of members of the Council, including the co-chairs of the Council;</p> <p class=\"paragraph\">  (c) governing the Council’s procedures for making recommendations to the Minister or preparing the annual report under section 4.</p> <p class=\"section\"><b>8 </b><span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Act</span>).</p> <p class=\"section\"><b>9</b><b> </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act).</span></p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/17l28\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "8",
+            "section": "Regulations",
+            "content": "8 Omitted (provides for coming into force of provisions of this Act). 9 Omitted (enacts short title of this Act). ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>8 </b><span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Act</span>).</p> <p class=\"section\"><b>9</b><b> </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act).</span></p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/17l28\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "9",
+            "section": "Regulations",
+            "content": "9 Omitted (enacts short title of this Act). ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>9</b><b> </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act).</span></p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/17l28\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 393/07: SMART METERING ENTITY",
+        "reg_name_text": "Smart Metering Entity",
+        "citation": "O. Reg. 393/07: SMART METERING ENTITY",
+        "act_under": "Electricity Act, 1998",
+        "url": "https://www.ontario.ca/laws/regulation/070393",
+        "date_scraped": "2023-12-18 03:57:36"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July  1, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/070393/v7",
+            "valid_from": "June 20, 2023",
+            "valid_to": "June 30, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/070393/v6",
+            "valid_from": "September 30, 2017",
+            "valid_to": "June 19, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/070393/v5",
+            "valid_from": "December 19, 2016",
+            "valid_to": "September 29, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/070393/v4",
+            "valid_from": "January  1, 2015",
+            "valid_to": "December 18, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/070393/v3",
+            "valid_from": "December 16, 2014",
+            "valid_to": "December 31, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/070393/v2",
+            "valid_from": "June 25, 2008",
+            "valid_to": "December 15, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/070393/v1",
+            "valid_from": "July 26, 2007",
+            "valid_to": "June 24, 2008"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "0.1",
+            "section": "Definitions",
+            "content": " 0.1 In this Regulation, “billing quantity data” means, (a) smart metering data that is ready for use in billing consumers for their consumption or use of electricity based on the time of day when the electricity was consumed or used, and (b) smart metering data on electricity conveyed by or on behalf of persons into a distributor’s distribution system that is ready for use in billing those persons based on the time of day when the electricity was conveyed; (“données quantitatives pour la facturation”) “validation, estimating and editing services” means those validation, estimating and editing services, as specified\nby the Smart Metering Entity, that are performed on smart metering data to identify and account for missed or inaccurate smart metering data. (“services de validation, d’estimation et d’édition”) O. Reg. 233/08, s. 2; O. Reg. 133/23, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>0.1</b> In this Regulation,</p> <p class=\"definition-e\">“billing quantity data” means,</p> <p class=\"defclause-e\">  (a) smart metering data that is ready for use in billing consumers for their consumption or use of electricity based on the time of day when the electricity was consumed or used, and</p> <p class=\"defclause-e\">  (b) smart metering data on electricity conveyed by or on behalf of persons into a distributor’s distribution system that is ready for use in billing those persons based on the time of day when the electricity was conveyed; (“données quantitatives pour la facturation”)</p> <p class=\"definition-e\">“validation, estimating and editing services” means those validation, estimating and editing services, as specified<b>\n</b>by the Smart Metering Entity, that are performed on smart metering data to identify and account for missed or inaccurate smart metering data. (“services de validation, d’estimation et d’édition”) O. Reg. 233/08, s. 2; O. Reg. 133/23, s. 1.</p>"
+        },
+        {
+            "id": "1.",
+            "section": "Designation of IESO",
+            "content": " 1. The IESO is designated as the Smart Metering Entity.  O. Reg. 393/07, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The IESO is designated as the Smart Metering Entity.  O. Reg. 393/07, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Non-application of Business Corporations Act",
+            "content": " 2. Other than as prescribed in Ontario Regulation 610/98 (The IESO) made under the Act, the Business Corporations Act does not apply to the IESO.  O. Reg. 393/07, s. 2; O. Reg. 292/14, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>Other than as prescribed in Ontario Regulation 610/98 (The IESO) made under the Act, the <i>Business Corporations Act</i> does not apply to the IESO.  O. Reg. 393/07, s. 2; O. Reg. 292/14, s. 1.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Exemption, s. 53.10 of Act",
+            "content": " 3. The IESO is exempt from section 53.10 of the Act.  O. Reg. 393/07, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>The IESO is exempt from section 53.10 of the Act.  O. Reg. 393/07, s. 3.</p>"
+        },
+        {
+            "id": "3.1",
+            "section": "Additional objects",
+            "content": " 3.1 The following objects of the Smart Metering Entity are prescribed for the purposes of paragraph 9 of section 53.8 of the Act: 1. To collect and manage, facilitate the collection and management of and store information and data related to the metering of electricity that is conveyed into a distributor’s distribution system, including data collected from distributors. 2. To provide and promote non-discriminatory access, on appropriate terms and subject to any conditions in its licence relating to the protection of privacy, by distributors, retailers and other persons, i. to the information and data referred to in paragraph 1, and ii. to the telecommunication system that permits the Smart Metering Entity to transfer data about the electricity conveyed into a distributor’s distribution system to and from its databases, including access to its telecommunication equipment, systems and technology and associated equipment, systems and technologies. 3. To own or to lease and to operate equipment, systems and technology, including telecommunication equipment, systems and technology, that permit the Smart Metering Entity to transfer data about electricity conveyed into a distributor’s distribution system to and from its databases, including owning, leasing or operating such equipment, systems and technology and associated equipment, systems and technologies, directly or indirectly, including through one or more subsidiaries. O. Reg. 133/23, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>3.1 </b>The following objects of the Smart Metering Entity are prescribed for the purposes of paragraph 9 of section 53.8 of the Act:</p> <p class=\"paragraph-e\">  1. To collect and manage, facilitate the collection and management of and store information and data related to the metering of electricity that is conveyed into a distributor’s distribution system, including data collected from distributors.</p> <p class=\"paragraph-e\">  2. To provide and promote non-discriminatory access, on appropriate terms and subject to any conditions in its licence relating to the protection of privacy, by distributors, retailers and other persons,</p> <p class=\"subpara-e\">  i. to the information and data referred to in paragraph 1, and</p> <p class=\"subpara-e\">  ii. to the telecommunication system that permits the Smart Metering Entity to transfer data about the electricity conveyed into a distributor’s distribution system to and from its databases, including access to its telecommunication equipment, systems and technology and associated equipment, systems and technologies.</p> <p class=\"paragraph-e\">  3. To own or to lease and to operate equipment, systems and technology, including telecommunication equipment, systems and technology, that permit the Smart Metering Entity to transfer data about electricity conveyed into a distributor’s distribution system to and from its databases, including owning, leasing or operating such equipment, systems and technology and associated equipment, systems and technologies, directly or indirectly, including through one or more subsidiaries. O. Reg. 133/23, s. 2.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Required activities of Smart Metering Entity",
+            "content": " 4. The Smart Metering Entity shall specify what services constitute validation, estimating and editing services and any other services required to produce billing quantity data.  O. Reg. 233/08, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>The Smart Metering Entity shall specify what services constitute validation, estimating and editing services and any other services required to produce billing quantity data.  O. Reg. 233/08, s. 3.</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Exclusive authority ",
+            "content": " 5. (1) The Smart Metering Entity has the exclusive authority to carry out the following functions: 1. Specifying its database and system interface requirements and information and data transfer requirements except in relation to its objects under section 3.1 of this Regulation. Note: On January 1, 2025, paragraph 1 of subsection 5 (1) of the Regulation is amended by striking out “except in relation to its objects under section 3.1 of this Regulation” at the end. (See: O. Reg. 133/23, s. 3 (2)) 2. Receiving smart metering data for the purpose of carrying out the functions in paragraphs 3, 4 and 5, including receiving other information necessary for those functions. 3. Providing all services, as specified by the Smart Metering Entity, performed on smart metering data to produce the data described in clause (a) of the definition of “billing quantity data” in section 0.1, including validation, estimating and editing services. Note: On January 1, 2025, paragraph 3 of subsection 5 (1) of the Regulation is amended by striking out “the data described in clause (a) of the definition of “billing quantity data” in section 0.1” and substituting “billing quantity data”. (See: O. Reg. 133/23, s. 3 (4)) 4. Managing access rights to smart metering data and data derived from smart metering data in a manner consistent with the objects of the Smart Metering Entity set out in paragraph 4 of section 53.8 of the Act . Note: On January 1, 2025, paragraph 4 of subsection 5 (1) of the Regulation is amended by adding “or paragraph 2 of section 3.1 of this Regulation” at the end. (See: O. Reg. 133/23, s. 3 (5)) 5. Subject to subsection (2), maintaining and operating a database of, i. smart metering data and other data that is necessary for the Smart Metering Entity to perform the exclusive functions referred to in paragraph 3, and ii. data that is derived through the exclusive functions referred to in paragraph 3. O. Reg. 233/08, s. 3; O. Reg. 133/23, s. 3 (1, 3). (2) Paragraph 5 of subsection (1) does not apply in respect of a class of data that would otherwise fall within paragraph 5 where an order of the Board or a code issued by the Board specifically authorizes non-exclusivity of part of the function referenced in paragraph 5 for certain classes of data.  O. Reg. 233/08, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) The Smart Metering Entity has the exclusive authority to carry out the following functions:</p> <p class=\"paragraph-e\">  1. Specifying its database and system interface requirements and information and data transfer requirements except in relation to its objects under section 3.1 of this Regulation.</p> <p class=\"Pnote\"><span>Note: On January 1, 2025, paragraph 1 of subsection 5 (1) of the Regulation is amended by striking out “except in relation to its objects under section 3.1 of this Regulation” at the end. (See: O. Reg. 133/23, s. 3 (2))</span></p> <p class=\"paragraph-e\">  2. Receiving smart metering data for the purpose of carrying out the functions in paragraphs 3, 4 and 5, including receiving other information necessary for those functions.</p> <p class=\"paragraph-e\">  3. Providing all services, as specified by the Smart Metering Entity, performed on smart metering data to produce the data described in clause (a) of the definition of “billing quantity data” in section 0.1, including validation, estimating and editing services.</p> <p class=\"Pnote\"><span>Note: On January 1, 2025, paragraph 3 of subsection 5 (1) of the Regulation is amended by striking out “the data described in clause (a) of the definition of “billing quantity data” in section 0.1” and substituting “billing quantity data”. (See: O. Reg. 133/23, s. 3 (4))</span></p> <p class=\"paragraph-e\">  4. Managing access rights to smart metering data and data derived from smart metering data in a manner consistent with the objects of the Smart Metering Entity set out in paragraph 4 of section 53.8 of the Act .</p> <p class=\"Pnote\"><span>Note: On January 1, 2025, paragraph 4 of subsection 5 (1) of the Regulation is amended by adding “or paragraph 2 of section 3.1 of this Regulation” at the end. (See: O. Reg. 133/23, s. 3 (5))</span></p> <p class=\"paragraph-e\">  5. Subject to subsection (2), maintaining and operating a database of, </p> <p class=\"subpara-e\">  i. smart metering data and other data that is necessary for the Smart Metering Entity to perform the exclusive functions referred to in paragraph 3, and </p> <p class=\"subpara-e\">  ii. data that is derived through the exclusive functions referred to in paragraph 3. O. Reg. 233/08, s. 3; O. Reg. 133/23, s. 3 (1, 3).</p> <p class=\"subsection-e\">  (2) Paragraph 5 of subsection (1) does not apply in respect of a class of data that would otherwise fall within paragraph 5 where an order of the Board or a code issued by the Board specifically authorizes non-exclusivity of part of the function referenced in paragraph 5 for certain classes of data.  O. Reg. 233/08, s. 3.</p>"
+        },
+        {
+            "id": "6.",
+            "section": "Exclusive authority ",
+            "content": " 6. Revoked: O. Reg. 479/16, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 479/16, s. 1.</p>"
+        },
+        {
+            "id": null,
+            "section": "Exclusive authority ",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/070393\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

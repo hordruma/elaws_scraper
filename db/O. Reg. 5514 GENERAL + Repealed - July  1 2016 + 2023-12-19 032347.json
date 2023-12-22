@@ -1,0 +1,55 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 55/14: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "O. Reg. 55/14: ",
+        "act_under": "Wireless Services Agreements Act, 2013",
+        "url": "https://www.ontario.ca/laws/regulation/140055",
+        "date_scraped": "2023-12-19 03:23:47"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/140055/v3",
+            "valid_from": "May  6, 2016",
+            "valid_to": "June 30, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/140055/v2",
+            "valid_from": "April  1, 2014",
+            "valid_to": "May  5, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/140055/v1",
+            "valid_from": "March 10, 2014",
+            "valid_to": "March 31, 2014"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "s1",
+            "section": "Definition",
+            "content": " 1. In subsection 3 (1) of the Act, “located in Ontario”, with respect to a person engaging in a transaction, as defined in subsection 3 (3) of the Act, with a consumer who is located in a jurisdiction other than Ontario, does not include a person who is also located in that jurisdiction, even if the transaction is facilitated by or through a location in Ontario. O. Reg. 55/14, s. 1.",
+            "raw_html": "<p class=\"section-e\"><a name=\"s1\"></a><b> <a href=\"http://www.ontario.ca/fr/lois/reglement/140055#s1\"><span lang=\"EN-US\">1.</span></a> </b>In subsection 3 (1) of the Act,</p> <p class=\"firstdef-e\">“located in Ontario”, with respect to a person engaging in a transaction, as defined in subsection 3 (3) of the Act, with a consumer who is located in a jurisdiction other than Ontario, does not include a person who is also located in that jurisdiction, even if the transaction is facilitated by or through a location in Ontario. O. Reg. 55/14, s. 1.</p>"
+        },
+        {
+            "id": "s2",
+            "section": "Definition",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 55/14, s. 2.",
+            "raw_html": "<p class=\"section-e\"><a name=\"s2\"></a> <a href=\"http://www.ontario.ca/fr/lois/reglement/140055#s2\"><span lang=\"EN-US\">2.</span></a><b> </b><span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>). O. Reg. 55/14, s. 2.</p>"
+        },
+        {
+            "id": null,
+            "section": "Definition",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/140055\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,833 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 631: YIELD RIGHT-OF-WAY SIGNS IN TERRITORY WITHOUT MUNICIPAL ORGANIZATION",
+        "reg_name_text": "YIELD RIGHT-OF-WAY SIGNS IN TERRITORY WITHOUT MUNICIPAL ORGANIZATION",
+        "citation": "R.R.O. 1990, Reg. 631: ",
+        "act_under": "Highway Traffic Act   Code de la route",
+        "url": "https://www.ontario.ca/laws/regulation/900631",
+        "date_scraped": "2023-12-18 23:43:31"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "September 12, 2018",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900631/v10",
+            "valid_from": "July 18, 2016",
+            "valid_to": "September 11, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900631/v9",
+            "valid_from": "May 11, 2015",
+            "valid_to": "July 17, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900631/v8",
+            "valid_from": "March 28, 2013",
+            "valid_to": "May 10, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900631/v7",
+            "valid_from": "July 31, 2012",
+            "valid_to": "March 27, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900631/v6",
+            "valid_from": "June 27, 2012",
+            "valid_to": "July 30, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900631/v5",
+            "valid_from": "August 29, 2011",
+            "valid_to": "June 26, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900631/v4",
+            "valid_from": "November  3, 2009",
+            "valid_to": "August 28, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900631/v3",
+            "valid_from": "January 15, 2007",
+            "valid_to": "November  2, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900631/v2",
+            "valid_from": "June 14, 2006",
+            "valid_to": "January 14, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900631/v1",
+            "valid_from": "January 20, 2003",
+            "valid_to": "June 13, 2006"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": " 1. The intersections on highways in territory without municipal organization that are described in paragraph 1 of each Schedule are designated as intersections at which yield right-of-way signs shall be erected to face traffic travelling in the direction referred to in paragraph 2 of each Schedule.  R.R.O. 1990, Reg. 631, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The intersections on highways in territory without municipal organization that are described in paragraph 1 of each Schedule are designated as intersections at which yield right-of-way signs shall be erected to face traffic travelling in the direction referred to in paragraph 2 of each Schedule.  R.R.O. 1990, Reg. 631, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": " 2. Where a highway is referred to in a Schedule by a number or name, the reference is to that part of the highway in a territory without municipal organization that is known thereby.  R.R.O. 1990, Reg. 631, s. 2. Schedule 1",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>Where a highway is referred to in a Schedule by a number or name, the reference is to that part of the highway in a territory without municipal organization that is known thereby.  R.R.O. 1990, Reg. 631, s. 2.</p> <p class=\"schedule-e\">Schedule 1</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Goulais Mission Road in the unorganized municipality of Fenwick in the Territorial District of Algoma at its intersection with the roadway known as Rocky Ridge Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Goulais Mission Road in the unorganized municipality of Fenwick in the Territorial District of Algoma at its intersection with the roadway known as Rocky Ridge Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound and southbound on Rocky Ridge Road. R.R.O. 1990, Reg. 631, Sched. 1. Schedule 2",
+            "raw_html": "<p class=\"section-e\">  2. Northbound and southbound on Rocky Ridge Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 1.</p> <p class=\"schedule-e\">Schedule 2</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Goulais Mission Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Pickersgill Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Goulais Mission Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Pickersgill Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound on Pickersgill Road. R.R.O. 1990, Reg. 631, Sched. 2. Schedule 3",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound on Pickersgill Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 2.</p> <p class=\"schedule-e\">Schedule 3</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Pickersgill Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Bluewater Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Pickersgill Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Bluewater Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Bluewater Road. R.R.O. 1990, Reg. 631, Sched. 3. Schedule 4",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Bluewater Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 3.</p> <p class=\"schedule-e\">Schedule 4</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Goulais Point Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Baril Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Goulais Point Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Baril Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Baril Road. R.R.O. 1990, Reg. 631, Sched. 4. Schedule 5",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Baril Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 4.</p> <p class=\"schedule-e\">Schedule 5</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Goulais Point Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Birch Point Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Goulais Point Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Birch Point Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Birch Point Road. R.R.O. 1990, Reg. 631, Sched. 5. Schedule 6",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Birch Point Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 5.</p> <p class=\"schedule-e\">Schedule 6</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Sand Bay Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Baril Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Sand Bay Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Baril Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Baril Road. R.R.O. 1990, Reg. 631, Sched. 6. Schedule 7",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Baril Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 6.</p> <p class=\"schedule-e\">Schedule 7</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Nils Bay Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Bluewater Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Nils Bay Road in the unorganized municipality of Kars in the Territorial District of Algoma at its intersection with the roadway known as Bluewater Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Bluewater Road. R.R.O. 1990, Reg. 631, Sched. 7. Schedule 8",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Bluewater Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 7.</p> <p class=\"schedule-e\">Schedule 8</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Bluewater Road in the unorganized municipality of Ley in the Territorial District of Algoma at its intersection with the roadway known as Birch Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Bluewater Road in the unorganized municipality of Ley in the Territorial District of Algoma at its intersection with the roadway known as Birch Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Birch Street. R.R.O. 1990, Reg. 631, Sched. 8. Schedule 9",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Birch Street.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 8.</p> <p class=\"schedule-e\">Schedule 9</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Bluewater Road in the unorganized municipality of Ley in the Territorial District of Algoma at its intersection with the roadway known as Pine Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Bluewater Road in the unorganized municipality of Ley in the Territorial District of Algoma at its intersection with the roadway known as Pine Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Pine Street. R.R.O. 1990, Reg. 631, Sched. 9. Schedule 10",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Pine Street.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 9.</p> <p class=\"schedule-e\">Schedule 10</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Bellevue Valley Road in the unorganized municipality of VanKoughnet in the Territorial District of Algoma at its intersection with the roadway known as Monette Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Bellevue Valley Road in the unorganized municipality of VanKoughnet in the Territorial District of Algoma at its intersection with the roadway known as Monette Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Monette Road. R.R.O. 1990, Reg. 631, Sched. 10. Schedule 11",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Monette Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 10.</p> <p class=\"schedule-e\">Schedule 11</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Bellevue Valley Road in the unorganized municipality of VanKoughnet in the Territorial District of Algoma at its intersection with the roadway known as Kirby Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Bellevue Valley Road in the unorganized municipality of VanKoughnet in the Territorial District of Algoma at its intersection with the roadway known as Kirby Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Kirby Road. R.R.O. 1990, Reg. 631, Sched. 11. Schedule 12",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Kirby Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 11.</p> <p class=\"schedule-e\">Schedule 12</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Kirby Road in the unorganized municipality of VanKoughnet in the Territorial District of Algoma at its intersection with the roadway known as Homestead Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Kirby Road in the unorganized municipality of VanKoughnet in the Territorial District of Algoma at its intersection with the roadway known as Homestead Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Homestead Road. R.R.O. 1990, Reg. 631, Sched. 12. Schedule 13",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Homestead Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 12.</p> <p class=\"schedule-e\">Schedule 13</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Eagle Mine Road in the unorganized municipality of VanKoughnet in the Territorial District of Algoma at its intersection with the roadway known as Groth Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Eagle Mine Road in the unorganized municipality of VanKoughnet in the Territorial District of Algoma at its intersection with the roadway known as Groth Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Groth Road. R.R.O. 1990, Reg. 631, Sched. 13. SCHEDULE 14",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Groth Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 13.</p> <p class=\"schedule-e\">SCHEDULE 14</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Grand Trunk Road in Dawson Road Lots in the Territorial District of Thunder Bay at its intersection with the roadway known as Finmark Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Grand Trunk Road in Dawson Road Lots in the Territorial District of Thunder Bay at its intersection with the roadway known as Finmark Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound on Grand Trunk Road. O. Reg. 106/15, s. 1. Schedule 15 Revoked:  O. Reg. 421/18, s. 1. Schedule 16",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound on Grand Trunk Road.</p> <p class=\"footnote-e\">O. Reg. 106/15, s. 1.</p> <p class=\"scheduleRevoked-e\"><span class=\"ovallcaps\">Schedule 15 </span><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 421/18, s. 1.</p> <p class=\"schedule-e\">Schedule 16</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as First Avenue in the unorganized municipality of Foleyet in the Territorial District of Sudbury at its intersection with the roadway known as Railway Avenue.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as First Avenue in the unorganized municipality of Foleyet in the Territorial District of Sudbury at its intersection with the roadway known as Railway Avenue.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Railway Avenue. R.R.O. 1990, Reg. 631, Sched. 16. Schedule 17",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Railway Avenue.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 16.</p> <p class=\"schedule-e\">Schedule 17</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Old Mill Road in the unorganized Township of Lybster in the Territorial District of Thunder Bay at its intersection with the roadway known as Palisades Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Old Mill Road in the unorganized Township of Lybster in the Territorial District of Thunder Bay at its intersection with the roadway known as Palisades Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound and southbound on Old Mill Road. O. Reg. 6/07, s. 1. Schedule 18",
+            "raw_html": "<p class=\"section-e\">  2. Northbound and southbound on Old Mill Road.</p> <p class=\"footnote-e\">O. Reg. 6/07, s. 1.</p> <p class=\"schedule-e\">Schedule 18</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Pike Lake Road in the unorganized Township of Gorham in the Territorial District of Thunder Bay at its intersection with the roadway known as Goodman Lake Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Pike Lake Road in the unorganized Township of Gorham in the Territorial District of Thunder Bay at its intersection with the roadway known as Goodman Lake Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound on Goodman Lake Road. O. Reg. 420/09, s. 1. Schedule 19",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound on Goodman Lake Road.</p> <p class=\"footnote-e\">O. Reg. 420/09, s. 1.</p> <p class=\"schedule-e\">Schedule 19</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Cushing Lake Loop in the unorganized Township of Inwood in the Territorial District of Thunder Bay at its intersection with the roadway known as Gibson’s Resort Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Cushing Lake Loop in the unorganized Township of Inwood in the Territorial District of Thunder Bay at its intersection with the roadway known as Gibson’s Resort Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound and eastbound on Cushing Lake Loop. R.R.O. 1990, Reg. 631, Sched. 19. Schedule 20",
+            "raw_html": "<p class=\"section-e\">  2. Westbound and eastbound on Cushing Lake Loop.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 19.</p> <p class=\"schedule-e\">Schedule 20</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Trout Lake Road in the unorganized Township of Aweres in the Territorial District of Algoma at its intersection with the roadway known as Birchgrove Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Trout Lake Road in the unorganized Township of Aweres in the Territorial District of Algoma at its intersection with the roadway known as Birchgrove Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Birchgrove Road. R.R.O. 1990, Reg. 631, Sched. 20. Schedule 21",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Birchgrove Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 20.</p> <p class=\"schedule-e\">Schedule 21</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Trout Lake Road in the unorganized Township of Aweres in the Territorial District of Algoma at its intersection with the roadway known as Maki Lake Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Trout Lake Road in the unorganized Township of Aweres in the Territorial District of Algoma at its intersection with the roadway known as Maki Lake Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Maki Lake Road. R.R.O. 1990, Reg. 631, Sched. 21. Schedule 22",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Maki Lake Road.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 631, Sched. 21.</p> <p class=\"schedule-e\">Schedule 22</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Gonyou Road in the unorganized Township of Upsala in the Territorial District of Thunder Bay at its intersection with the roadway known as Pipeline Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Gonyou Road in the unorganized Township of Upsala in the Territorial District of Thunder Bay at its intersection with the roadway known as Pipeline Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound and southbound on Pipeline Road. O. Reg. 416/11, s. 1. SCHEDULE 23",
+            "raw_html": "<p class=\"section-e\">  2. Northbound and southbound on Pipeline Road.</p> <p class=\"footnote-e\">O. Reg. 416/11, s. 1.</p> <p class=\"schedule-e\">SCHEDULE 23</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Valley Road East in the unorganized Township of Lyon in the Territorial District of Thunder Bay at its intersection with the highway known as Valley Road West.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Valley Road East in the unorganized Township of Lyon in the Territorial District of Thunder Bay at its intersection with the highway known as Valley Road West.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound on Valley Road West. O. Reg. 185/12, s. 1. Schedule 24",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound on Valley Road West.</p> <p class=\"footnote-e\">O. Reg. 185/12, s. 1.</p> <p class=\"schedule-e\">Schedule 24</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Three Mile Rapids Road in the unorganized Township of Caouette in the Territorial District of Sudbury at its intersection with the roadway known as Esher-Como-Healey Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Three Mile Rapids Road in the unorganized Township of Caouette in the Territorial District of Sudbury at its intersection with the roadway known as Esher-Como-Healey Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Three Mile Rapids Road. O. Reg. 279/93, s. 1. Schedule 25",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Three Mile Rapids Road.</p> <p class=\"footnote-e\">O. Reg. 279/93, s. 1.</p> <p class=\"schedule-e\">Schedule 25</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Limberlost Point Road in the unorganized Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Hawthorne Drive.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Limberlost Point Road in the unorganized Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Hawthorne Drive.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Limberlost Point Road. O. Reg. 566/94, s. 1. Schedule 26",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Limberlost Point Road.</p> <p class=\"footnote-e\">O. Reg. 566/94, s. 1.</p> <p class=\"schedule-e\">Schedule 26</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Silver Mountain Road in the Township of Lybster in the Territorial District of Thunder Bay at its intersection with the highway known as 2nd Sideroad South.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Silver Mountain Road in the Township of Lybster in the Territorial District of Thunder Bay at its intersection with the highway known as 2nd Sideroad South.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound and westbound on Silver Mountain Road. O. Reg. 228/94, s. 1. Schedule 27",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound and westbound on Silver Mountain Road.</p> <p class=\"footnote-e\">O. Reg. 228/94, s. 1.</p> <p class=\"schedule-e\">Schedule 27</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Round Lake Road in the Township of Ballantyne in the Territorial District of Nipissing at its intersection with the highway known as Chemical Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Round Lake Road in the Township of Ballantyne in the Territorial District of Nipissing at its intersection with the highway known as Chemical Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Round Lake Road. O. Reg. 295/94, s. 1. Schedule 28",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Round Lake Road.</p> <p class=\"footnote-e\">O. Reg. 295/94, s. 1.</p> <p class=\"schedule-e\">Schedule 28</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Boundary Road in the Township of Lount in the Territorial District of Parry Sound at its intersection with the highway known as Deer Lake Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Boundary Road in the Township of Lount in the Territorial District of Parry Sound at its intersection with the highway known as Deer Lake Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound on Boundary Road. O. Reg. 125/95, s. 1. Schedule 29",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound on Boundary Road.</p> <p class=\"footnote-e\">O. Reg. 125/95, s. 1.</p> <p class=\"schedule-e\">Schedule 29</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Pearcely Road in the Township of Lount in the Territorial District of Parry Sound at its intersection with the highway known as Boundary Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Pearcely Road in the Township of Lount in the Territorial District of Parry Sound at its intersection with the highway known as Boundary Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Pearcely Road. O. Reg. 125/95, s. 1. Schedule 30",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Pearcely Road.</p> <p class=\"footnote-e\">O. Reg. 125/95, s. 1.</p> <p class=\"schedule-e\">Schedule 30</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Emerald Crescent in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Hawthorne Drive.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Emerald Crescent in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Hawthorne Drive.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Emerald Crescent. O. Reg. 307/95, s. 1. Schedule 31",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Emerald Crescent.</p> <p class=\"footnote-e\">O. Reg. 307/95, s. 1.</p> <p class=\"schedule-e\">Schedule 31</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Lakeview Road in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Hawthorne Drive.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Lakeview Road in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Hawthorne Drive.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Lakeview Road. O. Reg. 307/95, s. 1. Schedule 32",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Lakeview Road.</p> <p class=\"footnote-e\">O. Reg. 307/95, s. 1.</p> <p class=\"schedule-e\">Schedule 32</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Porters Landing Road in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Lakeview Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Porters Landing Road in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Lakeview Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound on Porters Landing Road. O. Reg. 307/95, s. 1. Schedule 33",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound on Porters Landing Road.</p> <p class=\"footnote-e\">O. Reg. 307/95, s. 1.</p> <p class=\"schedule-e\">Schedule 33</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Reeves Road in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Limberlost Point Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Reeves Road in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Limberlost Point Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Reeves Road. O. Reg. 307/95, s. 1. Schedule 34",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Reeves Road.</p> <p class=\"footnote-e\">O. Reg. 307/95, s. 1.</p> <p class=\"schedule-e\">Schedule 34</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Gyles Point Road in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Limberlost Point Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Gyles Point Road in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as Limberlost Point Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Gyles Point Road. O. Reg. 307/95, s. 1. Schedule 35",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Gyles Point Road.</p> <p class=\"footnote-e\">O. Reg. 307/95, s. 1.</p> <p class=\"schedule-e\">Schedule 35</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Daniel Drive in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as North Shore Drive.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Daniel Drive in the Township of Patterson in the Territorial District of Parry Sound at its intersection with the highway known as North Shore Drive.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Daniel Drive. O. Reg. 307/95, s. 1. Schedule 36",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Daniel Drive.</p> <p class=\"footnote-e\">O. Reg. 307/95, s. 1.</p> <p class=\"schedule-e\">Schedule 36</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Boucher Avenue in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Cedar Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Boucher Avenue in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Cedar Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Cedar Street. O. Reg. 387/95, s. 1. Schedule 37",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Cedar Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 37</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Cedar Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Queen Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Cedar Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Queen Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Queen Street. O. Reg. 387/95, s. 1. Schedule 38",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Queen Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 38</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Cedar Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as King Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Cedar Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as King Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on King Street. O. Reg. 387/95, s. 1. Schedule 39",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on King Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 39</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Cedar Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as College Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Cedar Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as College Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on College Street. O. Reg. 387/95, s. 1. Schedule 40",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on College Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 40</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Cedar Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Duke Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Cedar Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Duke Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Duke Street. O. Reg. 387/95, s. 1. Schedule 41",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Duke Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 41</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Queen Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Spruce Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Queen Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Spruce Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound and westbound on Spruce Street. O. Reg. 387/95, s. 1. Schedule 42",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound and westbound on Spruce Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 42</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as King Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Spruce Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as King Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Spruce Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound and westbound on Spruce Street. O. Reg. 387/95, s. 1. Schedule 43",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound and westbound on Spruce Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 43</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as College Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Spruce Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as College Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Spruce Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound and westbound on Spruce Street. O. Reg. 387/95, s. 1. Schedule 44",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound and westbound on Spruce Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 44</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Front Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Duke Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Front Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Duke Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Duke Street. O. Reg. 387/95, s. 1. Schedule 45",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Duke Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 45</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Boucher Avenue in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Pine Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Boucher Avenue in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Pine Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Pine Street. O. Reg. 387/95, s. 1. Schedule 46",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Pine Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 46</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Queen Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Pine Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Queen Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Pine Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound and westbound on Pine Street. O. Reg. 387/95, s. 1. Schedule 47",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound and westbound on Pine Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 47</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as King Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Pine Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as King Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Pine Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound and westbound on Pine Street. O. Reg. 387/95, s. 1. Schedule 48",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound and westbound on Pine Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 48</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as College Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Pine Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as College Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Pine Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Eastbound and westbound on Pine Street. O. Reg. 387/95, s. 1. Schedule 49",
+            "raw_html": "<p class=\"section-e\">  2. Eastbound and westbound on Pine Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 49</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Queen Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Maple Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Queen Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Maple Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Maple Street. O. Reg. 387/95, s. 1. Schedule 50",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Maple Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"schedule-e\">Schedule 50</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Maple Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as King Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Maple Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as King Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on King Street. O. Reg. 412/96, s. 1. Schedule 51",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on King Street.</p> <p class=\"footnote-e\">O. Reg. 412/96, s. 1.</p> <p class=\"schedule-e\">Schedule 51</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Queen Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Poplar Street.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Queen Street in the unorganized municipality of Esquega in the Territorial District of Algoma at its intersection with the highway known as Poplar Street.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Poplar Street. O. Reg. 387/95, s. 1. ScheduleS 52-57 Revoked:  O. Reg. 376/97, s. 1. Schedule 58",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Poplar Street.</p> <p class=\"footnote-e\">O. Reg. 387/95, s. 1.</p> <p class=\"scheduleRevoked-e\"><span class=\"ovallcaps\">ScheduleS 52-57</span> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 376/97, s. 1.</p> <p class=\"schedule-e\">Schedule 58</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Noble’s Side Road in the unorganized municipality of Robinson in the Territorial District of Manitoulin at its intersection with the highway known as Burnt Island Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Noble’s Side Road in the unorganized municipality of Robinson in the Territorial District of Manitoulin at its intersection with the highway known as Burnt Island Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Noble’s Side Road. O. Reg. 150/96, s. 1. Schedule 59",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Noble’s Side Road.</p> <p class=\"footnote-e\">O. Reg. 150/96, s. 1.</p> <p class=\"schedule-e\">Schedule 59</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as DeLint Road in the Township of Lybster in the Territorial District of Thunder Bay at its intersection with the highway known as Fifth Side Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as DeLint Road in the Township of Lybster in the Territorial District of Thunder Bay at its intersection with the highway known as Fifth Side Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on DeLint Road. O. Reg. 151/96, s. 1. Schedule 60",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on DeLint Road.</p> <p class=\"footnote-e\">O. Reg. 151/96, s. 1.</p> <p class=\"schedule-e\">Schedule 60</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Grindstone Point Road in the Township of Ley in the Territorial District of Algoma at its intersection with the highway known as Marlett Drive.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Grindstone Point Road in the Township of Ley in the Territorial District of Algoma at its intersection with the highway known as Marlett Drive.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Grindstone Road. O. Reg. 210/97, s. 1. Schedule 61",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Grindstone Road.</p> <p class=\"footnote-e\">O. Reg. 210/97, s. 1.</p> <p class=\"schedule-e\">Schedule 61</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as East Arrow Lake Road in the unorganized Township of Hardwick, in the District of Thunder Bay at its intersection with the highway known as Frog Portage Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as East Arrow Lake Road in the unorganized Township of Hardwick, in the District of Thunder Bay at its intersection with the highway known as Frog Portage Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Frog Portage Road. O. Reg. 225/12, s. 1. Schedule 62",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Frog Portage Road.</p> <p class=\"footnote-e\">O. Reg. 225/12, s. 1.</p> <p class=\"schedule-e\">Schedule 62</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Frog Portage Road in the unorganized Township of Hardwick, in the District of Thunder Bay at its intersection with the highway known as Kirk Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Frog Portage Road in the unorganized Township of Hardwick, in the District of Thunder Bay at its intersection with the highway known as Kirk Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Kirk Road. O. Reg. 225/12, s. 1.  Schedule 63",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Kirk Road.</p> <p class=\"footnote-e\">O. Reg. 225/12, s. 1.</p> <p class=\"footnote-e\"> </p> <p class=\"schedule-e\">Schedule 63</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The Highway known as Lawler Road in the unorganized Township of Aweres in the Territorial District of Algoma at its intersection with the highway known as Cameron Road.",
+            "raw_html": "<p class=\"section-e\">  1. The Highway known as Lawler Road in the unorganized Township of Aweres in the Territorial District of Algoma at its intersection with the highway known as Cameron Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Westbound on Lawler Road. O. Reg. 435/99, s. 1. Schedule 64",
+            "raw_html": "<p class=\"section-e\">  2. Westbound on Lawler Road.</p> <p class=\"footnote-e\">O. Reg. 435/99, s. 1.</p> <p class=\"schedule-e\">Schedule 64</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The Highway known as Shields Road in the unorganized Township of Aweres in the Territorial District of Algoma at its intersection with the roadway known as Old Mill Road.",
+            "raw_html": "<p class=\"section-e\">  1. The Highway known as Shields Road in the unorganized Township of Aweres in the Territorial District of Algoma at its intersection with the roadway known as Old Mill Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Shields Road. O. Reg. 435/99, s. 1. Schedule 65",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Shields Road.</p> <p class=\"footnote-e\">O. Reg. 435/99, s. 1.</p> <p class=\"schedule-e\">Schedule 65</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Cameron Lake Road in the unorganized Township of Hardwick in the Territorial District of Thunder Bay at its intersection with the roadway known as East Arrow Lake Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Cameron Lake Road in the unorganized Township of Hardwick in the Territorial District of Thunder Bay at its intersection with the roadway known as East Arrow Lake Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Cameron Lake Road. O. Reg. 295/02, s. 1. Schedule 66",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Cameron Lake Road.</p> <p class=\"footnote-e\">O. Reg. 295/02, s. 1.</p> <p class=\"schedule-e\">Schedule 66</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Dam Road in the unorganized Township of Hardwick in the Territorial District of Thunder Bay at its intersection with the roadway known as East Arrow Lake Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Dam Road in the unorganized Township of Hardwick in the Territorial District of Thunder Bay at its intersection with the roadway known as East Arrow Lake Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on Dam Lake Road. O. Reg. 295/02, s. 1. Schedule 67",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on Dam Lake Road.</p> <p class=\"footnote-e\">O. Reg. 295/02, s. 1.</p> <p class=\"schedule-e\">Schedule 67</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Polly Lake Road (North leg) in the Polly Lake Local Roads Area in the Territorial District of Thunder Bay at its intersection with the highway known as Polly Lake Road (South leg).",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Polly Lake Road (North leg) in the Polly Lake Local Roads Area in the Territorial District of Thunder Bay at its intersection with the highway known as Polly Lake Road (South leg).</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Polly Lake Road (North leg). O. Reg. 124/13, s. 1. schedule 68",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Polly Lake Road (North leg).</p> <p class=\"footnote-e\">O. Reg. 124/13, s. 1.</p> <p class=\"schedule-e\">schedule 68</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Ellis Road in Dawson Road Lots in the Territorial District of Thunder Bay at its intersection with the highway known as Forbes River Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Ellis Road in Dawson Road Lots in the Territorial District of Thunder Bay at its intersection with the highway known as Forbes River Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Southbound on Forbes River Road. O. Reg. 106/15, s. 2. SCHEDULE 69",
+            "raw_html": "<p class=\"section-e\">  2. Southbound on Forbes River Road.</p> <p class=\"footnote-e\">O. Reg. 106/15, s. 2.</p> <p class=\"schedule-e\">SCHEDULE 69</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  1. The highway known as Line Road in the unorganized township of Lybster in the District of Thunder Bay at its intersection with the roadway known as DeLint Road.",
+            "raw_html": "<p class=\"section-e\">  1. The highway known as Line Road in the unorganized township of Lybster in the District of Thunder Bay at its intersection with the roadway known as DeLint Road.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  2. Northbound on DeLint Road. O. Reg. 258/16, s. 1.    ",
+            "raw_html": "<p class=\"section-e\">  2. Northbound on DeLint Road.</p> <p class=\"footnote-e\">O. Reg. 258/16, s. 1.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 107/20: ORDER UNDER SUBSECTION 7.1 (2) OF THE ACT - CORPORATIONS, CO-OPERATIVE CORPORATIONS AND CONDOMINIUM CORPORATIONS",
+        "reg_name_text": "ORDER UNDER SUBSECTION 7.1 (2) OF THE ACT - CORPORATIONS, CO-OPERATIVE CORPORATIONS AND CONDOMINIUM CORPORATIONS ",
+        "citation": "O. Reg. 107/20: ORDER UNDER SUBSECTION 7.1 (2) OF THE ACT - CORPORATIONS, CO-OPERATIVE CORPORATIONS AND CONDOMINIUM CORPORATIONS",
+        "act_under": "Emergency Management and Civil Protection Act",
+        "url": "https://www.ontario.ca/laws/regulation/200107",
+        "date_scraped": "2023-12-18 20:32:02"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/200107/v2",
+            "valid_from": "April 24, 2020",
+            "valid_to": "May 11, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/200107/v1",
+            "valid_from": "March 30, 2020",
+            "valid_to": "April 23, 2020"
+        }
+    ],
+    "content": [
+        {
+            "id": "125.1",
+            "section": "Meeting by electronic means, all corporations",
+            "content": " 125.1 (1) Despite any provision in the letters patent, supplementary letters patent or by-laws of a corporation that provides otherwise, a meeting of the members or shareholders of a corporation may be held by telephonic or electronic means and a member or shareholder who, through those means, votes at the meeting or establishes a communications link to the meeting is deemed for the purposes of this Act to be present at the meeting.",
+            "raw_html": "<p class=\"section-e\"> <b>125.1 </b>(1) Despite any provision in the letters patent, supplementary letters patent or by-laws of a corporation that provides otherwise, a meeting of the members or shareholders of a corporation may be held by telephonic or electronic means and a member or shareholder who, through those means, votes at the meeting or establishes a communications link to the meeting is deemed for the purposes of this Act to be present at the meeting.</p>"
+        },
+        {
+            "id": "293.",
+            "section": "Annual meetings",
+            "content": " 293. (1) A corporation shall hold an annual meeting of its shareholders or members not later than eighteen months after its incorporation and subsequently not more than fifteen months after the holding of the last preceding annual meeting.",
+            "raw_html": "<p class=\"section-e\"> <b>293. </b>(1) A corporation shall hold an annual meeting of its shareholders or members not later than eighteen months after its incorporation and subsequently not more than fifteen months after the holding of the last preceding annual meeting.</p>"
+        },
+        {
+            "id": "94.",
+            "section": "Shareholders’ meetings",
+            "content": " 94. (1) Subject to subsection 104 (1), the directors of a corporation, (a) shall call an annual meeting of shareholders not later than eighteen months after the corporation comes into existence and subsequently not later than fifteen months after holding the last preceding annual meeting; and (b) may at any time call a special meeting of shareholders.",
+            "raw_html": "<p class=\"section-e\"> <b>94. </b>(1) Subject to subsection 104 (1), the directors of a corporation,</p> <p class=\"clause-e\">  (a) shall call an annual meeting of shareholders not later than eighteen months after the corporation comes into existence and subsequently not later than fifteen months after holding the last preceding annual meeting; and</p> <p class=\"clause-e\">  (b) may at any time call a special meeting of shareholders.</p>"
+        },
+        {
+            "id": "77.",
+            "section": "Annual meetings",
+            "content": " 77. (1) A co-operative shall hold an annual meeting of its members not later than eighteen months after its incorporation and subsequently not more than fifteen months after the holding of the last preceding annual meeting and at such meeting any member shall have an opportunity to raise any matter relevant to the affairs and business of the co-operative.",
+            "raw_html": "<p class=\"section-e\"> <b>77. </b>(1) A co-operative shall hold an annual meeting of its members not later than eighteen months after its incorporation and subsequently not more than fifteen months after the holding of the last preceding annual meeting and at such meeting any member shall have an opportunity to raise any matter relevant to the affairs and business of the co-operative.</p>"
+        },
+        {
+            "id": "54.",
+            "section": "Service",
+            "content": "  54. (1) Unless this Act indicates otherwise, anything required to be given to an owner or a mortgagee under this Act is sufficiently served if it is given in accordance with subsection 47 (4) or (5), as the case may be.",
+            "raw_html": "<p class=\"section-e\"><b>  54. </b>(1) Unless this Act indicates otherwise, anything required to be given to an owner or a mortgagee under this Act is sufficiently served if it is given in accordance with subsection 47 (4) or (5), as the case may be.</p>"
+        }
+    ]
+}

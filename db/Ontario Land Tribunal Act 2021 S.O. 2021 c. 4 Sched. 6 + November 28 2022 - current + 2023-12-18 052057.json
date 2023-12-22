@@ -1,0 +1,424 @@
+{
+    "act_info": {
+        "full_title": "Ontario Land Tribunal Act, 2021, S.O. 2021, c. 4, Sched. 6",
+        "act_name_text": "Ontario Land Tribunal Act, 2021",
+        "citation": "S.O. 2021, c. 4, Sched. 6",
+        "url": "https://www.ontario.ca/laws/statute/21o04",
+        "date_scraped": "2023-12-18 05:20:58"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November 28, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/21o04/v2",
+            "valid_from": "June  1, 2021",
+            "valid_to": "November 27, 2022"
+        },
+        {
+            "a_href": "/laws/statute/21o04/v1",
+            "valid_from": "April 19, 2021",
+            "valid_to": "May 31, 2021"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/210351",
+            "Citation": "O. Reg. 351/21",
+            "title": "CONSOLIDATED HEARINGS"
+        },
+        {
+            "a_href": "/laws/regulation/210350",
+            "Citation": "O. Reg. 350/21",
+            "title": "TRANSITION"
+        }
+    ],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I  ",
+            "section_x": "PART I INTERPRETATION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION",
+            "section_y": "Definitions",
+            "content": "1 In this Act, “Minister” means the Attorney General or such other member of the Executive Council to whom the administration of this Act may be assigned or transferred under the Executive Council Act; (“ministre”) “predecessor adjudicative tribunal” means the board of negotiation, the Conservation Review Board, the Environmental Review Tribunal, the Local Planning Appeal Tribunal or the Mining and Lands Tribunal, as the case may be, before their amalgamation under section 2; (“tribunal décisionnel prédécesseur”) “regulations” means the regulations made under this Act; (“règlements”) “rules” means the rules made by the Tribunal under section 13; (“règles”) “transition date” means the day on which section 2 comes into force; (“date de transition”) “Tribunal” means the Ontario Land Tribunal established under section 2. (“Tribunal”) Part II   Consolidated Land Tribunal Composition",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>1 </b>In this Act,</p> <p class=\"definition\">“Minister” means the Attorney General or such other member of the Executive Council to whom the administration of this Act may be assigned or transferred under the <i>Executive Council Act</i>; (“ministre”)</p> <p class=\"definition\">“predecessor adjudicative tribunal” means the board of negotiation, the Conservation Review Board, the Environmental Review Tribunal, the Local Planning Appeal Tribunal or the Mining and Lands Tribunal, as the case may be, before their amalgamation under section 2; (“tribunal décisionnel prédécesseur”)</p> <p class=\"definition\">“regulations” means the regulations made under this Act; (“règlements”)</p> <p class=\"definition\">“rules” means the rules made by the Tribunal under section 13; (“règles”)</p> <p class=\"definition\">“transition date” means the day on which section 2 comes into force; (“date de transition”)</p> <p class=\"definition\">“Tribunal” means the Ontario Land Tribunal established under section 2. (“Tribunal”)</p> <p class=\"partnum\"><a name=\"BK2\"></a>Part II <br/>  Consolidated Land Tribunal</p> <p class=\"heading1\"><a name=\"BK3\"></a>Composition</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "PART II  ",
+            "section_x": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Composition",
+            "section_x": "Composition",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "2.",
+            "section_x": "Ontario Land Tribunal",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": "Ontario Land Tribunal",
+            "content": "2 The board of negotiation continued under the Expropriations Act, the Conservation Review Board, the Environmental Review Tribunal, the Local Planning Appeal Tribunal and the Mining and Lands Tribunal are amalgamated and continued as the Ontario Land Tribunal in English and Tribunal ontarien de l’aménagement du territoire in French.",
+            "raw_html": "<p class=\"section\"><a name=\"BK4\"></a><b>2 </b>The board of negotiation continued under the <i>Expropriations Act</i>, the Conservation Review Board, the Environmental Review Tribunal, the Local Planning Appeal Tribunal and the Mining and Lands Tribunal are amalgamated and continued as the Ontario Land Tribunal in English and Tribunal ontarien de l’aménagement du territoire in French.</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "3.",
+            "section_x": "Composition",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": "Composition",
+            "content": "3 (1) The Tribunal shall be composed of the members appointed by the Lieutenant Governor in Council. Chair, vice-chair (2) The Lieutenant Governor in Council shall designate a chair and one or more vice-chairs from among the members of the Tribunal. Alternate chair (3) The Lieutenant Governor in Council shall designate a vice-chair of the Tribunal to be the alternate chair. Same (4) If the chair is unable to act, the alternate chair shall perform the duties of the chair and has all the powers of the chair for the purpose. Duties of chair (5) The chair shall have general supervision and direction over the conduct of the affairs of the Tribunal, and shall, (a)  arrange the sittings of the Tribunal; and (b)  assign members of the Tribunal to preside over proceedings as necessary, ensuring that, if more than two members are assigned to a given proceeding, only an uneven number of members is assigned.",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>3 </b>(1) The Tribunal shall be composed of the members appointed by the Lieutenant Governor in Council.</p> <p class=\"headnote\">Chair, vice-chair</p> <p class=\"subsection\">(2) The Lieutenant Governor in Council shall designate a chair and one or more vice-chairs from among the members of the Tribunal.</p> <p class=\"headnote\">Alternate chair</p> <p class=\"subsection\">(3) The Lieutenant Governor in Council shall designate a vice-chair of the Tribunal to be the alternate chair.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(4) If the chair is unable to act, the alternate chair shall perform the duties of the chair and has all the powers of the chair for the purpose.</p> <p class=\"headnote\">Duties of chair</p> <p class=\"subsection\">(5) The chair shall have general supervision and direction over the conduct of the affairs of the Tribunal, and shall,</p> <p class=\"paragraph\">  (a)  arrange the sittings of the Tribunal; and</p> <p class=\"paragraph\">  (b)  assign members of the Tribunal to preside over proceedings as necessary, ensuring that, if more than two members are assigned to a given proceeding, only an uneven number of members is assigned.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "4.",
+            "section_x": "Term of office",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": "Term of office",
+            "content": "4 (1) The appointment of a member of the Tribunal shall be for a fixed term specified by the Lieutenant Governor in Council. Expiry of term (2) If the term of office of a member of the Tribunal who has participated in a proceeding expires before the disposition of the proceeding, the term is deemed to continue for the purpose of disposing of the proceeding, but for no other purpose. Same (3) If the term of office of a member of the Tribunal expires in circumstances prescribed by the regulations, other than those to which subsection (2) applies, the term is deemed to continue for the period and purposes specified by the regulations.",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>4 </b>(1) The appointment of a member of the Tribunal shall be for a fixed term specified by the Lieutenant Governor in Council.</p> <p class=\"headnote\">Expiry of term</p> <p class=\"subsection\">(2) If the term of office of a member of the Tribunal who has participated in a proceeding expires before the disposition of the proceeding, the term is deemed to continue for the purpose of disposing of the proceeding, but for no other purpose.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3) If the term of office of a member of the Tribunal expires in circumstances prescribed by the regulations, other than those to which subsection (2) applies, the term is deemed to continue for the period and purposes specified by the regulations.</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "5.",
+            "section_x": "Quorum",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": "Quorum",
+            "content": "5 One member of the Tribunal constitutes a quorum and is sufficient for the exercise of all of the jurisdiction and powers of the Tribunal.",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>5 </b>One member of the Tribunal constitutes a quorum and is sufficient for the exercise of all of the jurisdiction and powers of the Tribunal.</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "6.",
+            "section_x": "Employees",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": "Employees",
+            "content": "6 Such employees as are necessary for the proper conduct of the affairs of the Tribunal may be appointed under Part III of the Public Service of Ontario Act, 2006. Transition, Tribunal membership",
+            "raw_html": "<p class=\"section\"><a name=\"BK8\"></a><b>6 </b>Such employees as are necessary for the proper conduct of the affairs of the Tribunal may be appointed under Part III of the <i>Public Service of Ontario Act, 2006</i>.</p> <p class=\"headnote\">Transition, Tribunal membership</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "7.",
+            "section_x": "Transition, Tribunal membership",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": "Existing members continue",
+            "content": "7 (1) A person who was a member of a predecessor adjudicative tribunal immediately before the transition date continues as a member of the Tribunal until the day the person’s term of office as a member of the predecessor adjudicative tribunal would have expired, subject to the person’s earlier death, resignation or removal. Persons appointed under the Adjudicative Tribunals Accountability, Governance and Appointments Act, 2009 (2) A person who, under the Adjudicative Tribunals Accountability, Governance and Appointments Act, 2009, held the office listed in Column 1 of the Table to this section immediately before the transition date, continues in the office in the Tribunal listed in the corresponding row of Column 2 of the Table until the day the person’s term of office under the Adjudicative Tribunals Accountability, Governance and Appointments Act, 2009 would have expired, subject to the person’s earlier death, resignation or removal. Table Item   Column 1   Office held under the Adjudicative Tribunals Accountability, Governance and Appointments Act, 2009   Column 2   Office held in the Tribunal \n\n  1.   Executive chair responsible for the predecessor adjudicative tribunals   Chair \n\n  2.    Associate chair of a predecessor adjudicative tribunal, other than the associate chair appointed as alternate executive chair   Vice-chair \n\n  3.   Associate chair appointed as alternate executive chair responsible for the predecessor adjudicative tribunals if the executive chair responsible for the predecessor adjudicative tribunals is unable to act or the position is vacant   Alternate chair \n\n  4.   Vice-chair of a predecessor adjudicative tribunal   Vice-chair  Jurisdiction and Powers",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>7 </b>(1) A person who was a member of a predecessor adjudicative tribunal immediately before the transition date continues as a member of the Tribunal until the day the person’s term of office as a member of the predecessor adjudicative tribunal would have expired, subject to the person’s earlier death, resignation or removal.</p> <p class=\"headnote\">Persons appointed under the <i>Adjudicative Tribunals Accountability, Governance and Appointments Act, 2009</i></p> <p class=\"subsection\">(2) A person who, under the <i>Adjudicative Tribunals Accountability, Governance and Appointments Act, 2009</i>, held the office listed in Column 1 of the Table to this section immediately before the transition date, continues in the office in the Tribunal listed in the corresponding row of Column 2 of the Table until the day the person’s term of office under the <i>Adjudicative Tribunals Accountability, Governance and Appointments Act, 2009</i> would have expired, subject to the person’s earlier death, resignation or removal.</p> <p class=\"headingx\">Table</p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"672\">\n<tr> <td valign=\"top\" width=\"32\"> <p class=\"table\">Item</p> </td> <td valign=\"top\" width=\"468\"> <p class=\"table\">Column 1 <br/>  Office held under the <i>Adjudicative Tribunals Accountability, Governance and Appointments Act, 2009</i></p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table\">Column 2 <br/>  Office held in the Tribunal</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"32\"> <p class=\"table\">1.</p> </td> <td valign=\"top\" width=\"468\"> <p class=\"table\">Executive chair responsible for the predecessor adjudicative tribunals</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table\">Chair</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"32\"> <p class=\"table\">2. </p> </td> <td valign=\"top\" width=\"468\"> <p class=\"table\">Associate chair of a predecessor adjudicative tribunal, other than the associate chair appointed as alternate executive chair</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table\">Vice-chair</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"32\"> <p class=\"table\">3.</p> </td> <td valign=\"top\" width=\"468\"> <p class=\"table\">Associate chair appointed as alternate executive chair responsible for the predecessor adjudicative tribunals if the executive chair responsible for the predecessor adjudicative tribunals is unable to act or the position is vacant</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table\">Alternate chair</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"32\"> <p class=\"table\">4.</p> </td> <td valign=\"top\" width=\"468\"> <p class=\"table\">Vice-chair of a predecessor adjudicative tribunal</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table\">Vice-chair</p> </td>\n</tr>\n</table> <p class=\"MsoNormal\"> </p> <p class=\"heading1\"><a name=\"BK10\"></a>Jurisdiction and Powers</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "Jurisdiction and Powers",
+            "section_x": "Jurisdiction and Powers",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "8.",
+            "section_x": "Exclusive jurisdiction",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": "Exclusive jurisdiction",
+            "content": "8 (1) The Tribunal has exclusive jurisdiction in respect of all matters in which jurisdiction is conferred on it by this or any other Act. Same (2) The Tribunal has authority to hear and determine all questions of law and fact with respect to all matters within its jurisdiction, unless limited by this or any other Act.",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>8 </b>(1) The Tribunal has exclusive jurisdiction in respect of all matters in which jurisdiction is conferred on it by this or any other Act.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The Tribunal has authority to hear and determine all questions of law and fact with respect to all matters within its jurisdiction, unless limited by this or any other Act.</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "9.",
+            "section_x": "Orders",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": "Orders",
+            "content": "9 (1) The Tribunal has authority to make orders or give directions as may be necessary or incidental to the exercise of the powers conferred on the Tribunal under this or any other Act. Conditions (2) The Tribunal may include in an order conditions that it considers fair in the circumstances, including a condition that the order comes into force at a future fixed time or on the performance of terms imposed by the Tribunal. Interim orders (3) The Tribunal may make an interim order without notice if it is of the opinion that it is necessary to do so, but no such order shall be made for any longer time than the Tribunal may consider necessary to enable the disposition of the proceeding. Relief (4) Unless another Act specifies otherwise, the Tribunal may, as it considers to be appropriate, (a)  make an order granting all or part of the relief applied for; or (b)  make an order granting relief that is additional to or different from the relief applied for. Extension of time (5) If an order or decision of the Tribunal requires anything to be done within a specified time, the Tribunal may extend the specified time, (a)  on notice and with a hearing; or (b)  without notice or a hearing, if the Tribunal is of the opinion that it is necessary to do so.",
+            "raw_html": "<p class=\"section\"><a name=\"BK12\"></a><b>9 </b>(1) The Tribunal has authority to make orders or give directions as may be necessary or incidental to the exercise of the powers conferred on the Tribunal under this or any other Act.</p> <p class=\"headnote\">Conditions</p> <p class=\"subsection\">(2) The Tribunal may include in an order conditions that it considers fair in the circumstances, including a condition that the order comes into force at a future fixed time or on the performance of terms imposed by the Tribunal.</p> <p class=\"headnote\">Interim orders</p> <p class=\"subsection\">(3) The Tribunal may make an interim order without notice if it is of the opinion that it is necessary to do so, but no such order shall be made for any longer time than the Tribunal may consider necessary to enable the disposition of the proceeding.</p> <p class=\"headnote\">Relief</p> <p class=\"subsection\">(4) Unless another Act specifies otherwise, the Tribunal may, as it considers to be appropriate,</p> <p class=\"paragraph\">  (a)  make an order granting all or part of the relief applied for; or</p> <p class=\"paragraph\">  (b)  make an order granting relief that is additional to or different from the relief applied for.</p> <p class=\"headnote\">Extension of time</p> <p class=\"subsection\">(5) If an order or decision of the Tribunal requires anything to be done within a specified time, the Tribunal may extend the specified time,</p> <p class=\"paragraph\">  (a)  on notice and with a hearing; or</p> <p class=\"paragraph\">  (b)  without notice or a hearing, if the Tribunal is of the opinion that it is necessary to do so.</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "10.",
+            "section_x": "Power to order entry, inspections",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": "Power to order entry, inspections",
+            "content": "10 (1) If the Tribunal considers it necessary, the Tribunal may by order authorize a member or employee of the Tribunal to, at any reasonable time, enter and inspect any land or premises, other than a dwelling, for any purpose relevant to the subject matter of the proceeding, subject to subsection (4). Prior notice required (2) Before making an order under subsection (1), the Tribunal shall give notice of its intention to make the order to the owner or occupier of the land or premises, in accordance with the rules. Submissions (3) An owner or occupier who receives a notice under subsection (2) may make submissions to the Tribunal with respect to the proposed order, in accordance with the rules. Order (4) The Tribunal shall not make an order under subsection (1) until it has given notice under subsection (2) and considered any submissions made under subsection (3). Exercise of powers (5) The member or employee shall exercise their powers under an order made under subsection (1) in accordance with the directions of the Tribunal in the order, this section and the rules. Identification (6) The member or employee shall, on the request of an owner or occupier of the land or premises, identify themself and explain the purpose of the entry and inspection. No use of force (7) The member or employee shall not use force to enter and inspect land or premises under the order. No entry without consent (8) The member or employee shall not, despite the order, enter or inspect land or premises of an owner or occupier who is not a party to the proceeding without the owner or occupier’s consent.",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>10 </b>(1) If the Tribunal considers it necessary, the Tribunal may by order authorize a member or employee of the Tribunal to, at any reasonable time, enter and inspect any land or premises, other than a dwelling, for any purpose relevant to the subject matter of the proceeding, subject to subsection (4).</p> <p class=\"headnote\">Prior notice required</p> <p class=\"subsection\">(2) Before making an order under subsection (1), the Tribunal shall give notice of its intention to make the order to the owner or occupier of the land or premises, in accordance with the rules.</p> <p class=\"headnote\">Submissions</p> <p class=\"subsection\">(3) An owner or occupier who receives a notice under subsection (2) may make submissions to the Tribunal with respect to the proposed order, in accordance with the rules.</p> <p class=\"headnote\">Order</p> <p class=\"subsection\">(4) The Tribunal shall not make an order under subsection (1) until it has given notice under subsection (2) and considered any submissions made under subsection (3).</p> <p class=\"headnote\">Exercise of powers</p> <p class=\"subsection\">(5) The member or employee shall exercise their powers under an order made under subsection (1) in accordance with the directions of the Tribunal in the order, this section and the rules.</p> <p class=\"headnote\">Identification</p> <p class=\"subsection\">(6) The member or employee shall, on the request of an owner or occupier of the land or premises, identify themself and explain the purpose of the entry and inspection.</p> <p class=\"headnote\">No use of force</p> <p class=\"subsection\">(7) The member or employee shall not use force to enter and inspect land or premises under the order.</p> <p class=\"headnote\">No entry without consent</p> <p class=\"subsection\">(8) The member or employee shall not, despite the order, enter or inspect land or premises of an owner or occupier who is not a party to the proceeding without the owner or occupier’s consent.</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "11.",
+            "section_x": "Fees",
+            "part_id": "PART II  ",
+            "part_type": "PART II CONSOLIDATED LAND TRIBUNAL",
+            "section_y": "Fees",
+            "content": "11 (1) The Tribunal may, subject to the approval of the Minister, set and charge fees, (a)  in respect of proceedings; (b)  for providing copies of forms, notices or other documents; and (c)  for other services provided by the Tribunal. Classes (2) The Tribunal may set and charge different fees for different classes of persons and different types of proceedings. Publicly available (3) The Tribunal shall ensure that its fee structure is available to the public. Fee waiver (4) The Tribunal may waive all or any portion of its fees for individuals who are determined, in accordance with the rules, to be low-income individuals. Legislation Act, 2006 (5) Part III (Regulations) of the Legislation Act, 2006 does not apply to the fees. Part III   Proceedings General Practices and Procedures",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>11 </b>(1) The Tribunal may, subject to the approval of the Minister, set and charge fees,</p> <p class=\"paragraph\">  (a)  in respect of proceedings;</p> <p class=\"paragraph\">  (b)  for providing copies of forms, notices or other documents; and</p> <p class=\"paragraph\">  (c)  for other services provided by the Tribunal.</p> <p class=\"headnote\">Classes</p> <p class=\"subsection\">(2) The Tribunal may set and charge different fees for different classes of persons and different types of proceedings.</p> <p class=\"headnote\">Publicly available</p> <p class=\"subsection\">(3) The Tribunal shall ensure that its fee structure is available to the public.</p> <p class=\"headnote\">Fee waiver</p> <p class=\"subsection\">(4) The Tribunal may waive all or any portion of its fees for individuals who are determined, in accordance with the rules, to be low-income individuals.</p> <p class=\"headnoteitalic\">Legislation Act, 2006</p> <p class=\"subsection\">(5) Part III (Regulations) of the <i>Legislation Act, 2006</i> does not apply to the fees.</p> <p class=\"partnum\"><a name=\"BK15\"></a>Part III <br/>  Proceedings</p> <p class=\"heading1\"><a name=\"BK16\"></a>General Practices and Procedures</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "PART III  ",
+            "section_x": "PART III PROCEEDINGS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "General Practices and Procedures",
+            "section_x": "General Practices and Procedures",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "12.",
+            "section_x": "Practices and procedures",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Practices and procedures",
+            "content": "12 (1) The Tribunal shall dispose of proceedings in accordance with any practices and procedures that are required under this or any other Act, subject to subsection (3). Fair, just and expeditious resolution (2) The Tribunal shall, in respect of each proceeding, adopt any practices and procedures provided for in the rules or that are otherwise available to the Tribunal that, in its opinion, offer the best opportunity for a fair, just and expeditious resolution of the merits of the proceedings. Statutory Powers Procedure Act (3) Despite section 32 of the Statutory Powers Procedure Act, this Act, the regulations and the rules prevail over any provisions of that Act with which they conflict.",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>12 </b>(1) The Tribunal shall dispose of proceedings in accordance with any practices and procedures that are required under this or any other Act, subject to subsection (3).</p> <p class=\"headnote\">Fair, just and expeditious resolution</p> <p class=\"subsection\">(2) The Tribunal shall, in respect of each proceeding, adopt any practices and procedures provided for in the rules or that are otherwise available to the Tribunal that, in its opinion, offer the best opportunity for a fair, just and expeditious resolution of the merits of the proceedings.</p> <p class=\"headnoteitalic\">Statutory Powers Procedure Act</p> <p class=\"subsection\">(3) Despite section 32 of the <i>Statutory Powers Procedure Act</i>, this Act, the regulations and the rules prevail over any provisions of that Act with which they conflict.</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "13.",
+            "section_x": "Rules",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Rules",
+            "content": "13 (1) The Tribunal may make rules governing its practices and procedures, including rules that, (a)  provide for and require the use of hearings or of practices and procedures that are alternatives to traditional adjudicative or adversarial procedures; (b)  provide for specified circumstances in which participation in mediation or other dispute resolution processes by parties to a proceeding is mandatory; (c)  provide for and require notice to be provided in a particular manner; (d)  authorize the Tribunal to combine two or more proceedings or any part of them, or hear two or more proceedings at the same time; (e)  authorize the Tribunal to appoint a person from among a class of parties to a proceeding to represent the class where, in the opinion of the Tribunal, the parties have a common interest; or (f)  govern the making of orders under section 10 and the exercise of powers under the orders. General or particular (2) The rules may be general or particular in their application. Legislation Act, 2006 (3) Part III (Regulations) of the Legislation Act, 2006 does not apply to the rules. Application of rules (4) Unless the Tribunal’s failure to comply with the rules, or its exercise of discretion under the rules in a particular manner, causes a substantial wrong that affects the final disposition of a proceeding, neither the failure nor the exercise of discretion is a ground for setting aside a decision of the Tribunal on an application for judicial review or an appeal. Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 13 (4) of the Act is amended by striking out “a ground for setting aside a decision of the Tribunal on an application for judicial review or an appeal” at the end and substituting “a ground for an order or decision of the Tribunal to be set aside on an application for judicial review or rescinded on an appeal”. (See: 2022, c. 21, Sched. 7, s. 1) Section Amendments with date in force (d/m/y) 2022, c. 21, Sched. 7, s. 1 - not in force",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>13 </b>(1) The Tribunal may make rules governing its practices and procedures, including rules that,</p> <p class=\"paragraph\">  (a)  provide for and require the use of hearings or of practices and procedures that are alternatives to traditional adjudicative or adversarial procedures;</p> <p class=\"paragraph\">  (b)  provide for specified circumstances in which participation in mediation or other dispute resolution processes by parties to a proceeding is mandatory;</p> <p class=\"paragraph\">  (c)  provide for and require notice to be provided in a particular manner;</p> <p class=\"paragraph\">  (d)  authorize the Tribunal to combine two or more proceedings or any part of them, or hear two or more proceedings at the same time;</p> <p class=\"paragraph\">  (e)  authorize the Tribunal to appoint a person from among a class of parties to a proceeding to represent the class where, in the opinion of the Tribunal, the parties have a common interest; or</p> <p class=\"paragraph\">  (f)  govern the making of orders under section 10 and the exercise of powers under the orders.</p> <p class=\"headnote\">General or particular</p> <p class=\"subsection\">(2) The rules may be general or particular in their application.</p> <p class=\"headnoteitalic\">Legislation Act, 2006</p> <p class=\"subsection\">(3) Part III (Regulations) of the <i>Legislation Act, 2006</i> does not apply to the rules.</p> <p class=\"headnote\">Application of rules</p> <p class=\"subsection\">(4) Unless the Tribunal’s failure to comply with the rules, or its exercise of discretion under the rules in a particular manner, causes a substantial wrong that affects the final disposition of a proceeding, neither the failure nor the exercise of discretion is a ground for setting aside a decision of the Tribunal on an application for judicial review or an appeal.</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 13 (4) of the Act is amended by striking out “a ground for setting aside a decision of the Tribunal on an application for judicial review or an appeal” at the end and substituting “a ground for an order or decision of the Tribunal to be set aside on an application for judicial review or rescinded on an appeal”. (See: 2022, c. 21, Sched. 7, s. 1)</span></p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S22021#sched7s1\">2022, c. 21, Sched. 7, s. 1</a> </span>- not in force</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "14.",
+            "section_x": "Manner of conduct",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Manner of conduct",
+            "content": "14 The Tribunal may direct that a hearing or any other step in a proceeding, including a case management conference, any other pre-hearing conference or an alternative dispute resolution process, be conducted in person, electronically, in writing or by a combination of any of them, as the Tribunal considers appropriate.",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>14 </b>The Tribunal may direct that a hearing or any other step in a proceeding, including a case management conference, any other pre-hearing conference or an alternative dispute resolution process, be conducted in person, electronically, in writing or by a combination of any of them, as the Tribunal considers appropriate.</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "15.",
+            "section_x": "Case management conferences",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Case management conferences",
+            "content": "15 The Tribunal may direct the parties to a proceeding to participate in a case management conference prior to a hearing, for the following purposes: 1.  To identify additional parties to the proceeding. 2.  To identify, define or narrow the issues raised in the proceeding. 3.  To identify facts or evidence that may be agreed on by the parties. 4.  To provide directions for disclosure of information. 5.  To discuss opportunities for resolving one or more issues in the proceeding, including the possible use of mediation or other dispute resolution processes. 6.  To establish dates by which any steps in the proceeding are to be taken or begun. 7.  To determine the length and schedule of a hearing, if any, and the manner of conducting it. 8.  To determine the order of presentation of submissions. 9.  To deal with any other matter that may assist in the fair, just and expeditious resolution of the issues.",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>15 </b>The Tribunal may direct the parties to a proceeding to participate in a case management conference prior to a hearing, for the following purposes:</p> <p class=\"paragraph\">  1.  To identify additional parties to the proceeding.</p> <p class=\"paragraph\">  2.  To identify, define or narrow the issues raised in the proceeding.</p> <p class=\"paragraph\">  3.  To identify facts or evidence that may be agreed on by the parties.</p> <p class=\"paragraph\">  4.  To provide directions for disclosure of information.</p> <p class=\"paragraph\">  5.  To discuss opportunities for resolving one or more issues in the proceeding, including the possible use of mediation or other dispute resolution processes.</p> <p class=\"paragraph\">  6.  To establish dates by which any steps in the proceeding are to be taken or begun.</p> <p class=\"paragraph\">  7.  To determine the length and schedule of a hearing, if any, and the manner of conducting it.</p> <p class=\"paragraph\">  8.  To determine the order of presentation of submissions.</p> <p class=\"paragraph\">  9.  To deal with any other matter that may assist in the fair, just and expeditious resolution of the issues.</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "16.",
+            "section_x": "Alternative dispute resolution",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Alternative dispute resolution",
+            "content": "16 The Tribunal may, at any time before a hearing is completed, direct the parties to a proceeding to participate in mediation or another dispute resolution process for the purpose of resolving one or more issues in the proceeding.",
+            "raw_html": "<p class=\"section\"><a name=\"BK21\"></a><b>16 </b>The Tribunal may, at any time before a hearing is completed, direct the parties to a proceeding to participate in mediation or another dispute resolution process for the purpose of resolving one or more issues in the proceeding.</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "17.",
+            "section_x": "Limit on non-party participation",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Limit on non-party participation",
+            "content": "17 Except as may be provided for under this or any other Act, a person who is not a party to a proceeding may make submissions to the Tribunal with respect to the proceeding in writing only.",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>17 </b>Except as may be provided for under this or any other Act, a person who is not a party to a proceeding may make submissions to the Tribunal with respect to the proceeding in writing only.</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "18.",
+            "section_x": "Witnesses and evidence",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Witnesses and evidence",
+            "content": "18 (1) At any stage of a proceeding, the Tribunal may, (a)  examine any of the following persons: (i)  a party to the proceeding, (ii)  a witness in the proceeding, or (iii)  a person who has made a submission to the Tribunal with respect to the proceeding, other than a party; (b)  require a party to the proceeding to produce evidence or a witness for examination by the Tribunal; or (c)  require a person referred to in subclause (a) (iii) to produce evidence for examination by the Tribunal. Disclosure to parties (2) The Tribunal shall disclose any evidence it receives in a proceeding to the parties. Limits on examination (3) The Tribunal may limit any examination or cross-examination of a witness, (a)  if the Tribunal is satisfied that all matters relevant to the issues in the proceeding have been fully or fairly disclosed; or (b)  in any other circumstances the Tribunal considers fair and appropriate.",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>18 </b>(1) At any stage of a proceeding, the Tribunal may,</p> <p class=\"paragraph\">  (a)  examine any of the following persons:</p> <p class=\"subpara\">  (i)  a party to the proceeding,</p> <p class=\"subpara\">  (ii)  a witness in the proceeding, or</p> <p class=\"subpara\">  (iii)  a person who has made a submission to the Tribunal with respect to the proceeding, other than a party;</p> <p class=\"paragraph\">  (b)  require a party to the proceeding to produce evidence or a witness for examination by the Tribunal; or</p> <p class=\"paragraph\">  (c)  require a person referred to in subclause (a) (iii) to produce evidence for examination by the Tribunal.</p> <p class=\"headnote\">Disclosure to parties</p> <p class=\"subsection\">(2) The Tribunal shall disclose any evidence it receives in a proceeding to the parties.</p> <p class=\"headnote\">Limits on examination</p> <p class=\"subsection\">(3) The Tribunal may limit any examination or cross-examination of a witness,</p> <p class=\"paragraph\">  (a)  if the Tribunal is satisfied that all matters relevant to the issues in the proceeding have been fully or fairly disclosed; or</p> <p class=\"paragraph\">  (b)  in any other circumstances the Tribunal considers fair and appropriate.</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "19.",
+            "section_x": "Dismissal",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Dismissal",
+            "content": "19 (1) Subject to subsection (4), the Tribunal may, on the motion of any party or on its own initiative, dismiss a proceeding without a hearing, (a)  if the party who brought the proceeding has not paid any fee required to be paid under this Act; (b)  if the party who brought the proceeding has not responded to a request by the Tribunal for further information within the time specified by the Tribunal; Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 19 (1) of the Act is amended by adding the following clause: (See: 2022, c. 21, Sched. 7, s. 2 (1)) (b.1)  if the Tribunal is of the opinion that the party who brought the proceeding has contributed to undue delay of the proceeding; (c)  if the Tribunal is of the opinion that the proceeding has no reasonable prospect of success; (d)  in any circumstance listed in subsection 4.6 (1) of the Statutory Powers Procedure Act; or (e)  in any circumstance provided for under any other Act. Note: On a day to be named by proclamation of the Lieutenant Governor, section 19 of the Act is amended by adding the following subsection: (See: 2022, c. 21, Sched. 7, s. 2 (2)) Same (1.1) Subject to subsection (4), the Tribunal may, on the motion of any party or on its own initiative, dismiss a proceeding if the Tribunal is of the opinion that a party has failed to comply with an order of the Tribunal in the proceeding. 2022, c. 21, Sched. 7, s. 2 (2). Notice (2) The Tribunal shall give the parties notice of its intention to dismiss the proceeding, setting out the reasons for the dismissal and informing the parties of their right to make written submissions to the Tribunal with respect to the dismissal within the time specified in the notice. Submissions (3) A party who receives a notice under subsection (2) may make written submissions to the Tribunal with respect to the dismissal within the time specified in the notice. Dismissal (4) The Tribunal shall not dismiss a proceeding under subsection (1) until it has given notice under subsection (2) and considered any submissions made under subsection (3). Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 19 (4) of the Act is amended by adding “or (1.1)” after “subsection (1)”. (See: 2022, c. 21, Sched. 7, s. 2 (3)) Application (5) For greater certainty, this section applies instead of section 4.6 of the Statutory Powers Procedure Act. Section Amendments with date in force (d/m/y) 2022, c. 21, Sched. 7, s. 2 (1-3) - not in force",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>19 </b>(1) Subject to subsection (4), the Tribunal may, on the motion of any party or on its own initiative, dismiss a proceeding without a hearing,</p> <p class=\"paragraph\">  (a)  if the party who brought the proceeding has not paid any fee required to be paid under this Act;</p> <p class=\"paragraph\">  (b)  if the party who brought the proceeding has not responded to a request by the Tribunal for further information within the time specified by the Tribunal;</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 19 (1) of the Act is amended by adding the following clause: (See: 2022, c. 21, Sched. 7, s. 2 (1))</span></p> <p class=\"Yparagraph\"><span> (b.1)  if the Tribunal is of the opinion that the party who brought the proceeding has contributed to undue delay of the proceeding;</span></p> <p class=\"paragraph\">  (c)  if the Tribunal is of the opinion that the proceeding has no reasonable prospect of success;</p> <p class=\"paragraph\">  (d)  in any circumstance listed in subsection 4.6 (1) of the <i>Statutory Powers Procedure Act</i>; or</p> <p class=\"paragraph\">  (e)  in any circumstance provided for under any other Act.</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, section 19 of the Act is amended by adding the following subsection: (See: 2022, c. 21, Sched. 7, s. 2 (2))</span></p> <p class=\"Yheadnote\"><span>Same</span></p> <p class=\"Ysubsection\"><span>(1.1) Subject to subsection (4), the Tribunal may, on the motion of any party or on its own initiative, dismiss a proceeding if the Tribunal is of the opinion that a party has failed to comply with an order of the Tribunal in the proceeding. 2022, c. 21, Sched. 7, s. 2 (2).</span></p> <p class=\"headnote\">Notice</p> <p class=\"subsection\">(2) The Tribunal shall give the parties notice of its intention to dismiss the proceeding, setting out the reasons for the dismissal and informing the parties of their right to make written submissions to the Tribunal with respect to the dismissal within the time specified in the notice.</p> <p class=\"headnote\">Submissions</p> <p class=\"subsection\">(3) A party who receives a notice under subsection (2) may make written submissions to the Tribunal with respect to the dismissal within the time specified in the notice.</p> <p class=\"headnote\">Dismissal</p> <p class=\"subsection\">(4) The Tribunal shall not dismiss a proceeding under subsection (1) until it has given notice under subsection (2) and considered any submissions made under subsection (3).</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 19 (4) of the Act is amended by adding “or (1.1)” after “subsection (1)”. (See: 2022, c. 21, Sched. 7, s. 2 (3))</span></p> <p class=\"headnote\">Application</p> <p class=\"subsection\">(5) For greater certainty, this section applies instead of section 4.6 of the <i>Statutory Powers Procedure Act</i>.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S22021#sched7s2s1\">2022, c. 21, Sched. 7, s. 2 (1-3)</a> </span>- not in force</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "20.",
+            "section_x": "Costs",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Costs",
+            "content": "20 The Tribunal may, subject to any other Act, fix the costs of and incidental to any proceeding, and order a party to the proceeding to pay the costs, in accordance with the rules. Note: On a day to be named by proclamation of the Lieutenant Governor, section 20 of the Act is amended by adding the following subsection: (See: 2022, c. 21, Sched. 7, s. 3) Same (2) Subsection (1) includes the power to order an unsuccessful party to pay a successful party’s costs. 2022, c. 21, Sched. 7, s. 3. Section Amendments with date in force (d/m/y) 2022, c. 21, Sched. 7, s. 3 - not in force Consolidated Hearings",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>20 </b>The Tribunal may, subject to any other Act, fix the costs of and incidental to any proceeding, and order a party to the proceeding to pay the costs, in accordance with the rules.</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, section 20 of the Act is amended by adding the following subsection: (See: 2022, c. 21, Sched. 7, s. 3)</span></p> <p class=\"Yheadnote\"><span>Same</span></p> <p class=\"Ysubsection\"><span>(2) Subsection (1) includes the power to order an unsuccessful party to pay a successful party’s costs. 2022, c. 21, Sched. 7, s. 3.</span></p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S22021#sched7s3\">2022, c. 21, Sched. 7, s. 3</a> </span>- not in force</p> <p class=\"heading1\"><a name=\"BK26\"></a>Consolidated Hearings</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "Consolidated Hearings",
+            "section_x": "Consolidated Hearings",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "21.",
+            "section_x": "Consolidation of hearings",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Consolidation of hearings",
+            "content": "21 (1) In this section, “administrative tribunal” means one or more persons, whether or not incorporated and however described, on whom a power, right or duty to hold a hearing is conferred under an Act; (“tribunal administratif”) “consolidated hearing” means a hearing held by the Tribunal under clause (4) (a); (“audience commune”) “municipality” includes a board, commission or other local authority exercising any power in respect of municipal affairs or purposes, including school purposes, in unorganized territory; (“municipalité”) “person” includes a municipality, the Crown, a Crown agency within the meaning of the Crown Agency Act, a public body, a partnership, an unincorporated joint venture and an unincorporated association; (“personne”) “proponent” means a person who carries out or proposes to carry out or is the owner or person having charge, management or control of an undertaking; (“promoteur”) “undertaking” means an enterprise or activity, or a proposal, plan or program in respect of an enterprise or activity. (“entreprise”) Application (2) Except as otherwise provided by the regulations, this section applies in respect of an undertaking if one or more of the Acts prescribed by the regulations provides that more than one hearing is or may be required to be held by more than one administrative tribunal in relation to the undertaking. Notice (3) The proponent of an undertaking to which this section applies shall give notice of the undertaking to the Tribunal in accordance with the regulations. Effect of notice (4) Except as otherwise provided by the regulations, if notice is given to the Tribunal in respect of an undertaking, (a)  all matters related to the undertaking that could be considered at a hearing with respect to which this section applies shall be heard by the Tribunal; and (b)  no other person or body shall hold a hearing in respect of a matter referred to in clause (a). Decision (5) The Tribunal may make any decision on a matter in a consolidated hearing that may be made by an administrative tribunal that has the power, right or duty to hold a hearing on the matter, or that may be made by a person or body after the holding of the hearing, including the granting of any authority or directing the granting or issuing of a permit or licence and the imposition of terms and conditions. Effect of decision (6) The Tribunal’s decision on a matter in a consolidated hearing stands for all purposes in place of any decision, order or action that is required or may be made or taken by an administrative tribunal that has a power, right or duty to hold a hearing on the matter, or by any other person or body after the holding of the hearing. Review and Appeal",
+            "raw_html": "<p class=\"section\"><a name=\"BK27\"></a><b>21 </b>(1) In this section,</p> <p class=\"definition\">“administrative tribunal” means one or more persons, whether or not incorporated and however described, on whom a power, right or duty to hold a hearing is conferred under an Act; (“tribunal administratif”)</p> <p class=\"definition\">“consolidated hearing” means a hearing held by the Tribunal under clause (4) (a); (“audience commune”)</p> <p class=\"definition\">“municipality” includes a board, commission or other local authority exercising any power in respect of municipal affairs or purposes, including school purposes, in unorganized territory; (“municipalité”)</p> <p class=\"definition\">“person” includes a municipality, the Crown, a Crown agency within the meaning of the <i>Crown Agency Act</i>, a public body, a partnership, an unincorporated joint venture and an unincorporated association; (“personne”)</p> <p class=\"definition\">“proponent” means a person who carries out or proposes to carry out or is the owner or person having charge, management or control of an undertaking; (“promoteur”)</p> <p class=\"definition\">“undertaking” means an enterprise or activity, or a proposal, plan or program in respect of an enterprise or activity. (“entreprise”)</p> <p class=\"headnote\">Application</p> <p class=\"subsection\">(2) Except as otherwise provided by the regulations, this section applies in respect of an undertaking if one or more of the Acts prescribed by the regulations provides that more than one hearing is or may be required to be held by more than one administrative tribunal in relation to the undertaking.</p> <p class=\"headnote\">Notice</p> <p class=\"subsection\">(3) The proponent of an undertaking to which this section applies shall give notice of the undertaking to the Tribunal in accordance with the regulations.</p> <p class=\"headnote\">Effect of notice</p> <p class=\"subsection\">(4) Except as otherwise provided by the regulations, if notice is given to the Tribunal in respect of an undertaking,</p> <p class=\"paragraph\">  (a)  all matters related to the undertaking that could be considered at a hearing with respect to which this section applies shall be heard by the Tribunal; and</p> <p class=\"paragraph\">  (b)  no other person or body shall hold a hearing in respect of a matter referred to in clause (a).</p> <p class=\"headnote\">Decision</p> <p class=\"subsection\">(5) The Tribunal may make any decision on a matter in a consolidated hearing that may be made by an administrative tribunal that has the power, right or duty to hold a hearing on the matter, or that may be made by a person or body after the holding of the hearing, including the granting of any authority or directing the granting or issuing of a permit or licence and the imposition of terms and conditions.</p> <p class=\"headnote\">Effect of decision</p> <p class=\"subsection\">(6) The Tribunal’s decision on a matter in a consolidated hearing stands for all purposes in place of any decision, order or action that is required or may be made or taken by an administrative tribunal that has a power, right or duty to hold a hearing on the matter, or by any other person or body after the holding of the hearing.</p> <p class=\"heading1\"><a name=\"BK28\"></a>Review and Appeal</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "Review and Appeal",
+            "section_x": "Review and Appeal",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "22.",
+            "section_x": "Decisions final",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Decisions final",
+            "content": "22 Except as provided for in sections 23 and 24, orders and decisions of the Tribunal are final and binding.",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>22 </b>Except as provided for in sections 23 and 24, orders and decisions of the Tribunal are final and binding.</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "23.",
+            "section_x": "Review",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Review",
+            "content": "23 Unless another Act specifies otherwise, the Tribunal may review, rescind or vary any order or decision made by it in accordance with the rules.",
+            "raw_html": "<p class=\"section\"><a name=\"BK30\"></a><b>23 </b>Unless another Act specifies otherwise, the Tribunal may review, rescind or vary any order or decision made by it in accordance with the rules.</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "24.",
+            "section_x": "Appeal",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROCEEDINGS",
+            "section_y": "Appeal",
+            "content": "24 (1) Unless another Act specifies otherwise, an order or decision of the Tribunal may be appealed to the Divisional Court, with leave of that court on motion in accordance with subsection (3), but only on a question of law. Exception, consolidated hearings (2) Despite subsection (1) or any other Act, there is no appeal from a decision of the Tribunal in a consolidated hearing under section 21. Notice to Tribunal (3) A person appealing an order or decision of the Tribunal shall give notice of the motion for leave to appeal to the Tribunal. Tribunal entitled to be heard (4) The Tribunal is entitled to be heard on the argument of the appeal, including on the motion for leave to appeal. No liability for costs (5) Neither the Tribunal nor any member of the Tribunal is liable for any costs in connection with an appeal under this section. Part IV   General",
+            "raw_html": "<p class=\"section\"><a name=\"BK31\"></a><b>24 </b>(1) Unless another Act specifies otherwise, an order or decision of the Tribunal may be appealed to the Divisional Court, with leave of that court on motion in accordance with subsection (3), but only on a question of law.</p> <p class=\"headnote\">Exception, consolidated hearings</p> <p class=\"subsection\">(2) Despite subsection (1) or any other Act, there is no appeal from a decision of the Tribunal in a consolidated hearing under section 21.</p> <p class=\"headnote\">Notice to Tribunal</p> <p class=\"subsection\">(3) A person appealing an order or decision of the Tribunal shall give notice of the motion for leave to appeal to the Tribunal.</p> <p class=\"headnote\">Tribunal entitled to be heard</p> <p class=\"subsection\">(4) The Tribunal is entitled to be heard on the argument of the appeal, including on the motion for leave to appeal.</p> <p class=\"headnote\">No liability for costs</p> <p class=\"subsection\">(5) Neither the Tribunal nor any member of the Tribunal is liable for any costs in connection with an appeal under this section.</p> <p class=\"partnum\"><a name=\"BK32\"></a>Part IV <br/>  General</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "PART IV  ",
+            "section_x": "PART IV GENERAL",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "25.",
+            "section_x": "Protection from personal liability",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": "Protection from personal liability",
+            "content": "25 (1) No action or other proceeding shall be commenced against a current or former member of the Tribunal or employee in the Tribunal for any act done in good faith in the exercise or performance, or intended exercise or performance, of the person’s powers, functions or duties under this Act or any other Act, or for any alleged neglect or default in the exercise or performance in good faith of their powers, functions or duties under this Act or any other Act. Crown liability (2) Despite subsection 8 (3) of the Crown Liability and Proceedings Act, 2019, subsection (1) does not relieve the Crown of liability in respect of a tort committed by a person mentioned in subsection (1) to which the Crown would otherwise be subject.",
+            "raw_html": "<p class=\"section\"><a name=\"BK33\"></a><b>25 </b>(1) No action or other proceeding shall be commenced against a current or former member of the Tribunal or employee in the Tribunal for any act done in good faith in the exercise or performance, or intended exercise or performance, of the person’s powers, functions or duties under this Act or any other Act, or for any alleged neglect or default in the exercise or performance in good faith of their powers, functions or duties under this Act or any other Act.</p> <p class=\"headnote\">Crown liability</p> <p class=\"subsection\">(2) Despite subsection 8 (3) of the <i>Crown Liability and Proceedings Act, 2019</i>, subsection (1) does not relieve the Crown of liability in respect of a tort committed by a person mentioned in subsection (1) to which the Crown would otherwise be subject.</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "26.",
+            "section_x": "Non-compellability",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": "Non-compellability",
+            "content": "26 No member of or employee in the Tribunal shall be required to testify in any proceeding with regard to information obtained in the discharge of their duties as a member or employee.",
+            "raw_html": "<p class=\"section\"><a name=\"BK34\"></a><b>26 </b>No member of or employee in the Tribunal shall be required to testify in any proceeding with regard to information obtained in the discharge of their duties as a member or employee.</p>"
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "27.",
+            "section_x": "Use of meeting facility",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": "Use of meeting facility",
+            "content": "27 If the Tribunal directs that a hearing or any other step in a proceeding be conducted in a municipality in which there is an appropriate meeting facility belonging to the municipality, the municipality shall, on request, allow the hearing or other step to be conducted in the facility and shall make all necessary arrangements for the hearing or other step.",
+            "raw_html": "<p class=\"section\"><a name=\"BK35\"></a><b>27 </b>If the Tribunal directs that a hearing or any other step in a proceeding be conducted in a municipality in which there is an appropriate meeting facility belonging to the municipality, the municipality shall, on request, allow the hearing or other step to be conducted in the facility and shall make all necessary arrangements for the hearing or other step.</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "28.",
+            "section_x": "Crown bound",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": "Crown bound",
+            "content": "28 This Act binds the Crown. Regulations",
+            "raw_html": "<p class=\"section\"><a name=\"BK36\"></a><b>28 </b>This Act binds the Crown.</p> <p class=\"headnote\">Regulations</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "29.",
+            "section_x": "Regulations",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": "Lieutenant Governor in Council",
+            "content": "29 (1) The Lieutenant Governor in Council may make regulations, (a)  governing circumstances, periods and purposes for the purposes of subsection 4 (3); (b)  for the purposes of section 21, (i)  prescribing Acts for the purposes of subsection 21 (2), (ii)  exempting undertakings or hearings from the application of section 21, and prescribing conditions that apply to any such exemption, (iii)  governing notice under subsection 21 (3), including prescribing the form and contents of the notice, (iv)  providing for and governing exemptions from subsection 21 (4), (v)  specifying the parties to a consolidated hearing, (vi)  governing the practices and procedures of the Tribunal in a consolidated hearing. Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 29 (1) of the Act is amended by adding the following clause: (See: 2022, c. 21, Sched. 7, s. 4 (1)) (c)  requiring the Tribunal to prioritize the resolution of specified classes of proceedings. Minister (2) The Minister may make regulations, (a)  governing the practices and procedures of the Tribunal, other than in relation to a consolidated hearing under section 21; Note: On a day to be named by proclamation of the Lieutenant Governor, clause 29 (2) (a) of the Act is repealed and the following substituted: (See: 2022, c. 21, Sched. 7, s. 4 (2)) (a)  governing the practices and procedures of the Tribunal, subject to the regulations made under clause (1) (c) and other than in relation to a consolidated hearing under section 21, which may include prescribing timelines that shall apply with respect to specified steps taken by the Tribunal in specified classes of proceedings, and governing any related transitional matters; (b)  governing any transitional matters that may arise from the enactment of this Act or the repeal or amendment of any Act or revocation of any regulation by this Act with respect to proceedings before the Tribunal, including in relation to, (i)  proceedings before a predecessor adjudicative tribunal that were commenced but not finally disposed of before the transition date, (ii)  matters referred for a hearing under section 7 of the Expropriations Act before the transition date, or (iii)  proceedings commenced before the Tribunal on or after the transition date; (c)  providing for the continued application of any provision of an Act that is repealed or amended, or provision of a regulation that is revoked, by this Act as that provision read immediately before the transition date, with such modifications as may be specified by the regulations. Note: On a day to be named by proclamation of the Lieutenant Governor, section 29 of the Act is amended by adding the following subsections: (See: 2022, c. 21, Sched. 7, s. 4 (3)) Timelines applicable to Tribunal (2.1) The failure of the Tribunal to comply with any timeline prescribed under clause (2) (a) with respect to a specified step in a proceeding does not invalidate the proceeding, and is not a ground for an order or decision of the Tribunal to be set aside on an application for judicial review or rescinded on an appeal. 2022, c. 21, Sched. 7, s. 4 (3). Same, reporting (2.2) The Tribunal shall, on the Minister’s request and in the time and manner specified by the Minister, report to the Minister on such matters as may be specified by the Minister respecting the Tribunal’s compliance with any timelines prescribed under clause (2) (a). 2022, c. 21, Sched. 7, s. 4 (3). Conflict (3) In the event of a conflict between a regulation made under subclause (1) (b) (vi) or clause (2) (a) and the rules, the regulation prevails to the extent of the conflict. Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 29 (3) of the Act is amended by striking out “or clause (2) (a)” and substituting “or clause (1) (c) or (2) (a)”. (See: 2022, c. 21, Sched. 7, s. 4 (4)) Same (4) In the event of a conflict between a regulation made under clause (2) (b) or (c) and this Act or the rules, the regulation prevails to the extent of the conflict. Transition, consolidated hearings (5) For greater certainty, a regulation may be made under clause (2) (b) respecting transitional matters in relation to consolidated hearings. Section Amendments with date in force (d/m/y) 2022, c. 21, Sched. 7, s. 4 (1-4) - not in force Part V (OMITTED) 30-99 Omitted (amends, repeals or revokes other legislation). Part VI (OMITTED) 100 Omitted\r\n(provides for coming into force of provisions of this Act). 101 Omitted (enacts short title of this Act). ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK37\"></a><b>29 </b>(1) The Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a)  governing circumstances, periods and purposes for the purposes of subsection 4 (3);</p> <p class=\"paragraph\">  (b)  for the purposes of section 21,</p> <p class=\"subpara\">  (i)  prescribing Acts for the purposes of subsection 21 (2),</p> <p class=\"subpara\">  (ii)  exempting undertakings or hearings from the application of section 21, and prescribing conditions that apply to any such exemption,</p> <p class=\"subpara\">  (iii)  governing notice under subsection 21 (3), including prescribing the form and contents of the notice,</p> <p class=\"subpara\">  (iv)  providing for and governing exemptions from subsection 21 (4),</p> <p class=\"subpara\">  (v)  specifying the parties to a consolidated hearing,</p> <p class=\"subpara\">  (vi)  governing the practices and procedures of the Tribunal in a consolidated hearing.</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 29 (1) of the Act is amended by adding the following clause: (See: 2022, c. 21, Sched. 7, s. 4 (1))</span></p> <p class=\"Yparagraph\"><span>  (c)  requiring the Tribunal to prioritize the resolution of specified classes of proceedings.</span></p> <p class=\"headnote\">Minister</p> <p class=\"subsection\">(2) The Minister may make regulations,</p> <p class=\"paragraph\">  (a)  governing the practices and procedures of the Tribunal, other than in relation to a consolidated hearing under section 21;</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, clause 29 (2) (a) of the Act is repealed and the following substituted: (See: 2022, c. 21, Sched. 7, s. 4 (2))</span></p> <p class=\"Yparagraph\"><span>  (a)  governing the practices and procedures of the Tribunal, subject to the regulations made under clause (1) (c) and other than in relation to a consolidated hearing under section 21, which may include prescribing timelines that shall apply with respect to specified steps taken by the Tribunal in specified classes of proceedings, and governing any related transitional matters;</span></p> <p class=\"paragraph\">  (b)  governing any transitional matters that may arise from the enactment of this Act or the repeal or amendment of any Act or revocation of any regulation by this Act with respect to proceedings before the Tribunal, including in relation to,</p> <p class=\"subpara\">  (i)  proceedings before a predecessor adjudicative tribunal that were commenced but not finally disposed of before the transition date,</p> <p class=\"subpara\">  (ii)  matters referred for a hearing under section 7 of the <i>Expropriations Act</i> before the transition date, or</p> <p class=\"subpara\">  (iii)  proceedings commenced before the Tribunal on or after the transition date;</p> <p class=\"paragraph\">  (c)  providing for the continued application of any provision of an Act that is repealed or amended, or provision of a regulation that is revoked, by this Act as that provision read immediately before the transition date, with such modifications as may be specified by the regulations.</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, section 29 of the Act is amended by adding the following subsections: (See: 2022, c. 21, Sched. 7, s. 4 (3))</span></p> <p class=\"Yheadnote\"><span>Timelines applicable to Tribunal</span></p> <p class=\"Ysubsection\"><span>(2.1) The failure of the Tribunal to comply with any timeline prescribed under clause (2) (a) with respect to a specified step in a proceeding does not invalidate the proceeding, and is not a ground for an order or decision of the Tribunal to be set aside on an application for judicial review or rescinded on an appeal. 2022, c. 21, Sched. 7, s. 4 (3).</span></p> <p class=\"Yheadnote\"><span>Same, reporting</span></p> <p class=\"Ysubsection\"><span>(2.2) The Tribunal shall, on the Minister’s request and in the time and manner specified by the Minister, report to the Minister on such matters as may be specified by the Minister respecting the Tribunal’s compliance with any timelines prescribed under clause (2) (a). 2022, c. 21, Sched. 7, s. 4 (3).</span></p> <p class=\"headnote\">Conflict</p> <p class=\"subsection\">(3) In the event of a conflict between a regulation made under subclause (1) (b) (vi) or clause (2) (a) and the rules, the regulation prevails to the extent of the conflict.</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 29 (3) of the Act is amended by striking out “or clause (2) (a)” and substituting “or clause (1) (c) or (2) (a)”. (See: 2022, c. 21, Sched. 7, s. 4 (4))</span></p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(4) In the event of a conflict between a regulation made under clause (2) (b) or (c) and this Act or the rules, the regulation prevails to the extent of the conflict.</p> <p class=\"headnote\">Transition, consolidated hearings</p> <p class=\"subsection\">(5) For greater certainty, a regulation may be made under clause (2) (b) respecting transitional matters in relation to consolidated hearings.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S22021#sched7s4s1\">2022, c. 21, Sched. 7, s. 4 (1-4)</a> </span>- not in force</p> <p class=\"headingx\"><b>Part </b><b>V (OMITTED)</b></p> <p class=\"section\"><b>30-99</b><b> </b><span class=\"ovsmallcap\">Omitted (amends, repeals or revokes other legislation).</span></p> <p class=\"headingx\"><b>Part </b><b>VI (OMITTED)</b></p> <p class=\"section\"><b>100 </b><span class=\"ovsmallcap\">Omitted</span>\r\n(<span class=\"ovsmallcap\">provides for coming into force of provisions of this Act</span>).</p> <p class=\"section\"><b>101</b><b> </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act).</span></p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/21o04\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

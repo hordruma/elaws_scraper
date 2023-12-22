@@ -1,0 +1,28 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 648: TAX TABLE FOR INDIVIDUALS",
+        "reg_name_text": "TAX TABLE FOR INDIVIDUALS",
+        "citation": "R.R.O. 1990, Reg. 648: ",
+        "act_under": "Income Tax Act   Loi de l’impôt sur le revenu",
+        "url": "https://www.ontario.ca/laws/regulation/900648",
+        "date_scraped": "2023-12-19 06:17:46"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/900648/v1",
+            "valid_from": "December 31, 1990",
+            "valid_to": "September 30, 2010"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": "1. (1) For the purpose of subsection 10 (2) of the Act, a Table for a taxation year shall be prepared in accordance with the following rules: 1. The Table shall be divided into the same ranges of taxable amounts set out in the Table for the taxation year referred to in subsection 117 (6) of the Federal Act. 2. The Table shall specify the amount of tax for the taxation year payable in lieu of the tax otherwise determined under one or more sections of the Act with respect to taxable amounts within each range. 3. The amount of tax specified in the Table for all taxable amounts within a range shall be equal to the tax that otherwise would be payable under one or more sections of the Act for the taxation year with respect to a taxable amount that is equal to the average of the highest and lowest taxable amounts in the range. 4. The Table shall not apply with respect to any taxes imposed under a section of the Act that are not included in the determination of the amounts of tax specified in the Table. R.R.O. 1990, Reg. 648, s. 1 (1). (2) For the purposes of this section, “taxable amount” means tax payable under the Federal Act as defined by subsection 4 (1) of the Act. R.R.O. 1990, Reg. 648, s. 1 (2). ",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>(1) For the purpose of subsection 10 (2) of the Act, a Table for a taxation year shall be prepared in accordance with the following rules:</p> <p class=\"paragraph-e\">1. The Table shall be divided into the same ranges of taxable amounts set out in the Table for the taxation year referred to in subsection 117 (6) of the Federal Act.</p> <p class=\"paragraph-e\">2. The Table shall specify the amount of tax for the taxation year payable in lieu of the tax otherwise determined under one or more sections of the Act with respect to taxable amounts within each range.</p> <p class=\"paragraph-e\">3. The amount of tax specified in the Table for all taxable amounts within a range shall be equal to the tax that otherwise would be payable under one or more sections of the Act for the taxation year with respect to a taxable amount that is equal to the average of the highest and lowest taxable amounts in the range.</p> <p class=\"paragraph-e\">4. The Table shall not apply with respect to any taxes imposed under a section of the Act that are not included in the determination of the amounts of tax specified in the Table. R.R.O. 1990, Reg. 648, s. 1 (1).</p> <p class=\"subsection-e\">(2) For the purposes of this section,</p> <p class=\"firstdef-e\">“taxable amount” means tax payable under the Federal Act as defined by subsection 4 (1) of the Act. R.R.O. 1990, Reg. 648, s. 1 (2).</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

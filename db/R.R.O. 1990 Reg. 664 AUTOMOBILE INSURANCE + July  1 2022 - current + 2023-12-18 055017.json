@@ -1,0 +1,653 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 664: AUTOMOBILE INSURANCE",
+        "reg_name_text": "AUTOMOBILE INSURANCE",
+        "citation": "R.R.O. 1990, Reg. 664: ",
+        "act_under": "Insurance Act",
+        "url": "https://www.ontario.ca/laws/regulation/900664",
+        "date_scraped": "2023-12-18 05:50:18"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July  1, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v24",
+            "valid_from": "April  4, 2022",
+            "valid_to": "June 30, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v23",
+            "valid_from": "March  1, 2022",
+            "valid_to": "April  3, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v22",
+            "valid_from": "February 28, 2022",
+            "valid_to": "February 28, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v21",
+            "valid_from": "July  1, 2020",
+            "valid_to": "February 27, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v20",
+            "valid_from": "June  8, 2019",
+            "valid_to": "June 30, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v19",
+            "valid_from": "June  6, 2019",
+            "valid_to": "June  7, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v18",
+            "valid_from": "July  4, 2016",
+            "valid_to": "June  5, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v17",
+            "valid_from": "June  1, 2016",
+            "valid_to": "July  3, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v16",
+            "valid_from": "April  1, 2016",
+            "valid_to": "May 31, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v15",
+            "valid_from": "March  4, 2016",
+            "valid_to": "March 31, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v14",
+            "valid_from": "August 26, 2015",
+            "valid_to": "March  3, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v13",
+            "valid_from": "July 24, 2015",
+            "valid_to": "August 25, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v12",
+            "valid_from": "September  1, 2010",
+            "valid_to": "July 23, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v11",
+            "valid_from": "July 14, 2010",
+            "valid_to": "August 31, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v10",
+            "valid_from": "February 26, 2010",
+            "valid_to": "July 13, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v9",
+            "valid_from": "May  1, 2008",
+            "valid_to": "February 25, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v8",
+            "valid_from": "March 26, 2008",
+            "valid_to": "April 30, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v7",
+            "valid_from": "March  1, 2006",
+            "valid_to": "March 25, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v6",
+            "valid_from": "October 28, 2005",
+            "valid_to": "February 28, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v5",
+            "valid_from": "June 13, 2005",
+            "valid_to": "October 27, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v4",
+            "valid_from": "February 18, 2005",
+            "valid_to": "June 12, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v3",
+            "valid_from": "September  1, 2004",
+            "valid_to": "February 17, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v2",
+            "valid_from": "July 23, 2004",
+            "valid_to": "August 31, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900664/v1",
+            "valid_from": "December 24, 2003",
+            "valid_to": "July 22, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Definitions",
+            "Section2": "1-2",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Monthly Premium Payments (Section 234 of the Act)",
+            "Section2": "3",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Exemption from Notice (Section 236 of the Act)",
+            "Section2": "4",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Refusal to Issue Contracts (Section 237 of the Act)",
+            "Section2": "5",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Added Coverage to Offset Tort Deductibles Endorsement",
+            "Section2": "5.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Direct Compensation — Property Damage (Clause 263 (5) (b) of the Act)",
+            "Section2": "6-8.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Indemnification for Statutory Accident Benefits (Section 275 of the Act)",
+            "Section2": "9",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Settlements — Statutory Accident Benefits",
+            "Section2": "9.1-9.2",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Dispute Resolution (Section 280 of the Act)",
+            "Section2": "10-14",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Prescribed Elements of Risk Classification System (Sections 410 to 417 of the Act)",
+            "Section2": "14.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Application of Sections 410 to 417 of the Act",
+            "Section2": "15",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Expedited Risk Classification and Rate Approval (Section 411 of the Act)",
+            "Section2": "15.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Prohibited Risk Classification Elements (Sections 410 to 417 of the Act)",
+            "Section2": "16",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Group Marketing Plans",
+            "Section2": "17",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Public Adjusters — Statutory Accident Benefits (Section 398 of the Act)",
+            "Section2": "18",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Transition",
+            "Section2": "19-26",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  1. In this Regulation, “commercial vehicle” means an automobile used primarily to transport materials, goods, tools or equipment in connection with the insured’s occupation, and includes a police department vehicle, a fire department vehicle, a driver training vehicle, a vehicle designed specifically for construction or maintenance purposes, a vehicle rented for thirty days or less, or a trailer intended for use with a commercial vehicle; (“véhicule utilitaire”) “fleet” means a group of not fewer than five automobiles that meets the following requirements: 1. At least five of the automobiles in the group are commercial vehicles, public vehicles or vehicles used for business purposes. 2. The automobiles in the group are, i. under common ownership or management, and any automobiles in the group that are subject to a lease agreement for a period in excess of 30 days are leased to the same insured person, or ii. available for hire through a common online-enabled application or system for the pre-arrangement of transportation, and insured under a contract of automobile insurance in which the automobile owner or lessee, as the case may be, has coverage as an insured named in the contract; (“parc automobile”) “public vehicle” means an automobile used primarily to provide transportation services to the public, and includes an ambulance, bus, funeral vehicle, limousine or taxi. (“véhicule public”)  O. Reg. 780/93, s. 2; O. Reg. 275/03, s. 1; O. Reg. 43/16, s. 1; O. Reg. 252/16, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>In this Regulation,</p> <p class=\"firstdef-e\">“commercial vehicle” means an automobile used primarily to transport materials, goods, tools or equipment in connection with the insured’s occupation, and includes a police department vehicle, a fire department vehicle, a driver training vehicle, a vehicle designed specifically for construction or maintenance purposes, a vehicle rented for thirty days or less, or a trailer intended for use with a commercial vehicle; (“véhicule utilitaire”)</p> <p class=\"definition-e\">“fleet” means a group of not fewer than five automobiles that meets the following requirements:</p> <p class=\"defparagraph-e\">  1. At least five of the automobiles in the group are commercial vehicles, public vehicles or vehicles used for business purposes.</p> <p class=\"defparagraph-e\">  2. The automobiles in the group are,</p> <p class=\"defsubpara-e\">  i. under common ownership or management, and any automobiles in the group that are subject to a lease agreement for a period in excess of 30 days are leased to the same insured person, or</p> <p class=\"defsubpara-e\">  ii. available for hire through a common online-enabled application or system for the pre-arrangement of transportation, and insured under a contract of automobile insurance in which the automobile owner or lessee, as the case may be, has coverage as an insured named in the contract; (“parc automobile”)</p> <p class=\"definition-e\">“public vehicle” means an automobile used primarily to provide transportation services to the public, and includes an ambulance, bus, funeral vehicle, limousine or taxi. (“véhicule public”)  O. Reg. 780/93, s. 2; O. Reg. 275/03, s. 1; O. Reg. 43/16, s. 1; O. Reg. 252/16, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. Revoked:  O. Reg. 391/02, s. 1. Monthly Premium Payments (Section 234 of the Act)",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 391/02, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Monthly Premium Payments (Section 234 of the Act)</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) This section applies with respect to statutory condition 3 as set out in the Schedule to Ontario Regulation 777/93.  O. Reg. 780/93, s. 3 (1). (2) An insurer is not required to permit an insured to pay the premium in instalments unless all of the following conditions are met: 1. The insurer, together with its affiliates, insured at least 10,000 private passenger automobiles in Ontario during the previous year. 2. The contract is written on Ontario Automobile Policy 1 or Ontario Policy Form 2. 3. The contract does not insure a commercial vehicle or public vehicle. 4. The contract does not insure five or more vehicles that are under common ownership or management. 5. The total annual premium payable under the contract exceeds $300. 6. The insured has not had more than one automobile insurance policy terminated by an insurer for non-payment of the premium during the thirty-six months before the contract takes effect.  O. Reg. 780/93, s. 3 (1); O. Reg. 464/96, s. 2. (3) Revoked:  O. Reg. 780/93, s. 3 (1). (4) As a precondition for permitting an insured to pay the premium in instalments, an insurer may require that the insured, (a) make an initial payment equal to two monthly instalments of the premium; and (b) agree to make all payments under the contract by pre-authorized payment from the insured’s account at a financial institution.  R.R.O. 1990, Reg. 664, s. 3 (4). (5) Revoked: O. Reg. 250/15, s. 1 (1). (5.1) The maximum interest rate that an insurer may charge for instalment payments in respect of a contract entered into or renewed before June 1, 2016 is, (a) 3 per cent of the total premium payable under the contract, if the term of the contract is twelve months or more; (b) 1.5 per cent of the total premium payable under the contract, if the term of the contract is six months or more but less than twelve months; and (c) 0.5 per cent of the total premium payable under the contract, if the term of the contract is less than six months.  O. Reg. 780/93, s. 3 (3); O. Reg. 250/15, s. 1 (2). (5.2) The maximum interest rate that an insurer may charge for instalment payments in respect of a contract entered into or renewed on or after June 1, 2016 is, (a) 1.3 per cent of the total premium payable under the contract, if the term of the contract is twelve months or more; (b) 0.65 per cent of the total premium payable under the contract, if the term of the contract is six months or more but less than twelve months; and (c) 0.22 per cent of the total premium payable under the contract, if the term of the contract is less than six months. O. Reg. 250/15, s. 1 (3). (6) The amount of each instalment payment shall be calculated as blended principal and interest. (7) An insurer who is not required to permit its insureds to pay their premiums in instalments but who chooses to do so is subject to the same requirements as those insurers who are required to permit their insureds to pay their premiums in instalments.  R.R.O. 1990, Reg. 664, s. 3 (6, 7). Exemption from Notice (Section 236 of the Act)",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) This section applies with respect to statutory condition 3 as set out in the Schedule to Ontario Regulation 777/93.  O. Reg. 780/93, s. 3 (1).</p> <p class=\"subsection-e\">  (2) An insurer is not required to permit an insured to pay the premium in instalments unless all of the following conditions are met:</p> <p class=\"paragraph-e\">  1. The insurer, together with its affiliates, insured at least 10,000 private passenger automobiles in Ontario during the previous year.</p> <p class=\"paragraph-e\">  2. The contract is written on Ontario Automobile Policy 1 or Ontario Policy Form 2.</p> <p class=\"paragraph-e\">  3. The contract does not insure a commercial vehicle or public vehicle.</p> <p class=\"paragraph-e\">  4. The contract does not insure five or more vehicles that are under common ownership or management.</p> <p class=\"paragraph-e\">  5. The total annual premium payable under the contract exceeds $300.</p> <p class=\"paragraph-e\">  6. The insured has not had more than one automobile insurance policy terminated by an insurer for non-payment of the premium during the thirty-six months before the contract takes effect.  O. Reg. 780/93, s. 3 (1); O. Reg. 464/96, s. 2.</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 780/93, s. 3 (1).</p> <p class=\"subsection-e\">  (4) As a precondition for permitting an insured to pay the premium in instalments, an insurer may require that the insured,</p> <p class=\"clause-e\">  (a) make an initial payment equal to two monthly instalments of the premium; and</p> <p class=\"clause-e\">  (b) agree to make all payments under the contract by pre-authorized payment from the insured’s account at a financial institution.  R.R.O. 1990, Reg. 664, s. 3 (4).</p> <p class=\"subsection-e\">  (5) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 250/15, s. 1 (1).</p> <p class=\"subsection-e\">  (5.1) The maximum interest rate that an insurer may charge for instalment payments in respect of a contract entered into or renewed before June 1, 2016 is,</p> <p class=\"clause-e\">  (a) 3 per cent of the total premium payable under the contract, if the term of the contract is twelve months or more;</p> <p class=\"clause-e\">  (b) 1.5 per cent of the total premium payable under the contract, if the term of the contract is six months or more but less than twelve months; and</p> <p class=\"clause-e\">  (c) 0.5 per cent of the total premium payable under the contract, if the term of the contract is less than six months.  O. Reg. 780/93, s. 3 (3); O. Reg. 250/15, s. 1 (2).</p> <p class=\"subsection-e\">  (5.2) The maximum interest rate that an insurer may charge for instalment payments in respect of a contract entered into or renewed on or after June 1, 2016 is,</p> <p class=\"clause-e\">  (a) 1.3 per cent of the total premium payable under the contract, if the term of the contract is twelve months or more;</p> <p class=\"clause-e\">  (b) 0.65 per cent of the total premium payable under the contract, if the term of the contract is six months or more but less than twelve months; and</p> <p class=\"clause-e\">  (c) 0.22 per cent of the total premium payable under the contract, if the term of the contract is less than six months. O. Reg. 250/15, s. 1 (3).</p> <p class=\"subsection-e\">  (6) The amount of each instalment payment shall be calculated as blended principal and interest.</p> <p class=\"subsection-e\">  (7) An insurer who is not required to permit its insureds to pay their premiums in instalments but who chooses to do so is subject to the same requirements as those insurers who are required to permit their insureds to pay their premiums in instalments.  R.R.O. 1990, Reg. 664, s. 3 (6, 7).</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Exemption from Notice (Section 236 of the Act)</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. Insurers are exempt from the requirements of section 236 of the Act with respect to every contract of automobile insurance that insures a fleet.  O. Reg. 275/03, s. 2. Refusal to Issue Contracts (Section 237 of the Act)",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>Insurers are exempt from the requirements of section 236 of the Act with respect to every contract of automobile insurance that insures a fleet.  O. Reg. 275/03, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Refusal to Issue Contracts (Section 237 of the Act)</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) No insurer shall decline to issue, refuse to renew or terminate any contract of automobile insurance or refuse to provide or continue any coverage or endorsement solely because, (a) the applicant or another person who would be an insured person under the contract is or was insured by the Facility Association; or (b) another insurer declined to issue or renew another contract of automobile insurance for the applicant or another person who would be an insured person under the contract.  R.R.O. 1990, Reg. 664, s. 5 (1). (2) In deciding whether to issue, renew or terminate any contract of automobile insurance or to provide or continue any coverage or endorsement, the insurer shall not consider, (a) the existence of a physical or mental disability affecting a person who would be an insured person under the contract; (b) the number of persons who would become insured persons under the contract or their state of health or life expectancy; (c) the occupation, profession or employment circumstances of any person who would be an insured person under the contract; (d) the level of income of any person who would be an insured person under the contract; (d.1) the employment history of a person who would be an insured person under the contract; (d.2) the fact whether a person who would be an insured person under the contract has a credit card; (d.3) the credit history of a person who would be an insured person under the contract; (d.4) the credit rating of a person who would be an insured person under the contract; (d.5) the fact whether a person who would be an insured person under the contract is bankrupt or has a history of bankruptcy; (d.6) the residence history of a person who would be an insured person under the contract; (d.7) the fact whether a person who would be an insured person under the contract owns a home; (d.8) the gross or net worth of a person who would be an insured person under the contract; (d.9) the indebtedness of a person who would be an insured person under the contract; (d.10) the fact whether a person who would be an insured person under the contract has made premium payments that were late or dishonoured in respect of a contract of automobile insurance that was not terminated by reason of the late or dishonoured payments; (e) the existence or non-existence of a medical, surgical, dental or hospitalization plan or any other arrangement or plan providing coverage to a person who would be an insured person under the contract for services and treatment that the insurer would otherwise be required to pay for under the Statutory Accident Benefits Schedule; (f) the existence or non-existence of an income continuation benefit plan, a sick leave plan or any other arrangement or plan providing coverage to a person who would be an insured person under the contract for benefits that the insurer would otherwise be required to pay for under the Statutory Accident Benefits Schedule; (g) a request by the applicant to purchase any optional benefit established under paragraph 10 of subsection 121 (1) of the Act; (h) any past claim under the Statutory Accident Benefits Schedule arising out of an incident for which a person who would be an insured person under the contract was not at fault; or (i) any past claim under section 263 of the Act for loss or damage, arising directly or indirectly from the use or operation of an automobile, for which a person who would be an insured person under the contract was not at fault.  R.R.O. 1990, Reg. 664, s. 5 (2); O. Reg. 780/93, ss. 1, 4; O. Reg. 46/05, s. 1; O. Reg. 268/22, s. 1. (2.1) Subject to subsection (2.2), for the Personal Vehicles — Private Passenger Automobiles category of automobile insurance, in deciding whether to issue, renew or terminate any contract of automobile insurance or to provide or continue any coverage or endorsement, the insurer shall not consider a minor accident that occurred on or after June 1, 2016. O. Reg. 250/15, s. 2 (1). (2.2) An insurer may consider a minor accident that occurred on or after June 1, 2016 if, within the previous three years, any automobiles that were or would be covered by the contract of automobile insurance were involved in a total of more than one minor accident and, in any of those accidents, the driver of that automobile was at fault. O. Reg. 250/15, s. 2 (1). (2.3) For the purposes of subsections (2.1) and (2.2), an accident is a minor accident if all of the following circumstances exist: 1. The cost of damage to each automobile, including any associated property damage, did not exceed $2,000 and the cost of all such damages was paid by or on behalf of the driver who was at fault. 2. No personal injuries were sustained as a result of the accident. 3. No payment was made by any insurer with respect to damage to any automobile or property resulting from the accident. O. Reg. 250/15, s. 2 (1). (3) In deciding whether to issue, renew or terminate a contract providing only third party liability coverage in any amount and the benefits and coverages described in subsection 265 (1) (uninsured automobile coverage) and section 268 (statutory accident benefits) of the Act, the insurer shall not consider whether a person who would be an insured person under the contract has made any past claim for loss or damage to an automobile, including its equipment, caused by any peril other than collision or upset.  R.R.O. 1990, Reg. 664, s. 5 (3); O. Reg. 780/93, s. 1. (4) An insurer shall not terminate a contract of automobile insurance because, (a) a group marketing plan within the meaning of section 17 terminates; or (b) the insured ceases to be a member of a group referred to in clause 16 (5) (a) or (b).  O. Reg. 553/94, s. 1. Added Coverage to Offset Tort Deductibles Endorsement",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) No insurer shall decline to issue, refuse to renew or terminate any contract of automobile insurance or refuse to provide or continue any coverage or endorsement solely because,</p> <p class=\"clause-e\">  (a) the applicant or another person who would be an insured person under the contract is or was insured by the Facility Association; or</p> <p class=\"clause-e\">  (b) another insurer declined to issue or renew another contract of automobile insurance for the applicant or another person who would be an insured person under the contract.  R.R.O. 1990, Reg. 664, s. 5 (1).</p> <p class=\"subsection-e\">  (2) In deciding whether to issue, renew or terminate any contract of automobile insurance or to provide or continue any coverage or endorsement, the insurer shall not consider,</p> <p class=\"clause-e\">  (a) the existence of a physical or mental disability affecting a person who would be an insured person under the contract;</p> <p class=\"clause-e\">  (b) the number of persons who would become insured persons under the contract or their state of health or life expectancy;</p> <p class=\"clause-e\">  (c) the occupation, profession or employment circumstances of any person who would be an insured person under the contract;</p> <p class=\"clause-e\">  (d) the level of income of any person who would be an insured person under the contract;</p> <p class=\"clause-e\"> (d.1) the employment history of a person who would be an insured person under the contract;</p> <p class=\"clause-e\"> (d.2) the fact whether a person who would be an insured person under the contract has a credit card;</p> <p class=\"clause-e\"> (d.3) the credit history of a person who would be an insured person under the contract;</p> <p class=\"clause-e\"> (d.4) the credit rating of a person who would be an insured person under the contract;</p> <p class=\"clause-e\"> (d.5) the fact whether a person who would be an insured person under the contract is bankrupt or has a history of bankruptcy;</p> <p class=\"clause-e\"> (d.6) the residence history of a person who would be an insured person under the contract;</p> <p class=\"clause-e\"> (d.7) the fact whether a person who would be an insured person under the contract owns a home;</p> <p class=\"clause-e\"> (d.8) the gross or net worth of a person who would be an insured person under the contract;</p> <p class=\"clause-e\"> (d.9) the indebtedness of a person who would be an insured person under the contract;</p> <p class=\"clause-e\"> (d.10) the fact whether a person who would be an insured person under the contract has made premium payments that were late or dishonoured in respect of a contract of automobile insurance that was not terminated by reason of the late or dishonoured payments;</p> <p class=\"clause-e\">  (e) the existence or non-existence of a medical, surgical, dental or hospitalization plan or any other arrangement or plan providing coverage to a person who would be an insured person under the contract for services and treatment that the insurer would otherwise be required to pay for under the <i>Statutory Accident Benefits Schedule</i>;</p> <p class=\"clause-e\">  (f) the existence or non-existence of an income continuation benefit plan, a sick leave plan or any other arrangement or plan providing coverage to a person who would be an insured person under the contract for benefits that the insurer would otherwise be required to pay for under the <i>Statutory Accident Benefits Schedule</i>;</p> <p class=\"clause-e\">  (g) a request by the applicant to purchase any optional benefit established under paragraph 10 of subsection 121 (1) of the Act;</p> <p class=\"clause-e\">  (h) any past claim under the <i>Statutory Accident Benefits Schedule</i> arising out of an incident for which a person who would be an insured person under the contract was not at fault; or</p> <p class=\"clause-e\">  (i) any past claim under section 263 of the Act for loss or damage, arising directly or indirectly from the use or operation of an automobile, for which a person who would be an insured person under the contract was not at fault.  R.R.O. 1990, Reg. 664, s. 5 (2); O. Reg. 780/93, ss. 1, 4; O. Reg. 46/05, s. 1; O. Reg. 268/22, s. 1.</p> <p class=\"subsection-e\">  (2.1) Subject to subsection (2.2), for the Personal Vehicles — Private Passenger Automobiles category of automobile insurance, in deciding whether to issue, renew or terminate any contract of automobile insurance or to provide or continue any coverage or endorsement, the insurer shall not consider a minor accident that occurred on or after June 1, 2016. O. Reg. 250/15, s. 2 (1).</p> <p class=\"subsection-e\">  (2.2) An insurer may consider a minor accident that occurred on or after June 1, 2016 if, within the previous three years, any automobiles that were or would be covered by the contract of automobile insurance were involved in a total of more than one minor accident and, in any of those accidents, the driver of that automobile was at fault. O. Reg. 250/15, s. 2 (1).</p> <p class=\"subsection-e\">  (2.3) For the purposes of subsections (2.1) and (2.2), an accident is a minor accident if all of the following circumstances exist:</p> <p class=\"paragraph-e\">  1. The cost of damage to each automobile, including any associated property damage, did not exceed $2,000 and the cost of all such damages was paid by or on behalf of the driver who was at fault.</p> <p class=\"paragraph-e\">  2. No personal injuries were sustained as a result of the accident.</p> <p class=\"paragraph-e\">  3. No payment was made by any insurer with respect to damage to any automobile or property resulting from the accident. O. Reg. 250/15, s. 2 (1).</p> <p class=\"subsection-e\">  (3) In deciding whether to issue, renew or terminate a contract providing only third party liability coverage in any amount and the benefits and coverages described in subsection 265 (1) (uninsured automobile coverage) and section 268 (statutory accident benefits) of the Act, the insurer shall not consider whether a person who would be an insured person under the contract has made any past claim for loss or damage to an automobile, including its equipment, caused by any peril other than collision or upset.  R.R.O. 1990, Reg. 664, s. 5 (3); O. Reg. 780/93, s. 1.</p> <p class=\"subsection-e\">  (4) An insurer shall not terminate a contract of automobile insurance because,</p> <p class=\"clause-e\">  (a) a group marketing plan within the meaning of section 17 terminates; or</p> <p class=\"clause-e\">  (b) the insured ceases to be a member of a group referred to in clause 16 (5) (a) or (b).  O. Reg. 553/94, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Added Coverage to Offset Tort Deductibles Endorsement</p>"
+        },
+        {
+            "ahref_id": "#5.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5.1 (1) If requested by an insured in respect of a contract of automobile insurance, the insurer shall offer the “Added Coverage to Offset Tort Deductibles” endorsement, as approved by the Chief Executive Officer under section 227 of the Act.  O. Reg. 36/10, s. 1; O. Reg. 180/19, s. 7. (2) Benefits provided by the endorsement referred to in subsection (1) are deemed not to be statutory accident benefits for the purpose of Part VI of the Act.  O. Reg. 36/10, s. 1. Direct Compensation — Property Damage (Clause 263 (5) (b) of the Act) Note: On January 1, 2024, the day subsection 2 (2) of Schedule 22 to the Protect, Support and Recover from COVID-19 Act (Budget Measures), 2020 comes into force, the Regulation is amended by adding the following section immediately after the heading “Direct Compensation—Property Damage (Clause 263 (5) (b) of the Act)”: (See: O. Reg. 268/22, s. 2) Election not to recover damages 5.2 (1) For the purpose of subsection 263 (2.2) of the Act, an insured may elect not to recover damages from the insured’s insurer by providing written confirmation to the insured’s insurer indicating that, in respect of the automobile named in the written confirmation, the insured elects not to recover damages under subsection 263 (2) of the Act. O. Reg. 268/22, s. 2. (2) The written confirmation shall be in a form approved by the Chief Executive Officer. O. Reg. 268/22, s. 2. (3) An insured may revoke their election by providing notice to the insured’s insurer. O. Reg. 268/22, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>5.1 </b>(1) If requested by an insured in respect of a contract of automobile insurance, the insurer shall offer the “Added Coverage to Offset Tort Deductibles” endorsement, as approved by the Chief Executive Officer under section 227 of the Act.  O. Reg. 36/10, s. 1; O. Reg. 180/19, s. 7.</p> <p class=\"subsection-e\">  (2) Benefits provided by the endorsement referred to in subsection (1) are deemed not to be statutory accident benefits for the purpose of Part VI of the Act.  O. Reg. 36/10, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Direct Compensation — Property Damage (Clause 263 (5) (b) of the Act)</p> <p class=\"Pnote-e\"><span>Note: On January 1, 2024, </span>the day subsection 2 (2) of Schedule 22 to the <i>Protect, Support and Recover from COVID-19 Act (Budget Measures), 2020</i> comes into force<span>, </span>the Regulation is amended by adding the following section immediately after the heading “Direct Compensation—Property Damage (Clause 263 (5) (b) of the Act)”:<span> (See: O. Reg. 268/22, s. 2)</span></p> <p class=\"Yheadnote-e\">Election not to recover damages</p> <p class=\"Ysection-e\"><b>  5.2 </b>(1) For the purpose of subsection 263 (2.2) of the Act, an insured may elect not to recover damages from the insured’s insurer by providing written confirmation to the insured’s insurer indicating that, in respect of the automobile named in the written confirmation, the insured elects not to recover damages under subsection 263 (2) of the Act. <span>O. Reg. 268/22, s. 2.</span></p> <p class=\"Ysubsection-e\">  (2) The written confirmation shall be in a form approved by the Chief Executive Officer. <span>O. Reg. 268/22, s. 2.</span></p> <p class=\"Ysubsection-e\">  (3) An insured may revoke their election by providing notice to the insured’s insurer. <span>O. Reg. 268/22, s. 2.</span></p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. (1) For the purpose of clause 263 (5) (b) of the Act, the insurer of an automobile that is in the care, custody or control of a person who is engaged in the business of selling, repairing, maintaining, servicing, storing or parking automobiles is entitled to indemnification from the person. (2) The amount of the indemnity is limited to that proportion of the loss that is attributable to the fault, as determined under the fault determination rules, of the person or of an employee or agent of the person.  R.R.O. 1990, Reg. 664, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) For the purpose of clause 263 (5) (b) of the Act, the insurer of an automobile that is in the care, custody or control of a person who is engaged in the business of selling, repairing, maintaining, servicing, storing or parking automobiles is entitled to indemnification from the person.</p> <p class=\"subsection-e\">  (2) The amount of the indemnity is limited to that proportion of the loss that is attributable to the fault, as determined under the fault determination rules, of the person or of an employee or agent of the person.  R.R.O. 1990, Reg. 664, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) For the purpose of clause 263 (5) (b) of the Act, the insurer of an automobile that is being towed by another automobile is entitled to indemnification from the lessee or, if there is no lessee, from the owner of the automobile towing it, (a) if the lessee or owner, as the case may be, is engaged in the business of towing automobiles; or (b) if the automobile towing the insured automobile has a gross vehicle weight greater than 4,500 kilograms. (2) The amount of the indemnity is limited to that proportion of the loss that is attributable to the fault, as determined under the fault determination rules, of the driver of the automobile that is towing the insured automobile.  R.R.O. 1990, Reg. 664, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>(1) For the purpose of clause 263 (5) (b) of the Act, the insurer of an automobile that is being towed by another automobile is entitled to indemnification from the lessee or, if there is no lessee, from the owner of the automobile towing it,</p> <p class=\"clause-e\">  (a) if the lessee or owner, as the case may be, is engaged in the business of towing automobiles; or</p> <p class=\"clause-e\">  (b) if the automobile towing the insured automobile has a gross vehicle weight greater than 4,500 kilograms.</p> <p class=\"subsection-e\">  (2) The amount of the indemnity is limited to that proportion of the loss that is attributable to the fault, as determined under the fault determination rules, of the driver of the automobile that is towing the insured automobile.  R.R.O. 1990, Reg. 664, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. (1) For the purpose of clause 263 (5) (b) of the Act, the insurer of an automobile the contents of which suffer damage in an amount greater than $20,000 is entitled to indemnification from the insurer of the other automobile involved in the incident. (2) The amount of the indemnity is limited to that proportion of the loss over $20,000 that is attributable to the fault, as determined under the fault determination rules, of the driver of the other automobile.  R.R.O. 1990, Reg. 664, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>(1) For the purpose of clause 263 (5) (b) of the Act, the insurer of an automobile the contents of which suffer damage in an amount greater than $20,000 is entitled to indemnification from the insurer of the other automobile involved in the incident.</p> <p class=\"subsection-e\">  (2) The amount of the indemnity is limited to that proportion of the loss over $20,000 that is attributable to the fault, as determined under the fault determination rules, of the driver of the other automobile.  R.R.O. 1990, Reg. 664, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#8.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8.1 The following classes of contracts are prescribed for the purpose of subsection 263 (5.1) of the Act: 1. Contracts written on Ontario Automobile Policy 1. 2. Contracts written on Ontario Policy Form 4.  O. Reg. 399/96, s. 1. Indemnification for Statutory Accident Benefits (Section 275 of the Act)",
+            "raw_html": "<p class=\"section-e\"> <b>8.1 </b>The following classes of contracts are prescribed for the purpose of subsection 263 (5.1) of the Act:</p> <p class=\"paragraph-e\">  1. Contracts written on Ontario Automobile Policy 1.</p> <p class=\"paragraph-e\">  2. Contracts written on Ontario Policy Form 4.  O. Reg. 399/96, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Indemnification for Statutory Accident Benefits (Section 275 of the Act)</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) In this section, “first party insurer” means the insurer responsible under subsection 268 (2) of the Act for the payment of statutory accident benefits; (“assureur de première part”) “heavy commercial vehicle” means a commercial vehicle with a gross vehicle weight greater than 4,500 kilograms; (“véhicule utilitaire lourd”) “motorcycle” means a self-propelled vehicle with a seat or saddle for the use of the driver, steered by handlebars and designed to travel on not more than three wheels in contact with the ground, and includes a motor scooter and a motor assisted bicycle as defined in the Highway Traffic Act; (“motocyclette”) “motorized snow vehicle” means a motorized snow vehicle as defined in the Motorized Snow Vehicles Act; (“motoneige”) “off-road vehicle” means an off-road vehicle as defined in the Off-Road Vehicles Act; (“véhicule tout terrain”) “second party insurer” means an insurer required under section 275 of the Act to indemnify the first party insurer. (“assureur de deuxième part”)  R.R.O. 1990, Reg. 664, s. 9 (1); O. Reg. 780/93, ss. 1, 6. (2) A second party insurer under a policy insuring any class of automobile other than motorcycles, off-road vehicles and motorized snow vehicles is obligated under section 275 of the Act to indemnify a first party insurer, (a) if the person receiving statutory accident benefits from the first party insurer is claiming them under a policy insuring a motorcycle and, (i) if the motorcycle was involved in the incident out of which the responsibility to pay statutory accident benefits arises, or (ii) if motorcycles and motorized snow vehicles are the only types of vehicle insured under the policy; or (b) if the person receiving statutory accident benefits from the first party insurer is claiming them under a policy insuring a motorized snow vehicle and, (i) if the motorized snow vehicle was involved in the incident out of which the responsibility to pay statutory accident benefits arises, or (ii) if motorcycles and motorized snow vehicles are the only types of vehicle insured under the policy.  R.R.O. 1990, Reg. 664, s. 9 (2); O. Reg. 780/93, s. 1. (3) A second party insurer under a policy insuring a heavy commercial vehicle is obligated under section 275 of the Act to indemnify a first party insurer unless the person receiving statutory accident benefits from the first party insurer is claiming them under a policy insuring a heavy commercial vehicle.  R.R.O. 1990, Reg. 664, s. 9 (3); O. Reg. 780/93, s. 1. Settlements — Statutory Accident Benefits",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) In this section,</p> <p class=\"firstdef-e\">“first party insurer” means the insurer responsible under subsection 268 (2) of the Act for the payment of statutory accident benefits; (“assureur de première part”)</p> <p class=\"definition-e\">“heavy commercial vehicle” means a commercial vehicle with a gross vehicle weight greater than 4,500 kilograms; (“véhicule utilitaire lourd”)</p> <p class=\"definition-e\">“motorcycle” means a self-propelled vehicle with a seat or saddle for the use of the driver, steered by handlebars and designed to travel on not more than three wheels in contact with the ground, and includes a motor scooter and a motor assisted bicycle as defined in the <i>Highway Traffic Act</i>; (“motocyclette”)</p> <p class=\"definition-e\">“motorized snow vehicle” means a motorized snow vehicle as defined in the <i>Motorized Snow Vehicles Act</i>; (“motoneige”)</p> <p class=\"definition-e\">“off-road vehicle” means an off-road vehicle as defined in the <i>Off-Road Vehicles Act</i>; (“véhicule tout terrain”)</p> <p class=\"definition-e\">“second party insurer” means an insurer required under section 275 of the Act to indemnify the first party insurer. (“assureur de deuxième part”)  R.R.O. 1990, Reg. 664, s. 9 (1); O. Reg. 780/93, ss. 1, 6.</p> <p class=\"subsection-e\">  (2) A second party insurer under a policy insuring any class of automobile other than motorcycles, off-road vehicles and motorized snow vehicles is obligated under section 275 of the Act to indemnify a first party insurer,</p> <p class=\"clause-e\">  (a) if the person receiving statutory accident benefits from the first party insurer is claiming them under a policy insuring a motorcycle and,</p> <p class=\"subclause-e\">  (i) if the motorcycle was involved in the incident out of which the responsibility to pay statutory accident benefits arises, or</p> <p class=\"subclause-e\">  (ii) if motorcycles and motorized snow vehicles are the only types of vehicle insured under the policy; or</p> <p class=\"clause-e\">  (b) if the person receiving statutory accident benefits from the first party insurer is claiming them under a policy insuring a motorized snow vehicle and,</p> <p class=\"subclause-e\">  (i) if the motorized snow vehicle was involved in the incident out of which the responsibility to pay statutory accident benefits arises, or</p> <p class=\"subclause-e\">  (ii) if motorcycles and motorized snow vehicles are the only types of vehicle insured under the policy.  R.R.O. 1990, Reg. 664, s. 9 (2); O. Reg. 780/93, s. 1.</p> <p class=\"subsection-e\">  (3) A second party insurer under a policy insuring a heavy commercial vehicle is obligated under section 275 of the Act to indemnify a first party insurer unless the person receiving statutory accident benefits from the first party insurer is claiming them under a policy insuring a heavy commercial vehicle.  R.R.O. 1990, Reg. 664, s. 9 (3); O. Reg. 780/93, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Settlements — Statutory Accident Benefits</p>"
+        },
+        {
+            "ahref_id": "#9.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9.1 (1) In this section, “settlement” means an agreement between an insurer and an insured person that finally disposes of a claim or dispute in respect of the insured person’s entitlement to one or more benefits under the Statutory Accident Benefits Schedule.  O. Reg. 780/93, s. 7. (2) The insurer shall give the insured person a written disclosure notice, signed by the insurer, with respect to the settlement.  O. Reg. 483/01, s. 1. (3) The disclosure notice shall be in a form approved by the Chief Executive Officer and shall contain the following information: 1. The insurer’s offer with respect to the settlement. 2. A description of the benefits that may be available to the insured person under the Statutory Accident Benefits Schedule. 3. A statement that the insured person may, within two business days after the later of the day the insured person signs the disclosure notice and the day the insured person signs the release, rescind the settlement by delivering a written notice to the office of the insurer or its representative and returning any money received by the insured person as consideration for the settlement. 4. A description of the consequences of the settlement on the benefits described under paragraph 2 including, i. a statement of the restrictions contained in the settlement on the insured person’s right to apply to the Licence Appeal Tribunal under subsection 280 (2) of the Act or appeal from a decision of the Licence Appeal Tribunal, ii. a statement that the tax implications of the settlement may be different from the tax implications of the benefits described under paragraph 2 and. iii. a statement that the insured person may not apply to the Licence Appeal Tribunal under subsection 280 (2) of the Act with respect to benefits that were the subject of a settlement or a purported settlement unless the insured person has returned the money received as consideration for the settlement. 5. A statement advising the insured person to consider seeking independent legal, financial and medical advice before entering into the settlement. 6. A statement for signature by the insured person acknowledging that he or she has read the disclosure notice and considered seeking independent legal, financial and medical advice before entering into the settlement.  O. Reg. 483/01, s. 1; O. Reg. 43/16, s. 2 (1, 2); O. Reg. 180/19, s. 7. (4) The insured person may rescind the settlement within two business days after the later of the day the insured person signs the disclosure notice and the day the insured person signs the release.  O. Reg. 483/01, s. 1. (5) The insured person may rescind the settlement after the period referred to in subsection (4) if the insurer has not complied with subsections (2) and (3).  O. Reg. 483/01, s. 1. (6) Subsections (4) and (5) do not apply with respect to a settlement that has been approved by a court under Rule 7 of the Rules of Civil Procedure (Parties under Disability).  O. Reg. 483/01, s. 1. (7) The insured person shall rescind a settlement under subsection (4) or (5) by delivering a written notice to the office of the insurer or its representative and returning any money received by the insured person as consideration for the settlement.  O. Reg. 483/01, s. 1. (8) No person may apply to the Licence Appeal Tribunal under subsection 280 (2) of the Act with respect to benefits that were the subject of a settlement or a purported settlement unless the person has returned the money received as consideration for the settlement.  O. Reg. 483/01, s. 1; O. Reg. 43/16, s. 2 (3). (9) If the insured person returns money to the insurer under subsection (7) or (8) and a dispute arises between the insurer and the insured person with respect to the validity of the purported settlement or the right of the insured person to rescind the settlement, the insurer shall hold the money in trust until the matter is determined, at which time the amount and any income on the amount, (a) shall be paid to the insured, if it is determined or agreed that there was a valid settlement that was not rescinded; and (b) shall be returned to the insurer, if it is determined or agreed that there was no settlement, or that the settlement was invalid or was rescinded.  O. Reg. 483/01, s. 1. (10) A restriction in a settlement on an insured person’s right to apply to the Licence Appeal Tribunal under subsection 280 (2) of the Act or appeal from a decision of the Licence Appeal Tribunal is void unless the insurer complied with subsections (2) and (3) and one of the following conditions is satisfied: 1. The settlement is entered into on or after the first anniversary of the day of the accident that gave rise to the claim. 2. Before entering into the settlement, i. the insured applied to the Licence Appeal Tribunal under subsection 280 (2) of the Act, and ii. if there were applicable rules or procedures of the Licence Appeal Tribunal in respect of case conferences at the time of the settlement, a case conference was held in accordance with the rules or procedures. O. Reg. 43/16, s. 2 (4). (11), (12) Revoked : O. Reg. 43/16, s. 2 (5).",
+            "raw_html": "<p class=\"section-e\"> <b>9.1 </b>(1) In this section,</p> <p class=\"firstdef-e\">“settlement” means an agreement between an insurer and an insured person that finally disposes of a claim or dispute in respect of the insured person’s entitlement to one or more benefits under the <i>Statutory Accident Benefits Schedule</i>.  O. Reg. 780/93, s. 7.</p> <p class=\"subsection-e\"><b> </b>(2) The insurer shall give the insured person a written disclosure notice, signed by the insurer, with respect to the settlement.  O. Reg. 483/01, s. 1.</p> <p class=\"subsection-e\">  (3) The disclosure notice shall be in a form approved by the Chief Executive Officer and shall contain the following information:</p> <p class=\"paragraph-e\">  1. The insurer’s offer with respect to the settlement.</p> <p class=\"paragraph-e\">  2. A description of the benefits that may be available to the insured person under the <i>Statutory Accident Benefits Schedule</i>.</p> <p class=\"paragraph-e\">  3. A statement that the insured person may, within two business days after the later of the day the insured person signs the disclosure notice and the day the insured person signs the release, rescind the settlement by delivering a written notice to the office of the insurer or its representative and returning any money received by the insured person as consideration for the settlement.</p> <p class=\"paragraph-e\">  4. A description of the consequences of the settlement on the benefits described under paragraph 2 including,</p> <p class=\"subpara-e\">  i. a statement of the restrictions contained in the settlement on the insured person’s right to apply to the Licence Appeal Tribunal under subsection 280 (2) of the Act or appeal from a decision of the Licence Appeal Tribunal,</p> <p class=\"subpara-e\">  ii. a statement that the tax implications of the settlement may be different from the tax implications of the benefits described under paragraph 2 and.</p> <p class=\"subpara-e\">  iii. a statement that the insured person may not apply to the Licence Appeal Tribunal under subsection 280 (2) of the Act with respect to benefits that were the subject of a settlement or a purported settlement unless the insured person has returned the money received as consideration for the settlement.</p> <p class=\"paragraph-e\">  5. A statement advising the insured person to consider seeking independent legal, financial and medical advice before entering into the settlement.</p> <p class=\"paragraph-e\">  6. A statement for signature by the insured person acknowledging that he or she has read the disclosure notice and considered seeking independent legal, financial and medical advice before entering into the settlement.  O. Reg. 483/01, s. 1; O. Reg. 43/16, s. 2 (1, 2); O. Reg. 180/19, s. 7.</p> <p class=\"subsection-e\">  (4) The insured person may rescind the settlement within two business days after the later of the day the insured person signs the disclosure notice and the day the insured person signs the release.  O. Reg. 483/01, s. 1.</p> <p class=\"subsection-e\">  (5) The insured person may rescind the settlement after the period referred to in subsection (4) if the insurer has not complied with subsections (2) and (3).  O. Reg. 483/01, s. 1.</p> <p class=\"subsection-e\">  (6) Subsections (4) and (5) do not apply with respect to a settlement that has been approved by a court under Rule 7 of the Rules of Civil Procedure (Parties under Disability).  O. Reg. 483/01, s. 1.</p> <p class=\"subsection-e\">  (7) The insured person shall rescind a settlement under subsection (4) or (5) by delivering a written notice to the office of the insurer or its representative and returning any money received by the insured person as consideration for the settlement.  O. Reg. 483/01, s. 1.</p> <p class=\"subsection-e\">  (8) No person may apply to the Licence Appeal Tribunal under subsection 280 (2) of the Act with respect to benefits that were the subject of a settlement or a purported settlement unless the person has returned the money received as consideration for the settlement.  O. Reg. 483/01, s. 1; O. Reg. 43/16, s. 2 (3).</p> <p class=\"subsection-e\">  (9) If the insured person returns money to the insurer under subsection (7) or (8) and a dispute arises between the insurer and the insured person with respect to the validity of the purported settlement or the right of the insured person to rescind the settlement, the insurer shall hold the money in trust until the matter is determined, at which time the amount and any income on the amount,</p> <p class=\"clause-e\">  (a) shall be paid to the insured, if it is determined or agreed that there was a valid settlement that was not rescinded; and</p> <p class=\"clause-e\">  (b) shall be returned to the insurer, if it is determined or agreed that there was no settlement, or that the settlement was invalid or was rescinded.  O. Reg. 483/01, s. 1.</p> <p class=\"subsection-e\">  (10) A restriction in a settlement on an insured person’s right to apply to the Licence Appeal Tribunal under subsection 280 (2) of the Act or appeal from a decision of the Licence Appeal Tribunal is void unless the insurer complied with subsections (2) and (3) and one of the following conditions is satisfied:</p> <p class=\"paragraph-e\">  1. The settlement is entered into on or after the first anniversary of the day of the accident that gave rise to the claim.</p> <p class=\"paragraph-e\">  2. Before entering into the settlement,</p> <p class=\"subpara-e\">  i. the insured applied to the Licence Appeal Tribunal under subsection 280 (2) of the Act, and</p> <p class=\"subpara-e\">  ii. if there were applicable rules or procedures of the Licence Appeal Tribunal in respect of case conferences at the time of the settlement, a case conference was held in accordance with the rules or procedures. O. Reg. 43/16, s. 2 (4).</p> <p class=\"subsection-e\">  (11), (12) <span class=\"ovsmallcap\">Revoked </span>: O. Reg. 43/16, s. 2 (5).</p>"
+        },
+        {
+            "ahref_id": "#9.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9.2 (1) Section 9.1 applies only with respect to settlements made on or after the transition date. O. Reg. 43/16, s. 3. (2) Subsection 9.1 (3), as it read immediately before the transition date, applies with respect to settlements for which written notice under subsection 9.1 (2) was given before the transition date but which were made on or after the transition date. O. Reg. 43/16, s. 3. (3) Section 9.1, as it read immediately before the transition date, applies with respect to settlements made before the transition date, with necessary modifications, and the following modifications: 1. Subsections 9.1 (2) to (5), as they read on February 28, 2002, continue to apply with respect to settlements for which written notice under subsection 9.1 (2) was given before March 1, 2002. 2. In addition to a mediation proceeding, subsection 9.1 (8) applies in respect of an application to the Licence Appeal Tribunal under subsection 280 (2) of the Act. 3. In addition to the right to mediate, litigate, appeal or apply to vary an order, subsection 9.1 (10) applies to the right to apply to the Licence Appeal Tribunal under subsection 280 (2) of the Act or appeal from a decision of the Licence Appeal Tribunal. O. Reg. 43/16, s. 3. (4) In this section, “transition date” has the same meaning as in subsection 283 (5) of the Act. O. Reg. 43/16, s. 3. Dispute Resolution (Section 280 of the Act)",
+            "raw_html": "<p class=\"section-e\"> <b>9.2 </b>(1) Section 9.1 applies only with respect to settlements made on or after the transition date. O. Reg. 43/16, s. 3.</p> <p class=\"subsection-e\">  (2) Subsection 9.1 (3), as it read immediately before the transition date, applies with respect to settlements for which written notice under subsection 9.1 (2) was given before the transition date but which were made on or after the transition date. O. Reg. 43/16, s. 3.</p> <p class=\"subsection-e\">  (3) Section 9.1, as it read immediately before the transition date, applies with respect to settlements made before the transition date, with necessary modifications, and the following modifications:</p> <p class=\"paragraph-e\">  1. Subsections 9.1 (2) to (5), as they read on February 28, 2002, continue to apply with respect to settlements for which written notice under subsection 9.1 (2) was given before March 1, 2002.</p> <p class=\"paragraph-e\">  2. In addition to a mediation proceeding, subsection 9.1 (8) applies in respect of an application to the Licence Appeal Tribunal under subsection 280 (2) of the Act.</p> <p class=\"paragraph-e\">  3. In addition to the right to mediate, litigate, appeal or apply to vary an order, subsection 9.1 (10) applies to the right to apply to the Licence Appeal Tribunal under subsection 280 (2) of the Act or appeal from a decision of the Licence Appeal Tribunal. O. Reg. 43/16, s. 3.</p> <p class=\"subsection-e\">  (4) In this section,</p> <p class=\"definition-e\">“transition date” has the same meaning as in subsection 283 (5) of the Act. O. Reg. 43/16, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Dispute Resolution (Section 280 of the Act)</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. If the Licence Appeal Tribunal finds that an insurer has unreasonably withheld or delayed payments, the Licence Appeal Tribunal, in addition to awarding the benefits and interest to which an insured person is entitled under the Statutory Accident Benefits Schedule, may award a lump sum of up to 50 per cent of the amount to which the person was entitled at the time of the award together with interest on all amounts then owing to the insured (including unpaid interest) at the rate of 2 per cent per month, compounded monthly, from the time the benefits first became payable under the Schedule. O. Reg. 43/16, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>10.</b> If the Licence Appeal Tribunal finds that an insurer has unreasonably withheld or delayed payments, the Licence Appeal Tribunal, in addition to awarding the benefits and interest to which an insured person is entitled under the Statutory Accident Benefits Schedule, may award a lump sum of up to 50 per cent of the amount to which the person was entitled at the time of the award together with interest on all amounts then owing to the insured (including unpaid interest) at the rate of 2 per cent per month, compounded monthly, from the time the benefits first became payable under the Schedule. O. Reg. 43/16, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. Revoked: O. Reg. 301/98, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 301/98, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#12., 13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12., 13. Revoked : O. Reg. 43/16, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>12., 13. </b><span class=\"ovsmallcap\">Revoked : </span>O. Reg. 43/16, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  14. Revoked: O. Reg. 301/98, s. 2. Prescribed Elements of Risk Classification System (Sections 410 to 417 of the Act)",
+            "raw_html": "<p class=\"section-e\"><b>  14. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 301/98, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Prescribed Elements of Risk Classification System (Sections 410 to 417 of the Act)</p>"
+        },
+        {
+            "ahref_id": "#14.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14.1 (1) For the purposes of section 260 of the Act, insurers shall use the following elements of a risk classification system in classifying risks for loss or damage to an automobile or loss of its use: 1.  Revoked: O. Reg. 250/15, s. 3 (1). 2. For collision or upset coverage, as referred to in the standard policy forms approved by the Chief Executive Officer under subsection 227 (5) of the Act, a deductible of $500 for contracts issued or renewed on or after April 15, 2004, unless the contract provides for a different amount. 3. For comprehensive coverage, as referred to in the standard policy forms approved by the Chief Executive Officer under subsection 227 (5) of the Act, i. a deductible of $300 for contracts issued or renewed on or after April 15, 2004 and before June 1, 2016, unless the contract provides for a different amount, and ii. a deductible of $500 for contracts issued or renewed on or after June 1, 2016, unless the contract provides for a different amount.  O. Reg. 459/03, s. 1; O. Reg. 250/15, s. 3; O. Reg. 180/19, s. 7. (2) Insurers shall use the following elements in their risk classification systems in classifying risks for damage to an automobile or its contents or loss of its use: 1. For contracts issued or renewed on or after April 15, 2004 and before September 1, 2010, $300 as the amount of the reduction referred to in clause 263 (5.1) (b) of the Act, unless the contract provides for a different amount. 2. For contracts issued or renewed on or after September 1, 2010, $500 as the amount of the reduction referred to in clause 263 (5.1) (b) of the Act, unless the contract provides for a different amount.  O. Reg. 36/10, s. 3. (3) Insurers shall use the following element in their risk classification systems in classifying risks for the Personal Vehicles — Private Passenger Automobiles category of automobile insurance: 1. For contracts issued or renewed on or after January 1, 2016, a discount in the rate of insurance in respect of an automobile that is equipped with winter tires. O. Reg. 222/15, s. 1. Application of Sections 410 to 417 of the Act",
+            "raw_html": "<p class=\"section-e\"> <b>14.1 </b>(1) For the purposes of section 260 of the Act, insurers shall use the following elements of a risk classification system in classifying risks for loss or damage to an automobile or loss of its use:</p> <p class=\"paragraph-e\">  1.  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 250/15, s. 3 (1).</p> <p class=\"paragraph-e\">  2. For collision or upset coverage, as referred to in the standard policy forms approved by the Chief Executive Officer under subsection 227 (5) of the Act, a deductible of $500 for contracts issued or renewed on or after April 15, 2004, unless the contract provides for a different amount. </p> <p class=\"paragraph-e\">  3. For comprehensive coverage, as referred to in the standard policy forms approved by the Chief Executive Officer under subsection 227 (5) of the Act,</p> <p class=\"subpara-e\">  i. a deductible of $300 for contracts issued or renewed on or after April 15, 2004 and before June 1, 2016, unless the contract provides for a different amount, and</p> <p class=\"subpara-e\">  ii. a deductible of $500 for contracts issued or renewed on or after June 1, 2016, unless the contract provides for a different amount.  O. Reg. 459/03, s. 1; O. Reg. 250/15, s. 3; O. Reg. 180/19, s. 7.</p> <p class=\"subsection-e\">  (2) Insurers shall use the following elements in their risk classification systems in classifying risks for damage to an automobile or its contents or loss of its use:</p> <p class=\"paragraph-e\">  1. For contracts issued or renewed on or after April 15, 2004 and before September 1, 2010, $300 as the amount of the reduction referred to in clause 263 (5.1) (b) of the Act, unless the contract provides for a different amount.</p> <p class=\"paragraph-e\">  2. For contracts issued or renewed on or after September 1, 2010, $500 as the amount of the reduction referred to in clause 263 (5.1) (b) of the Act, unless the contract provides for a different amount.  O. Reg. 36/10, s. 3.</p> <p class=\"subsection-e\">  (3) Insurers shall use the following element in their risk classification systems in classifying risks for the Personal Vehicles — Private Passenger Automobiles category of automobile insurance:</p> <p class=\"paragraph-e\">  1. For contracts issued or renewed on or after January 1, 2016, a discount in the rate of insurance in respect of an automobile that is equipped with winter tires. O. Reg. 222/15, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Application of Sections 410 to 417 of the Act</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. (1) Sections 410 to 417 of the Act apply in respect of contracts of automobile insurance written on Ontario Automobile Policy 1 or Ontario Policy Form 2.  O. Reg. 464/96, s. 5 (2). (2) Sections 410 to 417 of the Act apply in respect of all types of endorsements to contracts of automobile insurance written on Ontario Automobile Policy 1 or Ontario Policy Form 2.  O. Reg. 464/96, s. 5 (2). (3) Despite subsections (1) and (2), sections 410 to 417 of the Act do not apply to any contract of automobile insurance that insures a fleet.  O. Reg. 275/03, s. 6. Expedited Risk Classification and Rate Approval (Section 411 of the Act)",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>(1) Sections 410 to 417 of the Act apply in respect of contracts of automobile insurance written on Ontario Automobile Policy 1 or Ontario Policy Form 2.  O. Reg. 464/96, s. 5 (2).</p> <p class=\"subsection-e\">  (2) Sections 410 to 417 of the Act apply in respect of all types of endorsements to contracts of automobile insurance written on Ontario Automobile Policy 1 or Ontario Policy Form 2.  O. Reg. 464/96, s. 5 (2).</p> <p class=\"subsection-e\">  (3) Despite subsections (1) and (2), sections 410 to 417 of the Act do not apply to any contract of automobile insurance that insures a fleet.  O. Reg. 275/03, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Expedited Risk Classification and Rate Approval (Section 411 of the Act)</p>"
+        },
+        {
+            "ahref_id": "#15.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  15.1 (1) The percentage prescribed for the purpose of paragraph 1 of subsection 411 (1) of the Act is, for each coverage and category of automobile insurance, the percentage difference between the average of the insurer’s existing rates for that coverage and category and the average of the insurer’s proposed rates.  O. Reg. 464/96, s. 6. (2) For the purpose of paragraph 1 of subsection 411 (1) of the Act, the proposed rates must meet the following additional criteria: 1. The proposed rates relate only to the Personal Vehicles — Private Passenger Automobiles category of automobile insurance. 2. The effective date of the proposed rates for the insurer’s renewal business is on or after January 1, 1997. 3. The average cumulative rate change for all coverages, calculated in accordance with the Section 411/412 Filing Guidelines published by the Financial Services Commission of Ontario, as they may be amended from time to time, is less than or equal to zero. 4. The percentage difference, for each territory used by the insurer, between the average of the existing rates for each coverage and the average of the proposed rates for that coverage is not more than 5 per cent higher or lower than the percentage difference, for all of Ontario, between the average of the existing rates for that coverage and the average of the proposed rates for that coverage. 5. No changes are proposed to the rating algorithm, differentials, discounts or surcharges used to determine the proposed rates.  O. Reg. 464/96, s. 6; O. Reg. 301/98, s. 1; O. Reg. 222/15, s. 2. (3) For the purpose of paragraph 2 of subsection 411 (1) of the Act, the proposed risk classification system may not contain, (a) any new element; or (b) any existing element that uses a different definition or different rating rules.  O. Reg. 464/96, s. 6. Prohibited Risk Classification Elements (Sections 410 to 417 of the Act)",
+            "raw_html": "<p class=\"section-e\"><b>  15.1 </b>(1) The percentage prescribed for the purpose of paragraph 1 of subsection 411 (1) of the Act is, for each coverage and category of automobile insurance, the percentage difference between the average of the insurer’s existing rates for that coverage and category and the average of the insurer’s proposed rates.  O. Reg. 464/96, s. 6.</p> <p class=\"subsection-e\">  (2) For the purpose of paragraph 1 of subsection 411 (1) of the Act, the proposed rates must meet the following additional criteria:</p> <p class=\"paragraph-e\">  1. The proposed rates relate only to the Personal Vehicles — Private Passenger Automobiles category of automobile insurance.</p> <p class=\"paragraph-e\">  2. The effective date of the proposed rates for the insurer’s renewal business is on or after January 1, 1997.</p> <p class=\"paragraph-e\">  3. The average cumulative rate change for all coverages, calculated in accordance with the Section 411/412 Filing Guidelines published by the Financial Services Commission of Ontario, as they may be amended from time to time, is less than or equal to zero.</p> <p class=\"paragraph-e\">  4. The percentage difference, for each territory used by the insurer, between the average of the existing rates for each coverage and the average of the proposed rates for that coverage is not more than 5 per cent higher or lower than the percentage difference, for all of Ontario, between the average of the existing rates for that coverage and the average of the proposed rates for that coverage.</p> <p class=\"paragraph-e\">  5. No changes are proposed to the rating algorithm, differentials, discounts or surcharges used to determine the proposed rates.  O. Reg. 464/96, s. 6; O. Reg. 301/98, s. 1; O. Reg. 222/15, s. 2.</p> <p class=\"subsection-e\">  (3) For the purpose of paragraph 2 of subsection 411 (1) of the Act, the proposed risk classification system may not contain,</p> <p class=\"clause-e\">  (a) any new element; or</p> <p class=\"clause-e\">  (b) any existing element that uses a different definition or different rating rules.  O. Reg. 464/96, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK13\"></a>Prohibited Risk Classification Elements (Sections 410 to 417 of the Act)</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. (1) Insurers are prohibited from using elements of a risk classification system described in this section in classifying risks for any coverage or category of automobile insurance.  O. Reg. 780/93, s. 8 (1). (2) No element of a risk classification system shall use past claims arising out of accidents occurring on or after September 1, 2010 for which an insured person was 25 per cent or less at fault.  O. Reg. 36/10, s. 4. (3) No element of a risk classification system shall use the existence or non-existence of a medical, surgical, dental or hospitalization plan or any other arrangement or plan providing coverage to a person who would be an insured person under the contract for services and treatment that the insurer would otherwise be required to pay for under the Statutory Accident Benefits Schedule.  R.R.O. 1990, Reg. 664, s. 16 (3); O. Reg. 780/93, ss. 1, 8 (3). (4) No element of a risk classification system shall use the existence or non-existence of an income continuation plan, a sick leave plan or any other arrangement or plan providing coverage to a person who would be an insured person under the contract for benefits that the insurer would otherwise be required to pay for under the Statutory Accident Benefits Schedule.  R.R.O. 1990, Reg. 664, s. 16 (4); O. Reg. 780/93, ss. 1, 8 (4). (4.1) No element of a risk classification system shall use a lapse in automobile insurance coverage unless, (a) the insured person contravened section 2 of the Compulsory Automobile Insurance Act\r\nduring the lapse in coverage; or (b) the lapse of coverage resulted directly or indirectly from, (i) the termination of a policy of automobile insurance as a result of the insured person’s failure to pay the premiums due under the policy, (ii) the suspension of the insured person’s driver’s licence as a result of a conviction for an offence related to the use or operation of an automobile, or (iii) an accident or a conviction for an offence related to the use or operation of an automobile, if the insured person did not inform the insurer of the accident or conviction and the accident or conviction would likely have led to the insured person being charged a higher premium.  O. Reg. 464/96, s. 7 (2). (4.2) Except as permitted under subsection (4.3) or (5), no element of a risk classification system shall use any of the following factors: 1. The level of income of a person who would be an insured person under the contract. 2. The employment history of a person who would be an insured person under the contract. 3. The occupation, profession or employment circumstances of a person who would be an insured person under the contract, unless the contract is in respect of a commercial vehicle or a public vehicle or a vehicle used in the course of carrying on a business, trade or profession. 4. The fact whether a person who would be an insured person under the contract has a credit card. 5. The credit history of a person who would be an insured person under the contract. 6. The credit rating of a person who would be an insured person under the contract. 7. The fact whether a person who would be an insured person under the contract is bankrupt or has a history of bankruptcy. 8. The residence history of a person who would be an insured person under the contract. 9. The fact whether a person who would be an insured person under the contract owns a home. 10. The gross or net worth of a person who would be an insured person under the contract. 11. The indebtedness of a person who would be an insured person under the contract. 12. The fact whether a person who would be an insured person under the contract has made premium payments that were late or dishonoured in respect of a contract of automobile insurance that was not terminated by reason of the late or dishonoured payments. 13. A minor accident that occurred on or after June 1, 2016. O. Reg. 46/05, s. 2; O. Reg. 250/15, s. 4 (1, 2). (4.3) The factor described in paragraph 13 of subsection (4.2) may be used in an element of a risk classification system if, within the previous three years, any automobiles that were or would be covered by the contract of automobile insurance were involved in a total of more than one minor accident and, in any of those accidents, the driver of that automobile was at fault. O. Reg. 250/15, s. 4 (3). (4.4) For the purposes of subsections (4.2) and (4.3), an accident is a minor accident if all of the following circumstances exist: 1. The cost of damage to each automobile, including any associated property damage, did not exceed $2,000 and the cost of all such damages was paid by or on behalf of the driver who was at fault. 2. No personal injuries were sustained as a result of the accident. 3. No payment was made by any insurer with respect to damage to any automobile or property resulting from the accident. O. Reg. 250/15, s. 4 (3). (5) Membership in an organized group shall not be used as an element of a risk classification system unless the group consists of no fewer than 100 members other than associate members of the group, a group marketing plan has been entered into that meets the requirements of section 17 and the group is, (a) a trade union, a professional or occupational association or an alumni association; (b) a non-profit entity that has been in existence for at least 24 months; (c) a group of employees of the same employer; or (d) a group of members of a credit union that satisfies the requirements of subsection (7).  O. Reg. 275/03, s. 7. (6) An organization formed primarily for the purpose of purchasing or providing goods or services does not constitute a non-profit entity for the purposes of clause (5) (b).  O. Reg. 275/03, s. 7. (7) A group of members of a credit union constitute an organized group for the purposes of clause (5) (d) if the following rules are satisfied: 1. The bond of association in respect of the credit union for the purposes of subsection 32 (1) of the Credit Unions and Caisses Populaires Act, 2020 is a common bond of occupation or association. 2. The members of the credit union who belong to the group are, i. employees of the same employer, ii. members of the same trade union, or iii. members of the same professional or occupational association. 3. The group of members does not include any person admitted to the credit union who does not come within the common bond of association described in paragraph 1, unless the person is an associate member of the group under subsection (8), (9) or (10).  O. Reg. 275/03, s. 7; O. Reg. 121/22, s. 1 (1). (8) Despite paragraph 2 of subsection (7), the following persons may be included in an organized group described in clause (5) (d) in respect of a particular credit union, but only as associate members of the group: 1. Employees of the credit union. 2. Retired employees of the credit union who receive or are entitled to receive retirement benefits from the credit union.  O. Reg. 275/03, s. 7. (9) Retired employees of the same employer who receive or are entitled to receive retirement benefits from the employer may be included in a group referred to in clause (5) (c) or subparagraph 2 i of subsection (7), but only as associate members of the group.  O. Reg. 275/03, s. 7. (10) Each of the following persons may be included in a group referred to in clause (5) (a), (b), (c) or (d), but only as an associate member of the group: 1. The spouse of a member or associate member of the group. 2. A person under 25 years of age who is a child of a member or associate member of the group or of the spouse of a member or associate member of the group and, i. resides in the same dwelling as the member or associate member, or the spouse of the member or associate member, as the case may be, or ii. attends an educational institution on a full-time basis. 3. The spouse of a child described in paragraph 2.  O. Reg. 275/03, s. 7; O. Reg. 316/05, s. 1 (1-4). (11) A risk classification system shall not include an element that results in the exclusion of a member or associate member of an organized group referred to in subsection (5) for the purposes of risk classification if, (a) the insurance is sold under a group marketing plan within the meaning of section 17; and (b) coverage is for a private passenger vehicle within the meaning of the Plan of Operation established by the Facility Association under subsection 7 (3) of the Compulsory Automobile Insurance Act.  O. Reg. 275/03, s. 7. (12) No element of a risk classification system shall result in a change in the classification of an insured before the next renewal date of the insured’s policy because, (a) a group marketing plan within the meaning of section 17 terminates; or (b) the insured ceases to be a member or associate member of an organized group referred to in subsection (5).  O. Reg. 275/03, s. 7. (13) Subject to subsection (12), no element of a risk classification system that uses membership in an organized group referred to in subsection (5) shall apply to an insured who ceases to be a member or associate member of the group.  O. Reg. 275/03, s. 7. (14) An organized group that met the requirements of this section and section 17 as they read on September 30, 2003 shall be deemed to meet the requirements of this section and section 17 after that day if, (a) membership in the group was an element of a risk classification system before October 1, 2003; and (b) a group marketing plan has been entered into that meets the requirements of section 17.  O. Reg. 275/03, s. 7. (15) In this section, “credit union” means a credit union within the meaning of the Credit Unions and Caisses Populaires Act, 2020; (“caisse populaire”) “spouse” has the same meaning as in Part VI of the Act. (“conjoint”)  O. Reg. 275/03, s. 7; O. Reg. 316/05, s. 1 (5); O. Reg. 121/22, s. 1 (2). Group Marketing Plans",
+            "raw_html": "<p class=\"section-e\"> <b>16. </b>(1) Insurers are prohibited from using elements of a risk classification system described in this section in classifying risks for any coverage or category of automobile insurance.  O. Reg. 780/93, s. 8 (1).</p> <p class=\"subsection-e\">  (2) No element of a risk classification system shall use past claims arising out of accidents occurring on or after September 1, 2010 for which an insured person was 25 per cent or less at fault.  O. Reg. 36/10, s. 4.</p> <p class=\"subsection-e\">  (3) No element of a risk classification system shall use the existence or non-existence of a medical, surgical, dental or hospitalization plan or any other arrangement or plan providing coverage to a person who would be an insured person under the contract for services and treatment that the insurer would otherwise be required to pay for under the <i>Statutory Accident Benefits Schedule.</i>  R.R.O. 1990, Reg. 664, s. 16 (3); O. Reg. 780/93, ss. 1, 8 (3).</p> <p class=\"subsection-e\">  (4) No element of a risk classification system shall use the existence or non-existence of an income continuation plan, a sick leave plan or any other arrangement or plan providing coverage to a person who would be an insured person under the contract for benefits that the insurer would otherwise be required to pay for under the <i>Statutory Accident Benefits Schedule.  </i>R.R.O. 1990, Reg. 664, s. 16 (4); O. Reg. 780/93, ss. 1, 8 (4).</p> <p class=\"subsection-e\">  (4.1) No element of a risk classification system shall use a lapse in automobile insurance coverage unless,</p> <p class=\"clause-e\">  (a) the insured person contravened section 2 of the <i>Compulsory Automobile Insurance Act</i>\r\nduring the lapse in coverage; or</p> <p class=\"clause-e\">  (b) the lapse of coverage resulted directly or indirectly from,</p> <p class=\"subclause-e\">  (i) the termination of a policy of automobile insurance as a result of the insured person’s failure to pay the premiums due under the policy,</p> <p class=\"subclause-e\">  (ii) the suspension of the insured person’s driver’s licence as a result of a conviction for an offence related to the use or operation of an automobile, or</p> <p class=\"subclause-e\">  (iii) an accident or a conviction for an offence related to the use or operation of an automobile, if the insured person did not inform the insurer of the accident or conviction and the accident or conviction would likely have led to the insured person being charged a higher premium.  O. Reg. 464/96, s. 7 (2).</p> <p class=\"subsection-e\">  (4.2) Except as permitted under subsection (4.3) or (5), no element of a risk classification system shall use any of the following factors:</p> <p class=\"paragraph-e\">  1. The level of income of a person who would be an insured person under the contract.</p> <p class=\"paragraph-e\">  2. The employment history of a person who would be an insured person under the contract.</p> <p class=\"paragraph-e\">  3. The occupation, profession or employment circumstances of a person who would be an insured person under the contract, unless the contract is in respect of a commercial vehicle or a public vehicle or a vehicle used in the course of carrying on a business, trade or profession.</p> <p class=\"paragraph-e\">  4. The fact whether a person who would be an insured person under the contract has a credit card.</p> <p class=\"paragraph-e\">  5. The credit history of a person who would be an insured person under the contract.</p> <p class=\"paragraph-e\">  6. The credit rating of a person who would be an insured person under the contract.</p> <p class=\"paragraph-e\">  7. The fact whether a person who would be an insured person under the contract is bankrupt or has a history of bankruptcy.</p> <p class=\"paragraph-e\">  8. The residence history of a person who would be an insured person under the contract.</p> <p class=\"paragraph-e\">  9. The fact whether a person who would be an insured person under the contract owns a home.</p> <p class=\"paragraph-e\">  10. The gross or net worth of a person who would be an insured person under the contract.</p> <p class=\"paragraph-e\">  11. The indebtedness of a person who would be an insured person under the contract.</p> <p class=\"paragraph-e\">  12. The fact whether a person who would be an insured person under the contract has made premium payments that were late or dishonoured in respect of a contract of automobile insurance that was not terminated by reason of the late or dishonoured payments.</p> <p class=\"paragraph-e\">  13. A minor accident that occurred on or after June 1, 2016. O. Reg. 46/05, s. 2; O. Reg. 250/15, s. 4 (1, 2).</p> <p class=\"subsection-e\">  (4.3) The factor described in paragraph 13 of subsection (4.2) may be used in an element of a risk classification system if, within the previous three years, any automobiles that were or would be covered by the contract of automobile insurance were involved in a total of more than one minor accident and, in any of those accidents, the driver of that automobile was at fault. O. Reg. 250/15, s. 4 (3).</p> <p class=\"subsection-e\">  (4.4) For the purposes of subsections (4.2) and (4.3), an accident is a minor accident if all of the following circumstances exist:</p> <p class=\"paragraph-e\">  1. The cost of damage to each automobile, including any associated property damage, did not exceed $2,000 and the cost of all such damages was paid by or on behalf of the driver who was at fault.</p> <p class=\"paragraph-e\">  2. No personal injuries were sustained as a result of the accident.</p> <p class=\"paragraph-e\">  3. No payment was made by any insurer with respect to damage to any automobile or property resulting from the accident. O. Reg. 250/15, s. 4 (3).</p> <p class=\"subsection-e\">  (5) Membership in an organized group shall not be used as an element of a risk classification system unless the group consists of no fewer than 100 members other than associate members of the group, a group marketing plan has been entered into that meets the requirements of section 17 and the group is,</p> <p class=\"clause-e\">  (a) a trade union, a professional or occupational association or an alumni association;</p> <p class=\"clause-e\">  (b) a non-profit entity that has been in existence for at least 24 months;</p> <p class=\"clause-e\">  (c) a group of employees of the same employer; or</p> <p class=\"clause-e\">  (d) a group of members of a credit union that satisfies the requirements of subsection (7).  O. Reg. 275/03, s. 7.</p> <p class=\"subsection-e\">  (6) An organization formed primarily for the purpose of purchasing or providing goods or services does not constitute a non-profit entity for the purposes of clause (5) (b).  O. Reg. 275/03, s. 7.</p> <p class=\"subsection-e\">  (7) A group of members of a credit union constitute an organized group for the purposes of clause (5) (d) if the following rules are satisfied:</p> <p class=\"paragraph-e\">  1. The bond of association in respect of the credit union for the purposes of subsection 32 (1) of the <i>Credit Unions and Caisses Populaires Act, 2020</i> is a common bond of occupation or association.</p> <p class=\"paragraph-e\">  2. The members of the credit union who belong to the group are,</p> <p class=\"subpara-e\">  i. employees of the same employer,</p> <p class=\"subpara-e\">  ii. members of the same trade union, or</p> <p class=\"subpara-e\">  iii. members of the same professional or occupational association.</p> <p class=\"paragraph-e\">  3. The group of members does not include any person admitted to the credit union who does not come within the common bond of association described in paragraph 1, unless the person is an associate member of the group under subsection (8), (9) or (10).  O. Reg. 275/03, s. 7; O. Reg. 121/22, s. 1 (1).</p> <p class=\"subsection-e\">  (8) Despite paragraph 2 of subsection (7), the following persons may be included in an organized group described in clause (5) (d) in respect of a particular credit union, but only as associate members of the group:</p> <p class=\"paragraph-e\">  1. Employees of the credit union.</p> <p class=\"paragraph-e\">  2. Retired employees of the credit union who receive or are entitled to receive retirement benefits from the credit union.  O. Reg. 275/03, s. 7.</p> <p class=\"subsection-e\">  (9) Retired employees of the same employer who receive or are entitled to receive retirement benefits from the employer may be included in a group referred to in clause (5) (c) or subparagraph 2 i of subsection (7), but only as associate members of the group.  O. Reg. 275/03, s. 7.</p> <p class=\"subsection-e\">  (10) Each of the following persons may be included in a group referred to in clause (5) (a), (b), (c) or (d), but only as an associate member of the group:</p> <p class=\"paragraph-e\">  1. The spouse of a member or associate member of the group.</p> <p class=\"paragraph-e\">  2. A person under 25 years of age who is a child of a member or associate member of the group or of the spouse of a member or associate member of the group and,</p> <p class=\"subpara-e\">  i. resides in the same dwelling as the member or associate member, or the spouse of the member or associate member, as the case may be, or</p> <p class=\"subpara-e\">  ii. attends an educational institution on a full-time basis.</p> <p class=\"paragraph-e\">  3. The spouse of a child described in paragraph 2.  O. Reg. 275/03, s. 7; O. Reg. 316/05, s. 1 (1-4).</p> <p class=\"subsection-e\">  (11) A risk classification system shall not include an element that results in the exclusion of a member or associate member of an organized group referred to in subsection (5) for the purposes of risk classification if,</p> <p class=\"clause-e\">  (a) the insurance is sold under a group marketing plan within the meaning of section 17; and</p> <p class=\"clause-e\">  (b) coverage is for a private passenger vehicle within the meaning of the Plan of Operation established by the Facility Association under subsection 7 (3) of the <i>Compulsory Automobile Insurance Act</i>.  O. Reg. 275/03, s. 7.</p> <p class=\"subsection-e\">  (12) No element of a risk classification system shall result in a change in the classification of an insured before the next renewal date of the insured’s policy because,</p> <p class=\"clause-e\">  (a) a group marketing plan within the meaning of section 17 terminates; or</p> <p class=\"clause-e\">  (b) the insured ceases to be a member or associate member of an organized group referred to in subsection (5).  O. Reg. 275/03, s. 7.</p> <p class=\"subsection-e\">  (13) Subject to subsection (12), no element of a risk classification system that uses membership in an organized group referred to in subsection (5) shall apply to an insured who ceases to be a member or associate member of the group.  O. Reg. 275/03, s. 7.</p> <p class=\"subsection-e\">  (14) An organized group that met the requirements of this section and section 17 as they read on September 30, 2003 shall be deemed to meet the requirements of this section and section 17 after that day if,</p> <p class=\"clause-e\">  (a) membership in the group was an element of a risk classification system before October 1, 2003; and</p> <p class=\"clause-e\">  (b) a group marketing plan has been entered into that meets the requirements of section 17.  O. Reg. 275/03, s. 7.</p> <p class=\"subsection-e\">  (15) In this section,</p> <p class=\"definition-e\">“credit union” means a credit union within the meaning of the <i>Credit Unions and Caisses Populaires Act, 2020</i>; (“caisse populaire”)</p> <p class=\"definition-e\">“spouse” has the same meaning as in Part VI of the Act. (“conjoint”)  O. Reg. 275/03, s. 7; O. Reg. 316/05, s. 1 (5); O. Reg. 121/22, s. 1 (2).</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Group Marketing Plans</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. (1) In this section, “group marketing plan” means an arrangement made in writing between an insurer and a sponsor to market automobile insurance to members of an organized group referred to in subsection 16 (5); (“plan de commercialisation de groupe”) “sponsor” means a person who is authorized to enter into a group marketing plan on behalf of an organized group referred to in subsection 16 (5). (“parrain”)  O. Reg. 275/03, s. 8 (1). (1.1) A group marketing plan shall include the details of the arrangement, including, (a) the name of the insurer and the name of the sponsor or sponsors and their respective responsibilities; (b) the name of the broker or agent; (c) the effective date of the group marketing plan; (d) information with respect to fees; (e) whether or not the group marketing plan is made to the exclusion of another group marketing plan with respect to the group; and (f) the procedure for terminating the group marketing plan.  O. Reg. 275/03, s. 8 (1). (2) An insurer shall not sell automobile insurance under a group marketing plan if any person is required to purchase insurance under the plan or is subject to a penalty for failing to purchase insurance under the plan.  O. Reg. 553/94, s. 3. (3) An insurer, agent or broker who sells automobile insurance under a group marketing plan shall not accept an application from a person for insurance coverage unless, not later than 30 days after accepting the application, the insurer, agent or broker makes full and fair disclosure in writing to the person of all features of the group marketing plan and the insurance coverage, including, (a) the group marketing plan’s provisions relating to group discounts, policyholder services, termination of the plan and termination of eligibility; and (b) the financial interests of the sponsor in the group marketing plan.  O. Reg. 553/94, s. 3; O. Reg. 275/03, s. 8 (2, 3). (3.1) For the purposes of clause (3) (b), the financial interests of the sponsor include any lump sum payment, percentage of premium or other payment received by the sponsor from the insurer as a result of a person purchasing automobile insurance coverage through the plan.  O. Reg. 275/03, s. 8 (4). (4) A person who collects premiums under a group marketing plan, other than an agent or broker, shall provide adequate administrative facilities for the collection of premiums and shall be deemed to be the agent of the insurer for the purpose of collecting premiums.  O. Reg. 553/94, s. 3. (5) All premium funds received or receivable by a person under a group marketing plan, other than by an agent or broker, shall be deemed to be trust funds held for the benefit of the insurer.  O. Reg. 553/94, s. 3. (6) A person who receives or is entitled to receive premium funds under a group marketing plan shall not assign, pledge, mortgage or in any way charge the funds.  O. Reg. 553/94, s. 3. (7) An assignment, pledge, mortgage or other charge of premium funds contrary to subsection (6) is void.  O. Reg. 553/94, s. 3. Public Adjusters — Statutory Accident Benefits (Section 398 of the Act)",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b>(1) In this section,</p> <p class=\"firstdef-e\">“group marketing plan” means an arrangement made in writing between an insurer and a sponsor to market automobile insurance to members of an organized group referred to in subsection 16 (5); (“plan de commercialisation de groupe”)</p> <p class=\"definition-e\">“sponsor” means a person who is authorized to enter into a group marketing plan on behalf of an organized group referred to in subsection 16 (5). (“parrain”)  O. Reg. 275/03, s. 8 (1).</p> <p class=\"subsection-e\">  (1.1) A group marketing plan shall include the details of the arrangement, including,</p> <p class=\"clause-e\">  (a) the name of the insurer and the name of the sponsor or sponsors and their respective responsibilities;</p> <p class=\"clause-e\">  (b) the name of the broker or agent;</p> <p class=\"clause-e\">  (c) the effective date of the group marketing plan;</p> <p class=\"clause-e\">  (d) information with respect to fees;</p> <p class=\"clause-e\">  (e) whether or not the group marketing plan is made to the exclusion of another group marketing plan with respect to the group; and</p> <p class=\"clause-e\">  (f) the procedure for terminating the group marketing plan.  O. Reg. 275/03, s. 8 (1).</p> <p class=\"subsection-e\">  (2) An insurer shall not sell automobile insurance under a group marketing plan if any person is required to purchase insurance under the plan or is subject to a penalty for failing to purchase insurance under the plan.  O. Reg. 553/94, s. 3.</p> <p class=\"subsection-e\">  (3) An insurer, agent or broker who sells automobile insurance under a group marketing plan shall not accept an application from a person for insurance coverage unless, not later than 30 days after accepting the application, the insurer, agent or broker makes full and fair disclosure in writing to the person of all features of the group marketing plan and the insurance coverage, including,</p> <p class=\"clause-e\">  (a) the group marketing plan’s provisions relating to group discounts, policyholder services, termination of the plan and termination of eligibility; and</p> <p class=\"clause-e\">  (b) the financial interests of the sponsor in the group marketing plan.  O. Reg. 553/94, s. 3; O. Reg. 275/03, s. 8 (2, 3).</p> <p class=\"subsection-e\">  (3.1) For the purposes of clause (3) (b), the financial interests of the sponsor include any lump sum payment, percentage of premium or other payment received by the sponsor from the insurer as a result of a person purchasing automobile insurance coverage through the plan.  O. Reg. 275/03, s. 8 (4).</p> <p class=\"subsection-e\">  (4) A person who collects premiums under a group marketing plan, other than an agent or broker, shall provide adequate administrative facilities for the collection of premiums and shall be deemed to be the agent of the insurer for the purpose of collecting premiums.  O. Reg. 553/94, s. 3.</p> <p class=\"subsection-e\">  (5) All premium funds received or receivable by a person under a group marketing plan, other than by an agent or broker, shall be deemed to be trust funds held for the benefit of the insurer.  O. Reg. 553/94, s. 3.</p> <p class=\"subsection-e\">  (6) A person who receives or is entitled to receive premium funds under a group marketing plan shall not assign, pledge, mortgage or in any way charge the funds.  O. Reg. 553/94, s. 3.</p> <p class=\"subsection-e\">  (7) An assignment, pledge, mortgage or other charge of premium funds contrary to subsection (6) is void.  O. Reg. 553/94, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Public Adjusters — Statutory Accident Benefits (Section 398 of the Act)</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. A person who is authorized to provide legal services in Ontario pursuant to the Law Society Act is exempt from subsection 398 (1) of the Insurance Act in respect of a claim for benefits under the Statutory Accident Benefits Schedule.  O. Reg. 62/08, s. 1. Transition",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>A person who is authorized to provide legal services in Ontario pursuant to the <i>Law Society Act</i><i> </i>is exempt from subsection 398 (1) of the <i>Insurance Act</i> in respect of a claim for benefits under the Statutory Accident Benefits Schedule.  O. Reg. 62/08, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Transition</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. In this section and in sections 20 and 21, “arbitrator” means an arbitrator appointed under section 8 of the pre-transition date Act; (“arbitre”) “Director” means the director of arbitrations appointed under subsection 6 (1) of the pre-transition date Act; (“directeur”) “Licence Appeal Tribunal” means the Licence Appeal Tribunal established under the Licence Appeal Tribunal Act, 1999; (“Tribunal d’appel en matière de permis”) “pre-transition date Act” means the Act as it read immediately before the transition date; (“loi antérieure à la date de transition”) “transition date” has the same meaning as in subsection 283 (5) of the Act. (“date de transition”) O. Reg. 180/19, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>In this section and in sections 20 and 21,</p> <p class=\"definition-e\">“arbitrator” means an arbitrator appointed under section 8 of the pre-transition date Act; (“arbitre”)</p> <p class=\"definition-e\">“Director” means the director of arbitrations appointed under subsection 6 (1) of the pre-transition date Act; (“directeur”)</p> <p class=\"definition-e\">“Licence Appeal Tribunal” means the Licence Appeal Tribunal established under the <i>Licence Appeal Tribunal Act, 1999</i>; (“Tribunal d’appel en matière de permis”)</p> <p class=\"definition-e\">“pre-transition date Act” means the Act as it read immediately before the transition date; (“loi antérieure à la date de transition”)</p> <p class=\"definition-e\">“transition date” has the same meaning as in subsection 283 (5) of the Act. (“date de transition”) O. Reg. 180/19, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. (1) On July 1, 2020, any of the following proceedings that were continued by subsection 21 (1) or section 22.1 of this Regulation, as either provision read immediately before July 1, 2020, and that have not been finally determined by July 1, 2020 are extinguished: 1. A mediation under section 280 of the pre-transition date Act. 2. An arbitration under section 282 of the pre-transition date Act. 3. An appeal under section 283 of the pre-transition date Act. 4. An application for a variation or revocation of an order under subsection 284 of the pre-transition date Act. O. Reg. 180/19, s. 1. (2) For greater certainty, no party may commence a new proceeding described in subsection (1). O. Reg. 180/19, s. 1. (3) Despite subsection (1), if a motion or application to a judge for approval of a settlement in respect of a person under disability has been made in accordance with the Rules of Civil Procedure on or before July 1, 2020 in respect of a proceeding described in paragraph 2, 3 or 4 of subsection (1), the proceeding is continued until the settlement is approved or not approved by the judge. O. Reg. 180/19, s. 1. (4) A proceeding described in subsection (3) is extinguished on the day the settlement is not approved by a judge, and, (a) in the case of a proceeding described in paragraph 2 of subsection (1), either party may make a new application to the Licence Appeal Tribunal within 90 days after the day the judge refused to approve the settlement to resolve the dispute in accordance with section 280 of the Act; or (b) in the case of a proceeding described in paragraph 3 of subsection (1), the former appellant may make an appeal of the arbitration order to the Divisional Court in accordance with section 11 of the Licence Appeal Tribunal Act, 1999, within 30 days after the day the judge refused to approve the settlement, as if, (i) it were an appeal of a decision of the Licence Appeal Tribunal, and (ii) the arbitration order were made on the day the judge refused to approve the settlement. O. Reg. 180/19, s. 1. (5) If, on July 1, 2020, an order has not yet been issued in an arbitration described in paragraph 2 of subsection (1), either party may make a new application to the Licence Appeal Tribunal on or before December 1, 2020 to resolve the dispute in accordance with section 280 of the Act. O. Reg. 180/19, s. 1. (6) If, on July 1, 2020, an order has previously been issued in an arbitration described in paragraph 2 of subsection (1) but the issue of a special award under subsection 282 (10) of the pre-transition date Act or of costs has not been finally determined, either party may apply to the Licence Appeal Tribunal under section 280 of the Act on or before December 1, 2020 to decide that outstanding issue. O. Reg. 180/19, s. 1. (7) Section 56 of Ontario Regulation 34/10 (Statutory Accident Benefits Schedule - Effective September 1, 2010), made under the Act, does not apply to an application described in clause (4) (a) or subsection (5) or (6). O. Reg. 180/19, s. 1. (8) If an order has been issued in an arbitration described in paragraph 2 of subsection (1) before July 1, 2020, the order has not been appealed and the time to serve a notice of motion for leave to appeal, as set out in subsection 283 (2) of the pre-transition date Act, has not expired, either party may appeal the arbitration order to the Divisional Court in accordance with section 11 of the Licence Appeal Tribunal Act, 1999 as if it were an appeal of a decision of the Licence Appeal Tribunal. O. Reg. 180/19, s. 1. (9) If an appeal of an arbitration order has been extinguished by subsection (1), the former appellant may make an appeal of the arbitration order to the Divisional Court, in accordance with section 11 of the Licence Appeal Tribunal Act, 1999, before December 1, 2020 as if, (a) it were an appeal of a decision of the Licence Appeal Tribunal; and (b) the arbitration order were made on July 1, 2020. O. Reg. 180/19, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>(1) On July 1, 2020, any of the following proceedings that were continued by subsection 21 (1) or section 22.1 of this Regulation, as either provision read immediately before July 1, 2020, and that have not been finally determined by July 1, 2020 are extinguished:</p> <p class=\"paragraph-e\">  1. A mediation under section 280 of the pre-transition date Act.</p> <p class=\"paragraph-e\">  2. An arbitration under section 282 of the pre-transition date Act.</p> <p class=\"paragraph-e\">  3. An appeal under section 283 of the pre-transition date Act.</p> <p class=\"paragraph-e\">  4. An application for a variation or revocation of an order under subsection 284 of the pre-transition date Act. O. Reg. 180/19, s. 1.</p> <p class=\"subsection-e\">  (2) For greater certainty, no party may commence a new proceeding described in subsection (1). O. Reg. 180/19, s. 1.</p> <p class=\"subsection-e\">  (3) Despite subsection (1), if a motion or application to a judge for approval of a settlement in respect of a person under disability has been made in accordance with the Rules of Civil Procedure on or before July 1, 2020 in respect of a proceeding described in paragraph 2, 3 or 4 of subsection (1), the proceeding is continued until the settlement is approved or not approved by the judge. O. Reg. 180/19, s. 1.</p> <p class=\"subsection-e\">  (4) A proceeding described in subsection (3) is extinguished on the day the settlement is not approved by a judge, and,</p> <p class=\"clause-e\">  (a) in the case of a proceeding described in paragraph 2 of subsection (1), either party may make a new application to the Licence Appeal Tribunal within 90 days after the day the judge refused to approve the settlement to resolve the dispute in accordance with section 280 of the Act; or</p> <p class=\"clause-e\">  (b) in the case of a proceeding described in paragraph 3 of subsection (1), the former appellant may make an appeal of the arbitration order to the Divisional Court in accordance with section 11 of the <i>Licence Appeal Tribunal Act, 1999</i>, within 30 days after the day the judge refused to approve the settlement, as if,</p> <p class=\"subclause-e\">  (i) it were an appeal of a decision of the Licence Appeal Tribunal, and</p> <p class=\"subclause-e\">  (ii) the arbitration order were made on the day the judge refused to approve the settlement. O. Reg. 180/19, s. 1.</p> <p class=\"subsection-e\">  (5) If, on July 1, 2020, an order has not yet been issued in an arbitration described in paragraph 2 of subsection (1), either party may make a new application to the Licence Appeal Tribunal on or before December 1, 2020 to resolve the dispute in accordance with section 280 of the Act. O. Reg. 180/19, s. 1.</p> <p class=\"subsection-e\">  (6) If, on July 1, 2020, an order has previously been issued in an arbitration described in paragraph 2 of subsection (1) but the issue of a special award under subsection 282 (10) of the pre-transition date Act or of costs has not been finally determined, either party may apply to the Licence Appeal Tribunal under section 280 of the Act on or before December 1, 2020 to decide that outstanding issue. O. Reg. 180/19, s. 1.</p> <p class=\"subsection-e\">  (7) Section 56 of Ontario Regulation 34/10 (Statutory Accident Benefits Schedule - Effective September 1, 2010), made under the Act, does not apply to an application described in clause (4) (a) or subsection (5) or (6). O. Reg. 180/19, s. 1.</p> <p class=\"subsection-e\">  (8) If an order has been issued in an arbitration described in paragraph 2 of subsection (1) before July 1, 2020, the order has not been appealed and the time to serve a notice of motion for leave to appeal, as set out in subsection 283 (2) of the pre-transition date Act, has not expired, either party may appeal the arbitration order to the Divisional Court in accordance with section 11 of the <i>Licence Appeal Tribunal Act, 1999</i> as if it were an appeal of a decision of the Licence Appeal Tribunal. O. Reg. 180/19, s. 1.</p> <p class=\"subsection-e\">  (9) If an appeal of an arbitration order has been extinguished by subsection (1), the former appellant may make an appeal of the arbitration order to the Divisional Court, in accordance with section 11 of the <i>Licence Appeal Tribunal Act, 1999</i>, before December 1, 2020 as if,</p> <p class=\"clause-e\">  (a) it were an appeal of a decision of the Licence Appeal Tribunal; and</p> <p class=\"clause-e\">  (b) the arbitration order were made on July 1, 2020. O. Reg. 180/19, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. (1) A court that conducts a judicial review of a proceeding described in subsection 20 (1) may refer the proceeding to the Licence Appeal Tribunal if it determines that such a referral is appropriate. O. Reg. 180/19, s. 2 (2). (2) If the Director ordered that a dispute be heard again by an arbitrator, and if the dispute was not finally determined by July 1, 2020, either party may make a new application to the Licence Appeal Tribunal on or before December 1, 2020 to resolve the dispute in accordance with section 280 of the Act. O. Reg. 180/19, s. 2 (2). (3) If a court refers a dispute to be decided by the Director or by an arbitrator on or after July 1, 2020, either party may make a new application to the Licence Appeal Tribunal within 90 days after the day the matter was referred to the Director or arbitrator to resolve the dispute in accordance with section 280 of the Act. O. Reg. 180/19, s. 2 (2). (4) Section 56 of Ontario Regulation 34/10 (Statutory Accident Benefits Schedule - Effective September 1, 2010), made under the Act, does not apply to an application described in subsection (2) or (3). O. Reg. 180/19, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>21. </b>(1) A court that conducts a judicial review of a proceeding described in subsection 20 (1) may refer the proceeding to the Licence Appeal Tribunal if it determines that such a referral is appropriate. O. Reg. 180/19, s. 2 (2).</p> <p class=\"subsection-e\">  (2) If the Director ordered that a dispute be heard again by an arbitrator, and if the dispute was not finally determined by July 1, 2020, either party may make a new application to the Licence Appeal Tribunal on or before December 1, 2020 to resolve the dispute in accordance with section 280 of the Act. O. Reg. 180/19, s. 2 (2).</p> <p class=\"subsection-e\">  (3) If a court refers a dispute to be decided by the Director or by an arbitrator on or after July 1, 2020, either party may make a new application to the Licence Appeal Tribunal within 90 days after the day the matter was referred to the Director or arbitrator to resolve the dispute in accordance with section 280 of the Act. O. Reg. 180/19, s. 2 (2).</p> <p class=\"subsection-e\">  (4) Section 56 of Ontario Regulation 34/10 (Statutory Accident Benefits Schedule - Effective September 1, 2010), made under the Act, does not apply to an application described in subsection (2) or (3). O. Reg. 180/19, s. 2 (2).</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  22. (1) For greater certainty, nothing in section 20 or 21 prevents a party from seeking judicial review. O. Reg. 180/19, s. 3 (2). (2) For greater certainty, if an application is made to the Licence Appeal Tribunal under subsection 280 (2) of the Act, the dispute shall be resolved in accordance with the rules of the Licence Appeal Tribunal. O. Reg. 180/19, s. 3 (2).",
+            "raw_html": "<p class=\"section-e\"><b>  22. </b>(1) For greater certainty, nothing in section 20 or 21 prevents a party from seeking judicial review. O. Reg. 180/19, s. 3 (2).</p> <p class=\"subsection-e\">  (2) For greater certainty, if an application is made to the Licence Appeal Tribunal under subsection 280 (2) of the Act, the dispute shall be resolved in accordance with the rules of the Licence Appeal Tribunal. O. Reg. 180/19, s. 3 (2).</p>"
+        },
+        {
+            "ahref_id": "#22.1-25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22.1-25. Revoked : O. Reg. 180/19, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>22.1-25. </b><span class=\"ovsmallcap\">Revoked : </span>O. Reg. 180/19, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. References in this Regulation to a form approved by the Chief Executive Officer are deemed to include the last form approved by the Superintendent for the purposes of the relevant provision prior to the day section 22 of Schedule 13 to the Plan for Care and Opportunity Act (Budget Measures), 2018\r\ncame into force until the Chief Executive Officer approves a subsequent form for the purposes of the relevant provision. O. Reg. 180/19, s. 6. Table 1 Revoked:  O. Reg. 36/10, s. 5. Schedule Revoked: O. Reg. 43/16, s 6. Form 1 Revoked:  O. Reg. 780/93, s. 9.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b>References in this Regulation to a form approved by the Chief Executive Officer are deemed to include the last form approved by the Superintendent for the purposes of the relevant provision prior to the day section 22 of Schedule 13 to the <i>Plan for Care and Opportunity Act (Budget Measures), 2018</i>\r\ncame into force until the Chief Executive Officer approves a subsequent form for the purposes of the relevant provision. O. Reg. 180/19, s. 6.</p> <p class=\"tableheadingrev-e\"><span class=\"ovallcaps\">Table 1</span> <span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 36/10, s. 5.</p> <p class=\"scheduleRevoked-e\"><span class=\"ovallcaps\">Schedule</span> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 43/16, s 6.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Form</span> 1 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 780/93, s. 9.</p> <p class=\"formRevoked-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/900664\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 136/15: DESIGNATED AIR AMBULANCE SERVICE PROVIDERS",
+        "reg_name_text": "DESIGNATED AIR AMBULANCE SERVICE PROVIDERS",
+        "citation": "O. Reg. 136/15: ",
+        "act_under": "Ambulance Act",
+        "url": "https://www.ontario.ca/laws/regulation/150136",
+        "date_scraped": "2023-12-19 03:15:07"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/150136/v2",
+            "valid_from": "July  1, 2015",
+            "valid_to": "November  2, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/150136/v1",
+            "valid_from": "June  5, 2015",
+            "valid_to": "June 30, 2015"
+        }
+    ],
+    "content": [
+        {
+            "id": "s1",
+            "section": "Designation",
+            "content": " 1. Ornge is designated for the purposes of clause (a) of the definition of “designated air ambulance service provider” in subsection 1 (1) of the Act.",
+            "raw_html": "<p class=\"section-e\"><a name=\"s1\"></a><b> <a href=\"http://www.ontario.ca/fr/lois/reglement/150136#s1\"><span lang=\"EN-US\">1.</span></a> </b>Ornge is designated for the purposes of clause (a) of the definition of “designated air ambulance service provider” in subsection 1 (1) of the Act.</p>"
+        },
+        {
+            "id": "s2",
+            "section": "Designation",
+            "content": " 2. Omitted\r\n(provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"><a name=\"s2\"></a> <a href=\"http://www.ontario.ca/fr/lois/reglement/150136#s2\"><span lang=\"EN-US\">2.</span></a> <span class=\"ovsmallcap\">Omitted</span>\r\n(<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Designation",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/150136\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

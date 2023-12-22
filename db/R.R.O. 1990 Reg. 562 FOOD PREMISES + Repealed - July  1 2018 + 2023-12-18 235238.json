@@ -1,0 +1,1295 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 562: FOOD PREMISES",
+        "reg_name_text": "FOOD PREMISES",
+        "citation": "R.R.O. 1990, Reg. 562: ",
+        "act_under": "Health Protection and Promotion Act   Loi sur la protection et la promotion de la santé",
+        "url": "https://www.ontario.ca/laws/regulation/900562",
+        "date_scraped": "2023-12-18 23:52:40"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/900562/v17",
+            "valid_from": "December 15, 2017",
+            "valid_to": "June 30, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v16",
+            "valid_from": "January  1, 2014",
+            "valid_to": "December 14, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v15",
+            "valid_from": "December 16, 2013",
+            "valid_to": "December 31, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v14",
+            "valid_from": "October 25, 2013",
+            "valid_to": "December 15, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v13",
+            "valid_from": "July  1, 2013",
+            "valid_to": "October 24, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v12",
+            "valid_from": "May 31, 2013",
+            "valid_to": "June 30, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v11",
+            "valid_from": "May  1, 2008",
+            "valid_to": "May 30, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v10",
+            "valid_from": "April 18, 2008",
+            "valid_to": "April 30, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v9",
+            "valid_from": "August  1, 2007",
+            "valid_to": "April 17, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v8",
+            "valid_from": "July  6, 2007",
+            "valid_to": "July 31, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v7",
+            "valid_from": "June 15, 2006",
+            "valid_to": "July  5, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v6",
+            "valid_from": "March 31, 2006",
+            "valid_to": "June 14, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v5",
+            "valid_from": "April 11, 2005",
+            "valid_to": "March 30, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v4",
+            "valid_from": "March  1, 2005",
+            "valid_to": "April 10, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v3",
+            "valid_from": "September  1, 2004",
+            "valid_to": "February 28, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v2",
+            "valid_from": "March 29, 2004",
+            "valid_to": "August 31, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900562/v1",
+            "valid_from": "December 18, 2001",
+            "valid_to": "March 28, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "PART II",
+            "Section": "None",
+            "Section1": "INTERPRETATION",
+            "Section2": "1",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "PART III",
+            "Section": "None",
+            "Section1": "ESTABLISHMENT",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Exemptions",
+            "Section2": "2-3",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Catering Vehicles",
+            "Section2": "4",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Mobile Preparation Premises",
+            "Section2": "5",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Street Food Vending Carts",
+            "Section2": "5.1",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Vending Machines",
+            "Section2": "6-9",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Locker Plants",
+            "Section2": "10",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "PART IV",
+            "Section": "None",
+            "Section1": "GENERAL",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Building Maintenance",
+            "Section2": "11-12",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Lighting",
+            "Section2": "13-14",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Ventilation",
+            "Section2": "15-16., 17",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Equipment",
+            "Section2": "18-25",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Food Handling",
+            "Section2": "26-36",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Meat and Meat Products",
+            "Section2": "37-41",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Milk and Milk Products",
+            "Section2": "42-53",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Eggs",
+            "Section2": "54-55",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Maintenance",
+            "Section2": "56-63",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Personnel",
+            "Section2": "64-67",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "PART IV",
+            "Section": "None",
+            "Section1": "SANITARY FACILITIES",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "General",
+            "Section2": "68",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Employees",
+            "Section2": "69",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Patrons of Food Service Premises",
+            "Section2": "70",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Cleaning and Sanitizing of Utensils",
+            "Section2": "71-82",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. (1) In this Regulation, “catering vehicle” means an itinerant food service premise in which no food is prepared other than hot beverages and french fried potatoes; “corrosion-resistant material” means any material that maintains its original surface characteristics after, (a) repeated exposure to food, soil, moisture or heat, or (b) exposure to any substance used in cleansing and sanitizing; “egg grading station” means an egg grading station registered under the Canada Agricultural Products Act; “egg processing station” means an egg product processing station registered under the Canada Agricultural Products Act; “eggs” means raw eggs in the shell; “employee” means any person who, (a) is employed in a food premise, and (b) handles or comes in contact with any utensil or with food during its preparation, processing, packaging, service, storage or transportation; “farmers’ market” means a central location at which a group of persons who operate stalls or other food premises meet to sell or offer for sale to consumers products that include, without being restricted to, farm products, baked goods and preserved foods, and at which the majority of the persons operating the stalls or other food premises are producers of farm products who are primarily selling or offering for sale their own products; “farmers’ market food vendor” means the operator of a stall or other food premise that is located at a farmers’ market; “farm products” means products that are grown, raised or produced on a farm and intended for use as food and include, without being restricted to, fruits and vegetables, mushrooms, meat and meat products, dairy products, honey products, maple products, fish, grains and seeds and grain and seed products; “food contact surface” means any surface that food comes in contact with in a food premise; “food service premise” means any food premise where meals or meal portions are prepared for immediate consumption or sold or served in a form that will permit immediate consumption on the premises or elsewhere; “Grade ‘C’ eggs” means eggs that are graded “Canada C” as defined in the regulation under the Canada Agricultural Products Act; “hazardous food” means any food that is capable of supporting the growth of pathogenic organisms or the production of the toxins of such organisms; “locker plant” means any food premise in which individual lockers are rented or offered for rent to the public for the storage of frozen foods; “manufactured meat product” means food that is the product of a process and that contains meat as an ingredient and includes meat that is processed by salting, pickling, fermenting, canning, drying or smoking or otherwise applying heat or to which edible fats, cereals, seasonings or sugar have been added; “mobile preparation premises” means a vehicle or other itinerant food premise from which food prepared therein is offered for sale to the public; “multi-service article” means any container or eating utensil that is intended for repeated use in the service or sale of food; “official method” means a method used by a laboratory established under section 79 of the Act for the laboratory examination of food; “pre-packaged foods” means food that is packaged at a premise other than the premises at which it is offered for sale; “public space” means a space, whether indoors or outdoors, to which the public is ordinarily invited or permitted access, either expressly or by implication, whether or not a fee is charged for entry; “sanitizing” means antimicrobial treatment, and “sanitize” has a corresponding meaning; “selling” includes automatic vending; “serving” includes self-service; “single-service article” means any container or eating utensil that is to be used only once in the service or sale of food; “single-service towel” means a towel that is to be used only once before being discarded or laundered for reuse; “street food vending cart” means a food premise, (a) that is a cart set up on a temporary basis in a public space, and (b) from which food is sold or offered for sale for immediate consumption; “utensil” means any article or equipment used in the manufacture, processing, preparation, storage, handling, display, distribution, sale or offer for sale of food except a single-service article; “vending machine” means any self-service device that upon insertion of a coin, coins or tokens, automatically dispenses unit servings of food either in bulk or in package form.  R.R.O. 1990, Reg. 562, s. 1 (1); O. Reg. 308/06, s. 1; O. Reg. 338/07, s. 1. (2) A reference in this Regulation to the medical officer of health or the public health inspector means the medical officer of health or the public health inspector, as the case may be, of the board of health in the health unit in which the food premise referred to is situate.  R.R.O. 1990, Reg. 562, s. 1 (2). PART II \nESTABLISHMENT Exemptions",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) In this Regulation,</p> <p class=\"firstdef-e\">“catering vehicle” means an itinerant food service premise in which no food is prepared other than hot beverages and french fried potatoes;</p> <p class=\"definition-e\">“corrosion-resistant material” means any material that maintains its original surface characteristics after,</p> <p class=\"defclause-e\">  (a) repeated exposure to food, soil, moisture or heat, or</p> <p class=\"defclause-e\">  (b) exposure to any substance used in cleansing and sanitizing;</p> <p class=\"definition-e\">“egg grading station” means an egg grading station registered under the <i>Canada Agricultural Products Act</i>;</p> <p class=\"definition-e\">“egg processing station” means an egg product processing station registered under the <i>Canada Agricultural Products Act</i>;</p> <p class=\"definition-e\">“eggs” means raw eggs in the shell;</p> <p class=\"definition-e\">“employee” means any person who,</p> <p class=\"defclause-e\">  (a) is employed in a food premise, and</p> <p class=\"defclause-e\">  (b) handles or comes in contact with any utensil or with food during its preparation, processing, packaging, service, storage or transportation;</p> <p class=\"definition-e\">“farmers’ market” means a central location at which a group of persons who operate stalls or other food premises meet to sell or offer for sale to consumers products that include, without being restricted to, farm products, baked goods and preserved foods, and at which the majority of the persons operating the stalls or other food premises are producers of farm products who are primarily selling or offering for sale their own products;</p> <p class=\"definition-e\">“farmers’ market food vendor” means the operator of a stall or other food premise that is located at a farmers’ market;</p> <p class=\"definition-e\">“farm products” means products that are grown, raised or produced on a farm and intended for use as food and include, without being restricted to, fruits and vegetables, mushrooms, meat and meat products, dairy products, honey products, maple products, fish, grains and seeds and grain and seed products;</p> <p class=\"definition-e\">“food contact surface” means any surface that food comes in contact with in a food premise;</p> <p class=\"definition-e\">“food service premise” means any food premise where meals or meal portions are prepared for immediate consumption or sold or served in a form that will permit immediate consumption on the premises or elsewhere;</p> <p class=\"definition-e\">“Grade ‘C’ eggs” means eggs that are graded “Canada C” as defined in the regulation under the <i>Canada Agricultural Products Act</i>;</p> <p class=\"definition-e\">“hazardous food” means any food that is capable of supporting the growth of pathogenic organisms or the production of the toxins of such organisms;</p> <p class=\"definition-e\">“locker plant” means any food premise in which individual lockers are rented or offered for rent to the public for the storage of frozen foods;</p> <p class=\"definition-e\">“manufactured meat product” means food that is the product of a process and that contains meat as an ingredient and includes meat that is processed by salting, pickling, fermenting, canning, drying or smoking or otherwise applying heat or to which edible fats, cereals, seasonings or sugar have been added;</p> <p class=\"definition-e\">“mobile preparation premises” means a vehicle or other itinerant food premise from which food prepared therein is offered for sale to the public;</p> <p class=\"definition-e\">“multi-service article” means any container or eating utensil that is intended for repeated use in the service or sale of food;</p> <p class=\"definition-e\">“official method” means a method used by a laboratory established under section 79 of the Act for the laboratory examination of food;</p> <p class=\"definition-e\">“pre-packaged foods” means food that is packaged at a premise other than the premises at which it is offered for sale;</p> <p class=\"definition-e\">“public space” means a space, whether indoors or outdoors, to which the public is ordinarily invited or permitted access, either expressly or by implication, whether or not a fee is charged for entry;</p> <p class=\"definition-e\">“sanitizing” means antimicrobial treatment, and “sanitize” has a corresponding meaning;</p> <p class=\"definition-e\">“selling” includes automatic vending;</p> <p class=\"definition-e\">“serving” includes self-service;</p> <p class=\"definition-e\">“single-service article” means any container or eating utensil that is to be used only once in the service or sale of food;</p> <p class=\"definition-e\">“single-service towel” means a towel that is to be used only once before being discarded or laundered for reuse;</p> <p class=\"definition-e\">“street food vending cart” means a food premise,</p> <p class=\"defclause-e\">  (a) that is a cart set up on a temporary basis in a public space, and</p> <p class=\"defclause-e\">  (b) from which food is sold or offered for sale for immediate consumption;<b> </b></p> <p class=\"definition-e\">“utensil” means any article or equipment used in the manufacture, processing, preparation, storage, handling, display, distribution, sale or offer for sale of food except a single-service article;</p> <p class=\"definition-e\">“vending machine” means any self-service device that upon insertion of a coin, coins or tokens, automatically dispenses unit servings of food either in bulk or in package form.  R.R.O. 1990, Reg. 562, s. 1 (1); O. Reg. 308/06, s. 1; O. Reg. 338/07, s. 1.</p> <p class=\"subsection-e\">  (2) A reference in this Regulation to the medical officer of health or the public health inspector means the medical officer of health or the public health inspector, as the case may be, of the board of health in the health unit in which the food premise referred to is situate.  R.R.O. 1990, Reg. 562, s. 1 (2).</p> <p class=\"partnum-e\"><a name=\"BK1\"></a>PART II <br/>\n<span>ESTABLISHMENT</span></p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Exemptions</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. (1) This Regulation applies to all food premises except, (a) boarding houses that provide meals for fewer than ten boarders; (b) a food premise to which Regulation 554 or 568 of the Revised Regulations of Ontario, 1990 applies; (c) food premises owned, operated or leased by religious organizations, service clubs and fraternal organizations where the religious organization, service club or fraternal organization, (i) prepares and serves meals for special events, and (ii)   conducts bake sales; and (d) farmers’ market food vendors.  R.R.O. 1990, Reg. 562, s. 2 (1); O. Reg. 308/06, s. 2 (1). (2) No person shall operate or maintain a food premise to which this Regulation applies except in accordance with this Regulation.  R.R.O. 1990, Reg. 562, s. 2 (2); O. Reg. 586/99, s. 1. (3) The exemption provided for in clause (1) (c) is subject to the conditions set out in paragraphs 1 and 2 if a religious organization, service club or fraternal organization mentioned in that clause prepares and serves meals for a special event to which the general public is invited, and hazardous food that originates from a food premise that is not inspected under this Regulation is included in such a meal: 1. Patrons attending the special event shall be notified in writing as to whether or not the food premise has been inspected in accordance with this Regulation.  The notice shall be posted in a conspicuous place at the entrance to the food premise at which the special event meal is held. 2. The operator must keep a list of all persons who donate hazardous food for the special event meal and must provide a copy of that list to a public health inspector on request. The list must contain each donor’s name, address and telephone number in full.  O. Reg. 308/06, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) This Regulation applies to all food premises except,</p> <p class=\"clause-e\">  (a) boarding houses that provide meals for fewer than ten boarders;</p> <p class=\"clause-e\">  (b) a food premise to which Regulation 554 or 568 of the Revised Regulations of Ontario, 1990 applies;</p> <p class=\"clause-e\">  (c) food premises owned, operated or leased by religious organizations, service clubs and fraternal organizations where the religious organization, service club or fraternal organization,</p> <p class=\"subclause-e\">  (i) prepares and serves meals for special events, and</p> <p class=\"subclause-e\">  (ii)   conducts bake sales; and</p> <p class=\"clause-e\">  (d) farmers’ market food vendors.  R.R.O. 1990, Reg. 562, s. 2 (1); O. Reg. 308/06, s. 2 (1).</p> <p class=\"subsection-e\">  (2) No person shall operate or maintain a food premise to which this Regulation applies except in accordance with this Regulation.  R.R.O. 1990, Reg. 562, s. 2 (2); O. Reg. 586/99, s. 1.</p> <p class=\"subsection-e\">  (3) The exemption provided for in clause (1) (c) is subject to the conditions set out in paragraphs 1 and 2 if a religious organization, service club or fraternal organization mentioned in that clause prepares and serves meals for a special event to which the general public is invited, and hazardous food that originates from a food premise that is not inspected under this Regulation is included in such a meal:</p> <p class=\"paragraph-e\">  1. Patrons attending the special event shall be notified in writing as to whether or not the food premise has been inspected in accordance with this Regulation.  The notice shall be posted in a conspicuous place at the entrance to the food premise at which the special event meal is held. </p> <p class=\"paragraph-e\">  2. The operator must keep a list of all persons who donate hazardous food for the special event meal and must provide a copy of that list to a public health inspector on request. The list must contain each donor’s name, address and telephone number in full.  O. Reg. 308/06, s. 2 (2).</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) The following retail food premises are exempt from the provisions of clauses 20 (1) (b) and (c) and sections 68 to 81 where they meet the requirements of subsection (2): 1. Premises where only cold drinks are sold in or from the original container. 2. Premises where only frozen confections are sold in the original package or wrapper. 3. Premises where only hot beverages are prepared and sold. 4. Farms selling only their own farm products in the form of honey, maple syrup, or unprocessed fruits, vegetables and grains. 5. Premises preparing and selling only popped corn, roasted nuts or french fried potatoes. 6. Premises selling only pre-packaged food that is not a hazardous food. 7. Catering trucks.  R.R.O. 1990, Reg. 562, s. 3 (1). (2) A food premise referred to in subsection (1) shall, (a) use only single-service articles; (b) provide a supply of single-use commercially packaged moist hand towelettes for the personal hygiene of its employees; and (c) where it has an eating or drinking area, have an eating or drinking area that does not exceed fifty-six square metres.  R.R.O. 1990, Reg. 562, s. 3 (2). Catering Vehicles",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) The following retail food premises are exempt from the provisions of clauses 20 (1) (b) and (c) and sections 68 to 81 where they meet the requirements of subsection (2):</p> <p class=\"paragraph-e\">  1. Premises where only cold drinks are sold in or from the original container.</p> <p class=\"paragraph-e\">  2. Premises where only frozen confections are sold in the original package or wrapper.</p> <p class=\"paragraph-e\">  3. Premises where only hot beverages are prepared and sold.</p> <p class=\"paragraph-e\">  4. Farms selling only their own farm products in the form of honey, maple syrup, or unprocessed fruits, vegetables and grains.</p> <p class=\"paragraph-e\">  5. Premises preparing and selling only popped corn, roasted nuts or french fried potatoes.</p> <p class=\"paragraph-e\">  6. Premises selling only pre-packaged food that is not a hazardous food.</p> <p class=\"paragraph-e\">  7. Catering trucks.  R.R.O. 1990, Reg. 562, s. 3 (1).</p> <p class=\"subsection-e\">  (2) A food premise referred to in subsection (1) shall,</p> <p class=\"clause-e\">  (a) use only single-service articles;</p> <p class=\"clause-e\">  (b) provide a supply of single-use commercially packaged moist hand towelettes for the personal hygiene of its employees; and</p> <p class=\"clause-e\">  (c) where it has an eating or drinking area, have an eating or drinking area that does not exceed fifty-six square metres.  R.R.O. 1990, Reg. 562, s. 3 (2).</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Catering Vehicles</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. (1) All food offered for sale from a catering vehicle shall be pre-packaged except for hot beverages and french fried potatoes.  R.R.O. 1990, Reg. 562, s. 4 (1). (2) Every catering vehicle shall be equipped with mechanically refrigerated storage and display facilities that shall be used for holding hazardous foods.  R.R.O. 1990, Reg. 562, s. 4 (2). (3) Subsection (2) does not apply to vehicles from which only frozen confections in the original package or wrapper are sold.  R.R.O. 1990, Reg. 562, s. 4 (3). Mobile Preparation Premises",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) All food offered for sale from a catering vehicle shall be pre-packaged except for hot beverages and french fried potatoes.  R.R.O. 1990, Reg. 562, s. 4 (1).</p> <p class=\"subsection-e\">  (2) Every catering vehicle shall be equipped with mechanically refrigerated storage and display facilities that shall be used for holding hazardous foods.  R.R.O. 1990, Reg. 562, s. 4 (2).</p> <p class=\"subsection-e\">  (3) Subsection (2) does not apply to vehicles from which only frozen confections in the original package or wrapper are sold.  R.R.O. 1990, Reg. 562, s. 4 (3).</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Mobile Preparation Premises</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) Mobile preparation premises are exempt from the provisions of sections 68 and 69, but where a mobile preparation premises provides sanitary facilities for its employees the sanitary facilities shall be in compliance with sections 68 and 69.  R.R.O. 1990, Reg. 562, s. 5 (1). (2) In every mobile preparation premises, (a) food shall be prepared within the premises and served to the public by persons working within the premises; (b) only single-service articles shall be used; (c) service doors and windows to the preparation area shall be screened and, when the premise is in motion, tightly closed with a solid material to prevent the entrance of dust and fumes into the food preparation area; (d) the driver’s compartment shall be completely partitioned from the food preparation area and, where the partition has an access door, the door shall be solid and self-closing; (e) separate holding tanks shall be provided for toilet and sink wastes; and (f) every waste tank and water supply tank shall be equipped with an easily readable gauge for determining the waste or water level in the tank.  R.R.O. 1990, Reg. 562, s. 5 (2). (3) Revoked:  O. Reg. 338/07, s. 2. Street Food Vending Carts",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) Mobile preparation premises are exempt from the provisions of sections 68 and 69, but where a mobile preparation premises provides sanitary facilities for its employees the sanitary facilities shall be in compliance with sections 68 and 69.  R.R.O. 1990, Reg. 562, s. 5 (1).</p> <p class=\"subsection-e\">  (2) In every mobile preparation premises,</p> <p class=\"clause-e\">  (a) food shall be prepared within the premises and served to the public by persons working within the premises;</p> <p class=\"clause-e\">  (b) only single-service articles shall be used;</p> <p class=\"clause-e\">  (c) service doors and windows to the preparation area shall be screened and, when the premise is in motion, tightly closed with a solid material to prevent the entrance of dust and fumes into the food preparation area;</p> <p class=\"clause-e\">  (d) the driver’s compartment shall be completely partitioned from the food preparation area and, where the partition has an access door, the door shall be solid and self-closing;</p> <p class=\"clause-e\">  (e) separate holding tanks shall be provided for toilet and sink wastes; and</p> <p class=\"clause-e\">  (f) every waste tank and water supply tank shall be equipped with an easily readable gauge for determining the waste or water level in the tank.  R.R.O. 1990, Reg. 562, s. 5 (2).</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 338/07, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Street Food Vending Carts</p>"
+        },
+        {
+            "ahref_id": "#5.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5.1 (1) The only foods permitted to be sold or offered for sale from a street food vending cart are, (a) foods including, without being limited to, soda, pre-packaged salads and fruits and baked goods, (i) that are pre-packaged in another food premise to which this Regulation applies or another premise that is similar to a food premise to which this Regulation applies and that is regulated under the laws of another jurisdiction for purposes similar to this Regulation, and that are transported from that other premise in a ready-to-eat state, and (ii) that are sold in the street food vending cart in the packaging in which they are delivered; (b) foods including, without being limited to, wieners or similar sausage products, pizza, samosas, burritos, beef patties and hamburgers, (i) that are pre-cooked in another food premise to which this Regulation applies or another premise that is similar to a food premise to which this Regulation applies and that is regulated under the laws of another jurisdiction for purposes similar to this Regulation, and (ii) that are re-heated on the street food vending cart prior to being sold or offered for sale; (c) non-hazardous foods including, without being limited to, french fried potatoes, fruit juices, non-dairy smoothies, corn on the cob and whole fruit, that are either, (i) prepared on the street food vending cart in a manner permitted under subsection (2), or (ii) brought to the street food vending cart in a prepared state after being prepared in another food premise to which this Regulation applies or another premise that is similar to a food premise to which this Regulation applies and that is regulated under the laws of another jurisdiction for purposes similar to this Regulation; and (d) other foods that are permitted to be sold or offered for sale under subsection (3).  O. Reg. 338/07, s. 3. (2) Food preparation for the purposes of clause (1) (c) is limited to preparation, including handling, that is conducted in a safe and sanitary manner that will prevent contamination of the non-hazardous foods, and that complies with all other applicable requirements of this Regulation respecting the safe preparation of foods.  O. Reg. 338/07, s. 3. (3) The operator of a street food vending cart may sell or offer to sell foods from the cart that are not listed in clauses (1) (a), (b) and (c) if, (a) the medical officer of health has received a request from the operator to sell the items; (b) the medical officer of health is satisfied that, with appropriate safeguards, the sale of the additional foods poses no greater risk to the health of the patrons of the street food vending cart than the sale of the foods listed in clauses (1) (a), (b) and (c); (c) the medical officer of health has issued a letter of permission to the operator to permit the sale that sets out any requirements regarding the maintenance of the premise, equipment, food handling, cooking, preparation or storage that are necessary to ensure that the safeguards required under clause (b) are in place; and (d) the operator complies with the requirements set out in the letter of permission, and posts the letter of permission in a prominent place.  O. Reg. 338/07, s. 3. (4) Street food vending carts are exempt from the provisions of sections 68 and 69, but where such a premise provides sanitary facilities for its employees the sanitary facilities shall be in compliance with sections 68 and 69.  O. Reg. 338/07, s. 3. (5) At every street food vending cart, (a) only single-service articles shall be used; (b) during all times when the premise is in operation the food preparation, food holding and food service areas of the street food vending cart shall be completely covered by an overhead canopy of corrosion-resistant, non-absorbent and readily cleanable material to prevent the adulteration of foods; (c) separate holding tanks shall be provided for toilet and sink wastes; and (d) every waste tank and water supply tank shall be equipped with an easily readable gauge for determining the waste or water level in the tank.  O. Reg. 338/07, s. 3. Vending Machines",
+            "raw_html": "<p class=\"section-e\"> <b>5.1 </b>(1) The only foods permitted to be sold or offered for sale from a street food vending cart are,</p> <p class=\"clause-e\">  (a) foods including, without being limited to, soda, pre-packaged salads and fruits and baked goods,</p> <p class=\"subclause-e\">  (i) that are pre-packaged in another food premise to which this Regulation applies or another premise that is similar to a food premise to which this Regulation applies and that is regulated under the laws of another jurisdiction for purposes similar to this Regulation, and that are transported from that other premise in a ready-to-eat state, and </p> <p class=\"subclause-e\">  (ii) that are sold in the street food vending cart in the packaging in which they are delivered;</p> <p class=\"clause-e\">  (b) foods including, without being limited to, wieners or similar sausage products, pizza, samosas, burritos, beef patties and hamburgers,</p> <p class=\"subclause-e\">  (i) that are pre-cooked in another food premise to which this Regulation applies or another premise that is similar to a food premise to which this Regulation applies and that is regulated under the laws of another jurisdiction for purposes similar to this Regulation, and </p> <p class=\"subclause-e\">  (ii) that are re-heated on the street food vending cart prior to being sold or offered for sale; </p> <p class=\"clause-e\">  (c) non-hazardous foods including, without being limited to, french fried potatoes, fruit juices, non-dairy smoothies, corn on the cob and whole fruit, that are either,</p> <p class=\"subclause-e\">  (i) prepared on the street food vending cart in a manner permitted under subsection (2), or</p> <p class=\"subclause-e\">  (ii) brought to the street food vending cart in a prepared state after being prepared in another food premise to which this Regulation applies or another premise that is similar to a food premise to which this Regulation applies and that is regulated under the laws of another jurisdiction for purposes similar to this Regulation; and </p> <p class=\"clause-e\">  (d) other foods that are permitted to be sold or offered for sale under subsection (3).  O. Reg. 338/07, s. 3.</p> <p class=\"subsection-e\">  (2) Food preparation for the purposes of clause (1) (c) is limited to preparation, including handling, that is conducted in a safe and sanitary manner that will prevent contamination of the non-hazardous foods, and that complies with all other applicable requirements of this Regulation respecting the safe preparation of foods.  O. Reg. 338/07, s. 3.</p> <p class=\"subsection-e\">  (3) The operator of a street food vending cart may sell or offer to sell foods from the cart that are not listed in clauses (1) (a), (b) and (c) if,</p> <p class=\"clause-e\">  (a) the medical officer of health has received a request from the operator to sell the items;</p> <p class=\"clause-e\">  (b) the medical officer of health is satisfied that, with appropriate safeguards, the sale of the additional foods poses no greater risk to the health of the patrons of the street food vending cart than the sale of the foods listed in clauses (1) (a), (b) and (c); </p> <p class=\"clause-e\">  (c) the medical officer of health has issued a letter of permission to the operator to permit the sale that sets out any requirements regarding the maintenance of the premise, equipment, food handling, cooking, preparation or storage that are necessary to ensure that the safeguards required under clause (b) are in place; and </p> <p class=\"clause-e\">  (d) the operator complies with the requirements set out in the letter of permission, and posts the letter of permission in a prominent place.  O. Reg. 338/07, s. 3.</p> <p class=\"subsection-e\">  (4) Street food vending carts are exempt from the provisions of sections 68 and 69, but where such a premise provides sanitary facilities for its employees the sanitary facilities shall be in compliance with sections 68 and 69.  O. Reg. 338/07, s. 3.</p> <p class=\"subsection-e\">  (5) At every street food vending cart,</p> <p class=\"clause-e\">  (a) only single-service articles shall be used;</p> <p class=\"clause-e\">  (b) during all times when the premise is in operation the food preparation, food holding and food service areas of the street food vending cart shall be completely covered by an overhead canopy of corrosion-resistant, non-absorbent and readily cleanable material to prevent the adulteration of foods;</p> <p class=\"clause-e\">  (c) separate holding tanks shall be provided for toilet and sink wastes; and </p> <p class=\"clause-e\">  (d) every waste tank and water supply tank shall be equipped with an easily readable gauge for determining the waste or water level in the tank.  O. Reg. 338/07, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Vending Machines</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. Every vending machine shall be so constructed that, (a) it is sealed to the floor or is mounted on legs not less than 15 centimetres in height or on casters or rollers that permit ease of movement for cleaning purposes; (b) service connections through the exterior of the machine are sealed and are such as to prevent or discourage unauthorized disconnection; (c) door and panel access openings to product and container storage spaces are tight-fitting to prevent the entrance of any contaminating substance or thing; (d) ventilation louvers and openings are screened against insects by means of screening material of not less than 16 mesh to each 2.54 square centimetres; (e) any condenser unit forming part of the machine is sealed from product and container storage spaces; (f) openings by which food is delivered are protected by means of self-closing and tight-fitting doors or covers; (g) food storage compartments in which spillage may occur are self-draining; (h) openings into all containers used for the storage of food are provided with covers suitable to prevent contamination from reaching the interior of the container; and (i) containers and fittings may be disassembled to permit cleaning and sanitizing or so arranged that cleaning and sanitizing solutions can be circulated throughout the fixed system.  R.R.O. 1990, Reg. 562, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>Every vending machine shall be so constructed that,</p> <p class=\"clause-e\">  (a) it is sealed to the floor or is mounted on legs not less than 15 centimetres in height or on casters or rollers that permit ease of movement for cleaning purposes;</p> <p class=\"clause-e\">  (b) service connections through the exterior of the machine are sealed and are such as to prevent or discourage unauthorized disconnection;</p> <p class=\"clause-e\">  (c) door and panel access openings to product and container storage spaces are tight-fitting to prevent the entrance of any contaminating substance or thing;</p> <p class=\"clause-e\">  (d) ventilation louvers and openings are screened against insects by means of screening material of not less than 16 mesh to each 2.54 square centimetres;</p> <p class=\"clause-e\">  (e) any condenser unit forming part of the machine is sealed from product and container storage spaces;</p> <p class=\"clause-e\">  (f) openings by which food is delivered are protected by means of self-closing and tight-fitting doors or covers;</p> <p class=\"clause-e\">  (g) food storage compartments in which spillage may occur are self-draining;</p> <p class=\"clause-e\">  (h) openings into all containers used for the storage of food are provided with covers suitable to prevent contamination from reaching the interior of the container; and</p> <p class=\"clause-e\">  (i) containers and fittings may be disassembled to permit cleaning and sanitizing or so arranged that cleaning and sanitizing solutions can be circulated throughout the fixed system.  R.R.O. 1990, Reg. 562, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. Every vending machine shall be provided with, (a) a potable water supply piped into the machine under pressure where water is an automatically admixed ingredient; (b) a device that will protect against the entrance of carbon dioxide or carbonated liquid into the water supply system; (c) automatic controls that will prevent the vending of hazardous foods where, (i) the temperature of a refrigerated compartment exceeds 7° Celsius, or (ii) the temperature of a heated compartment falls below 60° Celsius; and (d) an automatic shut-off control that will prevent the overflow of liquid waste where such wastes are collected inside the vending machine.  R.R.O. 1990, Reg. 562, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>Every vending machine shall be provided with,</p> <p class=\"clause-e\">  (a) a potable water supply piped into the machine under pressure where water is an automatically admixed ingredient;</p> <p class=\"clause-e\">  (b) a device that will protect against the entrance of carbon dioxide or carbonated liquid into the water supply system;</p> <p class=\"clause-e\">  (c) automatic controls that will prevent the vending of hazardous foods where,</p> <p class=\"subclause-e\">  (i) the temperature of a refrigerated compartment exceeds 7° Celsius, or</p> <p class=\"subclause-e\">  (ii) the temperature of a heated compartment falls below 60° Celsius; and</p> <p class=\"clause-e\">  (d) an automatic shut-off control that will prevent the overflow of liquid waste where such wastes are collected inside the vending machine.  R.R.O. 1990, Reg. 562, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. The components of a vending machine that come into contact with food shall be cleaned and sanitized in the manner prescribed for utensils under section 71, 72, 73, 74, 75 or 76, as the case may be, and for this purpose mobile or remote cleaning and sanitizing facilities may be used.  R.R.O. 1990, Reg. 562, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>The components of a vending machine that come into contact with food shall be cleaned and sanitized in the manner prescribed for utensils under section 71, 72, 73, 74, 75 or 76, as the case may be, and for this purpose mobile or remote cleaning and sanitizing facilities may be used.  R.R.O. 1990, Reg. 562, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. The name and telephone number of the operator of the vending machine shall be prominently displayed at vending sites where an employee is not in full-time attendance.  R.R.O. 1990, Reg. 562, s. 9. Locker Plants",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>The name and telephone number of the operator of the vending machine shall be prominently displayed at vending sites where an employee is not in full-time attendance.  R.R.O. 1990, Reg. 562, s. 9.</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Locker Plants</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. (1) Every locker plant shall be equipped with, (a) a facility for the freezing of food prior to storage; and (b) a locker room for the storage of frozen foods.  R.R.O. 1990, Reg. 562, s. 10 (1). (2) The following temperatures shall be maintained in each of the following rooms or compartments: 1. Room or compartment used only for freezing, minus 18° Celsius or lower with a tolerance up to minus 12° Celsius during the initial stage of freezing food. 2. Locker room, not above minus 18° Celsius with a tolerance up to minus 15° Celsius during periods of public access.  R.R.O. 1990, Reg. 562, s. 10 (2). (3) The temperatures prescribed in subsection (2) shall not prohibit such variations as are necessary during the time required for defrosting operations.  R.R.O. 1990, Reg. 562, s. 10 (3). (4) Every locker room in a locker plant shall be provided with an accurate self-recording thermometer and temperature records shall, (a) not be used for a period that will exceed one complete rotation of the graph; and (b) be properly dated and signed by the operator and preserved at the plant for a period of at least one year.  R.R.O. 1990, Reg. 562, s. 10 (4). (5) The locker room or freezing facility of a locker plant shall be used only for the processing or storage of food.  R.R.O. 1990, Reg. 562, s. 10 (5). (6) Every locker plant operator shall keep an accurate record of the name and address of each person renting a locker in a locker plant operated by the operator.  R.R.O. 1990, Reg. 562, s. 10 (6). (7) Every locker room in a locker plant shall be equipped with a conveniently located properly functioning noise alarm for operation by patrons from within the locker room.  R.R.O. 1990, Reg. 562, s. 10 (7). (8) The access door of every locker room shall be fitted with a properly functioning safety lock release so that it can be operated from inside the locker room.  R.R.O. 1990, Reg. 562, s. 10 (8). (9) The records referred to in subsections (4) and (6) shall be made available upon request to the medical officer of health or a public health inspector.  R.R.O. 1990, Reg. 562, s. 10 (9). PART III   GENERAL Building Maintenance",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>(1) Every locker plant shall be equipped with,</p> <p class=\"clause-e\">  (a) a facility for the freezing of food prior to storage; and</p> <p class=\"clause-e\">  (b) a locker room for the storage of frozen foods.  R.R.O. 1990, Reg. 562, s. 10 (1).</p> <p class=\"subsection-e\">  (2) The following temperatures shall be maintained in each of the following rooms or compartments:</p> <p class=\"paragraph-e\">  1. Room or compartment used only for freezing, minus 18° Celsius or lower with a tolerance up to minus 12° Celsius during the initial stage of freezing food.</p> <p class=\"paragraph-e\">  2. Locker room, not above minus 18° Celsius with a tolerance up to minus 15° Celsius during periods of public access.  R.R.O. 1990, Reg. 562, s. 10 (2).</p> <p class=\"subsection-e\">  (3) The temperatures prescribed in subsection (2) shall not prohibit such variations as are necessary during the time required for defrosting operations.  R.R.O. 1990, Reg. 562, s. 10 (3).</p> <p class=\"subsection-e\">  (4) Every locker room in a locker plant shall be provided with an accurate self-recording thermometer and temperature records shall,</p> <p class=\"clause-e\">  (a) not be used for a period that will exceed one complete rotation of the graph; and</p> <p class=\"clause-e\">  (b) be properly dated and signed by the operator and preserved at the plant for a period of at least one year.  R.R.O. 1990, Reg. 562, s. 10 (4).</p> <p class=\"subsection-e\">  (5) The locker room or freezing facility of a locker plant shall be used only for the processing or storage of food.  R.R.O. 1990, Reg. 562, s. 10 (5).</p> <p class=\"subsection-e\">  (6) Every locker plant operator shall keep an accurate record of the name and address of each person renting a locker in a locker plant operated by the operator.  R.R.O. 1990, Reg. 562, s. 10 (6).</p> <p class=\"subsection-e\">  (7) Every locker room in a locker plant shall be equipped with a conveniently located properly functioning noise alarm for operation by patrons from within the locker room.  R.R.O. 1990, Reg. 562, s. 10 (7).</p> <p class=\"subsection-e\">  (8) The access door of every locker room shall be fitted with a properly functioning safety lock release so that it can be operated from inside the locker room.  R.R.O. 1990, Reg. 562, s. 10 (8).</p> <p class=\"subsection-e\">  (9) The records referred to in subsections (4) and (6) shall be made available upon request to the medical officer of health or a public health inspector.  R.R.O. 1990, Reg. 562, s. 10 (9).</p> <p class=\"partnum-e\"><a name=\"BK8\"></a>PART III <br/>  GENERAL</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Building Maintenance</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. Every food premise shall be operated and maintained such that, (a) the premises are free from every condition that may, (i) be a health hazard, (ii) adversely affect the sanitary operation of the premises, or (iii) adversely affect the wholesomeness of food therein; (b) no room where food is manufactured, handled, displayed, distributed, sold or offered for sale, prepared, processed, served, transported or stored is used for sleeping purposes; (c) a separate room, compartment, locker or cupboard is provided for keeping wearing apparel of employees; (d) the floor or floor coverings are tight, smooth and non-absorbent in rooms where, (i) food is manufactured, handled, displayed, distributed, sold or offered for sale, prepared, processed, served, transported or stored, (ii) utensils are washed, or (iii) washing fixtures and toilet fixtures are located; and (e) the walls and ceilings of rooms and passageways may be readily cleaned and may be maintained in a sanitary condition. (f), (g)  Revoked:  O. Reg. 586/99, s. 3 (3). R.R.O. 1990, Reg. 562, s. 11; O. Reg. 586/99, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>Every food premise shall be operated and maintained such that,</p> <p class=\"clause-e\">  (a) the premises are free from every condition that may,</p> <p class=\"subclause-e\">  (i) be a health hazard,</p> <p class=\"subclause-e\">  (ii) adversely affect the sanitary operation of the premises, or</p> <p class=\"subclause-e\">  (iii) adversely affect the wholesomeness of food therein;</p> <p class=\"clause-e\">  (b) no room where food is manufactured, handled, displayed, distributed, sold or offered for sale, prepared, processed, served, transported or stored is used for sleeping purposes;</p> <p class=\"clause-e\">  (c) a separate room, compartment, locker or cupboard is provided for keeping wearing apparel of employees;</p> <p class=\"clause-e\">  (d) the floor or floor coverings are tight, smooth and non-absorbent in rooms where,</p> <p class=\"subclause-e\">  (i) food is manufactured, handled, displayed, distributed, sold or offered for sale, prepared, processed, served, transported or stored,</p> <p class=\"subclause-e\">  (ii) utensils are washed, or</p> <p class=\"subclause-e\">  (iii) washing fixtures and toilet fixtures are located; and</p> <p class=\"clause-e\">  (e) the walls and ceilings of rooms and passageways may be readily cleaned and may be maintained in a sanitary condition.</p> <p class=\"clause-e\"> (f), (g)  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 586/99, s. 3 (3).</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 562, s. 11; O. Reg. 586/99, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. Despite clause 11 (d), carpeting may be used in areas where food is served where the carpeting is maintained in a clean and sanitary condition.  R.R.O. 1990, Reg. 562, s. 12. Lighting",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>Despite clause 11 (d), carpeting may be used in areas where food is served where the carpeting is maintained in a clean and sanitary condition.  R.R.O. 1990, Reg. 562, s. 12.</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Lighting</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. The levels of illumination required under Ontario Regulation 332/12 (Building Code) made under the Building Code Act, 1992 shall be maintained during all hours of operation of a food premise. O. Reg. 586/99, s. 4; O. Reg. 339/13, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>The levels of illumination required under Ontario Regulation 332/12 (Building Code) made under the <i>Building Code Act, 1992 </i>shall be maintained during all hours of operation of a food premise. O. Reg. 586/99, s. 4; O. Reg. 339/13, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. Revoked:  O. Reg. 586/99, s. 4. Ventilation",
+            "raw_html": "<p class=\"section-e\"> <b>14.</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 586/99, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Ventilation</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. The ventilation system in every food premise shall be maintained so that the premise does not become a health hazard.  O. Reg. 586/99, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>The ventilation system in every food premise shall be maintained so that the premise does not become a health hazard.  O. Reg. 586/99, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#16., 17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16., 17. Revoked:  O. Reg. 586/99, s. 4. Equipment",
+            "raw_html": "<p class=\"section-e\"> <b>16., 17. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 586/99, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Equipment</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. Any article or piece of equipment that is used for the manufacture, distributing, sale or offering for sale, preparation, processing, handling, transportation, storage or display of food shall be, (a) of sound and tight construction; (b) kept in good repair; and (c) of such form and material that it can be readily cleaned and sanitized.  R.R.O. 1990, Reg. 562, s. 18.",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>Any article or piece of equipment that is used for the manufacture, distributing, sale or offering for sale, preparation, processing, handling, transportation, storage or display of food shall be,</p> <p class=\"clause-e\">  (a) of sound and tight construction;</p> <p class=\"clause-e\">  (b) kept in good repair; and</p> <p class=\"clause-e\">  (c) of such form and material that it can be readily cleaned and sanitized.  R.R.O. 1990, Reg. 562, s. 18.</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. (1) Equipment and utensils with which food comes in direct contact shall be, (a) corrosion-resistant and non-toxic; and (b) free from cracks, crevices and open seams.  R.R.O. 1990, Reg. 562, s. 19 (1). (2) Despite subsection (1), cutting boards, blocks, tables, bowls, platters and churns of hardwood or other materials may be used where, (a) such equipment is maintained in a clean and sanitary condition; and (b) the manner and conditions of their use are not a health hazard.  R.R.O. 1990, Reg. 562, s. 19 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>(1) Equipment and utensils with which food comes in direct contact shall be,</p> <p class=\"clause-e\">  (a) corrosion-resistant and non-toxic; and</p> <p class=\"clause-e\">  (b) free from cracks, crevices and open seams.  R.R.O. 1990, Reg. 562, s. 19 (1).</p> <p class=\"subsection-e\">  (2) Despite subsection (1), cutting boards, blocks, tables, bowls, platters and churns of hardwood or other materials may be used where,</p> <p class=\"clause-e\">  (a) such equipment is maintained in a clean and sanitary condition; and</p> <p class=\"clause-e\">  (b) the manner and conditions of their use are not a health hazard.  R.R.O. 1990, Reg. 562, s. 19 (2).</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. (1) Every food premise shall be provided with, (a) a supply of potable water adequate for the operation of the premises; (b) hot and cold running water under pressure in areas where food is processed, prepared or manufactured or utensils are washed; (c) a separate handwashing basin in a location convenient for employees in each processing, preparation and manufacturing area, together with supplies of hot and cold water, soap or detergent in a dispenser, and, (i) clean single-service towels, or (ii) a continuous cloth roller towel in a mechanical device and a supply of paper towels; (d) refrigerated space adequate for the safe storage of perishable and hazardous food; and (e) containers of durable, leakproof and non-absorbent material with tight-fitting or self-closing lids sufficient for storing all garbage and waste in a sanitary manner.  R.R.O. 1990, Reg. 562, s. 20 (1). (2) The basin referred to in clause (1) (c) shall be used only for the handwashing of employees.  R.R.O. 1990, Reg. 562, s. 20 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>(1) Every food premise shall be provided with,</p> <p class=\"clause-e\">  (a) a supply of potable water adequate for the operation of the premises;</p> <p class=\"clause-e\">  (b) hot and cold running water under pressure in areas where food is processed, prepared or manufactured or utensils are washed;</p> <p class=\"clause-e\">  (c) a separate handwashing basin in a location convenient for employees in each processing, preparation and manufacturing area, together with supplies of hot and cold water, soap or detergent in a dispenser, and,</p> <p class=\"subclause-e\">  (i) clean single-service towels, or</p> <p class=\"subclause-e\">  (ii) a continuous cloth roller towel in a mechanical device and a supply of paper towels;</p> <p class=\"clause-e\">  (d) refrigerated space adequate for the safe storage of perishable and hazardous food; and</p> <p class=\"clause-e\">  (e) containers of durable, leakproof and non-absorbent material with tight-fitting or self-closing lids sufficient for storing all garbage and waste in a sanitary manner.  R.R.O. 1990, Reg. 562, s. 20 (1).</p> <p class=\"subsection-e\">  (2) The basin referred to in clause (1) (c) shall be used only for the handwashing of employees.  R.R.O. 1990, Reg. 562, s. 20 (2).</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. Temperature controlled rooms and compartments used for the storage of hazardous foods shall be provided with accurate indicating thermometers that may be easily read.  R.R.O. 1990, Reg. 562, s. 21.",
+            "raw_html": "<p class=\"section-e\"> <b>21. </b>Temperature controlled rooms and compartments used for the storage of hazardous foods shall be provided with accurate indicating thermometers that may be easily read.  R.R.O. 1990, Reg. 562, s. 21.</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22. Racks, shelves or pallets shall be provided for the storage of food and no rack or shelf shall be placed less than fifteen centimetres above the floor.  R.R.O. 1990, Reg. 562, s. 22.",
+            "raw_html": "<p class=\"section-e\"> <b>22. </b>Racks, shelves or pallets shall be provided for the storage of food and no rack or shelf shall be placed less than fifteen centimetres above the floor.  R.R.O. 1990, Reg. 562, s. 22.</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23. All food shall be stored on the racks, shelves or pallets referred to in section 22.  R.R.O. 1990, Reg. 562, s. 23.",
+            "raw_html": "<p class=\"section-e\"> <b>23. </b>All food shall be stored on the racks, shelves or pallets referred to in section 22.  R.R.O. 1990, Reg. 562, s. 23.</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 24. Tongs, spoons and scoops of corrosion-resistant and non-toxic material shall be used, wherever possible, to avoid direct hand contact with food.  R.R.O. 1990, Reg. 562, s. 24.",
+            "raw_html": "<p class=\"section-e\"> <b>24. </b>Tongs, spoons and scoops of corrosion-resistant and non-toxic material shall be used, wherever possible, to avoid direct hand contact with food.  R.R.O. 1990, Reg. 562, s. 24.</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. Revoked:  O. Reg. 586/99, s. 5. Food Handling",
+            "raw_html": "<p class=\"section-e\"> <b>25. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 586/99, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK13\"></a>Food Handling</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. All food shall be protected from contamination and adulteration.  R.R.O. 1990, Reg. 562, s. 26.",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b>All food shall be protected from contamination and adulteration.  R.R.O. 1990, Reg. 562, s. 26.</p>"
+        },
+        {
+            "ahref_id": "#27.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27. All hazardous food displayed for sale or service shall be protected against contamination by means of enclosed containers, cabinets, shields or shelves.  R.R.O. 1990, Reg. 562, s. 27.",
+            "raw_html": "<p class=\"section-e\"> <b>27. </b>All hazardous food displayed for sale or service shall be protected against contamination by means of enclosed containers, cabinets, shields or shelves.  R.R.O. 1990, Reg. 562, s. 27.</p>"
+        },
+        {
+            "ahref_id": "#28.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 28. Food transported by an operator shall be enclosed in containers or in such other manner as to prevent contamination of the food and to maintain the food at the temperature prescribed in section 32, 33, 34 or 35, as the case may be.  R.R.O. 1990, Reg. 562, s. 28.",
+            "raw_html": "<p class=\"section-e\"> <b>28. </b>Food transported by an operator shall be enclosed in containers or in such other manner as to prevent contamination of the food and to maintain the food at the temperature prescribed in section 32, 33, 34 or 35, as the case may be.  R.R.O. 1990, Reg. 562, s. 28.</p>"
+        },
+        {
+            "ahref_id": "#29.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 29. Food containers that are multi-service articles shall, (a) be constructed of such materials and in such a manner as to be readily cleaned and sanitized; and (b) not be used for any purpose other than the packaging of food.  R.R.O. 1990, Reg. 562, s. 29.",
+            "raw_html": "<p class=\"section-e\"> <b>29. </b>Food containers that are multi-service articles shall,</p> <p class=\"clause-e\">  (a) be constructed of such materials and in such a manner as to be readily cleaned and sanitized; and</p> <p class=\"clause-e\">  (b) not be used for any purpose other than the packaging of food.  R.R.O. 1990, Reg. 562, s. 29.</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. (1) Milk served as a beverage shall be offered for sale or served in or from the original container as filled by the processor.  R.R.O. 1990, Reg. 562, s. 30 (1). (2) Subject to subsection (3), milk, cream and edible oil substitutes that are to be used with beverages and cereals shall be added to the beverages and cereals from the original container as filled by the processor.  R.R.O. 1990, Reg. 562, s. 30 (2). (3) A container other than the original may be used when milk, cream or an edible oil substitute accompanies a beverage or cereal in the service of a seated patron, provided that, (a) the container is filled from the original container immediately prior to serving; (b) portions remaining at the end of each service are discarded; and (c) the container is cleaned and sanitized in accordance with section 73, 74, 75, 76 or 77, as the case may be, after each service.  R.R.O. 1990, Reg. 562, s. 30 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>30. </b>(1) Milk served as a beverage shall be offered for sale or served in or from the original container as filled by the processor.  R.R.O. 1990, Reg. 562, s. 30 (1).</p> <p class=\"subsection-e\">  (2) Subject to subsection (3), milk, cream and edible oil substitutes that are to be used with beverages and cereals shall be added to the beverages and cereals from the original container as filled by the processor.  R.R.O. 1990, Reg. 562, s. 30 (2).</p> <p class=\"subsection-e\">  (3) A container other than the original may be used when milk, cream or an edible oil substitute accompanies a beverage or cereal in the service of a seated patron, provided that,</p> <p class=\"clause-e\">  (a) the container is filled from the original container immediately prior to serving;</p> <p class=\"clause-e\">  (b) portions remaining at the end of each service are discarded; and</p> <p class=\"clause-e\">  (c) the container is cleaned and sanitized in accordance with section 73, 74, 75, 76 or 77, as the case may be, after each service.  R.R.O. 1990, Reg. 562, s. 30 (3).</p>"
+        },
+        {
+            "ahref_id": "#31.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31. (1) Ice used in the preparation and processing of food or drink shall be made from potable water and shall be stored and handled in a sanitary manner.  R.R.O. 1990, Reg. 562, s. 31 (1). (2) Steam that contacts food during processing or preparation shall be from a potable supply and free of toxic substances.  R.R.O. 1990, Reg. 562, s. 31 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>31. </b>(1) Ice used in the preparation and processing of food or drink shall be made from potable water and shall be stored and handled in a sanitary manner.  R.R.O. 1990, Reg. 562, s. 31 (1).</p> <p class=\"subsection-e\">  (2) Steam that contacts food during processing or preparation shall be from a potable supply and free of toxic substances.  R.R.O. 1990, Reg. 562, s. 31 (2).</p>"
+        },
+        {
+            "ahref_id": "#32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32. Hazardous foods in hermetically sealed containers that have not been subjected to a process sufficient to prevent the production of bacterial toxins or the survival of spore-forming pathogenic bacteria shall, (a) have “Keep Refrigerated” prominently marked on the container; and (b) be maintained, transported, displayed, stored or offered for sale at an internal temperature not higher than 4 degrees Celsius.  R.R.O. 1990, Reg. 562, s. 32; O. Reg. 101/06, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>32. </b>Hazardous foods in hermetically sealed containers that have not been subjected to a process sufficient to prevent the production of bacterial toxins or the survival of spore-forming pathogenic bacteria shall,</p> <p class=\"clause-e\">  (a) have “Keep Refrigerated” prominently marked on the container; and</p> <p class=\"clause-e\">  (b) be maintained, transported, displayed, stored or offered for sale at an internal temperature not higher than 4 degrees Celsius.  R.R.O. 1990, Reg. 562, s. 32; O. Reg. 101/06, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. (1) The cooking, reheating, freezing and holding temperatures of food shall be in accordance with the requirements of this section.  O. Reg. 74/04, s. 1. (2) Except as otherwise provided in subsection (3), a hazardous food shall be distributed, maintained, stored, transported, displayed, sold and offered for sale only under conditions in which the internal temperature of the food is, (a) 4 degrees Celsius, or lower; or (b) 60 degrees Celsius, or higher.  O. Reg. 74/04, s. 1. (3) Subsection (2) does not apply, (a) to a hazardous food during those periods of time that are necessary for the preparation, processing and manufacturing of the food; or (b) to a hermetically sealed food that has been subjected to a process sufficient to prevent the production of bacterial toxins or the survival of spore-forming pathogenic bacteria.  O. Reg. 74/04, s. 1. (4) Whole poultry shall be cooked to reach an internal temperature of at least 82 degrees Celsius for at least 15 seconds.  O. Reg. 74/04, s. 1. (5) A food mixture containing poultry, egg, meat, fish or another hazardous food shall be cooked to reach a temperature of at least 74 degrees Celsius for at least 15 seconds in all parts of the mixture.  O. Reg. 74/04, s. 1. (6) The following shall be cooked to reach an internal temperature of at least 74 degrees Celsius for at least 15 seconds: 1. Poultry, other than whole poultry. 2. All parts of ground poultry. 3. All parts of ground meat that contains poultry.  O. Reg. 74/04, s. 1. (7) The following shall be cooked to reach an internal temperature of at least 71 degrees Celsius for at least 15 seconds: 1. Pork. 2. Pork products. 3. All parts of ground meat, other than ground meat that contains poultry.  O. Reg. 74/04, s. 1. (8) Fish shall be cooked to reach an internal temperature of at least 70 degrees Celsius for at least 15 seconds.  O. Reg. 74/04, s. 1. (9) Subsection (8) does not apply to fish that is intended to be consumed raw, including raw-marinated and partially cooked fish.  O. Reg. 173/05, s. 1. (10) Except as otherwise provided in subsection (11), a hazardous food that is cooked, cooled and reheated for hot holding must reach an internal temperature for at least 15 seconds during the reheating process that is at least as high as the minimum internal temperature the food must reach under this section during cooking.  O. Reg. 74/04, s. 1. (11) Whole poultry that is cooked, cooled and reheated for hot holding must reach an internal temperature for at least 15 seconds during the reheating process that is at least 74 degrees Celsius.  O. Reg. 74/04, s. 1. (12) The process of reheating a hazardous food in accordance with subsection (10) or (11) shall not take more than two hours.  O. Reg. 74/04, s. 1. (13) The operator of a food premise is exempt from the requirements of subsection (4), (5), (6), (7), (8), (9), (10) or (11) in respect of a hazardous food if, (a) the medical officer of health is satisfied that cooking or reheating the hazardous food, as the case may be, to a different temperature or for a different length of time, or both, is sufficient to prevent the growth of pathogenic organisms, to prevent the production of toxins from pathogenic organisms and to destroy parasites; and (b) the operator of the food premise ensures that the hazardous food is cooked or reheated, as the case may be, to the temperature and for the length of time required by the medical officer of health.  O. Reg. 74/04, s. 1. (14) An accurate thermometer that can be easily read shall be used to measure the internal temperature of hazardous foods.  O. Reg. 74/04, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>33. </b>(1) The cooking, reheating, freezing and holding temperatures of food shall be in accordance with the requirements of this section.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (2) Except as otherwise provided in subsection (3), a hazardous food shall be distributed, maintained, stored, transported, displayed, sold and offered for sale only under conditions in which the internal temperature of the food is,</p> <p class=\"clause-e\">  (a) 4 degrees Celsius, or lower; or</p> <p class=\"clause-e\">  (b) 60 degrees Celsius, or higher.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (3) Subsection (2) does not apply,</p> <p class=\"clause-e\">  (a) to a hazardous food during those periods of time that are necessary for the preparation, processing and manufacturing of the food; or</p> <p class=\"clause-e\">  (b) to a hermetically sealed food that has been subjected to a process sufficient to prevent the production of bacterial toxins or the survival of spore-forming pathogenic bacteria.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (4) Whole poultry shall be cooked to reach an internal temperature of at least 82 degrees Celsius for at least 15 seconds.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (5) A food mixture containing poultry, egg, meat, fish or another hazardous food shall be cooked to reach a temperature of at least 74 degrees Celsius for at least 15 seconds in all parts of the mixture.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (6) The following shall be cooked to reach an internal temperature of at least 74 degrees Celsius for at least 15 seconds:</p> <p class=\"paragraph-e\">  1. Poultry, other than whole poultry.</p> <p class=\"paragraph-e\">  2. All parts of ground poultry.</p> <p class=\"paragraph-e\">  3. All parts of ground meat that contains poultry.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (7) The following shall be cooked to reach an internal temperature of at least 71 degrees Celsius for at least 15 seconds:</p> <p class=\"paragraph-e\">  1. Pork.</p> <p class=\"paragraph-e\">  2. Pork products.</p> <p class=\"paragraph-e\">  3. All parts of ground meat, other than ground meat that contains poultry.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (8) Fish shall be cooked to reach an internal temperature of at least 70 degrees Celsius for at least 15 seconds.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (9) Subsection (8) does not apply to fish that is intended to be consumed raw, including raw-marinated and partially cooked fish.  O. Reg. 173/05, s. 1.</p> <p class=\"subsection-e\">  (10) Except as otherwise provided in subsection (11), a hazardous food that is cooked, cooled and reheated for hot holding must reach an internal temperature for at least 15 seconds during the reheating process that is at least as high as the minimum internal temperature the food must reach under this section during cooking.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (11) Whole poultry that is cooked, cooled and reheated for hot holding must reach an internal temperature for at least 15 seconds during the reheating process that is at least 74 degrees Celsius.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (12) The process of reheating a hazardous food in accordance with subsection (10) or (11) shall not take more than two hours.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (13) The operator of a food premise is exempt from the requirements of subsection (4), (5), (6), (7), (8), (9), (10) or (11) in respect of a hazardous food if,</p> <p class=\"clause-e\">  (a) the medical officer of health is satisfied that cooking or reheating the hazardous food, as the case may be, to a different temperature or for a different length of time, or both, is sufficient to prevent the growth of pathogenic organisms, to prevent the production of toxins from pathogenic organisms and to destroy parasites; and</p> <p class=\"clause-e\">  (b) the operator of the food premise ensures that the hazardous food is cooked or reheated, as the case may be, to the temperature and for the length of time required by the medical officer of health.  O. Reg. 74/04, s. 1.</p> <p class=\"subsection-e\">  (14) An accurate thermometer that can be easily read shall be used to measure the internal temperature of hazardous foods.  O. Reg. 74/04, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#34.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34. Despite clause 33 (2) (a), eggs may be transported at an internal temperature of 13° Celsius or lower where the eggs are being transported from an egg grading station to, (a) a wholesaler of eggs; (b) a retailer of eggs; or (c) an egg product processing station.  R.R.O. 1990, Reg. 562, s. 34; O. Reg. 74/04, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>34. </b>Despite clause 33 (2) (a), eggs may be transported at an internal temperature of 13° Celsius or lower where the eggs are being transported from an egg grading station to,</p> <p class=\"clause-e\">  (a) a wholesaler of eggs;</p> <p class=\"clause-e\">  (b) a retailer of eggs; or</p> <p class=\"clause-e\">  (c) an egg product processing station.  R.R.O. 1990, Reg. 562, s. 34; O. Reg. 74/04, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#35.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 35. Food that is intended to be transported, displayed, stored, sold or offered for sale in a frozen state shall be frozen to a temperature of minus 18° Celsius or lower and maintained thereafter at a temperature of minus 18° Celsius or lower until sold or prepared for use.  R.R.O. 1990, Reg. 562, s. 35.",
+            "raw_html": "<p class=\"section-e\"> <b>35. </b>Food that is intended to be transported, displayed, stored, sold or offered for sale in a frozen state shall be frozen to a temperature of minus 18° Celsius or lower and maintained thereafter at a temperature of minus 18° Celsius or lower until sold or prepared for use.  R.R.O. 1990, Reg. 562, s. 35.</p>"
+        },
+        {
+            "ahref_id": "#36.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 36. (1) Cans, containers or wrappings of hazardous food shall bear, (a) a permanent code marking of the manufacturer or processor designating the plant where the food was manufactured or processed; and (b) the date on which the food was manufactured or an expiry date.  R.R.O. 1990, Reg. 562, s. 36 (1). (2) Subsection (1) does not apply where hazardous food is packaged and sold at retail on the same food premise.  R.R.O. 1990, Reg. 562, s. 36 (2). Meat and Meat Products",
+            "raw_html": "<p class=\"section-e\"> <b>36. </b>(1) Cans, containers or wrappings of hazardous food shall bear,</p> <p class=\"clause-e\">  (a) a permanent code marking of the manufacturer or processor designating the plant where the food was manufactured or processed; and</p> <p class=\"clause-e\">  (b) the date on which the food was manufactured or an expiry date.  R.R.O. 1990, Reg. 562, s. 36 (1).</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply where hazardous food is packaged and sold at retail on the same food premise.  R.R.O. 1990, Reg. 562, s. 36 (2).</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Meat and Meat Products</p>"
+        },
+        {
+            "ahref_id": "#37.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 37. Manufactured meat products that are customarily eaten without further cooking shall be subjected to a process sufficient to destroy pathogenic bacteria, parasites and the cystic forms of parasites.  R.R.O. 1990, Reg. 562, s. 37.",
+            "raw_html": "<p class=\"section-e\"> <b>37. </b>Manufactured meat products that are customarily eaten without further cooking shall be subjected to a process sufficient to destroy pathogenic bacteria, parasites and the cystic forms of parasites.  R.R.O. 1990, Reg. 562, s. 37.</p>"
+        },
+        {
+            "ahref_id": "#38.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 38. (1) Every operator of a premise in which meat products are manufactured shall maintain records of meats received for processing in the premise and the records shall include the kinds of meats, the names and addresses of suppliers, weights and the dates of receipt.  R.R.O. 1990, Reg. 562, s. 38 (1). (2) A record referred to in subsection (1) shall be maintained at the premise for not less than one year from the date of entry of the record.  R.R.O. 1990, Reg. 562, s. 38 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>38. </b>(1) Every operator of a premise in which meat products are manufactured shall maintain records of meats received for processing in the premise and the records shall include the kinds of meats, the names and addresses of suppliers, weights and the dates of receipt.  R.R.O. 1990, Reg. 562, s. 38 (1).</p> <p class=\"subsection-e\">  (2) A record referred to in subsection (1) shall be maintained at the premise for not less than one year from the date of entry of the record.  R.R.O. 1990, Reg. 562, s. 38 (2).</p>"
+        },
+        {
+            "ahref_id": "#39.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 39. (1) Except as provided in subsections (2) and (3), every manufactured meat product that is transported, handled, distributed, displayed, stored, sold or offered for sale at a food premise shall be identified as to the meat processing plant of origin by a tag, stamp or label affixed to the product.  R.R.O. 1990, Reg. 562, s. 39 (1). (2) A bulk packed manufactured meat product that cannot be individually identified under subsection (1) because of its size, shape or consistency may be removed from its container for the purpose of display or sale where the container bears the plant identification referred to in subsection (1).  R.R.O. 1990, Reg. 562, s. 39 (2). (3) Subsection (1) does not apply to a manufactured meat product stored, sold or offered for sale in a retail outlet at the plant of origin.  R.R.O. 1990, Reg. 562, s. 39 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>39. </b>(1) Except as provided in subsections (2) and (3), every manufactured meat product that is transported, handled, distributed, displayed, stored, sold or offered for sale at a food premise shall be identified as to the meat processing plant of origin by a tag, stamp or label affixed to the product.  R.R.O. 1990, Reg. 562, s. 39 (1).</p> <p class=\"subsection-e\">  (2) A bulk packed manufactured meat product that cannot be individually identified under subsection (1) because of its size, shape or consistency may be removed from its container for the purpose of display or sale where the container bears the plant identification referred to in subsection (1).  R.R.O. 1990, Reg. 562, s. 39 (2).</p> <p class=\"subsection-e\">  (3) Subsection (1) does not apply to a manufactured meat product stored, sold or offered for sale in a retail outlet at the plant of origin.  R.R.O. 1990, Reg. 562, s. 39 (3).</p>"
+        },
+        {
+            "ahref_id": "#39.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 39.1 In sections 40 and 41, “uninspected meat” means meat obtained from an animal that has not been inspected in accordance with Ontario Regulation 31/05 (Meat) made under the Food Safety and Quality Act, 2001 or the Meat Inspection Act\n(Canada).  O. Reg. 99/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>39.1 </b>In sections 40 and 41,</p> <p class=\"firstdef-e\">“uninspected meat” means meat obtained from an animal that has not been inspected in accordance with Ontario Regulation 31/05 (Meat) made under the <i>Food Safety and Quality Act, 2001</i> or the <i>Meat Inspection Act</i><i>\n</i>(Canada).  O. Reg. 99/08, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#40.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 40. (1) The only meat permitted at a food premise is meat that has been obtained from an animal inspected in accordance with either Ontario Regulation 31/05 (Meat) made under the Food Safety and Quality Act, 2001 or the Meat Inspection Act (Canada) and that has been stamped and labelled or otherwise identified in accordance with that regulation or that Act.  O. Reg. 101/06, s. 2 (1). (2) Despite subsection (1), a food premise where meat is sold, other than a food service premise, may have uninspected meat obtained through hunting that is at the food premise for the purposes of custom-cutting, wrapping and freezing it for its owner if, (a) the uninspected meat is custom-cut, wrapped, frozen and stored in such a manner that it does not come into contact with inspected meat; (b) each quarter or larger section of the carcass bears a tag showing the name and address of the owner of the uninspected meat; and (c) each quarter or larger section of the carcass is legibly stamped “Consumer Owned, Not for Sale” on each of the primal cut areas, using ink made from non-toxic edible ingredients and in letters at least 1.25 centimetres in height.  O. Reg. 74/04, s. 3. (2.1) Despite subsection (1), a food premise that falls within the definition of “meat plant” in Ontario Regulation 31/05 (Meat) made under the Food Safety and Quality Act, 2001 may have uninspected meat at the food premise if, (a) an approval has been issued under Part VIII.2 of that regulation for the uninspected meat to enter a meat plant as defined in that regulation; (b) a director has approved the food premise under Part VIII.3 of that regulation for the purposes of receiving the meat for the period of time that the meat is present on the premise; and (c) the uninspected meat is kept out of any part of the food premise where food is sold, served or offered for sale. O. Reg. 99/08, s. 2; O. Reg. 287/13, s. 1. (2.2) Despite subsection (1), a food premise that falls within the definition of “meat plant” in Ontario Regulation 31/05 (Meat) made under the Food Safety and Quality Act, 2001 may have uninspected meat that is a hunted game carcass as defined in that regulation on the premise for the purposes of dressing, cutting, wrapping or freezing the carcass or processing hunted game products as defined in that regulation from it for the owner of the carcass if, (a) the premise has been approved under Part VIII.4 of that regulation for the purposes of receiving and processing hunted game carcasses; and (b) the uninspected meat is kept out of any part of the food premise where food is sold, served or offered for sale.  O. Reg. 99/08, s. 2. (3) Despite subsection (1), a food premise located at the Sioux Lookout Meno-Ya-Win Health Centre may have on the premises uninspected meat from wild moose, wild duck, wild goose, wild caribou, wild muskrat, wild rabbit, wild deer, wild beaver, wild elk and wild muskox if the animal or bird was killed in the course of hunting and if the following conditions are met: 1. The uninspected meat is handled, prepared, processed and stored for the sole purpose of serving it to patients, visitors and staff at the Health Centre. 2. The uninspected meat is handled, prepared, processed and stored so that it does not come into contact with other food before the other food is served. 3. Patients, visitors and staff at the Health Centre are informed in writing each time before they are served uninspected meat that the meat has not been inspected in accordance with either Ontario Regulation 31/05 (Meat) made under the Food Safety and Quality Act, 2001 or the Meat Inspection Act\n(Canada) and that meat that has been inspected is available for consumption. 4. Patients, visitors and staff at the Health Centre are informed in writing that meat that has been inspected in accordance with either Ontario Regulation 31/05 (Meat) made under the Food Safety and Quality Act, 2001 or the Meat Inspection Act (Canada) is always available to be served on the premises.  O. Reg. 502/01, s. 1; O. Reg. 101/06, s. 2 (2). (4) Despite subsection (1), a food premise may have on the premises uninspected meat obtained through hunting that is handled, prepared and stored for the sole purpose of serving it at a wild game dinner or a wild game event, if the following conditions are met: 1. The uninspected meat is handled, prepared and stored so that it does not come into contact with other food before the other food is served. 2. Patrons and staff are notified in writing each time before they are served uninspected meat that the meat has not been inspected in accordance with either Ontario Regulation 31/05 (Meat) made under the Food Safety and Quality Act, 2001 or the Meat Inspection Act (Canada).  The notice shall be clearly printed on each ticket issued to a patron of a wild game dinner or wild game event and also be posted in a conspicuous place at the entrance to the venue at which the wild game dinner or wild game event is held. 3. The operator must keep a list of all patrons that attend the wild game dinner or wild game event and must provide a copy of the list to a public health inspector upon request.  The list must contain each patron’s name, address and telephone number in full. 4. The operator must keep a list of all persons who donate uninspected meat for a wild game dinner or wild game event and must provide a copy of the list to a public health inspector upon request. The list must contain, i. each donor’s name, address and telephone number in full, and ii. with respect to each donor, the name of the species from which the donated meat was obtained.  O. Reg. 101/06, s. 2 (3); O. Reg. 175/13, s. 1 (1, 2). (5) In subsection (4), “wild game dinner” means a dinner provided under the authority of an authorization granted under clause 52 (3) (a) of the Fish and Wildlife Conservation Act, 1997; “wild game event” means an event at which game wildlife may be served in accordance with section 135.1 of Ontario Regulation 665/98 (Hunting) made under the Fish and Wildlife Conservation Act, 1997.  O. Reg. 175/13, s. 1 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>40. </b>(1) The only meat permitted at a food premise is meat that has been obtained from an animal inspected in accordance with either Ontario Regulation 31/05 (Meat) made under the <i>Food Safety and Quality Act, 2001</i> or the <i>Meat Inspection Act</i><i> </i>(Canada) and that has been stamped and labelled or otherwise identified in accordance with that regulation or that Act.  O. Reg. 101/06, s. 2 (1).</p> <p class=\"subsection-e\">  (2) Despite subsection (1), a food premise where meat is sold, other than a food service premise, may have uninspected meat obtained through hunting that is at the food premise for the purposes of custom-cutting, wrapping and freezing it for its owner if,</p> <p class=\"clause-e\">  (a) the uninspected meat is custom-cut, wrapped, frozen and stored in such a manner that it does not come into contact with inspected meat;</p> <p class=\"clause-e\">  (b) each quarter or larger section of the carcass bears a tag showing the name and address of the owner of the uninspected meat; and</p> <p class=\"clause-e\">  (c) each quarter or larger section of the carcass is legibly stamped “Consumer Owned, Not for Sale” on each of the primal cut areas, using ink made from non-toxic edible ingredients and in letters at least 1.25 centimetres in height.  O. Reg. 74/04, s. 3.</p> <p class=\"subsection-e\">  (2.1) Despite subsection (1), a food premise that falls within the definition of “meat plant” in Ontario Regulation 31/05 (Meat) made under the <i>Food Safety and Quality Act, 2001</i> may have uninspected meat at the food premise if,</p> <p class=\"clause-e\">  (a) an approval has been issued under Part VIII.2 of that regulation for the uninspected meat to enter a meat plant as defined in that regulation;</p> <p class=\"clause-e\">  (b) a director has approved the food premise under Part VIII.3 of that regulation for the purposes of receiving the meat for the period of time that the meat is present on the premise; and</p> <p class=\"clause-e\">  (c) the uninspected meat is kept out of any part of the food premise where food is sold, served or offered for sale. O. Reg. 99/08, s. 2; O. Reg. 287/13, s. 1.</p> <p class=\"subsection-e\">  (2.2) Despite subsection (1), a food premise that falls within the definition of “meat plant” in Ontario Regulation 31/05 (Meat) made under the <i>Food Safety and Quality Act, 2001</i> may have uninspected meat that is a hunted game carcass as defined in that regulation on the premise for the purposes of dressing, cutting, wrapping or freezing the carcass or processing hunted game products as defined in that regulation from it for the owner of the carcass if,</p> <p class=\"clause-e\">  (a) the premise has been approved under Part VIII.4 of that regulation for the purposes of receiving and processing hunted game carcasses; and</p> <p class=\"clause-e\">  (b) the uninspected meat is kept out of any part of the food premise where food is sold, served or offered for sale.  O. Reg. 99/08, s. 2.</p> <p class=\"subsection-e\">  (3) Despite subsection (1), a food premise located at the Sioux Lookout Meno-Ya-Win Health Centre may have on the premises uninspected meat from wild moose, wild duck, wild goose, wild caribou, wild muskrat, wild rabbit, wild deer, wild beaver, wild elk and wild muskox if the animal or bird was killed in the course of hunting and if the following conditions are met:</p> <p class=\"paragraph-e\">  1. The uninspected meat is handled, prepared, processed and stored for the sole purpose of serving it to patients, visitors and staff at the Health Centre.</p> <p class=\"paragraph-e\">  2. The uninspected meat is handled, prepared, processed and stored so that it does not come into contact with other food before the other food is served.</p> <p class=\"paragraph-e\">  3. Patients, visitors and staff at the Health Centre are informed in writing each time before they are served uninspected meat that the meat has not been inspected in accordance with either Ontario Regulation 31/05 (Meat) made under the <i>Food Safety and Quality Act, 2001 </i>or the <i>Meat Inspection Act</i><i>\n</i>(Canada) and that meat that has been inspected is available for consumption.</p> <p class=\"paragraph-e\">  4. Patients, visitors and staff at the Health Centre are informed in writing that meat that has been inspected in accordance with either Ontario Regulation 31/05 (Meat) made under the <i>Food Safety and Quality Act, 2001 </i>or the <i>Meat Inspection Act</i><i> </i>(Canada) is always available to be served on the premises.  O. Reg. 502/01, s. 1; O. Reg. 101/06, s. 2 (2).</p> <p class=\"subsection-e\">  (4) Despite subsection (1), a food premise may have on the premises uninspected meat obtained through hunting that is handled, prepared and stored for the sole purpose of serving it at a wild game dinner or a wild game event<i>,</i> if the following conditions are met: </p> <p class=\"paragraph-e\">  1. The uninspected meat is handled, prepared and stored so that it does not come into contact with other food before the other food is served.</p> <p class=\"paragraph-e\">  2. Patrons and staff are notified in writing each time before they are served uninspected meat that the meat has not been inspected in accordance with either Ontario Regulation 31/05 (Meat) made under the <i>Food Safety and Quality Act, 2001 </i>or the <i>Meat Inspection Act</i><i> </i>(Canada).  The notice shall be clearly printed on each ticket issued to a patron of a wild game dinner or wild game event and also be posted in a conspicuous place at the entrance to the venue at which the wild game dinner or wild game event is held.\r\n</p> <p class=\"paragraph-e\">  3. The operator must keep a list of all patrons that attend the wild game dinner or wild game event and must provide a copy of the list to a public health inspector upon request.  The list must contain each patron’s name, address and telephone number in full.</p> <p class=\"paragraph-e\">  4. The operator must keep a list of all persons who donate uninspected meat for a wild game dinner or wild game event and must provide a copy of the list to a public health inspector upon request. The list must contain,</p> <p class=\"subpara-e\">  i. each donor’s name, address and telephone number in full, and</p> <p class=\"subpara-e\">  ii. with respect to each donor, the name of the species from which the donated meat was obtained.  O. Reg. 101/06, s. 2 (3); O. Reg. 175/13, s. 1 (1, 2).</p> <p class=\"subsection-e\">  (5) In subsection (4),</p> <p class=\"firstdef-e\">“wild game dinner” means a dinner provided under the authority of an authorization granted under clause 52 (3) (a) of the <i>Fish and Wildlife Conservation Act, 1997</i>;</p> <p class=\"definition-e\">“wild game event” means an event at which game wildlife may be served in accordance with section 135.1 of Ontario Regulation 665/98 (Hunting) made under the <i>Fish and Wildlife Conservation Act, 1997</i>.  O. Reg. 175/13, s. 1 (3).</p>"
+        },
+        {
+            "ahref_id": "#41.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 41. In a food premise, utensils, equipment and food contact surfaces used in connection with uninspected meat shall be washed and sanitized in accordance with sections 73, 74, 75, 76, 77 and 81, whichever apply in the circumstances, before being used in connection with any other food, including inspected meat.  O. Reg. 502/01, s. 1. Milk and Milk Products",
+            "raw_html": "<p class=\"section-e\"> <b>41.</b><b> </b>In a food premise, utensils, equipment and food contact surfaces used in connection with uninspected meat shall be washed and sanitized in accordance with sections 73, 74, 75, 76, 77 and 81, whichever apply in the circumstances, before being used in connection with any other food, including inspected meat.  O. Reg. 502/01, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Milk and Milk Products</p>"
+        },
+        {
+            "ahref_id": "#42.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 42. (1) Milk products shall be pasteurized or made from milk that has been pasteurized by heating the milk product to a temperature of at least, (a) 63° Celsius and holding it at that temperature for not less than thirty minutes; (b) 72° Celsius and holding it at that temperature for not less than sixteen seconds; or (c) such temperature other than a temperature referred to in clause (a) or (b) for such period of time that will result in the equivalent destruction of pathogenic organisms and phosphatase.  R.R.O. 1990, Reg. 562, s. 42 (1). (2) A milk product shall be sterilized by heating the milk product to a temperature of 135° Celsius and holding it at that temperature for not less than two seconds, or to such other temperature for such period of time that will result in sterilization.  R.R.O. 1990, Reg. 562, s. 42 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>42. </b>(1) Milk products shall be pasteurized or made from milk that has been pasteurized by heating the milk product to a temperature of at least,</p> <p class=\"clause-e\">  (a) 63° Celsius and holding it at that temperature for not less than thirty minutes;</p> <p class=\"clause-e\">  (b) 72° Celsius and holding it at that temperature for not less than sixteen seconds; or</p> <p class=\"clause-e\">  (c) such temperature other than a temperature referred to in clause (a) or (b) for such period of time that will result in the equivalent destruction of pathogenic organisms and phosphatase.  R.R.O. 1990, Reg. 562, s. 42 (1).</p> <p class=\"subsection-e\">  (2) A milk product shall be sterilized by heating the milk product to a temperature of 135° Celsius and holding it at that temperature for not less than two seconds, or to such other temperature for such period of time that will result in sterilization.  R.R.O. 1990, Reg. 562, s. 42 (2).</p>"
+        },
+        {
+            "ahref_id": "#43.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 43. (1) Milk products other than butter and goat milk shall be deemed to have been pasteurized if the product is negative when tested for the presence of alkaline phosphatase as determined by the official method.  R.R.O. 1990, Reg. 562, s. 43 (1). (2) A milk product shall be deemed to have been sterilized if a sample of the product is free of living organisms as determined by an official method.  R.R.O. 1990, Reg. 562, s. 43 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>43. </b>(1) Milk products other than butter and goat milk shall be deemed to have been pasteurized if the product is negative when tested for the presence of alkaline phosphatase as determined by the official method.  R.R.O. 1990, Reg. 562, s. 43 (1).</p> <p class=\"subsection-e\">  (2) A milk product shall be deemed to have been sterilized if a sample of the product is free of living organisms as determined by an official method.  R.R.O. 1990, Reg. 562, s. 43 (2).</p>"
+        },
+        {
+            "ahref_id": "#44.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 44. Despite subsection 43 (1), (a) butter shall be deemed to have been made from pasteurized milk or cream if it is negative when tested for the presence of peroxidase as determined by an official method; and (b) goat milk shall be deemed to have been pasteurized if the recording thermometer chart indicates the milk was heated as required in section 42.  R.R.O. 1990, Reg. 562, s. 44.",
+            "raw_html": "<p class=\"section-e\"> <b>44. </b>Despite subsection 43 (1),</p> <p class=\"clause-e\">  (a) butter shall be deemed to have been made from pasteurized milk or cream if it is negative when tested for the presence of peroxidase as determined by an official method; and</p> <p class=\"clause-e\">  (b) goat milk shall be deemed to have been pasteurized if the recording thermometer chart indicates the milk was heated as required in section 42.  R.R.O. 1990, Reg. 562, s. 44.</p>"
+        },
+        {
+            "ahref_id": "#45.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 45. Subsection 18 (2) of the Act does not apply to cheese made from unpasteurized milk if the cheese has been stored at a temperature not lower than 2° Celsius for a period of not less than sixty days following the time of manufacture.  R.R.O. 1990, Reg. 562, s. 45.",
+            "raw_html": "<p class=\"section-e\"> <b>45. </b>Subsection 18 (2) of the Act does not apply to cheese made from unpasteurized milk if the cheese has been stored at a temperature not lower than 2° Celsius for a period of not less than sixty days following the time of manufacture.  R.R.O. 1990, Reg. 562, s. 45.</p>"
+        },
+        {
+            "ahref_id": "#46.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 46. (1) Milk products shall be cooled immediately after pasteurization to a temperature of at least 5° Celsius or less.  R.R.O. 1990, Reg. 562, s. 46 (1). (2) Subsection (1) does not apply to a milk product that, (a) is to be further processed prior to packaging, then cooled to 5° Celsius, or less; (b) has been sterilized and is to be or is aseptically packaged; or (c) is processed by drying.  R.R.O. 1990, Reg. 562, s. 46 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>46. </b>(1) Milk products shall be cooled immediately after pasteurization to a temperature of at least 5° Celsius or less.  R.R.O. 1990, Reg. 562, s. 46 (1).</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply to a milk product that,</p> <p class=\"clause-e\">  (a) is to be further processed prior to packaging, then cooled to 5° Celsius, or less;</p> <p class=\"clause-e\">  (b) has been sterilized and is to be or is aseptically packaged; or</p> <p class=\"clause-e\">  (c) is processed by drying.  R.R.O. 1990, Reg. 562, s. 46 (2).</p>"
+        },
+        {
+            "ahref_id": "#47.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 47. (1) Every pasteurizer used for milk products shall be equipped with indicating and recording thermometers that are accurate and may be easily read.  R.R.O. 1990, Reg. 562, s. 47 (1). (2) Every high temperature short time pasteurizer used for milk products shall be equipped with a properly functioning flow diversion valve.  R.R.O. 1990, Reg. 562, s. 47 (2). (3) Recording thermometers shall be moisture proof and easily read.  R.R.O. 1990, Reg. 562, s. 47 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>47. </b>(1) Every pasteurizer used for milk products shall be equipped with indicating and recording thermometers that are accurate and may be easily read.  R.R.O. 1990, Reg. 562, s. 47 (1).</p> <p class=\"subsection-e\">  (2) Every high temperature short time pasteurizer used for milk products shall be equipped with a properly functioning flow diversion valve.  R.R.O. 1990, Reg. 562, s. 47 (2).</p> <p class=\"subsection-e\">  (3) Recording thermometers shall be moisture proof and easily read.  R.R.O. 1990, Reg. 562, s. 47 (3).</p>"
+        },
+        {
+            "ahref_id": "#48.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 48. The temperature of a milk product in a pasteurizer at any time shall be taken as the temperature shown on the indicating thermometer and not the temperature shown by the recording thermometer.  R.R.O. 1990, Reg. 562, s. 48.",
+            "raw_html": "<p class=\"section-e\"> <b>48. </b>The temperature of a milk product in a pasteurizer at any time shall be taken as the temperature shown on the indicating thermometer and not the temperature shown by the recording thermometer.  R.R.O. 1990, Reg. 562, s. 48.</p>"
+        },
+        {
+            "ahref_id": "#49.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 49. The temperature shown by the recording thermometer shall be checked daily by the operator against the temperature shown by the indicating thermometer and shall be adjusted to read no higher than the temperature shown by the indicating thermometer.  R.R.O. 1990, Reg. 562, s. 49.",
+            "raw_html": "<p class=\"section-e\"> <b>49. </b>The temperature shown by the recording thermometer shall be checked daily by the operator against the temperature shown by the indicating thermometer and shall be adjusted to read no higher than the temperature shown by the indicating thermometer.  R.R.O. 1990, Reg. 562, s. 49.</p>"
+        },
+        {
+            "ahref_id": "#50.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 50. (1) A recording thermometer chart shall not be used for a period that will exceed one complete rotation of the graph.  R.R.O. 1990, Reg. 562, s. 50 (1). (2) A recording thermometer chart shall have the following information noted thereon: 1. The date of operation. 2. The number of the pasteurizer, if more than one is in use, to which the recorder was attached. 3. The temperature of the indicating thermometer at some time corresponding with a marked point in the holding period. 4. The name of product being pasteurized. 5. The signature of the operator.  R.R.O. 1990, Reg. 562, s. 50 (2). (3) Where more than one recording thermometer is in use, each chart shall be numbered in such a manner as to indicate the recording thermometer that was used for the chart.  R.R.O. 1990, Reg. 562, s. 50 (3). (4) A recording thermometer chart shall be kept by an operator for at least three months after it is used.  R.R.O. 1990, Reg. 562, s. 50 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>50. </b>(1) A recording thermometer chart shall not be used for a period that will exceed one complete rotation of the graph.  R.R.O. 1990, Reg. 562, s. 50 (1).</p> <p class=\"subsection-e\">  (2) A recording thermometer chart shall have the following information noted thereon:</p> <p class=\"paragraph-e\">  1. The date of operation.</p> <p class=\"paragraph-e\">  2. The number of the pasteurizer, if more than one is in use, to which the recorder was attached.</p> <p class=\"paragraph-e\">  3. The temperature of the indicating thermometer at some time corresponding with a marked point in the holding period.</p> <p class=\"paragraph-e\">  4. The name of product being pasteurized.</p> <p class=\"paragraph-e\">  5. The signature of the operator.  R.R.O. 1990, Reg. 562, s. 50 (2).</p> <p class=\"subsection-e\">  (3) Where more than one recording thermometer is in use, each chart shall be numbered in such a manner as to indicate the recording thermometer that was used for the chart.  R.R.O. 1990, Reg. 562, s. 50 (3).</p> <p class=\"subsection-e\">  (4) A recording thermometer chart shall be kept by an operator for at least three months after it is used.  R.R.O. 1990, Reg. 562, s. 50 (4).</p>"
+        },
+        {
+            "ahref_id": "#51.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 51. Sterilized fluid milk products shall be sold in or from containers that bear the words “STERILIZED” or “STERILE” and “REFRIGERATE AFTER OPENING”.  R.R.O. 1990, Reg. 562, s. 51.",
+            "raw_html": "<p class=\"section-e\"> <b>51. </b>Sterilized fluid milk products shall be sold in or from containers that bear the words “STERILIZED” or “STERILE” and “REFRIGERATE AFTER OPENING”.  R.R.O. 1990, Reg. 562, s. 51.</p>"
+        },
+        {
+            "ahref_id": "#52.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 52. (1) A food premise that repackages milk products not produced in that food premise, shall identify the original processor, packing date and batch number on the containers of repackaged milk products.  R.R.O. 1990, Reg. 562, s. 52 (1). (2) Despite subsection (1), the operator of the food premise may show on the containers of repackaged milk products, (a) the operator’s name and address or code marking; and (b) the operator’s “Best Before” or repackaging date, provided that records are maintained by the operator that identify the original processor, packing date and batch number of the milk products.  R.R.O. 1990, Reg. 562, s. 52 (2). (3) Subsections (1) and (2) do not authorize the repackaging of fluid milk products.  R.R.O. 1990, Reg. 562, s. 52 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>52. </b>(1) A food premise that repackages milk products not produced in that food premise, shall identify the original processor, packing date and batch number on the containers of repackaged milk products.  R.R.O. 1990, Reg. 562, s. 52 (1).</p> <p class=\"subsection-e\">  (2) Despite subsection (1), the operator of the food premise may show on the containers of repackaged milk products,</p> <p class=\"clause-e\">  (a) the operator’s name and address or code marking; and</p> <p class=\"clause-e\">  (b) the operator’s “Best Before” or repackaging date,</p> <p class=\"Ssubsection-e\">provided that records are maintained by the operator that identify the original processor, packing date and batch number of the milk products.  R.R.O. 1990, Reg. 562, s. 52 (2).</p> <p class=\"subsection-e\">  (3) Subsections (1) and (2) do not authorize the repackaging of fluid milk products.  R.R.O. 1990, Reg. 562, s. 52 (3).</p>"
+        },
+        {
+            "ahref_id": "#53.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 53. Despite section 23, cases of fluid milk products may be stored directly on the floor of refrigerated rooms provided that such cases are designed for re-use and do not permit direct contact between the floor and the fluid milk container.  R.R.O. 1990, Reg. 562, s. 53. Eggs",
+            "raw_html": "<p class=\"section-e\"> <b>53. </b>Despite section 23, cases of fluid milk products may be stored directly on the floor of refrigerated rooms provided that such cases are designed for re-use and do not permit direct contact between the floor and the fluid milk container.  R.R.O. 1990, Reg. 562, s. 53.</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Eggs</p>"
+        },
+        {
+            "ahref_id": "#54.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 54. (1) No operator of a food premise shall store, handle, serve, process, prepare, display, distribute, transport, offer for sale or sell ungraded or Grade “C” eggs.  R.R.O. 1990, Reg. 562, s. 54 (1). (2) Despite subsection (1), the operator of an egg grading station may store and handle ungraded eggs for the purpose of grading and may sell and transport Grade “C” eggs to an egg processing station.  O. Reg. 518/93, s. 1. (3) Revoked:  O. Reg. 518/93, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>54. </b>(1) No operator of a food premise shall store, handle, serve, process, prepare, display, distribute, transport, offer for sale or sell ungraded or Grade “C” eggs.  R.R.O. 1990, Reg. 562, s. 54 (1).</p> <p class=\"subsection-e\">  (2) Despite subsection (1), the operator of an egg grading station may store and handle ungraded eggs for the purpose of grading and may sell and transport Grade “C” eggs to an egg processing station.  O. Reg. 518/93, s. 1.</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 518/93, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#55.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 55. Revoked:  O. Reg. 518/93, s. 2. Maintenance",
+            "raw_html": "<p class=\"section-e\"> <b>55. </b><span class=\"ovsmallcap\">Revoked</span><span>:</span>  O. Reg. 518/93, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>Maintenance</p>"
+        },
+        {
+            "ahref_id": "#56.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 56. Furniture, equipment and appliances in any room or place where food is manufactured, stored, handled, displayed, distributed, sold or offered for sale, prepared, processed or served shall be so constructed and arranged as to permit thorough cleaning and the maintaining of the room or place in a clean and sanitary condition.  R.R.O. 1990, Reg. 562, s. 56.",
+            "raw_html": "<p class=\"section-e\"> <b>56. </b>Furniture, equipment and appliances in any room or place where food is manufactured, stored, handled, displayed, distributed, sold or offered for sale, prepared, processed or served shall be so constructed and arranged as to permit thorough cleaning and the maintaining of the room or place in a clean and sanitary condition.  R.R.O. 1990, Reg. 562, s. 56.</p>"
+        },
+        {
+            "ahref_id": "#57.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 57. (1) Garbage and wastes shall be removed from a food premise at least twice weekly or as often as is necessary to maintain the premise in a sanitary condition.  R.R.O. 1990, Reg. 562, s. 57 (1). (2) Garbage receptacles in a room or place where food is manufactured, prepared, handled, processed, displayed, sold or offered for sale, served or stored shall be, (a) cleaned and sanitized after each use; (b) removed from the room when full; and (c) except where a daily collection service is provided, placed in a separate room or place, compartment or bin so constructed and maintained as to exclude insects and vermin and prevent odours and health hazards on the premises.  R.R.O. 1990, Reg. 562, s. 57 (2). (3) All liquid waste from the operation of a food premise shall be disposed of in a sanitary manner.  R.R.O. 1990, Reg. 562, s. 57 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>57. </b>(1) Garbage and wastes shall be removed from a food premise at least twice weekly or as often as is necessary to maintain the premise in a sanitary condition.  R.R.O. 1990, Reg. 562, s. 57 (1).</p> <p class=\"subsection-e\">  (2) Garbage receptacles in a room or place where food is manufactured, prepared, handled, processed, displayed, sold or offered for sale, served or stored shall be,</p> <p class=\"clause-e\">  (a) cleaned and sanitized after each use;</p> <p class=\"clause-e\">  (b) removed from the room when full; and</p> <p class=\"clause-e\">  (c) except where a daily collection service is provided, placed in a separate room or place, compartment or bin so constructed and maintained as to exclude insects and vermin and prevent odours and health hazards on the premises.  R.R.O. 1990, Reg. 562, s. 57 (2).</p> <p class=\"subsection-e\">  (3) All liquid waste from the operation of a food premise shall be disposed of in a sanitary manner.  R.R.O. 1990, Reg. 562, s. 57 (3).</p>"
+        },
+        {
+            "ahref_id": "#58.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 58. Cooking equipment shall be, (a) provided with a shield, canopy or other device of corrosion-resistant, non-absorbent and readily cleanable material; or (b) placed so as to protect walls, ceilings and equipment from grease and food particles.  R.R.O. 1990, Reg. 562, s. 58.",
+            "raw_html": "<p class=\"section-e\"> <b>58. </b>Cooking equipment shall be,</p> <p class=\"clause-e\">  (a) provided with a shield, canopy or other device of corrosion-resistant, non-absorbent and readily cleanable material; or</p> <p class=\"clause-e\">  (b) placed so as to protect walls, ceilings and equipment from grease and food particles.  R.R.O. 1990, Reg. 562, s. 58.</p>"
+        },
+        {
+            "ahref_id": "#59.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 59. Every operator of a food premise shall ensure that in respect of the food premise, (a) the food premise is swept and cleaned in such a manner as to prevent contamination of food; (b) no cup, glass, dish or utensil that is chipped or cracked is used in the preparation, service or storage of food; (c) containers, caps, covers and wrapping materials used in the packaging of food shall be made from materials that, (i) are non-toxic, and (ii) will prevent contamination or adulteration of the food or milk; (d) single-service containers and single-service articles are kept in such a manner and place as to prevent contamination of the containers or articles; (e) every room where food is manufactured, prepared, processed, handled, served, displayed, stored, sold or offered for sale is kept free from, (i) materials and equipment not regularly used in the room, and (ii) subject to section 60, live birds and animals; (f) dispensing scoops and dippers for ice cream, frozen confections or desserts are kept in a dipper-well with running water between servings, or in any other manner that will prevent bacterial growth; (g) the surface of equipment and facilities other than utensils that come in contact with food are washed and sanitized as often as is necessary to maintain such surfaces in a sanitary condition; and (h) the floors, walls and ceilings of every room where food is manufactured, handled, displayed, prepared, processed, served or stored, sold or offered for sale are kept clean and in good repair.  R.R.O. 1990, Reg. 562, s. 59.",
+            "raw_html": "<p class=\"section-e\"> <b>59. </b>Every operator of a food premise shall ensure that in respect of the food premise,</p> <p class=\"clause-e\">  (a) the food premise is swept and cleaned in such a manner as to prevent contamination of food;</p> <p class=\"clause-e\">  (b) no cup, glass, dish or utensil that is chipped or cracked is used in the preparation, service or storage of food;</p> <p class=\"clause-e\">  (c) containers, caps, covers and wrapping materials used in the packaging of food shall be made from materials that,</p> <p class=\"subclause-e\">  (i) are non-toxic, and</p> <p class=\"subclause-e\">  (ii) will prevent contamination or adulteration of the food or milk;</p> <p class=\"clause-e\">  (d) single-service containers and single-service articles are kept in such a manner and place as to prevent contamination of the containers or articles;</p> <p class=\"clause-e\">  (e) every room where food is manufactured, prepared, processed, handled, served, displayed, stored, sold or offered for sale is kept free from,</p> <p class=\"subclause-e\">  (i) materials and equipment not regularly used in the room, and</p> <p class=\"subclause-e\">  (ii) subject to section 60, live birds and animals;</p> <p class=\"clause-e\">  (f) dispensing scoops and dippers for ice cream, frozen confections or desserts are kept in a dipper-well with running water between servings, or in any other manner that will prevent bacterial growth;</p> <p class=\"clause-e\">  (g) the surface of equipment and facilities other than utensils that come in contact with food are washed and sanitized as often as is necessary to maintain such surfaces in a sanitary condition; and</p> <p class=\"clause-e\">  (h) the floors, walls and ceilings of every room where food is manufactured, handled, displayed, prepared, processed, served or stored, sold or offered for sale are kept clean and in good repair.  R.R.O. 1990, Reg. 562, s. 59.</p>"
+        },
+        {
+            "ahref_id": "#60.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 60. (1) Subclause 59 (e) (ii) does not apply to, (a) a service dog serving as a guide for a blind person or for a person with another medical disability who requires the use of a service dog, if the service dog is in an area of the food premise where food is served, sold or offered for sale; (b) live birds or animals offered for sale on food premises other than food service premises where the medical officer of health has given approval in writing for the keeping of the birds or animals on the premises; or (c) live aquatic species displayed or stored in sanitary tanks on food premises.  R.R.O. 1990, Reg. 562, s. 60; O. Reg. 74/04, s. 4 (1). (2) A dog other than a guide dog for the blind is a service dog for the purposes of clause (1) (a) if, (a) it is readily apparent to an average person that the dog functions as a service dog for a person with a medical disability; or (b) the person who requires the dog can provide on request a letter from a physician or nurse confirming that the person requires a service dog.  O. Reg. 74/04, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>60.</b> (1) Subclause 59 (e) (ii) does not apply to,</p> <p class=\"clause-e\">  (a) a service dog serving as a guide for a blind person or for a person with another medical disability who requires the use of a service dog, if the service dog is in an area of the food premise where food is served, sold or offered for sale;</p> <p class=\"clause-e\">  (b) live birds or animals offered for sale on food premises other than food service premises where the medical officer of health has given approval in writing for the keeping of the birds or animals on the premises; or</p> <p class=\"clause-e\">  (c) live aquatic species displayed or stored in sanitary tanks on food premises.  R.R.O. 1990, Reg. 562, s. 60; O. Reg. 74/04, s. 4 (1).</p> <p class=\"subsection-e\">  (2) A dog other than a guide dog for the blind is a service dog for the purposes of clause (1) (a) if,</p> <p class=\"clause-e\">  (a) it is readily apparent to an average person that the dog functions as a service dog for a person with a medical disability; or</p> <p class=\"clause-e\">  (b) the person who requires the dog can provide on request a letter from a physician or nurse confirming that the person requires a service dog.  O. Reg. 74/04, s. 4 (2).</p>"
+        },
+        {
+            "ahref_id": "#61.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 61. Table covers, napkins or serviettes used in the service of food shall be clean and in good repair and multi-service napkins and serviettes shall be laundered before each use.  R.R.O. 1990, Reg. 562, s. 61.",
+            "raw_html": "<p class=\"section-e\"> <b>61. </b>Table covers, napkins or serviettes used in the service of food shall be clean and in good repair and multi-service napkins and serviettes shall be laundered before each use.  R.R.O. 1990, Reg. 562, s. 61.</p>"
+        },
+        {
+            "ahref_id": "#62.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 62. Cloths and towels used for washing, drying or polishing utensils or cleaning tables shall be, (a) in good repair; (b) clean; and (c) used for no other purpose.  R.R.O. 1990, Reg. 562, s. 62.",
+            "raw_html": "<p class=\"section-e\"> <b>62. </b>Cloths and towels used for washing, drying or polishing utensils or cleaning tables shall be,</p> <p class=\"clause-e\">  (a) in good repair;</p> <p class=\"clause-e\">  (b) clean; and</p> <p class=\"clause-e\">  (c) used for no other purpose.  R.R.O. 1990, Reg. 562, s. 62.</p>"
+        },
+        {
+            "ahref_id": "#63.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 63. Toxic and poisonous substances required for maintenance of sanitary conditions shall be, (a) kept in a compartment separate from food so as to preclude contamination of any food, working surface or utensil; (b) kept in a container that bears a label on which the contents of the container are clearly identified; and (c) used only in such manner and under such conditions that the substances do not contaminate food or cause a health hazard.  R.R.O. 1990, Reg. 562, s. 63. Personnel",
+            "raw_html": "<p class=\"section-e\"> <b>63. </b>Toxic and poisonous substances required for maintenance of sanitary conditions shall be,</p> <p class=\"clause-e\">  (a) kept in a compartment separate from food so as to preclude contamination of any food, working surface or utensil;</p> <p class=\"clause-e\">  (b) kept in a container that bears a label on which the contents of the container are clearly identified; and</p> <p class=\"clause-e\">  (c) used only in such manner and under such conditions that the substances do not contaminate food or cause a health hazard.  R.R.O. 1990, Reg. 562, s. 63.</p> <p class=\"heading1-e\"><a name=\"BK18\"></a>Personnel</p>"
+        },
+        {
+            "ahref_id": "#64.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 64. Revoked:  O. Reg. 586/99, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>64. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 586/99, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#65.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 65. (1) Every operator or employee who handles or comes in contact with food or with any utensil used in the manufacture, storage, display, sale or offering for sale, preparation, processing or service of food shall, (a) not use tobacco while so engaged; (b) be clean; (c) wear clean outer garments; (d) subject to subsection (2), wear headgear that confines the hair; (e) wash his or her hands before commencing or resuming work and after each use of a toilet, urinal or privy; (f) be free from any infectious agent of a disease that may be spread through the medium of food; and (g) submit to such medical examinations and tests as are required by the medical officer of health to confirm the absence of an infectious agent mentioned in clause (f).  R.R.O. 1990, Reg. 562, s. 65 (1). (2) Clause (1) (d) does not apply to servers, hosts, server’s assistants, bartenders or other employees whose activities are usually confined to the serving of food to customers.  R.R.O. 1990, Reg. 562, s. 65 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>65. </b>(1) Every operator or employee who handles or comes in contact with food or with any utensil used in the manufacture, storage, display, sale or offering for sale, preparation, processing or service of food shall,</p> <p class=\"clause-e\">  (a) not use tobacco while so engaged;</p> <p class=\"clause-e\">  (b) be clean;</p> <p class=\"clause-e\">  (c) wear clean outer garments;</p> <p class=\"clause-e\">  (d) subject to subsection (2), wear headgear that confines the hair;</p> <p class=\"clause-e\">  (e) wash his or her hands before commencing or resuming work and after each use of a toilet, urinal or privy;</p> <p class=\"clause-e\">  (f) be free from any infectious agent of a disease that may be spread through the medium of food; and</p> <p class=\"clause-e\">  (g) submit to such medical examinations and tests as are required by the medical officer of health to confirm the absence of an infectious agent mentioned in clause (f).  R.R.O. 1990, Reg. 562, s. 65 (1).</p> <p class=\"subsection-e\">  (2) Clause (1) (d) does not apply to servers, hosts, server’s assistants, bartenders or other employees whose activities are usually confined to the serving of food to customers.  R.R.O. 1990, Reg. 562, s. 65 (2).</p>"
+        },
+        {
+            "ahref_id": "#66.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 66. A person who has a skin disease shall not perform any work that brings him or her into contact with food unless he or she has obtained the approval of the medical officer of health in writing before handling food.  R.R.O. 1990, Reg. 562, s. 66.",
+            "raw_html": "<p class=\"section-e\"> <b>66. </b>A person who has a skin disease shall not perform any work that brings him or her into contact with food unless he or she has obtained the approval of the medical officer of health in writing before handling food.  R.R.O. 1990, Reg. 562, s. 66.</p>"
+        },
+        {
+            "ahref_id": "#67.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 67. Every operator of a food premise shall, in respect of the food premise, ensure the availability of the clean outer garments and headgear prescribed in subsection 65 (1) and shall ensure compliance with sections 65 and 66.  R.R.O. 1990, Reg. 562, s. 67. PART IV   SANITARY FACILITIES General",
+            "raw_html": "<p class=\"section-e\"> <b>67. </b>Every operator of a food premise shall, in respect of the food premise, ensure the availability of the clean outer garments and headgear prescribed in subsection 65 (1) and shall ensure compliance with sections 65 and 66.  R.R.O. 1990, Reg. 562, s. 67.</p> <p class=\"partnum-e\"><a name=\"BK19\"></a>PART IV <br/>  SANITARY FACILITIES</p> <p class=\"heading1-e\"><a name=\"BK20\"></a>General</p>"
+        },
+        {
+            "ahref_id": "#68.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 68. (1) Every food premise shall provide at least one sanitary facility for each sex in accordance with this section but nothing in this section applies with respect to a vehicle that is used for the transporting of food or a catering vehicle.  O. Reg. 586/99, s. 6. (2) Every sanitary facility in a food premise shall, (a) have a sign clearly indicating the sex for which it is intended; (b) be kept clean, sanitary and in good repair at all times.  O. Reg. 586/99, s. 6. (3) Every sanitary facility in a food premise shall be equipped with, (a) a supply of toilet paper; (b) a constant supply of hot and cold running water; (c) a supply of soap or detergent in a dispenser; (d) a durable, easy-to-clean receptacle for used towels and other waste material; and (e) a continuous cloth roller towel in a mechanical device, a supply of paper towels, a supply of clean single service towels or a hot air dryer.  O. Reg. 586/99, s. 6. (4) Washbasins, urinals and toilets shall be cleaned and sanitized at least once every work day and as often as is necessary to maintain them in a sanitary condition.  O. Reg. 586/99, s. 6. (5) Washbasins may be equipped with a tepid water supply from a single tap.  O. Reg. 586/99, s. 6. (6) Access doors to sanitary facilities and toilet cubicles shall not be locked or equipped with coin or token operated unlocking devices except that cubicles with toilets in excess of the minimum number of toilets required by Ontario Regulation 332/12 (Building Code) made under the Building Code Act, 1992 may be equipped with such locking devices. O. Reg. 586/99, s. 6; O. Reg. 339/13, s. 2. (7) A food premise where water-flush toilets could not be installed is exempt from the requirements of clauses (3) (b), (c) and (e) if, pursuant to a permit issued under the Building Code Act, 1992, non-flush toilets or privies completely separate from the food premise were constructed, and such facilities are lighted and provided with commercially-packaged single-use moist towelettes.  O. Reg. 586/99, s. 6. Employees",
+            "raw_html": "<p class=\"section-e\"> <b>68. </b>(1) Every food premise shall provide at least one sanitary facility for each sex in accordance with this section but nothing in this section applies with respect to a vehicle that is used for the transporting of food or a catering vehicle.  O. Reg. 586/99, s. 6.</p> <p class=\"subsection-e\">  (2) Every sanitary facility in a food premise shall,</p> <p class=\"clause-e\">  (a) have a sign clearly indicating the sex for which it is intended;</p> <p class=\"clause-e\">  (b) be kept clean, sanitary and in good repair at all times.  O. Reg. 586/99, s. 6.</p> <p class=\"subsection-e\">  (3) Every sanitary facility in a food premise shall be equipped with,</p> <p class=\"clause-e\">  (a) a supply of toilet paper; </p> <p class=\"clause-e\">  (b) a constant supply of hot and cold running water;</p> <p class=\"clause-e\">  (c) a supply of soap or detergent in a dispenser;</p> <p class=\"clause-e\">  (d) a durable, easy-to-clean receptacle for used towels and other waste material; and</p> <p class=\"clause-e\">  (e) a continuous cloth roller towel in a mechanical device, a supply of paper towels, a supply of clean single service towels or a hot air dryer.  O. Reg. 586/99, s. 6.</p> <p class=\"subsection-e\">  (4) Washbasins, urinals and toilets shall be cleaned and sanitized at least once every work day and as often as is necessary to maintain them in a sanitary condition.  O. Reg. 586/99, s. 6.</p> <p class=\"subsection-e\">  (5) Washbasins may be equipped with a tepid water supply from a single tap.  O. Reg. 586/99, s. 6.</p> <p class=\"subsection-e\">  (6) Access doors to sanitary facilities and toilet cubicles shall not be locked or equipped with coin or token operated unlocking devices except that cubicles with toilets in excess of the minimum number of toilets required by Ontario Regulation 332/12 (Building Code) made under the <i>Building Code Act, 1992 </i>may be equipped with such locking devices. O. Reg. 586/99, s. 6; O. Reg. 339/13, s. 2.</p> <p class=\"subsection-e\">  (7) A food premise where water-flush toilets could not be installed is exempt from the requirements of clauses (3) (b), (c) and (e) if, pursuant to a permit issued under the <i>Building Code Act, 1992</i>, non-flush toilets or privies completely separate from the food premise were constructed, and such facilities are lighted and provided with commercially-packaged single-use moist towelettes.  O. Reg. 586/99, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK21\"></a>Employees</p>"
+        },
+        {
+            "ahref_id": "#69.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 69. No operator of a food premise shall alter the floor space, number of toilets or washbasins in a sanitary facility without first receiving approval in writing from a Public Health Inspector having jurisdiction in the municipality in which the food premise is located.  O. Reg. 586/99, s. 6. Patrons of Food Service Premises",
+            "raw_html": "<p class=\"section-e\"> <b>69. </b>No operator of a food premise shall alter the floor space, number of toilets or washbasins in a sanitary facility without first receiving approval in writing from a Public Health Inspector having jurisdiction in the municipality in which the food premise is located.  O. Reg. 586/99, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK22\"></a>Patrons of Food Service Premises</p>"
+        },
+        {
+            "ahref_id": "#70.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 70. If a food service premise is operated in conjunction with an exhibition, fair, carnival, sports meeting or amusement park located in the same building or on the same grounds, public sanitary facilities may be used as an alternative to facilities that are part of a food service premise as long as the facilities are open when the premise is open.  O. Reg. 586/99, s. 6. Cleaning and Sanitizing of Utensils",
+            "raw_html": "<p class=\"section-e\"> <b>70. </b>If a food service premise is operated in conjunction with an exhibition, fair, carnival, sports meeting or amusement park located in the same building or on the same grounds, public sanitary facilities may be used as an alternative to facilities that are part of a food service premise as long as the facilities are open when the premise is open.  O. Reg. 586/99, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK23\"></a>Cleaning and Sanitizing of Utensils</p>"
+        },
+        {
+            "ahref_id": "#71.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 71. (1) Multi-service articles shall be cleaned and sanitized after each use.  R.R.O. 1990, Reg. 562, s. 71 (1). (2) Utensils other than multi-service articles shall be cleaned and sanitized as often as is necessary to maintain them in a clean and sanitary condition.  R.R.O. 1990, Reg. 562, s. 71 (2). (3) Equipment for pasteurization, sterilization and subsequent handling of milk and milk products shall be sanitized immediately prior to use.  R.R.O. 1990, Reg. 562, s. 71 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>71. </b>(1) Multi-service articles shall be cleaned and sanitized after each use.  R.R.O. 1990, Reg. 562, s. 71 (1).</p> <p class=\"subsection-e\">  (2) Utensils other than multi-service articles shall be cleaned and sanitized as often as is necessary to maintain them in a clean and sanitary condition.  R.R.O. 1990, Reg. 562, s. 71 (2).</p> <p class=\"subsection-e\">  (3) Equipment for pasteurization, sterilization and subsequent handling of milk and milk products shall be sanitized immediately prior to use.  R.R.O. 1990, Reg. 562, s. 71 (3).</p>"
+        },
+        {
+            "ahref_id": "#72.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 72. (1) Equipment and facilities for the cleaning and sanitizing of utensils shall consist of, (a) mechanical equipment; or (b) equipment for washing by hand consisting of, (i) a three compartment sink or three sinks, of corrosion-resistant material of sufficient size to ensure thorough cleaning and sanitizing of utensils, or (ii) a two-compartment sink or two sinks, of corrosion-resistant material for the cleaning and sanitizing of utensils where washing and rinsing can be done effectively in the first sink and the second sink is used for sanitizing as described in subsection 75 (1), and (iii) drainage racks of corrosion-resistant material.  R.R.O. 1990, Reg. 562, s. 72 (1); O. Reg. 586/99, s. 7 (1). (2) Revoked:  O. Reg. 586/99, s. 7 (2). (3) Subclause (1) (b) (ii) does not apply to the cleaning and sanitizing of multi-service articles.  R.R.O. 1990, Reg. 562, s. 72 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>72. </b>(1) Equipment and facilities for the cleaning and sanitizing of utensils shall consist of,</p> <p class=\"clause-e\">  (a) mechanical equipment; or</p> <p class=\"clause-e\">  (b) equipment for washing by hand consisting of,</p> <p class=\"subclause-e\">  (i) a three compartment sink or three sinks, of corrosion-resistant material of sufficient size to ensure thorough cleaning and sanitizing of utensils, or</p> <p class=\"subclause-e\">  (ii) a two-compartment sink or two sinks, of corrosion-resistant material for the cleaning and sanitizing of utensils where washing and rinsing can be done effectively in the first sink and the second sink is used for sanitizing as described in subsection 75 (1), and</p> <p class=\"subclause-e\">  (iii) drainage racks of corrosion-resistant material.  R.R.O. 1990, Reg. 562, s. 72 (1); O. Reg. 586/99, s. 7 (1).</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 586/99, s. 7 (2).</p> <p class=\"subsection-e\">  (3) Subclause (1) (b) (ii) does not apply to the cleaning and sanitizing of multi-service articles.  R.R.O. 1990, Reg. 562, s. 72 (3).</p>"
+        },
+        {
+            "ahref_id": "#73.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 73. Utensils shall be, (a) scraped or rinsed; (b) cleaned; (c) rinsed; and (d) sanitized.  R.R.O. 1990, Reg. 562, s. 73.",
+            "raw_html": "<p class=\"section-e\"> <b>73. </b>Utensils shall be,</p> <p class=\"clause-e\">  (a) scraped or rinsed;</p> <p class=\"clause-e\">  (b) cleaned;</p> <p class=\"clause-e\">  (c) rinsed; and</p> <p class=\"clause-e\">  (d) sanitized.  R.R.O. 1990, Reg. 562, s. 73.</p>"
+        },
+        {
+            "ahref_id": "#74.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 74. Where equipment for washing by hand is used, utensils shall be, (a) cleaned in a sink in a detergent solution capable of removing soil; (b) rinsed in a second sink in clean water at a temperature not lower than 43° Celsius; and (c) sanitized in a third sink.  R.R.O. 1990, Reg. 562, s. 74.",
+            "raw_html": "<p class=\"section-e\"> <b>74. </b>Where equipment for washing by hand is used, utensils shall be,</p> <p class=\"clause-e\">  (a) cleaned in a sink in a detergent solution capable of removing soil;</p> <p class=\"clause-e\">  (b) rinsed in a second sink in clean water at a temperature not lower than 43° Celsius; and</p> <p class=\"clause-e\">  (c) sanitized in a third sink.  R.R.O. 1990, Reg. 562, s. 74.</p>"
+        },
+        {
+            "ahref_id": "#75.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 75. (1) Utensils shall be sanitized by, (a) immersion in clean water at a temperature of at least 77° Celsius, or more, for at least forty-five seconds; (b) immersion in a clean chlorine solution of not less than 100 parts per million of available chlorine at a temperature not lower than 24° Celsius for at least forty-five seconds; (c) immersion in a clean quaternary ammonium compound solution of not less than 200 parts per million at a temperature not lower than 24° Celsius for at least forty-five seconds; (d) immersion in a clean solution containing not less than twenty-five parts per million of available iodine at a temperature not lower than 24° Celsius for at least forty-five seconds; or (e) immersion in any solution containing a sanitizing agent that is non-toxic and that provides a bactericidal result not less than the result provided by clause (a), (b) or (c) and for which a convenient test reagent is available.  R.R.O. 1990, Reg. 562, s. 75 (1). (2) A test reagent for determining the concentration of sanitizer and an accurate thermometer to determine the temperature of the sanitizing solution shall be readily available where the sanitizing takes place.  R.R.O. 1990, Reg. 562, s. 75 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>75. </b>(1) Utensils shall be sanitized by,</p> <p class=\"clause-e\">  (a) immersion in clean water at a temperature of at least 77° Celsius, or more, for at least forty-five seconds;</p> <p class=\"clause-e\">  (b) immersion in a clean chlorine solution of not less than 100 parts per million of available chlorine at a temperature not lower than 24° Celsius for at least forty-five seconds;</p> <p class=\"clause-e\">  (c) immersion in a clean quaternary ammonium compound solution of not less than 200 parts per million at a temperature not lower than 24° Celsius for at least forty-five seconds;</p> <p class=\"clause-e\">  (d) immersion in a clean solution containing not less than twenty-five parts per million of available iodine at a temperature not lower than 24° Celsius for at least forty-five seconds; or</p> <p class=\"clause-e\">  (e) immersion in any solution containing a sanitizing agent that is non-toxic and that provides a bactericidal result not less than the result provided by clause (a), (b) or (c) and for which a convenient test reagent is available.  R.R.O. 1990, Reg. 562, s. 75 (1).</p> <p class=\"subsection-e\">  (2) A test reagent for determining the concentration of sanitizer and an accurate thermometer to determine the temperature of the sanitizing solution shall be readily available where the sanitizing takes place.  R.R.O. 1990, Reg. 562, s. 75 (2).</p>"
+        },
+        {
+            "ahref_id": "#76.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 76. Despite sections 74 and 75, utensils, other than utensils that come into direct contact with a milk product or ready to eat food, may be cleaned and sanitized in one operation provided that, (a) the chemical product used is designed for that purpose; (b) the product container bears directions for use indicating optimum temperature and exposure times; (c) the product is used in accordance with the directions for use; (d) a test reagent is readily available on the premises to determine the concentration of the sanitizing agent; and (e) the utensils so treated are completely rinsed with clean water.  R.R.O. 1990, Reg. 562, s. 76.",
+            "raw_html": "<p class=\"section-e\"> <b>76. </b>Despite sections 74 and 75, utensils, other than utensils that come into direct contact with a milk product or ready to eat food, may be cleaned and sanitized in one operation provided that,</p> <p class=\"clause-e\">  (a) the chemical product used is designed for that purpose;</p> <p class=\"clause-e\">  (b) the product container bears directions for use indicating optimum temperature and exposure times;</p> <p class=\"clause-e\">  (c) the product is used in accordance with the directions for use;</p> <p class=\"clause-e\">  (d) a test reagent is readily available on the premises to determine the concentration of the sanitizing agent; and</p> <p class=\"clause-e\">  (e) the utensils so treated are completely rinsed with clean water.  R.R.O. 1990, Reg. 562, s. 76.</p>"
+        },
+        {
+            "ahref_id": "#77.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 77. Mechanical equipment shall be, (a) so constructed, designed and maintained that, (i) the wash water is sufficiently clean at all times to clean the dishes and is maintained at a temperature not lower than 60° Celsius or higher than 71° Celsius, and (ii) the sanitizing rinse is, (A) water that is maintained at a temperature not lower than 82° Celsius and is applied for a minimum of ten seconds in each sanitizing cycle, or (B) a chemical solution described in clause 75 (1) (b), (c), (d) or (e); and (b) provided with thermometers that show wash and rinse temperatures and that are so located as to be easily read.  R.R.O. 1990, Reg. 562, s. 77.",
+            "raw_html": "<p class=\"section-e\"> <b>77. </b>Mechanical equipment shall be,</p> <p class=\"clause-e\">  (a) so constructed, designed and maintained that,</p> <p class=\"subclause-e\">  (i) the wash water is sufficiently clean at all times to clean the dishes and is maintained at a temperature not lower than 60° Celsius or higher than 71° Celsius, and</p> <p class=\"subclause-e\">  (ii) the sanitizing rinse is,</p> <p class=\"subsubclause-e\">  (A) water that is maintained at a temperature not lower than 82° Celsius and is applied for a minimum of ten seconds in each sanitizing cycle, or</p> <p class=\"subsubclause-e\">  (B) a chemical solution described in clause 75 (1) (b), (c), (d) or (e); and</p> <p class=\"clause-e\">  (b) provided with thermometers that show wash and rinse temperatures and that are so located as to be easily read.  R.R.O. 1990, Reg. 562, s. 77.</p>"
+        },
+        {
+            "ahref_id": "#78.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 78. A food premise is exempt from the provisions of section 77 where the medical officer of health is satisfied that the use of any other machine or device will effectively clean and sanitize utensils and result in a bacterial count on the utensils within the limit prescribed by section 80.  R.R.O. 1990, Reg. 562, s. 78.",
+            "raw_html": "<p class=\"section-e\"> <b>78. </b>A food premise is exempt from the provisions of section 77 where the medical officer of health is satisfied that the use of any other machine or device will effectively clean and sanitize utensils and result in a bacterial count on the utensils within the limit prescribed by section 80.  R.R.O. 1990, Reg. 562, s. 78.</p>"
+        },
+        {
+            "ahref_id": "#79.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 79. Where food processing equipment is cleaned and sanitized in place without disassembling the equipment, the operator shall ensure that instructions respecting, (a) the chemicals used for cleaning and sanitizing; (b) the strength of the chemical solutions used; (c) the length of time the equipment was exposed to the chemicals; and (d) the procedures used for cleaning and sanitizing the equipment, are posted in a place accessible to the person carrying out the cleaning and sanitizing.  R.R.O. 1990, Reg. 562, s. 79.",
+            "raw_html": "<p class=\"section-e\"> <b>79. </b>Where food processing equipment is cleaned and sanitized in place without disassembling the equipment, the operator shall ensure that instructions respecting,</p> <p class=\"clause-e\">  (a) the chemicals used for cleaning and sanitizing;</p> <p class=\"clause-e\">  (b) the strength of the chemical solutions used;</p> <p class=\"clause-e\">  (c) the length of time the equipment was exposed to the chemicals; and</p> <p class=\"clause-e\">  (d) the procedures used for cleaning and sanitizing the equipment,</p> <p class=\"Ssection-e\">are posted in a place accessible to the person carrying out the cleaning and sanitizing.  R.R.O. 1990, Reg. 562, s. 79.</p>"
+        },
+        {
+            "ahref_id": "#80.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 80. The standard plate count from a multi-service article shall not exceed 100 bacterial colonies after cleaning and sanitizing and prior to re-use when tested by an official method in accordance with the standard plate test, utilizing the swab technique.  R.R.O. 1990, Reg. 562, s. 80.",
+            "raw_html": "<p class=\"section-e\"> <b>80. </b>The standard plate count from a multi-service article shall not exceed 100 bacterial colonies after cleaning and sanitizing and prior to re-use when tested by an official method in accordance with the standard plate test, utilizing the swab technique.  R.R.O. 1990, Reg. 562, s. 80.</p>"
+        },
+        {
+            "ahref_id": "#81.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 81. Utensils that have been cleaned and sanitized shall be transported and stored in such a manner as to prevent contamination.  R.R.O. 1990, Reg. 562, s. 81.",
+            "raw_html": "<p class=\"section-e\"> <b>81. </b>Utensils that have been cleaned and sanitized shall be transported and stored in such a manner as to prevent contamination.  R.R.O. 1990, Reg. 562, s. 81.</p>"
+        },
+        {
+            "ahref_id": "#82.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 82. Where a utensil is so large as to preclude washing and sanitizing by means of sinks or other machines, it shall be washed or scrubbed with a detergent solution, rinsed with clean water and, (a) sprayed or rinsed with hot water or steam in a manner that creates a temperature of not less than 82° Celsius on the treated surface; or (b) sprayed or rinsed with a chemical solution of a type described in subsection 75 (1) at double the strength that is set out in the product directions.  R.R.O. 1990, Reg. 562, s. 82; O. Reg. 74/04, s. 5.    ",
+            "raw_html": "<p class=\"section-e\"> <b>82. </b>Where a utensil is so large as to preclude washing and sanitizing by means of sinks or other machines, it shall be washed or scrubbed with a detergent solution, rinsed with clean water and,</p> <p class=\"clause-e\">  (a) sprayed or rinsed with hot water or steam in a manner that creates a temperature of not less than 82° Celsius on the treated surface; or</p> <p class=\"clause-e\">  (b) sprayed or rinsed with a chemical solution of a type described in subsection 75 (1) at double the strength that is set out in the product directions.  R.R.O. 1990, Reg. 562, s. 82; O. Reg. 74/04, s. 5.</p> <p class=\"clause-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

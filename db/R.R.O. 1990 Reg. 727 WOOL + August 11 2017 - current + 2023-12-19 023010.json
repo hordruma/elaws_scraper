@@ -1,0 +1,104 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 727: WOOL",
+        "reg_name_text": "WOOL",
+        "citation": "R.R.O. 1990, Reg. 727: ",
+        "act_under": "Livestock and Livestock Products Act",
+        "url": "https://www.ontario.ca/laws/regulation/900727",
+        "date_scraped": "2023-12-19 02:30:10"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "August 11, 2017",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900727/v2",
+            "valid_from": "June 13, 2006",
+            "valid_to": "August 10, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900727/v1",
+            "valid_from": "December 31, 1990",
+            "valid_to": "June 12, 2006"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": " 1. In this Regulation, “producer” means a person who sells wool produced on the producer’s own farm or ranch; (“producteur”) “warehouser” means a person who operates an establishment where wool is assembled, graded, bought, offered for sale or sold; (“grossiste”) “wool collector” means a collector of ungraded wool from producers. (“collecteur de laine”)  R.R.O. 1990, Reg. 727, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Regulation,</p> <p class=\"firstdef-e\">“producer” means a person who sells wool produced on the producer’s own farm or ranch; (“producteur”)</p> <p class=\"definition-e\">“warehouser” means a person who operates an establishment where wool is assembled, graded, bought, offered for sale or sold; (“grossiste”)</p> <p class=\"definition-e\">“wool collector” means a collector of ungraded wool from producers. (“collecteur de laine”)  R.R.O. 1990, Reg. 727, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": " 2. Wool is designated as a livestock product.  R.R.O. 1990, Reg. 727, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>Wool is designated as a livestock product.  R.R.O. 1990, Reg. 727, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": null,
+            "content": " 3. Dealers in wool are exempt from section 2 of the Act.  R.R.O. 1990, Reg. 727, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>Dealers in wool are exempt from section 2 of the Act.  R.R.O. 1990, Reg. 727, s. 3.</p>"
+        },
+        {
+            "id": "4.",
+            "section": null,
+            "content": " 4. Revoked: O. Reg. 327/17, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 327/17, s. 1.</p>"
+        },
+        {
+            "id": "5.",
+            "section": null,
+            "content": " 5. For the purposes of this Regulation, the grades of wool are set out in the Table to this section. Table   Wool Grades  Item   Column 1 Grade Category   Column 2 Spinning Count   Column 3 Micron Range   Column 4 Staple Length (inches) \n\n  1.   Domestic 3/8   50-54   28-31   3-4 \n\n  2.   Domestic Clothing/Lamb   50-54   28-31   Less than 2.5 \n\n  3.   Domestic 1/4   46-54   32-25   3-4 \n\n  4.   Low 1/4 Coarse   36-44   36 of more   4″ or more \n\n  5.   Offsorts, Defective Grades, Coloured, Specialty   Variable   Variable   Variable \n\n  6.   Fine   64-70   18-21    2.5-3.5 \n\n  7.   Half Staple   60-62   22-24   2.75-4 \n\n  8.   Range 3/8   58-60   24.5-26.5   3-4 \n\n  9.   Range 1/4   50-54   28-31   3-4 \n\n  10.   Range Clothing/Lamb   60 or more   18-24   2-4 O. Reg. 327/17, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>For the purposes of this Regulation, the grades of wool are set out in the Table to this section.</p> <p class=\"headingx-e\">Table <br/>  Wool Grades</p> <p class=\"MsoNormal\"> </p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"672\">\n<tr> <td valign=\"top\" width=\"48\"> <p class=\"table-e\">Item</p> </td> <td valign=\"top\" width=\"208\"> <p class=\"table-e\">Column 1</p> <p class=\"table-e\">Grade Category</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">Column 2</p> <p class=\"table-e\">Spinning Count</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">Column 3</p> <p class=\"table-e\">Micron Range</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">Column 4</p> <p class=\"table-e\">Staple Length (inches)</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"48\"> <p class=\"table-e\">1.</p> </td> <td valign=\"top\" width=\"208\"> <p class=\"table-e\">Domestic 3/8</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">50-54</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">28-31</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">3-4</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"48\"> <p class=\"table-e\">2.</p> </td> <td valign=\"top\" width=\"208\"> <p class=\"table-e\">Domestic Clothing/Lamb</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">50-54</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">28-31</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">Less than 2.5</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"48\"> <p class=\"table-e\">3.</p> </td> <td valign=\"top\" width=\"208\"> <p class=\"table-e\">Domestic 1/4</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">46-54</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">32-25</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">3-4</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"48\"> <p class=\"table-e\">4.</p> </td> <td valign=\"top\" width=\"208\"> <p class=\"table-e\">Low 1/4 Coarse</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">36-44</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">36 of more</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">4″ or more</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"48\"> <p class=\"table-e\">5.</p> </td> <td valign=\"top\" width=\"208\"> <p class=\"table-e\">Offsorts, Defective Grades, Coloured, Specialty</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">Variable</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">Variable</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">Variable</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"48\"> <p class=\"table-e\">6.</p> </td> <td valign=\"top\" width=\"208\"> <p class=\"table-e\">Fine</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">64-70</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">18-21 </p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">2.5-3.5</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"48\"> <p class=\"table-e\">7.</p> </td> <td valign=\"top\" width=\"208\"> <p class=\"table-e\">Half Staple</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">60-62</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">22-24</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">2.75-4</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"48\"> <p class=\"table-e\">8.</p> </td> <td valign=\"top\" width=\"208\"> <p class=\"table-e\">Range 3/8</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">58-60</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">24.5-26.5</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">3-4</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"48\"> <p class=\"table-e\">9.</p> </td> <td valign=\"top\" width=\"208\"> <p class=\"table-e\">Range 1/4</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">50-54</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">28-31</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">3-4</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"48\"> <p class=\"table-e\">10.</p> </td> <td valign=\"top\" width=\"208\"> <p class=\"table-e\">Range Clothing/Lamb</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">60 or more</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">18-24</p> </td> <td valign=\"top\" width=\"137\"> <p class=\"table-e\">2-4</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 327/17, s. 2.</p>"
+        },
+        {
+            "id": "6.",
+            "section": null,
+            "content": " 6. At the time of collection or receipt of wool, a wool collector shall, (a) identify each producer’s lot of wool as to ownership; and (b) deliver to the producer one copy of a statement showing, (i) the name and address of the wool collector, (ii) the name of the warehouser to whom the wool is to be delivered, (iii) the name and address of the producer, (iv) whether settlement with the producer is to be on the basis of graded or ungraded wool, (v) the date of collection or receipt, (vi) the number of packages in each lot, (vii) the signature of the wool collector, and (viii) the signature of the producer, and shall retain one copy of the statement for at least six months and forward one copy to the warehouser.  R.R.O. 1990, Reg. 727, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>At the time of collection or receipt of wool, a wool collector shall,</p> <p class=\"clause-e\">  (a) identify each producer’s lot of wool as to ownership; and</p> <p class=\"clause-e\">  (b) deliver to the producer one copy of a statement showing,</p> <p class=\"subclause-e\">  (i) the name and address of the wool collector,</p> <p class=\"subclause-e\">  (ii) the name of the warehouser to whom the wool is to be delivered,</p> <p class=\"subclause-e\">  (iii) the name and address of the producer,</p> <p class=\"subclause-e\">  (iv) whether settlement with the producer is to be on the basis of graded or ungraded wool,</p> <p class=\"subclause-e\">  (v) the date of collection or receipt,</p> <p class=\"subclause-e\">  (vi) the number of packages in each lot,</p> <p class=\"subclause-e\">  (vii) the signature of the wool collector, and</p> <p class=\"subclause-e\">  (viii) the signature of the producer,</p> <p class=\"Ssection-e\">and shall retain one copy of the statement for at least six months and forward one copy to the warehouser.  R.R.O. 1990, Reg. 727, s. 6.</p>"
+        },
+        {
+            "id": "7.",
+            "section": null,
+            "content": " 7. A wool collector shall immediately forward or deliver all ungraded wool to a warehouser.  R.R.O. 1990, Reg. 727, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>A wool collector shall immediately forward or deliver all ungraded wool to a warehouser.  R.R.O. 1990, Reg. 727, s. 7.</p>"
+        },
+        {
+            "id": "8.",
+            "section": null,
+            "content": " 8. Wool shall be graded only on premises operated by a warehouser.  R.R.O. 1990, Reg. 727, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>Wool shall be graded only on premises operated by a warehouser.  R.R.O. 1990, Reg. 727, s. 8.</p>"
+        },
+        {
+            "id": "9.",
+            "section": null,
+            "content": " 9. (1) Where settlement with the producer is to be made on the basis of graded wool, the warehouser shall grade the wool within one month of the date of receiving it.  R.R.O. 1990, Reg. 727, s. 9 (1). (2) After the wool has been graded, the warehouser shall complete a wool grading statement for each lot of wool received.  R.R.O. 1990, Reg. 727, s. 9 (2); O. Reg. 327/17, s. 3 (1). (3) The warehouser shall deliver to the producer one copy of the wool grading statement referred to in subsection (2) when making settlement for the wool and shall retain one copy of the statement for one year.  R.R.O. 1990, Reg. 727, s. 9 (3); O. Reg. 327/17, s. 3 (2). (4) A wool grading statement completed under this section shall include the following information: 1. The name, address and telephone number of the warehouser. 2. The name, address and account number of the producer. 3. The name of the wool collector who collected or received the wool. 4. The lot number of the wool. 5. The number of sacks of wool in the lot. 6. The gross weight, tare weight and net weight of the lot. 7. The pounds of wool, price per pound and total price for each grade of wool in the lot. 8. The total price, price adjustments and net price of the wool in the lot. 9. The grader’s name. 10. The date the wool was received by the warehouser and the date it was graded. O. Reg. 327/17, s. 3 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) Where settlement with the producer is to be made on the basis of graded wool, the warehouser shall grade the wool within one month of the date of receiving it.  R.R.O. 1990, Reg. 727, s. 9 (1).</p> <p class=\"subsection-e\">  (2) After the wool has been graded, the warehouser shall complete a wool grading statement for each lot of wool received.  R.R.O. 1990, Reg. 727, s. 9 (2); O. Reg. 327/17, s. 3 (1).</p> <p class=\"subsection-e\">  (3) The warehouser shall deliver to the producer one copy of the wool grading statement referred to in subsection (2) when making settlement for the wool and shall retain one copy of the statement for one year.  R.R.O. 1990, Reg. 727, s. 9 (3); O. Reg. 327/17, s. 3 (2).</p> <p class=\"subsection-e\">  (4) A wool grading statement completed under this section shall include the following information:</p> <p class=\"paragraph-e\">  1. The name, address and telephone number of the warehouser.</p> <p class=\"paragraph-e\">  2. The name, address and account number of the producer.</p> <p class=\"paragraph-e\">  3. The name of the wool collector who collected or received the wool.</p> <p class=\"paragraph-e\">  4. The lot number of the wool.</p> <p class=\"paragraph-e\">  5. The number of sacks of wool in the lot.</p> <p class=\"paragraph-e\">  6. The gross weight, tare weight and net weight of the lot.</p> <p class=\"paragraph-e\">  7. The pounds of wool, price per pound and total price for each grade of wool in the lot.</p> <p class=\"paragraph-e\">  8. The total price, price adjustments and net price of the wool in the lot.</p> <p class=\"paragraph-e\">  9. The grader’s name.</p> <p class=\"paragraph-e\">  10. The date the wool was received by the warehouser and the date it was graded. O. Reg. 327/17, s. 3 (3).</p>"
+        },
+        {
+            "id": "10.",
+            "section": null,
+            "content": " 10. (1) Where settlement with the producer is to be made on the basis of ungraded wool, the warehouser shall deliver to the producer one copy of a completed wool statement when making settlement for the wool and shall retain one copy of the statement for one year.  R.R.O. 1990, Reg. 727, s. 10; O. Reg. 327/17, s. 4 (1). (2) A wool statement completed under this section shall be signed by the warehouser and shall include the following information: 1. The name and address of the producer. 2. The name of the wool collector. 3. The number of sacks of wool collected or received. 4. The weight of wool collected or received. 5. The date the wool was received. 6. The price per pound, the total price and any adjustments to the total price of the wool. 7. The balance paid to the producer and the date it was paid. O. Reg. 327/17, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>(1) Where settlement with the producer is to be made on the basis of ungraded wool, the warehouser shall deliver to the producer one copy of a completed wool statement when making settlement for the wool and shall retain one copy of the statement for one year.  R.R.O. 1990, Reg. 727, s. 10; O. Reg. 327/17, s. 4 (1).</p> <p class=\"subsection-e\">  (2) A wool statement completed under this section shall be signed by the warehouser and shall include the following information:</p> <p class=\"paragraph-e\">  1. The name and address of the producer.</p> <p class=\"paragraph-e\">  2. The name of the wool collector.</p> <p class=\"paragraph-e\">  3. The number of sacks of wool collected or received.</p> <p class=\"paragraph-e\">  4. The weight of wool collected or received.</p> <p class=\"paragraph-e\">  5. The date the wool was received.</p> <p class=\"paragraph-e\">  6. The price per pound, the total price and any adjustments to the total price of the wool.</p> <p class=\"paragraph-e\">  7. The balance paid to the producer and the date it was paid. O. Reg. 327/17, s. 4 (2).</p>"
+        },
+        {
+            "id": "11.",
+            "section": null,
+            "content": " 11. Unless wool has been graded in accordance with this Regulation, no person shall, (a) apply to it a grade established by this Regulation; or (b) sell or offer for sale wool by grade.  R.R.O. 1990, Reg. 727, s. 11.",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>Unless wool has been graded in accordance with this Regulation, no person shall,</p> <p class=\"clause-e\">  (a) apply to it a grade established by this Regulation; or</p> <p class=\"clause-e\">  (b) sell or offer for sale wool by grade.  R.R.O. 1990, Reg. 727, s. 11.</p>"
+        },
+        {
+            "id": "12.",
+            "section": null,
+            "content": " 12. This Regulation does not apply to wool delivered or consigned by a producer to a manufacturer of woollen goods to be carded or otherwise processed.  R.R.O. 1990, Reg. 727, s. 12. Forms 1, 2 Revoked: O. Reg. 327/17, s. 5.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>This Regulation does not apply to wool delivered or consigned by a producer to a manufacturer of woollen goods to be carded or otherwise processed.  R.R.O. 1990, Reg. 727, s. 12.</p> <p class=\"formRevoked-e\"><span class=\"ovallcaps\">Forms</span> 1, 2 <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 327/17, s. 5.</p> <p class=\"formRevoked-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/900727\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "act_info": {
+        "full_title": "Medicine Act, 1991, S.O. 1991, c. 30",
+        "act_name_text": "Medicine Act, 1991",
+        "citation": "S.O. 1991, c. 30",
+        "url": "https://www.ontario.ca/laws/statute/91m30",
+        "date_scraped": "2023-12-18 03:45:10"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July 24, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/91m30/v8",
+            "valid_from": "May 18, 2023",
+            "valid_to": "July 23, 2023"
+        },
+        {
+            "a_href": "/laws/statute/91m30/v7",
+            "valid_from": "June  3, 2021",
+            "valid_to": "May 17, 2023"
+        },
+        {
+            "a_href": "/laws/statute/91m30/v5",
+            "valid_from": "December 30, 2017",
+            "valid_to": "June  2, 2021"
+        },
+        {
+            "a_href": "/laws/statute/91m30/v4",
+            "valid_from": "December 15, 2009",
+            "valid_to": "December 29, 2017"
+        },
+        {
+            "a_href": "/laws/statute/91m30/v3",
+            "valid_from": "September  4, 2007",
+            "valid_to": "December 14, 2009"
+        },
+        {
+            "a_href": "/laws/statute/91m30/v2",
+            "valid_from": "June  4, 2007",
+            "valid_to": "September  3, 2007"
+        },
+        {
+            "a_href": "/laws/statute/91m30/v1",
+            "valid_from": "December 21, 2000",
+            "valid_to": "June  3, 2007"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/230197",
+            "Citation": "O. Reg. 197/23",
+            "title": "EXEMPTION - RESTRICTED TITLES"
+        },
+        {
+            "a_href": "/laws/regulation/940114",
+            "Citation": "O. Reg. 114/94",
+            "title": "GENERAL"
+        },
+        {
+            "a_href": "/laws/regulation/930865",
+            "Citation": "O. Reg. 865/93",
+            "title": "REGISTRATION"
+        },
+        {
+            "a_href": "/laws/regulation/930856",
+            "Citation": "O. Reg. 856/93",
+            "title": "PROFESSIONAL MISCONDUCT"
+        }
+    ],
+    "revoked_regs": null,
+    "content": [
+        {
+            "id": "1",
+            "section": "Definitions",
+            "content": "1 In this Act, “College” means the College of Physicians and Surgeons of Ontario; (“Ordre”) “Health Professions Procedural Code” means the Health Professions Procedural Code set out in Schedule 2 to the Regulated Health Professions Act, 1991; (“Code des professions de la santé”) “member” means a member of the College; (“membre”) “profession” means the profession of medicine; (“profession”) “this Act” includes the Health Professions Procedural Code. (“la présente loi”)  1991, c. 30, s. 1.",
+            "raw_html": "<p class=\"section\"><b>1 </b>In this Act,</p> <p class=\"definition\">“College” means the College of Physicians and Surgeons of Ontario; (“Ordre”)</p> <p class=\"definition\">“Health Professions Procedural Code” means the Health Professions Procedural Code set out in Schedule 2 to the <i>Regulated Health Professions Act, 1991</i>; (“Code des professions de la santé”)</p> <p class=\"definition\">“member” means a member of the College; (“membre”)</p> <p class=\"definition\">“profession” means the profession of medicine; (“profession”)</p> <p class=\"definition\">“this Act” includes the Health Professions Procedural Code. (“la présente loi”)  1991, c. 30, s. 1.</p>"
+        },
+        {
+            "id": "2",
+            "section": "Health Professions Procedural Code",
+            "content": "2 (1) The Health Professions Procedural Code shall be deemed to be part of this Act.  1991, c. 30, s. 2 (1). Terms in Code (2) In the Health Professions Procedural Code as it applies in respect of this Act, “College” means the College of Physicians and Surgeons of Ontario; (“ordre”) “health profession Act” means this Act; (“loi sur une profession de la santé”) “profession” means the profession of medicine; (“profession”) “regulations” means the regulations under this Act. (“règlements”)  1991, c. 30, s. 2 (2). Definitions in Code (3) Definitions in the Health Professions Procedural Code apply with necessary modifications to terms in this Act.  1991, c. 30, s. 2 (3).",
+            "raw_html": "<p class=\"section\"><b>2 </b>(1) The Health Professions Procedural Code shall be deemed to be part of this Act.  1991, c. 30, s. 2 (1).</p> <p class=\"headnote\">Terms in Code</p> <p class=\"subsection\">(2) In the Health Professions Procedural Code as it applies in respect of this Act,</p> <p class=\"definition\">“College” means the College of Physicians and Surgeons of Ontario; (“ordre”)</p> <p class=\"definition\">“health profession Act” means this Act; (“loi sur une profession de la santé”)</p> <p class=\"definition\">“profession” means the profession of medicine; (“profession”)</p> <p class=\"definition\">“regulations” means the regulations under this Act. (“règlements”)  1991, c. 30, s. 2 (2).</p> <p class=\"headnote\">Definitions in Code</p> <p class=\"subsection\">(3) Definitions in the Health Professions Procedural Code apply with necessary modifications to terms in this Act.  1991, c. 30, s. 2 (3).</p>"
+        },
+        {
+            "id": "3",
+            "section": "Scope of practice",
+            "content": "3 The practice of medicine is the assessment of the physical or mental condition of an individual and the diagnosis, treatment and prevention of any disease, disorder or dysfunction.  1991, c. 30, s. 3.",
+            "raw_html": "<p class=\"section\"><b>3 </b>The practice of medicine is the assessment of the physical or mental condition of an individual and the diagnosis, treatment and prevention of any disease, disorder or dysfunction.  1991, c. 30, s. 3.</p>"
+        },
+        {
+            "id": "4",
+            "section": "Authorized acts",
+            "content": "4 In the course of engaging in the practice of medicine, a member is authorized, subject to the terms, conditions and limitations imposed on his or her certificate of registration, to perform the following: 1.  Communicating a diagnosis identifying a disease or disorder as the cause of a person’s symptoms. 2.  Performing a procedure on tissue below the dermis, below the surface of a mucous membrane, in or below the surface of the cornea or in or below the surfaces of the teeth. 3.  Setting or casting a fracture of a bone or a dislocation of a joint. 4.  Moving the joints of the spine beyond a person’s usual physiological range of motion using a fast, low amplitude thrust. 5.  Administering a substance by injection or inhalation. 6.  Putting an instrument, hand or finger, i.  beyond the external ear canal, ii.  beyond the point in the nasal passages where they normally narrow, iii.  beyond the larynx, iv.  beyond the opening of the urethra, v.  beyond the labia majora, vi.  beyond the anal verge, or vii.  into an artificial opening into the body. 7.  Applying or ordering the application of a prescribed form of energy. 8.  Prescribing, dispensing, selling or compounding a drug. 9.  Prescribing or dispensing, for vision or eye problems, subnormal vision devices, contact lenses or eye glasses. 10.  Prescribing a hearing aid for a hearing impaired person. 11.  Managing labour or conducting the delivery of a baby. 12.  Allergy challenge testing of a kind in which a positive result is a significant allergic response. 13.  Treating, by means of psychotherapy technique delivered through a therapeutic relationship, an individual’s serious disorder of thought, cognition, mood, emotional regulation, perception or memory that may seriously impair the individual’s judgement, insight, behaviour, communication or social functioning. 1991, c. 30, s. 4; 2007, c. 10, Sched. R, s. 15. Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. R, s. 15 - 30/12/2017 Note: On a day to be named by proclamation of the Lieutenant Governor, the Act is amended by adding the following section: (See: 2021, c. 27, Sched. 3, s. 1) Physician assistants 4.1 (1) There shall be a class of members to be known as physician assistants. 2021, c. 27, Sched. 3, s. 1. Restriction (2) Subject to subsection (3), a reference in any other Act or regulation to a physician, a legally qualified medical practitioner, a member of the College or any similar expression does not include a physician assistant unless the other Act or regulation specifically provides that it does. 2021, c. 27, Sched. 3, s. 1. Exception (3) Despite subsection (2), a provision of the Regulated Health Professions Act, 1991, that applies with respect to a member of the College applies with respect to a physician assistant unless it provides otherwise, except in, (a)  clause 33 (2) (c) of that Act; and (b)  paragraph 3 of subsection 33.1 (1) of that Act. 2021, c. 27, Sched. 3, s. 1. Additional requirements for authorized acts by physician assistants (4) A member who is a physician assistant shall not perform an act under the authority of section 4 unless the performance of the act by the member is permitted by the regulations and the member performs the act in accordance with the regulations. 2021, c. 27, Sched. 3, s. 1. Grounds for misconduct (5) In addition to the grounds set out in subsection 51 (1) of the Health Professions Procedural Code, a panel of the Discipline Committee shall find that a member has committed an act of professional misconduct if the member contravenes subsection (4). 2021, c. 27, Sched. 3, s. 1. Section Amendments with date in force (d/m/y) 2021, c. 27, Sched. 3, s. 1 - not in force",
+            "raw_html": "<p class=\"section\"><b>4 </b>In the course of engaging in the practice of medicine, a member is authorized, subject to the terms, conditions and limitations imposed on his or her certificate of registration, to perform the following:</p> <p class=\"paragraph\">  1.  Communicating a diagnosis identifying a disease or disorder as the cause of a person’s symptoms.</p> <p class=\"paragraph\">  2.  Performing a procedure on tissue below the dermis, below the surface of a mucous membrane, in or below the surface of the cornea or in or below the surfaces of the teeth.</p> <p class=\"paragraph\">  3.  Setting or casting a fracture of a bone or a dislocation of a joint.</p> <p class=\"paragraph\">  4.  Moving the joints of the spine beyond a person’s usual physiological range of motion using a fast, low amplitude thrust.</p> <p class=\"paragraph\">  5.  Administering a substance by injection or inhalation.</p> <p class=\"paragraph\">  6.  Putting an instrument, hand or finger,</p> <p class=\"subpara\">  i.  beyond the external ear canal,</p> <p class=\"subpara\">  ii.  beyond the point in the nasal passages where they normally narrow,</p> <p class=\"subpara\">  iii.  beyond the larynx,</p> <p class=\"subpara\">  iv.  beyond the opening of the urethra,</p> <p class=\"subpara\">  v.  beyond the labia majora,</p> <p class=\"subpara\">  vi.  beyond the anal verge, or</p> <p class=\"subpara\">  vii.  into an artificial opening into the body.</p> <p class=\"paragraph\">  7.  Applying or ordering the application of a prescribed form of energy.</p> <p class=\"paragraph\">  8.  Prescribing, dispensing, selling or compounding a drug.</p> <p class=\"paragraph\">  9.  Prescribing or dispensing, for vision or eye problems, subnormal vision devices, contact lenses or eye glasses.</p> <p class=\"paragraph\">  10.  Prescribing a hearing aid for a hearing impaired person.</p> <p class=\"paragraph\">  11.  Managing labour or conducting the delivery of a baby.</p> <p class=\"paragraph\">  12.  Allergy challenge testing of a kind in which a positive result is a significant allergic response.</p> <p class=\"paragraph\">  13.<b>  </b>Treating, by means of psychotherapy technique delivered through a therapeutic relationship, an individual’s serious disorder of thought, cognition, mood, emotional regulation, perception or memory that may seriously impair the individual’s judgement, insight, behaviour, communication or social functioning. 1991, c. 30, s. 4; 2007, c. 10, Sched. R, s. 15.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedrs15\">2007, c. 10, Sched. R, s. 15</a></span> - 30/12/2017</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, the Act is amended by adding the following section: (See: 2021, c. 27, Sched. 3, s. 1)</span></p> <p class=\"Yheadnote\"><span>Physician assistants</span></p> <p class=\"Ysection\"><b><span>4.1 </span></b><span>(1) There shall be a class of members to be known as physician assistants. 2021, c. 27, Sched. 3, s. 1.</span></p> <p class=\"Yheadnote\"><span>Restriction</span></p> <p class=\"Ysubsection\"><span>(2) Subject to subsection (3), a reference in any other Act or regulation to a physician, a legally qualified medical practitioner, a member of the College or any similar expression does not include a physician assistant unless the other Act or regulation specifically provides that it does. 2021, c. 27, Sched. 3, s. 1.</span></p> <p class=\"Yheadnote\"><span>Exception</span></p> <p class=\"Ysubsection\"><span>(3) Despite subsection (2), a provision of the <i>Regulated Health Professions Act, 1991</i>, that applies with respect to a member of the College applies with respect to a physician assistant unless it provides otherwise, except in,</span></p> <p class=\"Yparagraph\"><span>  (a)  clause 33 (2) (c) of that Act; and</span></p> <p class=\"Yparagraph\"><span>  (b)  paragraph 3 of subsection 33.1 (1) of that Act. 2021, c. 27, Sched. 3, s. 1.</span></p> <p class=\"Yheadnote\"><span>Additional requirements for authorized acts by physician assistants</span></p> <p class=\"Ysubsection\"><span>(4) A member who is a physician assistant shall not perform an act under the authority of section 4 unless the performance of the act by the member is permitted by the regulations and the member performs the act in accordance with the regulations. 2021, c. 27, Sched. 3, s. 1.</span></p> <p class=\"Yheadnote\"><span>Grounds for misconduct</span></p> <p class=\"Ysubsection\"><span>(5) In addition to the grounds set out in subsection 51 (1) of the Health Professions Procedural Code, a panel of the Discipline Committee shall find that a member has committed an act of professional misconduct if the member contravenes subsection (4). 2021, c. 27, Sched. 3, s. 1.</span></p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S21027#sched3s1\">2021, c. 27, Sched. 3, s. 1</a></span> - not in force</p>"
+        },
+        {
+            "id": "5",
+            "section": "College continued",
+            "content": "5 The College is continued under the name College of Physicians and Surgeons of Ontario in English and Ordre des médecins et chirurgiens de l’Ontario in French.  1991, c. 30, s. 5.",
+            "raw_html": "<p class=\"section\"><b>5</b> The College is continued under the name College of Physicians and Surgeons of Ontario in English and Ordre des médecins et chirurgiens de l’Ontario in French.  1991, c. 30, s. 5.</p>"
+        },
+        {
+            "id": "5.1",
+            "section": "Non-traditional practice",
+            "content": "5.1 A member shall not be found guilty of professional misconduct or of incompetence under section 51 or 52 of the Health Professions Procedural Code solely on the basis that the member practises a therapy that is non-traditional or that departs from the prevailing medical practice unless there is evidence that proves that the therapy poses a greater risk to a patient’s health than the traditional or prevailing practice.  2000, c. 28, s. 1. Section Amendments with date in force (d/m/y) 2000, c. 28, s. 1\r\n- 21/12/2000",
+            "raw_html": "<p class=\"section\"><b>5.1 </b>A member shall not be found guilty of professional misconduct or of incompetence under section 51 or 52 of the Health Professions Procedural Code solely on the basis that the member practises a therapy that is non-traditional or that departs from the prevailing medical practice unless there is evidence that proves that the therapy poses a greater risk to a patient’s health than the traditional or prevailing practice.  2000, c. 28, s. 1.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S00028#s1\">2000, c. 28, s. 1</a></span>\r\n- 21/12/2000</p>"
+        },
+        {
+            "id": "6",
+            "section": "Council",
+            "content": "6 (1) The Council shall be composed of, (a)  at least 15 and no more than 16 persons who are members elected in accordance with the by-laws; (b)  at least thirteen and no more than fifteen persons appointed by the Lieutenant Governor in Council who are not, (i)  members, (ii)  members of a College as defined in the Regulated Health Professions Act, 1991, or (iii)  members of a Council as defined in the Regulated Health Professions Act, 1991; and (c)  three persons selected, in accordance with a by-law made under section 12.1, from among members who are members of a faculty of medicine of a university in Ontario.  1991, c. 30, s. 6 (1); 1998, c. 18, Sched. G, s. 35 (1, 2). Who can vote in elections (2) Subject to the by-laws, every member who practises or resides in Ontario and who is not in default of payment of the annual membership fee is entitled to vote in an election of members of the Council.  1991, c. 30, s. 6 (2); 1998, c. 18, Sched. G, s. 35 (3). Section Amendments with date in force (d/m/y) 1998, c. 18, Sched. G, s. 35 (1-3) - 01/02/1999",
+            "raw_html": "<p class=\"section\"><b>6 </b>(1) The Council shall be composed of,</p> <p class=\"paragraph\">  (a)  at least 15 and no more than 16 persons who are members elected in accordance with the by-laws;</p> <p class=\"paragraph\">  (b)  at least thirteen and no more than fifteen persons appointed by the Lieutenant Governor in Council who are not,</p> <p class=\"subclause\">  (i)  members,</p> <p class=\"subclause\">  (ii)  members of a College as defined in the <i>Regulated Health Professions Act, 1991</i>, or</p> <p class=\"subclause\">  (iii)  members of a Council as defined in the <i>Regulated Health Professions Act, 1991</i>; and</p> <p class=\"paragraph\">  (c)  three persons selected, in accordance with a by-law made under section 12.1, from among members who are members of a faculty of medicine of a university in Ontario.  1991, c. 30, s. 6 (1); 1998, c. 18, Sched. G, s. 35 (1, 2).</p> <p class=\"headnote\">Who can vote in elections</p> <p class=\"subsection\">(2) Subject to the by-laws, every member who practises or resides in Ontario and who is not in default of payment of the annual membership fee is entitled to vote in an election of members of the Council.  1991, c. 30, s. 6 (2); 1998, c. 18, Sched. G, s. 35 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 18, Sched. G, s. 35 (1-3) - 01/02/1999</p>"
+        },
+        {
+            "id": "7",
+            "section": "President and Vice-President",
+            "content": "7 The Council shall have a President and Vice-President who shall be elected annually by the Council from among the Council’s members.  1991, c. 30, s. 7. 8 Repealed:  2007, c. 10, Sched. G, s. 35. Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. G, s. 35 - 04/09/2007",
+            "raw_html": "<p class=\"section\"><b>7 </b>The Council shall have a President and Vice-President who shall be elected annually by the Council from among the Council’s members.  1991, c. 30, s. 7.</p> <p class=\"section\"><b>8 </b><span class=\"ovsmallcap\">Repealed</span>:  2007, c. 10, Sched. G, s. 35.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedgs35\">2007, c. 10, Sched. G, s. 35</a></span> - 04/09/2007</p>"
+        },
+        {
+            "id": "8",
+            "section": "President and Vice-President",
+            "content": "8 Repealed:  2007, c. 10, Sched. G, s. 35. Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. G, s. 35 - 04/09/2007",
+            "raw_html": "<p class=\"section\"><b>8 </b><span class=\"ovsmallcap\">Repealed</span>:  2007, c. 10, Sched. G, s. 35.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedgs35\">2007, c. 10, Sched. G, s. 35</a></span> - 04/09/2007</p>"
+        },
+        {
+            "id": "9",
+            "section": "Restricted titles",
+            "content": "9 (1) No person other than a member shall use the titles “osteopath”, “physician” or “surgeon”, a variation or abbreviation or an equivalent in another language.  1991, c. 30, s. 9 (1). Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 9 (1) of the Act is amended by striking out ““physician” or “surgeon”” and substituting ““physician”, “surgeon” or “physician assistant””. (See: 2021, c. 27, Sched. 3, s. 2 (1)) Dentists excepted (2) Subsection (1) does not apply to the use of the title “surgeon”, a variation or abbreviation or an equivalent in another language by a member of the Royal College of Dental Surgeons of Ontario.  1991, c. 30, s. 9 (2). Representations of qualification, etc. (3) No person other than a member shall hold himself or herself out as a person who is qualified to practise in Ontario as an osteopath, physician or surgeon or in a specialty of medicine.  1991, c. 30, s. 9 (3). Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 9 (3) of the Act is amended by striking out “physician or surgeon” and substituting “physician, surgeon or physician assistant”. (See: 2021, c. 27, Sched. 3, s. 2 (2)) Definition (4) In this section, “abbreviation” includes an abbreviation of a variation.  1991, c. 30, s. 9 (4). Section Amendments with date in force (d/m/y) 2021, c. 27, Sched. 3, s. 2 (1, 2) - not in force 10 Repealed: 2021, c. 25, Sched. 25, s. 19. Section Amendments with date in force (d/m/y) 2021, c. 25, Sched. 25, s. 19 - 03/06/2021",
+            "raw_html": "<p class=\"section\"><b>9 </b>(1) No person other than a member shall use the titles “osteopath”, “physician” or “surgeon”, a variation or abbreviation or an equivalent in another language.  1991, c. 30, s. 9 (1).</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 9 (1) of the Act is amended by striking out ““physician” or “surgeon”” and substituting ““physician”, “surgeon” or “physician assistant””. (See: 2021, c. 27, Sched. 3, s. 2 (1))</span></p> <p class=\"headnote\">Dentists excepted</p> <p class=\"subsection\">(2) Subsection (1) does not apply to the use of the title “surgeon”, a variation or abbreviation or an equivalent in another language by a member of the Royal College of Dental Surgeons of Ontario.  1991, c. 30, s. 9 (2).</p> <p class=\"headnote\">Representations of qualification, etc.</p> <p class=\"subsection\">(3) No person other than a member shall hold himself or herself out as a person who is qualified to practise in Ontario as an osteopath, physician or surgeon or in a specialty of medicine.  1991, c. 30, s. 9 (3).</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 9 (3) of the Act is amended by striking out “physician or surgeon” and substituting “physician, surgeon or physician assistant”. (See: 2021, c. 27, Sched. 3, s. 2 (2))</span></p> <p class=\"headnote\">Definition</p> <p class=\"subsection\">(4) In this section,</p> <p class=\"definition\">“abbreviation” includes an abbreviation of a variation.  1991, c. 30, s. 9 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S21027#sched3s2s1\">2021, c. 27, Sched. 3, s. 2 (1, 2)</a></span> - not in force</p> <p class=\"section\"><b>10</b><b> </b><span class=\"ovsmallcap\">Repealed</span>: 2021, c. 25, Sched. 25, s. 19.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/fr/lois/loi/S21025#sched25s19\">2021, c. 25, Sched. 25, s. 19</a></span> - 03/06/2021</p>"
+        },
+        {
+            "id": "10",
+            "section": "Definition",
+            "content": "10 Repealed: 2021, c. 25, Sched. 25, s. 19. Section Amendments with date in force (d/m/y) 2021, c. 25, Sched. 25, s. 19 - 03/06/2021",
+            "raw_html": "<p class=\"section\"><b>10</b><b> </b><span class=\"ovsmallcap\">Repealed</span>: 2021, c. 25, Sched. 25, s. 19.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/fr/lois/loi/S21025#sched25s19\">2021, c. 25, Sched. 25, s. 19</a></span> - 03/06/2021</p>"
+        },
+        {
+            "id": "11",
+            "section": "Offence",
+            "content": "11 Every person who contravenes subsection 9 (1) or (3) is guilty of an offence and on conviction is liable to a fine of not more than $25,000 for a first offence and not more than $50,000 for a second or subsequent offence.  2007, c. 10, Sched. B, s. 12 (1). Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. B, s. 12 (1) - 04/06/2007",
+            "raw_html": "<p class=\"section\"><b>11 </b>Every person who contravenes subsection 9 (1) or (3) is guilty of an offence and on conviction is liable to a fine of not more than $25,000 for a first offence and not more than $50,000 for a second or subsequent offence.  2007, c. 10, Sched. B, s. 12 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedbs12s1\">2007, c. 10, Sched. B, s. 12 (1)</a></span> - 04/06/2007</p>"
+        },
+        {
+            "id": "12",
+            "section": "Regulations",
+            "content": "12 Subject to the approval of the Lieutenant Governor in Council and with prior review by the Minister, the Council may make regulations, (a)  regulating and governing the prescribing, dispensing, compounding and selling of drugs by members in the course of engaging in the practice of medicine and ancillary matters, including establishing requirements and setting prohibitions; (b)  requiring members to keep records respecting the prescribing, dispensing, compounding and selling of drugs and providing for the contents of those records; (c)  requiring members to provide the College or the Minister with reports respecting the prescribing, dispensing, compounding and selling of drugs and providing for the contents of those reports.  2009, c. 26, s. 15. Note: On a day to be named by proclamation of the Lieutenant Governor, section 12 of the Act is amended by adding the following clause: (See: 2021, c. 27, Sched. 3, s. 3) (d)  governing the performance of acts by members who are physician assistants. Section Amendments with date in force (d/m/y) 1998, c. 18, Sched. G, s. 35 (4) - 01/02/1999 2009, c. 26, s. 15\r\n- 15/12/2009 2021, c. 27, Sched. 3, s. 3 - not in force",
+            "raw_html": "<p class=\"section\"><b>12 </b>Subject to the approval of the Lieutenant Governor in Council and with prior review by the Minister, the Council may make regulations,</p> <p class=\"paragraph\">  (a)  regulating and governing the prescribing, dispensing, compounding and selling of drugs by members in the course of engaging in the practice of medicine and ancillary matters, including establishing requirements and setting prohibitions;</p> <p class=\"paragraph\">  (b)  requiring members to keep records respecting the prescribing, dispensing, compounding and selling of drugs and providing for the contents of those records;</p> <p class=\"paragraph\">  (c)  requiring members to provide the College or the Minister with reports respecting the prescribing, dispensing, compounding and selling of drugs and providing for the contents of those reports.  2009, c. 26, s. 15.</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, section 12 of the Act is amended by adding the following clause: (See: 2021, c. 27, Sched. 3, s. 3)</span></p> <p class=\"Yparagraph\"><span>  (d)  governing the performance of acts by members who are physician assistants.</span></p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 18, Sched. G, s. 35 (4) - 01/02/1999</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09026#s15\">2009, c. 26, s. 15</a></span>\r\n- 15/12/2009</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S21027#sched3s3\">2021, c. 27, Sched. 3, s. 3</a></span> - not in force</p>"
+        },
+        {
+            "id": "12.1",
+            "section": "By-laws",
+            "content": "12.1 The Council may make by-laws respecting the qualifications, selection and terms of office of Council members who are selected.  1998, c. 18, Sched. G, s. 35 (4). Section Amendments with date in force (d/m/y) 1998, c. 18, Sched. G, s. 35 (4) - 01/02/1999",
+            "raw_html": "<p class=\"section\"><b>12.1 </b>The Council may make by-laws respecting the qualifications, selection and terms of office of Council members who are selected.  1998, c. 18, Sched. G, s. 35 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1998, c. 18, Sched. G, s. 35 (4) - 01/02/1999</p>"
+        },
+        {
+            "id": "12.2",
+            "section": "Minister regulations",
+            "content": "12.2 Subject to the approval of the Lieutenant Governor in Council, the Minister may make regulations exempting a person from subsection 9 (1) or (3) and setting conditions on such an exemption. 2023, c. 4, Sched. 2, s. 7. Section Amendments with date in force (d/m/y) 2023, c. 4, Sched. 2, s. 7 - 24/07/2023",
+            "raw_html": "<p class=\"section\"><b>12.2 </b>Subject to the approval of the Lieutenant Governor in Council, the Minister may make regulations exempting a person from subsection 9 (1) or (3) and setting conditions on such an exemption. 2023, c. 4, Sched. 2, s. 7.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23004#sched2s7\">2023, c. 4, Sched. 2, s. 7</a></span> - 24/07/2023</p>"
+        },
+        {
+            "id": "13",
+            "section": "Transitional",
+            "content": "13 A person who, on the day before this Act comes into force, held a licence issued under Part III of the Health Disciplines Act shall be deemed to be the holder of a certificate of registration issued under this Act subject to any term, condition or limitation to which the licence was subject.  1991, c. 30, s. 13. 14, 15 Repealed:  2007, c. 10, Sched. B, s. 12 (2). Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. B, s. 12 (2) - 04/06/2007 16 Omitted (provides for coming into force of provisions of this Act).  1991, c. 30, s. 16. 17 Omitted (enacts short title of this Act).  1991, c. 30, s. 17. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>13 </b>A person who, on the day before this Act comes into force, held a licence issued under Part III of the <i>Health Disciplines Act</i> shall be deemed to be the holder of a certificate of registration issued under this Act subject to any term, condition or limitation to which the licence was subject.  1991, c. 30, s. 13.</p> <p class=\"section\"><b>14, 15 </b><span class=\"ovsmallcap\">Repealed</span>:  2007, c. 10, Sched. B, s. 12 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedbs12s2\">2007, c. 10, Sched. B, s. 12 (2)</a></span> - 04/06/2007</p> <p class=\"section\"><b>16 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 30, s. 16.</p> <p class=\"section\"><b>17 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 30, s. 17.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91m30\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "14, 15",
+            "section": "Transitional",
+            "content": "14, 15 Repealed:  2007, c. 10, Sched. B, s. 12 (2). Section Amendments with date in force (d/m/y) 2007, c. 10, Sched. B, s. 12 (2) - 04/06/2007 16 Omitted (provides for coming into force of provisions of this Act).  1991, c. 30, s. 16. 17 Omitted (enacts short title of this Act).  1991, c. 30, s. 17. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>14, 15 </b><span class=\"ovsmallcap\">Repealed</span>:  2007, c. 10, Sched. B, s. 12 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S07010#schedbs12s2\">2007, c. 10, Sched. B, s. 12 (2)</a></span> - 04/06/2007</p> <p class=\"section\"><b>16 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 30, s. 16.</p> <p class=\"section\"><b>17 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 30, s. 17.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91m30\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "16",
+            "section": "Transitional",
+            "content": "16 Omitted (provides for coming into force of provisions of this Act).  1991, c. 30, s. 16. 17 Omitted (enacts short title of this Act).  1991, c. 30, s. 17. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>16 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 30, s. 16.</p> <p class=\"section\"><b>17 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 30, s. 17.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91m30\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "17",
+            "section": "Transitional",
+            "content": "17 Omitted (enacts short title of this Act).  1991, c. 30, s. 17. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>17 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 30, s. 17.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91m30\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

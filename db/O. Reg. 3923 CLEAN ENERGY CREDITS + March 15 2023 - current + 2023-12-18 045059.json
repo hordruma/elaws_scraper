@@ -1,0 +1,63 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 39/23: CLEAN ENERGY CREDITS",
+        "reg_name_text": "CLEAN ENERGY CREDITS",
+        "citation": "O. Reg. 39/23: ",
+        "act_under": "Electricity Act, 1998",
+        "url": "https://www.ontario.ca/laws/regulation/230039",
+        "date_scraped": "2023-12-18 04:51:00"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "March 15, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/230039/v1",
+            "valid_from": "March 13, 2023",
+            "valid_to": "March 14, 2023"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Environmental attributes",
+            "content": "  1. The following energy sources are specified for the purposes of the definition of “environmental attributes” in section 25.11 of the Act: 1.  Biofuel. 2.  Biogas. 3.  Biomass. 4.  Hydro. 5.  Nuclear. 6.  Solar. 7.  Wind.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>The following energy sources are specified for the purposes of the definition of “environmental attributes” in section 25.11 of the Act:</p> <p class=\"paragraph-e\">  1.  Biofuel.</p> <p class=\"paragraph-e\">  2.  Biogas.</p> <p class=\"paragraph-e\">  3.  Biomass.</p> <p class=\"paragraph-e\">  4.  Hydro.</p> <p class=\"paragraph-e\">  5.  Nuclear.</p> <p class=\"paragraph-e\">  6.  Solar.</p> <p class=\"paragraph-e\">  7.  Wind.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Requirements to make environmental attributes available for transfer",
+            "content": " 2. (1) The IESO shall, in every year, make available for transfer the environmental attributes owned by it that are associated with at least one megawatt-hour of electricity generated from one or more of the energy sources listed in section 1. (2) Ontario Power Generation Inc. shall, in every year, make available for transfer the environmental attributes owned by it that are associated with at least one megawatt-hour of electricity generated from one or more of the energy sources listed in section 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) The IESO shall, in every year, make available for transfer the environmental attributes owned by it that are associated with at least one megawatt-hour of electricity generated from one or more of the energy sources listed in section 1.</p> <p class=\"subsection-e\">  (2) Ontario Power Generation Inc. shall, in every year, make available for transfer the environmental attributes owned by it that are associated with at least one megawatt-hour of electricity generated from one or more of the energy sources listed in section 1.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Restrictions on transfer",
+            "content": " 3. (1) For the purposes of subclause 25.16 (1) (b) (i) of the Act, the environmental attributes must have been generated in the calendar year to which the applicable transfer deadline applies. (2) In subsection (1), the applicable transfer deadline is the applicable time specified by the registry rules under subsection 25.16 (2) of the Act. (3) For the purposes of subclause 25.16 (1) (b) (iii) of the Act, the electricity must have been consumed in the same calendar year in which the environmental attributes were generated. (4) For the purposes of subclause 25.16 (1) (b) (v) of the Act, a transferor shall not transfer environmental attributes associated with electricity that was generated from a generation facility that was not connected to the IESO-controlled grid or to a distributor’s distribution system.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) For the purposes of subclause 25.16 (1) (b) (i) of the Act, the environmental attributes must have been generated in the calendar year to which the applicable transfer deadline applies.</p> <p class=\"subsection-e\">  (2) In subsection (1), the applicable transfer deadline is the applicable time specified by the registry rules under subsection 25.16 (2) of the Act.</p> <p class=\"subsection-e\">  (3) For the purposes of subclause 25.16 (1) (b) (iii) of the Act, the electricity must have been consumed in the same calendar year in which the environmental attributes were generated.</p> <p class=\"subsection-e\">  (4) For the purposes of subclause 25.16 (1) (b) (v) of the Act, a transferor shall not transfer environmental attributes associated with electricity that was generated from a generation facility that was not connected to the IESO-controlled grid or to a distributor’s distribution system.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Transition, application to previously-generated environmental attributes",
+            "content": " 4. Part II.1 of the Act applies with respect to the transfer of environmental attributes generated on or after January 1, 2023 and before the day this Regulation came into force.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>Part II.1 of the Act applies with respect to the transfer of environmental attributes generated on or after January 1, 2023 and before the day this Regulation came into force.</p>"
+        },
+        {
+            "id": "5",
+            "section": "Transition, application to previously-generated environmental attributes",
+            "content": " 5. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>5</b>. <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation)</span>.</p>"
+        },
+        {
+            "id": null,
+            "section": "Transition, application to previously-generated environmental attributes",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/230039\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

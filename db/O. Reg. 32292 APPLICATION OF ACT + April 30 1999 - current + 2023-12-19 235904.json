@@ -1,0 +1,40 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 322/92: APPLICATION OF ACT",
+        "reg_name_text": "APPLICATION OF ACT",
+        "citation": "O. Reg. 322/92: ",
+        "act_under": "Reciprocal Enforcement of Judgments Act",
+        "url": "https://www.ontario.ca/laws/regulation/920322",
+        "date_scraped": "2023-12-19 23:59:04"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "April 30, 1999",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": " 1. The Act applies to the following provinces and territories of Canada: Alberta British Columbia Manitoba New Brunswick Newfoundland Northwest Territories Nova Scotia Nunavut Prince Edward Island Saskatchewan Yukon Territory O. Reg. 322/92, s. 1; O. Reg. 298/99, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The Act applies to the following provinces and territories of Canada:</p> <p class=\"parawindt-e\">  Alberta</p> <p class=\"parawindt-e\">  British Columbia</p> <p class=\"parawindt-e\">  Manitoba</p> <p class=\"parawindt-e\">  New Brunswick</p> <p class=\"parawindt-e\">  Newfoundland</p> <p class=\"parawindt-e\">  Northwest Territories</p> <p class=\"parawindt-e\">  Nova Scotia</p> <p class=\"parawindt-e\">  Nunavut</p> <p class=\"parawindt-e\">  Prince Edward Island</p> <p class=\"parawindt-e\">  Saskatchewan</p> <p class=\"parawindt-e\">  Yukon Territory</p> <p class=\"footnote-e\">O. Reg. 322/92, s. 1; O. Reg. 298/99, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": " 2. Omitted (revokes other Regulations).  O. Reg. 322/92, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">revokes other Regulations</span>).  O. Reg. 322/92, s. 2.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/920322\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

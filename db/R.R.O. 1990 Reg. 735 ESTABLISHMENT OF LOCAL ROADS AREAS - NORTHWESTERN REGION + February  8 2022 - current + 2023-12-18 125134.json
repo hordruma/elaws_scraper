@@ -1,0 +1,959 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 735: ESTABLISHMENT OF LOCAL ROADS AREAS - NORTHWESTERN REGION",
+        "reg_name_text": "ESTABLISHMENT OF LOCAL ROADS AREAS — NORTHWESTERN REGION",
+        "citation": "R.R.O. 1990, Reg. 735: ESTABLISHMENT OF LOCAL ROADS AREAS - NORTHWESTERN REGION",
+        "act_under": "Local Roads Boards Act",
+        "url": "https://www.ontario.ca/laws/regulation/900735",
+        "date_scraped": "2023-12-18 12:51:38"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "February  8, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v19",
+            "valid_from": "March 12, 2021",
+            "valid_to": "February  7, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v18",
+            "valid_from": "March  8, 2019",
+            "valid_to": "March 11, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v17",
+            "valid_from": "April 13, 2017",
+            "valid_to": "March  7, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v16",
+            "valid_from": "December 23, 2015",
+            "valid_to": "April 12, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v15",
+            "valid_from": "July 31, 2015",
+            "valid_to": "December 22, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v14",
+            "valid_from": "July  9, 2015",
+            "valid_to": "July 30, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v13",
+            "valid_from": "May 11, 2015",
+            "valid_to": "July  8, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v12",
+            "valid_from": "November 19, 2014",
+            "valid_to": "May 10, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v11",
+            "valid_from": "July 18, 2013",
+            "valid_to": "November  8, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v10",
+            "valid_from": "June 15, 2012",
+            "valid_to": "July 17, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v9",
+            "valid_from": "August 29, 2011",
+            "valid_to": "June 14, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v8",
+            "valid_from": "March 12, 2010",
+            "valid_to": "August 28, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v7",
+            "valid_from": "April  5, 2007",
+            "valid_to": "March 11, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v6",
+            "valid_from": "November 14, 2006",
+            "valid_to": "April  4, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v5",
+            "valid_from": "October 10, 2006",
+            "valid_to": "November 13, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v4",
+            "valid_from": "July  8, 2005",
+            "valid_to": "October  9, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v3",
+            "valid_from": "March  8, 2005",
+            "valid_to": "July  7, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v2",
+            "valid_from": "May  7, 2004",
+            "valid_to": "March  7, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900735/v1",
+            "valid_from": "May 31, 2001",
+            "valid_to": "May  6, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "Schedule 1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Inglis Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "Schedule 2",
+            "part_id": null,
+            "part_type": null,
+            "section": "Dance local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "Schedule 3",
+            "part_id": null,
+            "part_type": null,
+            "section": "Ware local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Schedule 4",
+            "part_id": null,
+            "part_type": null,
+            "section": "Cousineau local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "Schedule 5",
+            "part_id": null,
+            "part_type": null,
+            "section": "Crescent Point local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "Schedule 6",
+            "part_id": null,
+            "part_type": null,
+            "section": "Inwood local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "Schedule 7",
+            "part_id": null,
+            "part_type": null,
+            "section": "Upsala local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "Schedule 8",
+            "part_id": null,
+            "part_type": null,
+            "section": "Sibley local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "Schedule 9",
+            "part_id": null,
+            "part_type": null,
+            "section": "Red Pine Ridge local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "Schedule 10",
+            "part_id": null,
+            "part_type": null,
+            "section": "Jacques local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "Schedule 11",
+            "part_id": null,
+            "part_type": null,
+            "section": "Fowler local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "Schedule 12",
+            "part_id": null,
+            "part_type": null,
+            "section": "Lyon local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "Schedule 15",
+            "part_id": null,
+            "part_type": null,
+            "section": "Gorham local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "Schedule 16",
+            "part_id": null,
+            "part_type": null,
+            "section": "Stirling local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "Schedule 19",
+            "part_id": null,
+            "part_type": null,
+            "section": "Portage Bay local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "Schedule 20",
+            "part_id": null,
+            "part_type": null,
+            "section": "Rush Bay — Woodchuck Bay local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "Schedule 21",
+            "part_id": null,
+            "part_type": null,
+            "section": "Ena Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "Schedule 22",
+            "part_id": null,
+            "part_type": null,
+            "section": "Kabaigon Bay local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "Schedule 28",
+            "part_id": null,
+            "part_type": null,
+            "section": "Forbes local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "Schedule 29",
+            "part_id": null,
+            "part_type": null,
+            "section": "Pine Ridge local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "Schedule 30",
+            "part_id": null,
+            "part_type": null,
+            "section": "Lybster local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "Schedule 32",
+            "part_id": null,
+            "part_type": null,
+            "section": "Reef Point local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "Schedule 33",
+            "part_id": null,
+            "part_type": null,
+            "section": "Shebandowan village local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "Schedule 34",
+            "part_id": null,
+            "part_type": null,
+            "section": "Rossmere Bay local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "Schedule 35",
+            "part_id": null,
+            "part_type": null,
+            "section": "Kenricia local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "Schedule 36",
+            "part_id": null,
+            "part_type": null,
+            "section": "Marks local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "Schedule 37",
+            "part_id": null,
+            "part_type": null,
+            "section": "Blindfold Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "Schedule 38",
+            "part_id": null,
+            "part_type": null,
+            "section": "Hardwick local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "Schedule 39",
+            "part_id": null,
+            "part_type": null,
+            "section": "Kendall Inlet local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "Schedule 40",
+            "part_id": null,
+            "part_type": null,
+            "section": "Armstrong local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "Schedule 42",
+            "part_id": null,
+            "part_type": null,
+            "section": "Beaver Bay local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "Schedule 44",
+            "part_id": null,
+            "part_type": null,
+            "section": "Strange local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "Schedule 45",
+            "part_id": null,
+            "part_type": null,
+            "section": "Sherwood Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "Schedule 46",
+            "part_id": null,
+            "part_type": null,
+            "section": "Marion Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "Schedule 48",
+            "part_id": null,
+            "part_type": null,
+            "section": "Dawson Road — Goldie local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "Schedule 50",
+            "part_id": null,
+            "part_type": null,
+            "section": "Sunny Slopes local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "Schedule 51",
+            "part_id": null,
+            "part_type": null,
+            "section": "Rossport local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "Schedule 53",
+            "part_id": null,
+            "part_type": null,
+            "section": "Savant Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "Schedule 55",
+            "part_id": null,
+            "part_type": null,
+            "section": "Polly Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "Schedule 56",
+            "part_id": null,
+            "part_type": null,
+            "section": "Britton local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "Schedule 57",
+            "part_id": null,
+            "part_type": null,
+            "section": "McCullum Point local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "Schedule 59",
+            "part_id": null,
+            "part_type": null,
+            "section": "Redditt local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "Schedule 61",
+            "part_id": null,
+            "part_type": null,
+            "section": "Minaki local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "Schedule 62",
+            "part_id": null,
+            "part_type": null,
+            "section": "Van Horne local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "Schedule 64",
+            "part_id": null,
+            "part_type": null,
+            "section": "Wabigoon and Redvers west local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "Schedule 66",
+            "part_id": null,
+            "part_type": null,
+            "section": "Nelles local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "Schedule 67",
+            "part_id": null,
+            "part_type": null,
+            "section": "Pratt local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "Schedule 68",
+            "part_id": null,
+            "part_type": null,
+            "section": "Sutherland local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "Schedule 70",
+            "part_id": null,
+            "part_type": null,
+            "section": "Zealand no. 1 local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "Schedule 71",
+            "part_id": null,
+            "part_type": null,
+            "section": "Miscampbell local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "Schedule 72",
+            "part_id": null,
+            "part_type": null,
+            "section": "Clearwater Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "Schedule 73",
+            "part_id": null,
+            "part_type": null,
+            "section": "Fire Hill local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "Schedule 74",
+            "part_id": null,
+            "part_type": null,
+            "section": "Whitesand Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "Schedule 75",
+            "part_id": null,
+            "part_type": null,
+            "section": "Sunset Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK54",
+            "TOCid": "Schedule 76",
+            "part_id": null,
+            "part_type": null,
+            "section": "Mcintosh local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK55",
+            "TOCid": "Schedule 77",
+            "part_id": null,
+            "part_type": null,
+            "section": "Rowell local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK56",
+            "TOCid": "Schedule 78",
+            "part_id": null,
+            "part_type": null,
+            "section": "Wainwright local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK57",
+            "TOCid": "Schedule 82",
+            "part_id": null,
+            "part_type": null,
+            "section": "Mabella local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK58",
+            "TOCid": "Schedule 83",
+            "part_id": null,
+            "part_type": null,
+            "section": "Munro Point local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK59",
+            "TOCid": "Schedule 84",
+            "part_id": null,
+            "part_type": null,
+            "section": "Eton local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK60",
+            "TOCid": "Schedule 85",
+            "part_id": null,
+            "part_type": null,
+            "section": "Zealand no. 3 local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK61",
+            "TOCid": "Schedule 86",
+            "part_id": null,
+            "part_type": null,
+            "section": "Hicks Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK62",
+            "TOCid": "Schedule 87",
+            "part_id": null,
+            "part_type": null,
+            "section": "Mutrie local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK63",
+            "TOCid": "Schedule 92",
+            "part_id": null,
+            "part_type": null,
+            "section": "Tannis Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK64",
+            "TOCid": "Schedule 95",
+            "part_id": null,
+            "part_type": null,
+            "section": "Storm Bay local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK65",
+            "TOCid": "Schedule 96",
+            "part_id": null,
+            "part_type": null,
+            "section": "Mine Centre local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK66",
+            "TOCid": "Schedule 97",
+            "part_id": null,
+            "part_type": null,
+            "section": "Perch Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK67",
+            "TOCid": "Schedule 99",
+            "part_id": null,
+            "part_type": null,
+            "section": "Bigstone Bay local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK68",
+            "TOCid": "Schedule 100",
+            "part_id": null,
+            "part_type": null,
+            "section": "Melgund local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK69",
+            "TOCid": "Schedule 101",
+            "part_id": null,
+            "part_type": null,
+            "section": "Southworth local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK70",
+            "TOCid": "Schedule 102",
+            "part_id": null,
+            "part_type": null,
+            "section": "Wabigoon Southeast local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK71",
+            "TOCid": "Schedule 108",
+            "part_id": null,
+            "part_type": null,
+            "section": "Mckenzie Portage local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK72",
+            "TOCid": "Schedule 110",
+            "part_id": null,
+            "part_type": null,
+            "section": "War Eagle local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK73",
+            "TOCid": "Schedule 112",
+            "part_id": null,
+            "part_type": null,
+            "section": "Devon local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK74",
+            "TOCid": "Schedule 113",
+            "part_id": null,
+            "part_type": null,
+            "section": "Pickerel Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK75",
+            "TOCid": "Schedule 114",
+            "part_id": null,
+            "part_type": null,
+            "section": "Rugby local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK76",
+            "TOCid": "Schedule 115",
+            "part_id": null,
+            "part_type": null,
+            "section": "Pearson Landing local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK77",
+            "TOCid": "Schedule 117",
+            "part_id": null,
+            "part_type": null,
+            "section": "Laclu local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK78",
+            "TOCid": "Schedule 118",
+            "part_id": null,
+            "part_type": null,
+            "section": "Spruce Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK79",
+            "TOCid": "Schedule 119",
+            "part_id": null,
+            "part_type": null,
+            "section": "Pellatt no. 2 local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK80",
+            "TOCid": "Schedule 120",
+            "part_id": null,
+            "part_type": null,
+            "section": "Mcconnell Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK81",
+            "TOCid": "Schedule 122",
+            "part_id": null,
+            "part_type": null,
+            "section": "Bear Passage local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK82",
+            "TOCid": "Schedule 123",
+            "part_id": null,
+            "part_type": null,
+            "section": "Ghost Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK83",
+            "TOCid": "Schedule 124",
+            "part_id": null,
+            "part_type": null,
+            "section": "Spohn local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK84",
+            "TOCid": "Schedule 125",
+            "part_id": null,
+            "part_type": null,
+            "section": "Aubrey local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK85",
+            "TOCid": "Schedule 128",
+            "part_id": null,
+            "part_type": null,
+            "section": "Nickel Lake Shores local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK86",
+            "TOCid": "Schedule 129",
+            "part_id": null,
+            "part_type": null,
+            "section": "South Watten local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK87",
+            "TOCid": "Schedule 132",
+            "part_id": null,
+            "part_type": null,
+            "section": "Ingolf local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK88",
+            "TOCid": "Schedule 133",
+            "part_id": null,
+            "part_type": null,
+            "section": "Kingsford local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK89",
+            "TOCid": "Schedule 134",
+            "part_id": null,
+            "part_type": null,
+            "section": "Obonga Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK90",
+            "TOCid": "Schedule 135",
+            "part_id": null,
+            "part_type": null,
+            "section": "Gordon Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK91",
+            "TOCid": "Schedule 136",
+            "part_id": null,
+            "part_type": null,
+            "section": "Mountain Bay local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK92",
+            "TOCid": "Schedule 137",
+            "part_id": null,
+            "part_type": null,
+            "section": "Northern Light Lake local roads area",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

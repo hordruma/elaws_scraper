@@ -1,0 +1,854 @@
+{
+    "act_info": {
+        "full_title": "Private Security and Investigative Services Act, 2005, S.O. 2005, c. 34 ",
+        "act_name_text": "Private Security and Investigative Services Act, 2005",
+        "citation": "S.O. 2005, c. 34 ",
+        "url": "https://www.ontario.ca/laws/statute/05p34",
+        "date_scraped": "2023-12-18 22:51:39"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July  1, 2019",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/05p34/v10",
+            "valid_from": "May 29, 2019",
+            "valid_to": "June 30, 2019"
+        },
+        {
+            "a_href": "/laws/statute/05p34/v9",
+            "valid_from": "March 26, 2019",
+            "valid_to": "May 28, 2019"
+        },
+        {
+            "a_href": "/laws/statute/05p34/v8",
+            "valid_from": "November  1, 2018",
+            "valid_to": "March 25, 2019"
+        },
+        {
+            "a_href": "/laws/statute/05p34/v7",
+            "valid_from": "March  8, 2018",
+            "valid_to": "October 31, 2018"
+        },
+        {
+            "a_href": "/laws/statute/05p34/v6",
+            "valid_from": "December  3, 2015",
+            "valid_to": "March  7, 2018"
+        },
+        {
+            "a_href": "/laws/statute/05p34/v5",
+            "valid_from": "December 15, 2009",
+            "valid_to": "December  2, 2015"
+        },
+        {
+            "a_href": "/laws/statute/05p34/v4",
+            "valid_from": "August 23, 2007",
+            "valid_to": "December 14, 2009"
+        },
+        {
+            "a_href": "/laws/statute/05p34/v3",
+            "valid_from": "October 19, 2006",
+            "valid_to": "August 22, 2007"
+        },
+        {
+            "a_href": "/laws/statute/05p34/v2",
+            "valid_from": "June 22, 2006",
+            "valid_to": "October 18, 2006"
+        },
+        {
+            "a_href": "/laws/statute/05p34/v1",
+            "valid_from": "December 15, 2005",
+            "valid_to": "June 21, 2006"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/100026",
+            "Citation": "O. Reg. 26/10",
+            "title": "TRAINING AND TESTING"
+        },
+        {
+            "a_href": "/laws/regulation/080037",
+            "Citation": "O. Reg. 37/08",
+            "title": "ELIGIBILITY TO HOLD A LICENCE - CLEAN CRIMINAL RECORD"
+        },
+        {
+            "a_href": "/laws/regulation/070462",
+            "Citation": "O. Reg. 462/07",
+            "title": "INSURANCE"
+        },
+        {
+            "a_href": "/laws/regulation/070435",
+            "Citation": "O. Reg. 435/07",
+            "title": "EXEMPTIONS FROM THE ACT"
+        },
+        {
+            "a_href": "/laws/regulation/070434",
+            "Citation": "O. Reg. 434/07",
+            "title": "RECORDKEEPING REQUIREMENTS FOR LICENSED BUSINESS ENTITIES"
+        },
+        {
+            "a_href": "/laws/regulation/070368",
+            "Citation": "O. Reg. 368/07",
+            "title": "REGISTRATION REQUIREMENTS FOR BUSINESS ENTITIES"
+        },
+        {
+            "a_href": "/laws/regulation/070367",
+            "Citation": "O. Reg. 367/07",
+            "title": "TERM OF LICENCES"
+        },
+        {
+            "a_href": "/laws/regulation/070366",
+            "Citation": "O. Reg. 366/07",
+            "title": "EQUIPMENT"
+        },
+        {
+            "a_href": "/laws/regulation/070365",
+            "Citation": "O. Reg. 365/07",
+            "title": "USE OF ANIMALS"
+        },
+        {
+            "a_href": "/laws/regulation/070364",
+            "Citation": "O. Reg. 364/07",
+            "title": "VEHICLES"
+        },
+        {
+            "a_href": "/laws/regulation/070363",
+            "Citation": "O. Reg. 363/07",
+            "title": "CODE OF CONDUCT"
+        },
+        {
+            "a_href": "/laws/regulation/070362",
+            "Citation": "O. Reg. 362/07",
+            "title": "UNIFORMS"
+        },
+        {
+            "a_href": "/laws/regulation/070361",
+            "Citation": "O. Reg. 361/07",
+            "title": "INFORMATION TO BE PROVIDED TO THE REGISTRAR"
+        }
+    ],
+    "revoked_regs": null,
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I  ",
+            "section_x": "PART I INTERPRETATION AND APPLICATION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION AND APPLICATION",
+            "section_y": "Definitions",
+            "content": "1 In this Act, “business entity” includes a corporation, partnership or sole proprietorship; (“entreprise”) “employee” includes a person, whether or not employed under a contract of employment, who performs work or services for another person for remuneration on such conditions that he or she is in a position of economic dependence upon, and under an obligation to perform duties for, that person more closely resembling the relationship of an employee than that of an independent contractor; (“employé”) “licensee” means an individual or business entity that holds a licence under this Act, and “licensed” has a corresponding meaning; (“titulaire de permis”) “Minister” means the member of the Executive Council to whom the administration of this Act is assigned under the Executive Council Act; (“ministre”) “prescribed” means prescribed by the regulations; (“prescrit”) “provincial offence” means an offence under an Act of the Legislature or under a regulation made under the authority of an Act of the Legislature; (“infraction provinciale”) “Registrar” means the Registrar of Private Investigators and Security Guards appointed under section 3; (“registrateur”) “Tribunal” means the Licence Appeal Tribunal established under the Licence Appeal Tribunal Act, 1999. (“Tribunal”)  2005, c. 34, s. 1.",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>1 </b>In this Act,</p> <p class=\"definition\">“business entity” includes a corporation, partnership or sole proprietorship; (“entreprise”)</p> <p class=\"definition\">“employee” includes a person, whether or not employed under a contract of employment, who performs work or services for another person for remuneration on such conditions that he or she is in a position of economic dependence upon, and under an obligation to perform duties for, that person more closely resembling the relationship of an employee than that of an independent contractor; (“employé”)</p> <p class=\"definition\">“licensee” means an individual or business entity that holds a licence under this Act, and “licensed” has a corresponding meaning; (“titulaire de permis”)</p> <p class=\"definition\">“Minister” means the member of the Executive Council to whom the administration of this Act is assigned under the <i>Executive Council Act</i>; (“ministre”)</p> <p class=\"definition\">“prescribed” means prescribed by the regulations; (“prescrit”)</p> <p class=\"definition\">“provincial offence” means an offence under an Act of the Legislature or under a regulation made under the authority of an Act of the Legislature; (“infraction provinciale”)</p> <p class=\"definition\">“Registrar” means the Registrar of Private Investigators and Security Guards appointed under section 3; (“registrateur”)</p> <p class=\"definition\">“Tribunal” means the Licence Appeal Tribunal established under the <i>Licence Appeal Tribunal Act, 1999</i>. (“Tribunal”)  2005, c. 34, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "2.",
+            "section_x": "Application",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION AND APPLICATION",
+            "section_y": "Application",
+            "content": "2 (1) This Act applies to private investigators within the meaning of subsection (2) and to security guards within the meaning of subsection (4).  2005, c. 34, s. 2 (1). Private investigators (2) A private investigator is a person who performs work, for remuneration, that consists primarily of conducting investigations in order to provide information.  2005, c. 34, s. 2 (2). Same (3) Examples of the types of information referred to in subsection (2) include information on, (a) the character or actions of a person; (b) the business or occupation of a person; and (c) the whereabouts of persons or property.  2005, c. 34, s. 2 (3). Security guards (4) A security guard is a person who performs work, for remuneration, that consists primarily of guarding or patrolling for the purpose of protecting persons or property.  2005, c. 34, s. 2 (4). Same (5) Examples of the types of work referred to in subsection (4) include, (a) acting as a bouncer; (b) acting as a bodyguard; and (c) performing services to prevent the loss of property through theft or sabotage in an industrial, commercial, residential or retail environment.  2005, c. 34, s. 2 (5). Soliciting or procuring services (6) A person who performs work, for remuneration, that consists primarily of acting for or aiding others in soliciting or procuring the services of a private investigator or security guard shall be deemed to be in the business of selling private investigator or security guard services.  2005, c. 34, s. 2 (6). Non-application (7) This Act does not apply to, (a) barristers or solicitors engaged in the practice of their profession; (b) persons who perform work, for remuneration, that consists primarily of searching for and providing information on, (i) the financial credit rating of persons, (ii) the qualifications and suitability of applicants for insurance and indemnity bonds, or (iii) the qualifications and suitability of persons as employees or prospective employees; (c) a person who is acting as a peace officer; (d) insurance adjusters licensed under the Insurance Act while acting in that capacity, and their employees while acting in the usual and regular scope of their employment; (e) insurance companies licensed under the Insurance Act and their employees while acting in the usual and regular scope of their employment; (f) persons residing outside Ontario who are licensed employees of a private investigation agency licensed or registered in a jurisdiction outside Ontario, but elsewhere in Canada who, (i) on behalf of a person situated outside Ontario, make an investigation or inquiry partly outside Ontario and partly within Ontario, and (ii) come into Ontario solely for the purpose of such investigation or inquiry; (g) persons who receive remuneration for work that consists primarily of providing advice with respect to security requirements but who are not soliciting or procuring the services of private investigators or security guards for the purposes of subsection (6); (h) persons who receive remuneration for work that consists primarily of providing an armoured vehicle service; (i) locksmiths; and (j) any class of persons exempted by the regulations.  2005, c. 34, s. 2 (7). Remunerative work (8) In subsections (2), (4), (6) and (7), a reference to performing work for remuneration includes performing work pursuant to an agreement that provides that the remuneration paid is contingent, in whole or in part, on the completion of the work.  2005, c. 34, s. 2 (8). “Peace officer” (9) For the purposes of clause (7) (c), “peace officer” means a person or a member of a class of persons set out in the definition of “peace officer” in section 2 of the Criminal Code (Canada).  2005, c. 34, s. 2 (9). PArt II   administration Registrar",
+            "raw_html": "<p class=\"section\"><a name=\"BK2\"></a><b>2 </b>(1) This Act applies to private investigators within the meaning of subsection (2) and to security guards within the meaning of subsection (4).  2005, c. 34, s. 2 (1).</p> <p class=\"headnote\">Private investigators</p> <p class=\"subsection\">(2) A private investigator is a person who performs work, for remuneration, that consists primarily of conducting investigations in order to provide information.  2005, c. 34, s. 2 (2).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3) Examples of the types of information referred to in subsection (2) include information on,</p> <p class=\"paragraph\">  (a) the character or actions of a person;</p> <p class=\"paragraph\">  (b) the business or occupation of a person; and</p> <p class=\"paragraph\">  (c) the whereabouts of persons or property.  2005, c. 34, s. 2 (3).</p> <p class=\"headnote\">Security guards</p> <p class=\"subsection\">(4) A security guard is a person who performs work, for remuneration, that consists primarily of guarding or patrolling for the purpose of protecting persons or property.  2005, c. 34, s. 2 (4).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(5) Examples of the types of work referred to in subsection (4) include,</p> <p class=\"paragraph\">  (a) acting as a bouncer;</p> <p class=\"paragraph\">  (b) acting as a bodyguard; and</p> <p class=\"paragraph\">  (c) performing services to prevent the loss of property through theft or sabotage in an industrial, commercial, residential or retail environment.  2005, c. 34, s. 2 (5).</p> <p class=\"headnote\">Soliciting or procuring services</p> <p class=\"subsection\">(6) A person who performs work, for remuneration, that consists primarily of acting for or aiding others in soliciting or procuring the services of a private investigator or security guard shall be deemed to be in the business of selling private investigator or security guard services.  2005, c. 34, s. 2 (6).</p> <p class=\"headnote\">Non-application</p> <p class=\"subsection\">(7) This Act does not apply to,</p> <p class=\"paragraph\">  (a) barristers or solicitors engaged in the practice of their profession;</p> <p class=\"paragraph\">  (b) persons who perform work, for remuneration, that consists primarily of searching for and providing information on,</p> <p class=\"subclause\">  (i) the financial credit rating of persons,</p> <p class=\"subclause\">  (ii) the qualifications and suitability of applicants for insurance and indemnity bonds, or</p> <p class=\"subclause\">  (iii) the qualifications and suitability of persons as employees or prospective employees;</p> <p class=\"paragraph\">  (c) a person who is acting as a peace officer;</p> <p class=\"paragraph\">  (d) insurance adjusters licensed under the <i>Insurance Act</i> while acting in that capacity, and their employees while acting in the usual and regular scope of their employment;</p> <p class=\"paragraph\">  (e) insurance companies licensed under the <i>Insurance Act</i> and their employees while acting in the usual and regular scope of their employment;</p> <p class=\"paragraph\">  (f) persons residing outside Ontario who are licensed employees of a private investigation agency licensed or registered in a jurisdiction outside Ontario, but elsewhere in Canada who,</p> <p class=\"subclause\">  (i) on behalf of a person situated outside Ontario, make an investigation or inquiry partly outside Ontario and partly within Ontario, and</p> <p class=\"subclause\">  (ii) come into Ontario solely for the purpose of such investigation or inquiry;</p> <p class=\"paragraph\">  (g) persons who receive remuneration for work that consists primarily of providing advice with respect to security requirements but who are not soliciting or procuring the services of private investigators or security guards for the purposes of subsection (6);</p> <p class=\"paragraph\">  (h) persons who receive remuneration for work that consists primarily of providing an armoured vehicle service;</p> <p class=\"paragraph\">  (i) locksmiths; and</p> <p class=\"paragraph\">  (j) any class of persons exempted by the regulations.  2005, c. 34, s. 2 (7).</p> <p class=\"headnote\">Remunerative work</p> <p class=\"subsection\">(8) In subsections (2), (4), (6) and (7), a reference to performing work for remuneration includes performing work pursuant to an agreement that provides that the remuneration paid is contingent, in whole or in part, on the completion of the work.  2005, c. 34, s. 2 (8).</p> <p class=\"headnote\">“Peace officer”</p> <p class=\"subsection\">(9) For the purposes of clause (7) (c),</p> <p class=\"definition\">“peace officer” means a person or a member of a class of persons set out in the definition of “peace officer” in section 2 of the <i>Criminal Code</i> (Canada).  2005, c. 34, s. 2 (9).</p> <p class=\"partnum\"><a name=\"BK3\"></a>PArt II <br/>  administration</p> <p class=\"heading1\"><a name=\"BK4\"></a>Registrar</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "PART II  ",
+            "section_x": "PART II ADMINISTRATION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "Registrar",
+            "section_x": "Registrar",
+            "part_id": "PART II  ",
+            "part_type": "PART II ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "3.",
+            "section_x": "Registrar",
+            "part_id": "PART II  ",
+            "part_type": "PART II ADMINISTRATION",
+            "section_y": "Registrar",
+            "content": "3 (1) The Lieutenant Governor in Council shall appoint a Registrar of Private Investigators and Security Guards.  2005, c. 34, s. 3 (1). Deputy registrars (2) The Lieutenant Governor in Council may appoint one or more deputy registrars who may act as Registrar during the Registrar’s absence or inability to act.  2005, c. 34, s. 3 (2). Types of Licences",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>3 </b>(1) The Lieutenant Governor in Council shall appoint a Registrar of Private Investigators and Security Guards.  2005, c. 34, s. 3 (1).</p> <p class=\"headnote\">Deputy registrars</p> <p class=\"subsection\">(2) The Lieutenant Governor in Council may appoint one or more deputy registrars who may act as Registrar during the Registrar’s absence or inability to act.  2005, c. 34, s. 3 (2).</p> <p class=\"heading1\"><a name=\"BK6\"></a>Types of Licences</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "Types of Licences",
+            "section_x": "Types of Licences",
+            "part_id": "PART II  ",
+            "part_type": "PART II ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "4.",
+            "section_x": "Types of licences",
+            "part_id": "PART II  ",
+            "part_type": "PART II ADMINISTRATION",
+            "section_y": "Types of licences",
+            "content": "4 The following are the types of licences that may be issued under this Act: 1. A licence to act as a private investigator. 2. A licence to act as a security guard. 3. A licence to engage in the business of selling the services of private investigators. 4. A licence to engage in the business of selling the services of security guards. 5. A licence to act as both a private investigator and a security guard. 6. A licence to engage in the business of selling the services of both private investigators and security guards.  2005, c. 34, s. 4. Registration",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>4 </b>The following are the types of licences that may be issued under this Act:</p> <p class=\"paragraph\">  1. A licence to act as a private investigator.</p> <p class=\"paragraph\">  2. A licence to act as a security guard.</p> <p class=\"paragraph\">  3. A licence to engage in the business of selling the services of private investigators.</p> <p class=\"paragraph\">  4. A licence to engage in the business of selling the services of security guards.</p> <p class=\"paragraph\">  5. A licence to act as both a private investigator and a security guard.</p> <p class=\"paragraph\">  6. A licence to engage in the business of selling the services of both private investigators and security guards.  2005, c. 34, s. 4.</p> <p class=\"heading1\"><a name=\"BK8\"></a>Registration</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "Registration",
+            "section_x": "Registration",
+            "part_id": "PART II  ",
+            "part_type": "PART II ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "5.",
+            "section_x": "Registered employer",
+            "part_id": "PART II  ",
+            "part_type": "PART II ADMINISTRATION",
+            "section_y": "Registered employer",
+            "content": "5 If a business entity, other than a business entity that engages in the business of selling the services of private investigators or security guards to the public, employs a private investigator or security guard, that business entity shall, (a) register as an employer in accordance with the prescribed requirements; and (b) provide the Registrar with a mailing address for service in Ontario, and notify the Registrar of any change in its mailing address within five days of the change.  2005, c. 34, s. 5. Part IIi   prohibitions",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>5 </b>If a business entity, other than a business entity that engages in the business of selling the services of private investigators or security guards to the public, employs a private investigator or security guard, that business entity shall,</p> <p class=\"paragraph\">  (a) register as an employer in accordance with the prescribed requirements; and</p> <p class=\"paragraph\">  (b) provide the Registrar with a mailing address for service in Ontario, and notify the Registrar of any change in its mailing address within five days of the change.  2005, c. 34, s. 5.</p> <p class=\"partnum\"><a name=\"BK10\"></a>Part IIi <br/>  prohibitions</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "PART III  ",
+            "section_x": "PART III PROHIBITIONS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "6.",
+            "section_x": "Individual licence",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROHIBITIONS",
+            "section_y": "Individual licence",
+            "content": "6 No person shall act as a private investigator or a security guard or hold himself or herself out as one unless the person holds the appropriate licence under this Act and, (a) is employed by a licensed business entity, a registered employer under section 5, or an employer that is not required to be registered; or (b) is the sole proprietor of a licensed business entity or is a partner in a licensed business entity.  2005, c. 34, s. 6.",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>6 </b>No person shall act as a private investigator or a security guard or hold himself or herself out as one unless the person holds the appropriate licence under this Act and,</p> <p class=\"paragraph\">  (a) is employed by a licensed business entity, a registered employer under section 5, or an employer that is not required to be registered; or</p> <p class=\"paragraph\">  (b) is the sole proprietor of a licensed business entity or is a partner in a licensed business entity.  2005, c. 34, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "7.",
+            "section_x": "Licence to engage in the business",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROHIBITIONS",
+            "section_y": "Licence to engage in the business",
+            "content": "7 (1) No person shall sell the services of private investigators or security guards or hold themself out as available to sell such services, unless, (a) the person holds the appropriate licence under this Act; or (b) the person is an employee of a licensee described in clause (a) and is acting on behalf of that licensee in the normal course of his or her duties.  2005, c. 34, s. 7 (1). Branch offices (2) No person shall engage in the business of selling the services of private investigators or security guards from more than one place at which the public is invited to deal unless the person is licensed, with one place designated by the licensee as the main office and the remainder as branch offices.  2005, c. 34, s. 7 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK12\"></a><b>7 </b>(1) No person shall sell the services of private investigators or security guards or hold themself out as available to sell such services, unless,</p> <p class=\"paragraph\">  (a) the person holds the appropriate licence under this Act; or</p> <p class=\"paragraph\">  (b) the person is an employee of a licensee described in clause (a) and is acting on behalf of that licensee in the normal course of his or her duties.  2005, c. 34, s. 7 (1).</p> <p class=\"headnote\">Branch offices</p> <p class=\"subsection\">(2) No person shall engage in the business of selling the services of private investigators or security guards from more than one place at which the public is invited to deal unless the person is licensed, with one place designated by the licensee as the main office and the remainder as branch offices.  2005, c. 34, s. 7 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "8.",
+            "section_x": "Change in business entity",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROHIBITIONS",
+            "section_y": "Change in business entity",
+            "content": "8 (1) Subject to subsection (2), if there is a change in the officers, directors or partners of a business entity that is a licensee, the business entity shall not continue to act or offer services under the licence.  2005, c. 34, s. 8 (1). Same (2) Where there is a change in the officers, directors or partners of a business entity, the Registrar may consent, in writing, to the business entity continuing to act or offer services under the existing licence, in which case subsection (1) does not apply.  2005, c. 34, s. 8 (2). Sole proprietorships (3) Where the holder of a licence who is a sole proprietor dies or becomes incapable, the Registrar may issue a temporary licence, that is valid for the time stipulated in the licence, to permit the sole proprietor’s business to be maintained or wound down.  2005, c. 34, s. 8 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>8 </b>(1) Subject to subsection (2), if there is a change in the officers, directors or partners of a business entity that is a licensee, the business entity shall not continue to act or offer services under the licence.  2005, c. 34, s. 8 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) Where there is a change in the officers, directors or partners of a business entity, the Registrar may consent, in writing, to the business entity continuing to act or offer services under the existing licence, in which case subsection (1) does not apply.  2005, c. 34, s. 8 (2).</p> <p class=\"headnote\">Sole proprietorships</p> <p class=\"subsection\">(3) Where the holder of a licence who is a sole proprietor dies or becomes incapable, the Registrar may issue a temporary licence, that is valid for the time stipulated in the licence, to permit the sole proprietor’s business to be maintained or wound down.  2005, c. 34, s. 8 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "9.",
+            "section_x": "Licensee may not act as collector, etc.",
+            "part_id": "PART III  ",
+            "part_type": "PART III PROHIBITIONS",
+            "section_y": "Licensee may not act as collector, etc.",
+            "content": "9 (1) No person who holds a licence to act as a private investigator or security guard shall act or hold himself, herself or itself out as being available to act with respect to, (a) the collection of accounts; (b) acting as a bailiff; or (c) an eviction under the Residential Tenancies Act, 2006.  2005, c. 34, s. 9 (1); 2006, c. 17, s. 254. Protected witnesses (2) No person who holds a licence to act as a private investigator or security guard shall act or hold himself, herself or itself out as being available to act with respect to, (a) locating a person known or suspected by the licensee to be a member of a witness protection program; or (b) gathering information about any person known or suspected by the licensee to be a member of a witness protection program for the purpose of enabling the person to be located.  2005, c. 34, s. 9 (2). Section Amendments with date in force (d/m/y) 2006, c. 17, s. 254\r\n- 23/08/2007 Part iv   licensing Mandatory Requirements",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>9 </b>(1) No person who holds a licence to act as a private investigator or security guard shall act or hold himself, herself or itself out as being available to act with respect to,</p> <p class=\"paragraph\">  (a) the collection of accounts;</p> <p class=\"paragraph\">  (b) acting as a bailiff; or</p> <p class=\"paragraph\">  (c) an eviction under the <i>Residential Tenancies Act, 2006</i>.  2005, c. 34, s. 9 (1); 2006, c. 17, s. 254.</p> <p class=\"headnote\">Protected witnesses</p> <p class=\"subsection\">(2) No person who holds a licence to act as a private investigator or security guard shall act or hold himself, herself or itself out as being available to act with respect to,</p> <p class=\"paragraph\">  (a) locating a person known or suspected by the licensee to be a member of a witness protection program; or</p> <p class=\"paragraph\">  (b) gathering information about any person known or suspected by the licensee to be a member of a witness protection program for the purpose of enabling the person to be located.  2005, c. 34, s. 9 (2).</p> <p class=\"footnoteLeft\"><a name=\"BK15\"></a><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06017#s254\">2006, c. 17, s. 254</a></span>\r\n- 23/08/2007</p> <p class=\"partnum\">Part iv <br/>  licensing</p> <p class=\"heading1\"><a name=\"BK16\"></a>Mandatory Requirements</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "PART IV  ",
+            "section_x": "PART IV LICENSING",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "Mandatory Requirements",
+            "section_x": "Mandatory Requirements",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV LICENSING",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "10.",
+            "section_x": "Mandatory requirements",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV LICENSING",
+            "section_y": "Mandatory requirements",
+            "content": "10 (1) No person is eligible to hold a licence under this Act unless, (a) the person possesses a clean criminal record; and (b) in the case of an individual, (i) the person is 18 years old or older, (ii) the person is entitled to work in Canada, and (iii) the person has successfully completed all prescribed training and testing.  2005, c. 34, s. 10 (1). Loss of requirement (2) If, at any time subsequent to being issued a licence, a person ceases to meet a requirement set out in subsection (1), the person shall not continue to act or offer services under the licence and shall return the licence to the Registrar as required under section 37 within five days, excluding Saturdays, Sundays and public holidays, within the meaning of the Employment Standards Act, 2000.  2005, c. 34, s. 10 (2). Notice by Registrar (3) Where the Registrar becomes aware that a person no longer meets a requirement set out in subsection (1), the Registrar shall promptly give the person notice that the Registrar’s records have been changed to show that the person no longer has a valid licence.  2005, c. 34, s. 10 (3). Request to reconsider (4) Where the Registrar has given notice under subsection (3), the person to whom notice has been given may request that the Registrar reconsider the change to the Registrar’s records, and the Registrar may consider any relevant information in doing so.  2005, c. 34, s. 10 (4). “Clean criminal record” (5) For the purposes of subsection (1), a person possesses a “clean criminal record” if, (a) the person has not been convicted of a prescribed offence under the Criminal Code (Canada), the Controlled Drugs and Substances Act (Canada), the Cannabis Act (Canada) or any other Act of Canada; or (b) the person has been convicted of such an offence and a pardon under the Criminal Records Act\r\n(Canada) has been issued or granted.  2005, c. 34, s. 10 (5); 2019, c. 1, Sched. 4, s. 47 (1). Section Amendments with date in force (d/m/y) 2019, c. 1, Sched. 4, s. 47 (1) - 26/03/2019 Application",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>10 </b>(1) No person is eligible to hold a licence under this Act unless,</p> <p class=\"paragraph\">  (a) the person possesses a clean criminal record; and</p> <p class=\"paragraph\">  (b) in the case of an individual,</p> <p class=\"subclause\">  (i) the person is 18 years old or older,</p> <p class=\"subclause\">  (ii) the person is entitled to work in Canada, and</p> <p class=\"subclause\">  (iii) the person has successfully completed all prescribed training and testing.  2005, c. 34, s. 10 (1).</p> <p class=\"headnote\">Loss of requirement</p> <p class=\"subsection\">(2) If, at any time subsequent to being issued a licence, a person ceases to meet a requirement set out in subsection (1), the person shall not continue to act or offer services under the licence and shall return the licence to the Registrar as required under section 37 within five days, excluding Saturdays, Sundays and public holidays, within the meaning of the <i>Employment Standards Act, 2000</i>.  2005, c. 34, s. 10 (2).</p> <p class=\"headnote\">Notice by Registrar</p> <p class=\"subsection\">(3) Where the Registrar becomes aware that a person no longer meets a requirement set out in subsection (1), the Registrar shall promptly give the person notice that the Registrar’s records have been changed to show that the person no longer has a valid licence.  2005, c. 34, s. 10 (3).</p> <p class=\"headnote\">Request to reconsider</p> <p class=\"subsection\">(4) Where the Registrar has given notice under subsection (3), the person to whom notice has been given may request that the Registrar reconsider the change to the Registrar’s records, and the Registrar may consider any relevant information in doing so.  2005, c. 34, s. 10 (4).</p> <p class=\"headnote\">“Clean criminal record”</p> <p class=\"subsection\">(5) For the purposes of subsection (1), a person possesses a “clean criminal record” if,</p> <p class=\"paragraph\">  (a) the person has not been convicted of a prescribed offence under the <i>Criminal Code</i> (Canada), the <i>Controlled Drugs and Substances Act</i> (Canada), the <i>Cannabis Act</i> (Canada) or any other Act of Canada; or</p> <p class=\"paragraph\">  (b) the person has been convicted of such an offence and a pardon under the <i>Criminal Records Act</i>\r\n(Canada) has been issued or granted.  2005, c. 34, s. 10 (5); 2019, c. 1, Sched. 4, s. 47 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19001#sched4s47s1\">2019, c. 1, Sched. 4, s. 47 (1)</a></span> - 26/03/2019</p> <p class=\"heading1\"><a name=\"BK18\"></a>Application</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "Application",
+            "section_x": "Application",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV LICENSING",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "11.",
+            "section_x": "Application for licence",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV LICENSING",
+            "section_y": "Application for licence",
+            "content": "11 (1) A person who applies to the Registrar for the issuance or renewal of a licence shall, (a) provide a mailing address for service in Ontario; (b) pay the required fee for the issuance or renewal of the appropriate licence; (c) provide a declaration that lists, (i) all of the person’s convictions for and findings of guilt for offences under a law of Canada up to the date of the declaration for which a pardon under the Criminal Records Act (Canada) has not been issued or granted, (ii) all of the person’s convictions for and findings of guilt for a provincial offence or an offence under a law of any other province or territory of Canada, (iii) all fines levied against the person for a provincial offence that remain unpaid on the date of the declaration, (iv) all of the person’s convictions for criminal offences under the laws of other jurisdictions for which a pardon has not been issued or granted, (v) all charges for allegedly committing an offence against a law of Canada that have been laid against the person and that have not been resolved on the date of the declaration, and (vi) all charges for allegedly committing a criminal offence against the laws of another jurisdiction that have been laid against the person and that have not been resolved on the date of the declaration; (d) provide consent for the Registrar to collect information on any matter mentioned in clause (c); (e) if the person is a business entity, provide the things required under clauses (c) and (d) in respect of the business entity and of every officer, director or partner, as the case may be, of the business entity; (f) if the person is an individual, provide proof, (i) of his or her age, (ii) of his or her entitlement to work in Canada, and (iii) that he or she has successfully completed all prescribed training and testing; and (g) in the case of a licence to engage in the business of selling the services of private investigators or security guards, provide proof of the insurance required under section 30.  2005, c. 34, s. 11 (1). Registrar may require (2) The Registrar may require an applicant to provide, (a) his or her fingerprints; (b) a clearly recognizable photograph of the applicant; (c) a criminal record and judicial matters check under the Police Record Checks Reform Act, 2015, or his or her consent for the Registrar to conduct such a check or have one conducted; (d) his or her consent for the Registrar to investigate the person’s immigration status in Canada; and (e) any other information or material as the Registrar considers necessary, including personal information within the meaning of the Freedom of Information and Protection of Privacy Act, in order to determine, (i) whether the applicant meets the requirements for the issuance or renewal of a licence, and (ii) whether, in the Registrar’s opinion, any of paragraphs 1 to 7 of subsection 13 (2) applies in respect of the applicant.  2005, c. 34, s. 11 (2); 2015, c. 30, s. 27. Business entity (3) If the applicant is a business entity, subsection (2) applies in respect of any officer, director or partner, as the case may be.  2005, c. 34, s. 11 (3). How information provided (4) An applicant shall provide information or material required under this section in a form and manner as may be required by the Registrar.  2005, c. 34, s. 11 (4). Section Amendments with date in force (d/m/y) 2015, c. 30, s. 27\r\n- 01/11/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>11 </b>(1) A person who applies to the Registrar for the issuance or renewal of a licence shall,</p> <p class=\"paragraph\">  (a) provide a mailing address for service in Ontario;</p> <p class=\"paragraph\">  (b) pay the required fee for the issuance or renewal of the appropriate licence;</p> <p class=\"paragraph\">  (c) provide a declaration that lists,</p> <p class=\"subclause\">  (i) all of the person’s convictions for and findings of guilt for offences under a law of Canada up to the date of the declaration for which a pardon under the <i>Criminal Records Act</i> (Canada) has not been issued or granted,</p> <p class=\"subclause\">  (ii) all of the person’s convictions for and findings of guilt for a provincial offence or an offence under a law of any other province or territory of Canada,</p> <p class=\"subclause\">  (iii) all fines levied against the person for a provincial offence that remain unpaid on the date of the declaration,</p> <p class=\"subclause\">  (iv) all of the person’s convictions for criminal offences under the laws of other jurisdictions for which a pardon has not been issued or granted,</p> <p class=\"subclause\">  (v) all charges for allegedly committing an offence against a law of Canada that have been laid against the person and that have not been resolved on the date of the declaration, and</p> <p class=\"subclause\">  (vi) all charges for allegedly committing a criminal offence against the laws of another jurisdiction that have been laid against the person and that have not been resolved on the date of the declaration;</p> <p class=\"paragraph\">  (d) provide consent for the Registrar to collect information on any matter mentioned in clause (c);</p> <p class=\"paragraph\">  (e) if the person is a business entity, provide the things required under clauses (c) and (d) in respect of the business entity and of every officer, director or partner, as the case may be, of the business entity;</p> <p class=\"paragraph\">  (f) if the person is an individual, provide proof,</p> <p class=\"subclause\">  (i) of his or her age,</p> <p class=\"subclause\">  (ii) of his or her entitlement to work in Canada, and</p> <p class=\"subclause\">  (iii) that he or she has successfully completed all prescribed training and testing; and</p> <p class=\"paragraph\">  (g) in the case of a licence to engage in the business of selling the services of private investigators or security guards, provide proof of the insurance required under section 30.  2005, c. 34, s. 11 (1).</p> <p class=\"headnote\">Registrar may require</p> <p class=\"subsection\">(2) The Registrar may require an applicant to provide,</p> <p class=\"paragraph\">  (a) his or her fingerprints;</p> <p class=\"paragraph\">  (b) a clearly recognizable photograph of the applicant;</p> <p class=\"paragraph\">  (c) a criminal record and judicial matters check under the <i>Police Record Checks Reform Act, 2015</i>, or his or her consent for the Registrar to conduct such a check or have one conducted;</p> <p class=\"paragraph\">  (d) his or her consent for the Registrar to investigate the person’s immigration status in Canada; and</p> <p class=\"paragraph\">  (e) any other information or material as the Registrar considers necessary, including personal information within the meaning of the <i>Freedom of Information and Protection of Privacy Act</i>, in order to determine,</p> <p class=\"subclause\">  (i) whether the applicant meets the requirements for the issuance or renewal of a licence, and</p> <p class=\"subclause\">  (ii) whether, in the Registrar’s opinion, any of paragraphs 1 to 7 of subsection 13 (2) applies in respect of the applicant.  2005, c. 34, s. 11 (2); 2015, c. 30, s. 27.</p> <p class=\"headnote\">Business entity</p> <p class=\"subsection\">(3) If the applicant is a business entity, subsection (2) applies in respect of any officer, director or partner, as the case may be.  2005, c. 34, s. 11 (3).</p> <p class=\"headnote\">How information provided</p> <p class=\"subsection\">(4) An applicant shall provide information or material required under this section in a form and manner as may be required by the Registrar.  2005, c. 34, s. 11 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15030#s27\">2015, c. 30, s. 27</a></span>\r\n- 01/11/2018</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "12.",
+            "section_x": "Licences – general rules",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV LICENSING",
+            "section_y": "Licences – general rules",
+            "content": "12 The following rules apply in respect of licences and licensees: 1. A licence shall clearly indicate what type of licence it is. 2. A licence shall clearly indicate the date on which it expires. 3. A person may be issued more than one type of licence, but, regardless of the licences a person holds, the person may not act as a security guard and a private investigator at the same time. 4. Every licence shall display a clearly recognizable photograph of the holder, if the holder is an individual. 5. A licence is not transferable.  2005, c. 34, s. 12.",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>12 </b>The following rules apply in respect of licences and licensees:</p> <p class=\"paragraph\">  1. A licence shall clearly indicate what type of licence it is.</p> <p class=\"paragraph\">  2. A licence shall clearly indicate the date on which it expires.</p> <p class=\"paragraph\">  3. A person may be issued more than one type of licence, but, regardless of the licences a person holds, the person may not act as a security guard and a private investigator at the same time.</p> <p class=\"paragraph\">  4. Every licence shall display a clearly recognizable photograph of the holder, if the holder is an individual.</p> <p class=\"paragraph\">  5. A licence is not transferable.  2005, c. 34, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "13.",
+            "section_x": "Issuance of licence",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV LICENSING",
+            "section_y": "Issuance of licence",
+            "content": "13 (1) An applicant who meets the requirements set out in this Act and the regulations for the applicable licence is entitled to the issuance or renewal of a licence unless subsection (2) applies.  2005, c. 34, s. 13 (1). Registrar may decline (2) The Registrar may decline to issue or renew a licence if the Registrar is of the opinion that one of the following applies, and if the Registrar is of the opinion that the matter is relevant to the applicant’s fitness to hold a licence: 1. The applicant or an interested person in respect of the applicant is carrying on activities, i. that are in contravention of this Act or the regulations, or ii. that will be in contravention of this Act or the regulations if the applicant is issued a licence or a licence is renewed. 2. The past conduct of the applicant or of an interested person in respect of the applicant affords reasonable grounds to believe that the applicant will not carry on business in accordance with the law and with integrity and honesty. 3. The applicant, an employee or agent of the applicant makes a false statement or provides a false statement in an application for a licence or for a renewal of the licence. 4. The applicant is a business entity and, i. having regard to its financial position or the financial position of an interested person, the applicant cannot reasonably be expected to be financially responsible in the conduct of its business, ii. having regard to the financial position of its officers, directors or partners or of an interested person, the applicant cannot reasonably be expected to be financially responsible in the conduct of its business, iii. the past conduct of its officers, directors or partners or of an interested person affords reasonable grounds for belief that its business will not be carried on in accordance with the law and with integrity and honesty, or iv. an officer, director or partner of the business entity makes a false statement or provides a false statement in an application for a licence or for renewal of a licence. 5. The applicant, i. has been convicted of or found guilty of an offence under a law of Canada for which a pardon under the Criminal Records Act (Canada) has not been issued or granted, ii. has been convicted of or found guilty of a provincial offence or an offence under a law of any other province or territory of Canada, iii. is liable to pay a fine for a provincial offence that has not been paid, iv. has been convicted of a criminal offence under the law of another jurisdiction for which a pardon has not been issued or granted. 6. A ground exists that is prescribed as a ground for which an application for the issuance or renewal of a licence may be refused. 7. It is in the public interest to refuse to issue or renew the licence.  2005, c. 34, s. 13 (2). Interested persons (3) For the purposes of subsection (2), a person is an interested person in respect of an applicant if, in the opinion of the Registrar, (a) the person has or may have a beneficial interest in the applicant’s business; (b) the person exercises or may exercise control either directly or indirectly over the applicant; or (c) the person has provided or may have provided financing either directly or indirectly to the applicant’s business.  2005, c. 34, s. 13 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK21\"></a><b>13 </b>(1) An applicant who meets the requirements set out in this Act and the regulations for the applicable licence is entitled to the issuance or renewal of a licence unless subsection (2) applies.  2005, c. 34, s. 13 (1).</p> <p class=\"headnote\">Registrar may decline</p> <p class=\"subsection\">(2) The Registrar may decline to issue or renew a licence if the Registrar is of the opinion that one of the following applies, and if the Registrar is of the opinion that the matter is relevant to the applicant’s fitness to hold a licence:</p> <p class=\"paragraph\">  1. The applicant or an interested person in respect of the applicant is carrying on activities,</p> <p class=\"subpara\">  i. that are in contravention of this Act or the regulations, or</p> <p class=\"subpara\">  ii. that will be in contravention of this Act or the regulations if the applicant is issued a licence or a licence is renewed.</p> <p class=\"paragraph\">  2. The past conduct of the applicant or of an interested person in respect of the applicant affords reasonable grounds to believe that the applicant will not carry on business in accordance with the law and with integrity and honesty.</p> <p class=\"paragraph\">  3. The applicant, an employee or agent of the applicant makes a false statement or provides a false statement in an application for a licence or for a renewal of the licence.</p> <p class=\"paragraph\">  4. The applicant is a business entity and,</p> <p class=\"subpara\">  i. having regard to its financial position or the financial position of an interested person, the applicant cannot reasonably be expected to be financially responsible in the conduct of its business,</p> <p class=\"subpara\">  ii. having regard to the financial position of its officers, directors or partners or of an interested person, the applicant cannot reasonably be expected to be financially responsible in the conduct of its business,</p> <p class=\"subpara\">  iii. the past conduct of its officers, directors or partners or of an interested person affords reasonable grounds for belief that its business will not be carried on in accordance with the law and with integrity and honesty, or</p> <p class=\"subpara\">  iv. an officer, director or partner of the business entity makes a false statement or provides a false statement in an application for a licence or for renewal of a licence.</p> <p class=\"paragraph\">  5. The applicant,</p> <p class=\"subpara\">  i. has been convicted of or found guilty of an offence under a law of Canada for which a pardon under the <i>Criminal Records Act</i> (Canada) has not been issued or granted,</p> <p class=\"subpara\">  ii. has been convicted of or found guilty of a provincial offence or an offence under a law of any other province or territory of Canada,</p> <p class=\"subpara\">  iii. is liable to pay a fine for a provincial offence that has not been paid,</p> <p class=\"subpara\">  iv. has been convicted of a criminal offence under the law of another jurisdiction for which a pardon has not been issued or granted.</p> <p class=\"paragraph\">  6. A ground exists that is prescribed as a ground for which an application for the issuance or renewal of a licence may be refused.</p> <p class=\"paragraph\">  7. It is in the public interest to refuse to issue or renew the licence.  2005, c. 34, s. 13 (2).</p> <p class=\"headnote\">Interested persons</p> <p class=\"subsection\">(3) For the purposes of subsection (2), a person is an interested person in respect of an applicant if, in the opinion of the Registrar,</p> <p class=\"paragraph\">  (a) the person has or may have a beneficial interest in the applicant’s business;</p> <p class=\"paragraph\">  (b) the person exercises or may exercise control either directly or indirectly over the applicant; or</p> <p class=\"paragraph\">  (c) the person has provided or may have provided financing either directly or indirectly to the applicant’s business.  2005, c. 34, s. 13 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "14.",
+            "section_x": "Conditions",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV LICENSING",
+            "section_y": "Conditions",
+            "content": "14 (1) A licence is subject to such conditions as are prescribed or that are imposed by the Registrar under subsection (2).  2005, c. 34, s. 14 (1). Same (2) The Registrar may issue or renew a licence subject to such conditions as he or she considers appropriate and may, at any time, attach such additional conditions as he or she considers appropriate to an existing licence.  2005, c. 34, s. 14 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>14 </b>(1) A licence is subject to such conditions as are prescribed or that are imposed by the Registrar under subsection (2).  2005, c. 34, s. 14 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The Registrar may issue or renew a licence subject to such conditions as he or she considers appropriate and may, at any time, attach such additional conditions as he or she considers appropriate to an existing licence.  2005, c. 34, s. 14 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "15.",
+            "section_x": "Revocation",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV LICENSING",
+            "section_y": "Revocation",
+            "content": "15 (1) The Registrar may revoke a licence, (a) for any reason for which the Registrar could refuse to issue or renew a licence under subsection 13 (2); or (b) if the licensee is in breach of a condition of the licence.  2005, c. 34, s. 15 (1). Immediate suspension (2) If the Registrar proposes to revoke a licence and he or she considers it to be in the interest of public safety to do so, the Registrar may by order suspend the licence and any such order takes effect immediately.  2005, c. 34, s. 15 (2). Duration of suspension (3) Despite anything contained in the Statutory Powers Procedure Act, a suspension under subsection (2) continues in effect until, (a) if the licensee requests an opportunity to be heard under subsection 16 (3), a final determination has been made in respect of the proposed revocation as a result of there being no further right of appeal; (b) the Registrar receives new information that leads the Registrar to believe that the licence should not be revoked; or (c) if the licensee does not request an opportunity to be heard within the time permitted under subsection 16 (3), the Registrar revokes the licence.  2005, c. 34, s. 15 (3); 2009, c. 33, Sched. 9, s. 11 (1). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 9, s. 11 (1) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>15 </b>(1) The Registrar may revoke a licence,</p> <p class=\"paragraph\">  (a) for any reason for which the Registrar could refuse to issue or renew a licence under subsection 13 (2); or</p> <p class=\"paragraph\">  (b) if the licensee is in breach of a condition of the licence.  2005, c. 34, s. 15 (1).</p> <p class=\"headnote\">Immediate suspension</p> <p class=\"subsection\">(2) If the Registrar proposes to revoke a licence and he or she considers it to be in the interest of public safety to do so, the Registrar may by order suspend the licence and any such order takes effect immediately.  2005, c. 34, s. 15 (2).</p> <p class=\"headnote\">Duration of suspension</p> <p class=\"subsection\">(3) Despite anything contained in the <i>Statutory Powers Procedure Act</i>, a suspension under subsection (2) continues in effect until,</p> <p class=\"paragraph\">  (a) if the licensee requests an opportunity to be heard under subsection 16 (3), a final determination has been made in respect of the proposed revocation as a result of there being no further right of appeal;</p> <p class=\"paragraph\">  (b) the Registrar receives new information that leads the Registrar to believe that the licence should not be revoked; or</p> <p class=\"paragraph\">  (c) if the licensee does not request an opportunity to be heard within the time permitted under subsection 16 (3), the Registrar revokes the licence.  2005, c. 34, s. 15 (3); 2009, c. 33, Sched. 9, s. 11 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched9s11s1\">2009, c. 33, Sched. 9, s. 11 (1)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "16.",
+            "section_x": "Notice and hearing",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV LICENSING",
+            "section_y": "Notice and hearing",
+            "content": "16 (1) The Registrar shall serve written notice on an applicant or licensee if he or she proposes to, (a) refuse to issue or renew a licence under subsection 13 (2); (b) apply conditions to a licence or renewal of a licence; or (c) revoke a licence under section 15.  2005, c. 34, s. 16 (1). Content of notice (2) The notice referred to in subsection (1) shall state the reasons for the Registrar’s proposed action and shall inform the applicant or licensee that he, she or it is entitled to an opportunity to be heard before the Registrar to show cause why the Registrar should not take the proposed action.  2009, c. 33, Sched. 9, s. 11 (2). Request for opportunity to be heard (3) Within 21 days after service of a notice under subsection (1), an applicant or licensee may, in writing, request an opportunity to be heard before the Registrar to show cause why the Registrar should not take the proposed action.  2009, c. 33, Sched. 9, s. 11 (2). No request for opportunity to be heard (4) If an applicant or licensee does not request an opportunity to be heard within the time permitted under subsection (3), the Registrar may take the proposed action.  2009, c. 33, Sched. 9, s. 11 (2). Opportunity to be heard (5) If an applicant or licensee requests an opportunity to be heard under subsection (3), the Registrar shall give the applicant or licensee an opportunity to appear before the Registrar in person to show cause why the Registrar should not take the proposed action no later than 90 days after the notice referred to in subsection (1) was served or at a later date if the applicant or licensee consents.  2009, c. 33, Sched. 9, s. 11 (2). Right to counsel (6) An applicant or licensee may be represented by counsel or an agent when appearing before the Registrar under subsection (5).  2009, c. 33, Sched. 9, s. 11 (2). Registrar’s decision (7) If the Registrar decides that an applicant or licensee has not shown cause why the Registrar should not take the proposed action, (a) the Registrar shall inform the applicant or licensee in writing; and (b) if, within 14 days of being informed under clause (a), the applicant or licensee requests written reasons, the Registrar shall serve written reasons for his or her decision on the applicant or licensee within 14 days of the request being made.  2005, c. 34, s. 16 (7). Registrar to advise (8) The Registrar shall, at the time of serving the written reasons, advise the applicant or licensee of the right to appeal under section 17.  2005, c. 34, s. 16 (8). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 9, s. 11 (2) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>16 </b>(1) The Registrar shall serve written notice on an applicant or licensee if he or she proposes to,</p> <p class=\"paragraph\">  (a) refuse to issue or renew a licence under subsection 13 (2);</p> <p class=\"paragraph\">  (b) apply conditions to a licence or renewal of a licence; or</p> <p class=\"paragraph\">  (c) revoke a licence under section 15.  2005, c. 34, s. 16 (1).</p> <p class=\"headnote\">Content of notice</p> <p class=\"subsection\">(2) The notice referred to in subsection (1) shall state the reasons for the Registrar’s proposed action and shall inform the applicant or licensee that he, she or it is entitled to an opportunity to be heard before the Registrar to show cause why the Registrar should not take the proposed action.  2009, c. 33, Sched. 9, s. 11 (2).</p> <p class=\"headnote\">Request for opportunity to be heard</p> <p class=\"subsection\">(3) Within 21 days after service of a notice under subsection (1), an applicant or licensee may, in writing, request an opportunity to be heard before the Registrar to show cause why the Registrar should not take the proposed action.  2009, c. 33, Sched. 9, s. 11 (2).</p> <p class=\"headnote\">No request for opportunity to be heard</p> <p class=\"subsection\">(4) If an applicant or licensee does not request an opportunity to be heard within the time permitted under subsection (3), the Registrar may take the proposed action.  2009, c. 33, Sched. 9, s. 11 (2).</p> <p class=\"headnote\">Opportunity to be heard</p> <p class=\"subsection\">(5) If an applicant or licensee requests an opportunity to be heard under subsection (3), the Registrar shall give the applicant or licensee an opportunity to appear before the Registrar in person to show cause why the Registrar should not take the proposed action no later than 90 days after the notice referred to in subsection (1) was served or at a later date if the applicant or licensee consents.  2009, c. 33, Sched. 9, s. 11 (2).</p> <p class=\"headnote\">Right to counsel</p> <p class=\"subsection\">(6) An applicant or licensee may be represented by counsel or an agent when appearing before the Registrar under subsection (5).  2009, c. 33, Sched. 9, s. 11 (2).</p> <p class=\"headnote\">Registrar’s decision</p> <p class=\"subsection\">(7) If the Registrar decides that an applicant or licensee has not shown cause why the Registrar should not take the proposed action,</p> <p class=\"paragraph\">  (a) the Registrar shall inform the applicant or licensee in writing; and</p> <p class=\"paragraph\">  (b) if, within 14 days of being informed under clause (a), the applicant or licensee requests written reasons, the Registrar shall serve written reasons for his or her decision on the applicant or licensee within 14 days of the request being made.  2005, c. 34, s. 16 (7).</p> <p class=\"headnote\">Registrar to advise</p> <p class=\"subsection\">(8) The Registrar shall, at the time of serving the written reasons, advise the applicant or licensee of the right to appeal under section 17.  2005, c. 34, s. 16 (8).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched9s11s2\">2009, c. 33, Sched. 9, s. 11 (2)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "17.",
+            "section_x": "Appeal",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV LICENSING",
+            "section_y": "Appeal",
+            "content": "17 (1) Within 21 days after service of reasons under subsection 16 (7), the applicant or licensee may appeal the Registrar’s decision to the Tribunal.  2005, c. 34, s. 17 (1). No stay (2) Despite section 25 of the Statutory Powers Procedure Act, an appeal does not have the effect of staying the Registrar’s decision, and neither the Registrar nor the Tribunal has the authority to stay the decision pending the hearing of the appeal.  2005, c. 34, s. 17 (2). Registrar retains authority (3) During the time that an appeal is in progress, the Registrar retains the authority to reconsider the decision that is being appealed.  2005, c. 34, s. 17 (3). Registrar a party (4) The Registrar is a party to an appeal.  2005, c. 34, s. 17 (4). Authority of Tribunal (5) On hearing an appeal, the Tribunal may uphold the Registrar’s decision, vary or set aside the Registrar’s decision, grant or restore a licence or impose conditions on a licence.  2005, c. 34, s. 17 (5).",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>17 </b>(1) Within 21 days after service of reasons under subsection 16 (7), the applicant or licensee may appeal the Registrar’s decision to the Tribunal.  2005, c. 34, s. 17 (1).</p> <p class=\"headnote\">No stay</p> <p class=\"subsection\">(2) Despite section 25 of the <i>Statutory Powers Procedure Act</i>, an appeal does not have the effect of staying the Registrar’s decision, and neither the Registrar nor the Tribunal has the authority to stay the decision pending the hearing of the appeal.  2005, c. 34, s. 17 (2).</p> <p class=\"headnote\">Registrar retains authority</p> <p class=\"subsection\">(3) During the time that an appeal is in progress, the Registrar retains the authority to reconsider the decision that is being appealed.  2005, c. 34, s. 17 (3).</p> <p class=\"headnote\">Registrar a party</p> <p class=\"subsection\">(4) The Registrar is a party to an appeal.  2005, c. 34, s. 17 (4).</p> <p class=\"headnote\">Authority of Tribunal</p> <p class=\"subsection\">(5) On hearing an appeal, the Tribunal may uphold the Registrar’s decision, vary or set aside the Registrar’s decision, grant or restore a licence or impose conditions on a licence.  2005, c. 34, s. 17 (5).</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "18.",
+            "section_x": "Further application",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV LICENSING",
+            "section_y": "Further application",
+            "content": "18 A person who is refused a licence or renewal of a licence may reapply for a licence if new or other evidence is available or it is clear that material circumstances have changed.  2005, c. 34, s. 18. Part V   complaints and investigations Complaints",
+            "raw_html": "<p class=\"section\"><a name=\"BK26\"></a><b>18 </b>A person who is refused a licence or renewal of a licence may reapply for a licence if new or other evidence is available or it is clear that material circumstances have changed.  2005, c. 34, s. 18.</p> <p class=\"partnum\"><a name=\"BK27\"></a>Part V <br/>  complaints and investigations</p> <p class=\"heading1\"><a name=\"BK28\"></a>Complaints</p>"
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "PART V  ",
+            "section_x": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "Complaints",
+            "section_x": "Complaints",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "19.",
+            "section_x": "Complaint to Registrar",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Complaint to Registrar",
+            "content": "19 (1) The Registrar may receive a complaint from any person alleging that a licensee has breached the code of conduct established under the regulations or alleging that a licensee has failed to comply with this Act or the regulations or has breached a condition of a licence.  2005, c. 34, s. 19 (1). Form of complaint (2) A complaint shall be in writing, signed by the complainant, and filed with the Registrar within 90 days after the subject-matter that gives rise to the complaint arose or at a later date with the Registrar’s consent.  2005, c. 34, s. 19 (2). Registrar to inform (3) The Registrar may, in writing, inform the licensee of the nature of the complaint.  2005, c. 34, s. 19 (3). Registrar may decline (4) The Registrar may decline to deal with a complaint related to a breach of the code of conduct if, in the Registrar’s opinion, the complaint is frivolous, vexatious or not made in good faith.  2005, c. 34, s. 19 (4). Notice (5) If the Registrar declines to deal with a complaint under subsection (4), the Registrar shall give notice of the decision to the complainant and shall specify the reasons for the decision.  2005, c. 34, s. 19 (5). Referral to facilitator (6) Unless subsection (4) applies, and if in the opinion of the Registrar the complaint is in regard to a breach of the code of conduct established under the regulations, the Registrar shall refer the complaint to a facilitator, unless the complainant does not wish the matter to be referred.  2005, c. 34, s. 19 (6). Rules for facilitations (7) The Registrar may establish rules concerning facilitations under this section, and a facilitator shall comply with any applicable rules.  2005, c. 34, s. 19 (7). Attendance (8) A facilitation shall not take place without the participation of the complainant and the licensee must attend any meetings required by the facilitator.  2005, c. 34, s. 19 (8). Facilitation (9) The facilitator shall attempt to resolve the complaint, and at the end of the facilitation shall communicate to the Registrar the results of the facilitation and either, (a) his or her decision to make no recommendation; or (b) his or her recommendation that the Registrar require the licensee to take appropriate remedial instruction.  2005, c. 34, s. 19 (9). Registrar to act (10) Where the facilitator has made a recommendation under clause (9) (b), the Registrar shall act in accordance with the facilitator’s recommendations by imposing the taking of the remedial instruction as a condition of the licence.  2005, c. 34, s. 19 (10). Registrar’s authority not affected (11) This section does not prevent the Registrar from exercising his or her authority under any other provision of this Act in respect of a licensee against whom a complaint has been made, whether or not the Registrar has dealt with the complaint under this section.  2005, c. 34, s. 19 (11). Investigations",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>19 </b>(1) The Registrar may receive a complaint from any person alleging that a licensee has breached the code of conduct established under the regulations or alleging that a licensee has failed to comply with this Act or the regulations or has breached a condition of a licence.  2005, c. 34, s. 19 (1).</p> <p class=\"headnote\">Form of complaint</p> <p class=\"subsection\">(2) A complaint shall be in writing, signed by the complainant, and filed with the Registrar within 90 days after the subject-matter that gives rise to the complaint arose or at a later date with the Registrar’s consent.  2005, c. 34, s. 19 (2).</p> <p class=\"headnote\">Registrar to inform</p> <p class=\"subsection\">(3) The Registrar may, in writing, inform the licensee of the nature of the complaint.  2005, c. 34, s. 19 (3).</p> <p class=\"headnote\">Registrar may decline</p> <p class=\"subsection\">(4) The Registrar may decline to deal with a complaint related to a breach of the code of conduct if, in the Registrar’s opinion, the complaint is frivolous, vexatious or not made in good faith.  2005, c. 34, s. 19 (4).</p> <p class=\"headnote\">Notice</p> <p class=\"subsection\">(5) If the Registrar declines to deal with a complaint under subsection (4), the Registrar shall give notice of the decision to the complainant and shall specify the reasons for the decision.  2005, c. 34, s. 19 (5).</p> <p class=\"headnote\">Referral to facilitator</p> <p class=\"subsection\">(6) Unless subsection (4) applies, and if in the opinion of the Registrar the complaint is in regard to a breach of the code of conduct established under the regulations, the Registrar shall refer the complaint to a facilitator, unless the complainant does not wish the matter to be referred.  2005, c. 34, s. 19 (6).</p> <p class=\"headnote\">Rules for facilitations</p> <p class=\"subsection\">(7) The Registrar may establish rules concerning facilitations under this section, and a facilitator shall comply with any applicable rules.  2005, c. 34, s. 19 (7).</p> <p class=\"headnote\">Attendance</p> <p class=\"subsection\">(8) A facilitation shall not take place without the participation of the complainant and the licensee must attend any meetings required by the facilitator.  2005, c. 34, s. 19 (8).</p> <p class=\"headnote\">Facilitation</p> <p class=\"subsection\">(9) The facilitator shall attempt to resolve the complaint, and at the end of the facilitation shall communicate to the Registrar the results of the facilitation and either,</p> <p class=\"paragraph\">  (a) his or her decision to make no recommendation; or</p> <p class=\"paragraph\">  (b) his or her recommendation that the Registrar require the licensee to take appropriate remedial instruction.  2005, c. 34, s. 19 (9).</p> <p class=\"headnote\">Registrar to act</p> <p class=\"subsection\">(10) Where the facilitator has made a recommendation under clause (9) (b), the Registrar shall act in accordance with the facilitator’s recommendations by imposing the taking of the remedial instruction as a condition of the licence.  2005, c. 34, s. 19 (10).</p> <p class=\"headnote\">Registrar’s authority not affected</p> <p class=\"subsection\">(11) This section does not prevent the Registrar from exercising his or her authority under any other provision of this Act in respect of a licensee against whom a complaint has been made, whether or not the Registrar has dealt with the complaint under this section.  2005, c. 34, s. 19 (11).</p> <p class=\"heading1\"><a name=\"BK30\"></a>Investigations</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "Investigations",
+            "section_x": "Investigations",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "20.",
+            "section_x": "Appointment of investigators",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Appointment of investigators",
+            "content": "20 (1) The Registrar may appoint persons to be investigators for the purposes of this Act.  2005, c. 34, s. 20 (1). Certificate of appointment (2) The Registrar shall issue to every investigator a certificate of appointment bearing the Registrar’s signature or a facsimile of it.  2005, c. 34, s. 20 (2). Police officers (3) Police officers, by virtue of office, are investigators for the purposes of this Act and the regulations, but subsection (2) does not apply to them.  2005, c. 34, s. 20 (3). Proof of appointment (4) Every investigator who exercises powers under this Act shall, on request, produce the certificate of appointment as an investigator or identification as a police officer, as the case may be.  2005, c. 34, s. 20 (4).",
+            "raw_html": "<p class=\"section\"><a name=\"BK31\"></a><b>20 </b>(1) The Registrar may appoint persons to be investigators for the purposes of this Act.  2005, c. 34, s. 20 (1).</p> <p class=\"headnote\">Certificate of appointment</p> <p class=\"subsection\">(2) The Registrar shall issue to every investigator a certificate of appointment bearing the Registrar’s signature or a facsimile of it.  2005, c. 34, s. 20 (2).</p> <p class=\"headnote\">Police officers</p> <p class=\"subsection\">(3) Police officers, by virtue of office, are investigators for the purposes of this Act and the regulations, but subsection (2) does not apply to them.  2005, c. 34, s. 20 (3).</p> <p class=\"headnote\">Proof of appointment</p> <p class=\"subsection\">(4) Every investigator who exercises powers under this Act shall, on request, produce the certificate of appointment as an investigator or identification as a police officer, as the case may be.  2005, c. 34, s. 20 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "21.",
+            "section_x": "Initiation of investigations",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Initiation of investigations",
+            "content": "21 The Registrar or an investigator may, (a) initiate an investigation based on a complaint alleging a contravention of this Act, the regulations or a condition of a licence; or (b) initiate an investigation even if no complaint has been made.  2005, c. 34, s. 21.",
+            "raw_html": "<p class=\"section\"><a name=\"BK32\"></a><b>21 </b>The Registrar or an investigator may,</p> <p class=\"paragraph\">  (a) initiate an investigation based on a complaint alleging a contravention of this Act, the regulations or a condition of a licence; or</p> <p class=\"paragraph\">  (b) initiate an investigation even if no complaint has been made.  2005, c. 34, s. 21.</p>"
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "22.",
+            "section_x": "Search warrant",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Search warrant",
+            "content": "22 (1) Upon application made without notice by an investigator appointed under this Act, a justice of the peace may issue a warrant, if he or she is satisfied on information under oath that there is reasonable ground for believing that, (a) a person has contravened or is contravening this Act or the regulations; and (b) there is in any building, dwelling, receptacle or place anything relating to a contravention of this Act or the regulations.  2005, c. 34, s. 22 (1). Powers (2) A warrant obtained under subsection (1) may authorize an investigator named in the warrant to, (a) enter premises, including a dwelling, specified in the warrant; (b) examine money, valuables, documents, records and other things relevant to the investigation; (c) seize anything on the premises that is relevant to the investigation for the purpose of being used as evidence; (d) require a person, other than a person on the premises of the licensee being investigated, to produce anything mentioned in clause (b) that is relevant to the investigation; (e) remove, for the purpose of making copies or extracts, anything mentioned in clause (b) that is relevant to the investigation; (f) use any data storage, processing or retrieval device or system used in carrying on business in order to produce a document or record in readable form; (g) conduct such tests as are reasonably necessary; (h) remove materials or substances for examination or test purposes subject to the owner, or other occupant of the premises, being notified thereof; and (i) use any other investigative technique or procedure or do anything described in the warrant if information and other evidence concerning the offence will be obtained through the use of the technique or procedure or the doing of the thing.  2005, c. 34, s. 22 (2). Conditions on search warrant (3) A warrant obtained under subsection (1) shall contain such conditions as the justice of the peace considers advisable to ensure that any search authorized by the warrant is reasonable in the circumstances.  2005, c. 34, s. 22 (3). Expert help (4) The warrant may authorize persons who have special, expert or professional knowledge to accompany and assist the investigator in respect of the execution of the warrant.  2005, c. 34, s. 22 (4). Expiry of warrant (5) A warrant issued under this section shall name a date of expiry, which shall be no later than 30 days after the warrant is issued, but a justice of the peace may extend the date of expiry for an additional period of no more than 30 days, on application without notice by the investigator named in the warrant.  2005, c. 34, s. 22 (5). Use of force (6) The investigator named in the warrant may call upon police officers for assistance in executing the warrant and the investigator and the police officers may use whatever force is reasonably necessary to execute a warrant.  2005, c. 34, s. 22 (6). Obstruction (7) No person shall obstruct an investigator carrying out an investigation under this section or withhold from him or her or conceal, alter or destroy anything that is relevant to the investigation.  2005, c. 34, s. 22 (7). Obligation to produce and assist (8) A person who is required to produce anything under clause (2) (d) shall produce it and shall, on request by the investigator, provide any assistance that is reasonably necessary, including assistance in using any data storage, processing or retrieval device or system, to produce a document or record in readable form.  2005, c. 34, s. 22 (8). Return of removed things (9) An investigator who removes or seizes anything from premises under subsection (2) shall return it when it is no longer required.  2005, c. 34, s. 22 (9).",
+            "raw_html": "<p class=\"section\"><a name=\"BK33\"></a><b>22 </b>(1) Upon application made without notice by an investigator appointed under this Act, a justice of the peace may issue a warrant, if he or she is satisfied on information under oath that there is reasonable ground for believing that,</p> <p class=\"paragraph\">  (a) a person has contravened or is contravening this Act or the regulations; and</p> <p class=\"paragraph\">  (b) there is in any building, dwelling, receptacle or place anything relating to a contravention of this Act or the regulations.  2005, c. 34, s. 22 (1).</p> <p class=\"headnote\">Powers</p> <p class=\"subsection\">(2) A warrant obtained under subsection (1) may authorize an investigator named in the warrant to,</p> <p class=\"paragraph\">  (a) enter premises, including a dwelling, specified in the warrant;</p> <p class=\"paragraph\">  (b) examine money, valuables, documents, records and other things relevant to the investigation;</p> <p class=\"paragraph\">  (c) seize anything on the premises that is relevant to the investigation for the purpose of being used as evidence;</p> <p class=\"paragraph\">  (d) require a person, other than a person on the premises of the licensee being investigated, to produce anything mentioned in clause (b) that is relevant to the investigation;</p> <p class=\"paragraph\">  (e) remove, for the purpose of making copies or extracts, anything mentioned in clause (b) that is relevant to the investigation;</p> <p class=\"paragraph\">  (f) use any data storage, processing or retrieval device or system used in carrying on business in order to produce a document or record in readable form;</p> <p class=\"paragraph\">  (g) conduct such tests as are reasonably necessary;</p> <p class=\"paragraph\">  (h) remove materials or substances for examination or test purposes subject to the owner, or other occupant of the premises, being notified thereof; and</p> <p class=\"paragraph\">  (i) use any other investigative technique or procedure or do anything described in the warrant if information and other evidence concerning the offence will be obtained through the use of the technique or procedure or the doing of the thing.  2005, c. 34, s. 22 (2).</p> <p class=\"headnote\">Conditions on search warrant</p> <p class=\"subsection\">(3) A warrant obtained under subsection (1) shall contain such conditions as the justice of the peace considers advisable to ensure that any search authorized by the warrant is reasonable in the circumstances.  2005, c. 34, s. 22 (3).</p> <p class=\"headnote\">Expert help</p> <p class=\"subsection\">(4) The warrant may authorize persons who have special, expert or professional knowledge to accompany and assist the investigator in respect of the execution of the warrant.  2005, c. 34, s. 22 (4).</p> <p class=\"headnote\">Expiry of warrant</p> <p class=\"subsection\">(5) A warrant issued under this section shall name a date of expiry, which shall be no later than 30 days after the warrant is issued, but a justice of the peace may extend the date of expiry for an additional period of no more than 30 days, on application without notice by the investigator named in the warrant.  2005, c. 34, s. 22 (5).</p> <p class=\"headnote\">Use of force</p> <p class=\"subsection\">(6) The investigator named in the warrant may call upon police officers for assistance in executing the warrant and the investigator and the police officers may use whatever force is reasonably necessary to execute a warrant.  2005, c. 34, s. 22 (6).</p> <p class=\"headnote\">Obstruction</p> <p class=\"subsection\">(7) No person shall obstruct an investigator carrying out an investigation under this section or withhold from him or her or conceal, alter or destroy anything that is relevant to the investigation.  2005, c. 34, s. 22 (7).</p> <p class=\"headnote\">Obligation to produce and assist</p> <p class=\"subsection\">(8) A person who is required to produce anything under clause (2) (d) shall produce it and shall, on request by the investigator, provide any assistance that is reasonably necessary, including assistance in using any data storage, processing or retrieval device or system, to produce a document or record in readable form.  2005, c. 34, s. 22 (8).</p> <p class=\"headnote\">Return of removed things</p> <p class=\"subsection\">(9) An investigator who removes or seizes anything from premises under subsection (2) shall return it when it is no longer required.  2005, c. 34, s. 22 (9).</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "23.",
+            "section_x": "Searches in exigent circumstances",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Searches in exigent circumstances",
+            "content": "23 (1) Although a warrant issued under section 22 would otherwise be required, an investigator may exercise any of the powers described in subsection 22 (2) without a warrant if the conditions for obtaining the warrant exist but by reason of exigent circumstances it would be impracticable to obtain the warrant.  2005, c. 34, s. 23 (1). Dwellings (2) Subsection (1) does not apply to a building or part of a building that is being used as a dwelling place.  2005, c. 34, s. 23 (2). Use of force (3) The investigator may, in executing any authority given by this section, call upon police officers for assistance and the investigator and the police officers may use whatever force is reasonably necessary under the circumstances.  2005, c. 34, s. 23 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK34\"></a><b>23 </b>(1) Although a warrant issued under section 22 would otherwise be required, an investigator may exercise any of the powers described in subsection 22 (2) without a warrant if the conditions for obtaining the warrant exist but by reason of exigent circumstances it would be impracticable to obtain the warrant.  2005, c. 34, s. 23 (1).</p> <p class=\"headnote\">Dwellings</p> <p class=\"subsection\">(2) Subsection (1) does not apply to a building or part of a building that is being used as a dwelling place.  2005, c. 34, s. 23 (2).</p> <p class=\"headnote\">Use of force</p> <p class=\"subsection\">(3) The investigator may, in executing any authority given by this section, call upon police officers for assistance and the investigator and the police officers may use whatever force is reasonably necessary under the circumstances.  2005, c. 34, s. 23 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "24.",
+            "section_x": "Admissibility of copies",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Admissibility of copies",
+            "content": "24 A copy of a document or record certified by an investigator as being a true copy of the original is admissible in evidence to the same extent as the original and has the same evidentiary value.  2005, c. 34, s. 24.",
+            "raw_html": "<p class=\"section\"><a name=\"BK35\"></a><b>24 </b>A copy of a document or record certified by an investigator as being a true copy of the original is admissible in evidence to the same extent as the original and has the same evidentiary value.  2005, c. 34, s. 24.</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "25.",
+            "section_x": "Possession of licence",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Possession of licence",
+            "content": "25 (1) An investigator may take possession of a licence if, while acting in the course of his or her duties, the investigator believes on reasonable grounds that the licence, (a) is required to be returned to the Registrar under section 37; or (b) is being used contrary to section 38.  2005, c. 34, s. 25 (1). Same (2) An investigator who takes possession of a licence under subsection (1) shall promptly forward it to the Registrar.  2005, c. 34, s. 25 (2). Inspections",
+            "raw_html": "<p class=\"section\"><a name=\"BK36\"></a><b>25 </b>(1) An investigator may take possession of a licence if, while acting in the course of his or her duties, the investigator believes on reasonable grounds that the licence,</p> <p class=\"paragraph\">  (a) is required to be returned to the Registrar under section 37; or</p> <p class=\"paragraph\">  (b) is being used contrary to section 38.  2005, c. 34, s. 25 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) An investigator who takes possession of a licence under subsection (1) shall promptly forward it to the Registrar.  2005, c. 34, s. 25 (2).</p> <p class=\"heading1\"><a name=\"BK37\"></a>Inspections</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "Inspections",
+            "section_x": "Inspections",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "26.",
+            "section_x": "Appointment of inspectors",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Appointment of inspectors",
+            "content": "26 (1) The Registrar may appoint persons to be inspectors for the purposes of ensuring compliance with this Act, the regulations and the conditions of a licence.  2005, c. 34, s. 26 (1). Certificate of appointment (2) The Registrar shall issue to every inspector a certificate of appointment bearing the Registrar’s signature or a facsimile of it.  2005, c. 34, s. 26 (2). Proof of appointment (3) Every inspector who exercises powers under this Act shall, on request, produce the certificate of appointment as an inspector.  2005, c. 34, s. 26 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK38\"></a><b>26 </b>(1) The Registrar may appoint persons to be inspectors for the purposes of ensuring compliance with this Act, the regulations and the conditions of a licence.  2005, c. 34, s. 26 (1).</p> <p class=\"headnote\">Certificate of appointment</p> <p class=\"subsection\">(2) The Registrar shall issue to every inspector a certificate of appointment bearing the Registrar’s signature or a facsimile of it.  2005, c. 34, s. 26 (2).</p> <p class=\"headnote\">Proof of appointment</p> <p class=\"subsection\">(3) Every inspector who exercises powers under this Act shall, on request, produce the certificate of appointment as an inspector.  2005, c. 34, s. 26 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "27.",
+            "section_x": "Inspection",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Inspection",
+            "content": "27 (1) Subject to subsection (2), the Registrar or an inspector appointed under section 26 may at any time initiate and conduct an inspection and may, as part of that inspection, enter and inspect at any reasonable time the premises of a licensee that is licensed to sell private investigator or security guard services for the purposes of ensuring that the licensee is complying with, (a) this Act and the regulations; and (b) the conditions of its licence.  2005, c. 34, s. 27 (1). Limitations on entry (2) An inspector shall not, except under the authority of a warrant issued under section 28, (a) enter any part of a licensee’s premises used as a dwelling unless the occupier consents; and (b) use force to enter and inspect premises under this section.  2005, c. 34, s. 27 (2). Powers on inspection (3) While carrying out an inspection, an inspector may, (a) examine all money, valuables, documents, records and things that are relevant to the inspection; (b) require a person on the premises being inspected to produce anything mentioned in clause (a) that is relevant to the inspection; (c) on giving a receipt for it, remove, for the purpose of making copies or extracts, anything mentioned in clause (a) that is relevant to the inspection; (d) inquire into negotiations, transactions, loans or borrowings of a licensee and into assets owned, held in trust, acquired or disposed of by a licensee that are relevant to an inspection; (e) use any data storage, processing or retrieval device or system used in carrying on business in the place in order to produce a document or record in readable form; (f) conduct such tests as are reasonably necessary; and (g) remove materials or substances for examination or test purposes subject to the licensee, or other occupant of the premises, being notified thereof.  2005, c. 34, s. 27 (3). Return of removed things (4) An inspector who removes anything from premises under subsection (3) shall return it when it is no longer required.  2005, c. 34, s. 27 (4). Obligation to produce and assist (5) A person who is required to produce anything under clause (3) (b) shall produce it and shall, on request by the inspector, provide any assistance that is reasonably necessary, including assistance in using any data storage, processing or retrieval device or system, to produce a document or record in readable form.  2005, c. 34, s. 27 (5). Obstruction prohibited (6) No person shall obstruct an inspector conducting an inspection or withhold from him or her or conceal or destroy anything that is relevant to the inspection.  2005, c. 34, s. 27 (6). Admissibility of copies (7) A copy of a document or record certified by an inspector to be a true copy of the original is admissible in evidence to the same extent as the original and has the same evidentiary value.  2005, c. 34, s. 27 (7).",
+            "raw_html": "<p class=\"section\"><a name=\"BK39\"></a><b>27 </b>(1) Subject to subsection (2), the Registrar or an inspector appointed under section 26 may at any time initiate and conduct an inspection and may, as part of that inspection, enter and inspect at any reasonable time the premises of a licensee that is licensed to sell private investigator or security guard services for the purposes of ensuring that the licensee is complying with,</p> <p class=\"paragraph\">  (a) this Act and the regulations; and</p> <p class=\"paragraph\">  (b) the conditions of its licence.  2005, c. 34, s. 27 (1).</p> <p class=\"headnote\">Limitations on entry</p> <p class=\"subsection\">(2) An inspector shall not, except under the authority of a warrant issued under section 28,</p> <p class=\"paragraph\">  (a) enter any part of a licensee’s premises used as a dwelling unless the occupier consents; and</p> <p class=\"paragraph\">  (b) use force to enter and inspect premises under this section.  2005, c. 34, s. 27 (2).</p> <p class=\"headnote\">Powers on inspection</p> <p class=\"subsection\">(3) While carrying out an inspection, an inspector may,</p> <p class=\"paragraph\">  (a) examine all money, valuables, documents, records and things that are relevant to the inspection;</p> <p class=\"paragraph\">  (b) require a person on the premises being inspected to produce anything mentioned in clause (a) that is relevant to the inspection;</p> <p class=\"paragraph\">  (c) on giving a receipt for it, remove, for the purpose of making copies or extracts, anything mentioned in clause (a) that is relevant to the inspection;</p> <p class=\"paragraph\">  (d) inquire into negotiations, transactions, loans or borrowings of a licensee and into assets owned, held in trust, acquired or disposed of by a licensee that are relevant to an inspection;</p> <p class=\"paragraph\">  (e) use any data storage, processing or retrieval device or system used in carrying on business in the place in order to produce a document or record in readable form;</p> <p class=\"paragraph\">  (f) conduct such tests as are reasonably necessary; and</p> <p class=\"paragraph\">  (g) remove materials or substances for examination or test purposes subject to the licensee, or other occupant of the premises, being notified thereof.  2005, c. 34, s. 27 (3).</p> <p class=\"headnote\">Return of removed things</p> <p class=\"subsection\">(4) An inspector who removes anything from premises under subsection (3) shall return it when it is no longer required.  2005, c. 34, s. 27 (4).</p> <p class=\"headnote\">Obligation to produce and assist</p> <p class=\"subsection\">(5) A person who is required to produce anything under clause (3) (b) shall produce it and shall, on request by the inspector, provide any assistance that is reasonably necessary, including assistance in using any data storage, processing or retrieval device or system, to produce a document or record in readable form.  2005, c. 34, s. 27 (5).</p> <p class=\"headnote\">Obstruction prohibited</p> <p class=\"subsection\">(6) No person shall obstruct an inspector conducting an inspection or withhold from him or her or conceal or destroy anything that is relevant to the inspection.  2005, c. 34, s. 27 (6).</p> <p class=\"headnote\">Admissibility of copies</p> <p class=\"subsection\">(7) A copy of a document or record certified by an inspector to be a true copy of the original is admissible in evidence to the same extent as the original and has the same evidentiary value.  2005, c. 34, s. 27 (7).</p>"
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "28.",
+            "section_x": "Warrant",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Warrant",
+            "content": "28 (1) On an application without notice, a justice of the peace may issue a warrant authorizing an inspector named in the warrant to enter premises of a licensee specified in the warrant and to exercise any of the powers referred to in subsection 27 (3) if the justice of the peace is satisfied on information under oath that, (a) the inspector has been prevented from exercising a right of entry to the premises under subsection 27 (1) or has been prevented from exercising a power under subsection 27 (3); or (b) there are reasonable grounds to believe that the inspector will be prevented from exercising a right or power referred to in clause (a).  2005, c. 34, s. 28 (1). Warrant to enter dwelling (2) On an application without notice, a justice of the peace may issue a warrant authorizing an inspector to enter premises of a licensee being used as a dwelling and exercise any of the powers referred to in subsection 27 (3) if the justice of the peace is satisfied on information under oath that entry into the dwelling is necessary for the purpose of ensuring that the licensee is complying with this Act, the regulations or the conditions of his, her or its licence.  2005, c. 34, s. 28 (2). Expiry of warrant (3) A warrant issued under this section shall name a date of expiry, which shall be no later than 30 days after the warrant is issued, but a justice of the peace may extend the date of expiry for an additional period of no more than 30 days on application without notice by the inspector named in the warrant.  2005, c. 34, s. 28 (3). Time of execution (4) An entry into premises used as a dwelling under a warrant issued under this section shall be made between 6 a.m. and 9 p.m., unless the warrant specifies otherwise.  2005, c. 34, s. 28 (4). Use of force (5) An inspector may call upon police officers for assistance in executing a warrant issued under this section and the inspector and the police officers may use whatever force is reasonably necessary to execute a warrant.  2005, c. 34, s. 28 (5).",
+            "raw_html": "<p class=\"section\"><a name=\"BK40\"></a><b>28 </b>(1) On an application without notice, a justice of the peace may issue a warrant authorizing an inspector named in the warrant to enter premises of a licensee specified in the warrant and to exercise any of the powers referred to in subsection 27 (3) if the justice of the peace is satisfied on information under oath that,</p> <p class=\"paragraph\">  (a) the inspector has been prevented from exercising a right of entry to the premises under subsection 27 (1) or has been prevented from exercising a power under subsection 27 (3); or</p> <p class=\"paragraph\">  (b) there are reasonable grounds to believe that the inspector will be prevented from exercising a right or power referred to in clause (a).  2005, c. 34, s. 28 (1).</p> <p class=\"headnote\">Warrant to enter dwelling</p> <p class=\"subsection\">(2) On an application without notice, a justice of the peace may issue a warrant authorizing an inspector to enter premises of a licensee being used as a dwelling and exercise any of the powers referred to in subsection 27 (3) if the justice of the peace is satisfied on information under oath that entry into the dwelling is necessary for the purpose of ensuring that the licensee is complying with this Act, the regulations or the conditions of his, her or its licence.  2005, c. 34, s. 28 (2).</p> <p class=\"headnote\">Expiry of warrant</p> <p class=\"subsection\">(3) A warrant issued under this section shall name a date of expiry, which shall be no later than 30 days after the warrant is issued, but a justice of the peace may extend the date of expiry for an additional period of no more than 30 days on application without notice by the inspector named in the warrant.  2005, c. 34, s. 28 (3).</p> <p class=\"headnote\">Time of execution</p> <p class=\"subsection\">(4) An entry into premises used as a dwelling under a warrant issued under this section shall be made between 6 a.m. and 9 p.m., unless the warrant specifies otherwise.  2005, c. 34, s. 28 (4).</p> <p class=\"headnote\">Use of force</p> <p class=\"subsection\">(5) An inspector may call upon police officers for assistance in executing a warrant issued under this section and the inspector and the police officers may use whatever force is reasonably necessary to execute a warrant.  2005, c. 34, s. 28 (5).</p>"
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "29.",
+            "section_x": "Possession of licence",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Possession of licence",
+            "content": "29 (1) An inspector may take possession of a licence if, while carrying out an inspection, the inspector believes on reasonable grounds that the licence, (a) is required to be returned to the Registrar under section 37; or (b) is being used contrary to section 38.  2005, c. 34, s. 29 (1). Same (2) An inspector who takes possession of a licence under subsection (1) shall promptly forward it to the Registrar.  2005, c. 34, s. 29 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK41\"></a><b>29 </b>(1) An inspector may take possession of a licence if, while carrying out an inspection, the inspector believes on reasonable grounds that the licence,</p> <p class=\"paragraph\">  (a) is required to be returned to the Registrar under section 37; or</p> <p class=\"paragraph\">  (b) is being used contrary to section 38.  2005, c. 34, s. 29 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) An inspector who takes possession of a licence under subsection (1) shall promptly forward it to the Registrar.  2005, c. 34, s. 29 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "29.1",
+            "section_x": "Arrest without warrant",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLAINTS AND INVESTIGATIONS",
+            "section_y": "Arrest without warrant",
+            "content": "29.1 If a police officer finds a person apparently in contravention of this Act or apparently in contravention of a prescribed provision of the regulations and the person refuses to give his or her name and address or there are reasonable grounds to believe that the name or address given is false, the police officer may arrest the person without warrant.  2009, c. 33, Sched. 9, s. 11 (3). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 9, s. 11 (3) - 15/12/2009 Part VI   General duties and standards of practice",
+            "raw_html": "<p class=\"section\"><a name=\"BK42\"></a><b>29.1 </b>If a police officer finds a person apparently in contravention of this Act or apparently in contravention of a prescribed provision of the regulations and the person refuses to give his or her name and address or there are reasonable grounds to believe that the name or address given is false, the police officer may arrest the person without warrant.  2009, c. 33, Sched. 9, s. 11 (3).</p> <p class=\"footnoteLeft\"><a name=\"BK43\"></a><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched9s11s3\">2009, c. 33, Sched. 9, s. 11 (3)</a></span> - 15/12/2009</p> <p class=\"partnum\">Part VI <br/>  General duties and standards of practice</p>"
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "PART VI  ",
+            "section_x": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "30.",
+            "section_x": "Insurance required",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "section_y": "Insurance required",
+            "content": "30 No person shall hold a licence to engage in the business of selling the services of private investigators or security guards unless that person is insured by an insurer licensed under the Insurance Act for the kinds of liability and in the amounts prescribed.  2005, c. 34, s. 30.",
+            "raw_html": "<p class=\"section\"><a name=\"BK44\"></a><b>30 </b>No person shall hold a licence to engage in the business of selling the services of private investigators or security guards unless that person is insured by an insurer licensed under the <i>Insurance Act</i> for the kinds of liability and in the amounts prescribed.  2005, c. 34, s. 30.</p>"
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "31.",
+            "section_x": "Appropriate licence",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "section_y": "Appropriate licence",
+            "content": "31 No business entity shall employ a private investigator or a security guard unless the private investigator or the security guard has an appropriate licence.  2005, c. 34, s. 31.",
+            "raw_html": "<p class=\"section\"><a name=\"BK45\"></a><b>31 </b>No business entity shall employ a private investigator or a security guard unless the private investigator or the security guard has an appropriate licence.  2005, c. 34, s. 31.</p>"
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "32.",
+            "section_x": "Information to be filed with Registrar",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "section_y": "Information to be filed with Registrar",
+            "content": "32 Every licensee under this Act shall ensure that the following information is on file with the Registrar and shall inform the Registrar in writing of any change within five business days of the change occurring: 1. The licensee’s mailing address for service. 2. The mailing address of every branch office of the licensee. 3. The street address of the licensee’s office and branch offices, if different from the mailing address.  2005, c. 34, s. 32.",
+            "raw_html": "<p class=\"section\"><a name=\"BK46\"></a><b>32 </b>Every licensee under this Act shall ensure that the following information is on file with the Registrar and shall inform the Registrar in writing of any change within five business days of the change occurring:</p> <p class=\"paragraph\">  1. The licensee’s mailing address for service.</p> <p class=\"paragraph\">  2. The mailing address of every branch office of the licensee.</p> <p class=\"paragraph\">  3. The street address of the licensee’s office and branch offices, if different from the mailing address.  2005, c. 34, s. 32.</p>"
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "33.",
+            "section_x": "Name of business",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "section_y": "Name of business",
+            "content": "33 No person who holds a licence to engage in the business of selling the services of private investigators or security guards shall carry on business in a name other than the name in which the person is licensed.  2005, c. 34, s. 33.",
+            "raw_html": "<p class=\"section\"><a name=\"BK47\"></a><b>33 </b>No person who holds a licence to engage in the business of selling the services of private investigators or security guards shall carry on business in a name other than the name in which the person is licensed.  2005, c. 34, s. 33.</p>"
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "34.",
+            "section_x": "Identification as private investigator",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "section_y": "Identification as private investigator",
+            "content": "34 (1) Every person who is holding himself or herself out as a private investigator shall, (a) carry his or her licence; (b) on request, identify himself or herself as a private investigator; and (c) on request, produce his or her licence.  2005, c. 34, s. 34 (1). No other evidence of authority (2) No person who is acting as a private investigator or holding himself or herself out as one shall possess any identification or symbol of authority other than the licence issued to him or her under this Act.  2005, c. 34, s. 34 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK48\"></a><b>34 </b>(1) Every person who is holding himself or herself out as a private investigator shall,</p> <p class=\"paragraph\">  (a) carry his or her licence;</p> <p class=\"paragraph\">  (b) on request, identify himself or herself as a private investigator; and</p> <p class=\"paragraph\">  (c) on request, produce his or her licence.  2005, c. 34, s. 34 (1).</p> <p class=\"headnote\">No other evidence of authority</p> <p class=\"subsection\">(2) No person who is acting as a private investigator or holding himself or herself out as one shall possess any identification or symbol of authority other than the licence issued to him or her under this Act.  2005, c. 34, s. 34 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "35.",
+            "section_x": "Security guard licence must be carried",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "section_y": "Security guard licence must be carried",
+            "content": "35 (1) Every person who is acting as a security guard or holding himself or herself out as one shall, (a) carry his or her licence; (b) on request, identify himself or herself as a security guard; and (c) on request, produce his or her licence.  2005, c. 34, s. 35 (1). Security guard uniform (2) Subject to subsection (3), every person who is acting as a security guard or holding himself or herself out as one shall wear a uniform that complies with the regulations.  2005, c. 34, s. 35 (2). Exception (3) Subsection (2) does not apply to a person who is, (a) acting as a bodyguard; or (b) performing services to prevent the loss of property through theft or sabotage in an industrial, commercial, residential or retail environment.  2005, c. 34, s. 35 (3). No other evidence of authority (4) No person who is acting as a security guard or holding himself or herself out as one shall possess any identification or symbol of authority other than his or her uniform, the licence issued to him or her under this Act, and any other form of identification or symbol of authority provided for in the regulations.  2005, c. 34, s. 35 (4).",
+            "raw_html": "<p class=\"section\"><a name=\"BK49\"></a><b>35 </b>(1) Every person who is acting as a security guard or holding himself or herself out as one shall,</p> <p class=\"paragraph\">  (a) carry his or her licence;</p> <p class=\"paragraph\">  (b) on request, identify himself or herself as a security guard; and</p> <p class=\"paragraph\">  (c) on request, produce his or her licence.  2005, c. 34, s. 35 (1).</p> <p class=\"headnote\">Security guard uniform</p> <p class=\"subsection\">(2) Subject to subsection (3), every person who is acting as a security guard or holding himself or herself out as one shall wear a uniform that complies with the regulations.  2005, c. 34, s. 35 (2).</p> <p class=\"headnote\">Exception</p> <p class=\"subsection\">(3) Subsection (2) does not apply to a person who is,</p> <p class=\"paragraph\">  (a) acting as a bodyguard; or</p> <p class=\"paragraph\">  (b) performing services to prevent the loss of property through theft or sabotage in an industrial, commercial, residential or retail environment.  2005, c. 34, s. 35 (3).</p> <p class=\"headnote\">No other evidence of authority</p> <p class=\"subsection\">(4) No person who is acting as a security guard or holding himself or herself out as one shall possess any identification or symbol of authority other than his or her uniform, the licence issued to him or her under this Act, and any other form of identification or symbol of authority provided for in the regulations.  2005, c. 34, s. 35 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "36.",
+            "section_x": "Display of licence to engage in business",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "section_y": "Display of licence to engage in business",
+            "content": "36 (1) No person who holds a licence to engage in the business of selling the services of private investigators or security guards shall do so unless the licence is displayed in a conspicuous spot in the office at which the public is invited to deal.  2005, c. 34, s. 36 (1). Branch office (2) The licence issued by the Registrar that is applicable to a branch office shall be displayed in each branch office.  2005, c. 34, s. 36 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK50\"></a><b>36 </b>(1) No person who holds a licence to engage in the business of selling the services of private investigators or security guards shall do so unless the licence is displayed in a conspicuous spot in the office at which the public is invited to deal.  2005, c. 34, s. 36 (1).</p> <p class=\"headnote\">Branch office</p> <p class=\"subsection\">(2) The licence issued by the Registrar that is applicable to a branch office shall be displayed in each branch office.  2005, c. 34, s. 36 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "37.",
+            "section_x": "Return of licence",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "section_y": "Return of licence",
+            "content": "37 Every licence is the property of the Crown and a person shall immediately return his, her or its licence to the Registrar in the following circumstances: 1. The licence is suspended or revoked. 2. The licence names a branch office at which the public is invited to deal and the business entity discontinues business at that office. 3. The licence is to engage in the business of selling the services of private investigators or security guards and the licensee discontinues the business. 4. The person ceases to meet a requirement set out in subsection 10 (1) and is prohibited under subsection 10 (2) from acting or offering services under the licence.  2005, c. 34, s. 37.",
+            "raw_html": "<p class=\"section\"><a name=\"BK51\"></a><b>37 </b>Every licence is the property of the Crown and a person shall immediately return his, her or its licence to the Registrar in the following circumstances:</p> <p class=\"paragraph\">  1. The licence is suspended or revoked.</p> <p class=\"paragraph\">  2. The licence names a branch office at which the public is invited to deal and the business entity discontinues business at that office.</p> <p class=\"paragraph\">  3. The licence is to engage in the business of selling the services of private investigators or security guards and the licensee discontinues the business.</p> <p class=\"paragraph\">  4. The person ceases to meet a requirement set out in subsection 10 (1) and is prohibited under subsection 10 (2) from acting or offering services under the licence.  2005, c. 34, s. 37.</p>"
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "38.",
+            "section_x": "Other duties re licences",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "section_y": "Other duties re licences",
+            "content": "38 No person shall, (a) possess, display or permit to be displayed a fake, altered or fraudulently obtained licence; (b) lend a licence to another person or permit another person to use it; (c) display or represent as his, her or its own a licence that was not issued to him, her or it; (d) display or represent as valid a licence that has been suspended or revoked; or (e) display or represent as valid a licence when the person to whom the licence was issued no longer meets a requirement under subsection 10 (1).  2005, c. 34, s. 38.",
+            "raw_html": "<p class=\"section\"><a name=\"BK52\"></a><b>38 </b>No person shall,</p> <p class=\"paragraph\">  (a) possess, display or permit to be displayed a fake, altered or fraudulently obtained licence;</p> <p class=\"paragraph\">  (b) lend a licence to another person or permit another person to use it;</p> <p class=\"paragraph\">  (c) display or represent as his, her or its own a licence that was not issued to him, her or it;</p> <p class=\"paragraph\">  (d) display or represent as valid a licence that has been suspended or revoked; or</p> <p class=\"paragraph\">  (e) display or represent as valid a licence when the person to whom the licence was issued no longer meets a requirement under subsection 10 (1).  2005, c. 34, s. 38.</p>"
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "39.",
+            "section_x": "Holding out as police",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "section_y": "Holding out as police",
+            "content": "39 No person who holds a licence under this Act shall falsely hold himself, herself or itself out as providing services or performing duties connected with police.  2005, c. 34, s. 39; 2019, c. 1, Sched. 4, s. 47 (2). Section Amendments with date in force (d/m/y) 2018, c. 3, Sched. 5, s. 49 - no effect - see 2019, c. 1, Sched. 3, s. 5 - 26/03/2019 2019, c. 1, Sched. 4, s. 47 (2) - 26/03/2019",
+            "raw_html": "<p class=\"section\"><a name=\"BK53\"></a><b>39 </b>No person who holds a licence under this Act shall falsely hold himself, herself or itself out as providing services or performing duties connected with police.  2005, c. 34, s. 39; 2019, c. 1, Sched. 4, s. 47 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18003#sched5s49\">2018, c. 3, Sched. 5, s. 49</a></span> - no effect - see <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19001#sched3s5\">2019, c. 1, Sched. 3, s. 5</a></span> - 26/03/2019</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19001#sched4s47s2\">2019, c. 1, Sched. 4, s. 47 (2)</a></span> - 26/03/2019</p>"
+        },
+        {
+            "ahref_id": "#BK54",
+            "TOCid": "40.",
+            "section_x": "Certain terms prohibited",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI GENERAL DUTIES AND STANDARDS OF PRACTICE",
+            "section_y": "Certain terms prohibited",
+            "content": "40 No private investigator, security guard or person who engages in the business of selling the services of private investigators or security guards shall use the following terms or variations of them: 1. Detective or Private Detective. 2. Law enforcement. 3. Police. 4. Officer.  2005, c. 34, s. 40. Part VII   General",
+            "raw_html": "<p class=\"section\"><a name=\"BK54\"></a><b>40 </b>No private investigator, security guard or person who engages in the business of selling the services of private investigators or security guards shall use the following terms or variations of them:</p> <p class=\"paragraph\">  1. Detective or Private Detective.</p> <p class=\"paragraph\">  2. Law enforcement.</p> <p class=\"paragraph\">  3. Police.</p> <p class=\"paragraph\">  4. Officer.  2005, c. 34, s. 40.</p> <p class=\"partnum\"><a name=\"BK55\"></a>Part VII <br/>  General</p>"
+        },
+        {
+            "ahref_id": "#BK55",
+            "TOCid": "PART VII  ",
+            "section_x": "PART VII GENERAL",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK56",
+            "TOCid": "41.",
+            "section_x": "Service",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "Service",
+            "content": "41 A notice under this Act is sufficiently given or served if it is, (a) delivered personally; (b) sent by registered mail to the address for service on file with the Registrar; (c) delivered to the address for service on file with the Registrar in another manner if the sender can prove receipt of the notice.  2005, c. 34, s. 41.",
+            "raw_html": "<p class=\"section\"><a name=\"BK56\"></a><b>41 </b>A notice under this Act is sufficiently given or served if it is,</p> <p class=\"paragraph\">  (a) delivered personally;</p> <p class=\"paragraph\">  (b) sent by registered mail to the address for service on file with the Registrar;</p> <p class=\"paragraph\">  (c) delivered to the address for service on file with the Registrar in another manner if the sender can prove receipt of the notice.  2005, c. 34, s. 41.</p>"
+        },
+        {
+            "ahref_id": "#BK57",
+            "TOCid": "42.",
+            "section_x": "False, misleading or deceptive representation",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "False, misleading or deceptive representation",
+            "content": "42 If the Registrar believes on reasonable grounds that a person licensed under this Act is making a false, misleading or deceptive representation in an advertisement, circular, pamphlet or material published or transmitted by any means, the Registrar may, (a) order the person to immediately cease making the representation; and (b) order the person to retract the representation, publish a correction of equal prominence to the original publication, or both.  2005, c. 34, s. 42.",
+            "raw_html": "<p class=\"section\"><a name=\"BK57\"></a><b>42 </b>If the Registrar believes on reasonable grounds that a person licensed under this Act is making a false, misleading or deceptive representation in an advertisement, circular, pamphlet or material published or transmitted by any means, the Registrar may,</p> <p class=\"paragraph\">  (a) order the person to immediately cease making the representation; and</p> <p class=\"paragraph\">  (b) order the person to retract the representation, publish a correction of equal prominence to the original publication, or both.  2005, c. 34, s. 42.</p>"
+        },
+        {
+            "ahref_id": "#BK58",
+            "TOCid": "43.",
+            "section_x": "Offence",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "Offence",
+            "content": "43 (1) A person is guilty of an offence if he, she or it, (a) knowingly furnishes false information in any application under this Act or in any statement or return required under this Act or the regulations; (b) fails to comply with any order or other requirement made under this Act or the regulations; (c) fails to comply with a condition of a licence; or (d) contravenes or fails to comply with any provision of this Act or the regulations.  2005, c. 34, s. 43 (1). Limitation (2) No proceeding under this section shall be commenced more than one year after the Registrar first became aware of the facts on which the proceeding is based.  2005, c. 34, s. 43 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK58\"></a><b>43 </b>(1) A person is guilty of an offence if he, she or it,</p> <p class=\"paragraph\">  (a) knowingly furnishes false information in any application under this Act or in any statement or return required under this Act or the regulations;</p> <p class=\"paragraph\">  (b) fails to comply with any order or other requirement made under this Act or the regulations;</p> <p class=\"paragraph\">  (c) fails to comply with a condition of a licence; or</p> <p class=\"paragraph\">  (d) contravenes or fails to comply with any provision of this Act or the regulations.  2005, c. 34, s. 43 (1).</p> <p class=\"headnote\">Limitation</p> <p class=\"subsection\">(2) No proceeding under this section shall be commenced more than one year after the Registrar first became aware of the facts on which the proceeding is based.  2005, c. 34, s. 43 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK59",
+            "TOCid": "44.",
+            "section_x": "Offence – directors or officers",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "Offence – directors or officers",
+            "content": "44 Where a business entity is guilty of an offence under this Act, every director, officer or partner of the business entity who authorizes, permits or acquiesces in the offence is guilty of an offence.  2005, c. 34, s. 44. Penalties",
+            "raw_html": "<p class=\"section\"><a name=\"BK59\"></a><b>44 </b>Where a business entity is guilty of an offence under this Act, every director, officer or partner of the business entity who authorizes, permits or acquiesces in the offence is guilty of an offence.  2005, c. 34, s. 44.</p> <p class=\"headnote\">Penalties</p>"
+        },
+        {
+            "ahref_id": "#BK60",
+            "TOCid": "45.",
+            "section_x": "Penalties",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "Individuals",
+            "content": "45 (1) Every individual convicted of an offence under this Act is liable to a fine of not more than $25,000, imprisonment for a term of not more than one year, or both.  2005, c. 34, s. 45 (1). Business entity (2) Every business entity convicted of an offence under this Act is liable to a fine of not more than $250,000.  2005, c. 34, s. 45 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK60\"></a><b>45 </b>(1) Every individual convicted of an offence under this Act is liable to a fine of not more than $25,000, imprisonment for a term of not more than one year, or both.  2005, c. 34, s. 45 (1).</p> <p class=\"headnote\">Business entity</p> <p class=\"subsection\">(2) Every business entity convicted of an offence under this Act is liable to a fine of not more than $250,000.  2005, c. 34, s. 45 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK61",
+            "TOCid": "46.",
+            "section_x": "Testimonial immunity",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "Testimonial immunity",
+            "content": "46 No person engaged in the administration or enforcement of this Act shall be required to give testimony in any civil proceeding, except in a proceeding under this Act, with regard to information obtained in the discharge of the person’s duties.  2005, c. 34, s. 46.",
+            "raw_html": "<p class=\"section\"><a name=\"BK61\"></a><b>46 </b>No person engaged in the administration or enforcement of this Act shall be required to give testimony in any civil proceeding, except in a proceeding under this Act, with regard to information obtained in the discharge of the person’s duties.  2005, c. 34, s. 46.</p>"
+        },
+        {
+            "ahref_id": "#BK62",
+            "TOCid": "47.",
+            "section_x": "Court order for compliance",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "Court order for compliance",
+            "content": "47 (1) If a person fails to comply with a Registrar’s order made under this Act, the Registrar may, in addition to any other action he or she may take, make an application to a judge of the Superior Court of Justice for an order directing the person to comply with the Registrar’s order.  2005, c. 34, s. 47 (1). Judge’s power (2) On hearing the application, the judge may make such order as he or she thinks fit.  2005, c. 34, s. 47 (2). Appeal (3) An appeal lies to the Divisional Court from the judge’s order.  2005, c. 34, s. 47 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK62\"></a><b>47 </b>(1) If a person fails to comply with a Registrar’s order made under this Act, the Registrar may, in addition to any other action he or she may take, make an application to a judge of the Superior Court of Justice for an order directing the person to comply with the Registrar’s order.  2005, c. 34, s. 47 (1).</p> <p class=\"headnote\">Judge’s power</p> <p class=\"subsection\">(2) On hearing the application, the judge may make such order as he or she thinks fit.  2005, c. 34, s. 47 (2).</p> <p class=\"headnote\">Appeal</p> <p class=\"subsection\">(3) An appeal lies to the Divisional Court from the judge’s order.  2005, c. 34, s. 47 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK63",
+            "TOCid": "48.",
+            "section_x": "Protection from liability",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "Protection from liability",
+            "content": "48 (1) No action or other proceeding for damages may be instituted against the Registrar or anyone engaged in the administration or enforcement of this Act for any act done in good faith in the execution or intended execution of a duty under this Act or for any alleged neglect or default in the execution in good faith of the person’s duty.  2005, c. 34, s. 48 (1). Crown liability (2) Despite subsection 8 (3) of the Crown Liability and Proceedings Act, 2019, subsection (1) does not relieve the Crown of liability in respect of a tort committed by a person mentioned in subsection (1) to which it would otherwise be subject.  2005, c. 34, s. 48 (2); 2019, c. 7, Sched. 17, s. 143. Section Amendments with date in force (d/m/y) 2019, c. 7, Sched. 17, s. 143 - 01/07/2019",
+            "raw_html": "<p class=\"section\"><a name=\"BK63\"></a><b>48 </b>(1) No action or other proceeding for damages may be instituted against the Registrar or anyone engaged in the administration or enforcement of this Act for any act done in good faith in the execution or intended execution of a duty under this Act or for any alleged neglect or default in the execution in good faith of the person’s duty.  2005, c. 34, s. 48 (1).</p> <p class=\"headnote\">Crown liability</p> <p class=\"subsection\">(2) Despite subsection 8 (3) of the <i>Crown Liability and Proceedings Act, 2019</i>, subsection (1) does not relieve the Crown of liability in respect of a tort committed by a person mentioned in subsection (1) to which it would otherwise be subject.  2005, c. 34, s. 48 (2); 2019, c. 7, Sched. 17, s. 143.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19007#sched17s143\">2019, c. 7, Sched. 17, s. 143</a></span> - 01/07/2019</p>"
+        },
+        {
+            "ahref_id": "#BK64",
+            "TOCid": "49.",
+            "section_x": "Fees",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "Fees",
+            "content": "49 The Minister may, in writing, set out fees that are payable under this Act in respect of the issuance, renewal or replacement of licences and other administrative matters.  2005, c. 34, s. 49.",
+            "raw_html": "<p class=\"section\"><a name=\"BK64\"></a><b>49 </b>The Minister may, in writing, set out fees that are payable under this Act in respect of the issuance, renewal or replacement of licences and other administrative matters.  2005, c. 34, s. 49.</p>"
+        },
+        {
+            "ahref_id": "#BK65",
+            "TOCid": "50.",
+            "section_x": "Information concerning licensee",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "Information concerning licensee",
+            "content": "50 The Registrar may make available to the public a person’s status as a licensee, (a) on being provided with a person’s name; or (b) on being provided with a person’s licence number.  2005, c. 34, s. 50.",
+            "raw_html": "<p class=\"section\"><a name=\"BK65\"></a><b>50 </b>The Registrar may make available to the public a person’s status as a licensee,</p> <p class=\"paragraph\">  (a) on being provided with a person’s name; or</p> <p class=\"paragraph\">  (b) on being provided with a person’s licence number.  2005, c. 34, s. 50.</p>"
+        },
+        {
+            "ahref_id": "#BK66",
+            "TOCid": "51.",
+            "section_x": "Rules",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "Rules",
+            "content": "51 (1) The Registrar may make rules concerning the exercise of any of his or her powers under this Act.  2005, c. 34, s. 51 (1). Not regulations (2) A rule made by the Registrar is not a regulation for the purposes of Part III (Regulations) of the Legislation Act, 2006.  2005, c. 34, s. 51 (2); 2006, c. 21, Sched. F, s. 138 (3). Section Amendments with date in force (d/m/y) 2006, c. 21, Sched. F, s. 138 - 23/08/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK66\"></a><b>51 </b>(1) The Registrar may make rules concerning the exercise of any of his or her powers under this Act.  2005, c. 34, s. 51 (1).</p> <p class=\"headnote\">Not regulations</p> <p class=\"subsection\">(2) A rule made by the Registrar is not a regulation for the purposes of Part III (Regulations) of the <i>Legislation Act, 2006</i>.  2005, c. 34, s. 51 (2); 2006, c. 21, Sched. F, s. 138 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06021#schedfs138s1\">2006, c. 21, Sched. F, s. 138</a></span> - 23/08/2007</p>"
+        },
+        {
+            "ahref_id": "#BK67",
+            "TOCid": "52.",
+            "section_x": "Transition – licences",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII GENERAL",
+            "section_y": "Transition – licences",
+            "content": "52 A person who holds a licence under the Private Investigators and Security Guards Act\r\non the day this section comes into force shall be deemed to be licensed under this Act until the day the person’s licence would have expired under that Act.  2005, c. 34, s. 52. Part VIII   Regulations",
+            "raw_html": "<p class=\"section\"><a name=\"BK67\"></a><b>52 </b>A person who holds a licence under the <i>Private Investigators and Security Guards Act</i>\r\non the day this section comes into force shall be deemed to be licensed under this Act until the day the person’s licence would have expired under that Act.  2005, c. 34, s. 52.</p> <p class=\"partnum\"><a name=\"BK68\"></a>Part VIII <br/>  Regulations</p>"
+        },
+        {
+            "ahref_id": "#BK68",
+            "TOCid": "PART VIII  ",
+            "section_x": "PART VIII REGULATIONS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK69",
+            "TOCid": "53.",
+            "section_x": "Code of conduct",
+            "part_id": "PART VIII  ",
+            "part_type": "PART VIII REGULATIONS",
+            "section_y": "Code of conduct",
+            "content": "53 (1) The Minister may, by regulation, establish a code of conduct.  2005, c. 34, s. 53 (1). Same (2) It is a condition of every licence issued under this Act that a licensee shall comply with the code of conduct.  2005, c. 34, s. 53 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK69\"></a><b>53 </b>(1) The Minister may, by regulation, establish a code of conduct.  2005, c. 34, s. 53 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) It is a condition of every licence issued under this Act that a licensee shall comply with the code of conduct.  2005, c. 34, s. 53 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK70",
+            "TOCid": "54.",
+            "section_x": "Regulations",
+            "part_id": "PART VIII  ",
+            "part_type": "PART VIII REGULATIONS",
+            "section_y": "Regulations",
+            "content": "54 (1) The Minister may make regulations, (a) prescribing classes of licences; (b) respecting applications for the issuance or renewal of a licence; (c) prescribing grounds on which an application for the issuance or renewal of a licence may be refused; (d) prescribing the term of validity of a licence; (e) governing the training requirements for the issuance or renewal of a licence; (f) governing the testing requirements for the issuance or renewal of a licence; (g) exempting any person, class of person or class of licensee from any provision of this Act and attaching conditions to the exemption; (h) governing the documents, records and information that must be kept by licensees, including prescribing types and classes and time periods for retaining each type and class, and authorizing the Registrar to specify the location at which they must be kept; (i) prescribing documents, records or information that must be provided to the Registrar, respecting the time and manner in which they must be provided and requiring that specified information may be verified by affidavit; (j) respecting the uniform that must be worn by a person when acting as a security guard, and providing for badges, insignia and colours; (k) governing the equipment on vehicles and the appearance of vehicles used by a licensee or to identify the business of a licensee; (l) prescribing requirements for the registration of a business entity that employs a private investigator or security guard for the purposes of section 5; (m) requiring that any information required under this Act be in a form approved by the Registrar, as specified in the regulations; (n) prescribing the kinds of liability and amounts of insurance required by a business entity that holds a licence to engage in the business of selling the services of private investigators or security guards; (o) prescribing types of equipment and animals that may or may not be used by a licensee and prescribing conditions for the use of any equipment or animal; (p) governing the method of terminating or disposing of the business of selling the services of private investigators or security guards; (q) defining, for the purposes of this Act and the regulations, any word or expression used in this Act that has not already been expressly defined in this Act; (r) prescribing offences for the purposes of clause 10 (5) (a); (s) prescribing grounds for which an application for the issuance or renewal of a licence may be refused for the purposes of paragraph 6 of subsection 13 (2); (t) prescribing any matter or thing that may be or is required to be prescribed in this Act and respecting any matter that is required by this Act to be done in accordance with the regulations.  2005, c. 34, s. 54 (1). General or particular (2) A regulation under this section may be general or particular in its application.  2005, c. 34, s. 54 (2). 55 Omitted (amends or repeals other Acts).  2005, c. 34, s. 55. 56 Omitted (amends or repeals other Acts).  2005, c. 34, s. 56. 57 Omitted (provides for coming into force of provisions of this Act).  2005, c. 34, s. 57. 58 Omitted (enacts short title of this Act).  2005, c. 34, s. 58. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK70\"></a><b>54</b><b> </b>(1) The Minister may make regulations,</p> <p class=\"paragraph\">  (a) prescribing classes of licences;</p> <p class=\"paragraph\">  (b) respecting applications for the issuance or renewal of a licence;</p> <p class=\"paragraph\">  (c) prescribing grounds on which an application for the issuance or renewal of a licence may be refused;</p> <p class=\"paragraph\">  (d) prescribing the term of validity of a licence;</p> <p class=\"paragraph\">  (e) governing the training requirements for the issuance or renewal of a licence;</p> <p class=\"paragraph\">  (f) governing the testing requirements for the issuance or renewal of a licence;</p> <p class=\"paragraph\">  (g) exempting any person, class of person or class of licensee from any provision of this Act and attaching conditions to the exemption;</p> <p class=\"paragraph\">  (h) governing the documents, records and information that must be kept by licensees, including prescribing types and classes and time periods for retaining each type and class, and authorizing the Registrar to specify the location at which they must be kept;</p> <p class=\"paragraph\">  (i) prescribing documents, records or information that must be provided to the Registrar, respecting the time and manner in which they must be provided and requiring that specified information may be verified by affidavit;</p> <p class=\"paragraph\">  (j) respecting the uniform that must be worn by a person when acting as a security guard, and providing for badges, insignia and colours;</p> <p class=\"paragraph\">  (k) governing the equipment on vehicles and the appearance of vehicles used by a licensee or to identify the business of a licensee;</p> <p class=\"paragraph\">  (l) prescribing requirements for the registration of a business entity that employs a private investigator or security guard for the purposes of section 5;</p> <p class=\"paragraph\">  (m) requiring that any information required under this Act be in a form approved by the Registrar, as specified in the regulations;</p> <p class=\"paragraph\">  (n) prescribing the kinds of liability and amounts of insurance required by a business entity that holds a licence to engage in the business of selling the services of private investigators or security guards;</p> <p class=\"paragraph\">  (o) prescribing types of equipment and animals that may or may not be used by a licensee and prescribing conditions for the use of any equipment or animal;</p> <p class=\"paragraph\">  (p) governing the method of terminating or disposing of the business of selling the services of private investigators or security guards;</p> <p class=\"paragraph\">  (q) defining, for the purposes of this Act and the regulations, any word or expression used in this Act that has not already been expressly defined in this Act;</p> <p class=\"paragraph\">  (r) prescribing offences for the purposes of clause 10 (5) (a);</p> <p class=\"paragraph\">  (s) prescribing grounds for which an application for the issuance or renewal of a licence may be refused for the purposes of paragraph 6 of subsection 13 (2);</p> <p class=\"paragraph\">  (t) prescribing any matter or thing that may be or is required to be prescribed in this Act and respecting any matter that is required by this Act to be done in accordance with the regulations.  2005, c. 34, s. 54 (1).</p> <p class=\"headnote\">General or particular</p> <p class=\"subsection\">(2) A regulation under this section may be general or particular in its application.  2005, c. 34, s. 54 (2).</p> <p class=\"section\"><b>55</b><b> </b><span class=\"ovsmallcap\">Omitted (amends or repeals other Acts).</span>  2005, c. 34, s. 55.</p> <p class=\"section\"><b>56</b><b> </b><span class=\"ovsmallcap\">Omitted (amends or repeals other Acts).</span>  2005, c. 34, s. 56.</p> <p class=\"section\"><b>57</b><b> </b><span class=\"ovsmallcap\">Omitted (provides for coming into force of provisions of this Act).</span>  2005, c. 34, s. 57.</p> <p class=\"section\"><b>58</b><b> </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act).</span>  2005, c. 34, s. 58.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/05p34\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

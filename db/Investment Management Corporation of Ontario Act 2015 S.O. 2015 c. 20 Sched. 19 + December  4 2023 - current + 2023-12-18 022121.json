@@ -1,0 +1,394 @@
+{
+    "act_info": {
+        "full_title": "Investment Management Corporation of Ontario Act, 2015, S.O. 2015, c. 20, Sched. 19",
+        "act_name_text": "Investment Management Corporation of Ontario Act, 2015",
+        "citation": "S.O. 2015, c. 20, Sched. 19",
+        "url": "https://www.ontario.ca/laws/statute/15i20b",
+        "date_scraped": "2023-12-18 02:21:23"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "December  4, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/15i20b/v6",
+            "valid_from": "October 19, 2021",
+            "valid_to": "December  3, 2023"
+        },
+        {
+            "a_href": "/laws/statute/15i20b/v5",
+            "valid_from": "December  8, 2020",
+            "valid_to": "October 18, 2021"
+        },
+        {
+            "a_href": "/laws/statute/15i20b/v4",
+            "valid_from": "May 17, 2017",
+            "valid_to": "December  7, 2020"
+        },
+        {
+            "a_href": "/laws/statute/15i20b/v3",
+            "valid_from": "December  8, 2016",
+            "valid_to": "May 16, 2017"
+        },
+        {
+            "a_href": "/laws/statute/15i20b/v2",
+            "valid_from": "July  1, 2016",
+            "valid_to": "December  7, 2016"
+        },
+        {
+            "a_href": "/laws/statute/15i20b/v1",
+            "valid_from": "June  4, 2015",
+            "valid_to": "June 30, 2016"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/170212",
+            "Citation": "O. Reg. 212/17",
+            "title": "GENERAL"
+        }
+    ],
+    "revoked_regs": null,
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "Definitions",
+            "section_x": "Definitions",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Definitions",
+            "content": "1 In this Act, “Minister” means the Minister of Finance or such other member of the Executive Council as may be assigned the administration of this Act under the Executive Council Act; (“ministre”) “prescribed” means prescribed by the regulations; (“prescrit”) “regulations” means the regulations made under this Act. (“règlements”) Establishment and Objects of the Corporation",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>1 </b>In this Act,</p> <p class=\"definition\">“Minister” means the Minister of Finance or such other member of the Executive Council as may be assigned the administration of this Act under the <i>Executive Council Act</i>; (“ministre”)</p> <p class=\"definition\">“prescribed” means prescribed by the regulations; (“prescrit”)</p> <p class=\"definition\">“regulations” means the regulations made under this Act. (“règlements”)</p> <p class=\"heading1\"><a name=\"BK2\"></a>Establishment and Objects of the Corporation</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "Establishment and Objects of the Corporation",
+            "section_x": "Establishment and Objects of the Corporation",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "2.",
+            "section_x": "Corporation established",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Corporation established",
+            "content": "2 (1) A corporation without share capital is hereby established under the name Investment Management Corporation of Ontario in English and Société ontarienne de gestion des placements in French. Name of Corporation (2) The name of the Corporation may be changed by regulation.",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>2 </b>(1) A corporation without share capital is hereby established under the name Investment Management Corporation of Ontario in English and Société ontarienne de gestion des placements in French.</p> <p class=\"headnote\">Name of Corporation</p> <p class=\"subsection\">(2) The name of the Corporation may be changed by regulation.</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "3.",
+            "section_x": "Objects",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Objects",
+            "content": "3 (1) The objects of the Corporation are to provide investment management services and investment advisory services to the members of the Corporation in accordance with this Act and the regulations. Not for profit (2) The activities and affairs of the Corporation shall be carried on without the purpose of gain and any revenues shall be used by the Corporation for the purpose of carrying out its objects. Duty to act in best interest of members (3) In providing investment management services and investment advisory services to its members, the Corporation shall act in the best interest of its members.",
+            "raw_html": "<p class=\"section\"><a name=\"BK4\"></a><b>3 </b>(1) The objects of the Corporation are to provide investment management services and investment advisory services to the members of the Corporation in accordance with this Act and the regulations.</p> <p class=\"headnote\">Not for profit</p> <p class=\"subsection\">(2) The activities and affairs of the Corporation shall be carried on without the purpose of gain and any revenues shall be used by the Corporation for the purpose of carrying out its objects.</p> <p class=\"headnote\">Duty to act in best interest of members</p> <p class=\"subsection\">(3) In providing investment management services and investment advisory services to its members, the Corporation shall act in the best interest of its members.</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "4.",
+            "section_x": "Capacity, etc., of a natural person",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Capacity, etc., of a natural person",
+            "content": "4 (1) Except as limited by this Act and the regulations, the Corporation has the capacity, rights, powers and privileges of a natural person. Capacity to act outside Ontario (2) The Corporation has the capacity to carry on its activities, conduct its affairs and exercise its powers in a jurisdiction outside Ontario to the extent that the laws of that jurisdiction permit.",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>4 </b>(1) Except as limited by this Act and the regulations, the Corporation has the capacity, rights, powers and privileges of a natural person.</p> <p class=\"headnote\">Capacity to act outside Ontario</p> <p class=\"subsection\">(2) The Corporation has the capacity to carry on its activities, conduct its affairs and exercise its powers in a jurisdiction outside Ontario to the extent that the laws of that jurisdiction permit.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "5.",
+            "section_x": "Not a crown agent",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Not a crown agent",
+            "content": "5 The Corporation is not a Crown agency.",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>5 </b>The Corporation is not a Crown agency.</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "6.",
+            "section_x": "Application of certain Acts",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Application of certain Acts",
+            "content": "6 (1) The Corporations Information Act applies to the Corporation. Conflict of interest, etc. (2) Section 132 (conflict of interest) and section 136 (indemnification) of the Business Corporations Act\r\napply, with necessary modifications, to the Corporation and its directors, officers and members. (3), (4) Repealed: 2015, c. 20, Sched. 19, s. 27. Section Amendments with date in force (d/m/y) 2015, c. 20, Sched. 19, s. 27 - 19/10/2021",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>6 </b>(1) The <i>Corporations Information Act </i>applies to the Corporation.</p> <p class=\"headnote\">Conflict of interest, etc.</p> <p class=\"subsection\">(2) Section 132 (conflict of interest) and section 136 (indemnification) of the <i>Business Corporations Act</i>\r\napply, with necessary modifications, to the Corporation and its directors, officers and members.</p> <p class=\"subsection\">(3), (4) <span class=\"ovsmallcap\">Repealed</span>: 2015, c. 20, Sched. 19, s. 27.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15020#sched19s27\">2015, c. 20, Sched. 19, s. 27</a></span> - 19/10/2021</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "7.",
+            "section_x": "Head office",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Head office",
+            "content": "7 The head office of the Corporation shall be in the City of Toronto or such other place in Ontario as may be prescribed by the Minister.",
+            "raw_html": "<p class=\"section\"><a name=\"BK8\"></a><b>7 </b>The head office of the Corporation shall be in the City of Toronto or such other place in Ontario as may be prescribed by the Minister.</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "8.",
+            "section_x": "Fiscal year",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Fiscal year",
+            "content": "8 The Corporation’s fiscal year begins on January 1 in each year and ends on December 31 in the same year. Members",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>8 </b>The Corporation’s fiscal year begins on January 1 in each year and ends on December 31 in the same year.</p> <p class=\"heading1\"><a name=\"BK10\"></a>Members</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "Members",
+            "section_x": "Members",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "9.",
+            "section_x": "Members",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Members",
+            "content": "9 (1) The members of the Corporation are the persons or entities who satisfy all of the following criteria: 1. The person or entity is responsible for investing the assets of a pension plan or other investment fund. 2. The person or entity has entered into an investment management agreement with the Corporation for the investment of assets. 3. The person or entity is one of the following: i. A Crown agency. ii. A corporation, with or without share capital, that is not a Crown agency but is owned, operated or controlled by the Crown. iii. A board, commission, authority or unincorporated body of the Crown. iv. A university in Ontario, including its affiliated and federated colleges, that receives operating grants from the Government of Ontario. v. A municipality as defined in section 1 of the Municipal Act, 2001. v.1 An Investment Board or a Joint Investment Board. vi. Any other person or entity as may be prescribed. 2015, c. 20, Sched. 19, s. 9 (1); 2020, c. 36, Sched. 24, s. 1; 2023, c. 21, Sched. 6, s. 1 (1). Investment management agreement (2) The investment management agreement must meet such requirements or conditions as may be set out in the by-laws. 2015, c. 20, Sched. 19, s. 9 (2). Initial members (3) Members of the Corporation on the day subsection 2 (1) comes into force are the persons or entities as designated by the regulations made by the Minister. 2015, c. 20, Sched. 19, s. 9 (3). Definitions (4) In this section, “Investment Board” means an Investment Board within the meaning of Part II of Ontario Regulation 438/97 (Eligible Investments, Related Financial Agreements and Prudent Investment) made under the Municipal Act, 2001 and within the meaning of section 42 of Ontario Regulation 610/06 (Financial Activities) made under the City of Toronto Act, 2006; (“commission des placements”) “Joint Investment Board” has the same meaning as in Part II of Ontario Regulation 438/97 (Eligible Investments, Related Financial Agreements and Prudent Investment) made under the Municipal Act, 2001. (“commission mixte des placements”) 2023, c. 21, Sched. 6, s. 1 (2). Section Amendments with date in force (d/m/y) 2020, c. 36, Sched. 24, s. 1 - 08/12/2020 2023, c. 21, Sched. 6, s. 1 (1, 2) - 04/12/2023 Meetings",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>9 </b>(1) The members of the Corporation are the persons or entities who satisfy all of the following criteria:</p> <p class=\"paragraph\">  1. The person or entity is responsible for investing the assets of a pension plan or other investment fund.</p> <p class=\"paragraph\">  2. The person or entity has entered into an investment management agreement with the Corporation for the investment of assets.</p> <p class=\"paragraph\">  3. The person or entity is one of the following:</p> <p class=\"subpara\">  i. A Crown agency.</p> <p class=\"subpara\">  ii. A corporation, with or without share capital, that is not a Crown agency but is owned, operated or controlled by the Crown.</p> <p class=\"subpara\">  iii. A board, commission, authority or unincorporated body of the Crown.</p> <p class=\"subpara\">  iv. A university in Ontario, including its affiliated and federated colleges, that receives operating grants from the Government of Ontario.</p> <p class=\"subpara\">  v. A municipality as defined in section 1 of the <i>Municipal Act, 2001</i>.</p> <p class=\"subpara\">  v.1 An Investment Board or a Joint Investment Board.</p> <p class=\"subpara\">  vi. Any other person or entity as may be prescribed. 2015, c. 20, Sched. 19, s. 9 (1); 2020, c. 36, Sched. 24, s. 1; 2023, c. 21, Sched. 6, s. 1 (1).</p> <p class=\"headnote\">Investment management agreement</p> <p class=\"subsection\">(2) The investment management agreement must meet such requirements or conditions as may be set out in the by-laws. 2015, c. 20, Sched. 19, s. 9 (2).</p> <p class=\"headnote\">Initial members</p> <p class=\"subsection\">(3) Members of the Corporation on the day subsection 2 (1) comes into force are the persons or entities as designated by the regulations made by the Minister. 2015, c. 20, Sched. 19, s. 9 (3).</p> <p class=\"headnote\">Definitions</p> <p class=\"subsection\">(4) In this section,</p> <p class=\"definition\">“Investment Board” means an Investment Board within the meaning of Part II of Ontario Regulation 438/97 (Eligible Investments, Related Financial Agreements and Prudent Investment) made under the <i>Municipal Act, 2001</i> and within the meaning of section 42 of Ontario Regulation 610/06 (Financial Activities) made under the <i>City of Toronto Act, 2006</i>; (“commission des placements”)</p> <p class=\"definition\">“Joint Investment Board” has the same meaning as in Part II of Ontario Regulation 438/97 (Eligible Investments, Related Financial Agreements and Prudent Investment) made under the <i>Municipal Act, 2001</i>. (“commission mixte des placements”) 2023, c. 21, Sched. 6, s. 1 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20036#sched24s1\">2020, c. 36, Sched. 24, s. 1</a></span> - 08/12/2020</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23021#sched6s1s1\">2023, c. 21, Sched. 6, s. 1 (1, 2)</a></span> - 04/12/2023</p> <p class=\"headnote\">Meetings</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "10.",
+            "section_x": "Meetings",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Annual meeting",
+            "content": "10 (1) The board of directors of the Corporation shall call an annual meeting of the members, (a) within 18 months after subsection 2 (1) comes into force; and (b) subsequently, not later than 15 months after holding the preceding annual meeting. Special meeting (2) The board of directors of the Corporation may at any time call a special meeting of the members.",
+            "raw_html": "<p class=\"section\"><a name=\"BK12\"></a><b>10 </b>(1) The board of directors of the Corporation shall call an annual meeting of the members,</p> <p class=\"paragraph\">  (a) within 18<b> </b>months after subsection 2 (1) comes into force; and</p> <p class=\"paragraph\">  (b) subsequently, not later than<b> </b>15<b> </b>months after holding the preceding annual meeting.</p> <p class=\"headnote\">Special meeting</p> <p class=\"subsection\">(2) The board of directors of the Corporation may at any time call a special meeting of the members.</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "11.",
+            "section_x": "Voting powers",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Voting powers",
+            "content": "11 Each member has only one vote at its general or special meetings or in respect of elections of its directors, unless the regulations provide otherwise. 2017, c. 8, Sched. 15, s. 1. Section Amendments with date in force (d/m/y) 2017, c. 8, Sched. 15, s. 1 - 17/05/2017 Directors and Officers",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>11 </b>Each member has only one vote at its general or special<b> </b>meetings or in respect of elections of its directors, unless the regulations provide otherwise. 2017, c. 8, Sched. 15, s. 1.</p> <p class=\"footnoteLeft\"><a name=\"BK14\"></a><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17008#sched15s1\">2017, c. 8, Sched. 15, s. 1</a></span> - 17/05/2017</p> <p class=\"heading1\">Directors and Officers</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "Directors and Officers",
+            "section_x": "Directors and Officers",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "12.",
+            "section_x": "Board of directors",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Board of directors",
+            "content": "12 (1) The board of directors shall manage or supervise the management of the activities and affairs of the Corporation in accordance with this Act. 2016, c. 37, Sched. 12, s. 1. Composition (2) The board of directors shall consist of at least seven and not more than 11 members. Same, elected members (3) At least six and not more than eight directors are to be elected in accordance with section 13. Same, appointed by Minister (4) At least one and not more than three directors are to be appointed by the Minister. Directors to be independent (5) Each director shall hold office as an independent director and not as a representative of any class of persons. Qualifications (6) Directors appointed or elected to the board of directors must have experience and expertise in investment management, risk management, finance, corporate governance, accounting, law or in such other areas of expertise as the board of directors may determine from time to time. Disqualifications (7) The following persons are disqualified from being a director of the Corporation: 1. A person who is not an individual. 2. A person who is less than 18 years of age. 3. A person who has been found under the Substitute Decisions Act, 1992 or under the Mental Health Act to be incapable of managing property or who has been found to be incapable by a court in Canada or elsewhere. 4. A person who has the status of bankrupt. 5. A person who has been convicted of fraud or a similar offence by any court in Canada or elsewhere. Ineligibility (8) The following persons are ineligible to be a director of the Corporation: 1. A person who is a director, officer, employee or agent of a member. 2. A person who is an officer or employee of the Corporation. Term (9) A director appointed or elected to the board of directors shall be appointed or elected for up to three years. Maximum term (10) A director may serve for no longer than nine years. 2017, c. 8, Sched. 15, s. 2. Remuneration (11) A director is entitled to receive from the Corporation remuneration and benefits fixed in accordance with the by-laws, which remuneration and benefits shall be fixed having regard to the remuneration and benefits received by persons having similar responsibilities and engaged in similar activities. Quorum (12) A majority of the directors constitutes a quorum of the board of directors. Chair (13) The Minister shall, after consulting with the board of directors, designate one of the directors appointed by the Minister to be the chair of the board of directors. Vacancy on board (14) If there are one or more vacancies on the board of directors, the remaining directors may exercise all the powers of the board if they would constitute a quorum of the board, if there were no vacancies. Section Amendments with date in force (d/m/y) 2016, c. 37, Sched. 12, s. 1 - 08/12/2016 2017, c. 8, Sched. 15, s. 2 - 17/05/2017 Election of directors",
+            "raw_html": "<p class=\"section\"><a name=\"BK15\"></a><b>12 </b>(1) The board of directors shall manage or supervise the management of the activities and affairs of the Corporation in accordance with this Act. 2016, c. 37, Sched. 12, s. 1.</p> <p class=\"headnote\">Composition</p> <p class=\"subsection\">(2) The board of directors shall consist of at least seven and not more than 11 members.</p> <p class=\"headnote\">Same, elected members</p> <p class=\"subsection\">(3) At least six and not more than eight directors are to be elected in accordance with section 13.</p> <p class=\"headnote\">Same, appointed by Minister</p> <p class=\"subsection\">(4) At least one and not more than three directors are to be appointed by the Minister.</p> <p class=\"headnote\">Directors to be independent</p> <p class=\"subsection\">(5) Each director shall hold office as an independent director and not as a representative of any class of persons.</p> <p class=\"headnote\">Qualifications</p> <p class=\"subsection\">(6) Directors appointed or elected to the board of directors must have experience and expertise in investment management, risk management, finance, corporate governance, accounting, law or in such other areas of expertise as the board of directors may determine from time to time.</p> <p class=\"headnote\">Disqualifications</p> <p class=\"subsection\">(7) The following persons are disqualified from being a director of the Corporation:</p> <p class=\"paragraph\">  1. A person who is not an individual.</p> <p class=\"paragraph\">  2. A person who is less than 18 years of age.</p> <p class=\"paragraph\">  3. A person who has been found under the <i>Substitute Decisions Act, 1992</i> or under the <i>Mental Health Act</i> to be incapable of managing property or who has been found to be incapable by a court in Canada or elsewhere.</p> <p class=\"paragraph\">  4. A person who has the status of bankrupt.</p> <p class=\"paragraph\">  5. A person who has been convicted of fraud or a similar offence by any court in Canada or elsewhere.</p> <p class=\"headnote\">Ineligibility</p> <p class=\"subsection\">(8) The following persons are ineligible to be a director of the Corporation:</p> <p class=\"paragraph\">  1. A person who is a director, officer, employee or agent of a member.</p> <p class=\"paragraph\">  2. A person who is an officer or employee of the Corporation.</p> <p class=\"headnote\">Term</p> <p class=\"subsection\">(9) A director appointed or elected to the board of directors shall be appointed or elected for up to three years.</p> <p class=\"headnote\">Maximum term</p> <p class=\"subsection\">(10) A director may serve for no longer than nine years. 2017, c. 8, Sched. 15, s. 2.</p> <p class=\"headnote\">Remuneration</p> <p class=\"subsection\">(11) A director is entitled to receive from the Corporation remuneration and benefits fixed in accordance with the by-laws, which remuneration and benefits shall be fixed having regard to the remuneration and benefits received by persons having similar responsibilities and engaged in similar activities.</p> <p class=\"headnote\">Quorum</p> <p class=\"subsection\">(12) A majority of the directors constitutes a quorum of the board of directors.</p> <p class=\"headnote\">Chair</p> <p class=\"subsection\">(13) The Minister shall, after consulting with the board of directors, designate one of the directors appointed by the Minister to be the chair of the board of directors.</p> <p class=\"headnote\">Vacancy on board</p> <p class=\"subsection\">(14) If there are one or more vacancies on the board of directors, the remaining directors may exercise all the powers of the board if they would constitute a quorum of the board, if there were no vacancies.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S16037#sched12s1\">2016, c. 37, Sched. 12, s. 1</a></span> - 08/12/2016</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17008#sched15s2\">2017, c. 8, Sched. 15, s. 2</a></span> - 17/05/2017</p> <p class=\"headnote\">Election of directors</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "13.",
+            "section_x": "Election of directors",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Nominating committee",
+            "content": "13 (1) A nominating committee shall be established for the purpose of proposing candidates who may be elected by the members. Appointment of nominating committee (2) The board of directors shall pass a by-law setting out the manner and procedure for the appointment of individuals to the nominating committee. Proposal of candidates (3) The nominating committee shall propose candidates, along with a proposed term for each candidate, to the members. Election (4) A candidate nominated by the nominating committee may be elected by the members by at least a majority of the votes cast.",
+            "raw_html": "<p class=\"section\"><a name=\"BK16\"></a><b>13 </b>(1) A nominating committee shall be established for the purpose of proposing candidates who may be elected by the members.</p> <p class=\"headnote\">Appointment of nominating committee</p> <p class=\"subsection\">(2) The board of directors shall pass a by-law setting out the manner and procedure for the appointment of individuals to the nominating committee.</p> <p class=\"headnote\">Proposal of candidates</p> <p class=\"subsection\">(3) The nominating committee shall propose candidates, along with a proposed term for each candidate, to the members.</p> <p class=\"headnote\">Election</p> <p class=\"subsection\">(4) A candidate nominated by the nominating committee may be elected by the members by at least a majority of the votes cast.</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "14.",
+            "section_x": "Delegation",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Delegation",
+            "content": "14 The board of directors may delegate any power or duty to any committee, to any director or to any officer of the Corporation, except the power to, (a) approve the Corporation’s budget, including the budget for capital expenditures and staffing; (b) approve the business plan and financial statements of the Corporation; (c) appoint, supervise or set the compensation of the chief executive officer; (d) fill a vacancy in a committee of the board; and (e) make, amend or repeal by-laws and submit them to members for confirmation under section 21. (f)  Repealed: 2016, c. 37, Sched. 12, s. 2. 2016, c. 37, Sched. 12, s. 2. Section Amendments with date in force (d/m/y) 2016, c. 37, Sched. 12, s. 2 - 08/12/2016",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>14 </b>The board of directors<b> </b>may delegate any power or duty to any committee, to any director or to any officer of the Corporation, except the power to,</p> <p class=\"paragraph\">  (a) approve the Corporation’s budget, including the budget for capital expenditures and staffing;</p> <p class=\"paragraph\">  (b) approve the business plan and financial statements of the Corporation;</p> <p class=\"paragraph\">  (c) appoint, supervise or set the compensation of the chief executive officer;</p> <p class=\"paragraph\">  (d) fill a vacancy in a committee of the board; and</p> <p class=\"paragraph\">  (e) make, amend or repeal by-laws and submit them to members for confirmation under section 21.</p> <p class=\"paragraph\">  (f)  <span class=\"ovsmallcap\">Repealed</span>: 2016, c. 37, Sched. 12, s. 2.</p> <p class=\"footnote\">2016, c. 37, Sched. 12, s. 2.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S16037#sched12s1\">2016, c. 37, Sched. 12, s. 2</a></span> - 08/12/2016</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "15.",
+            "section_x": "Ceasing to hold office",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Ceasing to hold office",
+            "content": "15 (1) A director ceases to hold office on the earliest of the following: 1. The date on which his or her term of office expires. 2. The date on which he or she dies. 3. The date on which he or she resigns. 4. The date on which he or she is removed in accordance with section 16. 5. The date on which he or she ceases to qualify to be a director under subsection 12 (6) or (7). 6. The date on which he or she ceases to be eligible to be a director under subsection 12 (8). Effective date of resignation (2) The resignation of a director becomes effective at the time the resignation is received by the Corporation or at the time specified in the resignation, whichever is later.",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>15 </b>(1) A director ceases to hold office on the earliest of the following:</p> <p class=\"paragraph\">  1. The date on which his or her term of office expires.</p> <p class=\"paragraph\">  2. The date on which he or she dies.</p> <p class=\"paragraph\">  3. The date on which he or she resigns.</p> <p class=\"paragraph\">  4. The date on which he or she is removed in accordance with section 16.</p> <p class=\"paragraph\">  5. The date on which he or she ceases to qualify to be a director under subsection 12 (6) or (7).</p> <p class=\"paragraph\">  6. The date on which he or she ceases to be eligible to be a director under subsection 12 (8).</p> <p class=\"headnote\">Effective date of resignation</p> <p class=\"subsection\">(2) The resignation of a director becomes effective at the time the resignation is received by the Corporation or at the time specified in the resignation, whichever is later.</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "16.",
+            "section_x": "Removal",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Removal",
+            "content": "16 (1) The members may, by majority of votes cast, remove from office any director except a director appointed by the Minister. Same, director appointed by Minister (2) The Minister may remove from office any director that the Minister has appointed.",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>16 </b>(1) The members may, by majority of votes cast, remove from office any director except a director appointed by the Minister.</p> <p class=\"headnote\">Same, director appointed by Minister</p> <p class=\"subsection\">(2) The Minister may remove from office any director that the Minister has appointed.</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "17.",
+            "section_x": "Initial board",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Initial board",
+            "content": "17 (1) An initial board of directors is established on the day subsection 2 (1) comes into force. Composition (2) Despite subsections 12 (2), (3) and (4), the initial board shall consist of the following: 1. Four directors appointed by the persons or entities who are prescribed by the Minister for the purposes of this subsection. 2. Three directors appointed by the Minister. Chair (3) Despite subsection 12 (13), the Minister shall, after consulting with the prescribed persons or entities referred to in paragraph 1 of subsection (2), designate one of the directors appointed by the Minister to be the chair of the initial board. Dissolution (4) The initial board is dissolved on the earlier of, (a) the third anniversary of the day subsection 2 (1) comes into force; and (b) the day the first board is constituted under section 12.",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>17 </b>(1) An initial board of directors is established on the day subsection 2 (1) comes into force.</p> <p class=\"headnote\">Composition</p> <p class=\"subsection\">(2) Despite subsections 12 (2), (3) and (4), the initial board shall consist of the following:</p> <p class=\"paragraph\">  1. Four directors appointed by the persons or entities who are prescribed by the Minister for the purposes of this subsection.</p> <p class=\"paragraph\">  2. Three directors appointed by the Minister.</p> <p class=\"headnote\">Chair</p> <p class=\"subsection\">(3) Despite subsection 12 (13), the Minister shall, after consulting with the prescribed persons or entities referred to in paragraph 1 of subsection (2), designate one of the directors appointed by the Minister to be the chair of the initial board.</p> <p class=\"headnote\">Dissolution</p> <p class=\"subsection\">(4) The initial board is dissolved on the earlier of,</p> <p class=\"paragraph\">  (a) the third anniversary of the day subsection 2 (1) comes into force; and</p> <p class=\"paragraph\">  (b) the day the first board is constituted under section 12.</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "18.",
+            "section_x": "Chief executive officer",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Chief executive officer",
+            "content": "18 (1) The board of directors shall appoint an employee of the Corporation as chief executive officer and shall determine the chief executive officer’s compensation, powers, duties and functions. Review of performance (2) The board of directors shall review and monitor the performance of the chief executive officer. Delegation (3) The chief executive officer may, on terms and conditions that he or she considers advisable, delegate to any employee of the Corporation or any other person or class of person any the chief executive officer’s powers or duties. Duty of care",
+            "raw_html": "<p class=\"section\"><a name=\"BK21\"></a><b>18 </b>(1) The board of directors shall appoint an employee of the Corporation as chief executive officer and shall determine the chief executive officer’s compensation, powers, duties and functions.</p> <p class=\"headnote\">Review of performance</p> <p class=\"subsection\">(2) The board of directors shall review and monitor the performance of the chief executive officer.</p> <p class=\"headnote\">Delegation</p> <p class=\"subsection\">(3) The chief executive officer may, on terms and conditions that he or she considers advisable, delegate to any employee of the Corporation or any other person or class of person any the chief executive officer’s powers or duties.</p> <p class=\"headnote\">Duty of care</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "19.",
+            "section_x": "Duty of care",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Care, diligence and skill",
+            "content": "19 (1) A director, officer, employee or agent of the Corporation shall exercise the care, diligence and skill in the investment of the members’ assets that a person of ordinary prudence would exercise in dealing with the property of another person. Special knowledge and skill (2) A director, officer, employee or agent of the Corporation shall use in the investment of the members’ assets all relevant knowledge and skill that the director, officer, employee or agent possesses or, by reason of that person’s profession, business or calling, ought to possess. Duty to comply with Act, etc. (3) Every director, officer, employee and agent of the Corporation shall comply with, (a) this Act and the regulations; and (b) the Corporation’s by-laws. Cannot contract out statutory duty (4) No provision in a contract, the by-laws or a resolution relieves a director or officer from the duty to act in accordance with this Act and the regulations or relieves him or her from liability for a breach of this Act or the regulations.",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>19 </b>(1) A director, officer, employee or agent of the Corporation shall exercise the care, diligence and skill in the investment of the members’ assets that a person of ordinary prudence would exercise in dealing with the property of another person.</p> <p class=\"headnote\">Special knowledge and skill</p> <p class=\"subsection\">(2) A director, officer, employee or agent of the Corporation shall use in the investment of the members’ assets all relevant knowledge and skill that the director, officer, employee or agent possesses or, by reason of that person’s profession, business or calling, ought to possess.</p> <p class=\"headnote\">Duty to comply with Act, etc.</p> <p class=\"subsection\">(3) Every director, officer, employee and agent of the Corporation shall comply with,</p> <p class=\"paragraph\">  (a) this Act and the regulations; and</p> <p class=\"paragraph\">  (b) the Corporation’s by-laws.</p> <p class=\"headnote\">Cannot contract out statutory duty</p> <p class=\"subsection\">(4) No provision in a contract, the by-laws or a resolution relieves a director or officer from the duty to act in accordance with this Act and the regulations or relieves him or her from liability for a breach of this Act or the regulations.</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "20.",
+            "section_x": "Validity of acts of directors",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Validity of acts of directors",
+            "content": "20 (1) An act of a director is valid despite any irregularity in his or her election or appointment or a defect in his or her qualifications or eligibility to be a director. Same, officers (2) An act of an officer is valid despite any irregularity in his or her appointment or a defect in his or her qualifications. By-Laws",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>20 </b>(1) An act of a director is valid despite any irregularity in his or her election or appointment or a defect in his or her qualifications or eligibility to be a director.</p> <p class=\"headnote\">Same, officers</p> <p class=\"subsection\">(2) An act of an officer is valid despite any irregularity in his or her appointment or a defect in his or her qualifications.</p> <p class=\"heading1\"><a name=\"BK24\"></a>By-Laws</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "By-Laws",
+            "section_x": "By-Laws",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "21.",
+            "section_x": "By-laws",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "By-laws",
+            "content": "21 (1) The board of directors may by resolution make, amend or repeal any by-law governing its proceedings and generally for the conduct and management of the Corporation’s activities and affairs that are consistent with this Act and the regulations. Member approval (2) The board of directors shall submit the by-law, amendment or repeal to the members at the next meeting of the members, and the members may confirm, reject or amend the by-law, amendment or repeal by at least a majority of the votes cast. Effective date of by-laws (3) Subject to subsection (5), the by-law, amendment or repeal is effective from the date of the resolution of the directors.  If the by-law, amendment or repeal is confirmed or confirmed as amended by the members, it remains effective in the form in which it was confirmed. Ceasing to have effect (4) A by-law, amendment or repeal ceases to have effect if it is not submitted by the directors to the members as required under subsection (2) or if it is rejected by the members. Subsequent resolution (5) If a by-law, amendment or repeal ceases to have effect, a subsequent by-law that has substantially the same purpose or effect is not effective until it is confirmed or confirmed as amended by the members. Miscellaneous",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>21 </b>(1) The board of directors may by resolution make, amend or repeal any by-law governing its proceedings and generally for the conduct and management of the Corporation’s activities and affairs that are consistent with this Act and the regulations.</p> <p class=\"headnote\">Member approval</p> <p class=\"subsection\">(2) The board of directors shall submit the by-law, amendment or repeal to the members at the next meeting of the members, and the members may confirm, reject or amend the by-law, amendment or repeal by at least a majority of the votes cast.</p> <p class=\"headnote\">Effective date of by-laws</p> <p class=\"subsection\">(3) Subject to subsection (5), the by-law, amendment or repeal is effective from the date of the resolution of the directors.  If the by-law, amendment or repeal is confirmed or confirmed as amended by the members, it remains effective in the form in which it was confirmed.</p> <p class=\"headnote\">Ceasing to have effect</p> <p class=\"subsection\">(4) A by-law, amendment or repeal ceases to have effect if it is not submitted by the directors to the members as required under subsection (2) or if it is rejected by the members.</p> <p class=\"headnote\">Subsequent resolution</p> <p class=\"subsection\">(5) If a by-law, amendment or repeal ceases to have effect, a subsequent by-law that has substantially the same purpose or effect is not effective until it is confirmed or confirmed as amended by the members.</p> <p class=\"heading1\"><a name=\"BK26\"></a>Miscellaneous</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "Miscellaneous",
+            "section_x": "Miscellaneous",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "22.",
+            "section_x": "Audit",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Audit",
+            "content": "22 (1) The board of directors shall appoint one or more persons licensed under the Public Accounting Act, 2004 to audit the financial statements of the Corporation for the previous fiscal year. Qualified privilege — defamation (2) Any statement or report made under this Act orally, in writing or in another format by an auditor or a former auditor of the Corporation has qualified privilege.",
+            "raw_html": "<p class=\"section\"><a name=\"BK27\"></a><b>22 </b>(1) The board of directors shall appoint one or more persons licensed under the <i>Public Accounting Act, 2004</i> to audit the financial statements of the Corporation for the previous fiscal year.</p> <p class=\"headnote\">Qualified privilege — defamation</p> <p class=\"subsection\">(2) Any statement or report made under this Act orally, in writing or in another format by an auditor or a former auditor of the Corporation has qualified privilege.</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "23.",
+            "section_x": "Annual report",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Annual report",
+            "content": "23 The board of directors shall submit an annual report on the Corporation’s activities and affairs to the Minister within 120 days after the end of each fiscal year and the report shall include the audited financial statements of the Corporation.",
+            "raw_html": "<p class=\"section\"><a name=\"BK28\"></a><b>23 </b>The board of directors shall submit an annual report on the Corporation’s activities and affairs to the Minister within 120 days after the end of each fiscal year and the report shall include the audited financial statements of the Corporation.</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "24.",
+            "section_x": "Inspection of records",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Inspection of records",
+            "content": "24 Upon the Minister’s request, the Corporation shall promptly make its records available for inspection. Regulations",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>24 </b>Upon the Minister’s request, the Corporation shall promptly make its records available for inspection.</p> <p class=\"heading1\"><a name=\"BK30\"></a>Regulations</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "Regulations",
+            "section_x": "Regulations",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "25.",
+            "section_x": "Regulations, Lieutenant Governor in Council",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Regulations, Lieutenant Governor in Council",
+            "content": "25 (1) The Lieutenant Governor in Council may make regulations, (a) prescribing any matter that, under this Act, is permitted or required to be prescribed or to be otherwise done by regulation or in accordance with the regulations; (b) changing the name of the Corporation; (c) prescribing limits to the Corporation’s powers; (c.1) governing members’ voting rights, including, without limitation, (i) providing that, for some or all purposes, votes may be allocated among members based on the value of the assets in respect of which the Corporation provides investment management services for each member, and (ii) providing that, in order for an allocation described in subclause (i) to be performed, the board of directors may determine, in accordance with generally accepted valuation policies and practices that may be approved by the board of directors, the value of the assets in respect of which the Corporation provides investment management services; (d) prescribing provisions of the Not-for-Profit Corporations Act, 2010 that do not apply. 2015, c. 20, Sched. 19, s. 28; 2017, c. 8, Sched. 15, s. 3. Same (2) If a regulation is made changing the name of the Corporation, a reference in this Act or any other Act or in the regulations made under this or any other Act to Investment Management Corporation of Ontario is deemed to be a reference to the new name, unless the context requires otherwise. Section Amendments with date in force (d/m/y) 2015, c. 20, Sched. 19, s. 28 - 19/10/2021 2017, c. 8, Sched. 15, s. 3 - 17/05/2017",
+            "raw_html": "<p class=\"section\"><a name=\"BK31\"></a><b>25 </b>(1) The Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a) prescribing any matter that, under this Act, is permitted or required to be prescribed or to be otherwise done by regulation or in accordance with the regulations;</p> <p class=\"paragraph\">  (b) changing the name of the Corporation;</p> <p class=\"paragraph\">  (c) prescribing limits to the Corporation’s powers;</p> <p class=\"paragraph\"> (c.1) governing members’ voting rights, including, without limitation,</p> <p class=\"subpara\">  (i) providing that, for some or all purposes, votes may be allocated among members based on the value of the assets in respect of which the Corporation provides investment management services for each member, and </p> <p class=\"subpara\">  (ii) providing that, in order for an allocation described in subclause (i) to be performed, the board of directors may determine, in accordance with generally accepted valuation policies and practices that may be approved by the board of directors, the value of the assets in respect of which the Corporation provides investment management services; </p> <p class=\"paragraph\">  (d) prescribing provisions of the <i>Not-for-Profit Corporations Act, 2010 </i>that do not apply. 2015, c. 20, Sched. 19, s. 28; 2017, c. 8, Sched. 15, s. 3.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) If a regulation is made changing the name of the Corporation, a reference in this Act or any other Act or in the regulations made under this or any other Act to Investment Management Corporation of Ontario is deemed to be a reference to the new name, unless the context requires otherwise.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15020#sched19s28\">2015, c. 20, Sched. 19, s. 28</a></span> - 19/10/2021</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17008#sched15s3\">2017, c. 8, Sched. 15, s. 3</a></span> - 17/05/2017</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "26.",
+            "section_x": "Regulations, Minister",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Regulations, Minister",
+            "content": "26 The Minister may make regulations, (a) prescribing another place in Ontario for the purpose of section 7; (b) prescribing persons or entities who are members for the purposes of subsection 9 (3) and prescribing the period for which those persons or entities are members; (c) prescribing persons or entities for the purpose of paragraph 1 of subsection 17 (2) and prescribing the number of directors that each person or entity is entitled to appoint under that paragraph; (d) prescribing provisions of the Business Corporations Act that apply to the Corporation, and prescribing any modifications, if necessary. 27, 28 Omitted (provides for amendments to this Act). 29 Omitted\r\n(provides for coming into force of provisions of this Act). 30 Omitted (enacts short title of this Act). ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK32\"></a><b>26 </b>The Minister may make regulations,</p> <p class=\"paragraph\">  (a) prescribing another place in Ontario for the purpose of section 7;</p> <p class=\"paragraph\">  (b) prescribing persons or entities who are members for the purposes of subsection 9 (3) and prescribing the period for which those persons or entities are members;</p> <p class=\"paragraph\">  (c) prescribing persons or entities for the purpose of paragraph 1 of subsection 17 (2) and prescribing the number of directors that each person or entity is entitled to appoint under that paragraph;</p> <p class=\"paragraph\">  (d) prescribing provisions of the <i>Business Corporations Act</i> that apply to the Corporation, and prescribing any modifications, if necessary.</p> <p class=\"section\"><b>27, 28</b><b> </b><span class=\"ovsmallcap\">Omitted (provides for amendments to this Act).</span></p> <p class=\"section\"><b>29 </b><span class=\"ovsmallcap\">Omitted</span>\r\n(<span class=\"ovsmallcap\">provides for coming into force of provisions of this Act</span>).</p> <p class=\"section\"><b>30</b><b> </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act).</span></p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/15i20b\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,604 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 197/96: CONSENT APPLICATIONS",
+        "reg_name_text": "CONSENT APPLICATIONS",
+        "citation": "O. Reg. 197/96: ",
+        "act_under": "Planning Act",
+        "url": "https://www.ontario.ca/laws/regulation/960197",
+        "date_scraped": "2023-12-18 03:33:34"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "August  9, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v12",
+            "valid_from": "January  1, 2022",
+            "valid_to": "August  8, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v11",
+            "valid_from": "November 25, 2021",
+            "valid_to": "December 31, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v10",
+            "valid_from": "December  8, 2020",
+            "valid_to": "November 24, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v9",
+            "valid_from": "April  3, 2018",
+            "valid_to": "December  7, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v8",
+            "valid_from": "March  5, 2018",
+            "valid_to": "April  2, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v7",
+            "valid_from": "July  1, 2016",
+            "valid_to": "March  4, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v6",
+            "valid_from": "June  8, 2016",
+            "valid_to": "June 30, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v5",
+            "valid_from": "January  1, 2010",
+            "valid_to": "June  7, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v4",
+            "valid_from": "December 10, 2009",
+            "valid_to": "December 31, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v3",
+            "valid_from": "January  1, 2007",
+            "valid_to": "December  9, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v2",
+            "valid_from": "December 13, 2006",
+            "valid_to": "December 31, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/960197/v1",
+            "valid_from": "September 14, 1998",
+            "valid_to": "December 12, 2006"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "PART II",
+            "Section": "None",
+            "Section1": "CONSENT APPLICATIONS TO A MUNICIPAL COUNCIL",
+            "Section2": "1-9",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "PART II",
+            "Section": "None",
+            "Section1": "CONSENT APPLICATIONS TO THE MINISTER",
+            "Section2": "10-15",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule 1",
+            "Section": "None",
+            "Section1": "Information and material to be included in an application for consent under subsection 53 (2) of the act",
+            "Section2": "1-19",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 1",
+            "Section": "None",
+            "Section1": "Certificate of official",
+            "Section2": "None",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 2",
+            "Section": "None",
+            "Section1": "Certificate of official",
+            "Section2": "None",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 3",
+            "Section": "None",
+            "Section1": "Certificate of official",
+            "Section2": "None",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Form 4",
+            "Section": "None",
+            "Section1": "Certificate of official",
+            "Section2": "None",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. In this Part, “approval authority” means, (a)  the municipal council that has the authority to grant a consent in respect of the land that is the subject of an application for a consent, and includes a delegate of the municipal council, (b)  a municipal planning authority that has been delegated the authority to grant a consent in respect of the land that is the subject of an application for a consent, and includes a delegate of the municipal planning authority, or (c)  a planning board that has been delegated the authority to grant a consent in respect of the land that is the subject of an application for a consent; (“autorité approbatrice”) “hazard distance” means the distance established as the hazard distance applicable to the propane operation referenced in a risk and safety management plan required under Ontario Regulation 211/01 (Propane Storage and Handling) made under the Technical Standards and Safety Act, 2000; (“distance de danger”) “propane operation” means an operation in respect of which a person is required to prepare a risk and safety management plan under Ontario Regulation 211/01 (Propane Storage and Handling) made under the Technical Standards and Safety Act, 2000; (“installation de propane”) “propane operator” means a person who is required to prepare a risk and safety management plan under Ontario Regulation 211/01 (Propane Storage and Handling) made under the Technical Standards and Safety Act, 2000; (“exploitant d’une installation de propane”) “reserve” means a tract of land, the legal title of which is vested in the Crown in right of Canada, that has been set apart by the Crown for the use and benefit of a First Nation; (“réserve”) “subject land” means the land to be severed and the land to be retained. (“terrain visé”)  O. Reg. 197/96, s. 1; O. Reg. 547/06, s. 1; O. Reg. 469/09, s. 1; O. Reg. 176/16, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Part,</p> <p class=\"firstdef-e\">“approval authority” means,</p> <p class=\"defclause-e\">  (a)  the municipal council that has the authority to grant a consent in respect of the land that is the subject of an application for a consent, and includes a delegate of the municipal council,</p> <p class=\"defclause-e\">  (b)  a municipal planning authority that has been delegated the authority to grant a consent in respect of the land that is the subject of an application for a consent, and includes a delegate of the municipal planning authority, or</p> <p class=\"defclause-e\">  (c)  a planning board that has been delegated the authority to grant a consent in respect of the land that is the subject of an application for a consent; (“autorité approbatrice”)</p> <p class=\"definition-e\">“hazard distance” means the distance established as the hazard distance applicable to the propane operation referenced in a risk and safety management plan required under Ontario Regulation 211/01 (Propane Storage and Handling) made under the <i>Technical Standards and Safety Act, 2000</i>; (“distance de danger”)</p> <p class=\"definition-e\">“propane operation” means an operation in respect of which a person is required to prepare a risk and safety management plan under Ontario Regulation 211/01 (Propane Storage and Handling) made under the <i>Technical Standards and Safety Act, 2000</i>; (“installation de propane”)</p> <p class=\"definition-e\">“propane operator” means a person who is required to prepare a risk and safety management plan under Ontario Regulation 211/01 (Propane Storage and Handling) made under the <i>Technical Standards and Safety Act, 2000</i>; (“exploitant d’une installation de propane”)</p> <p class=\"definition-e\">“reserve” means a tract of land, the legal title of which is vested in the Crown in right of Canada, that has been set apart by the Crown for the use and benefit of a First Nation; (“réserve”)</p> <p class=\"definition-e\">“subject land” means the land to be severed and the land to be retained. (“terrain visé”)  O. Reg. 197/96, s. 1; O. Reg. 547/06, s. 1; O. Reg. 469/09, s. 1; O. Reg. 176/16, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. The information and material to be provided to the approval authority by an applicant under subsection 53 (2) of the Act are set out in Schedule 1.  O. Reg. 547/06, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>The information and material to be provided to the approval authority by an applicant under subsection 53 (2) of the Act are set out in Schedule 1.  O. Reg. 547/06, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) This section applies to notice of an application for a consent under clause 53 (5) (a) of the Act.  O. Reg. 547/06, s. 2. (2) Notice shall be given in the manner described in the following subsections of this section: 1.  Subsection (3) or (6). 2.  Subsection (8). 3.  Subsection (9). 4.  Subsection (10).  O. Reg. 547/06, s. 2. (3) Notice shall be given, (a)  by personal service or ordinary mail, to every owner of land within 60 metres of the subject land, subject to subsections (4) and (5); and (b)  by posting a notice, clearly visible and legible from a public highway or other place to which the public has access, at every separately assessed property within the subject land, or, if posting on the property is impractical, at a nearby location chosen by the official described in subsection (7).  O. Reg. 547/06, s. 2. (4) For the purposes of clause (3) (a), the owner of land is deemed to be the person shown on the last revised assessment roll of the municipality or on the current provincial land tax roll at the address shown on the roll, but if the approval authority is a municipality and the clerk of the municipality has received written notice of a change of ownership, the notice shall be given to the new owner instead, at the address set out in the notice of change of ownership.  O. Reg. 547/06, s. 2. (5) For the purposes of clause (3) (a), if a condominium development is located within 60 metres of the subject land, notice may be given to the condominium corporation, according to its most recent address for service or mailing address as registered under section 7 of the Condominium Act, 1998, instead of being given to all owners assessed in respect of the condominium development.  O. Reg. 547/06, s. 2. (6) Notice shall be given by publishing a notice in a newspaper that, in the opinion of the official described in subsection (7), is of sufficiently general circulation in the area adjoining the subject land that it would give the public in the area reasonable notice of the application.  O. Reg. 547/06, s. 2. (7) The official for the purposes of subsections (3) and (6) is, (a)  the clerk of the municipality, if the approval authority is, (i)  the council of the municipality or a committee of the council, or (ii)  an appointed officer; (b)  the secretary-treasurer of the land division committee or committee of adjustment, if the approval authority is the land division committee or committee of adjustment; (c)  the secretary-treasurer of the municipal planning authority, if the approval authority is, (i)  a municipal planning authority or a committee of the authority, or (ii)  an appointed officer; and (d)  the secretary-treasurer of the planning board, if the approval authority is the planning board.  O. Reg. 547/06, s. 2; O. Reg. 176/16, s. 2 (1). (8) Every person and public body that has given the approval authority a written request for a notice to which this section applies (including the person’s or public body’s address, fax number or email address) shall be given notice by personal service, ordinary mail, fax or email. O. Reg. 176/16, s. 2 (2). (9) Notice shall be given, by personal service, ordinary mail, fax or email, to all the following persons and public bodies, except those who have notified the approval authority that they do not wish to receive notice: 1.  The clerk of every local municipality in which the subject land is located, or the secretary-treasurer of every municipal planning authority or planning board in whose planning area the subject land is located. 2.  The clerk of every upper-tier municipality in which the subject land is located. 3.  The secretary-treasurer of a conservation authority, if the subject land is within an area that is under the jurisdiction of the conservation authority. 3.1  Every propane operator of a propane operation, if, i.  any part of the propane operation’s hazard distance is within the subject land, and ii.  the approval authority has been notified of the propane operation’s hazard distance by a director appointed under section 4 of the Technical Standards and Safety Act, 2000. 4.  TransCanada PipeLines Limited, if any of the subject land is within 200 metres of a pipeline owned and operated by TransCanada PipeLines Limited. 5.  If any of the subject land is within 300 metres of a railway line, the secretary of the company operating the railway line. 6.  If any of the subject land is within or abuts the area covered by the Niagara Escarpment Plan, the senior planner of the district office of the Niagara Escarpment Commission having jurisdiction over that land or the area that it abuts, as the case may be. 7.  The Niagara Parks Commission, if any of the subject land adjoins the Niagara Parkway or is in the jurisdiction of the Niagara Parks Commission. 8.  The St. Lawrence Parks Commission, if any of the subject land adjoins the 1000 Islands Parkway and is within the jurisdiction of the St. Lawrence Parks Commission under section 9 of the St. Lawrence Parks Commission Act. 9.  Parks Canada, if any of the subject land adjoins a historic site, park or historic canal under the jurisdiction of Parks Canada. 10.  The chief of every First Nation council, if the First Nation is located on a reserve any part of which is within one kilometre of the subject land.  O. Reg. 547/06, s. 2; O. Reg. 469/09, ss. 2, 3; O. Reg. 176/16, s. 2 (3). (10) Notice of an application for consent under clause 53 (5) (a) of the Act shall be given, by personal service, ordinary mail, fax or email, to the regional director of the Ministry of Municipal Affairs Municipal Services Office responsible for the region that includes the municipality or planning area where the subject land is located, if the regional director has given the approval authority a written request to be given such notices.  O. Reg. 547/06, s. 2; O. Reg. 176/16, s. 2 (4); O. Reg. 72/18, s. 1. (11) A notice given to the persons and public bodies set out in subsections (9) and (10) shall also include a copy of the application.  O. Reg. 547/06, s. 2. (12) A notice under subsection (9) that is given by a local municipality on the request of the approval authority under subsection 53 (7.1) of the Act shall include, if the approval authority so directs, a request that written comments be submitted to the approval authority.  O. Reg. 547/06, s. 2. (13) A notice, other than a notice that is given by posting as described in clause (3) (b) or by publishing in a newspaper as described in subsection (6), shall include the following: 1.  An explanation of the purpose and effect of the application. 2.  A description of the subject land or a key map showing the subject land. 3.  Where and when additional information and material regarding the application will be available to the public for inspection. 4.  The following statement: If a person or public body has the ability to appeal the decision of (name of the approval authority) in respect of the proposed consent to the Ontario Land Tribunal but does not make written submissions to (name of the approval authority) before it gives or refuses to give a provisional consent, the Tribunal may dismiss the appeal. 5.  The following statement: If you wish to be notified of the decision of (name of the approval authority) in respect of the proposed consent, you must make a written request to (name and address of the approval authority). 6.  If it is known that the subject land is the subject of an application under the Act for a minor variance or for an amendment to an official plan, a zoning by-law or a Minister’s zoning order, a statement of that fact and the file number of the application. 7.  If applicable, a request that the notice be posted by the owner of any land that contains seven or more residential units in a location that is visible to all of the residents.  O. Reg. 547/06, s. 2; O. Reg. 176/16, s. 2 (5-7); O. Reg. 72/18, s. 2; O. Reg. 257/23, s. 1. (14) A notice that is given by posting as described in clause (3) (b) shall include the following: 1.  An explanation of the purpose and effect of the application. 2.  Where and when additional information and material regarding the application will be available to the public for inspection. 3.  The following statement: For more information about this matter, contact (address, email address, website or other location or means by which information may be obtained from the approval authority). O. Reg. 547/06, s. 2; O. Reg. 176/16, s. 2 (8). (15) A notice that is given by publishing in a newspaper as described in subsection (6) shall include the following: 1.  An explanation of the purpose and effect of the application. 2.  A description of the subject land or a key map showing the subject land. 3.  Where and when additional information and material regarding the application will be available to the public for inspection. 4.  The following statement: For more information about this matter, contact (address, email address, website or other location or means by which information may be obtained from the approval authority). O. Reg. 176/16, s. 2 (9).",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) This section applies to notice of an application for a consent under clause 53 (5) (a) of the Act.  O. Reg. 547/06, s. 2.</p> <p class=\"subsection-e\">  (2) Notice shall be given in the manner described in the following subsections of this section:</p> <p class=\"paragraph-e\">  1.  Subsection (3) or (6).</p> <p class=\"paragraph-e\">  2.  Subsection (8).</p> <p class=\"paragraph-e\">  3.  Subsection (9).</p> <p class=\"paragraph-e\">  4.  Subsection (10).  O. Reg. 547/06, s. 2.</p> <p class=\"subsection-e\">  (3) Notice shall be given,</p> <p class=\"clause-e\">  (a)  by personal service or ordinary mail, to every owner of land within 60 metres of the subject land, subject to subsections (4) and (5); and</p> <p class=\"clause-e\">  (b)  by posting a notice, clearly visible and legible from a public highway or other place to which the public has access, at every separately assessed property within the subject land, or, if posting on the property is impractical, at a nearby location chosen by the official described in subsection (7).  O. Reg. 547/06, s. 2.</p> <p class=\"subsection-e\">  (4) For the purposes of clause (3) (a), the owner of land is deemed to be the person shown on the last revised assessment roll of the municipality or on the current provincial land tax roll at the address shown on the roll, but if the approval authority is a municipality and the clerk of the municipality has received written notice of a change of ownership, the notice shall be given to the new owner instead, at the address set out in the notice of change of ownership.  O. Reg. 547/06, s. 2.</p> <p class=\"subsection-e\">  (5) For the purposes of clause (3) (a), if a condominium development is located within 60 metres of the subject land, notice may be given to the condominium corporation, according to its most recent address for service or mailing address as registered under section 7 of the <i>Condominium Act, 1998</i>, instead of being given to all owners assessed in respect of the condominium development.  O. Reg. 547/06, s. 2.</p> <p class=\"subsection-e\">  (6) Notice shall be given by publishing a notice in a newspaper that, in the opinion of the official described in subsection (7), is of sufficiently general circulation in the area adjoining the subject land that it would give the public in the area reasonable notice of the application.  O. Reg. 547/06, s. 2.</p> <p class=\"subsection-e\">  (7) The official for the purposes of subsections (3) and (6) is,</p> <p class=\"clause-e\">  (a)  the clerk of the municipality, if the approval authority is,</p> <p class=\"subclause-e\">  (i)  the council of the municipality or a committee of the council, or</p> <p class=\"subclause-e\">  (ii)  an appointed officer;</p> <p class=\"clause-e\">  (b)  the secretary-treasurer of the land division committee or committee of adjustment, if the approval authority is the land division committee or committee of adjustment;</p> <p class=\"clause-e\">  (c)  the secretary-treasurer of the municipal planning authority, if the approval authority is,</p> <p class=\"subclause-e\">  (i)  a municipal planning authority or a committee of the authority, or</p> <p class=\"subclause-e\">  (ii)  an appointed officer; and</p> <p class=\"clause-e\">  (d)  the secretary-treasurer of the planning board, if the approval authority is the planning board.  O. Reg. 547/06, s. 2; O. Reg. 176/16, s. 2 (1).</p> <p class=\"subsection-e\">  (8) Every person and public body that has given the approval authority a written request for a notice to which this section applies (including the person’s or public body’s address, fax number or email address) shall be given notice by personal service, ordinary mail, fax or email. O. Reg. 176/16, s. 2 (2).</p> <p class=\"subsection-e\">  (9) Notice shall be given, by personal service, ordinary mail, fax or email, to all the following persons and public bodies, except those who have notified the approval authority that they do not wish to receive notice:</p> <p class=\"paragraph-e\">  1.  The clerk of every local municipality in which the subject land is located, or the secretary-treasurer of every municipal planning authority or planning board in whose planning area the subject land is located.</p> <p class=\"paragraph-e\">  2.  The clerk of every upper-tier municipality in which the subject land is located.</p> <p class=\"paragraph-e\">  3.  The secretary-treasurer of a conservation authority, if the subject land is within an area that is under the jurisdiction of the conservation authority.</p> <p class=\"paragraph-e\">  3.1  Every propane operator of a propane operation, if,</p> <p class=\"subpara-e\">  i.  any part of the propane operation’s hazard distance is within the subject land, and</p> <p class=\"subpara-e\">  ii.  the approval authority has been notified of the propane operation’s hazard distance by a director appointed under section 4 of the <i>Technical Standards and Safety Act, 2000</i>.</p> <p class=\"paragraph-e\">  4.  TransCanada PipeLines Limited, if any of the subject land is within 200 metres of a pipeline owned and operated by TransCanada PipeLines Limited.</p> <p class=\"paragraph-e\">  5.  If any of the subject land is within 300 metres of a railway line, the secretary of the company operating the railway line.</p> <p class=\"paragraph-e\">  6.  If any of the subject land is within or abuts the area covered by the Niagara Escarpment Plan, the senior planner of the district office of the Niagara Escarpment Commission having jurisdiction over that land or the area that it abuts, as the case may be.</p> <p class=\"paragraph-e\">  7.  The Niagara Parks Commission, if any of the subject land adjoins the Niagara Parkway or is in the jurisdiction of the Niagara Parks Commission.</p> <p class=\"paragraph-e\">  8.  The St. Lawrence Parks Commission, if any of the subject land adjoins the 1000 Islands Parkway and is within the jurisdiction of the St. Lawrence Parks Commission under section 9 of the <i>St. Lawrence Parks Commission Act</i>.</p> <p class=\"paragraph-e\">  9.  Parks Canada, if any of the subject land adjoins a historic site, park or historic canal under the jurisdiction of Parks Canada.</p> <p class=\"paragraph-e\">  10.  The chief of every First Nation council, if the First Nation is located on a reserve any part of which is within one kilometre of the subject land.  O. Reg. 547/06, s. 2; O. Reg. 469/09, ss. 2, 3; O. Reg. 176/16, s. 2 (3).</p> <p class=\"subsection-e\">  (10) Notice of an application for consent under clause 53 (5) (a) of the Act shall be given, by personal service, ordinary mail, fax or email, to the regional director of the Ministry of Municipal Affairs Municipal Services Office responsible for the region that includes the municipality or planning area where the subject land is located, if the regional director has given the approval authority a written request to be given such notices.  O. Reg. 547/06, s. 2; O. Reg. 176/16, s. 2 (4); O. Reg. 72/18, s. 1.</p> <p class=\"subsection-e\">  (11) A notice given to the persons and public bodies set out in subsections (9) and (10) shall also include a copy of the application.  O. Reg. 547/06, s. 2.</p> <p class=\"subsection-e\">  (12) A notice under subsection (9) that is given by a local municipality on the request of the approval authority under subsection 53 (7.1) of the Act shall include, if the approval authority so directs, a request that written comments be submitted to the approval authority.  O. Reg. 547/06, s. 2.</p> <p class=\"subsection-e\">  (13) A notice, other than a notice that is given by posting as described in clause (3) (b) or by publishing in a newspaper as described in subsection (6), shall include the following:</p> <p class=\"paragraph-e\">  1.  An explanation of the purpose and effect of the application.</p> <p class=\"paragraph-e\">  2.  A description of the subject land or a key map showing the subject land.</p> <p class=\"paragraph-e\">  3.  Where and when additional information and material regarding the application will be available to the public for inspection.</p> <p class=\"paragraph-e\">  4.  The following statement:</p> <p class=\"parawindt2-e\">If a person or public body has the ability to appeal the decision of (<i>name of the approval authority</i>) in respect of the proposed consent to the Ontario Land Tribunal but does not make written submissions to (<i>name of the approval authority</i>) before it gives or refuses to give a provisional consent, the Tribunal may dismiss the appeal.</p> <p class=\"paragraph-e\">  5.  The following statement:</p> <p class=\"parawindt2-e\">If you wish to be notified of the decision of (<i>name of the approval authority</i>) in respect of the proposed consent, you must make a written request to (<i>name and address of the approval authority</i>).</p> <p class=\"paragraph-e\">  6.  If it is known that the subject land is the subject of an application under the Act for a minor variance or for an amendment to an official plan, a zoning by-law or a Minister’s zoning order, a statement of that fact and the file number of the application.</p> <p class=\"paragraph-e\">  7.  If applicable, a request that the notice be posted by the owner of any land that contains seven or more residential units in a location that is visible to all of the residents.  O. Reg. 547/06, s. 2; O. Reg. 176/16, s. 2 (5-7); O. Reg. 72/18, s. 2; O. Reg. 257/23, s. 1.</p> <p class=\"subsection-e\">  (14) A notice that is given by posting as described in clause (3) (b) shall include the following:</p> <p class=\"paragraph-e\">  1.  An explanation of the purpose and effect of the application.</p> <p class=\"paragraph-e\">  2.  Where and when additional information and material regarding the application will be available to the public for inspection.</p> <p class=\"paragraph-e\">  3.  The following statement:</p> <p class=\"Sparagraph-e\">For more information about this matter, contact (<i>address, email address, website or other location or means by which information may be obtained from the approval authority</i>). O. Reg. 547/06, s. 2; O. Reg. 176/16, s. 2 (8).</p> <p class=\"subsection-e\">  (15) A notice that is given by publishing in a newspaper as described in subsection (6) shall include the following:</p> <p class=\"paragraph-e\">  1.  An explanation of the purpose and effect of the application.</p> <p class=\"paragraph-e\">  2.  A description of the subject land or a key map showing the subject land.</p> <p class=\"paragraph-e\">  3.  Where and when additional information and material regarding the application will be available to the public for inspection.</p> <p class=\"paragraph-e\">  4.  The following statement:</p> <p class=\"Sparagraph-e\">For more information about this matter, contact (<i>address, email address, website or other location or means by which information may be obtained from the approval authority</i>). O. Reg. 176/16, s. 2 (9).</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. Where a local municipality gives notice of an application for consent pursuant to a request by an approval authority under subsection 53 (7.1) of the Act, it shall submit to the approval authority both of the following: 1.  A certified copy of the written notice of the application. 2.  An affidavit or sworn declaration by an employee of the local municipality certifying that the requirements for the giving of notice under clause 53 (5) (a) of the Act have been complied with.  O. Reg. 197/96, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>Where a local municipality gives notice of an application for consent pursuant to a request by an approval authority under subsection 53 (7.1) of the Act, it shall submit to the approval authority both of the following:</p> <p class=\"paragraph-e\">  1.  A certified copy of the written notice of the application.</p> <p class=\"paragraph-e\">  2.  An affidavit or sworn declaration by an employee of the local municipality certifying that the requirements for the giving of notice under clause 53 (5) (a) of the Act have been complied with.  O. Reg. 197/96, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. A record to be compiled by the approval authority and forwarded to the Tribunal under clause 53 (15) (a) of the Act shall include the following: 1.  The original or a certified copy of the application received by the approval authority. 1.1  The original or a certified copy of the prescribed information and material received by the approval authority under subsection 53 (2) of the Act. 1.2  If applicable, the original or a certified copy of any other information and material that is required to be provided by the official plan of the municipality or planning board. 2.  The original or a certified copy of the notice of appeal and the date it was received. 3.  The original or a copy of all written submissions and comments received. 4.  If a public meeting is held, a copy of the minutes of the public meeting, if any, and a list of all persons and public bodies that made oral submissions at the public meeting. 5.  A copy of any planning report considered by the approval authority.  O. Reg. 197/96, s. 5; O. Reg. 547/06, s. 3; O. Reg. 72/18, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>A record to be compiled by the approval authority and forwarded to the Tribunal under clause 53 (15) (a) of the Act shall include the following:</p> <p class=\"paragraph-e\">  1.  The original or a certified copy of the application received by the approval authority.</p> <p class=\"paragraph-e\">  1.1  The original or a certified copy of the prescribed information and material received by the approval authority under subsection 53 (2) of the Act.</p> <p class=\"paragraph-e\">  1.2  If applicable, the original or a certified copy of any other information and material that is required to be provided by the official plan of the municipality or planning board.</p> <p class=\"paragraph-e\">  2.  The original or a certified copy of the notice of appeal and the date it was received.</p> <p class=\"paragraph-e\">  3.  The original or a copy of all written submissions and comments received.</p> <p class=\"paragraph-e\">  4.  If a public meeting is held, a copy of the minutes of the public meeting, if any, and a list of all persons and public bodies that made oral submissions at the public meeting.</p> <p class=\"paragraph-e\">  5.  A copy of any planning report considered by the approval authority.  O. Reg. 197/96, s. 5; O. Reg. 547/06, s. 3; O. Reg. 72/18, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. (1) In addition to the explanation required by clause 53 (18) (a) of the Act, notice of the decision of the approval authority under subsection 53 (17) of the Act shall include the following: 1.  A copy of the decision of the approval authority including the conditions, if any. 2.  The last date for filing a notice of appeal of the decision of the approval authority and a statement that the notice of appeal must be filed with the approval authority, must set out the reasons for the appeal and must be accompanied by the fee required by the Ontario Land Tribunal. 3.  If applicable, the following statement: You will be entitled to receive notice of any changes to the conditions of the provisional consent if you have made a written request to be notified of changes to the conditions of the provisional consent. 4.  Revoked: O. Reg. 257/23, s. 2 (2). 5.  If it is known that the land that is the subject of the application for consent is the subject of an application under the Act for a minor variance or for an amendment to an official plan, a zoning by-law or a Minister’s zoning order, a statement of that fact and the file number of the application.  O. Reg. 197/96, s. 6 (1); O. Reg. 547/06, s. 4 (1); O. Reg. 176/16, s. 3 (1); O. Reg. 72/18, s. 2; O. Reg. 257/23, s. 2. (2) Notice of the decision of the approval authority under subsection 53 (17) of the Act shall be given to the regional director of the Ministry of Municipal Affairs Municipal Services Office responsible for the region that includes the municipality or planning area where the subject land is located, if the regional director has given the approval authority a written request to be given notice of such decisions.  O. Reg. 547/06, s. 4 (2); O. Reg. 176/16, s. 3 (2); O. Reg. 72/18, s. 1. (3) A notice given under this section shall be given by personal service, ordinary mail, fax or email. O. Reg. 176/16, s. 3 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) In addition to the explanation required by clause 53 (18) (a) of the Act, notice of the decision of the approval authority under subsection 53 (17) of the Act shall include the following:</p> <p class=\"paragraph-e\">  1.  A copy of the decision of the approval authority including the conditions, if any.</p> <p class=\"paragraph-e\">  2.  The last date for filing a notice of appeal of the decision of the approval authority and a statement that the notice of appeal must be filed with the approval authority, must set out the reasons for the appeal and must be accompanied by the fee required by the Ontario Land Tribunal.</p> <p class=\"paragraph-e\">  3.  If applicable, the following statement:</p> <p class=\"parawindt2-e\">You will be entitled to receive notice of any changes to the conditions of the provisional consent if you have made a written request to be notified of changes to the conditions of the provisional consent.</p> <p class=\"paragraph-e\">  4.  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 257/23, s. 2 (2).</p> <p class=\"paragraph-e\">  5.  If it is known that the land that is the subject of the application for consent is the subject of an application under the Act for a minor variance or for an amendment to an official plan, a zoning by-law or a Minister’s zoning order, a statement of that fact and the file number of the application.  O. Reg. 197/96, s. 6 (1); O. Reg. 547/06, s. 4 (1); O. Reg. 176/16, s. 3 (1); O. Reg. 72/18, s. 2; O. Reg. 257/23, s. 2.</p> <p class=\"subsection-e\">  (2) Notice of the decision of the approval authority under subsection 53 (17) of the Act shall be given to the regional director of the Ministry of Municipal Affairs Municipal Services Office responsible for the region that includes the municipality or planning area where the subject land is located, if the regional director has given the approval authority a written request to be given notice of such decisions.  O. Reg. 547/06, s. 4 (2); O. Reg. 176/16, s. 3 (2); O. Reg. 72/18, s. 1.</p> <p class=\"subsection-e\">  (3) A notice given under this section shall be given by personal service, ordinary mail, fax or email. O. Reg. 176/16, s. 3 (3).</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) Notice of changes to the conditions of a provisional consent under subsection 53 (24) of the Act shall include the following: 1.  The proposed changes. 2.  The last date for filing a notice of appeal of the conditions of the provisional consent and a statement that the notice of appeal must be filed with the approval authority, must set out the reasons for the appeal and must be accompanied by the fee required by the Ontario Land Tribunal. 3.  Revoked: O. Reg. 257/23, s. 3 (2). O. Reg. 197/96, s. 7 (1); O. Reg. 72/18, s. 2; O. Reg. 257/23, s. 3. (2) Notice of changes to the conditions of a provisional consent under subsection 53 (24) of the Act shall be given to the regional director of the Ministry of Municipal Affairs Municipal Services Office responsible for the region that includes the municipality or planning area where the subject land is located, if the regional director has given the approval authority a written request to be given notice of such changes.  O. Reg. 547/06, s. 5; O. Reg. 176/16, s. 4 (1); O. Reg. 72/18, s. 1. (3) A notice given under this section shall be given by personal service, ordinary mail, fax or email. O. Reg. 176/16, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>(1) Notice of changes to the conditions of a provisional consent under subsection 53 (24) of the Act shall include the following:</p> <p class=\"paragraph-e\">  1.  The proposed changes.</p> <p class=\"paragraph-e\">  2.  The last date for filing a notice of appeal of the conditions of the provisional consent and a statement that the notice of appeal must be filed with the approval authority, must set out the reasons for the appeal and must be accompanied by the fee required by the Ontario Land Tribunal.</p> <p class=\"paragraph-e\">  3.  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 257/23, s. 3 (2).</p> <p class=\"footnote-e\">O. Reg. 197/96, s. 7 (1); O. Reg. 72/18, s. 2; O. Reg. 257/23, s. 3.</p> <p class=\"subsection-e\">  (2) Notice of changes to the conditions of a provisional consent under subsection 53 (24) of the Act shall be given to the regional director of the Ministry of Municipal Affairs Municipal Services Office responsible for the region that includes the municipality or planning area where the subject land is located, if the regional director has given the approval authority a written request to be given notice of such changes.  O. Reg. 547/06, s. 5; O. Reg. 176/16, s. 4 (1); O. Reg. 72/18, s. 1.</p> <p class=\"subsection-e\">  (3) A notice given under this section shall be given by personal service, ordinary mail, fax or email. O. Reg. 176/16, s. 4 (2).</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. A record to be compiled by the approval authority and forwarded to the Tribunal under clause 53 (28) (a) of the Act shall include the following: 1.  The original or a certified copy of the application received by the approval authority. 1.1  The original or a certified copy of the prescribed information and material received by the approval authority under subsection 53 (2) of the Act. 1.2  If applicable, the original or a certified copy of any other information and material that is required to be provided by the official plan of the municipality or planning board. 1.3  If applicable, a certified copy of the notice of the decision under subsection 53 (17) of the Act. 2.  A copy of the decision of the approval authority. 3.  The original or a certified copy of the notice of appeal and the date it was received. 4.  The original or a copy of all written submissions and comments received. 5.  If notice of an application for consent is given by the local municipality, the affidavit or sworn declaration submitted to the approval authority under paragraph 2 of section 4. 5.1  A statement by an employee of the approval authority as to whether the decision of the approval authority, i.  is consistent with the policy statements issued under subsection 3 (1) of the Act, ii.  conforms or does not conflict with any applicable provincial plan or plans, and iii.  conforms with applicable official plans. 6.  If notice of an application for consent is given by the approval authority, an affidavit or sworn declaration of an employee of the approval authority certifying that the requirements for the giving of notice under subsections 53 (17) and (24) of the Act have been complied with. 7.  If a public meeting was held, a copy of the minutes of the public meeting, if any, and a list of all persons and public bodies that made oral submissions at the public meeting. 8.  A copy of any planning report considered by the approval authority.  O. Reg. 197/96, s. 8; O. Reg. 547/06, s. 6; O. Reg. 176/16, s. 5; O. Reg. 72/18, s. 3, 4.",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>A record to be compiled by the approval authority and forwarded to the Tribunal under clause 53 (28) (a) of the Act shall include the following:</p> <p class=\"paragraph-e\">  1.  The original or a certified copy of the application received by the approval authority.</p> <p class=\"paragraph-e\">  1.1  The original or a certified copy of the prescribed information and material received by the approval authority under subsection 53 (2) of the Act.</p> <p class=\"paragraph-e\">  1.2  If applicable, the original or a certified copy of any other information and material that is required to be provided by the official plan of the municipality or planning board.</p> <p class=\"paragraph-e\">  1.3  If applicable, a certified copy of the notice of the decision under subsection 53 (17) of the Act.</p> <p class=\"paragraph-e\">  2.  A copy of the decision of the approval authority.</p> <p class=\"paragraph-e\">  3.  The original or a certified copy of the notice of appeal and the date it was received.</p> <p class=\"paragraph-e\">  4.  The original or a copy of all written submissions and comments received.</p> <p class=\"paragraph-e\">  5.  If notice of an application for consent is given by the local municipality, the affidavit or sworn declaration submitted to the approval authority under paragraph 2 of section 4.</p> <p class=\"paragraph-e\">  5.1  A statement by an employee of the approval authority as to whether the decision of the approval authority,</p> <p class=\"subpara-e\">  i.  is consistent with the policy statements issued under subsection 3 (1) of the Act,</p> <p class=\"subpara-e\">  ii.  conforms or does not conflict with any applicable provincial plan or plans, and</p> <p class=\"subpara-e\">  iii.  conforms with applicable official plans.</p> <p class=\"paragraph-e\">  6.  If notice of an application for consent is given by the approval authority, an affidavit or sworn declaration of an employee of the approval authority certifying that the requirements for the giving of notice under subsections 53 (17) and (24) of the Act have been complied with.</p> <p class=\"paragraph-e\">  7.  If a public meeting was held, a copy of the minutes of the public meeting, if any, and a list of all persons and public bodies that made oral submissions at the public meeting.</p> <p class=\"paragraph-e\">  8.  A copy of any planning report considered by the approval authority.  O. Reg. 197/96, s. 8; O. Reg. 547/06, s. 6; O. Reg. 176/16, s. 5; O. Reg. 72/18, s. 3, 4.</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) If the approval authority, in granting a consent, has not stipulated that subsection 50 (3) or (5) of the Act shall apply to any subsequent conveyance of or transaction involving the same parcel, the certificate required under subsection 53 (42) of the Act shall be one of the following: 1.  A stamp in Form 1, if the certificate is affixed to a deed or other document relating to the transaction in respect of which the consent has been given. 2.  A Certificate in Form 2 in all other cases.  O. Reg. 197/96, s. 9 (1). (2) If the approval authority, in granting a consent, has stipulated that subsection 50 (3) or (5) of the Act shall apply to any subsequent conveyance of or transaction involving the same parcel, the certificate required under subsection 53 (42) of the Act shall be one of the following: 1.  A stamp in Form 3, if it is affixed to a deed or other document relating to the transaction in respect of which the consent has been given. 2.  A Certificate in Form 4 in all other cases.  O. Reg. 197/96, s. 9 (2). PART II   CONSENT APPLICATIONS TO THE MINISTER",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) If the approval authority, in granting a consent, has not stipulated that subsection 50 (3) or (5) of the Act shall apply to any subsequent conveyance of or transaction involving the same parcel, the certificate required under subsection 53 (42) of the Act shall be one of the following:</p> <p class=\"paragraph-e\">  1.  A stamp in Form 1, if the certificate is affixed to a deed or other document relating to the transaction in respect of which the consent has been given.</p> <p class=\"paragraph-e\">  2.  A Certificate in Form 2 in all other cases.  O. Reg. 197/96, s. 9 (1).</p> <p class=\"subsection-e\">  (2) If the approval authority, in granting a consent, has stipulated that subsection 50 (3) or (5) of the Act shall apply to any subsequent conveyance of or transaction involving the same parcel, the certificate required under subsection 53 (42) of the Act shall be one of the following:</p> <p class=\"paragraph-e\">  1.  A stamp in Form 3, if it is affixed to a deed or other document relating to the transaction in respect of which the consent has been given.</p> <p class=\"paragraph-e\">  2.  A Certificate in Form 4 in all other cases.  O. Reg. 197/96, s. 9 (2).</p> <p class=\"partnum-e\"><a name=\"BK1\"></a>PART II <br/>  CONSENT APPLICATIONS TO THE MINISTER</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. The information and material to be provided to the Minister by an applicant under subsection 53 (2) of the Act are set out in Schedule 1.  O. Reg. 547/06, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>The information and material to be provided to the Minister by an applicant under subsection 53 (2) of the Act are set out in Schedule 1.  O. Reg. 547/06, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. (1) Notice of an application for consent under clause 53 (5) (a) of the Act shall be given in the manner described in the following subsections of this section: 1.  Subsection (2) or (3). 2.  Subsection (6).  O. Reg. 547/06, s. 7. (2) Notice shall be given by publishing a notice in a newspaper that, in the Minister’s opinion, is of sufficiently general circulation in the area adjoining the subject land that it would give the public in the area reasonable notice of the application.  O. Reg. 547/06, s. 7. (3) Notice shall be given by personal service or ordinary mail to every owner of land within 60 metres of the subject land, subject to subsections (4) and (5).  O. Reg. 547/06, s. 7. (4) For the purposes of subsection (3), the owner of land is deemed to be the person shown on the last revised assessment roll of the municipality or on the current provincial land tax roll at the address shown on the roll.  O. Reg. 547/06, s. 7. (5) For the purposes of subsection (3), if a condominium development is located within 60 metres of the subject land, notice may be given to the condominium corporation, according to its most recent address for service or mailing address as registered under section 7 of the Condominium Act, 1998, instead of being given to all owners assessed in respect of the condominium development.  O. Reg. 547/06, s. 7. (6) Every person and public body that has given the Minister a written request for a notice to which this section applies (including the person’s or public body’s address, fax number or email address) shall be given notice by personal service, ordinary mail, fax or email. O. Reg. 176/16, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>(1) Notice of an application for consent under clause 53 (5) (a) of the Act shall be given in the manner described in the following subsections of this section:</p> <p class=\"paragraph-e\">  1.  Subsection (2) or (3).</p> <p class=\"paragraph-e\">  2.  Subsection (6).  O. Reg. 547/06, s. 7.</p> <p class=\"subsection-e\">  (2) Notice shall be given by publishing a notice in a newspaper that, in the Minister’s opinion, is of sufficiently general circulation in the area adjoining the subject land that it would give the public in the area reasonable notice of the application.  O. Reg. 547/06, s. 7.</p> <p class=\"subsection-e\">  (3) Notice shall be given by personal service or ordinary mail to every owner of land within 60 metres of the subject land, subject to subsections (4) and (5).  O. Reg. 547/06, s. 7.</p> <p class=\"subsection-e\">  (4) For the purposes of subsection (3), the owner of land is deemed to be the person shown on the last revised assessment roll of the municipality or on the current provincial land tax roll at the address shown on the roll.  O. Reg. 547/06, s. 7.</p> <p class=\"subsection-e\">  (5) For the purposes of subsection (3), if a condominium development is located within 60 metres of the subject land, notice may be given to the condominium corporation, according to its most recent address for service or mailing address as registered under section 7 of the <i>Condominium Act, 1998</i>, instead of being given to all owners assessed in respect of the condominium development.  O. Reg. 547/06, s. 7.</p> <p class=\"subsection-e\">  (6) Every person and public body that has given the Minister a written request for a notice to which this section applies (including the person’s or public body’s address, fax number or email address) shall be given notice by personal service, ordinary mail, fax or email. O. Reg. 176/16, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. Where a local municipality or planning board gives notice of an application for consent pursuant to a request by the Minister under subsection 53 (7.1) of the Act, it shall submit to the Minister both of the following: 1.  A certified copy of the written notice of the application. 2.  An affidavit or sworn declaration by an employee of the local municipality or planning board certifying that the requirements for the giving of notice under clause 53 (5) (a) of the Act have been complied with.  O. Reg. 197/96, s. 12.",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>Where a local municipality or planning board gives notice of an application for consent pursuant to a request by the Minister under subsection 53 (7.1) of the Act, it shall submit to the Minister both of the following:</p> <p class=\"paragraph-e\">  1.  A certified copy of the written notice of the application.</p> <p class=\"paragraph-e\">  2.  An affidavit or sworn declaration by an employee of the local municipality or planning board certifying that the requirements for the giving of notice under clause 53 (5) (a) of the Act have been complied with.  O. Reg. 197/96, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. Sections 5 to 9 apply, with necessary modifications, to applications for consent to the Minister.  O. Reg. 547/06, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>Sections 5 to 9 apply, with necessary modifications, to applications for consent to the Minister.  O. Reg. 547/06, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#13.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.1 For greater certainty, despite the amendments made to this Regulation by Ontario Regulation 176/16, this Regulation as it read immediately before those amendments came into force continues to apply in respect of the following: 1.  A notice given under section 53 of the Act, if it was given before the day Ontario Regulation 176/16 came into force. 2.  A record compiled under section 53 of the Act, if it was forwarded before the day Ontario Regulation 176/16 came into force. O. Reg. 176/16, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>13.1 </b>For greater certainty, despite the amendments made to this Regulation by Ontario Regulation 176/16, this Regulation as it read immediately before those amendments came into force continues to apply in respect of the following:</p> <p class=\"paragraph-e\">  1.  A notice given under section 53 of the Act, if it was given before the day Ontario Regulation 176/16 came into force.</p> <p class=\"paragraph-e\">  2.  A record compiled under section 53 of the Act, if it was forwarded before the day Ontario Regulation 176/16 came into force. O. Reg. 176/16, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#13.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.2 For greater certainty, despite the amendments made to this Regulation by Ontario Regulation 72/18, this Regulation as it read immediately before those amendments came into force continues to apply in respect of the following: 1.  A notice given under section 53 of the Act, if it was given before the day Ontario Regulation 72/18 came into force. 2.  A record compiled under section 53 of the Act, if it was compiled before the day Ontario Regulation 72/18 came into force. 3.  An application under subsection 53 (1) of the Act, if the information and material set out in Schedule 1 were provided before the day Ontario Regulation 72/18 came into force. O. Reg. 72/18, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>13.2 </b>For greater certainty, despite the amendments made to this Regulation by Ontario Regulation 72/18, this Regulation as it read immediately before those amendments came into force continues to apply in respect of the following:</p> <p class=\"paragraph-e\">  1.  A notice given under section 53 of the Act, if it was given before the day Ontario Regulation 72/18<i> came into force.</i></p> <p class=\"paragraph-e\">  2.  A record compiled under section 53 of the Act, if it was compiled before the day Ontario Regulation 72/18 came into force.</p> <p class=\"paragraph-e\">  3.  An application under subsection 53 (1) of the Act, if the information and material set out in Schedule 1 were provided before the day Ontario Regulation 72/18 came into force. O. Reg. 72/18, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. Omitted (revokes other Regulations and provides for transition).  O. Reg. 197/96, s. 14; O. Reg. 547/06, s. 9.",
+            "raw_html": "<p class=\"section-e\"> <b>14.</b> <span class=\"ovsmallcap\">Omitted (revokes other Regulations and provides for transition)</span>.  O. Reg. 197/96, s. 14; O. Reg. 547/06, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. Omitted (provides for coming into force of provisions of the English version of this Regulation).  O. Reg. 197/96, s. 15. Schedule 1 \nINFORMATION AND MATERIAL TO BE INCLUDED IN AN APPLICATION for consent under subsection 53 (2) of the act",
+            "raw_html": "<p class=\"section-e\"> <b>15.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of the English version of this Regulation</span>).  O. Reg. 197/96, s. 15.</p> <p class=\"schedule-e\"><a name=\"BK2\"></a>Schedule 1<b> <br/>\n</b>INFORMATION AND MATERIAL TO BE INCLUDED IN AN APPLICATION for consent under subsection 53 (2) of the act</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  1. The name, address, telephone number and, if applicable, the e-mail address of the owner, the chargee or the purchaser, as the case may be, of the subject land, and of the agent if the applicant is the authorized agent of the owner, the chargee or the purchaser.",
+            "raw_html": "<p class=\"section-e\">  1. The name, address, telephone number and, if applicable, the e-mail address of the owner, the chargee or the purchaser, as the case may be, of the subject land, and of the agent if the applicant is the authorized agent of the owner, the chargee or the purchaser.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  2. The date of the application.",
+            "raw_html": "<p class=\"section-e\">  2. The date of the application.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  3. The type and purpose of the proposed transaction (for example, a transfer for the creation of a new lot, a lot addition, an easement, a charge, a lease or a correction of title).",
+            "raw_html": "<p class=\"section-e\">  3. The type and purpose of the proposed transaction (<i>for example, a transfer for the creation of a new lot, a lot addition, an easement, a charge, a lease or a correction of title</i>).</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  4. If known, the name of the person to whom the land or an interest in the land is to be transferred, charged or leased.",
+            "raw_html": "<p class=\"section-e\">  4. If known, the name of the person to whom the land or an interest in the land is to be transferred, charged or leased.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  5. A description of the subject land, including such information as the municipality, or the geographic township in unorganized territory, concession and lot numbers, registered plan and lot numbers, reference plan and part numbers, and street names and numbers.",
+            "raw_html": "<p class=\"section-e\">  5. A description of the subject land, including such information as the municipality, or the geographic township in unorganized territory, concession and lot numbers, registered plan and lot numbers, reference plan and part numbers, and street names and numbers.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  6. Whether there are any easements or restrictive covenants affecting the subject land.",
+            "raw_html": "<p class=\"section-e\">  6. Whether there are any easements or restrictive covenants affecting the subject land.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  7. If the answer to section 6 is yes, a description of each easement or covenant and its effect.",
+            "raw_html": "<p class=\"section-e\">  7. If the answer to section 6 is yes, a description of each easement or covenant and its effect.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  8. The following information, with respect to the land intended to be severed and the land intended to be retained:  (a)  the frontage, depth and area, in metric units; (b)  the existing and proposed uses of the land; (c)  the existing and proposed buildings and structures on the land; (d)  whether access to the land will be, (i)  by a provincial highway, a municipal road that is maintained all year or seasonally, another public road or a right of way, or (ii)  by water; (e)  if access to the land will be by water only, the parking and docking facilities to be used and the approximate distance of these facilities from the land and the nearest public road; (f)  whether water will be provided by a publicly owned and operated piped water system, a privately owned and operated individual or communal well, a lake or other water body or other means; and (g)  whether sewage disposal will be provided by a publicly owned and operated sanitary sewage system, a privately owned and operated individual or communal septic system, a privy or other means.",
+            "raw_html": "<p class=\"section-e\">  8. The following information, with respect to the land intended to be severed and the land intended to be retained: </p> <p class=\"clause-e\">  (a)  the frontage, depth and area, in metric units;</p> <p class=\"clause-e\">  (b)  the existing and proposed uses of the land;</p> <p class=\"clause-e\">  (c)  the existing and proposed buildings and structures on the land;</p> <p class=\"clause-e\">  (d)  whether access to the land will be,</p> <p class=\"subclause-e\">  (i)  by a provincial highway, a municipal road that is maintained all year or seasonally, another public road or a right of way, or</p> <p class=\"subclause-e\">  (ii)  by water;</p> <p class=\"clause-e\">  (e)  if access to the land will be by water only, the parking and docking facilities to be used and the approximate distance of these facilities from the land and the nearest public road;</p> <p class=\"clause-e\">  (f)  whether water will be provided by a publicly owned and operated piped water system, a privately owned and operated individual or communal well, a lake or other water body or other means; and</p> <p class=\"clause-e\">  (g)  whether sewage disposal will be provided by a publicly owned and operated sanitary sewage system, a privately owned and operated individual or communal septic system, a privy or other means.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  9. The current designation of the subject land in the applicable official plans and an explanation of how the application conforms with the official plans.",
+            "raw_html": "<p class=\"section-e\">  9. The current designation of the subject land in the applicable official plans and an explanation of how the application conforms with the official plans.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10. If known,  (a)  whether the subject land has ever been the subject of an application for approval of a plan of subdivision under section 51 of the Act or a consent under section 53 of the Act; and (b)  if the answer to clause (a) is yes, the file number of the application and the status of the application.",
+            "raw_html": "<p class=\"section-e\">  10. If known, </p> <p class=\"clause-e\">  (a)  whether the subject land has ever been the subject of an application for approval of a plan of subdivision under section 51 of the Act or a consent under section 53 of the Act; and</p> <p class=\"clause-e\">  (b)  if the answer to clause (a) is yes, the file number of the application and the status of the application.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  11. Whether any land has been severed from the parcel originally acquired by the owner of the subject land.",
+            "raw_html": "<p class=\"section-e\">  11. Whether any land has been severed from the parcel originally acquired by the owner of the subject land.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  12. If the answer to section 11 is yes, the date of the transfer, the name of the transferee and the uses of the severed land.",
+            "raw_html": "<p class=\"section-e\">  12. If the answer to section 11 is yes, the date of the transfer, the name of the transferee and the uses of the severed land.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  13. If known,  (a)  whether the subject land is the subject of any other application under the Act, such as an application for an amendment to an official plan, a zoning by-law or a Minister’s zoning order, an application for a minor variance or an application for an approval of a plan of subdivision or a consent; and (b)  if the answer to clause (a) is yes, the file number of the application and the status of the application.",
+            "raw_html": "<p class=\"section-e\">  13. If known, </p> <p class=\"clause-e\">  (a)  whether the subject land is the subject of any other application under the Act, such as an application for an amendment to an official plan, a zoning by-law or a Minister’s zoning order, an application for a minor variance or an application for an approval of a plan of subdivision or a consent; and</p> <p class=\"clause-e\">  (b)  if the answer to clause (a) is yes, the file number of the application and the status of the application.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  14. A sketch showing the following, in metric units: (a)  the boundaries and dimensions of any land abutting the subject land that is owned by the owner of the subject land; (b)  the approximate distance between the subject land and the nearest township lot line or landmark such as a bridge or railway crossing; (c)  the boundaries and dimensions of the subject land, the part that is intended to be severed and the part that is intended to be retained; (d)  the location of all land previously severed from the parcel originally acquired by the current owner of the subject land; (e)  the approximate location of all natural and artificial features (for example, buildings, railways, roads, watercourses, drainage ditches, banks of rivers or streams, wetlands, wooded areas, wells and septic tanks) that, (i)  are located on the subject land and on land that is adjacent to it, and (ii)  in the applicant’s opinion, may affect the application; (f)  the current uses of land that is adjacent to the subject land (for example, residential, agricultural or commercial); (g)  the location, width and name of any roads within or abutting the subject land, indicating whether it is an unopened road allowance, a public travelled road, a private road or a right of way; (h)  if access to the subject land will be by water only, the location of the parking and boat docking facilities to be used; and (i)  the location and nature of any easement affecting the subject land.",
+            "raw_html": "<p class=\"section-e\">  14. A sketch showing the following, in metric units:</p> <p class=\"clause-e\">  (a)  the boundaries and dimensions of any land abutting the subject land that is owned by the owner of the subject land;</p> <p class=\"clause-e\">  (b)  the approximate distance between the subject land and the nearest township lot line or landmark such as a bridge or railway crossing;</p> <p class=\"clause-e\">  (c)  the boundaries and dimensions of the subject land, the part that is intended to be severed and the part that is intended to be retained;</p> <p class=\"clause-e\">  (d)  the location of all land previously severed from the parcel originally acquired by the current owner of the subject land;</p> <p class=\"clause-e\">  (e)  the approximate location of all natural and artificial features (<i>for example, buildings, railways, roads, watercourses, drainage ditches, banks of rivers or streams, wetlands, wooded areas, wells and septic tanks</i>) that,</p> <p class=\"subclause-e\">  (i)  are located on the subject land and on land that is adjacent to it, and</p> <p class=\"subclause-e\">  (ii)  in the applicant’s opinion, may affect the application;</p> <p class=\"clause-e\">  (f)  the current uses of land that is adjacent to the subject land (<i>for example, residential, agricultural or commercial</i>); </p> <p class=\"clause-e\">  (g)  the location, width and name of any roads within or abutting the subject land, indicating whether it is an unopened road allowance, a public travelled road, a private road or a right of way;</p> <p class=\"clause-e\">  (h)  if access to the subject land will be by water only, the location of the parking and boat docking facilities to be used; and</p> <p class=\"clause-e\">  (i)  the location and nature of any easement affecting the subject land.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  14.1 Whether the application includes a request referred to in clause 53 (42.1) (a) of the Act.",
+            "raw_html": "<p class=\"section-e\">  14.1 Whether the application includes a request referred to in clause 53 (42.1) (a) of the Act.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  14.2 If the answer to section 14.1 is yes, a statement from an Ontario solicitor in good standing that there is no land abutting the subject land that is owned by the owner of the subject land other than land that could be conveyed without contravening section 50 of the Act.",
+            "raw_html": "<p class=\"section-e\">  14.2 If the answer to section 14.1 is yes, a statement from an Ontario solicitor in good standing that there is no land abutting the subject land that is owned by the owner of the subject land other than land that could be conveyed without contravening section 50 of the Act.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  15. An explanation of how the application is consistent with policy statements issued under subsection 3 (1) of the Act.",
+            "raw_html": "<p class=\"section-e\">  15. An explanation of how the application is consistent with policy statements issued under subsection 3 (1) of the Act.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  16. Whether the subject land is within an area of land designated under any provincial plan or plans.",
+            "raw_html": "<p class=\"section-e\">  16. Whether the subject land is within an area of land designated under any provincial plan or plans.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  17. If the answer to section 16 is yes, an explanation of how the application conforms or does not conflict with the provincial plan or plans.",
+            "raw_html": "<p class=\"section-e\">  17. If the answer to section 16 is yes, an explanation of how the application conforms or does not conflict with the provincial plan or plans.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  18. If the applicant is not the owner, the chargee or the purchaser of the subject land, the written authorization of the owner, the chargee or the purchaser, as the case may be, to the applicant to make the application.",
+            "raw_html": "<p class=\"section-e\">  18. If the applicant is not the owner, the chargee or the purchaser of the subject land, the written authorization of the owner, the chargee or the purchaser, as the case may be, to the applicant to make the application.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  18.1 If the applicant is the purchaser or the purchaser’s agent, a copy of the portion of the agreement of purchase and sale that authorizes the purchaser to make the application in respect of the land that is the subject of the application.",
+            "raw_html": "<p class=\"section-e\">  18.1 If the applicant is the purchaser or the purchaser’s agent, a copy of the portion of the agreement of purchase and sale that authorizes the purchaser to make the application in respect of the land that is the subject of the application.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  19. An affidavit or sworn declaration by the applicant that the information required under this Schedule and provided by the applicant is accurate. O. Reg. 547/06, s. 10; O. Reg. 72/18, s. 6; O. Reg. 719/20, s. 1; O. Reg. 786/21, s. 1. Form 1   CERTIFICATE OF OFFICIAL Planning Act  O. Reg. 197/96, Form 1. Form 2   CERTIFICATE OF OFFICIAL Planning Act  O. Reg. 197/96, Form 2. Form 3   CERTIFICATE OF OFFICIAL Planning Act  O. Reg. 197/96, Form 3. Form 4   CERTIFICATE OF OFFICIAL Planning Act  O. Reg. 197/96, Form 4.  Français  ",
+            "raw_html": "<p class=\"section-e\">  19. An affidavit or sworn declaration by the applicant that the information required under this Schedule and provided by the applicant is accurate.</p> <p class=\"footnote-e\">O. Reg. 547/06, s. 10; O. Reg. 72/18, s. 6; O. Reg. 719/20, s. 1; O. Reg. 786/21, s. 1.</p> <p class=\"form-e\"><a name=\"BK3\"></a>Form 1 <br/>  CERTIFICATE OF OFFICIAL</p> <p class=\"act-e\">Planning Act</p> <p class=\"scanned-e\"><img border=\"0\" height=\"182\" src=\"960197_e_files/image001.png\" width=\"671\"/></p> <p class=\"footnote-e\">O. Reg. 197/96, Form 1.</p> <p class=\"form-e\"><a name=\"BK4\"></a>Form 2 <br/>  CERTIFICATE OF OFFICIAL</p> <p class=\"act-e\">Planning Act</p> <p class=\"scanned-e\"><img border=\"0\" height=\"250\" src=\"960197_e_files/image002.png\" width=\"671\"/></p> <p class=\"footnote-e\">O. Reg. 197/96, Form 2.</p> <p class=\"form-e\"><a name=\"BK5\"></a>Form 3 <br/>  CERTIFICATE OF OFFICIAL</p> <p class=\"act-e\">Planning Act</p> <p class=\"scanned-e\"><img border=\"0\" height=\"250\" src=\"960197_e_files/image003.png\" width=\"672\"/></p> <p class=\"footnote-e\">O. Reg. 197/96, Form 3.</p> <p class=\"form-e\"><a name=\"BK6\"></a>Form 4 <br/>  CERTIFICATE OF OFFICIAL</p> <p class=\"act-e\">Planning Act</p> <p class=\"scanned-e\"><img border=\"0\" height=\"289\" src=\"960197_e_files/image004.png\" width=\"671\"/></p> <p class=\"footnote-e\">O. Reg. 197/96, Form 4.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/960197\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

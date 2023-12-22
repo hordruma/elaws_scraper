@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 753/21: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "O. Reg. 753/21: ",
+        "act_under": "Liquor Control Board of Ontario Act, 2019",
+        "url": "https://www.ontario.ca/laws/regulation/210753",
+        "date_scraped": "2023-12-18 13:36:45"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November 29, 2021",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/210753/v1",
+            "valid_from": "November  8, 2021",
+            "valid_to": "November 28, 2021"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Criteria for major capital expenditure",
+            "content": "  1. The aggregate amount of all expenditures in respect of a capital project constitutes a major capital expenditure for the purposes of paragraph 1 of subsection 12 (4) of the Act if the aggregate amount of the budgeted or actual expenditures of the LCBO for the capital project exceeds $10 million.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>The aggregate amount of all expenditures in respect of a capital project constitutes a major capital expenditure for the purposes of paragraph 1 of subsection 12 (4) of the Act if the aggregate amount of the budgeted or actual expenditures of the LCBO for the capital project exceeds $10 million.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Criteria for major capital expenditure",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Criteria for major capital expenditure",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/210753\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

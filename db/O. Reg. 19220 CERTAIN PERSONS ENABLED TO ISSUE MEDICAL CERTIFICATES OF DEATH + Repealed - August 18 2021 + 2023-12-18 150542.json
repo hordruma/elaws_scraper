@@ -1,0 +1,73 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 192/20: CERTAIN PERSONS ENABLED TO ISSUE MEDICAL CERTIFICATES OF DEATH",
+        "reg_name_text": "CERTAIN PERSONS ENABLED TO ISSUE MEDICAL CERTIFICATES OF DEATH",
+        "citation": "O. Reg. 192/20: ",
+        "act_under": "Reopening Ontario (A Flexible Response to COVID-19) Act, 2020",
+        "url": "https://www.ontario.ca/laws/regulation/200192",
+        "date_scraped": "2023-12-18 15:05:43"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/200192/v3",
+            "valid_from": "August 12, 2021",
+            "valid_to": "August 17, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200192/v2",
+            "valid_from": "July 15, 2020",
+            "valid_to": "August 11, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/200192/v1",
+            "valid_from": "May  1, 2020",
+            "valid_to": "July 14, 2020"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Terms of Order",
+            "content": " 1. The terms of this Order are set out in Schedule 1. O. Reg. 402/20, s. 3. Schedule 1",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The terms of this Order are set out in Schedule 1. O. Reg. 402/20, s. 3.</p> <p class=\"schedule-e\">Schedule 1</p>"
+        },
+        {
+            "id": "1.",
+            "section": "Definitions",
+            "content": " 1. In this Order, “funeral director” has the same meaning as in the Vital Statistics Act; (“directeur de services funéraires”) “registered nurse” means a member of the College of Nurses of Ontario who holds a general certificate of registration as a registered nurse or an extended certificate of registration as a registered nurse; (“infirmière autorisée ou infirmier autorisé”) “Registrar General” has the same meaning as in the Vital Statistics Act. (“registraire général de l’état civil”)",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Order,</p> <p class=\"definition-e\">“funeral director” has the same meaning as in the <i>Vital Statistics Act</i>; (“directeur de services funéraires”)</p> <p class=\"definition-e\">“registered nurse” means a member of the College of Nurses of Ontario who holds a general certificate of registration as a registered nurse or an extended certificate of registration as a registered nurse; (“infirmière autorisée ou infirmier autorisé”)</p> <p class=\"definition-e\">“Registrar General” has the same meaning as in the <i>Vital Statistics Act</i>. (“registraire général de l’état civil”)</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Application",
+            "content": " 2. This Order applies to registered nurses who have been appointed under subsection 16.1 (1) of the Coroners Act to exercise the investigative powers and duties of a coroner and whose appointment was in effect on May 1, 2020.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>This Order applies to registered nurses who have been appointed under subsection 16.1 (1) of the <i>Coroners Act</i> to exercise the investigative powers and duties of a coroner and whose appointment was in effect on May 1, 2020.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Registered nurse authorized to complete medical certificate of death",
+            "content": "  3. (1) A registered nurse described in section 2 who investigates a death pursuant to their appointment is authorized to, as soon as the cause of death is known, complete and sign a medical certificate of death in the form approved for this purpose by the Registrar General under the Vital Statistics Act. (2) The medical certificate of death must state the cause of death according to the classification of diseases adopted by reference in section 70 of Regulation 1094 of the Revised Regulations of Ontario, 1990 (General) made under the Vital Statistics Act and must be delivered to the funeral director.",
+            "raw_html": "<p class=\"section-e\"><b>  3. </b>(1) A registered nurse described in section 2 who investigates a death pursuant to their appointment is authorized to, as soon as the cause of death is known, complete and sign a medical certificate of death in the form approved for this purpose by the Registrar General under the <i>Vital Statistics Act</i>.</p> <p class=\"subsection-e\">  (2) The medical certificate of death must state the cause of death according to the classification of diseases adopted by reference in section 70 of Regulation 1094 of the Revised Regulations of Ontario, 1990 (General) made under the <i>Vital Statistics Act</i> and must be delivered to the funeral director.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Registered nurse authorized to copy or duplicate medical certificate of death",
+            "content": " 4. A registered nurse described in section 2 who investigates a death pursuant to their appointment is authorized to copy or duplicate a medical certificate of death when acting in the course of their appointment.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>A registered nurse described in section 2 who investigates a death pursuant to their appointment is authorized to copy or duplicate a medical certificate of death when acting in the course of their appointment.</p>"
+        },
+        {
+            "id": null,
+            "section": "Registered nurse authorized to copy or duplicate medical certificate of death",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/200192\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

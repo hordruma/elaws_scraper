@@ -1,0 +1,40 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 150/05: PERSONAL INFORMATION",
+        "reg_name_text": "PERSONAL INFORMATION",
+        "citation": "O. Reg. 150/05: ",
+        "act_under": "Ontario Drug Benefit Act",
+        "url": "https://www.ontario.ca/laws/regulation/050150",
+        "date_scraped": "2023-12-19 09:52:48"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/050150/v1",
+            "valid_from": "March 29, 2005",
+            "valid_to": "August 23, 2007"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Interpretation",
+            "content": "1. In this Regulation,  “ODB data” means personal information kept by the Ministry about a recipient, including name, health number, drug claims history and related personal information; (“données du régime”) “public hospital” means a hospital as defined in section 1 of the Public Hospitals Act; (“hôpital public”) “recipient” means a person who receives drug benefits under the Act. (“bénéficiaire”) O. Reg. 150/05, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>In this Regulation, </p> <p class=\"firstdef-e\">“ODB data” means personal information kept by the Ministry about a recipient, including name, health number, drug claims history and related personal information; (“données du régime”)</p> <p class=\"definition-e\">“public hospital” means a hospital as defined in section 1 of the <i>Public Hospitals Act</i>; (“hôpital public”)</p> <p class=\"definition-e\">“recipient” means a person who receives drug benefits under the Act. (“bénéficiaire”) O. Reg. 150/05, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Prescribed purpose",
+            "content": "2. For the purposes of subsections 13 (1), (2), (3) and (4) of the Act, the following are prescribed purposes: 1. Facilitating access to ODB data by a public hospital where the recipient to whom the ODB data relates is seeking care in the emergency department of that public hospital. O. Reg. 150/05, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>For the purposes of subsections 13 (1), (2), (3) and (4) of the Act, the following are prescribed purposes:</p> <p class=\"paragraph-e\">1. Facilitating access to ODB data by a public hospital where the recipient to whom the ODB data relates is seeking care in the emergency department of that public hospital. O. Reg. 150/05, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Prescribed conditions",
+            "content": "3. The Minister shall not disclose ODB data for a purpose mentioned in paragraph 1 of section 2 unless the public hospital is a party to an agreement with the Minister under subsection 13 (4) of the Act. O. Reg. 150/05, s. 3. Français ",
+            "raw_html": "<p class=\"section-e\"><b>3. </b>The Minister shall not disclose ODB data for a purpose mentioned in paragraph 1 of section 2 unless the public hospital is a party to an agreement with the Minister<b> </b>under subsection 13 (4) of the Act. O. Reg. 150/05, s. 3.</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/revokedregs/french/elaws_rev_regs_050150_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/revokedregs/french/elaws_rev_regs_050150_f.htm\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

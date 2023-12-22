@@ -1,0 +1,52 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 400/02: SMALL BUSINESS PROGRAMS",
+        "reg_name_text": "SMALL BUSINESS PROGRAMS",
+        "citation": "O. Reg. 400/02: ",
+        "act_under": "Municipal Act, 2001",
+        "url": "https://www.ontario.ca/laws/regulation/020400",
+        "date_scraped": "2023-12-19 10:13:41"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/020400/v1",
+            "valid_from": "January  1, 2003",
+            "valid_to": "February 11, 2007"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Maximum amount to be spent",
+            "content": "1. The maximum amount that may be spent by a municipality under a program referred to in subsection 108 (2) of the Act is $5 per person based on the latest enumeration made by the assessment corporation under the Assessment Act. O. Reg. 400/02, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>The maximum amount that may be spent by a municipality under a program referred to in subsection 108 (2) of the Act is $5 per person based on the latest enumeration made by the assessment corporation under the <i>Assessment Act</i>. O. Reg. 400/02, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Definition",
+            "content": "2. For the purpose of section 108 of the Act, “small business” means a business that has less than 100 employees. O. Reg. 400/02, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>For the purpose of section 108 of the Act,</p> <p class=\"firstdef-e\">“small business” means a business that has less than 100 employees. O. Reg. 400/02, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "City of Hamilton",
+            "content": "3. Despite section 1, the maximum amount that may be spent by the City of Hamilton under the program authorized by Order in Council 2292/89 dated September 29, 1989 is $10 per person based on the latest enumeration made by the assessment corporation under the Assessment Act. O. Reg. 400/02, s. 3.",
+            "raw_html": "<p class=\"section-e\"><b>3. </b>Despite section 1, the maximum amount that may be spent by the City of Hamilton under the program authorized by Order in Council 2292/89 dated September 29, 1989 is $10 per person based on the latest enumeration made by the assessment corporation under the <i>Assessment Act</i>. O. Reg. 400/02, s. 3.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "City of Hamilton",
+            "content": "4. Omitted (revokes other Regulations). O. Reg. 400/02, s. 4.",
+            "raw_html": "<p class=\"section-e\"><b>4.</b> Omitted (revokes other Regulations). O. Reg. 400/02, s. 4.</p>"
+        },
+        {
+            "id": "5.",
+            "section": "City of Hamilton",
+            "content": "5. Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 400/02, s. 5. Français ",
+            "raw_html": "<p class=\"section-e\"><b>5.</b> Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 400/02, s. 5.</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/revokedregs/french/elaws_rev_regs_020400_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/revokedregs/french/elaws_rev_regs_020400_f.htm\" target=\"_top\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

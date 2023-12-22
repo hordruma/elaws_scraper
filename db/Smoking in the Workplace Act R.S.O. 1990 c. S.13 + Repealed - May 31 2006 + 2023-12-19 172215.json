@@ -1,0 +1,100 @@
+{
+    "act_info": {
+        "full_title": "Smoking in the Workplace Act, R.S.O. 1990, c. S.13",
+        "act_name_text": "Not Found",
+        "citation": "Smoking in the Workplace Act, R.S.O. 1990, c. S.13",
+        "url": "https://www.ontario.ca/laws/statute/90s13",
+        "date_scraped": "2023-12-19 17:22:15"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/statute/90s13/v2",
+            "valid_from": "June 13, 2005",
+            "valid_to": "May 30, 2006"
+        },
+        {
+            "a_href": "/laws/statute/90s13/v1",
+            "valid_from": "December 31, 1990",
+            "valid_to": "June 12, 2005"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definitions",
+            "content": "1.In this Act, “employee” includes a person whose services are contracted for by an employer; (“employé”) “employer” means a person who employs one or more employees or who contracts for the services of one or more persons; (“employeur”) “enclosed workplace” means an enclosed building or structure in which an employee works and includes a shaft, tunnel, caisson or similar enclosed space; (“lieu de travail clos”) “smoking” includes carrying a lighted cigar, cigarette or pipe and “smoke” has a corresponding meaning. (“usage du tabac”, “fumer”) R.S.O. 1990, c. S.13, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1.</b>In this Act,</p> <p class=\"firstdef-e\">“employee” includes a person whose services are contracted for by an employer; (“employé”)</p> <p class=\"definition-e\">“employer” means a person who employs one or more employees or who contracts for the services of one or more persons; (“employeur”)</p> <p class=\"definition-e\">“enclosed workplace” means an enclosed building or structure in which an employee works and includes a shaft, tunnel, caisson or similar enclosed space; (“lieu de travail clos”)</p> <p class=\"definition-e\">“smoking” includes carrying a lighted cigar, cigarette or pipe and “smoke” has a corresponding meaning. (“usage du tabac”, “fumer”) R.S.O. 1990, c. S.13, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Prohibition",
+            "content": "2.(1)No person shall smoke in an enclosed workplace. Exception (2)Subsection (1) does not apply so as to prohibit smoking, (a) in a smoking area designated by an employer under subsection 3(1); (b) in an area used primarily by the public; (c) in an area used primarily for lodging; or (d) in a private dwelling. R.S.O. 1990, c. S.13, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2.</b>(1)No person shall smoke in an enclosed workplace.</p> <p class=\"headnote-e\"><b>Exception</b></p> <p class=\"subsection-e\">(2)Subsection (1) does not apply so as to prohibit smoking,</p> <p class=\"clause-e\">(a) in a smoking area designated by an employer under subsection 3(1);</p> <p class=\"clause-e\">(b) in an area used primarily by the public;</p> <p class=\"clause-e\">(c) in an area used primarily for lodging; or</p> <p class=\"clause-e\">(d) in a private dwelling. R.S.O. 1990, c. S.13, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Designated smoking areas",
+            "content": "3.(1)An employer may designate one or more locations in an enclosed workplace as smoking areas. Maximum area permitted (2)The total space for designated smoking areas at an enclosed workplace shall not exceed 25 per cent of the total floor area of the enclosed workplace, exclusive of the places described in clauses 2(2)(b), (c) and (d). Consultation required (3)An employer shall consult with the joint health and safety committee or the health and safety representative, if any, at the workplace before establishing a designated smoking area. Definitions (4)In subsection (3), “health and safety representative” means a health and safety representative selected under the Occupational Health and Safety Act; (“délégué à la santé et à la sécurité”) “joint health and safety committee” means a joint health and safety committee established under section 9 of the Occupational Health and Safety Act or a similar committee or arrangement, program or system in which employees participate. (“comité mixte sur la santé et la sécurité au travail”) R.S.O. 1990, c. S.13, s. 3.",
+            "raw_html": "<p class=\"section-e\"><b>3.</b>(1)An employer may designate one or more locations in an enclosed workplace as smoking areas.</p> <p class=\"headnote-e\"><b>Maximum area permitted</b></p> <p class=\"subsection-e\">(2)The total space for designated smoking areas at an enclosed workplace shall not exceed 25 per cent of the total floor area of the enclosed workplace, exclusive of the places described in clauses 2(2)(b), (c) and (d).</p> <p class=\"headnote-e\"><b>Consultation required</b></p> <p class=\"subsection-e\">(3)An employer shall consult with the joint health and safety committee or the health and safety representative, if any, at the workplace before establishing a designated smoking area.</p> <p class=\"headnote-e\"><b>Definitions</b></p> <p class=\"subsection-e\">(4)In subsection (3),</p> <p class=\"firstdef-e\">“health and safety representative” means a health and safety representative selected under the <i>Occupational Health and Safety Act</i>; (“délégué à la santé et à la sécurité”)</p> <p class=\"definition-e\">“joint health and safety committee” means a joint health and safety committee established under section 9 of the <i>Occupational Health and Safety Act</i> or a similar committee or arrangement, program or system in which employees participate. (“comité mixte sur la santé et la sécurité au travail”) R.S.O. 1990, c. S.13, s. 3.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Signs required",
+            "content": "4.(1)An employer shall post and keep posted such signs as may be prescribed respecting smoking in a workplace. Idem (2)An employer shall post signs that identify designated smoking areas in a workplace. R.S.O. 1990, c. S.13, s. 4.",
+            "raw_html": "<p class=\"section-e\"><b>4.</b>(1)An employer shall post and keep posted such signs as may be prescribed respecting smoking in a workplace.</p> <p class=\"headnote-e\"><b>Idem</b></p> <p class=\"subsection-e\">(2)An employer shall post signs that identify designated smoking areas in a workplace. R.S.O. 1990, c. S.13, s. 4.</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Obligation of employer",
+            "content": "5.(1)An employer shall make every reasonable effort to ensure that no person contravenes subsection 2(1). Idem (2)An employer shall make every reasonable effort to accommodate employees who request that they work in a place separate from a designated smoking area. R.S.O. 1990, c. S.13, s. 5.",
+            "raw_html": "<p class=\"section-e\"><b>5.</b>(1)An employer shall make every reasonable effort to ensure that no person contravenes subsection 2(1).</p> <p class=\"headnote-e\"><b>Idem</b></p> <p class=\"subsection-e\">(2)An employer shall make every reasonable effort to accommodate employees who request that they work in a place separate from a designated smoking area. R.S.O. 1990, c. S.13, s. 5.</p>"
+        },
+        {
+            "id": "6.",
+            "section": "Inspection and enforcement",
+            "content": "6.(1)An inspector appointed under the Occupational Health and Safety Act may inspect enclosed workplaces to determine whether this Act is being complied with. Powers of inspector (2)For the purpose of subsection (1), an inspector, (a) may enter an enclosed workplace, other than a private dwelling, at any time without warrant or notice; (b) may require the production of any drawings, specifications or floor plans for an enclosed workplace, other than a private dwelling, and may inspect, examine and copy them; and (c) may make inquiries of any person who is or was in a workplace. Obstruction (3)No person shall hinder, obstruct or interfere with an inspector in the execution of the inspector’s duties under this section. R.S.O. 1990, c. S.13, s. 6.",
+            "raw_html": "<p class=\"section-e\"><b>6.</b>(1)An inspector appointed under the <i>Occupational Health and Safety Act</i> may inspect enclosed workplaces to determine whether this Act is being complied with.</p> <p class=\"headnote-e\"><b>Powers of inspector</b></p> <p class=\"subsection-e\">(2)For the purpose of subsection (1), an inspector,</p> <p class=\"clause-e\">(a) may enter an enclosed workplace, other than a private dwelling, at any time without warrant or notice;</p> <p class=\"clause-e\">(b) may require the production of any drawings, specifications or floor plans for an enclosed workplace, other than a private dwelling, and may inspect, examine and copy them; and</p> <p class=\"clause-e\">(c) may make inquiries of any person who is or was in a workplace.</p> <p class=\"headnote-e\"><b>Obstruction</b></p> <p class=\"subsection-e\">(3)No person shall hinder, obstruct or interfere with an inspector in the execution of the inspector’s duties under this section. R.S.O. 1990, c. S.13, s. 6.</p>"
+        },
+        {
+            "id": "7.",
+            "section": "Orders by inspectors",
+            "content": "7.(1)If an inspector finds that an employer is not complying with section 4 or 5, the inspector may order the employer or a person whom the inspector believes to be in charge of the workplace to comply with the provision and may require the order to be carried out forthwith or within such period of time as the inspector specifies. Contents of order (2)An order made under subsection (1) shall indicate generally the nature and, when appropriate, the location of the non-compliance. No hearing required before making order (3)An inspector is not required to hold or afford to an employer or another person an opportunity for a hearing before making an order under subsection (1). Appeals from order of an inspector (4)An order under subsection (1) may be appealed. Idem (5)Section 61 of the Occupational Health and Safety Act applies with necessary modifications to an appeal of an order under subsection (1). R.S.O. 1990, c. S.13, s. 7.",
+            "raw_html": "<p class=\"section-e\"><b>7.</b>(1)If an inspector finds that an employer is not complying with section 4 or 5, the inspector may order the employer or a person whom the inspector believes to be in charge of the workplace to comply with the provision and may require the order to be carried out forthwith or within such period of time as the inspector specifies.</p> <p class=\"headnote-e\"><b>Contents of order</b></p> <p class=\"subsection-e\">(2)An order made under subsection (1) shall indicate generally the nature and, when appropriate, the location of the non-compliance.</p> <p class=\"headnote-e\"><b>No hearing required before making order</b></p> <p class=\"subsection-e\">(3)An inspector is not required to hold or afford to an employer or another person an opportunity for a hearing before making an order under subsection (1).</p> <p class=\"headnote-e\"><b>Appeals from order of an inspector</b></p> <p class=\"subsection-e\">(4)An order under subsection (1) may be appealed.</p> <p class=\"headnote-e\"><b>Idem</b></p> <p class=\"subsection-e\">(5)Section 61 of the <i>Occupational Health and Safety Act</i> applies with necessary modifications to an appeal of an order under subsection (1). R.S.O. 1990, c. S.13, s. 7.</p>"
+        },
+        {
+            "id": "8.",
+            "section": "Prohibition",
+            "content": "8.(1)No employer or person acting on behalf of an employer, (a) shall dismiss or threaten to dismiss an employee; (b) shall discipline or suspend an employee or threaten to do so; (c) shall impose a penalty upon an employee; or (d) shall intimidate or coerce an employee, because the employee has acted in accordance with or has sought the enforcement of this Act. Procedure (2)Subsections 50(2) to (8) of the Occupational Health and Safety Act apply with necessary modifications when an employee complains that subsection (1) has been contravened. R.S.O. 1990, c. S.13, s. 8.",
+            "raw_html": "<p class=\"section-e\"><b>8.</b>(1)No employer or person acting on behalf of an employer,</p> <p class=\"clause-e\">(a) shall dismiss or threaten to dismiss an employee;</p> <p class=\"clause-e\">(b) shall discipline or suspend an employee or threaten to do so;</p> <p class=\"clause-e\">(c) shall impose a penalty upon an employee; or</p> <p class=\"clause-e\">(d) shall intimidate or coerce an employee,</p> <p class=\"Ssubsection-e\">because the employee has acted in accordance with or has sought the enforcement of this Act.</p> <p class=\"headnote-e\"><b>Procedure</b></p> <p class=\"subsection-e\">(2)Subsections 50(2) to (8) of the <i>Occupational Health and Safety Act</i> apply with necessary modifications when an employee complains that subsection (1) has been contravened. R.S.O. 1990, c. S.13, s. 8.</p>"
+        },
+        {
+            "id": "9.",
+            "section": "Offence",
+            "content": "9.(1)Every person who contravenes subsection 2(1) or 6(3) is guilty of an offence. Idem (2)Every employer who fails to comply with section 4 or 5 or an order made under subsection 7(1) or who contravenes subsection 8(1) is guilty of an offence. Derivative (3)Every person who causes, authorizes, permits or participates in an offence under subsection (2) is guilty of an offence. Penalty (4)On conviction of an offence, (a) every person who is not an employer is liable to a fine of not more than $500; and (b) every employer is liable to a fine of not more than $25,000. R.S.O. 1990, c. S.13, s. 9.",
+            "raw_html": "<p class=\"section-e\"><b>9.</b>(1)Every person who contravenes subsection 2(1) or 6(3) is guilty of an offence.</p> <p class=\"headnote-e\"><b>Idem</b></p> <p class=\"subsection-e\">(2)Every employer who fails to comply with section 4 or 5 or an order made under subsection 7(1) or who contravenes subsection 8(1) is guilty of an offence.</p> <p class=\"headnote-e\"><b>Derivative</b></p> <p class=\"subsection-e\">(3)Every person who causes, authorizes, permits or participates in an offence under subsection (2) is guilty of an offence.</p> <p class=\"headnote-e\"><b>Penalty</b></p> <p class=\"subsection-e\">(4)On conviction of an offence,</p> <p class=\"clause-e\">(a) every person who is not an employer is liable to a fine of not more than $500; and</p> <p class=\"clause-e\">(b) every employer is liable to a fine of not more than $25,000. R.S.O. 1990, c. S.13, s. 9.</p>"
+        },
+        {
+            "id": "10.",
+            "section": "Regulations",
+            "content": "10. The Lieutenant Governor in Council may make regulations prescribing signs and providing for their use. R.S.O. 1990, c. S.13, s. 10.",
+            "raw_html": "<p class=\"section-e\"><b>10.</b> The Lieutenant Governor in Council may make regulations prescribing signs and providing for their use. R.S.O. 1990, c. S.13, s. 10.</p>"
+        },
+        {
+            "id": "11.",
+            "section": "Conflict with other Acts, etc.",
+            "content": "11.(1)In the event of conflict between this Act and another Act or a regulation or a municipal by-law respecting smoking in a workplace, the provision that is the most restrictive of smoking prevails. Municipal by-laws (2)Nothing in this Act prevents a municipality from passing by-laws respecting smoking in workplaces. Rights of employers, employees (3)Nothing in this Act derogates from the right of an employer to prohibit smoking in a workplace or from the rights of an employee to a smoke-free workplace. R.S.O. 1990, c. S.13, s. 11.",
+            "raw_html": "<p class=\"section-e\"><b>11.</b>(1)In the event of conflict between this Act and another Act or a regulation or a municipal by-law respecting smoking in a workplace, the provision that is the most restrictive of smoking prevails.</p> <p class=\"headnote-e\"><b>Municipal by-laws</b></p> <p class=\"subsection-e\">(2)Nothing in this Act prevents a municipality from passing by-laws respecting smoking in workplaces.</p> <p class=\"headnote-e\"><b>Rights of employers, employees</b></p> <p class=\"subsection-e\">(3)Nothing in this Act derogates from the right of an employer to prohibit smoking in a workplace or from the rights of an employee to a smoke-free workplace. R.S.O. 1990, c. S.13, s. 11.</p>"
+        },
+        {
+            "id": "12.",
+            "section": "Binding on the Crown",
+            "content": "12.This Act binds the Crown. R.S.O. 1990, c. S.13, s. 12. ____________________ Français ",
+            "raw_html": "<p class=\"section-e\"><b>12.</b>This Act binds the Crown. R.S.O. 1990, c. S.13, s. 12.</p> <p class=\"line-e\">____________________</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90s13_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90s13_f.htm\" target=\"_top\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

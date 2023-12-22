@@ -1,0 +1,419 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 16/99: AUTOMATED SYSTEM",
+        "reg_name_text": "AUTOMATED SYSTEM",
+        "citation": "O. Reg. 16/99: ",
+        "act_under": "Land Registration Reform Act",
+        "url": "https://www.ontario.ca/laws/regulation/990016",
+        "date_scraped": "2023-12-19 02:06:33"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "March  7, 2018",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v71",
+            "valid_from": "November 23, 2016",
+            "valid_to": "March  6, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v70",
+            "valid_from": "July  1, 2011",
+            "valid_to": "November 22, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v68",
+            "valid_from": "April 19, 2011",
+            "valid_to": "June 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v67",
+            "valid_from": "November 22, 2010",
+            "valid_to": "April 18, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v66",
+            "valid_from": "November 15, 2010",
+            "valid_to": "November 21, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v65",
+            "valid_from": "October 25, 2010",
+            "valid_to": "November 14, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v64",
+            "valid_from": "July 19, 2010",
+            "valid_to": "October 24, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v63",
+            "valid_from": "June 21, 2010",
+            "valid_to": "July 18, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v62",
+            "valid_from": "April 19, 2010",
+            "valid_to": "June 20, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v61",
+            "valid_from": "March 22, 2010",
+            "valid_to": "April 18, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v60",
+            "valid_from": "December  7, 2009",
+            "valid_to": "March 21, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v59",
+            "valid_from": "November 16, 2009",
+            "valid_to": "December  6, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v58",
+            "valid_from": "November  2, 2009",
+            "valid_to": "November 15, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v57",
+            "valid_from": "October  5, 2009",
+            "valid_to": "November  1, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v56",
+            "valid_from": "August 17, 2009",
+            "valid_to": "October  4, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v55",
+            "valid_from": "August 10, 2009",
+            "valid_to": "August 16, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v54",
+            "valid_from": "May 25, 2009",
+            "valid_to": "August  9, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v53",
+            "valid_from": "May 11, 2009",
+            "valid_to": "May 24, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v52",
+            "valid_from": "April 20, 2009",
+            "valid_to": "May 10, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v51",
+            "valid_from": "December 15, 2008",
+            "valid_to": "April 19, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v50",
+            "valid_from": "June 16, 2008",
+            "valid_to": "December 14, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v49",
+            "valid_from": "April 21, 2008",
+            "valid_to": "June 15, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v48",
+            "valid_from": "March 20, 2008",
+            "valid_to": "April 20, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v47",
+            "valid_from": "March 10, 2008",
+            "valid_to": "March 19, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v46",
+            "valid_from": "December 17, 2007",
+            "valid_to": "March  9, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v45",
+            "valid_from": "November 19, 2007",
+            "valid_to": "December 16, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v44",
+            "valid_from": "October 15, 2007",
+            "valid_to": "November 18, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v43",
+            "valid_from": "September 24, 2007",
+            "valid_to": "October 14, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v42",
+            "valid_from": "September 10, 2007",
+            "valid_to": "September 23, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v41",
+            "valid_from": "September  7, 2007",
+            "valid_to": "September  9, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v40",
+            "valid_from": "August 20, 2007",
+            "valid_to": "September  6, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v39",
+            "valid_from": "May 22, 2007",
+            "valid_to": "August 19, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v38",
+            "valid_from": "January 22, 2007",
+            "valid_to": "May 21, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v37",
+            "valid_from": "January  8, 2007",
+            "valid_to": "January 21, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v36",
+            "valid_from": "December 11, 2006",
+            "valid_to": "January  7, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v35",
+            "valid_from": "December  4, 2006",
+            "valid_to": "December 10, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v34",
+            "valid_from": "November 27, 2006",
+            "valid_to": "December  3, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v33",
+            "valid_from": "October 23, 2006",
+            "valid_to": "November 26, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v32",
+            "valid_from": "October 16, 2006",
+            "valid_to": "October 22, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v31",
+            "valid_from": "September 18, 2006",
+            "valid_to": "October 15, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v30",
+            "valid_from": "August 21, 2006",
+            "valid_to": "September 17, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v29",
+            "valid_from": "July 24, 2006",
+            "valid_to": "August 20, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v28",
+            "valid_from": "July 10, 2006",
+            "valid_to": "July 23, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v27",
+            "valid_from": "June 19, 2006",
+            "valid_to": "July  9, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v26",
+            "valid_from": "May 29, 2006",
+            "valid_to": "June 18, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v25",
+            "valid_from": "May  8, 2006",
+            "valid_to": "May 28, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v24",
+            "valid_from": "April 24, 2006",
+            "valid_to": "May  7, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v23",
+            "valid_from": "April 10, 2006",
+            "valid_to": "April 23, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v22",
+            "valid_from": "March 27, 2006",
+            "valid_to": "April  9, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v21",
+            "valid_from": "February 23, 2006",
+            "valid_to": "March 26, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v20",
+            "valid_from": "February  9, 2006",
+            "valid_to": "February 22, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v19",
+            "valid_from": "January  9, 2006",
+            "valid_to": "February  8, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v18",
+            "valid_from": "November 21, 2005",
+            "valid_to": "January  8, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v17",
+            "valid_from": "November  7, 2005",
+            "valid_to": "November 20, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v16",
+            "valid_from": "October 24, 2005",
+            "valid_to": "November  6, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v15",
+            "valid_from": "June  9, 2005",
+            "valid_to": "October 23, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v14",
+            "valid_from": "May 19, 2005",
+            "valid_to": "June  8, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v13",
+            "valid_from": "May  9, 2005",
+            "valid_to": "May 18, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v12",
+            "valid_from": "April 18, 2005",
+            "valid_to": "May  8, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v11",
+            "valid_from": "April 11, 2005",
+            "valid_to": "April 17, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v10",
+            "valid_from": "March 15, 2005",
+            "valid_to": "April 10, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v9",
+            "valid_from": "March  7, 2005",
+            "valid_to": "March 14, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v8",
+            "valid_from": "February 22, 2005",
+            "valid_to": "March  6, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v7",
+            "valid_from": "November 22, 2004",
+            "valid_to": "February 21, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v6",
+            "valid_from": "September 16, 2004",
+            "valid_to": "November 21, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v5",
+            "valid_from": "August 16, 2004",
+            "valid_to": "September 15, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v4",
+            "valid_from": "August  9, 2004",
+            "valid_to": "August 15, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v3",
+            "valid_from": "March  8, 2004",
+            "valid_to": "August  8, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v2",
+            "valid_from": "February 10, 2004",
+            "valid_to": "March  7, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/990016/v1",
+            "valid_from": "December  9, 2003",
+            "valid_to": "February  9, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Automated Recording and Property Mapping",
+            "content": " 1. All of Ontario is designated for the purpose of Part II of the Act.  O. Reg. 16/99, s. 1. Electronic Registration",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>All of Ontario is designated for the purpose of Part II of the Act.  O. Reg. 16/99, s. 1.</p> <p class=\"heading1-e\">Electronic Registration</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Electronic Registration",
+            "content": " 2. In sections 3, 4 and 5, “document” includes a plan of subdivision submitted for registration under the Land Titles Act and a reference plan submitted for deposit under that Act, but does not include, (a) any other plan registered, submitted, made or deposited under the Land Titles Act, (b) a declaration or description within the meaning of the Condominium Act, 1998 or an amendment to such a declaration or description, or (c) a notice of termination described in section 122 or 123 of the Condominium Act, 1998, a deed for a sale described in section 124 of that Act, a plan of expropriation for an expropriation described in section 126 of that Act or an order for termination described in section 128 of that Act.  O. Reg. 16/99, s. 2; O. Reg. 51/01, s. 1; O. Reg. 85/18, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>In sections 3, 4 and 5,</p> <p class=\"definition-e\">“document” includes a plan of subdivision submitted for registration under the <i>Land Titles Act</i> and a reference plan submitted for deposit under that Act, but does not include,</p> <p class=\"defclause-e\">  (a) any other plan registered, submitted, made or deposited under the <i>Land Titles Act</i>,</p> <p class=\"defclause-e\">  (b) a declaration or description within the meaning of the <i>Condominium Act, 1998</i> or an amendment to such a declaration or description, or</p> <p class=\"defclause-e\">  (c) a notice of termination described in section 122 or 123 of the <i>Condominium Act, 1998</i>, a deed for a sale described in section 124 of that Act, a plan of expropriation for an expropriation described in section 126 of that Act or an order for termination described in section 128 of that Act.  O. Reg. 16/99, s. 2; O. Reg. 51/01, s. 1; O. Reg. 85/18, s. 1.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Electronic Registration",
+            "content": " 3. (1) Subject to subsections (2) and (3), all land in Ontario is designated under clause 19 (c) of the Act as an area in which documents may not be registered or deposited under the Land Titles Act unless they are in an electronic format alone. O. Reg. 85/18, s. 2. (2) Plans of subdivision may be registered under the Land Titles Act in a non-electronic format and reference plans may be deposited under that Act in a non-electronic format. O. Reg. 85/18, s. 2. (3) If the electronic land registration database is not capable of receiving a document or group of documents by direct electronic transmission, the document or group of documents may not be registered in an electronic format but must be registered in written form.  O. Reg. 16/99, s. 3 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) Subject to subsections (2) and (3), all land in Ontario is designated under clause 19 (c) of the Act as an area in which documents may not be registered or deposited under the <i>Land Titles Act</i> unless they are in an electronic format alone. O. Reg. 85/18, s. 2.</p> <p class=\"subsection-e\">  (2) Plans of subdivision may be registered under the <i>Land Titles Act</i> in a non-electronic format and reference plans may be deposited under that Act in a non-electronic format. O. Reg. 85/18, s. 2.</p> <p class=\"subsection-e\">  (3) If the electronic land registration database is not capable of receiving a document or group of documents by direct electronic transmission, the document or group of documents may not be registered in an electronic format but must be registered in written form.  O. Reg. 16/99, s. 3 (3).</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Electronic Registration",
+            "content": " 4. (1) Despite section 24 of the Act, if a person submits a document for registration under the Land Titles Act in an electronic format and the document is required to include an affidavit, a declaration or any other written evidence, the evidence is not required to be in an electronic format.  O. Reg. 16/99, s. 4 (1). (2) If the evidence mentioned in subsection (1) is a judgment or order that is not in an electronic format, it shall comply with subsection 17 (3) of Regulation 690 of the Revised Regulations of Ontario, 1990 (Procedures and Records) made under that Act.  O. Reg. 16/99, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>4.</b> (1) Despite section 24 of the Act, if a person submits a document for registration under the <i>Land Titles Act</i> in an electronic format and the document is required to include an affidavit, a declaration or any other written evidence, the evidence is not required to be in an electronic format.  O. Reg. 16/99, s. 4 (1).</p> <p class=\"subsection-e\">  (2) If the evidence mentioned in subsection (1) is a judgment or order that is not in an electronic format, it shall comply with subsection 17 (3) of Regulation 690 of the Revised Regulations of Ontario, 1990 (Procedures and Records) made under that Act.  O. Reg. 16/99, s. 4 (2).</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Electronic Registration",
+            "content": " 5. (1) If access to the electronic or imaged records or documents of a land registry office is not available for any reason and documents may be registered under the Land Titles Act in the office in an electronic format, the Director may authorize the land registrar to accept for registration copies of electronic documents delivered to the office in a format approved by the Director.  O. Reg. 16/99, s. 5 (1). (2) When access to the electronic or imaged records or documents of the land registry office is restored, the land registrar shall register the copies mentioned in subsection (1) in an electronic format, in the manner specified by the Director, in the order in which they were received and before proceeding with any other registrations.  O. Reg. 16/99, s. 5 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) If access to the electronic or imaged records or documents of a land registry office is not available for any reason and documents may be registered under the <i>Land Titles Act</i> in the office in an electronic format, the Director may authorize the land registrar to accept for registration copies of electronic documents delivered to the office in a format approved by the Director.  O. Reg. 16/99, s. 5 (1).</p> <p class=\"subsection-e\">  (2) When access to the electronic or imaged records or documents of the land registry office is restored, the land registrar shall register the copies mentioned in subsection (1) in an electronic format, in the manner specified by the Director, in the order in which they were received and before proceeding with any other registrations.  O. Reg. 16/99, s. 5 (2).</p>"
+        },
+        {
+            "id": "6.",
+            "section": "Electronic Registration",
+            "content": " 6. Omitted (revokes other Regulations).  O. Reg. 16/99, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>6.</b> <span class=\"ovsmallcap\">Omitted (revokes other Regulations)</span>.  O. Reg. 16/99, s. 6.</p>"
+        },
+        {
+            "id": null,
+            "section": "Electronic Registration",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/990016\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

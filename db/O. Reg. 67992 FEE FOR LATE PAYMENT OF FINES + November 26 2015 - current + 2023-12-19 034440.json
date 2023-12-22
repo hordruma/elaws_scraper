@@ -1,0 +1,50 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 679/92: FEE FOR LATE PAYMENT OF FINES",
+        "reg_name_text": "FEE FOR LATE PAYMENT OF FINES",
+        "citation": "O. Reg. 679/92: ",
+        "act_under": "Provincial Offences Act",
+        "url": "https://www.ontario.ca/laws/regulation/920679",
+        "date_scraped": "2023-12-19 03:44:40"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November 26, 2015",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/920679/v2",
+            "valid_from": "July 25, 2005",
+            "valid_to": "November 25, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/920679/v1",
+            "valid_from": "November 16, 1992",
+            "valid_to": "July 24, 2005"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Fee for late payment of fines",
+            "content": " 1. The administrative fee payable for a fine in default is, (a) $10 for fines imposed after the 12th day of April, 1987 and before the 16th day of December, 1992; (b) $20 for fines imposed on or after the 16th day of December, 1992 and before the 1st day of January, 2016; (c) $40 for fines imposed on or after the 1st day of January, 2016. O. Reg. 350/15, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The administrative fee payable for a fine in default is,</p> <p class=\"clause-e\">  (a) $10 for fines imposed after the 12th day of April, 1987 and before the 16th day of December, 1992;</p> <p class=\"clause-e\">  (b) $20 for fines imposed on or after the 16th day of December, 1992 and before the 1st day of January, 2016;</p> <p class=\"clause-e\">  (c) $40 for fines imposed on or after the 1st day of January, 2016. O. Reg. 350/15, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Fee for late payment of fines",
+            "content": " 2. Omitted (revokes other Regulations).  O. Reg. 679/92, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">revokes other Regulations</span>).  O. Reg. 679/92, s. 2.</p>"
+        },
+        {
+            "id": null,
+            "section": "Fee for late payment of fines",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/920679\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

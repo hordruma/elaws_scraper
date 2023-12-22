@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 386/16: BLUE BOX WASTE",
+        "reg_name_text": "BLUE BOX WASTE",
+        "citation": "O. Reg. 386/16: ",
+        "act_under": "Waste Diversion Transition Act, 2016",
+        "url": "https://www.ontario.ca/laws/regulation/160386",
+        "date_scraped": "2023-12-19 03:10:29"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November 30, 2016",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/160386/v1",
+            "valid_from": "November 24, 2016",
+            "valid_to": "November 29, 2016"
+        }
+    ],
+    "content": [
+        {
+            "id": "s1",
+            "section": "Blue box waste materials",
+            "content": " 1. Waste that consists of any of the following materials, or any combination of them, is prescribed as blue box waste for the purposes of the Act: 1. Glass. 2. Metal. 3. Paper. 4. Plastic. 5. Textiles.",
+            "raw_html": "<p class=\"section-e\"><a name=\"s1\"></a><b> <a href=\"http://www.ontario.ca/fr/lois/reglement/160386#s1\"><span lang=\"EN-US\">1.</span></a> </b>Waste that consists of any of the following materials, or any combination of them, is prescribed as blue box waste for the purposes of the Act:</p> <p class=\"paragraph-e\">  1. Glass.</p> <p class=\"paragraph-e\">  2. Metal.</p> <p class=\"paragraph-e\">  3. Paper.</p> <p class=\"paragraph-e\">  4. Plastic.</p> <p class=\"paragraph-e\">  5. Textiles.</p>"
+        },
+        {
+            "id": "s2",
+            "section": "Blue box waste materials",
+            "content": " 2. Omitted\r\n(provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"><a name=\"s2\"></a> <a href=\"http://www.ontario.ca/fr/lois/reglement/160386#s2\"><span lang=\"EN-US\">2.</span></a> <span class=\"ovsmallcap\">Omitted</span>\r\n(<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Blue box waste materials",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/160386\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

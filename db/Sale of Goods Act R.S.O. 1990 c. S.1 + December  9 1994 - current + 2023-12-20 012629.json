@@ -1,0 +1,643 @@
+{
+    "act_info": {
+        "full_title": "Sale of Goods Act, R.S.O. 1990, c. S.1",
+        "act_name_text": "Sale of Goods Act",
+        "citation": "R.S.O. 1990, c. S.1",
+        "url": "https://www.ontario.ca/laws/statute/90s01",
+        "date_scraped": "2023-12-20 01:26:30"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "December  9, 1994",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "1.",
+            "section_x": "Definitions and interpretation",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Definitions and interpretation",
+            "content": "1 (1) In this Act, “buyer” means the person who buys or agrees to buy goods; (“acheteur”) “contract of sale” includes an agreement to sell as well as a sale; (“contrat de vente”) “delivery” means the voluntary transfer of possession from one person to another; (“livraison”) “document of title” includes a bill of lading and warehouse receipt as defined by the Mercantile Law Amendment Act, any warrant or order for the delivery of goods and any other document used in the ordinary course of business as proof of the possession or control of goods or authorizing or purporting to authorize, either by endorsement or delivery, the possessor of the document to transfer or receive goods thereby represented; (“titre”) “fault” means a wrongful act or default; (“faute”) “goods” means all chattels personal, other than things in action and money, and includes emblements, industrial growing crops, and things attached to or forming part of the land that are agreed to be severed before sale or under the contract of sale; (“objets”) “plaintiff” includes a defendant counterclaiming; (“demandeur”) “property” means the general property in goods and not merely a special property; (“propriété”) “quality of goods” includes their state or condition; (“qualité”) “sale” includes a bargain and sale as well as a sale and delivery; (“vente”) “seller” means a person who sells or agrees to sell goods; (“vendeur”) “specific goods” means the goods identified and agreed upon at the time the contract of sale is made; (“objets déterminés”) “warranty” means an agreement with reference to goods that are the subject of a contract of sale but collateral to the main purpose of the contract, the breach of which gives rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated. (“garantie”) Things done in good faith (2) A thing shall be deemed to be done in good faith within the meaning of this Act when it is in fact done honestly whether it is done negligently or not. What deemed insolvency (3) A person shall be deemed to be insolvent within the meaning of this Act who either has ceased to pay his, her or its debts in the ordinary course of business or cannot pay his, her or its debts as they become due. Deliverable state (4) Goods shall be deemed to be in a deliverable state within the meaning of this Act when they are in such a state that the buyer would under the contract be bound to take delivery of them. R.S.O. 1990, c. S.1, s. 1. PART I   FORMATION OF THE CONTRACT",
+            "raw_html": "<p class=\"section\"><a name=\"BK0\"></a><b>1 </b>(1) In this Act,</p> <p class=\"definition\">“buyer” means the person who buys or agrees to buy goods; (“acheteur”)</p> <p class=\"definition\">“contract of sale” includes an agreement to sell as well as a sale; (“contrat de vente”)</p> <p class=\"definition\">“delivery” means the voluntary transfer of possession from one person to another; (“livraison”)</p> <p class=\"definition\">“document of title” includes a bill of lading and warehouse receipt as defined by the <i>Mercantile Law Amendment Act</i>, any warrant or order for the delivery of goods and any other document used in the ordinary course of business as proof of the possession or control of goods or authorizing or purporting to authorize, either by endorsement or delivery, the possessor of the document to transfer or receive goods thereby represented; (“titre”)</p> <p class=\"definition\">“fault” means a wrongful act or default; (“faute”)</p> <p class=\"definition\">“goods” means all chattels personal, other than things in action and money, and includes emblements, industrial growing crops, and things attached to or forming part of the land that are agreed to be severed before sale or under the contract of sale; (“objets”)</p> <p class=\"definition\">“plaintiff” includes a defendant counterclaiming; (“demandeur”)</p> <p class=\"definition\">“property” means the general property in goods and not merely a special property; (“propriété”)</p> <p class=\"definition\">“quality of goods” includes their state or condition; (“qualité”)</p> <p class=\"definition\">“sale” includes a bargain and sale as well as a sale and delivery; (“vente”)</p> <p class=\"definition\">“seller” means a person who sells or agrees to sell goods; (“vendeur”)</p> <p class=\"definition\">“specific goods” means the goods identified and agreed upon at the time the contract of sale is made; (“objets déterminés”)</p> <p class=\"definition\">“warranty” means an agreement with reference to goods that are the subject of a contract of sale but collateral to the main purpose of the contract, the breach of which gives rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated. (“garantie”)</p> <p class=\"headnote\">Things done in good faith</p> <p class=\"subsection\">(2) A thing shall be deemed to be done in good faith within the meaning of this Act when it is in fact done honestly whether it is done negligently or not.</p> <p class=\"headnote\">What deemed insolvency</p> <p class=\"subsection\">(3) A person shall be deemed to be insolvent within the meaning of this Act who either has ceased to pay his, her or its debts in the ordinary course of business or cannot pay his, her or its debts as they become due.</p> <p class=\"headnote\">Deliverable state</p> <p class=\"subsection\">(4) Goods shall be deemed to be in a deliverable state within the meaning of this Act when they are in such a state that the buyer would under the contract be bound to take delivery of them. R.S.O. 1990, c. S.1, s. 1.</p> <p class=\"partnum\"><a name=\"BK1\"></a>PART I <br/>  FORMATION OF THE CONTRACT</p>"
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "PART I  ",
+            "section_x": "PART I FORMATION OF THE CONTRACT",
+            "part_id": NaN,
+            "part_type": NaN,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "2.",
+            "section_x": "Sale and agreement to sell",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Sale and agreement to sell",
+            "content": "2 (1) A contract of sale of goods is a contract whereby the seller transfers or agrees to transfer the property in the goods to the buyer for a money consideration, called the price, and there may be a contract of sale between one part owner and another. Absolute or conditional (2) A contract of sale may be absolute or conditional. What constitutes a sale or agreement to sell (3) Where under a contract of sale the property in goods is transferred from the seller to the buyer, the contract is called a sale, but, where the transfer of the property in the goods is to take place at a future time or subject to some condition thereafter to be fulfilled, the contract is called an agreement to sell. When agreement becomes sale (4) An agreement to sell becomes a sale when the time elapses or the conditions are fulfilled subject to which the property in the goods is to be transferred. R.S.O. 1990, c. S.1, s. 2.",
+            "raw_html": "<p class=\"section\"><a name=\"BK2\"></a><b>2 </b>(1) A contract of sale of goods is a contract whereby the seller transfers or agrees to transfer the property in the goods to the buyer for a money consideration, called the price, and there may be a contract of sale between one part owner and another.</p> <p class=\"headnote\">Absolute or conditional</p> <p class=\"subsection\">(2) A contract of sale may be absolute or conditional.</p> <p class=\"headnote\">What constitutes a sale or agreement to sell</p> <p class=\"subsection\">(3) Where under a contract of sale the property in goods is transferred from the seller to the buyer, the contract is called a sale, but, where the transfer of the property in the goods is to take place at a future time or subject to some condition thereafter to be fulfilled, the contract is called an agreement to sell.</p> <p class=\"headnote\">When agreement becomes sale</p> <p class=\"subsection\">(4) An agreement to sell becomes a sale when the time elapses or the conditions are fulfilled subject to which the property in the goods is to be transferred. R.S.O. 1990, c. S.1, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "3.",
+            "section_x": "Capacity",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Capacity",
+            "content": "3 (1) Capacity to buy and sell is regulated by the general law concerning capacity to contract and to transfer and acquire property, but where necessaries are sold and delivered to a minor or to a person who by reason of mental incapacity or drunkenness is incompetent to contract, he or she shall pay a reasonable price therefor. R.S.O. 1990, c. S.1, s. 3 (1). Definition (2) In this section, “necessaries” means goods suitable to the conditions in life of the minor or other person and to his or her actual requirements at the time of the sale and delivery. R.S.O. 1990, c. S.1, s. 3 (2); 1993, c. 27, Sched. Section Amendments with date in force (d/m/y) 1993, c. 27, Sched. -31/12/1991",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>3 </b>(1) Capacity to buy and sell is regulated by the general law concerning capacity to contract and to transfer and acquire property, but where necessaries are sold and delivered to a minor or to a person who by reason of mental incapacity or drunkenness is incompetent to contract, he or she shall pay a reasonable price therefor. R.S.O. 1990, c. S.1, s. 3 (1).</p> <p class=\"headnote\">Definition</p> <p class=\"subsection\">(2) In this section, “necessaries” means goods suitable to the conditions in life of the minor or other person and to his or her actual requirements at the time of the sale and delivery. R.S.O. 1990, c. S.1, s. 3 (2); 1993, c. 27, Sched.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\">1993, c. 27, Sched. -31/12/1991</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "4.",
+            "section_x": "Contract, how made",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Contract, how made",
+            "content": "4 Subject to this Act and any statute in that behalf, a contract of sale may be made in writing, either with or without seal, or by word of mouth or partly in writing and partly by word of mouth, or may be implied from the conduct of the parties, but nothing in this section affects the law relating to corporations. R.S.O. 1990, c. S.1, s. 4. 5 Repealed: 1994, c. 27, s. 54. Section Amendments with date in force (d/m/y) 1994, c. 27, s. 54 - 09/12/1994",
+            "raw_html": "<p class=\"section\"><a name=\"BK4\"></a><b>4 </b>Subject to this Act and any statute in that behalf, a contract of sale may be made in writing, either with or without seal, or by word of mouth or partly in writing and partly by word of mouth, or may be implied from the conduct of the parties, but nothing in this section affects the law relating to corporations. R.S.O. 1990, c. S.1, s. 4.</p> <p class=\"section\"><b>5 </b><span>Repealed</span>: 1994, c. 27, s. 54.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\">1994, c. 27, s. 54 - 09/12/1994</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "6.",
+            "section_x": "What goods may be subject of contract",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "What goods may be subject of contract",
+            "content": "6 (1) The goods that form the subject of a contract of sale may be either existing goods owned or possessed by the seller or goods to be manufactured or acquired by the seller after the making of the contract of sale, in this Act called “future goods”. Contingency (2) There may be a contract for the sale of goods the acquisition of which by the seller depends upon a contingency that may or may not happen. Sale of future goods (3) Where by a contract of sale the seller purports to effect a present sale of future goods, the contract operates as an agreement to sell the goods. R.S.O. 1990, c. S.1, s. 6.",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>6 </b>(1) The goods that form the subject of a contract of sale may be either existing goods owned or possessed by the seller or goods to be manufactured or acquired by the seller after the making of the contract of sale, in this Act called “future goods”.</p> <p class=\"headnote\">Contingency</p> <p class=\"subsection\">(2) There may be a contract for the sale of goods the acquisition of which by the seller depends upon a contingency that may or may not happen.</p> <p class=\"headnote\">Sale of future goods</p> <p class=\"subsection\">(3) Where by a contract of sale the seller purports to effect a present sale of future goods, the contract operates as an agreement to sell the goods. R.S.O. 1990, c. S.1, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "7.",
+            "section_x": "Goods that have perished",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Goods that have perished",
+            "content": "7 Where there is a contract for the sale of specific goods and the goods without the knowledge of the seller have perished at the time the contract is made, the contract is void. R.S.O. 1990, c. S.1, s. 7.",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>7 </b>Where there is a contract for the sale of specific goods and the goods without the knowledge of the seller have perished at the time the contract is made, the contract is void. R.S.O. 1990, c. S.1, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "8.",
+            "section_x": "Goods perishing before sale but after agreement to sell",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Goods perishing before sale but after agreement to sell",
+            "content": "8 Where there is an agreement to sell specific goods and subsequently the goods without any fault of the seller or buyer perish before the risk passes to the buyer, the agreement is thereby avoided. R.S.O. 1990, c. S.1, s. 8.",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>8 </b>Where there is an agreement to sell specific goods and subsequently the goods without any fault of the seller or buyer perish before the risk passes to the buyer, the agreement is thereby avoided. R.S.O. 1990, c. S.1, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "9.",
+            "section_x": "Price",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Price",
+            "content": "9 (1) The price in a contract of sale may be fixed by the contract or may be left to be fixed in manner thereby agreed or may be determined by the course of dealing between the parties. Where price not determined (2) Where the price is not determined in accordance with the foregoing provisions, the buyer shall pay a reasonable price, and what constitutes a reasonable price is a question of fact dependent on the circumstances of each particular case. R.S.O. 1990, c. S.1, s. 9.",
+            "raw_html": "<p class=\"section\"><a name=\"BK8\"></a><b>9 </b>(1) The price in a contract of sale may be fixed by the contract or may be left to be fixed in manner thereby agreed or may be determined by the course of dealing between the parties.</p> <p class=\"headnote\">Where price not determined</p> <p class=\"subsection\">(2) Where the price is not determined in accordance with the foregoing provisions, the buyer shall pay a reasonable price, and what constitutes a reasonable price is a question of fact dependent on the circumstances of each particular case. R.S.O. 1990, c. S.1, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "10.",
+            "section_x": "Agreement to sell at valuation",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Agreement to sell at valuation",
+            "content": "10 (1) Where there is an agreement to sell goods on the terms that the price is to be fixed by the valuation of a third party and the third party cannot or does not make the valuation, the agreement is avoided, but if the goods or any part thereof have been delivered to and appropriated by the buyer, the buyer shall pay a reasonable price therefor. Valuation prevented by act of party (2) Where the third party is prevented from making the valuation by the fault of the seller or buyer, the party not in fault may maintain an action for damages against the party in fault. R.S.O. 1990, c. S.1, s. 10.",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>10 </b>(1) Where there is an agreement to sell goods on the terms that the price is to be fixed by the valuation of a third party and the third party cannot or does not make the valuation, the agreement is avoided, but if the goods or any part thereof have been delivered to and appropriated by the buyer, the buyer shall pay a reasonable price therefor.</p> <p class=\"headnote\">Valuation prevented by act of party</p> <p class=\"subsection\">(2) Where the third party is prevented from making the valuation by the fault of the seller or buyer, the party not in fault may maintain an action for damages against the party in fault. R.S.O. 1990, c. S.1, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "11.",
+            "section_x": "Stipulations as to time",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Stipulations as to time",
+            "content": "11 Unless a different intention appears from the terms of the contract, stipulations as to time of payment are not of the essence of a contract of sale, and whether any other stipulation as to time is of the essence of the contract or not depends on the terms of the contract. R.S.O. 1990, c. S.1, s. 11.",
+            "raw_html": "<p class=\"section\"><a name=\"BK10\"></a><b>11 </b>Unless a different intention appears from the terms of the contract, stipulations as to time of payment are not of the essence of a contract of sale, and whether any other stipulation as to time is of the essence of the contract or not depends on the terms of the contract. R.S.O. 1990, c. S.1, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "12.",
+            "section_x": "Breach of stipulation",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Breach of stipulation",
+            "content": "12 (1) Where a contract of sale is subject to a condition to be fulfilled by the seller, the buyer may waive the condition or may elect to treat the breach of the condition as a breach of warranty and not as a ground for treating the contract as repudiated. Stipulation which may be condition or warranty (2) Whether a stipulation in a contract of sale is a condition the breach of which may give rise to a right to treat the contract as repudiated or a warranty the breach of which may give rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated depends in each case on the construction of the contract, and a stipulation may be a condition, though called a warranty in the contract. Where breach of condition to be treated as breach of warranty (3) Where a contract of sale is not severable and the buyer has accepted the goods or part thereof, or where the contract is for specific goods the property in which has passed to the buyer, the breach of any condition to be fulfilled by the seller can only be treated as a breach of warranty and not as a ground for rejecting the goods and treating the contract as repudiated, unless there is a term of the contract, express or implied, to that effect. Fulfillment excused by impossibility (4) Nothing in this section affects the case of a condition or warranty, fulfillment of which is excused by law by reason of impossibility or otherwise. R.S.O. 1990, c. S.1, s. 12.",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>12 </b>(1) Where a contract of sale is subject to a condition to be fulfilled by the seller, the buyer may waive the condition or may elect to treat the breach of the condition as a breach of warranty and not as a ground for treating the contract as repudiated.</p> <p class=\"headnote\">Stipulation which may be condition or warranty</p> <p class=\"subsection\">(2) Whether a stipulation in a contract of sale is a condition the breach of which may give rise to a right to treat the contract as repudiated or a warranty the breach of which may give rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated depends in each case on the construction of the contract, and a stipulation may be a condition, though called a warranty in the contract.</p> <p class=\"headnote\">Where breach of condition to be treated as breach of warranty</p> <p class=\"subsection\">(3) Where a contract of sale is not severable and the buyer has accepted the goods or part thereof, or where the contract is for specific goods the property in which has passed to the buyer, the breach of any condition to be fulfilled by the seller can only be treated as a breach of warranty and not as a ground for rejecting the goods and treating the contract as repudiated, unless there is a term of the contract, express or implied, to that effect.</p> <p class=\"headnote\">Fulfillment excused by impossibility</p> <p class=\"subsection\">(4) Nothing in this section affects the case of a condition or warranty, fulfillment of which is excused by law by reason of impossibility or otherwise. R.S.O. 1990, c. S.1, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "13.",
+            "section_x": "Implied conditions and warranties",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Implied conditions and warranties",
+            "content": "13 In a contract of sale, unless the circumstances of the contract are such as to show a different intention, there is, (a) an implied condition on the part of the seller that in the case of a sale the seller has a right to sell the goods, and that in the case of an agreement to sell the seller will have a right to sell the goods at the time when the property is to pass; (b) an implied warranty that the buyer will have and enjoy quiet possession of the goods; and (c) an implied warranty that the goods will be free from any charge or encumbrance in favour of any third party, not declared or known to the buyer before or at the time when the contract is made. R.S.O. 1990, c. S.1, s. 13.",
+            "raw_html": "<p class=\"section\"><a name=\"BK12\"></a><b>13 </b>In a contract of sale, unless the circumstances of the contract are such as to show a different intention, there is,</p> <p class=\"paragraph\">  (a) an implied condition on the part of the seller that in the case of a sale the seller has a right to sell the goods, and that in the case of an agreement to sell the seller will have a right to sell the goods at the time when the property is to pass;</p> <p class=\"paragraph\">  (b) an implied warranty that the buyer will have and enjoy quiet possession of the goods; and</p> <p class=\"paragraph\">  (c) an implied warranty that the goods will be free from any charge or encumbrance in favour of any third party, not declared or known to the buyer before or at the time when the contract is made. R.S.O. 1990, c. S.1, s. 13.</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "14.",
+            "section_x": "Sale by description",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Sale by description",
+            "content": "14 Where there is a contract for the sale of goods by description, there is an implied condition that the goods will correspond with the description, and, if the sale is by sample as well as by description, it is not sufficient that the bulk of the goods corresponds with the sample if the goods do not also correspond with the description. R.S.O. 1990, c. S.1, s. 14.",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>14 </b>Where there is a contract for the sale of goods by description, there is an implied condition that the goods will correspond with the description, and, if the sale is by sample as well as by description, it is not sufficient that the bulk of the goods corresponds with the sample if the goods do not also correspond with the description. R.S.O. 1990, c. S.1, s. 14.</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "15.",
+            "section_x": "Implied conditions as to quality or fitness",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Implied conditions as to quality or fitness",
+            "content": "15 Subject to this Act and any statute in that behalf, there is no implied warranty or condition as to the quality or fitness for any particular purpose of goods supplied under a contract of sale, except as follows: 1. Where the buyer, expressly or by implication, makes known to the seller the particular purpose for which the goods are required so as to show that the buyer relies on the seller’s skill or judgment, and the goods are of a description that it is in the course of the seller’s business to supply (whether the seller is the manufacturer or not), there is an implied condition that the goods will be reasonably fit for such purpose, but in the case of a contract for the sale of a specified article under its patent or other trade name there is no implied condition as to its fitness for any particular purpose. 2. Where goods are bought by description from a seller who deals in goods of that description (whether the seller is the manufacturer or not), there is an implied condition that the goods will be of merchantable quality, but if the buyer has examined the goods, there is no implied condition as regards defects that such examination ought to have revealed. 3. An implied warranty or condition as to quality or fitness for a particular purpose may be annexed by the usage of trade. 4. An express warranty or condition does not negative a warranty or condition implied by this Act unless inconsistent therewith. R.S.O. 1990, c. S.1, s. 15.",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>15 </b>Subject to this Act and any statute in that behalf, there is no implied warranty or condition as to the quality or fitness for any particular purpose of goods supplied under a contract of sale, except as follows:</p> <p class=\"paragraph\">  1. Where the buyer, expressly or by implication, makes known to the seller the particular purpose for which the goods are required so as to show that the buyer relies on the seller’s skill or judgment, and the goods are of a description that it is in the course of the seller’s business to supply (whether the seller is the manufacturer or not), there is an implied condition that the goods will be reasonably fit for such purpose, but in the case of a contract for the sale of a specified article under its patent or other trade name there is no implied condition as to its fitness for any particular purpose.</p> <p class=\"paragraph\">  2. Where goods are bought by description from a seller who deals in goods of that description (whether the seller is the manufacturer or not), there is an implied condition that the goods will be of merchantable quality, but if the buyer has examined the goods, there is no implied condition as regards defects that such examination ought to have revealed.</p> <p class=\"paragraph\">  3. An implied warranty or condition as to quality or fitness for a particular purpose may be annexed by the usage of trade.</p> <p class=\"paragraph\">  4. An express warranty or condition does not negative a warranty or condition implied by this Act unless inconsistent therewith. R.S.O. 1990, c. S.1, s. 15.</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "16.",
+            "section_x": "Sale by sample",
+            "part_id": "PART I  ",
+            "part_type": "PART I FORMATION OF THE CONTRACT",
+            "section_y": "Sale by sample",
+            "content": "16 (1) A contract of sale is a contract for sale by sample where there is a term in the contract, express or implied, to that effect. Implied conditions (2) In the case of a contract for sale by sample, there is an implied condition, (a) that the bulk will correspond with the sample in quality; (b) that the buyer will have a reasonable opportunity of comparing the bulk with the sample; and (c) that the goods will be free from any defect rendering them unmerchantable that would not be apparent on reasonable examination of the sample. R.S.O. 1990, c. S.1, s. 16. PART II   EFFECTS OF THE CONTRACT",
+            "raw_html": "<p class=\"section\"><a name=\"BK15\"></a><b>16 </b>(1) A contract of sale is a contract for sale by sample where there is a term in the contract, express or implied, to that effect.</p> <p class=\"headnote\">Implied conditions</p> <p class=\"subsection\">(2) In the case of a contract for sale by sample, there is an implied condition,</p> <p class=\"paragraph\">  (a) that the bulk will correspond with the sample in quality;</p> <p class=\"paragraph\">  (b) that the buyer will have a reasonable opportunity of comparing the bulk with the sample; and</p> <p class=\"paragraph\">  (c) that the goods will be free from any defect rendering them unmerchantable that would not be apparent on reasonable examination of the sample. R.S.O. 1990, c. S.1, s. 16.</p> <p class=\"partnum\"><a name=\"BK16\"></a>PART II <br/>  EFFECTS OF THE CONTRACT</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "PART II  ",
+            "section_x": "PART II EFFECTS OF THE CONTRACT",
+            "part_id": NaN,
+            "part_type": NaN,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "17.",
+            "section_x": "Goods must be ascertained",
+            "part_id": "PART II  ",
+            "part_type": "PART II EFFECTS OF THE CONTRACT",
+            "section_y": "Goods must be ascertained",
+            "content": "17 Where there is a contract for the sale of unascertained goods, no property in the goods is transferred to the buyer until the goods are ascertained. R.S.O. 1990, c. S.1, s. 17.",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>17 </b>Where there is a contract for the sale of unascertained goods, no property in the goods is transferred to the buyer until the goods are ascertained. R.S.O. 1990, c. S.1, s. 17.</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "18.",
+            "section_x": "Property passes where intended to pass",
+            "part_id": "PART II  ",
+            "part_type": "PART II EFFECTS OF THE CONTRACT",
+            "section_y": "Property passes where intended to pass",
+            "content": "18 (1) Where there is a contract for the sale of specific or ascertained goods, the property in them is transferred to the buyer at such time as the parties to the contract intend it to be transferred. Ascertaining intention (2) For the purpose of ascertaining the intention of the parties, regard shall be had to the terms of the contract, the conduct of the parties and the circumstances of the case. R.S.O. 1990, c. S.1, s. 18.",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>18 </b>(1) Where there is a contract for the sale of specific or ascertained goods, the property in them is transferred to the buyer at such time as the parties to the contract intend it to be transferred.</p> <p class=\"headnote\">Ascertaining intention</p> <p class=\"subsection\">(2) For the purpose of ascertaining the intention of the parties, regard shall be had to the terms of the contract, the conduct of the parties and the circumstances of the case. R.S.O. 1990, c. S.1, s. 18.</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "19.",
+            "section_x": "Rules for ascertaining intention",
+            "part_id": "PART II  ",
+            "part_type": "PART II EFFECTS OF THE CONTRACT",
+            "section_y": "Rules for ascertaining intention",
+            "content": "19 Unless a different intention appears, the following are rules for ascertaining the intention of the parties as to the time at which the property in the goods is to pass to the buyer: Rule 1.—Where there is an unconditional contract for the sale of specific goods in a deliverable state, the property in the goods passes to the buyer when the contract is made and it is immaterial whether the time of payment or the time of delivery or both is postponed. Rule 2.—Where there is a contract for the sale of specific goods and the seller is bound to do something to the goods for the purpose of putting them into a deliverable state, the property does not pass until such thing is done and the buyer has notice thereof. Rule 3.—Where there is a contract for the sale of specific goods in a deliverable state but the seller is bound to weigh, measure, test or do some other act or thing with reference to the goods for the purpose of ascertaining the price, the property does not pass until such act or thing is done and the buyer has notice thereof. Rule 4.—When goods are delivered to the buyer on approval or “on sale or return” or other similar terms, the property therein passes to the buyer; (i) when the buyer signifies approval or acceptance to the seller or does any other act adopting the transaction; (ii) if the buyer does not signify approval or acceptance to the seller but retains the goods without giving notice of rejection, then if a time has been fixed for the return of the goods, on the expiration of such time, and, if no time has been fixed, on the expiration of a reasonable time, and what is a reasonable time is a question of fact. Rule 5.— (i) Where there is a contract for the sale of unascertained or future goods by description and goods of that description and in a deliverable state are unconditionally appropriated to the contract, either by the seller with the assent of the buyer, or by the buyer with the assent of the seller, the property in the goods thereupon passes to the buyer, and such assent may be expressed or implied and may be given either before or after the appropriation is made. (ii) Where in pursuance of the contract the seller delivers the goods to the buyer or to a carrier or other bailee (whether named by the buyer or not) for the purpose of transmission to the buyer and does not reserve the right of disposal, the seller shall be deemed to have unconditionally appropriated the goods to the contract. R.S.O. 1990, c. S.1, s. 19; 1993, c. 27, Sched. Section Amendments with date in force (d/m/y) 1993, c. 27, Sched. - 31/12/1991",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>19 </b>Unless a different intention appears, the following are rules for ascertaining the intention of the parties as to the time at which the property in the goods is to pass to the buyer:</p> <p class=\"paranoindt\"><i>Rule 1.—</i>Where there is an unconditional contract for the sale of specific goods in a deliverable state, the property in the goods passes to the buyer when the contract is made and it is immaterial whether the time of payment or the time of delivery or both is postponed.</p> <p class=\"paranoindt\"><i>Rule 2.—</i>Where there is a contract for the sale of specific goods and the seller is bound to do something to the goods for the purpose of putting them into a deliverable state, the property does not pass until such thing is done and the buyer has notice thereof.</p> <p class=\"paranoindt\"><i>Rule 3.—</i>Where there is a contract for the sale of specific goods in a deliverable state but the seller is bound to weigh, measure, test or do some other act or thing with reference to the goods for the purpose of ascertaining the price, the property does not pass until such act or thing is done and the buyer has notice thereof.</p> <p class=\"paranoindt\"><i>Rule 4.—</i>When goods are delivered to the buyer on approval or “on sale or return” or other similar terms, the property therein passes to the buyer;</p> <p class=\"subclause\">  (i) when the buyer signifies approval or acceptance to the seller or does any other act adopting the transaction;</p> <p class=\"subclause\">  (ii) if the buyer does not signify approval or acceptance to the seller but retains the goods without giving notice of rejection, then if a time has been fixed for the return of the goods, on the expiration of such time, and, if no time has been fixed, on the expiration of a reasonable time, and what is a reasonable time is a question of fact.</p> <p class=\"paranoindt\"><i>Rule 5</i>.—</p> <p class=\"subclause\">  (i) Where there is a contract for the sale of unascertained or future goods by description and goods of that description and in a deliverable state are unconditionally appropriated to the contract, either by the seller with the assent of the buyer, or by the buyer with the assent of the seller, the property in the goods thereupon passes to the buyer, and such assent may be expressed or implied and may be given either before or after the appropriation is made.</p> <p class=\"subclause\">  (ii) Where in pursuance of the contract the seller delivers the goods to the buyer or to a carrier or other bailee (whether named by the buyer or not) for the purpose of transmission to the buyer and does not reserve the right of disposal, the seller shall be deemed to have unconditionally appropriated the goods to the contract. R.S.O. 1990, c. S.1, s. 19; 1993, c. 27, Sched.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\">1993, c. 27, Sched. - 31/12/1991</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "20.",
+            "section_x": "Reservation of right of disposal",
+            "part_id": "PART II  ",
+            "part_type": "PART II EFFECTS OF THE CONTRACT",
+            "section_y": "Reservation of right of disposal",
+            "content": "20 (1) Where there is a contract for the sale of specific goods or where goods are subsequently appropriated to the contract, the seller may, by the terms of the contract or appropriation, reserve the right of disposal of the goods until certain conditions are fulfilled, and in such case, despite the delivery of the goods to the buyer or to a carrier or other bailee for the purpose of transmission to the buyer, the property in the goods does not pass to the buyer until the conditions imposed by the seller have been fulfilled. Goods deliverable to order of seller (2) Where goods are shipped and by the bill of lading the goods are deliverable to the order of the seller or the seller’s agent, the seller in the absence of evidence to the contrary reserves the right of disposal. Where seller draws on buyer and sends draft with bill of lading (3) Where the seller of goods draws on the buyer for the price and transmits the bill of exchange and bill of lading to the buyer together to secure acceptance or payment of the bill of exchange, the buyer is bound to return the bill of lading if he, she or it does not honour the bill of exchange, and if he, she or it unlawfully retains the bill of lading, the property in the goods does not pass to the buyer. R.S.O. 1990, c. S.1, s. 20.",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>20 </b>(1) Where there is a contract for the sale of specific goods or where goods are subsequently appropriated to the contract, the seller may, by the terms of the contract or appropriation, reserve the right of disposal of the goods until certain conditions are fulfilled, and in such case, despite the delivery of the goods to the buyer or to a carrier or other bailee for the purpose of transmission to the buyer, the property in the goods does not pass to the buyer until the conditions imposed by the seller have been fulfilled.</p> <p class=\"headnote\">Goods deliverable to order of seller</p> <p class=\"subsection\">(2) Where goods are shipped and by the bill of lading the goods are deliverable to the order of the seller or the seller’s agent, the seller in the absence of evidence to the contrary reserves the right of disposal.</p> <p class=\"headnote\">Where seller draws on buyer and sends draft with bill of lading</p> <p class=\"subsection\">(3) Where the seller of goods draws on the buyer for the price and transmits the bill of exchange and bill of lading to the buyer together to secure acceptance or payment of the bill of exchange, the buyer is bound to return the bill of lading if he, she or it does not honour the bill of exchange, and if he, she or it unlawfully retains the bill of lading, the property in the goods does not pass to the buyer. R.S.O. 1990, c. S.1, s. 20.</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "21.",
+            "section_x": "Risk passes with property",
+            "part_id": "PART II  ",
+            "part_type": "PART II EFFECTS OF THE CONTRACT",
+            "section_y": "Risk passes with property",
+            "content": "21 Unless otherwise agreed, the goods remain at the seller’s risk until the property therein is transferred to the buyer, but, when the property therein is transferred to the buyer, the goods are at the buyer’s risk whether delivery has been made or not, but, (a) where delivery has been delayed through the fault of either the buyer or seller, the goods are at the risk of the party in fault as regards any loss that might not have occurred but for such fault; and (b) nothing in this section affects the duties or liabilities of either seller or buyer as a bailee of the goods of the other party. R.S.O. 1990, c. S.1, s. 21.",
+            "raw_html": "<p class=\"section\"><a name=\"BK21\"></a><b>21 </b>Unless otherwise agreed, the goods remain at the seller’s risk until the property therein is transferred to the buyer, but, when the property therein is transferred to the buyer, the goods are at the buyer’s risk whether delivery has been made or not, but,</p> <p class=\"paragraph\">  (a) where delivery has been delayed through the fault of either the buyer or seller, the goods are at the risk of the party in fault as regards any loss that might not have occurred but for such fault; and</p> <p class=\"paragraph\">  (b) nothing in this section affects the duties or liabilities of either seller or buyer as a bailee of the goods of the other party. R.S.O. 1990, c. S.1, s. 21.</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "22.",
+            "section_x": "Sale by person other than owner",
+            "part_id": "PART II  ",
+            "part_type": "PART II EFFECTS OF THE CONTRACT",
+            "section_y": "Sale by person other than owner",
+            "content": "22 Subject to this Act, where goods are sold by a person who is not the owner thereof and who does not sell them under the authority or with the consent of the owner, the buyer acquires no better title to the goods than the seller had, unless the owner of the goods is by conduct precluded from denying the seller’s authority to sell but nothing in this Act affects, (a) the Factors Act or any enactment enabling the apparent owner of goods to dispose of them as if he, she or it were the true owner thereof; or (b) the validity of any contract of sale under any special common law or statutory power of sale or under the order of a court of competent jurisdiction. R.S.O. 1990, c. S.1, s. 22.",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>22 </b>Subject to this Act, where goods are sold by a person who is not the owner thereof and who does not sell them under the authority or with the consent of the owner, the buyer acquires no better title to the goods than the seller had, unless the owner of the goods is by conduct precluded from denying the seller’s authority to sell but nothing in this Act affects,</p> <p class=\"paragraph\">  (a) the <i>Factors Act</i> or any enactment enabling the apparent owner of goods to dispose of them as if he, she or it were the true owner thereof; or</p> <p class=\"paragraph\">  (b) the validity of any contract of sale under any special common law or statutory power of sale or under the order of a court of competent jurisdiction. R.S.O. 1990, c. S.1, s. 22.</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "23.",
+            "section_x": "Law as to market overt does not apply",
+            "part_id": "PART II  ",
+            "part_type": "PART II EFFECTS OF THE CONTRACT",
+            "section_y": "Law as to market overt does not apply",
+            "content": "23 The law relating to market overt does not apply to a sale of goods that takes place in Ontario. R.S.O. 1990, c. S.1, s. 23.",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>23 </b>The law relating to market overt does not apply to a sale of goods that takes place in Ontario. R.S.O. 1990, c. S.1, s. 23.</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "24.",
+            "section_x": "Sale under voidable title",
+            "part_id": "PART II  ",
+            "part_type": "PART II EFFECTS OF THE CONTRACT",
+            "section_y": "Sale under voidable title",
+            "content": "24 When the seller of goods has a voidable title thereto but the seller’s title has not been avoided at the time of the sale, the buyer acquires a good title to the goods, if they are bought in good faith and without notice of the seller’s defective title. R.S.O. 1990, c. S.1, s. 24.",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>24 </b>When the seller of goods has a voidable title thereto but the seller’s title has not been avoided at the time of the sale, the buyer acquires a good title to the goods, if they are bought in good faith and without notice of the seller’s defective title. R.S.O. 1990, c. S.1, s. 24.</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "25.",
+            "section_x": "Possession after sale",
+            "part_id": "PART II  ",
+            "part_type": "PART II EFFECTS OF THE CONTRACT",
+            "section_y": "Possession after sale",
+            "content": "25 (1) Where a person having sold goods continues or is in possession of the goods or of the documents of title to the goods, the delivery or transfer by that person, or by a mercantile agent acting for that person, of the goods or documents of title under a sale, pledge or other disposition thereof to a person receiving the goods or documents of title in good faith and without notice of the previous sale, has the same effect as if the person making the delivery or transfer were expressly authorized by the owner of the goods to make the delivery or transfer. Buyer in possession after sale (2) Where a person having bought or agreed to buy goods obtains, with the consent of the seller, possession of the goods or the documents of title to the goods, the delivery or transfer by that person, or by a mercantile agent acting for that person, of the goods or documents of title, under a sale, pledge or other disposition thereof to a person receiving the goods or documents of title in good faith and without notice of any lien or other right of the original seller in respect of the goods, has the same effect as if the person making the delivery or transfer were a mercantile agent in possession of the goods or documents of title with the consent of the owner. Security interests excepted (3) Subsection (2) does not apply to goods the possession of which has been obtained by a buyer under a security agreement whereby the seller retains a security interest within the meaning of the Personal Property Security Act, and the rights of the parties shall be determined by that Act. Definition (4) In this section, “mercantile agent” means a mercantile agent having, in the customary course of business as such agent, authority either to sell goods or to consign goods for the purpose of sale, or to buy goods, or to raise money on the security of goods. R.S.O. 1990, c. S.1, s. 25. PART III   PERFORMANCE OF THE CONTRACT",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>25 </b>(1) Where a person having sold goods continues or is in possession of the goods or of the documents of title to the goods, the delivery or transfer by that person, or by a mercantile agent acting for that person, of the goods or documents of title under a sale, pledge or other disposition thereof to a person receiving the goods or documents of title in good faith and without notice of the previous sale, has the same effect as if the person making the delivery or transfer were expressly authorized by the owner of the goods to make the delivery or transfer.</p> <p class=\"headnote\">Buyer in possession after sale</p> <p class=\"subsection\">(2) Where a person having bought or agreed to buy goods obtains, with the consent of the seller, possession of the goods or the documents of title to the goods, the delivery or transfer by that person, or by a mercantile agent acting for that person, of the goods or documents of title, under a sale, pledge or other disposition thereof to a person receiving the goods or documents of title in good faith and without notice of any lien or other right of the original seller in respect of the goods, has the same effect as if the person making the delivery or transfer were a mercantile agent in possession of the goods or documents of title with the consent of the owner.</p> <p class=\"headnote\">Security interests excepted</p> <p class=\"subsection\">(3) Subsection (2) does not apply to goods the possession of which has been obtained by a buyer under a security agreement whereby the seller retains a security interest within the meaning of the <i>Personal Property Security Act</i>, and the rights of the parties shall be determined by that Act.</p> <p class=\"headnote\">Definition</p> <p class=\"subsection\">(4) In this section, “mercantile agent” means a mercantile agent having, in the customary course of business as such agent, authority either to sell goods or to consign goods for the purpose of sale, or to buy goods, or to raise money on the security of goods. R.S.O. 1990, c. S.1, s. 25.</p> <p class=\"partnum\"><a name=\"BK26\"></a>PART III <br/>  PERFORMANCE OF THE CONTRACT</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "PART III  ",
+            "section_x": "PART III PERFORMANCE OF THE CONTRACT",
+            "part_id": NaN,
+            "part_type": NaN,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "26.",
+            "section_x": "Duties of seller and buyer",
+            "part_id": "PART III  ",
+            "part_type": "PART III PERFORMANCE OF THE CONTRACT",
+            "section_y": "Duties of seller and buyer",
+            "content": "26 It is the duty of the seller to deliver the goods and of the buyer to accept and pay for them in accordance with the terms of the contract of sale. R.S.O. 1990, c. S.1, s. 26.",
+            "raw_html": "<p class=\"section\"><a name=\"BK27\"></a><b>26 </b>It is the duty of the seller to deliver the goods and of the buyer to accept and pay for them in accordance with the terms of the contract of sale. R.S.O. 1990, c. S.1, s. 26.</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "27.",
+            "section_x": "Payment and delivery concurrent",
+            "part_id": "PART III  ",
+            "part_type": "PART III PERFORMANCE OF THE CONTRACT",
+            "section_y": "Payment and delivery concurrent",
+            "content": "27 Unless otherwise agreed, delivery of the goods and payment of the price are concurrent conditions, that is to say, the seller shall be ready and willing to give possession of the goods to the buyer in exchange for the price and the buyer shall be ready and willing to pay the price in exchange for possession of the goods. R.S.O. 1990, c. S.1, s. 27.",
+            "raw_html": "<p class=\"section\"><a name=\"BK28\"></a><b>27 </b>Unless otherwise agreed, delivery of the goods and payment of the price are concurrent conditions, that is to say, the seller shall be ready and willing to give possession of the goods to the buyer in exchange for the price and the buyer shall be ready and willing to pay the price in exchange for possession of the goods. R.S.O. 1990, c. S.1, s. 27.</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "28.",
+            "section_x": "Rules as to delivery",
+            "part_id": "PART III  ",
+            "part_type": "PART III PERFORMANCE OF THE CONTRACT",
+            "section_y": "Rules as to delivery",
+            "content": "28 (1) Whether it is for the buyer to take possession of the goods or for the seller to send them to the buyer is a question depending in each case on the contract, express or implied, between the parties, and apart from any such contract, express or implied, the place of delivery is the seller’s place of business, if there is one, and if not, the seller’s residence, but where the contract is for the sale of specific goods that to the knowledge of the parties, when the contract is made, are in some other place, then that place is the place of delivery. Where no time for delivery fixed (2) Where under the contract of sale the seller is bound to send the goods to the buyer but no time for sending them is fixed, the seller is bound to send them within a reasonable time. Where goods in possession of third person (3) Where the goods at the time of sale are in the possession of a third person, there is no delivery by the seller to the buyer unless and until such third person acknowledges to the buyer that the goods are being held on the buyer’s behalf, but nothing in this section affects the operation of the issue or transfer of any document of title to goods. Demand or tender of delivery (4) Demand or tender of delivery may be treated as ineffectual unless made at a reasonable hour, and what is a reasonable hour is a question of fact. Expenses of putting goods in deliverable state (5) Unless otherwise agreed, the expenses of and incidental to putting the goods in a deliverable state shall be borne by the seller. R.S.O. 1990, c. S.1, s. 28.",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>28 </b>(1) Whether it is for the buyer to take possession of the goods or for the seller to send them to the buyer is a question depending in each case on the contract, express or implied, between the parties, and apart from any such contract, express or implied, the place of delivery is the seller’s place of business, if there is one, and if not, the seller’s residence, but where the contract is for the sale of specific goods that to the knowledge of the parties, when the contract is made, are in some other place, then that place is the place of delivery.</p> <p class=\"headnote\">Where no time for delivery fixed</p> <p class=\"subsection\">(2) Where under the contract of sale the seller is bound to send the goods to the buyer but no time for sending them is fixed, the seller is bound to send them within a reasonable time.</p> <p class=\"headnote\">Where goods in possession of third person</p> <p class=\"subsection\">(3) Where the goods at the time of sale are in the possession of a third person, there is no delivery by the seller to the buyer unless and until such third person acknowledges to the buyer that the goods are being held on the buyer’s behalf, but nothing in this section affects the operation of the issue or transfer of any document of title to goods.</p> <p class=\"headnote\">Demand or tender of delivery</p> <p class=\"subsection\">(4) Demand or tender of delivery may be treated as ineffectual unless made at a reasonable hour, and what is a reasonable hour is a question of fact.</p> <p class=\"headnote\">Expenses of putting goods in deliverable state</p> <p class=\"subsection\">(5) Unless otherwise agreed, the expenses of and incidental to putting the goods in a deliverable state shall be borne by the seller. R.S.O. 1990, c. S.1, s. 28.</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "29.",
+            "section_x": "Delivery of wrong quantity or quality",
+            "part_id": "PART III  ",
+            "part_type": "PART III PERFORMANCE OF THE CONTRACT",
+            "section_y": "Delivery of wrong quantity or quality",
+            "content": "29 (1) Where the seller delivers to the buyer a quantity of goods less than the seller contracted to sell, the buyer may reject them, but if they are accepted, the buyer shall pay for them at the contract rate. Where quantity larger than contracted for (2) Where the seller delivers to the buyer a quantity of goods larger than the seller contracted to sell, the buyer may accept the goods included in the contract and reject the rest, or may reject the whole, and if the buyer accepts the whole of the goods so delivered, the buyer shall pay for them at the contract rate. R.S.O. 1990, c. S.1, s. 29 (1, 2). Goods not in accordance with contract (3) Where the seller delivers to the buyer the goods contracted to be sold mixed with goods of a different description not included in the contract, the buyer may accept the goods that are in accordance with the contract and reject the rest, or may reject the whole. R.S.O. 1990, c. S.1, s. 29 (3); 1993, c. 27, Sched. Exceptions as to trade customs, etc. (4) This section is subject to any usage of trade, special agreement or course of dealing between the parties. R.S.O. 1990, c. S.1, s. 29 (4). Section Amendments with date in force (d/m/y) 1993, c. 27, Sched. - 31/12/1991",
+            "raw_html": "<p class=\"section\"><a name=\"BK30\"></a><b>29 </b>(1) Where the seller delivers to the buyer a quantity of goods less than the seller contracted to sell, the buyer may reject them, but if they are accepted, the buyer shall pay for them at the contract rate.</p> <p class=\"headnote\">Where quantity larger than contracted for</p> <p class=\"subsection\">(2) Where the seller delivers to the buyer a quantity of goods larger than the seller contracted to sell, the buyer may accept the goods included in the contract and reject the rest, or may reject the whole, and if the buyer accepts the whole of the goods so delivered, the buyer shall pay for them at the contract rate. R.S.O. 1990, c. S.1, s. 29 (1, 2).</p> <p class=\"headnote\">Goods not in accordance with contract</p> <p class=\"subsection\">(3) Where the seller delivers to the buyer the goods contracted to be sold mixed with goods of a different description not included in the contract, the buyer may accept the goods that are in accordance with the contract and reject the rest, or may reject the whole. R.S.O. 1990, c. S.1, s. 29 (3); 1993, c. 27, Sched.</p> <p class=\"headnote\">Exceptions as to trade customs, etc.</p> <p class=\"subsection\">(4) This section is subject to any usage of trade, special agreement or course of dealing between the parties. R.S.O. 1990, c. S.1, s. 29 (4).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\">1993, c. 27, Sched. - 31/12/1991</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "30.",
+            "section_x": "Delivery by instalments",
+            "part_id": "PART III  ",
+            "part_type": "PART III PERFORMANCE OF THE CONTRACT",
+            "section_y": "Delivery by instalments",
+            "content": "30 (1) Unless otherwise agreed, the buyer of goods is not bound to accept delivery thereof by instalments. Where instalments are not delivered as contracted for (2) Where there is a contract for the sale of goods to be delivered by stated instalments that are to be separately paid for and the seller makes defective deliveries in respect of one or more instalments or fails to deliver one or more instalments or the buyer neglects or refuses to take delivery of or pay for one or more instalments, it is a question in each case depending on the terms of the contract and the circumstances of the case whether the breach of contract is a repudiation of the whole contract or whether it is a severable breach giving rise to a claim for compensation but not to a right to treat the whole contract as repudiated. R.S.O. 1990, c. S.1, s. 30.",
+            "raw_html": "<p class=\"section\"><a name=\"BK31\"></a><b>30 </b>(1) Unless otherwise agreed, the buyer of goods is not bound to accept delivery thereof by instalments.</p> <p class=\"headnote\">Where instalments are not delivered as contracted for</p> <p class=\"subsection\">(2) Where there is a contract for the sale of goods to be delivered by stated instalments that are to be separately paid for and the seller makes defective deliveries in respect of one or more instalments or fails to deliver one or more instalments or the buyer neglects or refuses to take delivery of or pay for one or more instalments, it is a question in each case depending on the terms of the contract and the circumstances of the case whether the breach of contract is a repudiation of the whole contract or whether it is a severable breach giving rise to a claim for compensation but not to a right to treat the whole contract as repudiated. R.S.O. 1990, c. S.1, s. 30.</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "31.",
+            "section_x": "Delivery to carrier",
+            "part_id": "PART III  ",
+            "part_type": "PART III PERFORMANCE OF THE CONTRACT",
+            "section_y": "Delivery to carrier",
+            "content": "31 (1) Where in pursuance of a contract of sale the seller is authorized or required to send the goods to the buyer, the delivery of the goods to a carrier whether named by the buyer or not, for the purpose of transmission to the buyer, is, in the absence of evidence to the contrary, delivery of the goods to the buyer. Seller’s contract with carrier (2) Unless otherwise authorized by the buyer, the seller shall make a contract with the carrier on behalf of the buyer that is reasonable having regard to the nature of the goods and the other circumstances of the case, and if the seller omits so to do and the goods are lost or damaged in course of transit, the buyer may decline to treat the delivery to the carrier as a delivery to the buyer or may hold the seller responsible in damages. R.S.O. 1990, c. S.1, s. 31.",
+            "raw_html": "<p class=\"section\"><a name=\"BK32\"></a><b>31 </b>(1) Where in pursuance of a contract of sale the seller is authorized or required to send the goods to the buyer, the delivery of the goods to a carrier whether named by the buyer or not, for the purpose of transmission to the buyer, is, in the absence of evidence to the contrary, delivery of the goods to the buyer.</p> <p class=\"headnote\">Seller’s contract with carrier</p> <p class=\"subsection\">(2) Unless otherwise authorized by the buyer, the seller shall make a contract with the carrier on behalf of the buyer that is reasonable having regard to the nature of the goods and the other circumstances of the case, and if the seller omits so to do and the goods are lost or damaged in course of transit, the buyer may decline to treat the delivery to the carrier as a delivery to the buyer or may hold the seller responsible in damages. R.S.O. 1990, c. S.1, s. 31.</p>"
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "32.",
+            "section_x": "Agreement for delivery elsewhere than at place of sale",
+            "part_id": "PART III  ",
+            "part_type": "PART III PERFORMANCE OF THE CONTRACT",
+            "section_y": "Agreement for delivery elsewhere than at place of sale",
+            "content": "32 Where the seller of goods agrees to deliver them at the seller’s own risk at a place other than that where they are when sold, the buyer nevertheless, unless otherwise agreed, takes any risk of deterioration in the goods necessarily incident to the course of transit. R.S.O. 1990, c. S.1, s. 32.",
+            "raw_html": "<p class=\"section\"><a name=\"BK33\"></a><b>32 </b>Where the seller of goods agrees to deliver them at the seller’s own risk at a place other than that where they are when sold, the buyer nevertheless, unless otherwise agreed, takes any risk of deterioration in the goods necessarily incident to the course of transit. R.S.O. 1990, c. S.1, s. 32.</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "33.",
+            "section_x": "Rights of buyer as to examination",
+            "part_id": "PART III  ",
+            "part_type": "PART III PERFORMANCE OF THE CONTRACT",
+            "section_y": "Rights of buyer as to examination",
+            "content": "33 (1) Where goods are delivered to the buyer that the buyer has not previously examined, the buyer shall be deemed not to have accepted them until there has been a reasonable opportunity of examining them for the purpose of ascertaining whether they are in conformity with the contract. Seller to afford opportunity for examination (2) Unless otherwise agreed, when the seller tenders delivery of goods to the buyer, the seller shall, on request, afford the buyer a reasonable opportunity of examining the goods for the purpose of ascertaining whether they are in conformity with the contract. R.S.O. 1990, c. S.1, s. 33.",
+            "raw_html": "<p class=\"section\"><a name=\"BK34\"></a><b>33 </b>(1) Where goods are delivered to the buyer that the buyer has not previously examined, the buyer shall be deemed not to have accepted them until there has been a reasonable opportunity of examining them for the purpose of ascertaining whether they are in conformity with the contract.</p> <p class=\"headnote\">Seller to afford opportunity for examination</p> <p class=\"subsection\">(2) Unless otherwise agreed, when the seller tenders delivery of goods to the buyer, the seller shall, on request, afford the buyer a reasonable opportunity of examining the goods for the purpose of ascertaining whether they are in conformity with the contract. R.S.O. 1990, c. S.1, s. 33.</p>"
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "34.",
+            "section_x": "Acceptance of goods",
+            "part_id": "PART III  ",
+            "part_type": "PART III PERFORMANCE OF THE CONTRACT",
+            "section_y": "Acceptance of goods",
+            "content": "34 The buyer shall be deemed to have accepted the goods when the buyer, (a) intimates to the seller that the goods have been accepted; (b) after delivery, does any act in relation to them that is inconsistent with the ownership of the seller; or (c) after the lapse of a reasonable period of time, retains the goods without intimating to the seller that they have been rejected. R.S.O. 1990, c. S.1, s. 34.",
+            "raw_html": "<p class=\"section\"><a name=\"BK35\"></a><b>34 </b>The buyer shall be deemed to have accepted the goods when the buyer,</p> <p class=\"paragraph\">  (a) intimates to the seller that the goods have been accepted;</p> <p class=\"paragraph\">  (b) after delivery, does any act in relation to them that is inconsistent with the ownership of the seller; or</p> <p class=\"paragraph\">  (c) after the lapse of a reasonable period of time, retains the goods without intimating to the seller that they have been rejected. R.S.O. 1990, c. S.1, s. 34.</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "35.",
+            "section_x": "Effect of refusal to accept",
+            "part_id": "PART III  ",
+            "part_type": "PART III PERFORMANCE OF THE CONTRACT",
+            "section_y": "Effect of refusal to accept",
+            "content": "35 Unless otherwise agreed, where a buyer refuses to accept delivery of goods and has the right to do so, the goods are not bound to be returned to the seller, but it is sufficient if the buyer intimates to the seller that acceptance of the goods is refused. R.S.O. 1990, c. S.1, s. 35.",
+            "raw_html": "<p class=\"section\"><a name=\"BK36\"></a><b>35 </b>Unless otherwise agreed, where a buyer refuses to accept delivery of goods and has the right to do so, the goods are not bound to be returned to the seller, but it is sufficient if the buyer intimates to the seller that acceptance of the goods is refused. R.S.O. 1990, c. S.1, s. 35.</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "36.",
+            "section_x": "Wrongful neglect or refusal to take delivery",
+            "part_id": "PART III  ",
+            "part_type": "PART III PERFORMANCE OF THE CONTRACT",
+            "section_y": "Wrongful neglect or refusal to take delivery",
+            "content": "36 When the seller is ready and willing to deliver the goods and requests the buyer to take delivery and the buyer does not within a reasonable time after such request take delivery of the goods, the buyer is liable to the seller for any loss occasioned by the buyer’s neglect or refusal to take delivery, and also for a reasonable charge for the care and custody of the goods, but nothing in this section affects the rights of the seller where the neglect or refusal of the buyer to take delivery amounts to a repudiation of the contract. R.S.O. 1990, c. S.1, s. 36. PART IV   RIGHTS OF UNPAID SELLER   AGAINST THE GOODS",
+            "raw_html": "<p class=\"section\"><a name=\"BK37\"></a><b>36 </b>When the seller is ready and willing to deliver the goods and requests the buyer to take delivery and the buyer does not within a reasonable time after such request take delivery of the goods, the buyer is liable to the seller for any loss occasioned by the buyer’s neglect or refusal to take delivery, and also for a reasonable charge for the care and custody of the goods, but nothing in this section affects the rights of the seller where the neglect or refusal of the buyer to take delivery amounts to a repudiation of the contract. R.S.O. 1990, c. S.1, s. 36.</p> <p class=\"partnum\"><a name=\"BK38\"></a>PART IV <br/>  RIGHTS OF UNPAID SELLER <br/>  AGAINST THE GOODS</p>"
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "PART IV  ",
+            "section_x": "PART IV RIGHTS OF UNPAID SELLER AGAINST THE GOODS",
+            "part_id": NaN,
+            "part_type": NaN,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "37.",
+            "section_x": "Interpretation",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV RIGHTS OF UNPAID SELLER AGAINST THE GOODS",
+            "section_y": "Interpretation",
+            "content": "37 (1) The seller of goods shall be deemed to be an “unpaid seller” within the meaning of this Act, (a) when the whole of the price has not been paid or tendered; (b) when a bill of exchange or other negotiable instrument has been received as conditional payment and the condition on which it was received has not been fulfilled by reason of the dishonour of the instrument or otherwise. Idem (2) In this Part, “seller” includes a person who is in the position of a seller, as for instance an agent of the seller to whom the bill of lading has been endorsed, or a consignor or agent who has paid or is directly responsible for the price. R.S.O. 1990, c. S.1, s. 37.",
+            "raw_html": "<p class=\"section\"><a name=\"BK39\"></a><b>37 </b>(1) The seller of goods shall be deemed to be an “unpaid seller” within the meaning of this Act,</p> <p class=\"paragraph\">  (a) when the whole of the price has not been paid or tendered;</p> <p class=\"paragraph\">  (b) when a bill of exchange or other negotiable instrument has been received as conditional payment and the condition on which it was received has not been fulfilled by reason of the dishonour of the instrument or otherwise.</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) In this Part, “seller” includes a person who is in the position of a seller, as for instance an agent of the seller to whom the bill of lading has been endorsed, or a consignor or agent who has paid or is directly responsible for the price. R.S.O. 1990, c. S.1, s. 37.</p>"
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "38.",
+            "section_x": "Rights of unpaid seller",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV RIGHTS OF UNPAID SELLER AGAINST THE GOODS",
+            "section_y": "Rights of unpaid seller",
+            "content": "38 (1) Subject to this Act and any statute in that behalf, although the property in the goods may have passed to the buyer, the unpaid seller of goods, as such, has by implication of law, (a) a lien on the goods or right to retain them for the price while in possession of them; (b) in case of the insolvency of the buyer, a right of stopping the goods in the course of transit after parting with the possession of them; (c) a right of resale as limited by this Act. Withholding delivery (2) Where the property in goods has not passed to the buyer, the unpaid seller has, in addition to other remedies, a right of withholding delivery similar to and co-extensive with the rights of lien and stoppage in the course of transit where the property has passed to the buyer. R.S.O. 1990, c. S.1, s. 38.",
+            "raw_html": "<p class=\"section\"><a name=\"BK40\"></a><b>38 </b>(1) Subject to this Act and any statute in that behalf, although the property in the goods may have passed to the buyer, the unpaid seller of goods, as such, has by implication of law,</p> <p class=\"paragraph\">  (a) a lien on the goods or right to retain them for the price while in possession of them;</p> <p class=\"paragraph\">  (b) in case of the insolvency of the buyer, a right of stopping the goods in the course of transit after parting with the possession of them;</p> <p class=\"paragraph\">  (c) a right of resale as limited by this Act.</p> <p class=\"headnote\">Withholding delivery</p> <p class=\"subsection\">(2) Where the property in goods has not passed to the buyer, the unpaid seller has, in addition to other remedies, a right of withholding delivery similar to and co-extensive with the rights of lien and stoppage in the course of transit where the property has passed to the buyer. R.S.O. 1990, c. S.1, s. 38.</p>"
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "39.",
+            "section_x": "Unpaid seller’s lien",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV RIGHTS OF UNPAID SELLER AGAINST THE GOODS",
+            "section_y": "Unpaid seller’s lien",
+            "content": "39 (1) Subject to this Act, the unpaid seller of goods who is in possession of them is entitled to retain possession of them until payment or tender of the price, (a) where the goods have been sold without any stipulation as to credit; (b) where the goods have been sold on credit but the term of credit has expired; or (c) where the buyer becomes insolvent. Seller in possession as agent (2) The seller may exercise a right of lien even though the seller is in possession of the goods as agent or bailee for the buyer. R.S.O. 1990, c. S.1, s. 39.",
+            "raw_html": "<p class=\"section\"><a name=\"BK41\"></a><b>39 </b>(1) Subject to this Act, the unpaid seller of goods who is in possession of them is entitled to retain possession of them until payment or tender of the price,</p> <p class=\"paragraph\">  (a) where the goods have been sold without any stipulation as to credit;</p> <p class=\"paragraph\">  (b) where the goods have been sold on credit but the term of credit has expired; or</p> <p class=\"paragraph\">  (c) where the buyer becomes insolvent.</p> <p class=\"headnote\">Seller in possession as agent</p> <p class=\"subsection\">(2) The seller may exercise a right of lien even though the seller is in possession of the goods as agent or bailee for the buyer. R.S.O. 1990, c. S.1, s. 39.</p>"
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "40.",
+            "section_x": "Where part delivery has been made",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV RIGHTS OF UNPAID SELLER AGAINST THE GOODS",
+            "section_y": "Where part delivery has been made",
+            "content": "40 Where an unpaid seller has made part delivery of the goods, the seller may exercise a right of lien or retention on the remainder unless the part delivery has been made under such circumstances as show an agreement to waive the lien or right of retention. R.S.O. 1990, c. S.1, s. 40.",
+            "raw_html": "<p class=\"section\"><a name=\"BK42\"></a><b>40 </b>Where an unpaid seller has made part delivery of the goods, the seller may exercise a right of lien or retention on the remainder unless the part delivery has been made under such circumstances as show an agreement to waive the lien or right of retention. R.S.O. 1990, c. S.1, s. 40.</p>"
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "41.",
+            "section_x": "Termination of lien",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV RIGHTS OF UNPAID SELLER AGAINST THE GOODS",
+            "section_y": "Termination of lien",
+            "content": "41 (1) The unpaid seller of goods loses a lien or right of retention thereon, (a) when the seller delivers the goods to a carrier or other bailee for the purpose of transmission to the buyer without reserving the right of disposal of the goods; (b) when the buyer or buyer’s agent lawfully obtains possession of the goods; or (c) by waiver thereof. Lien not lost by obtaining judgment for price (2) The unpaid seller of goods having a lien or right of retention thereon does not lose a lien or right of retention by reason only that the seller has obtained judgment for the price of the goods. R.S.O. 1990, c. S.1, s. 41.",
+            "raw_html": "<p class=\"section\"><a name=\"BK43\"></a><b>41 </b>(1) The unpaid seller of goods loses a lien or right of retention thereon,</p> <p class=\"paragraph\">  (a) when the seller delivers the goods to a carrier or other bailee for the purpose of transmission to the buyer without reserving the right of disposal of the goods;</p> <p class=\"paragraph\">  (b) when the buyer or buyer’s agent lawfully obtains possession of the goods; or</p> <p class=\"paragraph\">  (c) by waiver thereof.</p> <p class=\"headnote\">Lien not lost by obtaining judgment for price</p> <p class=\"subsection\">(2) The unpaid seller of goods having a lien or right of retention thereon does not lose a lien or right of retention by reason only that the seller has obtained judgment for the price of the goods. R.S.O. 1990, c. S.1, s. 41.</p>"
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "42.",
+            "section_x": "Right of stoppage in transit",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV RIGHTS OF UNPAID SELLER AGAINST THE GOODS",
+            "section_y": "Right of stoppage in transit",
+            "content": "42 Subject to this Act, when the buyer of goods becomes insolvent, the unpaid seller who has parted with the possession of the goods has the right of stopping them in the course of transit, that is to say, the unpaid seller may resume possession of the goods as long as they are in course of transit, and may retain them until payment or tender of the price. R.S.O. 1990, c. S.1, s. 42.",
+            "raw_html": "<p class=\"section\"><a name=\"BK44\"></a><b>42 </b>Subject to this Act, when the buyer of goods becomes insolvent, the unpaid seller who has parted with the possession of the goods has the right of stopping them in the course of transit, that is to say, the unpaid seller may resume possession of the goods as long as they are in course of transit, and may retain them until payment or tender of the price. R.S.O. 1990, c. S.1, s. 42.</p>"
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "43.",
+            "section_x": "Duration of transit",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV RIGHTS OF UNPAID SELLER AGAINST THE GOODS",
+            "section_y": "Duration of transit",
+            "content": "43 (1) Goods shall be deemed to be in course of transit from the time they are delivered to a carrier by land or water or other bailee for the purpose of transmission to the buyer until the buyer or buyer’s agent in that behalf takes delivery of them from such carrier or other bailee. Buyer obtaining delivery (2) If the buyer or buyer’s agent in that behalf obtains delivery of the goods before their arrival at the appointed destination, the transit is at an end. Carrier holding goods to buyer’s order (3) If after the arrival of the goods at the appointed destination the carrier or other bailee acknowledges to the buyer or buyer’s agent that the goods are held on the buyer’s behalf and continues in possession of them as bailee for the buyer or buyer’s agent, the transit is at an end and it is immaterial that a further destination for the goods may have been indicated by the buyer. Rejected goods (4) If the goods are rejected by the buyer and the carrier or other bailee continues in possession of them, the transit shall be deemed not to be at an end even if the seller has refused to receive them back. Ship chartered by buyer (5) When goods are delivered to a ship chartered by the buyer, it is a question depending on the circumstances of the particular case whether they are in the possession of the master as a carrier or as agent to the buyer. Wrongful refusal to deliver (6) Where the carrier or other bailee wrongfully refuses to deliver the goods to the buyer or buyer’s agent in that behalf, the transit shall be deemed to be at an end. Where part delivery has been made (7) Where part delivery of the goods has been made to the buyer or buyer’s agent in that behalf, the remainder of the goods may be stopped in the course of transit unless the part delivery has been made under such circumstances as show an agreement to give up possession of the whole of the goods. R.S.O. 1990, c. S.1, s. 43.",
+            "raw_html": "<p class=\"section\"><a name=\"BK45\"></a><b>43 </b>(1) Goods shall be deemed to be in course of transit from the time they are delivered to a carrier by land or water or other bailee for the purpose of transmission to the buyer until the buyer or buyer’s agent in that behalf takes delivery of them from such carrier or other bailee.</p> <p class=\"headnote\">Buyer obtaining delivery</p> <p class=\"subsection\">(2) If the buyer or buyer’s agent in that behalf obtains delivery of the goods before their arrival at the appointed destination, the transit is at an end.</p> <p class=\"headnote\">Carrier holding goods to buyer’s order</p> <p class=\"subsection\">(3) If after the arrival of the goods at the appointed destination the carrier or other bailee acknowledges to the buyer or buyer’s agent that the goods are held on the buyer’s behalf and continues in possession of them as bailee for the buyer or buyer’s agent, the transit is at an end and it is immaterial that a further destination for the goods may have been indicated by the buyer.</p> <p class=\"headnote\">Rejected goods</p> <p class=\"subsection\">(4) If the goods are rejected by the buyer and the carrier or other bailee continues in possession of them, the transit shall be deemed not to be at an end even if the seller has refused to receive them back.</p> <p class=\"headnote\">Ship chartered by buyer</p> <p class=\"subsection\">(5) When goods are delivered to a ship chartered by the buyer, it is a question depending on the circumstances of the particular case whether they are in the possession of the master as a carrier or as agent to the buyer.</p> <p class=\"headnote\">Wrongful refusal to deliver</p> <p class=\"subsection\">(6) Where the carrier or other bailee wrongfully refuses to deliver the goods to the buyer or buyer’s agent in that behalf, the transit shall be deemed to be at an end.</p> <p class=\"headnote\">Where part delivery has been made</p> <p class=\"subsection\">(7) Where part delivery of the goods has been made to the buyer or buyer’s agent in that behalf, the remainder of the goods may be stopped in the course of transit unless the part delivery has been made under such circumstances as show an agreement to give up possession of the whole of the goods. R.S.O. 1990, c. S.1, s. 43.</p>"
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "44.",
+            "section_x": "Seller’s right of stoppage",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV RIGHTS OF UNPAID SELLER AGAINST THE GOODS",
+            "section_y": "Seller’s right of stoppage",
+            "content": "44 (1) The unpaid seller may exercise a right of stoppage in the course of transit either by taking actual possession of the goods or by giving notice of a claim to the carrier or other bailee in whose possession the goods are, and such notice may be given either to the person in actual possession of the goods or to the person’s principal, and in the latter case the notice to be effectual shall be given at such time and under such circumstances that the principal by the exercise of reasonable diligence may communicate it to the principal’s servant or agent in time to prevent a delivery to the buyer. Redelivery after notice to carrier, etc. (2) When notice of stoppage in the course of transit is given by the seller to the carrier or other bailee in possession of the goods, the goods shall be redelivered to or according to the directions of the seller, and the expenses of such redelivery shall be borne by the seller. R.S.O. 1990, c. S.1, s. 44.",
+            "raw_html": "<p class=\"section\"><a name=\"BK46\"></a><b>44 </b>(1) The unpaid seller may exercise a right of stoppage in the course of transit either by taking actual possession of the goods or by giving notice of a claim to the carrier or other bailee in whose possession the goods are, and such notice may be given either to the person in actual possession of the goods or to the person’s principal, and in the latter case the notice to be effectual shall be given at such time and under such circumstances that the principal by the exercise of reasonable diligence may communicate it to the principal’s servant or agent in time to prevent a delivery to the buyer.</p> <p class=\"headnote\">Redelivery after notice to carrier, etc.</p> <p class=\"subsection\">(2) When notice of stoppage in the course of transit is given by the seller to the carrier or other bailee in possession of the goods, the goods shall be redelivered to or according to the directions of the seller, and the expenses of such redelivery shall be borne by the seller. R.S.O. 1990, c. S.1, s. 44.</p>"
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "45.",
+            "section_x": "Effect of subsale or pledge by buyer",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV RIGHTS OF UNPAID SELLER AGAINST THE GOODS",
+            "section_y": "Effect of subsale or pledge by buyer",
+            "content": "45 Subject to this Act, the unpaid seller’s right of lien or retention or stoppage in the course of transit is not affected by any sale or other disposition of the goods that the buyer may have made, unless the seller has assented thereto, but where a document of title to goods has been lawfully transferred to a person as buyer or owner of the goods and that person transfers the document to a person who takes the document in good faith and for valuable consideration, then, if the last-mentioned transfer was by way of sale, the unpaid seller’s right of lien or retention or stoppage in the course of transit is defeated, and if the last-mentioned transfer was by way of pledge or other disposition for value, the unpaid seller’s right of lien or retention or stoppage in the course of transit can only be exercised subject to the rights of the transferee. R.S.O. 1990, c. S.1, s. 45.",
+            "raw_html": "<p class=\"section\"><a name=\"BK47\"></a><b>45 </b>Subject to this Act, the unpaid seller’s right of lien or retention or stoppage in the course of transit is not affected by any sale or other disposition of the goods that the buyer may have made, unless the seller has assented thereto, but where a document of title to goods has been lawfully transferred to a person as buyer or owner of the goods and that person transfers the document to a person who takes the document in good faith and for valuable consideration, then, if the last-mentioned transfer was by way of sale, the unpaid seller’s right of lien or retention or stoppage in the course of transit is defeated, and if the last-mentioned transfer was by way of pledge or other disposition for value, the unpaid seller’s right of lien or retention or stoppage in the course of transit can only be exercised subject to the rights of the transferee. R.S.O. 1990, c. S.1, s. 45.</p>"
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "46.",
+            "section_x": "Exercise of right of lien or stoppage, effect on contract",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV RIGHTS OF UNPAID SELLER AGAINST THE GOODS",
+            "section_y": "Exercise of right of lien or stoppage, effect on contract",
+            "content": "46 (1) Subject to this section, a contract of sale is not rescinded by the mere exercise by an unpaid seller of a right of lien or retention or stoppage in the course of transit. Title of buyer on resale (2) Where an unpaid seller who has exercised a right of lien or retention or stoppage in the course of transit resells the goods, the buyer acquires a good title thereto as against the original buyer. Resale and right to damages for breach of contract (3) Where the goods are of a perishable nature or where the unpaid seller gives notice to the buyer of intention to resell and the buyer does not within a reasonable time pay or tender the price, the unpaid seller may resell the goods and recover from the original buyer damages for any loss occasioned by a breach of contract. Where resale rescinds contract (4) Where the seller expressly reserves a right of resale in case the buyer should make default, and on the buyer making default, resells the goods, the original contract of sale is thereby rescinded, but without prejudice to any claim the seller may have for damages. R.S.O. 1990, c. S.1, s. 46. PART V   ACTIONS FOR BREACH OF THE   CONTRACT",
+            "raw_html": "<p class=\"section\"><a name=\"BK48\"></a><b>46 </b>(1) Subject to this section, a contract of sale is not rescinded by the mere exercise by an unpaid seller of a right of lien or retention or stoppage in the course of transit.</p> <p class=\"headnote\">Title of buyer on resale</p> <p class=\"subsection\">(2) Where an unpaid seller who has exercised a right of lien or retention or stoppage in the course of transit resells the goods, the buyer acquires a good title thereto as against the original buyer.</p> <p class=\"headnote\">Resale and right to damages for breach of contract</p> <p class=\"subsection\">(3) Where the goods are of a perishable nature or where the unpaid seller gives notice to the buyer of intention to resell and the buyer does not within a reasonable time pay or tender the price, the unpaid seller may resell the goods and recover from the original buyer damages for any loss occasioned by a breach of contract.</p> <p class=\"headnote\">Where resale rescinds contract</p> <p class=\"subsection\">(4) Where the seller expressly reserves a right of resale in case the buyer should make default, and on the buyer making default, resells the goods, the original contract of sale is thereby rescinded, but without prejudice to any claim the seller may have for damages. R.S.O. 1990, c. S.1, s. 46.</p> <p class=\"partnum\"><a name=\"BK49\"></a>PART V <br/>  ACTIONS FOR BREACH OF THE <br/>  CONTRACT</p>"
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "PART V  ",
+            "section_x": "PART V ACTIONS FOR BREACH OF THE CONTRACT",
+            "part_id": NaN,
+            "part_type": NaN,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "47.",
+            "section_x": "Seller may maintain action for price",
+            "part_id": "PART V  ",
+            "part_type": "PART V ACTIONS FOR BREACH OF THE CONTRACT",
+            "section_y": "Seller may maintain action for price",
+            "content": "47 (1) Where, under a contract of sale, the property in the goods has passed to the buyer and the buyer wrongfully neglects or refuses to pay for the goods according to the terms of the contract, the seller may maintain an action against the buyer for the price of the goods. Where property in goods has not passed (2) Where under a contract of sale the price is payable on a day certain, irrespective of delivery, and the buyer wrongfully neglects or refuses to pay the price, the seller may maintain an action for the price although the property in the goods has not passed and the goods have not been appropriated to the contract. R.S.O. 1990, c. S.1, s. 47.",
+            "raw_html": "<p class=\"section\"><a name=\"BK50\"></a><b>47 </b>(1) Where, under a contract of sale, the property in the goods has passed to the buyer and the buyer wrongfully neglects or refuses to pay for the goods according to the terms of the contract, the seller may maintain an action against the buyer for the price of the goods.</p> <p class=\"headnote\">Where property in goods has not passed</p> <p class=\"subsection\">(2) Where under a contract of sale the price is payable on a day certain, irrespective of delivery, and the buyer wrongfully neglects or refuses to pay the price, the seller may maintain an action for the price although the property in the goods has not passed and the goods have not been appropriated to the contract. R.S.O. 1990, c. S.1, s. 47.</p>"
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "48.",
+            "section_x": "Action for non-acceptance",
+            "part_id": "PART V  ",
+            "part_type": "PART V ACTIONS FOR BREACH OF THE CONTRACT",
+            "section_y": "Action for non-acceptance",
+            "content": "48 (1) Where the buyer wrongfully neglects or refuses to accept and pay for the goods, the seller may maintain an action against the buyer for damages for non-acceptance. Measure of damages (2) The measure of damages is the estimated loss directly and naturally resulting in the ordinary course of events from the buyer’s breach of contract. Difference in price (3) Where there is an available market for the goods in question, the measure of damages is, in the absence of evidence to the contrary, to be ascertained by the difference between the contract price and the market or current price at the time or times when the goods ought to have been accepted, or, if no time was fixed for acceptance, then at the time of the refusal to accept. R.S.O. 1990, c. S.1, s. 48.",
+            "raw_html": "<p class=\"section\"><a name=\"BK51\"></a><b>48 </b>(1) Where the buyer wrongfully neglects or refuses to accept and pay for the goods, the seller may maintain an action against the buyer for damages for non-acceptance.</p> <p class=\"headnote\">Measure of damages</p> <p class=\"subsection\">(2) The measure of damages is the estimated loss directly and naturally resulting in the ordinary course of events from the buyer’s breach of contract.</p> <p class=\"headnote\">Difference in price</p> <p class=\"subsection\">(3) Where there is an available market for the goods in question, the measure of damages is, in the absence of evidence to the contrary, to be ascertained by the difference between the contract price and the market or current price at the time or times when the goods ought to have been accepted, or, if no time was fixed for acceptance, then at the time of the refusal to accept. R.S.O. 1990, c. S.1, s. 48.</p>"
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "49.",
+            "section_x": "Buyer may maintain action for non-delivery",
+            "part_id": "PART V  ",
+            "part_type": "PART V ACTIONS FOR BREACH OF THE CONTRACT",
+            "section_y": "Buyer may maintain action for non-delivery",
+            "content": "49 (1) Where the seller wrongfully neglects or refuses to deliver the goods to the buyer, the buyer may maintain an action against the seller for damages for non-delivery. Measure of damages (2) The measure of damages is the estimated loss directly and naturally resulting in the ordinary course of events from the seller’s breach of contract. Difference in price (3) Where there is an available market for the goods in question, the measure of damages is, in the absence of evidence to the contrary, to be ascertained by the difference between the contract price and the market or current price of the goods at the time or times when they ought to have been delivered, or, if no time was fixed, then at the time of the refusal to deliver. R.S.O. 1990, c. S.1, s. 49.",
+            "raw_html": "<p class=\"section\"><a name=\"BK52\"></a><b>49 </b>(1) Where the seller wrongfully neglects or refuses to deliver the goods to the buyer, the buyer may maintain an action against the seller for damages for non-delivery.</p> <p class=\"headnote\">Measure of damages</p> <p class=\"subsection\">(2) The measure of damages is the estimated loss directly and naturally resulting in the ordinary course of events from the seller’s breach of contract.</p> <p class=\"headnote\">Difference in price</p> <p class=\"subsection\">(3) Where there is an available market for the goods in question, the measure of damages is, in the absence of evidence to the contrary, to be ascertained by the difference between the contract price and the market or current price of the goods at the time or times when they ought to have been delivered, or, if no time was fixed, then at the time of the refusal to deliver. R.S.O. 1990, c. S.1, s. 49.</p>"
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "50.",
+            "section_x": "Specific performance",
+            "part_id": "PART V  ",
+            "part_type": "PART V ACTIONS FOR BREACH OF THE CONTRACT",
+            "section_y": "Specific performance",
+            "content": "50 In an action for breach of contract to deliver specific or ascertained goods, the court may, if it thinks fit, direct that the contract be performed specifically, without giving the defendant the option of retaining the goods on payment of damages, and may impose such terms and conditions as to damages, payment of the price, and otherwise, as to the court seems just. R.S.O. 1990, c. S.1, s. 50.",
+            "raw_html": "<p class=\"section\"><a name=\"BK53\"></a><b>50 </b>In an action for breach of contract to deliver specific or ascertained goods, the court may, if it thinks fit, direct that the contract be performed specifically, without giving the defendant the option of retaining the goods on payment of damages, and may impose such terms and conditions as to damages, payment of the price, and otherwise, as to the court seems just. R.S.O. 1990, c. S.1, s. 50.</p>"
+        },
+        {
+            "ahref_id": "#BK54",
+            "TOCid": "51.",
+            "section_x": "Breach of warranty",
+            "part_id": "PART V  ",
+            "part_type": "PART V ACTIONS FOR BREACH OF THE CONTRACT",
+            "section_y": "Breach of warranty",
+            "content": "51 (1) Where there is a breach of warranty by the seller, or where the buyer elects, or is compelled, to treat a breach of a condition on the part of the seller as a breach of warranty, the buyer is not by reason only of such breach of warranty entitled to reject the goods, but may, (a) set up against the seller the breach of warranty in diminution or extinction of the price; or (b) maintain an action against the seller for damages for the breach of warranty. Measure of damages (2) The measure of damages for breach of warranty is the estimated loss directly and naturally resulting in the ordinary course of events from the breach of warranty. Breach of warranty as to quality (3) In the case of breach of warranty of quality, such loss is, in the absence of evidence to the contrary, the difference between the value of the goods at the time of delivery to the buyer and the value they would have had if they had answered to the warranty. Right of action (4) The fact that the buyer has set up the breach of warranty in diminution or extinction of the price does not prevent the buyer from maintaining an action for the same breach of warranty if further damage has been suffered. R.S.O. 1990, c. S.1, s. 51.",
+            "raw_html": "<p class=\"section\"><a name=\"BK54\"></a><b>51 </b>(1) Where there is a breach of warranty by the seller, or where the buyer elects, or is compelled, to treat a breach of a condition on the part of the seller as a breach of warranty, the buyer is not by reason only of such breach of warranty entitled to reject the goods, but may,</p> <p class=\"paragraph\">  (a) set up against the seller the breach of warranty in diminution or extinction of the price; or</p> <p class=\"paragraph\">  (b) maintain an action against the seller for damages for the breach of warranty.</p> <p class=\"headnote\">Measure of damages</p> <p class=\"subsection\">(2) The measure of damages for breach of warranty is the estimated loss directly and naturally resulting in the ordinary course of events from the breach of warranty.</p> <p class=\"headnote\">Breach of warranty as to quality</p> <p class=\"subsection\">(3) In the case of breach of warranty of quality, such loss is, in the absence of evidence to the contrary, the difference between the value of the goods at the time of delivery to the buyer and the value they would have had if they had answered to the warranty.</p> <p class=\"headnote\">Right of action</p> <p class=\"subsection\">(4) The fact that the buyer has set up the breach of warranty in diminution or extinction of the price does not prevent the buyer from maintaining an action for the same breach of warranty if further damage has been suffered. R.S.O. 1990, c. S.1, s. 51.</p>"
+        },
+        {
+            "ahref_id": "#BK55",
+            "TOCid": "52.",
+            "section_x": "Other rights of buyer preserved",
+            "part_id": "PART V  ",
+            "part_type": "PART V ACTIONS FOR BREACH OF THE CONTRACT",
+            "section_y": "Other rights of buyer preserved",
+            "content": "52 Nothing in this Act affects the right of the buyer or the seller to recover interest or special damages in a case where by law interest or special damages may be recoverable, or to recover money paid where the consideration for the payment of it has failed. R.S.O. 1990, c. S.1, s. 52. PART VI   SUPPLEMENTARY",
+            "raw_html": "<p class=\"section\"><a name=\"BK55\"></a><b>52 </b>Nothing in this Act affects the right of the buyer or the seller to recover interest or special damages in a case where by law interest or special damages may be recoverable, or to recover money paid where the consideration for the payment of it has failed. R.S.O. 1990, c. S.1, s. 52.</p> <p class=\"partnum\"><a name=\"BK56\"></a>PART VI <br/>  SUPPLEMENTARY</p>"
+        },
+        {
+            "ahref_id": "#BK56",
+            "TOCid": "PART VI  ",
+            "section_x": "PART VI SUPPLEMENTARY",
+            "part_id": NaN,
+            "part_type": NaN,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK57",
+            "TOCid": "53.",
+            "section_x": "Exclusion of implied laws and conditions",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI SUPPLEMENTARY",
+            "section_y": "Exclusion of implied laws and conditions",
+            "content": "53 Where any right, duty or liability would arise under a contract of sale by implication of law, it may be negatived or varied by express agreement or by the course of dealing between the parties, or by usage, if the usage is such as to bind both parties to the contract. R.S.O. 1990, c. S.1, s. 53.",
+            "raw_html": "<p class=\"section\"><a name=\"BK57\"></a><b>53 </b>Where any right, duty or liability would arise under a contract of sale by implication of law, it may be negatived or varied by express agreement or by the course of dealing between the parties, or by usage, if the usage is such as to bind both parties to the contract. R.S.O. 1990, c. S.1, s. 53.</p>"
+        },
+        {
+            "ahref_id": "#BK58",
+            "TOCid": "54.",
+            "section_x": "Reasonable time a question of fact",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI SUPPLEMENTARY",
+            "section_y": "Reasonable time a question of fact",
+            "content": "54 Where by this Act any reference is made to a reasonable time, the question of what is a reasonable time is a question of fact. R.S.O. 1990, c. S.1, s. 54.",
+            "raw_html": "<p class=\"section\"><a name=\"BK58\"></a><b>54 </b>Where by this Act any reference is made to a reasonable time, the question of what is a reasonable time is a question of fact. R.S.O. 1990, c. S.1, s. 54.</p>"
+        },
+        {
+            "ahref_id": "#BK59",
+            "TOCid": "55.",
+            "section_x": "Rights enforceable by action",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI SUPPLEMENTARY",
+            "section_y": "Rights enforceable by action",
+            "content": "55 Where any right, duty or liability is declared by this Act, it may, unless otherwise provided by this Act, be enforced by action. R.S.O. 1990, c. S.1, s. 55.",
+            "raw_html": "<p class=\"section\"><a name=\"BK59\"></a><b>55 </b>Where any right, duty or liability is declared by this Act, it may, unless otherwise provided by this Act, be enforced by action. R.S.O. 1990, c. S.1, s. 55.</p>"
+        },
+        {
+            "ahref_id": "#BK60",
+            "TOCid": "56.",
+            "section_x": "Sales by auction",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI SUPPLEMENTARY",
+            "section_y": "Sales by auction",
+            "content": "56 In case of a sale by auction, (a) where goods are put up for sale in lots, each lot is, unless otherwise provided, the subject of a separate contract of sale; (b) a sale is complete when the auctioneer announces its completion by the fall of a hammer or in any other customary manner, and until such announcement is made any bidder may retract his, her or its bid; (c) where a sale is not notified to be subject to a right to bid on behalf of the seller, it is not lawful for the seller to bid or to employ a person to bid at such sale, or for the auctioneer knowingly to take any bid from the seller or any such person, and any sale contravening this rule may be treated as fraudulent by the buyer; (d) a sale may be notified to be subject to a reserved or upset price, and a right to bid may also be reserved expressly by or on behalf of the seller; (e) where a right to bid is expressly reserved, but not otherwise, the seller, or any one person on the seller’s behalf, may bid at the auction. R.S.O. 1990, c. S.1, s. 56.",
+            "raw_html": "<p class=\"section\"><a name=\"BK60\"></a><b>56 </b>In case of a sale by auction,</p> <p class=\"paragraph\">  (a) where goods are put up for sale in lots, each lot is, unless otherwise provided, the subject of a separate contract of sale;</p> <p class=\"paragraph\">  (b) a sale is complete when the auctioneer announces its completion by the fall of a hammer or in any other customary manner, and until such announcement is made any bidder may retract his, her or its bid;</p> <p class=\"paragraph\">  (c) where a sale is not notified to be subject to a right to bid on behalf of the seller, it is not lawful for the seller to bid or to employ a person to bid at such sale, or for the auctioneer knowingly to take any bid from the seller or any such person, and any sale contravening this rule may be treated as fraudulent by the buyer;</p> <p class=\"paragraph\">  (d) a sale may be notified to be subject to a reserved or upset price, and a right to bid may also be reserved expressly by or on behalf of the seller;</p> <p class=\"paragraph\">  (e) where a right to bid is expressly reserved, but not otherwise, the seller, or any one person on the seller’s behalf, may bid at the auction. R.S.O. 1990, c. S.1, s. 56.</p>"
+        },
+        {
+            "ahref_id": "#BK61",
+            "TOCid": "57.",
+            "section_x": "Application of this Act and other laws",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI SUPPLEMENTARY",
+            "section_y": "Application of this Act and other laws",
+            "content": "57 (1) The rules of the common law, including the law merchant, except in so far as they are inconsistent with the express provisions of this Act, and in particular the rules relating to the law of principal and agent and the effect of fraud, misrepresentation, duress or coercion, mistake or other invalidating cause, continue to apply to contracts for the sale of goods. Bills of sale, etc., not affected (2) Nothing in this Act affects enactments relating to conditional sales, bills of sale or chattel mortgages. Act not to apply to mortgages, etc. (3) The provisions of this Act relating to contracts of sale do not apply to any transaction in the form of a contract of sale that is intended to operate by way of mortgage, pledge, charge or other security. R.S.O. 1990, c. S.1, s. 57. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK61\"></a><b>57 </b>(1) The rules of the common law, including the law merchant, except in so far as they are inconsistent with the express provisions of this Act, and in particular the rules relating to the law of principal and agent and the effect of fraud, misrepresentation, duress or coercion, mistake or other invalidating cause, continue to apply to contracts for the sale of goods.</p> <p class=\"headnote\">Bills of sale, etc., not affected</p> <p class=\"subsection\">(2) Nothing in this Act affects enactments relating to conditional sales, bills of sale or chattel mortgages.</p> <p class=\"headnote\">Act not to apply to mortgages, etc.</p> <p class=\"subsection\">(3) The provisions of this Act relating to contracts of sale do not apply to any transaction in the form of a contract of sale that is intended to operate by way of mortgage, pledge, charge or other security. R.S.O. 1990, c. S.1, s. 57.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/90s01\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

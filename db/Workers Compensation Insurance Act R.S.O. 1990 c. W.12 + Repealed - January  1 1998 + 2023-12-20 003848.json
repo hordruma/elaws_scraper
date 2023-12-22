@@ -1,0 +1,35 @@
+{
+    "act_info": {
+        "full_title": "Workers' Compensation Insurance Act, R.S.O. 1990, c. W.12",
+        "act_name_text": "Not Found",
+        "citation": "Workers' Compensation Insurance Act, R.S.O. 1990, c. W.12",
+        "url": "https://www.ontario.ca/laws/statute/90w12",
+        "date_scraped": "2023-12-20 00:38:48"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definition",
+            "content": "1. In this Act, “worker” includes the dependants of a worker entitled to recover damages under Part V of the Family Law Act. R.S.O. 1990, c. W.12, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>In this Act,</p> <p class=\"firstdef-e\">“worker” includes the dependants of a worker entitled to recover damages under Part V of the <i>Family Law Act</i>. R.S.O. 1990, c. W.12, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Claim of worker on insurance money payable to employer",
+            "content": "2. Where an employer is insured against liability for damages to a worker under any Act of the Legislature, the insurance shall be deemed to be for and shall enure to the benefit of the worker, and if a worker has suffered injury in respect of which he or she is entitled to recover damages from his or her employer, the insurer shall not, without the consent of the worker, pay to the employer the amount for which the insurer is liable to him or her in respect of such injury, until the claim of the worker has been satisfied, and the worker if and when his or her right to recover the damages has been determined as against the employer is entitled to demand and recover from the insurer the amount of the damages and costs to the extent to which, but no further than, the employer is entitled to recover the same from the insurer. R.S.O. 1990, c. W.12, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>Where an employer is insured against liability for damages to a worker under any Act of the Legislature, the insurance shall be deemed to be for and shall enure to the benefit of the worker, and if a worker has suffered injury in respect of which he or she is entitled to recover damages from his or her employer, the insurer shall not, without the consent of the worker, pay to the employer the amount for which the insurer is liable to him or her in respect of such injury, until the claim of the worker has been satisfied, and the worker if and when his or her right to recover the damages has been determined as against the employer is entitled to demand and recover from the insurer the amount of the damages and costs to the extent to which, but no further than, the employer is entitled to recover the same from the insurer. R.S.O. 1990, c. W.12, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Where Act not to apply",
+            "content": "3. This Act does not apply to a worker who is entitled to compensation under Part I of the Workers’ Compensation Act. R.S.O. 1990, c. W.12, s. 3. ______________ Français ",
+            "raw_html": "<p class=\"section-e\"><b>3. </b>This Act does not apply to a worker who is entitled to compensation under Part I of the <i>Workers’ Compensation Act</i>. R.S.O. 1990, c. W.12, s. 3.</p> <p class=\"line-e\">______________</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90w12_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90w12_f.htm\" target=\"_top\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

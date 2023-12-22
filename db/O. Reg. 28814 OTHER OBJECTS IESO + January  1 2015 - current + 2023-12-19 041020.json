@@ -1,0 +1,51 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 288/14: OTHER OBJECTS, IESO",
+        "reg_name_text": "OTHER OBJECTS, IESO",
+        "citation": "O. Reg. 288/14: ",
+        "act_under": "Electricity Act, 1998   Loi de 1998 sur l'électricité ",
+        "url": "https://www.ontario.ca/laws/regulation/140288",
+        "date_scraped": "2023-12-19 04:10:21"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "January  1, 2015",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/140288/v1",
+            "valid_from": "December 16, 2014",
+            "valid_to": "December 31, 2014"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Other objects",
+            "content": "  1. The following are other objects of the IESO for the purposes of clause 6 (1) (s) of the Act: 1. To plan, manage and implement the smart metering initiative or any aspect of the initiative. 2. To oversee, administer and deliver the smart metering initiative or any aspect of the initiative. 3. To establish and enforce standards and criteria relating to the reliability of transmission systems. 4. To engage in activities that facilitate incremental changes in electricity consumption by consumers or classes of consumers, by means of contract-based rebates, refunds or offsetting payments related to electricity costs associated with the incremental changes.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>The following are other objects of the IESO for the purposes of clause 6 (1) (s) of the Act:</p> <p class=\"paragraph-e\">  1. To plan, manage and implement the smart metering initiative or any aspect of the initiative.</p> <p class=\"paragraph-e\">  2. To oversee, administer and deliver the smart metering initiative or any aspect of the initiative.</p> <p class=\"paragraph-e\">  3. To establish and enforce standards and criteria relating to the reliability of transmission systems.</p> <p class=\"paragraph-e\">  4. To engage in activities that facilitate incremental changes in electricity consumption by consumers or classes of consumers, by means of contract-based rebates, refunds or offsetting payments related to electricity costs associated with the incremental changes.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Other objects",
+            "content": " 2. Omitted (revokes other Regulations).",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">revokes other Regulations</span>).</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Other objects",
+            "content": "  3. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"><b>  3. </b><span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Other objects",
+            "content": "    ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

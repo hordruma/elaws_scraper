@@ -1,0 +1,34 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 821: ASSESSMENT EQUALIZATION FACTOR",
+        "reg_name_text": "ASSESSMENT EQUALIZATION FACTOR",
+        "citation": "R.R.O. 1990, Reg. 821: ",
+        "act_under": "Municipal Extra-Territorial Tax Act   Loi sur les impôts municipaux extraterritoriaux",
+        "url": "https://www.ontario.ca/laws/regulation/900821",
+        "date_scraped": "2023-12-20 02:02:26"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "December 31, 1990",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": "1. For the purposes of subsection 3 (2) of the Act, the assessment equalization factor for land of the designated business is 0.211. R.R.O. 1990, Reg. 821, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>For the purposes of subsection 3 (2) of the Act, the assessment equalization factor for land of the designated business is 0.211. R.R.O. 1990, Reg. 821, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": "2. For the purposes of subsection 3 (2) of the Act, the assessment equalization factor for similar land in the same class as land of the designated business, (a) in the Township of Marathon, is 0.926; and (b) in the Township of Manitouwadge, is 0.457. R.R.O. 1990, Reg. 821, s. 2. ",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>For the purposes of subsection 3 (2) of the Act, the assessment equalization factor for similar land in the same class as land of the designated business,</p> <p class=\"clause-e\">(a) in the Township of Marathon, is 0.926; and</p> <p class=\"clause-e\">(b) in the Township of Manitouwadge, is 0.457. R.R.O. 1990, Reg. 821, s. 2.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

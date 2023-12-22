@@ -1,0 +1,69 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 665/05: HEALTH PROFESSION CORPORATIONS",
+        "reg_name_text": "Health Profession Corporations",
+        "citation": "O. Reg. 665/05: HEALTH PROFESSION CORPORATIONS",
+        "act_under": "Business Corporations Act",
+        "url": "https://www.ontario.ca/laws/regulation/050665",
+        "date_scraped": "2023-12-21 17:43:08"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "February 23, 2018",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/050665/v3",
+            "valid_from": "December 12, 2014",
+            "valid_to": "February 22, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/050665/v2",
+            "valid_from": "January  1, 2006",
+            "valid_to": "December 11, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/050665/v1",
+            "valid_from": "December 16, 2005",
+            "valid_to": "December 31, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": 1.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Definitions",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 2.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Physician corporations",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 3.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Dentist corporations",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

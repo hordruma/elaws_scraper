@@ -1,0 +1,225 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 212/01: GASEOUS FUELS",
+        "reg_name_text": "Gaseous Fuels",
+        "citation": "O. Reg. 212/01: GASEOUS FUELS",
+        "act_under": "Technical Standards and Safety Act, 2000   Loi de 2000 sur les normes techniques et la sécurité",
+        "url": "https://www.ontario.ca/laws/regulation/010212",
+        "date_scraped": "2023-12-21 17:54:38"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "May 15, 2015",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/010212/v1",
+            "valid_from": "June 27, 2001",
+            "valid_to": "May 14, 2015"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": 1.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Interpretation",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 2.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Application",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 3.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "General requirement for compliance",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 4.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Prohibited activities without approval",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 5.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "No handling of gas without licence",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 6.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Certificates required for various activities",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 7.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Initial putting into use",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 8.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Access by distributor",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 9.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "No activation of pipeline without examination",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 10.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "No interference with pipeline",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 11.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Duty of employer",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 12.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Accident or occurrence",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 13.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Unacceptable condition — immediate hazard",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 14.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Unacceptable condition — no immediate hazard",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 15.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Duty to maintain in safe operating condition",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 16.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Supply of gas",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 17.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Duties of owner of special building",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 18.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Certificate required for inspection",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 19.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Off-site testing and approval",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 20.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "On-site testing and approval",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 21.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Registration of contractors",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 22.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemption",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

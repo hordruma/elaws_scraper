@@ -1,0 +1,54 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 226/03: PRESCRIBED FORMS OF ENERGY, SECTION 3 OF THE ACT",
+        "reg_name_text": "Prescribed forms of energy, section 3 of the act",
+        "citation": "O. Reg. 226/03: PRESCRIBED FORMS OF ENERGY, SECTION 3 OF THE ACT",
+        "act_under": "Medical Radiation Technology Act, 1991",
+        "url": "https://www.ontario.ca/laws/regulation/030226",
+        "date_scraped": "2023-12-18 22:14:55"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/030226/v3",
+            "valid_from": "January  1, 2018",
+            "valid_to": "October 30, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/030226/v2",
+            "valid_from": "December 20, 2017",
+            "valid_to": "December 31, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/030226/v4",
+            "valid_from": "October 31, 2010",
+            "valid_to": "December 31, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/030226/v1",
+            "valid_from": "May 29, 2003",
+            "valid_to": "December 19, 2017"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Diagnostic ultrasound",
+            "content": " 1. Soundwaves for diagnostic ultrasound are prescribed as a form of energy for the purposes of section 3 of the Act. O. Reg. 565/17, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>Soundwaves for diagnostic ultrasound are prescribed as a form of energy for the purposes of section 3 of the Act. O. Reg. 565/17, s. 1.</p>"
+        },
+        {
+            "id": null,
+            "section": "Diagnostic ultrasound",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/030226\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

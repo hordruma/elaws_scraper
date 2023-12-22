@@ -1,0 +1,805 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 1026: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "R.R.O. 1990, Reg. 1026: ",
+        "act_under": "Surveyors Act",
+        "url": "https://www.ontario.ca/laws/regulation/901026",
+        "date_scraped": "2023-12-18 17:40:03"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "June 30, 2021",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/901026/v6",
+            "valid_from": "December  1, 2012",
+            "valid_to": "June 29, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/901026/v5",
+            "valid_from": "November  1, 2012",
+            "valid_to": "November 30, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/901026/v4",
+            "valid_from": "June  7, 2010",
+            "valid_to": "October 31, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/901026/v3",
+            "valid_from": "May 28, 2004",
+            "valid_to": "June  6, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/901026/v2",
+            "valid_from": "March 29, 2004",
+            "valid_to": "May 27, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/901026/v1",
+            "valid_from": "December 28, 2001",
+            "valid_to": "March 28, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Nomination and Election of Members of the Council",
+            "Section2": "2-11",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Committees of Council",
+            "Section2": "12-17",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Classes of Related Persons",
+            "Section2": "18-21",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Certificate of Authorization",
+            "Section2": "22",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Branches of Professional Surveying",
+            "Section2": "22.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Academic and Experience Requirements for Licence or Certificate of Registration",
+            "Section2": "23-24.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Applications",
+            "Section2": "25-26",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Suspension",
+            "Section2": "26.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Reinstatement",
+            "Section2": "27",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Use of Designation",
+            "Section2": "28-30",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Information on Returns",
+            "Section2": "31",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Advertising",
+            "Section2": "32",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Code of Ethics",
+            "Section2": "33",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Standards of Practice",
+            "Section2": "34",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Professional Misconduct",
+            "Section2": "35",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Liability Insurance",
+            "Section2": "36-39",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Inspection Program",
+            "Section2": "40",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Professional Development Program",
+            "Section2": "41-43",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. In this Regulation, “deliverable” means a component item of a project delivered to a client including a field survey and monumentation, plan, map, drawing, data file, opinion report, or any other form of transmittal; (“élément livrable”) “Executive Director” means the executive director appointed by the Council; (“directeur général”) “member” means a member of the Association unless otherwise specified; (“membre”) “professional member” means a member who holds a licence or a certificate of registration; (“membre professionnel”) “project” means a planned activity or work conducted over a period of time for a client by which a professional member advises or gives an opinion as to, (a)  the establishment or determination of boundaries delineating any right or interest in land or land covered with water, or (b)  the determination or analysis of spatial attributes of natural and artificial features on, above or below the surface of the earth, whether or not the surface of the earth is situated below water. (“projet”) R.R.O. 1990, Reg. 1026, s. 1; O. Reg. 218/10, s. 1; O. Reg. 327/12, s. 1; O. Reg. 506/21, s. 1. Nomination and Election of Members of the Council",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Regulation,</p> <p class=\"definition-e\">“deliverable” means a component item of a project delivered to a client including a field survey and monumentation, plan, map, drawing, data file, opinion report, or any other form of transmittal; (“élément livrable”)</p> <p class=\"firstdef-e\">“Executive Director” means the executive director appointed by the Council; (“directeur général”)</p> <p class=\"definition-e\">“member” means a member of the Association unless otherwise specified; (“membre”)</p> <p class=\"definition-e\">“professional member” means a member who holds a licence or a certificate of registration; (“membre professionnel”)</p> <p class=\"definition-e\">“project” means a planned activity or work conducted over a period of time for a client by which a professional member advises or gives an opinion as to,</p> <p class=\"defclause-e\">  (a)  the establishment or determination of boundaries delineating any right or interest in land or land covered with water, or</p> <p class=\"defclause-e\">  (b)  the determination or analysis of spatial attributes of natural and artificial features on, above or below the surface of the earth, whether or not the surface of the earth is situated below water. (“projet”) R.R.O. 1990, Reg. 1026, s. 1; O. Reg. 218/10, s. 1; O. Reg. 327/12, s. 1; O. Reg. 506/21, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK0\"></a>Nomination and Election of Members of the Council</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. (1) An election shall be held annually, by secret ballot, to elect, (a)  the President of the Association, for a term of one year; (b)  the Vice-President of the Association, for a term of one year; and (c)  two members of the Council, for a term of three years each.  R.R.O. 1990, Reg. 1026, s. 2 (1). (2) The term of office of persons elected to the Council commences immediately after the annual meeting.  R.R.O. 1990, Reg. 1026, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) An election shall be held annually, by secret ballot, to elect,</p> <p class=\"clause-e\">  (a)  the President of the Association, for a term of one year;</p> <p class=\"clause-e\">  (b)  the Vice-President of the Association, for a term of one year; and</p> <p class=\"clause-e\">  (c)  two members of the Council, for a term of three years each.  R.R.O. 1990, Reg. 1026, s. 2 (1).</p> <p class=\"subsection-e\">  (2) The term of office of persons elected to the Council commences immediately after the annual meeting.  R.R.O. 1990, Reg. 1026, s. 2 (2).</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. A professional member is eligible for election to the Council if, in addition to any requirements under the Act, (a)  the member is not in default of payment of any fee, levy or costs imposed under the Act, regulations or by-laws of the Association; (b)  the issue of the member’s professional conduct or competence is not before the Discipline Committee or the member is not subject to any order of that Committee; and (c)  the member’s licence or certificate of registration is not under suspension.  R.R.O. 1990, Reg. 1026, s. 3; O. Reg. 218/10, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>A professional member is eligible for election to the Council if, in addition to any requirements under the Act,</p> <p class=\"clause-e\">  (a)  the member is not in default of payment of any fee, levy or costs imposed under the Act, regulations or by-laws of the Association;</p> <p class=\"clause-e\">  (b)  the issue of the member’s professional conduct or competence is not before the Discipline Committee or the member is not subject to any order of that Committee; and</p> <p class=\"clause-e\">  (c)  the member’s licence or certificate of registration is not under suspension.  R.R.O. 1990, Reg. 1026, s. 3; O. Reg. 218/10, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. (1) The Council shall annually appoint a Nominating Committee to be composed of six members of the Association, of whom, (a)  three shall have served as President of the Association within the eight years preceding their appointment and shall not be members of the Council; (b)  two shall be members of the Association who are not members of the Council; and (c)  one shall be a member of the Council appointed by the Lieutenant Governor in Council.  O. Reg. 218/10, s. 3. (2) The Nominating Committee shall meet before August 31 in each year and shall elect a chair from among its members.  O. Reg. 218/10, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) The Council shall annually appoint a Nominating Committee to be composed of six members of the Association, of whom,</p> <p class=\"clause-e\">  (a)  three shall have served as President of the Association within the eight years preceding their appointment and shall not be members of the Council;</p> <p class=\"clause-e\">  (b)  two shall be members of the Association who are not members of the Council; and</p> <p class=\"clause-e\">  (c)  one shall be a member of the Council appointed by the Lieutenant Governor in Council.  O. Reg. 218/10, s. 3.</p> <p class=\"subsection-e\">  (2) The Nominating Committee shall meet before August 31 in each year and shall elect a chair from among its members.  O. Reg. 218/10, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) The Nominating Committee shall nominate for each position to be filled by election at least one member of the Association who is eligible for election and who consents in writing to be a candidate.  R.R.O. 1990, Reg. 1026, s. 5 (1). (2) On or before November 15 in each year, the Nominating Committee shall provide to the Registrar, by mail, electronic means or hand delivery, the list of members it has nominated. O. Reg. 506/21, s. 2. (3) A member nominated under subsection (2) shall provide to the Registrar, by mail, electronic means or hand delivery, a written consent to be a candidate. O. Reg. 506/21, s. 2. (4) On or before November 20 in each year, the Registrar shall send to each member at the member’s recorded address, by mail or electronic means, a copy of the list of members nominated by the Nominating Committee whose consents have been received. O. Reg. 506/21, s. 2. (5) The Registrar shall add to the list of candidates for a position in any year the name of any member eligible for election and whose nomination, signed by ten members eligible for election, accompanied by a written consent to be a candidate, is received by the Registrar on or before December 15 in that year.  R.R.O. 1990, Reg. 1026, s. 5 (5); O. Reg. 218/10, s. 4 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) The Nominating Committee shall nominate for each position to be filled by election at least one member of the Association who is eligible for election and who consents in writing to be a candidate.  R.R.O. 1990, Reg. 1026, s. 5 (1).</p> <p class=\"subsection-e\">  (2) On or before November 15 in each year, the Nominating Committee shall provide to the Registrar, by mail, electronic means or hand delivery, the list of members it has nominated. O. Reg. 506/21, s. 2.</p> <p class=\"subsection-e\">  (3) A member nominated under subsection (2) shall provide to the Registrar, by mail, electronic means or hand delivery, a written consent to be a candidate. O. Reg. 506/21, s. 2.</p> <p class=\"subsection-e\">  (4) On or before November 20 in each year, the Registrar shall send to each member at the member’s recorded address, by mail or electronic means, a copy of the list of members nominated by the Nominating Committee whose consents have been received. O. Reg. 506/21, s. 2.</p> <p class=\"subsection-e\">  (5) The Registrar shall add to the list of candidates for a position in any year the name of any member eligible for election and whose nomination, signed by ten members eligible for election, accompanied by a written consent to be a candidate, is received by the Registrar on or before December 15 in that year.  R.R.O. 1990, Reg. 1026, s. 5 (5); O. Reg. 218/10, s. 4 (3).</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. (1) The Registrar is responsible for conducting and managing the election of each position to be filled and shall determine in each year whether the election will be carried out in paper or electronic format. O. Reg. 506/21, s. 3. (2) The Registrar shall ensure that the election meets the following conditions: 1.  Only members qualified to vote are given an opportunity to vote. 2.  The election format must allow for the identification of the number of votes cast for each candidate and the total numbers of votes cast. 3.  The voting shall be conducted in a manner that ensures the confidentiality and security of the ballots or the votes cast in electronic format. O. Reg. 506/21, s. 3. (3) Each member qualified to vote may cast one vote for President, one vote for Vice-President and one vote for each Council position to be filled by the election. O. Reg. 506/21, s. 3. (4) At least thirty days before the annual meeting, the Registrar shall send to each member qualified to vote, by mail or electronic means, instructions on how to vote in the election. O. Reg. 506/21, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) The Registrar is responsible for conducting and managing the election of each position to be filled and shall determine in each year whether the election will be carried out in paper or electronic format. O. Reg. 506/21, s. 3.</p> <p class=\"subsection-e\">  (2) The Registrar shall ensure that the election meets the following conditions:</p> <p class=\"paragraph-e\">  1.  Only members qualified to vote are given an opportunity to vote.</p> <p class=\"paragraph-e\">  2.  The election format must allow for the identification of the number of votes cast for each candidate and the total numbers of votes cast.</p> <p class=\"paragraph-e\">  3.  The voting shall be conducted in a manner that ensures the confidentiality and security of the ballots or the votes cast in electronic format. O. Reg. 506/21, s. 3.</p> <p class=\"subsection-e\">  (3) Each member qualified to vote may cast one vote for President, one vote for Vice-President and one vote for each Council position to be filled by the election. O. Reg. 506/21, s. 3.</p> <p class=\"subsection-e\">  (4) At least thirty days before the annual meeting, the Registrar shall send to each member qualified to vote, by mail or electronic means, instructions on how to vote in the election. O. Reg. 506/21, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) On or before the day the votes are counted, the President shall appoint two members who shall act as scrutineers of the election.  R.R.O. 1990, Reg. 1026, s. 7 (1). (2) At 10 a.m. on the day that is six days before the annual meeting, (a)  where the election was carried out in a paper format, the Registrar shall open the ballot box in the presence of the two scrutineers and the scrutineers shall examine the ballots and count the number of votes cast for each candidate and record the number of votes cast and the number of spoiled ballots in a book provided for that purpose by the Council; or (b)  where the election was carried out in electronic format, the Registrar and the scrutineers shall access the electronic voting system and review the results of the votes cast and record the results in a book provided for that purpose by the Council. O. Reg. 506/21, s. 4 (1). (3) Such clerical staff as the Registrar may authorize and any candidate or candidate’s agent may be present at the counting of the votes carried out in accordance with subsection (2). O. Reg. 506/21, s. 4 (1). (4) If a ballot has more than one vote cast for President or for Vice-President or more than one vote cast for each Council position to be filled by the election, the scrutineers shall count the ballot as spoiled.  R.R.O. 1990, Reg. 1026, s. 7 (4). (5) The persons who have the highest number of votes among those who at the time of counting are eligible for election shall be declared elected.  R.R.O. 1990, Reg. 1026, s. 7 (5). (6) If two or more persons receive the same number of votes, the Registrar, in the presence of the scrutineers, shall decide by lot who is elected.  R.R.O. 1990, Reg. 1026, s. 7 (6). (7) Before the annual meeting the Registrar shall, (a)  prepare a written return, signed by the Registrar and the scrutineers, reporting the results of the election; (b)  file away the return and the ballots or the results from the electronic voting system for safekeeping; and (c)  send, by mail or electronic means, a copy of the return to, (i)  all the members of the Council, and (ii)  all persons nominated for election. R.R.O. 1990, Reg. 1026, s. 7 (7); O. Reg. 327/12, s. 2; O. Reg. 506/21, s. 4 (2). (8) The President shall announce the names of the persons elected at the annual meeting.  R.R.O. 1990, Reg. 1026, s. 7 (8).",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>(1) On or before the day the votes are counted, the President shall appoint two members who shall act as scrutineers of the election.  R.R.O. 1990, Reg. 1026, s. 7 (1).</p> <p class=\"subsection-e\">  (2) At 10 a.m. on the day that is six days before the annual meeting,</p> <p class=\"clause-e\">  (a)  where the election was carried out in a paper format, the Registrar shall open the ballot box in the presence of the two scrutineers and the scrutineers shall examine the ballots and count the number of votes cast for each candidate and record the number of votes cast and the number of spoiled ballots in a book provided for that purpose by the Council; or</p> <p class=\"clause-e\">  (b)  where the election was carried out in electronic format, the Registrar and the scrutineers shall access the electronic voting system and review the results of the votes cast and record the results in a book provided for that purpose by the Council. O. Reg. 506/21, s. 4 (1).</p> <p class=\"subsection-e\">  (3) Such clerical staff as the Registrar may authorize and any candidate or candidate’s agent may be present at the counting of the votes carried out in accordance with subsection (2). O. Reg. 506/21, s. 4 (1).</p> <p class=\"subsection-e\">  (4) If a ballot has more than one vote cast for President or for Vice-President or more than one vote cast for each Council position to be filled by the election, the scrutineers shall count the ballot as spoiled.  R.R.O. 1990, Reg. 1026, s. 7 (4).</p> <p class=\"subsection-e\">  (5) The persons who have the highest number of votes among those who at the time of counting are eligible for election shall be declared elected.  R.R.O. 1990, Reg. 1026, s. 7 (5).</p> <p class=\"subsection-e\">  (6) If two or more persons receive the same number of votes, the Registrar, in the presence of the scrutineers, shall decide by lot who is elected.  R.R.O. 1990, Reg. 1026, s. 7 (6).</p> <p class=\"subsection-e\">  (7) Before the annual meeting the Registrar shall,</p> <p class=\"clause-e\">  (a)  prepare a written return, signed by the Registrar and the scrutineers, reporting the results of the election;</p> <p class=\"clause-e\">  (b)  file away the return and the ballots or the results from the electronic voting system for safekeeping; and</p> <p class=\"clause-e\">  (c)  send, by mail or electronic means, a copy of the return to,</p> <p class=\"subclause-e\">  (i)  all the members of the Council, and</p> <p class=\"subclause-e\">  (ii)  all persons nominated for election. R.R.O. 1990, Reg. 1026, s. 7 (7); O. Reg. 327/12, s. 2; O. Reg. 506/21, s. 4 (2).</p> <p class=\"subsection-e\">  (8) The President shall announce the names of the persons elected at the annual meeting.  R.R.O. 1990, Reg. 1026, s. 7 (8).</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. (1) The Registrar shall destroy all election ballots or delete the election results from the electronic voting system twenty-one days after the annual meeting, unless a recount has been requested under this section.  R.R.O. 1990, Reg. 1026, s. 8 (1); O. Reg. 506/21, s. 5 (1). (2) A candidate may require a recount by delivering to the Registrar a request in writing and a $200 deposit within twenty days after the annual meeting.  R.R.O. 1990, Reg. 1026, s. 8 (2). (3) The recount shall be presided over by the Executive Director who shall, (a)  within thirty days after the day the request and deposit are delivered, set the day for the recount; (b)  give notice in writing at least fifteen days before the date set for the recount to all candidates for the position for which the recount has been requested and to the scrutineers that a recount is to be held; (c)  notify the candidates that they or their agents are entitled to be present to examine all ballots or the results from the electronic voting system and to satisfy themselves that all ballots have been properly marked and counted or that the electronic voting has been conducted properly; (d)  ensure that the votes are recounted and the results reported in the manner provided for under section 7, with necessary modifications; and (e)  report the results of the recount to the members of the Association in the next official publication of the Association.  R.R.O. 1990, Reg. 1026, s. 8 (3); O. Reg. 506/21, s. 5 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>(1) The Registrar shall destroy all election ballots or delete the election results from the electronic voting system twenty-one days after the annual meeting, unless a recount has been requested under this section.  R.R.O. 1990, Reg. 1026, s. 8 (1); O. Reg. 506/21, s. 5 (1).</p> <p class=\"subsection-e\">  (2) A candidate may require a recount by delivering to the Registrar a request in writing and a $200 deposit within twenty days after the annual meeting.  R.R.O. 1990, Reg. 1026, s. 8 (2).</p> <p class=\"subsection-e\">  (3) The recount shall be presided over by the Executive Director who shall,</p> <p class=\"clause-e\">  (a)  within thirty days after the day the request and deposit are delivered, set the day for the recount;</p> <p class=\"clause-e\">  (b)  give notice in writing at least fifteen days before the date set for the recount to all candidates for the position for which the recount has been requested and to the scrutineers that a recount is to be held;</p> <p class=\"clause-e\">  (c)  notify the candidates that they or their agents are entitled to be present to examine all ballots or the results from the electronic voting system and to satisfy themselves that all ballots have been properly marked and counted or that the electronic voting has been conducted properly;</p> <p class=\"clause-e\">  (d)  ensure that the votes are recounted and the results reported in the manner provided for under section 7, with necessary modifications; and</p> <p class=\"clause-e\">  (e)  report the results of the recount to the members of the Association in the next official publication of the Association.  R.R.O. 1990, Reg. 1026, s. 8 (3); O. Reg. 506/21, s. 5 (2).</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) If, within twenty days after the annual meeting, a member files with the Registrar a dispute claiming that a candidate was not eligible to be elected or that the election was otherwise improper, the outgoing President, Vice-President and members of the Council shall inquire into the dispute and order a new election in respect of any office for which they find the election to be improper.  R.R.O. 1990, Reg. 1026, s. 9 (1). (2) If an election is ordered, the Registrar shall, within fourteen days after the order, prepare and distribute new voting instructions on how to vote in the election and shall conduct the election in the manner provided for under section 6 with necessary modifications. O. Reg. 506/21, s. 6. (3) The votes shall be counted within twenty-one days after the new instructions on how to vote are distributed by the Registrar, in the manner provided for under section 7 with necessary modifications at a special meeting of the Council called for that purpose. O. Reg. 506/21, s. 6. (4) Section 8 applies with necessary modifications to an election under this section. O. Reg. 506/21, s. 6. (5) Revoked: O. Reg. 506/21, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) If, within twenty days after the annual meeting, a member files with the Registrar a dispute claiming that a candidate was not eligible to be elected or that the election was otherwise improper, the outgoing President, Vice-President and members of the Council shall inquire into the dispute and order a new election in respect of any office for which they find the election to be improper.  R.R.O. 1990, Reg. 1026, s. 9 (1).</p> <p class=\"subsection-e\">  (2) If an election is ordered, the Registrar shall, within fourteen days after the order, prepare and distribute new voting instructions on how to vote in the election and shall conduct the election in the manner provided for under section 6 with necessary modifications. O. Reg. 506/21, s. 6.</p> <p class=\"subsection-e\">  (3) The votes shall be counted within twenty-one days after the new instructions on how to vote are distributed by the Registrar, in the manner provided for under section 7 with necessary modifications at a special meeting of the Council called for that purpose. O. Reg. 506/21, s. 6.</p> <p class=\"subsection-e\">  (4) Section 8 applies with necessary modifications to an election under this section. O. Reg. 506/21, s. 6.</p> <p class=\"subsection-e\">  (5) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 506/21, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. An elected member of Council is disqualified from sitting on the Council if he or she is absent from three consecutive meetings of the Council.  R.R.O. 1990, Reg. 1026, s. 10.",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>An elected member of Council is disqualified from sitting on the Council if he or she is absent from three consecutive meetings of the Council.  R.R.O. 1990, Reg. 1026, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. If an election is required under clause 3 (11) (b) of the Act to fill a vacancy, it shall be held in the manner provided for under section 9.  R.R.O. 1990, Reg. 1026, s. 11. Committees of Council",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>If an election is required under clause 3 (11) (b) of the Act to fill a vacancy, it shall be held in the manner provided for under section 9.  R.R.O. 1990, Reg. 1026, s. 11.</p> <p class=\"heading1-e\"><a name=\"BK1\"></a>Committees of Council</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. (1) The Executive Committee is hereby established and shall be composed of, (a)  the President, who shall preside over it; (b)  the Vice-President, who shall preside over it in the President’s absence; (c)  the immediate Past President; (d)  one of the members of the Council appointed by the Lieutenant Governor in Council to be appointed to this Committee from time to time by the Council; and (e)  one or more other members of the Council to be appointed by the Council from time to time. R.R.O. 1990, Reg. 1026, s. 12 (1); O. Reg. 506/21, s. 7. (2) Three members of the Executive Committee, at least one of whom is the President or the Vice-President, constitute a quorum.  R.R.O. 1990, Reg. 1026, s. 12 (2). (3) The Executive Committee shall carry out the duties assigned to it from time to time by the Council.  R.R.O. 1990, Reg. 1026, s. 12 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>(1) The Executive Committee is hereby established and shall be composed of,</p> <p class=\"clause-e\">  (a)  the President, who shall preside over it;</p> <p class=\"clause-e\">  (b)  the Vice-President, who shall preside over it in the President’s absence;</p> <p class=\"clause-e\">  (c)  the immediate Past President;</p> <p class=\"clause-e\">  (d)  one of the members of the Council appointed by the Lieutenant Governor in Council to be appointed to this Committee from time to time by the Council; and</p> <p class=\"clause-e\">  (e)  one or more other members of the Council to be appointed by the Council from time to time. R.R.O. 1990, Reg. 1026, s. 12 (1); O. Reg. 506/21, s. 7.</p> <p class=\"subsection-e\">  (2) Three members of the Executive Committee, at least one of whom is the President or the Vice-President, constitute a quorum.  R.R.O. 1990, Reg. 1026, s. 12 (2).</p> <p class=\"subsection-e\">  (3) The Executive Committee shall carry out the duties assigned to it from time to time by the Council.  R.R.O. 1990, Reg. 1026, s. 12 (3).</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. (1) The Academic and Experience Requirements Committee is continued and shall be composed of, (a)  an elected member of the Council appointed from time to time by the Council; (b)  at least five persons, and no more than eight persons, appointed for a term of three years by the Council who are members of the Association but not members of the Council, at least one of whom holds a certificate of registration; and (c)  one member of the Council appointed by the Lieutenant Governor in Council.  R.R.O. 1990, Reg. 1026, s. 13 (1); O. Reg. 105/98, s. 1; O. Reg. 218/10, s. 5. (2) A member may not be appointed under clause (1) (b) for more than three consecutive terms.  R.R.O. 1990, Reg. 1026, s. 13 (2). (3) The Council shall select from among the members of the Academic and Experience Requirements Committee a person to be its presiding officer.  R.R.O. 1990, Reg. 1026, s. 13 (3). (4) Four members of the Academic and Experience Requirements Committee, at least two of whom are members of the Association and not members of the Council, constitute a quorum.  R.R.O. 1990, Reg. 1026, s. 13 (4). (5) All determinations of the Academic and Experience Requirements Committee require the vote of a majority of its members present at the meeting.  R.R.O. 1990, Reg. 1026, s. 13 (5). (6) The Academic and Experience Requirements Committee, with the approval of the Council, may appoint one or more persons to assist it.  R.R.O. 1990, Reg. 1026, s. 13 (6). (7) The Academic and Experience Requirements Committee shall hold at least one meeting in each year.  R.R.O. 1990, Reg. 1026, s. 13 (7). (8) The presiding officer, or in his or her absence another member of the Academic and Experience Requirements Committee designated by the presiding officer, shall preside at all meetings of the Committee.  R.R.O. 1990, Reg. 1026, s. 13 (8). (9) The Council may appoint some of the members under clause (1) (b) for one term of one year or two years in order to ensure that the terms under clause (1) (b) do not all expire in the same year.  R.R.O. 1990, Reg. 1026, s. 13 (9).",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>(1) The Academic and Experience Requirements Committee is continued and shall be composed of,</p> <p class=\"clause-e\">  (a)  an elected member of the Council appointed from time to time by the Council;</p> <p class=\"clause-e\">  (b)  at least five persons, and no more than eight persons, appointed for a term of three years by the Council who are members of the Association but not members of the Council, at least one of whom holds a certificate of registration; and</p> <p class=\"clause-e\">  (c)  one member of the Council appointed by the Lieutenant Governor in Council.  R.R.O. 1990, Reg. 1026, s. 13 (1); O. Reg. 105/98, s. 1; O. Reg. 218/10, s. 5.</p> <p class=\"subsection-e\">  (2) A member may not be appointed under clause (1) (b) for more than three consecutive terms.  R.R.O. 1990, Reg. 1026, s. 13 (2).</p> <p class=\"subsection-e\">  (3) The Council shall select from among the members of the Academic and Experience Requirements Committee a person to be its presiding officer.  R.R.O. 1990, Reg. 1026, s. 13 (3).</p> <p class=\"subsection-e\">  (4) Four members of the Academic and Experience Requirements Committee, at least two of whom are members of the Association and not members of the Council, constitute a quorum.  R.R.O. 1990, Reg. 1026, s. 13 (4).</p> <p class=\"subsection-e\">  (5) All determinations of the Academic and Experience Requirements Committee require the vote of a majority of its members present at the meeting.  R.R.O. 1990, Reg. 1026, s. 13 (5).</p> <p class=\"subsection-e\">  (6) The Academic and Experience Requirements Committee, with the approval of the Council, may appoint one or more persons to assist it.  R.R.O. 1990, Reg. 1026, s. 13 (6).</p> <p class=\"subsection-e\">  (7) The Academic and Experience Requirements Committee shall hold at least one meeting in each year.  R.R.O. 1990, Reg. 1026, s. 13 (7).</p> <p class=\"subsection-e\">  (8) The presiding officer, or in his or her absence another member of the Academic and Experience Requirements Committee designated by the presiding officer, shall preside at all meetings of the Committee.  R.R.O. 1990, Reg. 1026, s. 13 (8).</p> <p class=\"subsection-e\">  (9) The Council may appoint some of the members under clause (1) (b) for one term of one year or two years in order to ensure that the terms under clause (1) (b) do not all expire in the same year.  R.R.O. 1990, Reg. 1026, s. 13 (9).</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. (1) The Registration Committee is continued and shall be composed of, (a)  one or more elected members of the Council to be appointed from time to time by the Council; (b)  three or more members of the Association who are not members of the Council to be appointed from time to time by the Council; and (c)  one of the members of the Council appointed by the Lieutenant Governor in Council to be appointed to this Committee from time to time by the Council.  R.R.O. 1990, Reg. 1026, s. 14 (1). (2) Three members of the Registration Committee, at least one of whom is an elected member of the Council, constitute a quorum.  R.R.O. 1990, Reg. 1026, s. 14 (2). (3) All decisions of the Registration Committee at a meeting or at a hearing require the vote of a majority of its members present.  R.R.O. 1990, Reg. 1026, s. 14 (3). (4) The Council shall select from among the members of the Registration Committee a person to be its presiding officer.  R.R.O. 1990, Reg. 1026, s. 14 (4). (5) The presiding officer, or in his or her absence another member of the Registration Committee designated by the presiding officer, shall preside at all meetings and hearings of the Committee.  R.R.O. 1990, Reg. 1026, s. 14 (5). (6) If a member of the Registration Committee becomes unable to act after the Committee commences a hearing, its remaining members may complete the hearing in the member’s absence, if they constitute a quorum.  R.R.O. 1990, Reg. 1026, s. 14 (6).",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b>(1) The Registration Committee is continued and shall be composed of,</p> <p class=\"clause-e\">  (a)  one or more elected members of the Council to be appointed from time to time by the Council;</p> <p class=\"clause-e\">  (b)  three or more members of the Association who are not members of the Council to be appointed from time to time by the Council; and</p> <p class=\"clause-e\">  (c)  one of the members of the Council appointed by the Lieutenant Governor in Council to be appointed to this Committee from time to time by the Council.  R.R.O. 1990, Reg. 1026, s. 14 (1).</p> <p class=\"subsection-e\">  (2) Three members of the Registration Committee, at least one of whom is an elected member of the Council, constitute a quorum.  R.R.O. 1990, Reg. 1026, s. 14 (2).</p> <p class=\"subsection-e\">  (3) All decisions of the Registration Committee at a meeting or at a hearing require the vote of a majority of its members present.  R.R.O. 1990, Reg. 1026, s. 14 (3).</p> <p class=\"subsection-e\">  (4) The Council shall select from among the members of the Registration Committee a person to be its presiding officer.  R.R.O. 1990, Reg. 1026, s. 14 (4).</p> <p class=\"subsection-e\">  (5) The presiding officer, or in his or her absence another member of the Registration Committee designated by the presiding officer, shall preside at all meetings and hearings of the Committee.  R.R.O. 1990, Reg. 1026, s. 14 (5).</p> <p class=\"subsection-e\">  (6) If a member of the Registration Committee becomes unable to act after the Committee commences a hearing, its remaining members may complete the hearing in the member’s absence, if they constitute a quorum.  R.R.O. 1990, Reg. 1026, s. 14 (6).</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. (1) The Fees Mediation Committee is continued and shall be composed of, (a)  three or more members of the Association to be appointed from time to time by the Council; and (b)  one member of the Council appointed by the Lieutenant Governor in Council to be appointed to this Committee from time to time by the Council.  R.R.O. 1990, Reg. 1026, s. 15 (1). (2) Three members of the Fees Mediation Committee, one of whom is appointed to the Council by the Lieutenant Governor in Council, constitute a quorum for the purpose of conducting mediation or arbitration under section 29 of the Act.  R.R.O. 1990, Reg. 1026, s. 15 (2). (3) All decisions of the Fees Mediation Committee require the vote of a majority of its members present.  R.R.O. 1990, Reg. 1026, s. 15 (3). (4) The Council shall select from among the members of the Fees Mediation Committee a person to be its presiding officer.  R.R.O. 1990, Reg. 1026, s. 15 (4). (5) The presiding officer, or in his or her absence another member of the Fees Mediation Committee designated by the presiding officer, shall preside at all meetings and hearings of the Committee.  R.R.O. 1990, Reg. 1026, s. 15 (5). (6) If a member of the Fees Mediation Committee becomes unable to act after the Committee commences a hearing, its remaining members may complete the hearing in the member’s absence, if they constitute a quorum.  R.R.O. 1990, Reg. 1026, s. 15 (6).",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>(1) The Fees Mediation Committee is continued and shall be composed of,</p> <p class=\"clause-e\">  (a)  three or more members of the Association to be appointed from time to time by the Council; and</p> <p class=\"clause-e\">  (b)  one member of the Council appointed by the Lieutenant Governor in Council to be appointed to this Committee from time to time by the Council.  R.R.O. 1990, Reg. 1026, s. 15 (1).</p> <p class=\"subsection-e\">  (2) Three members of the Fees Mediation Committee, one of whom is appointed to the Council by the Lieutenant Governor in Council, constitute a quorum for the purpose of conducting mediation or arbitration under section 29 of the Act.  R.R.O. 1990, Reg. 1026, s. 15 (2).</p> <p class=\"subsection-e\">  (3) All decisions of the Fees Mediation Committee require the vote of a majority of its members present.  R.R.O. 1990, Reg. 1026, s. 15 (3).</p> <p class=\"subsection-e\">  (4) The Council shall select from among the members of the Fees Mediation Committee a person to be its presiding officer.  R.R.O. 1990, Reg. 1026, s. 15 (4).</p> <p class=\"subsection-e\">  (5) The presiding officer, or in his or her absence another member of the Fees Mediation Committee designated by the presiding officer, shall preside at all meetings and hearings of the Committee.  R.R.O. 1990, Reg. 1026, s. 15 (5).</p> <p class=\"subsection-e\">  (6) If a member of the Fees Mediation Committee becomes unable to act after the Committee commences a hearing, its remaining members may complete the hearing in the member’s absence, if they constitute a quorum.  R.R.O. 1990, Reg. 1026, s. 15 (6).</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. (1) If, under subsection 29 (3) of the Act, parties to a dispute agree to arbitration by the Fees Mediation Committee, the written consent to arbitration, signed by all of the parties to the dispute, shall be filed with the Registrar.  R.R.O. 1990, Reg. 1026, s. 16 (1). (2) A brief written statement of the dispute submitted to arbitration, signed by all of the parties, shall be filed with the Registrar within ten days after the filing of the consent to arbitration.  R.R.O. 1990, Reg. 1026, s. 16 (2). (3) The Registrar may extend the time limit for filing a statement of the dispute.  R.R.O. 1990, Reg. 1026, s. 16 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>16. </b>(1) If, under subsection 29 (3) of the Act, parties to a dispute agree to arbitration by the Fees Mediation Committee, the written consent to arbitration, signed by all of the parties to the dispute, shall be filed with the Registrar.  R.R.O. 1990, Reg. 1026, s. 16 (1).</p> <p class=\"subsection-e\">  (2) A brief written statement of the dispute submitted to arbitration, signed by all of the parties, shall be filed with the Registrar within ten days after the filing of the consent to arbitration.  R.R.O. 1990, Reg. 1026, s. 16 (2).</p> <p class=\"subsection-e\">  (3) The Registrar may extend the time limit for filing a statement of the dispute.  R.R.O. 1990, Reg. 1026, s. 16 (3).</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. Revoked: O. Reg. 218/10, s. 6. Classes of Related Persons",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 218/10, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Classes of Related Persons</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. The following are prescribed as classes of persons whose interests are related to those of the Association: 1.  Retired members. 2.  Associates. 3.  Honorary members.  R.R.O. 1990, Reg. 1026, s. 18; O. Reg. 105/98, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>The following are prescribed as classes of persons whose interests are related to those of the Association:</p> <p class=\"paragraph-e\">  1.  Retired members.</p> <p class=\"paragraph-e\">  2.  Associates.</p> <p class=\"paragraph-e\">  3.  Honorary members.  R.R.O. 1990, Reg. 1026, s. 18; O. Reg. 105/98, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. (1) A retired member is a person, (a)  who has resigned active membership in the Association; (b)  who, at the time of resignation was not in default of payment of any fee, levy or costs imposed under the Act, regulations or by-laws of the Association; (c)  whose professional conduct or competence was not the subject of proceedings before the Discipline Committee at the time of resignation; (d)  whose licence was not under suspension at the time of resignation; and (e)  who makes an application to be a retired member and pays the annual fee prescribed by the by-laws.  R.R.O. 1990, Reg. 1026, s. 19 (1); O. Reg. 105/98, s. 3 (1, 2). (2) Retired members are entitled to receive general information issued by the Association, serve on committees of the Council, attend meetings of the Association and vote on all member issues at the meetings.  O. Reg. 218/10, s. 7. (3) Retired members may use the designation “O.L.S. (Ret.)” or “A.-G.O. (Ret.)” after their names but shall not use it in connection with a business promotion. O. Reg. 506/21, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>(1) A retired member is a person,</p> <p class=\"clause-e\">  (a)  who has resigned active membership in the Association;</p> <p class=\"clause-e\">  (b)  who, at the time of resignation was not in default of payment of any fee, levy or costs imposed under the Act, regulations or by-laws of the Association;</p> <p class=\"clause-e\">  (c)  whose professional conduct or competence was not the subject of proceedings before the Discipline Committee at the time of resignation;</p> <p class=\"clause-e\">  (d)  whose licence was not under suspension at the time of resignation; and</p> <p class=\"clause-e\">  (e)  who makes an application to be a retired member and pays the annual fee prescribed by the by-laws.  R.R.O. 1990, Reg. 1026, s. 19 (1); O. Reg. 105/98, s. 3 (1, 2).</p> <p class=\"subsection-e\">  (2) Retired members are entitled to receive general information issued by the Association, serve on committees of the Council, attend meetings of the Association and vote on all member issues at the meetings.  O. Reg. 218/10, s. 7.</p> <p class=\"subsection-e\">  (3) Retired members may use the designation “O.L.S. (Ret.)” or “A.-G.O. (Ret.)” after their names but shall not use it in connection with a business promotion. O. Reg. 506/21, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. (1) An associate is a person who applies to be an associate, pays the annual fee prescribed by the by-laws for associates and, (a)  is enrolled in a post-secondary school course in professional surveying; (b)  is a party to Articles of Agreement with a member of the Association; or (c)  is employed in, retired from or aligned with the practice of professional surveying. O. Reg. 105/98, s. 4; O. Reg. 218/10, s. 8; O. Reg. 327/12, s. 3. (2) Associates are entitled to receive general information issued by the Association and to attend meetings of the Association, but are not entitled to vote at meetings.  O. Reg. 105/98, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>(1) An associate is a person who applies to be an associate, pays the annual fee prescribed by the by-laws for associates and,</p> <p class=\"clause-e\">  (a)  is enrolled in a post-secondary school course in professional surveying;</p> <p class=\"clause-e\">  (b)  is a party to Articles of Agreement with a member of the Association; or</p> <p class=\"clause-e\">  (c)  is employed in, retired from or aligned with the practice of professional surveying. O. Reg. 105/98, s. 4; O. Reg. 218/10, s. 8; O. Reg. 327/12, s. 3.</p> <p class=\"subsection-e\">  (2) Associates are entitled to receive general information issued by the Association and to attend meetings of the Association, but are not entitled to vote at meetings.  O. Reg. 105/98, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. (1) An honorary member is a person who has rendered outstanding service to the Association and is appointed as such by resolution of the Council.  R.R.O. 1990, Reg. 1026, s. 21 (1). (2) There are no membership fees or dues for honorary members.  R.R.O. 1990, Reg. 1026, s. 21 (2). (3) Honorary members are entitled to receive general information issued by the Association and to attend the meetings of the Association, but are not entitled to vote at meetings.  R.R.O. 1990, Reg. 1026, s. 21 (3). Certificate of Authorization",
+            "raw_html": "<p class=\"section-e\"> <b>21. </b>(1) An honorary member is a person who has rendered outstanding service to the Association and is appointed as such by resolution of the Council.  R.R.O. 1990, Reg. 1026, s. 21 (1).</p> <p class=\"subsection-e\">  (2) There are no membership fees or dues for honorary members.  R.R.O. 1990, Reg. 1026, s. 21 (2).</p> <p class=\"subsection-e\">  (3) Honorary members are entitled to receive general information issued by the Association and to attend the meetings of the Association, but are not entitled to vote at meetings.  R.R.O. 1990, Reg. 1026, s. 21 (3).</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Certificate of Authorization</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22. (1) The name of a partnership holding a certificate of authorization shall be, (a)  if its members are the same persons recorded on the register of the Association on December 31, 1969, the name used by those members; (b)  subject to subsection (3), the name or names of one or more persons who are professional members engaged with each other in the practice of professional surveying; or (c)  the name or names of one or more of the principal members of each corporation that forms a partnership engaged in the practice of professional surveying. R.R.O. 1990, Reg. 1026, s. 22 (1); O. Reg. 509/99, s. 1 (1); O. Reg. 218/10, s. 9 (1-3); O. Reg. 327/12, s. 4 (1, 2). (2) The name of a corporation holding a certificate of authorization shall not be, (a)  a number name; (b)  self-laudatory; or (c)  otherwise misleading.  O. Reg. 76/04, s. 1 (1). (3) The name of a person who was engaged with other members in the practice of professional surveying but is no longer engaged in the practice may also be used in the name of a partnership, or corporation if, (a)  the person is or was a professional member; (b)  the person’s membership was not under suspension or cancellation at the time his or her practice ceased; (c)  the person’s name was part of the name of the partnership, or corporation or a predecessor of it immediately before the application; and (d)  the person or the person’s estate agrees to or does not object to the use. R.R.O. 1990, Reg. 1026, s. 22 (3); O. Reg. 509/99, s. 1 (2, 3); O. Reg. 218/10, s. 9 (3, 4); O. Reg. 327/12, s. 4 (3). (4) Revoked: O. Reg. 76/04, s. 1 (2). (5) Subject to subsection (3), no professional member shall use a name that implies that there is a partnership if the partnership does not exist.  R.R.O. 1990, Reg. 1026, s. 22 (5); O. Reg. 218/10, s. 9 (4). (6) Revoked: O. Reg. 218/10, s. 9 (5). Branches of Professional Surveying",
+            "raw_html": "<p class=\"section-e\"> <b>22. </b>(1) The name of a partnership holding a certificate of authorization shall be,</p> <p class=\"clause-e\">  (a)  if its members are the same persons recorded on the register of the Association on December 31, 1969, the name used by those members;</p> <p class=\"clause-e\">  (b)  subject to subsection (3), the name or names of one or more persons who are professional members engaged with each other in the practice of professional surveying; or</p> <p class=\"clause-e\">  (c)  the name or names of one or more of the principal members of each corporation that forms a partnership engaged in the practice of professional surveying. R.R.O. 1990, Reg. 1026, s. 22 (1); O. Reg. 509/99, s. 1 (1); O. Reg. 218/10, s. 9 (1-3); O. Reg. 327/12, s. 4 (1, 2).</p> <p class=\"subsection-e\">  (2) The name of a corporation holding a certificate of authorization shall not be,</p> <p class=\"clause-e\">  (a)  a number name;</p> <p class=\"clause-e\">  (b)  self-laudatory; or</p> <p class=\"clause-e\">  (c)  otherwise misleading.  O. Reg. 76/04, s. 1 (1).</p> <p class=\"subsection-e\">  (3) The name of a person who was engaged with other members in the practice of professional surveying but is no longer engaged in the practice may also be used in the name of a partnership, or corporation if,</p> <p class=\"clause-e\">  (a)  the person is or was a professional member;</p> <p class=\"clause-e\">  (b)  the person’s membership was not under suspension or cancellation at the time his or her practice ceased;</p> <p class=\"clause-e\">  (c)  the person’s name was part of the name of the partnership, or corporation or a predecessor of it immediately before the application; and</p> <p class=\"clause-e\">  (d)  the person or the person’s estate agrees to or does not object to the use. R.R.O. 1990, Reg. 1026, s. 22 (3); O. Reg. 509/99, s. 1 (2, 3); O. Reg. 218/10, s. 9 (3, 4); O. Reg. 327/12, s. 4 (3).</p> <p class=\"subsection-e\">  (4) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 76/04, s. 1 (2).</p> <p class=\"subsection-e\">  (5) Subject to subsection (3), no professional member shall use a name that implies that there is a partnership if the partnership does not exist.  R.R.O. 1990, Reg. 1026, s. 22 (5); O. Reg. 218/10, s. 9 (4).</p> <p class=\"subsection-e\">  (6) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 218/10, s. 9 (5).</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Branches of Professional Surveying</p>"
+        },
+        {
+            "ahref_id": "#22.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22.1 The following are prescribed as branches of professional surveying: 1.  Cadastral surveying. 2.  Geodetic surveying. 3.  Hydrographic surveying. 4.  Photogrammetric surveying. 5.  Geographic information management. O. Reg. 218/10, s. 10; O. Reg. 327/12, s. 5 (2). Academic and Experience Requirements for Licence or Certificate of Registration",
+            "raw_html": "<p class=\"section-e\"> <b>22.1 </b>The following are prescribed as branches of professional surveying:</p> <p class=\"paragraph-e\">  1.  Cadastral surveying.</p> <p class=\"paragraph-e\">  2.  Geodetic surveying.</p> <p class=\"paragraph-e\">  3.  Hydrographic surveying.</p> <p class=\"paragraph-e\">  4.  Photogrammetric surveying.</p> <p class=\"paragraph-e\">  5.  Geographic information management. O. Reg. 218/10, s. 10; O. Reg. 327/12, s. 5 (2).</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Academic and Experience Requirements for Licence or Certificate of Registration</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23. (1) A person shall not be issued a licence or a certificate of registration unless he or she has successfully completed the term of articles prescribed by this section.  R.R.O. 1990, Reg. 1026, s. 23 (1). (1.1) Revoked: O. Reg. 509/99, s. 3 (2). (2) An application for a term of articles shall be made to the Registrar.  R.R.O. 1990, Reg. 1026, s. 23 (2). (3) An applicant for a term of articles must provide proof of, (a)  successful completion of a program at the baccalaureate level in professional surveying approved by the Academic and Experience Requirements Committee; (b)  successful completion of a program that, in the opinion of the Academic and Experience Requirements Committee, is equivalent in content and level of difficulty to a program approved under clause (a); or (c)  experience or knowledge or a combination thereof that, in the opinion of the Academic and Experience Requirements Committee, provides equivalent competencies to a program approved under clause (a). O. Reg. 327/12, s. 6 (1). (4) The term of articles shall include, (a)  at least 225 working days of practical experience in the student’s chosen branch of professional surveying in Ontario of which period at least 150 working days is field experience at the Party Chief level or higher in cadastral surveying, or its equivalent in another branch; and (b)  at least 113 working days experience in the management and administration of professional surveying, completed to the satisfaction of the Academic and Experience Requirements Committee. R.R.O. 1990, Reg. 1026, s. 23 (4); O. Reg. 327/12, s. 6 (2, 3). (5) Where an articling student has received working experience in professional surveying prior to the commencement of his or her term of articles that is comparable to the working experience required under subsection (4), the Academic and Experience Requirements Committee may reduce the time of the required working experience by the lesser of the period of prior experience and six months. R.R.O. 1990, Reg. 1026, s. 23 (5); O. Reg. 218/10, s. 11 (1); O. Reg. 327/12, s. 6 (4). (6) A term of articles shall be under the direction of, (a)  if the applicant is applying for a licence, a member who became a licensed member at least three years before the beginning of the term; or (b)  if the applicant is applying for a certificate of registration, a member who has held a certificate of registration for at least three years before the beginning of the term or a person who in the opinion of the Academic and Experience Requirements Committee is competent to provide and direct the approved professional experience.  R.R.O. 1990, Reg. 1026, s. 23 (6). (7) An articling student shall complete the assignments and examinations that are required by the policies of the Academic and Experience Requirements Committee as approved by the Council.  O. Reg. 218/10, s. 11 (2). (8) An articling student shall satisfy the requirements of subsections (4) and (7) within four years of the commencement of his or her term of articles or by the end of the period as extended by the Academic and Experience Requirements Committee under subsection (8.1).  O. Reg. 218/10, s. 11 (2). (8.1) The Academic and Experience Requirements Committee may extend the period of four years for up to one year if the student has taken parental leave during the initial period and applies to the Committee for an extension before the end of the initial period.  O. Reg. 218/10, s. 11 (2). (8.2) An articling student who fails to complete the requirements within the time period required under subsection (8) may, one year after the expiry of the original term of articles, reapply for articles, at which time the Academic and Experience Requirements Committee shall determine the term and conditions of articles in accordance with its policy.  O. Reg. 218/10, s. 11 (2). (9) All assignments and examinations shall be marked on a percentage basis and a mark of 65 per cent shall be a passing mark.  R.R.O. 1990, Reg. 1026, s. 23 (9). (10) The Academic and Experience Requirements Committee shall advise the articling student of the results of each assignment or examination submitted by the student within 45 working days after it is submitted.  R.R.O. 1990, Reg. 1026, s. 23 (10); O. Reg. 105/98, s. 5 (2). (11) Articling students who do not successfully complete the required assignments and examinations may take two additional opportunities to complete each of them.  R.R.O. 1990, Reg. 1026, s. 23 (11); O. Reg. 218/10, s. 11 (3). (12) Each student’s term of articles shall be monitored by a member of the Association who is a member of or an assistant to the Academic and Experience Requirements Committee.  R.R.O. 1990, Reg. 1026, s. 23 (12). (13) The Academic and Experience Requirements Committee shall prepare and make available to all applicants, articling students and members of the Association a student handbook setting out the academic and experience requirements, including examinations and assignments, that an articling student shall complete before writing the professional entrance examination.  R.R.O. 1990, Reg. 1026, s. 23 (13). (14) An articling student who has satisfied the requirements of subsections (4) and (7) may apply in accordance with subsection 24 (2) to take the next available professional entrance examination conducted by Council.  R.R.O. 1990, Reg. 1026, s. 23 (14); O. Reg. 218/10, s. 11 (4). (15) The Academic and Experience Requirements Committee may waive or vary the requirements for articles, as set out in this section, for an applicant who, (a)  is a professional surveyor in good standing in another jurisdiction or holds an equivalent professional designation in another jurisdiction; or (b)  has met the requirements of subsection (3) and has recently worked, in Ontario or elsewhere, a minimum of five years in a position that, in the opinion of the Academic and Experience Requirements Committee, provides experience that is equivalent to the experience obtained working as a professional member in Ontario. O. Reg. 327/12, s. 6 (5).",
+            "raw_html": "<p class=\"section-e\"> <b>23. </b>(1) A person shall not be issued a licence or a certificate of registration unless he or she has successfully completed the term of articles prescribed by this section.  R.R.O. 1990, Reg. 1026, s. 23 (1).</p> <p class=\"subsection-e\">  (1.1) <span>R<span class=\"ovsmallcap\">evoked</span></span>: O. Reg. 509/99, s. 3 (2).</p> <p class=\"subsection-e\">  (2) An application for a term of articles shall be made to the Registrar.  R.R.O. 1990, Reg. 1026, s. 23 (2).</p> <p class=\"subsection-e\">  (3) An applicant for a term of articles must provide proof of,</p> <p class=\"clause-e\">  (a)  successful completion of a program at the baccalaureate level in professional surveying approved by the Academic and Experience Requirements Committee;</p> <p class=\"clause-e\">  (b)  successful completion of a program that, in the opinion of the Academic and Experience Requirements Committee, is equivalent in content and level of difficulty to a program approved under clause (a); or</p> <p class=\"clause-e\">  (c)  experience or knowledge or a combination thereof that, in the opinion of the Academic and Experience Requirements Committee, provides equivalent competencies to a program approved under clause (a). O. Reg. 327/12, s. 6 (1).</p> <p class=\"subsection-e\">  (4) The term of articles shall include,</p> <p class=\"clause-e\">  (a)  at least 225 working days of practical experience in the student’s chosen branch of professional surveying in Ontario of which period at least 150 working days is field experience at the Party Chief level or higher in cadastral surveying, or its equivalent in another branch; and</p> <p class=\"clause-e\">  (b)  at least 113 working days experience in the management and administration of professional surveying, completed to the satisfaction of the Academic and Experience Requirements Committee. R.R.O. 1990, Reg. 1026, s. 23 (4); O. Reg. 327/12, s. 6 (2, 3).</p> <p class=\"subsection-e\">  (5) Where an articling student has received working experience in professional surveying prior to the commencement of his or her term of articles that is comparable to the working experience required under subsection (4), the Academic and Experience Requirements Committee may reduce the time of the required working experience by the lesser of the period of prior experience and six months. R.R.O. 1990, Reg. 1026, s. 23 (5); O. Reg. 218/10, s. 11 (1); O. Reg. 327/12, s. 6 (4).</p> <p class=\"subsection-e\">  (6) A term of articles shall be under the direction of,</p> <p class=\"clause-e\">  (a)  if the applicant is applying for a licence, a member who became a licensed member at least three years before the beginning of the term; or</p> <p class=\"clause-e\">  (b)  if the applicant is applying for a certificate of registration, a member who has held a certificate of registration for at least three years before the beginning of the term or a person who in the opinion of the Academic and Experience Requirements Committee is competent to provide and direct the approved professional experience.  R.R.O. 1990, Reg. 1026, s. 23 (6).</p> <p class=\"subsection-e\">  (7) An articling student shall complete the assignments and examinations that are required by the policies of the Academic and Experience Requirements Committee as approved by the Council.  O. Reg. 218/10, s. 11 (2).</p> <p class=\"subsection-e\">  (8) An articling student shall satisfy the requirements of subsections (4) and (7) within four years of the commencement of his or her term of articles or by the end of the period as extended by the Academic and Experience Requirements Committee under subsection (8.1).  O. Reg. 218/10, s. 11 (2).</p> <p class=\"subsection-e\">  (8.1) The Academic and Experience Requirements Committee may extend the period of four years for up to one year if the student has taken parental leave during the initial period and applies to the Committee for an extension before the end of the initial period.  O. Reg. 218/10, s. 11 (2).</p> <p class=\"subsection-e\">  (8.2) An articling student who fails to complete the requirements within the time period required under subsection (8) may, one year after the expiry of the original term of articles, reapply for articles, at which time the Academic and Experience Requirements Committee shall determine the term and conditions of articles in accordance with its policy.  O. Reg. 218/10, s. 11 (2).</p> <p class=\"subsection-e\">  (9) All assignments and examinations shall be marked on a percentage basis and a mark of 65 per cent shall be a passing mark.  R.R.O. 1990, Reg. 1026, s. 23 (9).</p> <p class=\"subsection-e\">  (10) The Academic and Experience Requirements Committee shall advise the articling student of the results of each assignment or examination submitted by the student within 45 working days after it is submitted.  R.R.O. 1990, Reg. 1026, s. 23 (10); O. Reg. 105/98, s. 5 (2).</p> <p class=\"subsection-e\">  (11) Articling students who do not successfully complete the required assignments and examinations may take two additional opportunities to complete each of them.  R.R.O. 1990, Reg. 1026, s. 23 (11); O. Reg. 218/10, s. 11 (3).</p> <p class=\"subsection-e\">  (12) Each student’s term of articles shall be monitored by a member of the Association who is a member of or an assistant to the Academic and Experience Requirements Committee.  R.R.O. 1990, Reg. 1026, s. 23 (12).</p> <p class=\"subsection-e\">  (13) The Academic and Experience Requirements Committee shall prepare and make available to all applicants, articling students and members of the Association a student handbook setting out the academic and experience requirements, including examinations and assignments, that an articling student shall complete before writing the professional entrance examination.  R.R.O. 1990, Reg. 1026, s. 23 (13).</p> <p class=\"subsection-e\">  (14) An articling student who has satisfied the requirements of subsections (4) and (7) may apply in accordance with subsection 24 (2) to take the next available professional entrance examination conducted by Council.  R.R.O. 1990, Reg. 1026, s. 23 (14); O. Reg. 218/10, s. 11 (4).</p> <p class=\"subsection-e\">  (15) The Academic and Experience Requirements Committee may waive or vary the requirements for articles, as set out in this section, for an applicant who,</p> <p class=\"clause-e\">  (a)  is a professional surveyor in good standing in another jurisdiction or holds an equivalent professional designation in another jurisdiction; or</p> <p class=\"clause-e\">  (b)  has met the requirements of subsection (3) and has recently worked, in Ontario or elsewhere, a minimum of five years in a position that, in the opinion of the Academic and Experience Requirements Committee, provides experience that is equivalent to the experience obtained working as a professional member in Ontario. O. Reg. 327/12, s. 6 (5).</p>"
+        },
+        {
+            "ahref_id": "#23.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  23.1 Revoked: O. Reg. 509/99, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"><b>  23.1</b> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 509/99, s. 4 (2).</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 24. (1) At least once each year, the Council shall conduct a professional entrance examination, consisting of both a written and oral examination.  R.R.O. 1990, Reg. 1026, s. 24 (1). (2) The application by an articling student to take the professional entrance examination shall be submitted in writing to the Registrar at least one month before the day the examination is to be held and shall include proof of successful completion of any assignments, examinations and working experience required during the term of articles.  R.R.O. 1990, Reg. 1026, s. 24 (2). (3) An articling student who fails to obtain a pass standing on the professional entrance examination or on the written or oral part of it may take two additional opportunities to pass the examination or the oral or written part of it if the student does so within three years after the day of the original examination.  R.R.O. 1990, Reg. 1026, s. 24 (3). (4) The professional entrance examination shall be marked on a percentage basis and a mark of 65 per cent shall be a passing mark.  R.R.O. 1990, Reg. 1026, s. 24 (4). (5) The Academic and Experience Requirements Committee shall advise the applicant of the results of the professional entrance examination submitted by the applicant within forty-five working days after it is submitted.  R.R.O. 1990, Reg. 1026, s. 24 (5). (6) The Registrar shall appoint from among the members of the Academic and Experience Requirements Committee and its assistants examiners who shall mark all assignments and examinations required under section 23 and the professional entrance examination submitted by articling students.  R.R.O. 1990, Reg. 1026, s. 24 (6).",
+            "raw_html": "<p class=\"section-e\"> <b>24. </b>(1) At least once each year, the Council shall conduct a professional entrance examination, consisting of both a written and oral examination.  R.R.O. 1990, Reg. 1026, s. 24 (1).</p> <p class=\"subsection-e\">  (2) The application by an articling student to take the professional entrance examination shall be submitted in writing to the Registrar at least one month before the day the examination is to be held and shall include proof of successful completion of any assignments, examinations and working experience required during the term of articles.  R.R.O. 1990, Reg. 1026, s. 24 (2).</p> <p class=\"subsection-e\">  (3) An articling student who fails to obtain a pass standing on the professional entrance examination or on the written or oral part of it may take two additional opportunities to pass the examination or the oral or written part of it if the student does so within three years after the day of the original examination.  R.R.O. 1990, Reg. 1026, s. 24 (3).</p> <p class=\"subsection-e\">  (4) The professional entrance examination shall be marked on a percentage basis and a mark of 65 per cent shall be a passing mark.  R.R.O. 1990, Reg. 1026, s. 24 (4).</p> <p class=\"subsection-e\">  (5) The Academic and Experience Requirements Committee shall advise the applicant of the results of the professional entrance examination submitted by the applicant within forty-five working days after it is submitted.  R.R.O. 1990, Reg. 1026, s. 24 (5).</p> <p class=\"subsection-e\">  (6) The Registrar shall appoint from among the members of the Academic and Experience Requirements Committee and its assistants examiners who shall mark all assignments and examinations required under section 23 and the professional entrance examination submitted by articling students.  R.R.O. 1990, Reg. 1026, s. 24 (6).</p>"
+        },
+        {
+            "ahref_id": "#24.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 24.1 Revoked: O. Reg. 509/99, s. 4 (2). Applications",
+            "raw_html": "<p class=\"section-e\"> <b>24.1 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 509/99, s. 4 (2).</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Applications</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. (1) An applicant for a licence or for a certificate of registration shall file with the Registrar an application accompanied by, (a)  payment of the annual fee for the current calendar year, pro-rated for the period from the first day of the month in which the application is filed until the end of December in that year; (b)  payment of any other fee, levy or costs imposed under the Act, regulations or by-laws of the Association; (c)  Revoked: O. Reg. 218/10, s. 12 (1). (d)  proof of professional liability insurance coverage, an application for it or an application for an exemption from it; (e)  two letters attesting to the applicant’s good character; and (f)  proof of successful completion of the term of articles and professional entrance examination under sections 23 and 24.  R.R.O. 1990, Reg. 1026, s. 25 (1); O. Reg. 218/10, s. 12 (1). (1.1) Revoked: O. Reg. 509/99, s. 5 (2). (2) An applicant for a certificate of authorization shall file with the Registrar an application accompanied by, (a)  payment of the annual fee for the current calendar year, pro-rated for the period from the first day of the month in which the application is filed until the end of December in that year; (b)  proof of liability insurance coverage for the applicant and, where the applicant is not an individual, for each professional member of the Association associated with it; and (c)  a statement of the names of its directors and officers, the professional member or professional members responsible for personally supervising the practice of professional surveying, the mailing addresses and electronic mail addresses as well as the telephone numbers of all offices and the professional members responsible for each office. R.R.O. 1990, Reg. 1026, s. 25 (2); O. Reg. 76/04, s. 3; O. Reg. 218/10, s. 12 (2, 3); O. Reg. 327/12, s. 7; O. Reg. 506/21, s. 9.",
+            "raw_html": "<p class=\"section-e\"> <b>25. </b>(1) An applicant for a licence or for a certificate of registration shall file with the Registrar an application accompanied by,</p> <p class=\"clause-e\">  (a)  payment of the annual fee for the current calendar year, pro-rated for the period from the first day of the month in which the application is filed until the end of December in that year;</p> <p class=\"clause-e\">  (b)  payment of any other fee, levy or costs imposed under the Act, regulations or by-laws of the Association;</p> <p class=\"clause-e\">  (c)  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 218/10, s. 12 (1).</p> <p class=\"clause-e\">  (d)  proof of professional liability insurance coverage, an application for it or an application for an exemption from it;</p> <p class=\"clause-e\">  (e)  two letters attesting to the applicant’s good character; and</p> <p class=\"clause-e\">  (f)  proof of successful completion of the term of articles and professional entrance examination under sections 23 and 24.  R.R.O. 1990, Reg. 1026, s. 25 (1); O. Reg. 218/10, s. 12 (1).</p> <p class=\"subsection-e\">  (1.1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 509/99, s. 5 (2).</p> <p class=\"subsection-e\">  (2) An applicant for a certificate of authorization shall file with the Registrar an application accompanied by,</p> <p class=\"clause-e\">  (a)  payment of the annual fee for the current calendar year, pro-rated for the period from the first day of the month in which the application is filed until the end of December in that year;</p> <p class=\"clause-e\">  (b)  proof of liability insurance coverage for the applicant and, where the applicant is not an individual, for each professional member of the Association associated with it; and</p> <p class=\"clause-e\">  (c)  a statement of the names of its directors and officers, the professional member or professional members responsible for personally supervising the practice of professional surveying, the mailing addresses and electronic mail addresses as well as the telephone numbers of all offices and the professional members responsible for each office. R.R.O. 1990, Reg. 1026, s. 25 (2); O. Reg. 76/04, s. 3; O. Reg. 218/10, s. 12 (2, 3); O. Reg. 327/12, s. 7; O. Reg. 506/21, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#25.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25.1 Revoked:  O. Reg. 509/99, s. 6 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>25.1 </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 509/99, s. 6 (2).</p>"
+        },
+        {
+            "ahref_id": "#25.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25.2 Revoked:  O. Reg. 509/99, s. 6 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>25.2 </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 509/99, s. 6 (2).</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. (1) An applicant for renewal of a licence or a certificate of registration shall file with the Registrar before December 31st in any year an application accompanied by, (a)  payment of the annual fee for the following year and any other fee, levy or costs imposed under the Act, regulations or by-laws of the Association; (b)  proof of liability insurance coverage or exemption from it; (c)  the applicant’s current office mailing address, electronic mail address and telephone number; and (d)  a professional development report, completed by the applicant, for the 12-month period ending that December 31. R.R.O. 1990, Reg. 1026, s. 26 (1); O. Reg. 327/12, s. 8 (1); O. Reg. 506/21, s. 10 (1). (2) An applicant for renewal of a certificate of authorization shall file with the Registrar before December 31st in any year an application accompanied by, (a)  payment of the annual fee for the following year; (b)  proof of liability insurance coverage for the applicant and for each of the professional members associated with it; and (c)  a statement of the names of its directors and officers, the professional member or professional members responsible for personally supervising its practice of professional surveying, the mailing addresses and electronic mail addresses as well as the telephone numbers of all offices and the professional members responsible for each office. R.R.O. 1990, Reg. 1026, s. 26 (2); O. Reg. 76/04, s. 4; O. Reg. 218/10, s. 13; O. Reg. 327/12, s. 8 (2); O. Reg. 506/21, s. 10 (2). Suspension",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b>(1) An applicant for renewal of a licence or a certificate of registration shall file with the Registrar before December 31st in any year an application accompanied by,</p> <p class=\"clause-e\">  (a)  payment of the annual fee for the following year and any other fee, levy or costs imposed under the Act, regulations or by-laws of the Association;</p> <p class=\"clause-e\">  (b)  proof of liability insurance coverage or exemption from it;</p> <p class=\"clause-e\">  (c)  the applicant’s current office mailing address, electronic mail address and telephone number; and</p> <p class=\"clause-e\">  (d)  a professional development report, completed by the applicant, for the 12-month period ending that December 31. R.R.O. 1990, Reg. 1026, s. 26 (1); O. Reg. 327/12, s. 8 (1); O. Reg. 506/21, s. 10 (1).</p> <p class=\"subsection-e\">  (2) An applicant for renewal of a certificate of authorization shall file with the Registrar before December 31st in any year an application accompanied by,</p> <p class=\"clause-e\">  (a)  payment of the annual fee for the following year;</p> <p class=\"clause-e\">  (b)  proof of liability insurance coverage for the applicant and for each of the professional members associated with it; and</p> <p class=\"clause-e\">  (c)  a statement of the names of its directors and officers, the professional member or professional members responsible for personally supervising its practice of professional surveying, the mailing addresses and electronic mail addresses as well as the telephone numbers of all offices and the professional members responsible for each office. R.R.O. 1990, Reg. 1026, s. 26 (2); O. Reg. 76/04, s. 4; O. Reg. 218/10, s. 13; O. Reg. 327/12, s. 8 (2); O. Reg. 506/21, s. 10 (2).</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Suspension</p>"
+        },
+        {
+            "ahref_id": "#26.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  26.1 (1) The Registrar may suspend a member’s licence, certificate of authorization or certificate of registration if the member, (a)  fails to file anything required under clause 26 (1) (b), (c) or (d) or (2) (b) or (c); or (b)  fails to meet the requirements of the professional development program described in section 41. O. Reg. 327/12, s. 9. (2) The Registrar shall not suspend a licence, certificate of authorization or certificate of registration without first giving the member two months notice of the default and intention to suspend. O. Reg. 327/12, s. 9. (3) A person whose licence, certificate of authorization or certificate of registration was suspended by the Registrar under subsection (1) is entitled to have the suspension removed on, (a)  filing of the thing the person failed to file; or (b)  meeting the requirements of the professional development program. O. Reg. 327/12, s. 9. (4) If a licence, certificate of authorization or certificate of registration is suspended by the Registrar under subsection (1) and the suspension is not removed under subsection (3) within one year of the date of the suspension, the Registrar shall refer the matter to the Council with a recommendation that the matter be referred to the Discipline Committee. O. Reg. 327/12, s. 9. Reinstatement",
+            "raw_html": "<p class=\"section-e\"><b>  26.1 </b>(1) The Registrar may suspend a member’s licence, certificate of authorization or certificate of registration if the member,</p> <p class=\"clause-e\">  (a)  fails to file anything required under clause 26 (1) (b), (c) or (d) or (2) (b) or (c); or</p> <p class=\"clause-e\">  (b)  fails to meet the requirements of the professional development program described in section 41. O. Reg. 327/12, s. 9.</p> <p class=\"subsection-e\">  (2) The Registrar shall not suspend a licence, certificate of authorization or certificate of registration without first giving the member two months notice of the default and intention to suspend. O. Reg. 327/12, s. 9.</p> <p class=\"subsection-e\">  (3) A person whose licence, certificate of authorization or certificate of registration was suspended by the Registrar under subsection (1) is entitled to have the suspension removed on, </p> <p class=\"clause-e\">  (a)  filing of the thing the person failed to file; or</p> <p class=\"clause-e\">  (b)  meeting the requirements of the professional development program. O. Reg. 327/12, s. 9.</p> <p class=\"subsection-e\">  (4) If a licence, certificate of authorization or certificate of registration is suspended by the Registrar under subsection (1) and the suspension is not removed under subsection (3) within one year of the date of the suspension, the Registrar shall refer the matter to the Council with a recommendation that the matter be referred to the Discipline Committee. O. Reg. 327/12, s. 9.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Reinstatement</p>"
+        },
+        {
+            "ahref_id": "#27.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27. The Registrar may reinstate a licence or a certificate cancelled under section 20 of the Act if within two years after the cancellation the Registrar receives an application accompanied by, (a)  all fees outstanding at the time of cancellation; (b)  any membership or other fees owing for the year in which the application is made; and (c)  an additional fee equal to one-half of the current annual membership fee.  R.R.O. 1990, Reg. 1026, s. 27. Use of Designation",
+            "raw_html": "<p class=\"section-e\"> <b>27. </b>The Registrar may reinstate a licence or a certificate cancelled under section 20 of the Act if within two years after the cancellation the Registrar receives an application accompanied by,</p> <p class=\"clause-e\">  (a)  all fees outstanding at the time of cancellation;</p> <p class=\"clause-e\">  (b)  any membership or other fees owing for the year in which the application is made; and</p> <p class=\"clause-e\">  (c)  an additional fee equal to one-half of the current annual membership fee.  R.R.O. 1990, Reg. 1026, s. 27.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Use of Designation</p>"
+        },
+        {
+            "ahref_id": "#28.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 28. (1) Every professional member may use, (a)  the title “Ontario Land Surveyor” or “arpenteur-géomètre de l’Ontario” or the initials “O.L.S.” or “A.-G.O.”; and (b)  the title “Ontario Land Information Professional” or “professionnel de l’information sur les terres de l’Ontario” or the initials “O.L.I.P.” or “P.I.T.O.”.  O. Reg. 509/99, s. 7; O. Reg. 218/10, s. 14. (2) Every partnership or corporation holding a valid certificate of authorization may use, as an occupational designation, (a)  the title “Ontario Land Surveyor” or “arpenteur-géomètre de l’Ontario” or the initials “O.L.S.” or “A.-G.O.”; and (b)  the title “Ontario Land Information Professional” or “professionnel de l’information sur les terres de l’Ontario” or the initials “O.L.I.P.” or “P.I.T.O.”.  O. Reg. 509/99, s. 7. (3) Revoked:  O. Reg. 76/04, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>28. </b>(1) Every professional member may use,</p> <p class=\"clause-e\">  (a)  the title “Ontario Land Surveyor” or “arpenteur-géomètre de l’Ontario” or the initials “O.L.S.” or “A.-G.O.”; and</p> <p class=\"clause-e\">  (b)  the title “Ontario Land Information Professional” or “professionnel de l’information sur les terres de l’Ontario” or the initials “O.L.I.P.” or “P.I.T.O.”.  O. Reg. 509/99, s. 7; O. Reg. 218/10, s. 14.</p> <p class=\"subsection-e\">  (2) Every partnership or corporation holding a valid certificate of authorization may use, as an occupational designation,</p> <p class=\"clause-e\">  (a)  the title “Ontario Land Surveyor” or “arpenteur-géomètre de l’Ontario” or the initials “O.L.S.” or “A.-G.O.”; and</p> <p class=\"clause-e\">  (b)  the title “Ontario Land Information Professional” or “professionnel de l’information sur les terres de l’Ontario” or the initials “O.L.I.P.” or “P.I.T.O.”.  O. Reg. 509/99, s. 7.</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 76/04, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#29.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 29. (1) Every professional member shall obtain from the Association the appropriate seal for his or her class of membership.  R.R.O. 1990, Reg. 1026, s. 29 (1); O. Reg. 218/10, s. 15 (1). (2) A professional member of the Association shall return his or her seal upon the suspension or cancellation of his or her licence or certificate of registration.  O. Reg. 218/10, s. 15 (2). (3) A print of a plan of survey other than a plan deposited or registered in the Ontario land registration system is not a valid copy unless it bears the embossed seal of the licensed member who signed the plan or the embossed seal of a licensed member employed by the corporation or public agency responsible for the plan’s preparation or the corporate seal of the corporation holding a certificate of authorization that was responsible for the plan’s preparation.  R.R.O. 1990, Reg. 1026, s. 29 (3); O. Reg. 506/21, s. 11.",
+            "raw_html": "<p class=\"section-e\"> <b>29. </b>(1) Every professional member shall obtain from the Association the appropriate seal for his or her class of membership.  R.R.O. 1990, Reg. 1026, s. 29 (1); O. Reg. 218/10, s. 15 (1).</p> <p class=\"subsection-e\">  (2) A professional member of the Association shall return his or her seal upon the suspension or cancellation of his or her licence or certificate of registration.  O. Reg. 218/10, s. 15 (2).</p> <p class=\"subsection-e\">  (3) A print of a plan of survey other than a plan deposited or registered in the Ontario land registration system is not a valid copy unless it bears the embossed seal of the licensed member who signed the plan or the embossed seal of a licensed member employed by the corporation or public agency responsible for the plan’s preparation or the corporate seal of the corporation holding a certificate of authorization that was responsible for the plan’s preparation.  R.R.O. 1990, Reg. 1026, s. 29 (3); O. Reg. 506/21, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. (1) Every licensed member shall obtain approval from the Registrar of the survey monument identification stamp to be used by that member.  R.R.O. 1990, Reg. 1026, s. 30 (1). (2) Every licensed member shall identify every survey monument that the member plants with the identification stamp that is approved for the member by the Registrar.  R.R.O. 1990, Reg. 1026, s. 30 (2). (3) The Registrar shall maintain a register in which is entered opposite the name of every licensed member the identification stamp approved for that member by the Registrar.  R.R.O. 1990, Reg. 1026, s. 30 (3). Information on Returns",
+            "raw_html": "<p class=\"section-e\"> <b>30. </b>(1) Every licensed member shall obtain approval from the Registrar of the survey monument identification stamp to be used by that member.  R.R.O. 1990, Reg. 1026, s. 30 (1).</p> <p class=\"subsection-e\">  (2) Every licensed member shall identify every survey monument that the member plants with the identification stamp that is approved for the member by the Registrar.  R.R.O. 1990, Reg. 1026, s. 30 (2).</p> <p class=\"subsection-e\">  (3) The Registrar shall maintain a register in which is entered opposite the name of every licensed member the identification stamp approved for that member by the Registrar.  R.R.O. 1990, Reg. 1026, s. 30 (3).</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Information on Returns</p>"
+        },
+        {
+            "ahref_id": "#31.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31. (1) Professional members and holders of certificates of authorization shall complete and return to the Association, on the request of the Council, returns of information in the form prescribed by the by-laws, setting out their names, addresses, telephone numbers, the names of their associates, partners and employees who are professional members and a statement of their professional liability insurance coverage.  O. Reg. 218/10, s. 16. (2) Corporations that hold certificates of authorization shall set out in their returns of information the information in subsection (1) and a statement of the names of their directors and officers, the professional member or professional members responsible for personally supervising their practice of professional surveying, the addresses and telephone numbers of all offices and the professional members responsible for each office. O. Reg. 218/10, s. 16; O. Reg. 327/12, s. 10. Advertising",
+            "raw_html": "<p class=\"section-e\"> <b>31. </b>(1) Professional members and holders of certificates of authorization shall complete and return to the Association, on the request of the Council, returns of information in the form prescribed by the by-laws, setting out their names, addresses, telephone numbers, the names of their associates, partners and employees who are professional members and a statement of their professional liability insurance coverage.  O. Reg. 218/10, s. 16.</p> <p class=\"subsection-e\">  (2) Corporations that hold certificates of authorization shall set out in their returns of information the information in subsection (1) and a statement of the names of their directors and officers, the professional member or professional members responsible for personally supervising their practice of professional surveying, the addresses and telephone numbers of all offices and the professional members responsible for each office. O. Reg. 218/10, s. 16; O. Reg. 327/12, s. 10.</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Advertising</p>"
+        },
+        {
+            "ahref_id": "#32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32. No person shall advertise the services of a holder of a licence, certificate of registration or certificate of authorization to the public in any form or medium unless the advertisement is factual.  O. Reg. 506/93, s. 1. Code of Ethics",
+            "raw_html": "<p class=\"section-e\"> <b>32. </b>No person shall advertise the services of a holder of a licence, certificate of registration or certificate of authorization to the public in any form or medium unless the advertisement is factual.  O. Reg. 506/93, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Code of Ethics</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. (1) Members shall abide by the code of ethics of the Association.  R.R.O. 1990, Reg. 1026, s. 33 (1). (2) The code of ethics of the Association requires that every member shall, (a)  conduct his or her professional and private affairs in such a manner as to maintain public trust and confidence in the profession; (b)  abide by the standards of practice prescribed herein; (c)  follow a program of continuing education and maintain a level of proficiency that will meet the needs of the public; (d)  preserve the confidence of clients and regard as privileged information obtained in respect of clients’ affairs; (e)  ensure that clients are aware of the complexity of a project and the nature of fees for service; (f)  accept a project only when sufficient time and resources are available to permit completion of the project within a reasonable time frame or in accordance with any contractual timeline; (g)  inform the client at the earliest opportunity of any circumstances that will compromise the member’s ability to meet the scheduling and deadline requirements for the project or deliverable, and ensure that both the client and member are aware of the revised scheduling associated with the project or deliverable; (h)  when signing a survey plan, project or deliverable, include a statement that certifies that the plan, project or deliverable complies with all relevant legislative requirements and all standards of the Association; and (i)  not receive compensation for the same service from more than one person without the consent of the persons involved. R.R.O. 1990, Reg. 1026, s. 33 (2); O. Reg. 327/12, s. 11; O. Reg. 506/21, s. 12. Standards of Practice",
+            "raw_html": "<p class=\"section-e\"> <b>33. </b>(1) Members shall abide by the code of ethics of the Association.  R.R.O. 1990, Reg. 1026, s. 33 (1).</p> <p class=\"subsection-e\">  (2) The code of ethics of the Association requires that every member shall,</p> <p class=\"clause-e\">  (a)  conduct his or her professional and private affairs in such a manner as to maintain public trust and confidence in the profession;</p> <p class=\"clause-e\">  (b)  abide by the standards of practice prescribed herein;</p> <p class=\"clause-e\">  (c)  follow a program of continuing education and maintain a level of proficiency that will meet the needs of the public;</p> <p class=\"clause-e\">  (d)  preserve the confidence of clients and regard as privileged information obtained in respect of clients’ affairs;</p> <p class=\"clause-e\">  (e)  ensure that clients are aware of the complexity of a project and the nature of fees for service;</p> <p class=\"clause-e\">  (f)  accept a project only when sufficient time and resources are available to permit completion of the project within a reasonable time frame or in accordance with any contractual timeline;</p> <p class=\"clause-e\">  (g)  inform the client at the earliest opportunity of any circumstances that will compromise the member’s ability to meet the scheduling and deadline requirements for the project or deliverable, and ensure that both the client and member are aware of the revised scheduling associated with the project or deliverable;</p> <p class=\"clause-e\">  (h)  when signing a survey plan, project or deliverable, include a statement that certifies that the plan, project or deliverable complies with all relevant legislative requirements and all standards of the Association; and </p> <p class=\"clause-e\">  (i)  not receive compensation for the same service from more than one person without the consent of the persons involved. R.R.O. 1990, Reg. 1026, s. 33 (2); O. Reg. 327/12, s. 11; O. Reg. 506/21, s. 12.</p> <p class=\"heading1-e\"><a name=\"BK13\"></a>Standards of Practice</p>"
+        },
+        {
+            "ahref_id": "#34.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34. (1) Professional members shall maintain the standards of practice prescribed by this section in the performance of their practice of professional surveying.  R.R.O. 1990, Reg. 1026, s. 34 (1); O. Reg. 218/10, s. 17 (1); O. Reg. 327/12, s. 12 (1). (2) The standards of practice of the Association require that, (a)  every professional surveying office that operates under the authority of a certificate of authorization shall be operated and supervised on a full-time basis by a professional member or professional members of the Association qualified in the professional surveying services offered; (b)  no professional member shall hold himself or herself out as carrying on the practice of professional surveying from more than one office unless specifically authorized by the Registration Committee; (c)  no partnership or corporation authorized to practice the profession of surveying shall list a professional member as being in charge of more than one office unless specifically approved by the Registration Committee; (d)  no professional member shall enter into or continue to practise professional surveying in a partnership unless all of the partners are professional members; (e)  no professional member shall act as a servant or agent of a person who is not a professional member so as to enable the person to offer professional surveying services to the public; (f)  every member shall pay within the time specified in the Act, regulations or by-laws of the Association all premiums, levies, deductible amounts under professional liability insurance or any other financial obligations owed to the Association; (g)  every member shall comply with any written or oral request received from the Association, the Registrar, the presiding officer of any committee of the Association within the time specified in the request and shall supply such information and copies of such material, other than material concerning a member’s health or financial status, as may be requested; (h)  every professional member shall report to the Registrar any gross or consistent practice or omission of another professional member, of which the member is aware, that may constitute professional misconduct or incompetence; (i)  every professional member shall keep and make available to his or her client, on request, an itemized and accurate record of the cost of a project; (j)  no professional member shall pay a commission in respect of a project or offer or agree to divide his or her remuneration with another person in respect of a project unless the other person has participated in completing the project; (k)  every professional member shall participate in the professional development program described in section 41; and (l)  every licensed member shall conduct every survey in an impartial manner. R.R.O. 1990, Reg. 1026, s. 34 (2); O. Reg. 76/04, s. 7; O. Reg. 218/10, s. 17 (2, 3); O. Reg. 327/12, s. 12 (2-5). (3) A professional member may operate a consultation office if it is maintained for the sole purpose of client communication and if it is open to the public for specified hours only with a professional member in attendance.  O. Reg. 218/10, s. 17 (4). (4) A consultation office is not a professional surveying office for the purposes of clause (2) (a) or an office for the purposes of clauses (2) (b) and (c). O. Reg. 218/10, s. 17 (4); O. Reg. 327/12, s. 12 (6). (5) A member may advertise a consultation office if the advertisement includes the specified hours during which it is open.  R.R.O. 1990, Reg. 1026, s. 34 (5). (6) For the purposes of clause (2) (l), a licensed member fails to conduct a survey in an impartial manner if he or she acts as an advocate for a client or renders an opinion on the location of a boundary or corner by, (a)  failing to collect and assess all best available documentary and physical evidence with respect to the true location of the boundary or corner; or (b)  unfairly favouring some documentary or physical evidence with respect to the true location of the boundary or corner over other such evidence. O. Reg. 327/12, s. 12 (7). Professional Misconduct",
+            "raw_html": "<p class=\"section-e\"> <b>34. </b>(1) Professional members shall maintain the standards of practice prescribed by this section in the performance of their practice of professional surveying.  R.R.O. 1990, Reg. 1026, s. 34 (1); O. Reg. 218/10, s. 17 (1); O. Reg. 327/12, s. 12 (1).</p> <p class=\"subsection-e\">  (2) The standards of practice of the Association require that,</p> <p class=\"clause-e\">  (a)  every professional surveying office that operates under the authority of a certificate of authorization shall be operated and supervised on a full-time basis by a professional member or professional members of the Association qualified in the professional surveying services offered;</p> <p class=\"clause-e\">  (b)  no professional member shall hold himself or herself out as carrying on the practice of professional surveying from more than one office unless specifically authorized by the Registration Committee;</p> <p class=\"clause-e\">  (c)  no partnership or corporation authorized to practice the profession of surveying shall list a professional member as being in charge of more than one office unless specifically approved by the Registration Committee;</p> <p class=\"clause-e\">  (d)  no professional member shall enter into or continue to practise professional surveying in a partnership unless all of the partners are professional members;</p> <p class=\"clause-e\">  (e)  no professional member shall act as a servant or agent of a person who is not a professional member so as to enable the person to offer professional surveying services to the public;</p> <p class=\"clause-e\">  (f)  every member shall pay within the time specified in the Act, regulations or by-laws of the Association all premiums, levies, deductible amounts under professional liability insurance or any other financial obligations owed to the Association;</p> <p class=\"clause-e\">  (g)  every member shall comply with any written or oral request received from the Association, the Registrar, the presiding officer of any committee of the Association within the time specified in the request and shall supply such information and copies of such material, other than material concerning a member’s health or financial status, as may be requested;</p> <p class=\"clause-e\">  (h)  every professional member shall report to the Registrar any gross or consistent practice or omission of another professional member, of which the member is aware, that may constitute professional misconduct or incompetence;</p> <p class=\"clause-e\">  (i)  every professional member shall keep and make available to his or her client, on request, an itemized and accurate record of the cost of a project;</p> <p class=\"clause-e\">  (j)  no professional member shall pay a commission in respect of a project or offer or agree to divide his or her remuneration with another person in respect of a project unless the other person has participated in completing the project;</p> <p class=\"clause-e\">  (k)  every professional member shall participate in the professional development program described in section 41; and</p> <p class=\"clause-e\">  (l)  every licensed member shall conduct every survey in an impartial manner. R.R.O. 1990, Reg. 1026, s. 34 (2); O. Reg. 76/04, s. 7; O. Reg. 218/10, s. 17 (2, 3); O. Reg. 327/12, s. 12 (2-5).</p> <p class=\"subsection-e\">  (3) A professional member may operate a consultation office if it is maintained for the sole purpose of client communication and if it is open to the public for specified hours only with a professional member in attendance.  O. Reg. 218/10, s. 17 (4).</p> <p class=\"subsection-e\">  (4) A consultation office is not a professional surveying office for the purposes of clause (2) (a) or an office for the purposes of clauses (2) (b) and (c). O. Reg. 218/10, s. 17 (4); O. Reg. 327/12, s. 12 (6).</p> <p class=\"subsection-e\">  (5) A member may advertise a consultation office if the advertisement includes the specified hours during which it is open.  R.R.O. 1990, Reg. 1026, s. 34 (5).</p> <p class=\"subsection-e\">  (6) For the purposes of clause (2) (l), a licensed member fails to conduct a survey in an impartial manner if he or she acts as an advocate for a client or renders an opinion on the location of a boundary or corner by,</p> <p class=\"clause-e\">  (a)  failing to collect and assess all best available documentary and physical evidence with respect to the true location of the boundary or corner; or </p> <p class=\"clause-e\">  (b)  unfairly favouring some documentary or physical evidence with respect to the true location of the boundary or corner over other such evidence. O. Reg. 327/12, s. 12 (7).</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Professional Misconduct</p>"
+        },
+        {
+            "ahref_id": "#35.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 35. “Professional misconduct” means, 1.  Contravention of the Act or the regulations or of any Act or regulations relating to professional surveying in Ontario. 2.  Failure to comply with and maintain the performance standards for the practice of professional surveying. 3.  Failure to comply with the code of ethics or the standards of practice of professional surveying. 4.  Knowingly furthering the application for admission to the Association of a person known by the member to be unqualified by education or character. 5.  Authorizing, permitting, counselling, assisting, aiding, abetting or acquiescing in any act that constitutes professional misconduct. 6.  Signing a survey plan or deliverable that is not prepared or completed by the member or under the member’s supervision. 7.  Failure to assume responsibility for all phases of a project carried out under the member’s supervision. 8.  Failure to engage staff deemed competent by virtue of education, on the job training or both to perform the duties assigned to them. 9.  Knowingly allowing or encouraging non-professional staff to engage in activities that reasonably would be regarded as professional in nature. 10.  Failure by an employed member to act for an employer as a faithful agent or trustee and failure to regard as confidential information, however obtained, about the affairs of the employer’s clients and to continue to so regard it after the termination of the relationship with the employer. 11.  Failure to disclose to a client or employer a conflict of interest. 12.  Charging a fee for professional surveying services not performed or knowingly submitting a false or misleading estimate, account or charge for professional surveying services rendered to a client. 13.  Revoked:  O. Reg. 506/93, s. 2. 14.  Advertising in a manner that is contrary to the regulations. 15.  Making a false or malicious statement or publication that injures the professional reputation, prospects or the practice of professional surveying of another member. 16.  Soliciting or accepting any work when the member knows or has reason to believe that another member is engaged for the same purpose by the same client. 17.  Offering to pay compensation or offering an inducement to secure employment or a contract for service. 18.  Undertaking work that the member is not competent to perform by virtue of his or her training and experience or that is beyond the member’s resources to complete in the time agreed upon with the client. 19.  Failing to co-operate with the Association with respect to a claim made under an insurance policy made under an arrangement described in subsection 32 (2) of the Act. 20.  Allowing a non-member to act as an agent to procure work or to act in a manner that would lead members of the public to believe that such non-member was licensed under the Act. 21.  Conduct relevant to the practice of professional surveying that, having regard to all the circumstances, would reasonably be regarded by members as dishonourable or unprofessional. R.R.O. 1990, Reg. 1026, s. 35; O. Reg. 506/93, s. 2; O. Reg. 327/12, s. 13; O. Reg. 506/21, s. 13. Liability Insurance",
+            "raw_html": "<p class=\"section-e\"> <b>35. </b>“Professional misconduct” means,</p> <p class=\"defparagraph-e\">  1.  Contravention of the Act or the regulations or of any Act or regulations relating to professional surveying in Ontario.</p> <p class=\"defparagraph-e\">  2.  Failure to comply with and maintain the performance standards for the practice of professional surveying.</p> <p class=\"defparagraph-e\">  3.  Failure to comply with the code of ethics or the standards of practice of professional surveying.</p> <p class=\"defparagraph-e\">  4.  Knowingly furthering the application for admission to the Association of a person known by the member to be unqualified by education or character.</p> <p class=\"defparagraph-e\">  5.  Authorizing, permitting, counselling, assisting, aiding, abetting or acquiescing in any act that constitutes professional misconduct.</p> <p class=\"defparagraph-e\">  6.  Signing a survey plan or deliverable that is not prepared or completed by the member or under the member’s supervision.</p> <p class=\"defparagraph-e\">  7.  Failure to assume responsibility for all phases of a project carried out under the member’s supervision.</p> <p class=\"defparagraph-e\">  8.  Failure to engage staff deemed competent by virtue of education, on the job training or both to perform the duties assigned to them.</p> <p class=\"defparagraph-e\">  9.  Knowingly allowing or encouraging non-professional staff to engage in activities that reasonably would be regarded as professional in nature.</p> <p class=\"defparagraph-e\">  10.  Failure by an employed member to act for an employer as a faithful agent or trustee and failure to regard as confidential information, however obtained, about the affairs of the employer’s clients and to continue to so regard it after the termination of the relationship with the employer.</p> <p class=\"defparagraph-e\">  11.  Failure to disclose to a client or employer a conflict of interest.</p> <p class=\"defparagraph-e\">  12.  Charging a fee for professional surveying services not performed or knowingly submitting a false or misleading estimate, account or charge for professional surveying services rendered to a client.</p> <p class=\"defparagraph-e\">  13.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 506/93, s. 2.</p> <p class=\"defparagraph-e\">  14.  Advertising in a manner that is contrary to the regulations.</p> <p class=\"defparagraph-e\">  15.  Making a false or malicious statement or publication that injures the professional reputation, prospects or the practice of professional surveying of another member.</p> <p class=\"defparagraph-e\">  16.  Soliciting or accepting any work when the member knows or has reason to believe that another member is engaged for the same purpose by the same client.</p> <p class=\"defparagraph-e\">  17.  Offering to pay compensation or offering an inducement to secure employment or a contract for service.</p> <p class=\"defparagraph-e\">  18.  Undertaking work that the member is not competent to perform by virtue of his or her training and experience or that is beyond the member’s resources to complete in the time agreed upon with the client.</p> <p class=\"defparagraph-e\">  19.  Failing to co-operate with the Association with respect to a claim made under an insurance policy made under an arrangement described in subsection 32 (2) of the Act.</p> <p class=\"defparagraph-e\">  20.  Allowing a non-member to act as an agent to procure work or to act in a manner that would lead members of the public to believe that such non-member was licensed under the Act.</p> <p class=\"defparagraph-e\">  21.  Conduct relevant to the practice of professional surveying that, having regard to all the circumstances, would reasonably be regarded by members as dishonourable or unprofessional. R.R.O. 1990, Reg. 1026, s. 35; O. Reg. 506/93, s. 2; O. Reg. 327/12, s. 13; O. Reg. 506/21, s. 13.</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Liability Insurance</p>"
+        },
+        {
+            "ahref_id": "#36.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 36. (1) Every professional member who holds a certificate of authorization or practises under the authority of a partnership, or corporation that holds a certificate of authorization shall have insurance coverage for liability for errors, omissions and negligent acts arising out of the performance or non-performance of all services within the practice of professional surveying offered or provided to the public by the member. O. Reg. 218/10, s. 18; O. Reg. 327/12, s. 14. (2) The insurance coverage shall be under a professional liability policy and shall be placed with an insurer licensed under the Insurance Act to undertake insurance in the Province of Ontario.  R.R.O. 1990, Reg. 1026, s. 36 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>36. </b>(1) Every professional member who holds a certificate of authorization or practises under the authority of a partnership, or corporation that holds a certificate of authorization shall have insurance coverage for liability for errors, omissions and negligent acts arising out of the performance or non-performance of all services within the practice of professional surveying offered or provided to the public by the member. O. Reg. 218/10, s. 18; O. Reg. 327/12, s. 14.</p> <p class=\"subsection-e\">  (2) The insurance coverage shall be under a professional liability policy and shall be placed with an insurer licensed under the <i>Insurance Act</i> to undertake insurance in the Province of Ontario.  R.R.O. 1990, Reg. 1026, s. 36 (2).</p>"
+        },
+        {
+            "ahref_id": "#37.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 37. (1) The Association shall hold a master professional liability insurance policy with individual certificates issued to each member or holder of a certificate of authorization applying for one.  R.R.O. 1990, Reg. 1026, s. 37 (1). (2) The policy limit for each individual certificate under the master policy shall be not less than $500,000 for each single occurrence and not less than $1,000,000 a year for all occurrences.  R.R.O. 1990, Reg. 1026, s. 37 (2). (3) Every member and every holder of a certificate of authorization issued an individual certificate under the master policy shall inform the Registrar immediately upon notice of a claim or an impending claim under it.  R.R.O. 1990, Reg. 1026, s. 37 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>37. </b>(1) The Association shall hold a master professional liability insurance policy with individual certificates issued to each member or holder of a certificate of authorization applying for one.  R.R.O. 1990, Reg. 1026, s. 37 (1).</p> <p class=\"subsection-e\">  (2) The policy limit for each individual certificate under the master policy shall be not less than $500,000 for each single occurrence and not less than $1,000,000 a year for all occurrences.  R.R.O. 1990, Reg. 1026, s. 37 (2).</p> <p class=\"subsection-e\">  (3) Every member and every holder of a certificate of authorization issued an individual certificate under the master policy shall inform the Registrar immediately upon notice of a claim or an impending claim under it.  R.R.O. 1990, Reg. 1026, s. 37 (3).</p>"
+        },
+        {
+            "ahref_id": "#38.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 38. (1) Every professional member, partnership, or corporation required to be insured under subsection 36 (1) that does not have an individual certificate under the master policy shall furnish the Registrar with a copy of his, her or its professional liability insurance policy and notice of any change in such a policy.  R.R.O. 1990, Reg. 1026, s. 38 (1); O. Reg. 509/99, s. 9 (1); O. Reg. 218/10, s. 19. (2) A policy under subsection (1) shall provide at least the minimum coverage required under subsection 37 (2) and shall contain a clause that the Association shall be given ten days notice before the policy is cancelled.  R.R.O. 1990, Reg. 1026, s. 38 (2); O. Reg. 509/99, s. 9 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>38. </b>(1) Every professional member, partnership, or corporation required to be insured under subsection 36 (1) that does not have an individual certificate under the master policy shall furnish the Registrar with a copy of his, her or its professional liability insurance policy and notice of any change in such a policy.  R.R.O. 1990, Reg. 1026, s. 38 (1); O. Reg. 509/99, s. 9 (1); O. Reg. 218/10, s. 19.</p> <p class=\"subsection-e\">  (2) A policy under subsection (1) shall provide at least the minimum coverage required under subsection 37 (2) and shall contain a clause that the Association shall be given ten days notice before the policy is cancelled.  R.R.O. 1990, Reg. 1026, s. 38 (2); O. Reg. 509/99, s. 9 (2).</p>"
+        },
+        {
+            "ahref_id": "#39.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 39. Any member who is not a holder of a certificate of authorization and does not offer services to the public under the authority of a certificate of authorization is exempt from the requirement to be insured against professional liability.  R.R.O. 1990, Reg. 1026, s. 39. Inspection Program",
+            "raw_html": "<p class=\"section-e\"> <b>39. </b>Any member who is not a holder of a certificate of authorization and does not offer services to the public under the authority of a certificate of authorization is exempt from the requirement to be insured against professional liability.  R.R.O. 1990, Reg. 1026, s. 39.</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Inspection Program</p>"
+        },
+        {
+            "ahref_id": "#40.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 40. (1) In this section, “firm” means, (a)  any professional member or group of professional members that undertakes professional surveying, or (b)  a government department or agency, that undertakes cadastral surveying, whether or not it is a service offered to the public. O. Reg. 218/10, s. 20 (1); O. Reg. 327/12, s. 15. (2) The Council shall appoint one or more members of the Association from time to time who are authorized to carry out inspections under this section.  R.R.O. 1990, Reg. 1026, s. 40 (2). (3) The Registrar shall maintain a file for each firm in accordance with the policies of the Council and shall keep in that file all inspection reports of that firm conducted under this section.  R.R.O. 1990, Reg. 1026, s. 40 (3); O. Reg. 218/10, s. 20 (2). (4) At least once each year, the member or members appointed by the Council shall inspect at least one survey plan or deliverable prepared by each firm.  R.R.O. 1990, Reg. 1026, s. 40 (4); O. Reg. 218/10, s. 20 (3); O. Reg. 506/21, s. 14. (5) At least once every five years, the member or members appointed by the Council shall conduct a comprehensive inspection of the practice of each firm.  R.R.O. 1990, Reg. 1026, s. 40 (5). (6) A comprehensive inspection may include visiting the office of the firm, inspecting the files of the firm and conducting field inspections of work performed by the firm.  R.R.O. 1990, Reg. 1026, s. 40 (6). (7) The member or members appointed by the Council shall prepare a written report of each inspection conducted under this section.  R.R.O. 1990, Reg. 1026, s. 40 (7). (8) The member or members appointed by the Council shall report to the Registrar any instances of non-compliance with the Code of Ethics, the Standards of Practice or any regulations under this or any other Act governing surveying standards and the Registrar shall report the instances to the Complaints Committee.  R.R.O. 1990, Reg. 1026, s. 40 (8); O. Reg. 218/10, s. 20 (4). Professional Development Program",
+            "raw_html": "<p class=\"section-e\"> <b>40. </b>(1) In this section,</p> <p class=\"firstdef-e\">“firm” means,</p> <p class=\"defclause-e\">  (a)  any professional member or group of professional members that undertakes professional surveying, or</p> <p class=\"defclause-e\">  (b)  a government department or agency, that undertakes cadastral surveying, whether or not it is a service offered to the public. O. Reg. 218/10, s. 20 (1); O. Reg. 327/12, s. 15.</p> <p class=\"subsection-e\">  (2) The Council shall appoint one or more members of the Association from time to time who are authorized to carry out inspections under this section.  R.R.O. 1990, Reg. 1026, s. 40 (2).</p> <p class=\"subsection-e\">  (3) The Registrar shall maintain a file for each firm in accordance with the policies of the Council and shall keep in that file all inspection reports of that firm conducted under this section.  R.R.O. 1990, Reg. 1026, s. 40 (3); O. Reg. 218/10, s. 20 (2).</p> <p class=\"subsection-e\">  (4) At least once each year, the member or members appointed by the Council shall inspect at least one survey plan or deliverable prepared by each firm.  R.R.O. 1990, Reg. 1026, s. 40 (4); O. Reg. 218/10, s. 20 (3); O. Reg. 506/21, s. 14.</p> <p class=\"subsection-e\">  (5) At least once every five years, the member or members appointed by the Council shall conduct a comprehensive inspection of the practice of each firm.  R.R.O. 1990, Reg. 1026, s. 40 (5).</p> <p class=\"subsection-e\">  (6) A comprehensive inspection may include visiting the office of the firm, inspecting the files of the firm and conducting field inspections of work performed by the firm.  R.R.O. 1990, Reg. 1026, s. 40 (6).</p> <p class=\"subsection-e\">  (7) The member or members appointed by the Council shall prepare a written report of each inspection conducted under this section.  R.R.O. 1990, Reg. 1026, s. 40 (7).</p> <p class=\"subsection-e\">  (8) The member or members appointed by the Council shall report to the Registrar any instances of non-compliance with the Code of Ethics, the Standards of Practice or any regulations under this or any other Act governing surveying standards and the Registrar shall report the instances to the Complaints Committee.  R.R.O. 1990, Reg. 1026, s. 40 (8); O. Reg. 218/10, s. 20 (4).</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>Professional Development Program</p>"
+        },
+        {
+            "ahref_id": "#41.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 41. (1) The Council shall establish a professional development program for the professional members of the Association in accordance with this section. O. Reg. 327/12, s. 16. (2) The requirements of the professional development program shall be published by the Council, posted on the Association’s website and distributed to the professional members by mail or electronic means. O. Reg. 327/12, s. 16; O. Reg. 506/21, s. 15 (1). (3) If the Council changes any of the requirements of the professional development program published under subsection (2), the Council shall, immediately after the changes are made, publish the changes, post them on the Association’s website and give notice of the changes to the professional members by mail or electronic means. O. Reg. 327/12, s. 16; O. Reg. 506/21, s. 15 (1). (4) Despite subsection (2), it shall be a requirement of the professional development program that, every three years, a professional member shall, (a)  complete at least 36 hours of continuing education courses relating to the practice of professional surveying that are offered by the Association or approved by the Council or a committee to which the Council has delegated this approval; (b)  participate in at least 66 hours of professional activities that support the profession of professional surveying, that are approved by the Council or a committee to which the Council has delegated this approval and that may include, (i)  attendance at Association meetings or meetings of Association committees or other professional organizations, (ii)  participation in Association committees or other related professional organizations, (iii)  publication of works relating to the profession or presentations of papers relating to the profession, and (iv)  independent learning and self-study activities; and (c)  satisfy such other requirements as may be required by the Council and published in accordance with subsection (2). O. Reg. 327/12, s. 16; O. Reg. 506/21, s. 15 (2, 3). (5) The three-year period referred to in subsection (4) shall begin, (a)  for a person who is a professional member on December 31, 2012, on January 1, 2013, and every three years thereafter subject to subsection (7); and (b)  for a person who becomes a professional member after December 31, 2012, on January 1 of the year following the year in which he or she became a professional member, and every three years thereafter subject to subsection (7). O. Reg. 327/12, s. 16. (6) A professional member is not required to participate in the professional development program during a year in which he or she becomes ill or physically disabled or during which such other extenuating circumstances exist, if the Registrar determines that the illness, disability or circumstances are such that the member should be exempt from the professional development requirements. O. Reg. 327/12, s. 16. (7) If the Registrar determines that a professional member is not required to participate in the professional development program during one or more years, the three-year period determined under subsection (5) shall be adjusted accordingly. O. Reg. 327/12, s. 16. (8) Every professional member shall participate in the professional development program. O. Reg. 327/12, s. 16.",
+            "raw_html": "<p class=\"section-e\"> <b>41. </b>(1) The Council shall establish a professional development program for the professional members of the Association in accordance with this section. O. Reg. 327/12, s. 16.</p> <p class=\"subsection-e\">  (2) The requirements of the professional development program shall be published by the Council, posted on the Association’s website and distributed to the professional members by mail or electronic means. O. Reg. 327/12, s. 16; O. Reg. 506/21, s. 15 (1).</p> <p class=\"subsection-e\">  (3) If the Council changes any of the requirements of the professional development program published under subsection (2), the Council shall, immediately after the changes are made, publish the changes, post them on the Association’s website and give notice of the changes to the professional members by mail or electronic means. O. Reg. 327/12, s. 16; O. Reg. 506/21, s. 15 (1).</p> <p class=\"subsection-e\">  (4) Despite subsection (2), it shall be a requirement of the professional development program that, every three years, a professional member shall,</p> <p class=\"clause-e\">  (a)  complete at least 36 hours of continuing education courses relating to the practice of professional surveying that are offered by the Association or approved by the Council or a committee to which the Council has delegated this approval;</p> <p class=\"clause-e\">  (b)  participate in at least 66 hours of professional activities that support the profession of professional surveying, that are approved by the Council or a committee to which the Council has delegated this approval and that may include,</p> <p class=\"subclause-e\">  (i)  attendance at Association meetings or meetings of Association committees or other professional organizations,</p> <p class=\"subclause-e\">  (ii)  participation in Association committees or other related professional organizations,</p> <p class=\"subclause-e\">  (iii)  publication of works relating to the profession or presentations of papers relating to the profession, and</p> <p class=\"subclause-e\">  (iv)  independent learning and self-study activities; and</p> <p class=\"clause-e\">  (c)  satisfy such other requirements as may be required by the Council and published in accordance with subsection (2). O. Reg. 327/12, s. 16; O. Reg. 506/21, s. 15 (2, 3).</p> <p class=\"subsection-e\">  (5) The three-year period referred to in subsection (4) shall begin,</p> <p class=\"clause-e\">  (a)  for a person who is a professional member on December 31, 2012, on January 1, 2013, and every three years thereafter subject to subsection (7); and</p> <p class=\"clause-e\">  (b)  for a person who becomes a professional member after December 31, 2012, on January 1 of the year following the year in which he or she became a professional member, and every three years thereafter subject to subsection (7). O. Reg. 327/12, s. 16.</p> <p class=\"subsection-e\">  (6) A professional member is not required to participate in the professional development program during a year in which he or she becomes ill or physically disabled or during which such other extenuating circumstances exist, if the Registrar determines that the illness, disability or circumstances are such that the member should be exempt from the professional development requirements. O. Reg. 327/12, s. 16.</p> <p class=\"subsection-e\">  (7) If the Registrar determines that a professional member is not required to participate in the professional development program during one or more years, the three-year period determined under subsection (5) shall be adjusted accordingly. O. Reg. 327/12, s. 16.</p> <p class=\"subsection-e\">  (8) Every professional member shall participate in the professional development program. O. Reg. 327/12, s. 16.</p>"
+        },
+        {
+            "ahref_id": "#42.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 42. Every professional member shall complete a professional development report or reports as directed by the Association prior to submitting their application for renewal of a licence or certificate of authorization under section 26. O. Reg. 506/21, s. 16.",
+            "raw_html": "<p class=\"section-e\"> <b>42. </b>Every professional member shall complete a professional development report or reports as directed by the Association prior to submitting their application for renewal of a licence or certificate of authorization under section<b> </b>26. O. Reg. 506/21, s. 16.</p>"
+        },
+        {
+            "ahref_id": "#43.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 43. (1) Every professional member shall maintain records of their professional development activities for a period of at least five years. O. Reg. 327/12, s. 16. (2) The Registrar may conduct audits of members’ professional development records to ensure that members are complying with the requirements of the professional development program. O. Reg. 327/12, s. 16.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>43.</b> (1) Every professional member shall maintain records of their professional development activities for a period of at least five years. O. Reg. 327/12, s. 16.</p> <p class=\"subsection-e\">  (2) The Registrar may conduct audits of members’ professional development records to ensure that members are complying with the requirements of the professional development program. O. Reg. 327/12, s. 16.</p> <p class=\"subsection-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/901026\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

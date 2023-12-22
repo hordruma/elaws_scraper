@@ -1,0 +1,519 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 860: WORKPLACE HAZARDOUS MATERIALS INFORMATION SYSTEM (WHMIS)",
+        "reg_name_text": "WORKPLACE HAZARDOUS MATERIALS INFORMATION SYSTEM (WHMIS)",
+        "citation": "R.R.O. 1990, Reg. 860: ",
+        "act_under": "Occupational Health and Safety Act",
+        "url": "https://www.ontario.ca/laws/regulation/900860",
+        "date_scraped": "2023-12-18 23:26:36"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "January 21, 2019",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900860/v6",
+            "valid_from": "December  1, 2018",
+            "valid_to": "January 20, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900860/v5",
+            "valid_from": "November  2, 2018",
+            "valid_to": "November 30, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900860/v4",
+            "valid_from": "April 26, 2018",
+            "valid_to": "November  1, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900860/v3",
+            "valid_from": "July  1, 2016",
+            "valid_to": "April 25, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900860/v2",
+            "valid_from": "June  6, 2016",
+            "valid_to": "June 30, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900860/v1",
+            "valid_from": "January 28, 1993",
+            "valid_to": "June  5, 2016"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Definitions",
+            "Section2": "1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Designation of Hazardous Materials",
+            "Section2": "2",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Assessment of Biological and Chemical Agents",
+            "Section2": "3",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Application",
+            "Section2": "4",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Exemptions From Clauses 37 (1) (a) and (b) of the Act",
+            "Section2": "5",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Worker Education",
+            "Section2": "6-7",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Labels",
+            "Section2": "8-13",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Laboratory Samples",
+            "Section2": "14-16",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Safety Data Sheets",
+            "Section2": "17-18",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Confidential Business Information",
+            "Section2": "19-23",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Disclosure of Information in Medical Emergencies",
+            "Section2": "24",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Disclosure of Source of Toxicological Data",
+            "Section2": "25",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Citation",
+            "Section2": "26",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. (1) In this Regulation, “bulk shipment” means a shipment of a hazardous product that is contained without intermediate containment or intermediate packaging in, (a) a vessel with a water capacity equal to or greater than 450 litres, (b) a freight container, road vehicle, railway vehicle or portable tank, (c) the hold of a ship, or (d) a pipeline; (“expédition en vrac”) “CAS registry number” means the identification number assigned to a chemical by the Chemical Abstracts Service, a division of the American Chemical Society; (“numéro d’enregistrement CAS”) “container” includes a bag, barrel, bottle, box, can, cylinder, drum, storage tank or similar package or receptacle; (“contenant”) “fugitive emission” means a gas, liquid, solid, vapour, fume, mist, fog or dust that meets the following conditions: 1. The gas, liquid, solid, vapour, fume, mist, fog or dust escaped from process equipment, from emission control equipment or from a product. 2. Workers may be readily exposed to the gas, liquid, solid, vapour, fume, mist, fog or dust; (“émission fugitive”) “hazard information” means information on the proper and safe use, storage and handling of a hazardous product and includes information relating to the product’s health and physical hazards; (“renseignements sur les dangers”) “hazardous product” means any product, mixture, material or substance that is classified in accordance with the Hazardous Products Regulations (Canada) in a category or subcategory of a hazard class listed in Schedule 2 to the Hazardous Products Act (Canada); (“produit dangereux”) “Hazardous Products Regulations (Canada)” means the Hazardous Products Regulations, SOR/2015-17, made under the Hazardous Products Act (Canada); (“Règlement sur les produits dangereux (Canada)”) “hazardous waste” means a hazardous product that is acquired or generated for recycling or recovery or is intended for disposal; (“résidu dangereux”) “label” means a group of written, printed or graphic information elements that relate to a hazardous product, which is designed to be affixed to, printed on or attached to the hazardous product or the container in which the hazardous product is packaged; (“étiquette”) “laboratory sample” means a sample of a hazardous product that is packaged in a container that contains less than 10 kg of hazardous product and that is intended solely to be tested in a laboratory but does not include a sample that is to be used, (a) by the laboratory for testing other products, mixtures, materials or substances, or (b) for educational or demonstration purposes; (“échantillon pour laboratoire”) “manufactured article” means an article that is formed to a specific shape or design during manufacture, the intended use of which when in that form is dependent in whole or in part on its shape or design, and that, when being installed, if the intended use of the article requires it to be installed, and under normal conditions of use, will not release or otherwise cause an individual to be exposed to a hazardous product; (“article manufacturé”) “medical professional” means a person who, under the laws of the province in which the person is practising, (a) is a legally-qualified medical practitioner, or (b) is registered as a registered nurse; (“membre d’une profession médicale”) “product identifier” means, in respect of a hazardous product, the brand name, chemical name, common name, generic name or trade name; (“identificateur du produit”) “research and development” means systematic investigation or search carried out in a field of science or technology by means of experiment or analysis, other than investigation or search in respect of market research, sales promotion, quality control or routine testing of hazardous products, and includes, (a) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, and (b) development, namely, use of the results of applied research for the purpose of creating new, or improving existing, processes or hazardous products; (“recherche et développement”) “safety data sheet” means, (a) a supplier safety data sheet, or (b) a safety data sheet prepared by an employer under subsection 18 (1) or (1.1) of this Regulation; (“fiche de données de sécurité”) “significant new data” means new data regarding the hazard presented by a hazardous product that change its classification, in accordance with the Hazardous Products Regulations (Canada), in a category or subcategory of a hazard class listed in Schedule 2 to the Hazardous Products Act\r\n(Canada), or results in its classification in another hazard class, or change the ways to protect against the hazard presented by the hazardous product; (“nouvelles données importantes”) “supplier label” means, in respect of a hazardous product, a label provided by a supplier that contains the information required by the Hazardous Products Regulations\r\n(Canada) for that hazardous product; (“étiquette du fournisseur”) “supplier safety data sheet” means, in respect of a hazardous product, a safety data sheet provided by a supplier that complies with the requirements of the Hazardous Products Regulations (Canada) for a safety data sheet; (“fiche de données de sécurité du fournisseur”) “workplace label” means, in respect of a hazardous product, a label that discloses, (a) a product identifier identical to that found on the safety data sheet for the hazardous product, (b) information for the safe handling of the hazardous product, and (c) that a safety data sheet, if supplied or produced, is available. (“étiquette du lieu de travail”) R.R.O. 1990, Reg. 860, s. 1 (1); O. Reg. 168/16, s. 2 (1-3), 3; O. Reg. 458/18, s. 1. (2) In this Regulation, “produces” in relation to the production of a hazardous product does not include the production of a fugitive emission or of intermediate products undergoing reaction within a reaction vessel or process vessel. R.R.O. 1990, Reg. 860, s. 1 (2); O. Reg. 168/16, s. 2 (1). Designation of Hazardous Materials",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) In this Regulation,</p> <p class=\"definition-e\">“bulk shipment” means a shipment of a hazardous product that is contained without intermediate containment or intermediate packaging in,</p> <p class=\"defclause-e\">  (a) a vessel with a water capacity equal to or greater than 450 litres,</p> <p class=\"defclause-e\">  (b) a freight container, road vehicle, railway vehicle or portable tank,</p> <p class=\"defclause-e\">  (c) the hold of a ship, or</p> <p class=\"defclause-e\">  (d) a pipeline; (“expédition en vrac”)</p> <p class=\"definition-e\">“CAS registry number” means the identification number assigned to a chemical by the Chemical Abstracts Service, a division of the American Chemical Society; (“numéro d’enregistrement CAS”)</p> <p class=\"definition-e\">“container” includes a bag, barrel, bottle, box, can, cylinder, drum, storage tank or similar package or receptacle; (“contenant”)</p> <p class=\"definition-e\">“fugitive emission” means a gas, liquid, solid, vapour, fume, mist, fog or dust that meets the following conditions:</p> <p class=\"defparagraph-e\">  1. The gas, liquid, solid, vapour, fume, mist, fog or dust escaped from process equipment, from emission control equipment or from a product.</p> <p class=\"defparagraph-e\">  2. Workers may be readily exposed to the gas, liquid, solid, vapour, fume, mist, fog or dust; (“émission fugitive”)</p> <p class=\"definition-e\">“hazard information” means information on the proper and safe use, storage and handling of a hazardous product and includes information relating to the product’s health and physical hazards; (“renseignements sur les dangers”)</p> <p class=\"definition-e\">“hazardous product” means any product, mixture, material or substance that is classified in accordance with the <i>Hazardous Products Regulations</i> (Canada) in a category or subcategory of a hazard class listed in Schedule 2 to the <i>Hazardous Products Act</i> (Canada); (“produit dangereux”)</p> <p class=\"definition-e\">“<i>Hazardous Products Regulations</i> (Canada)” means the <i>Hazardous Products Regulations</i>, SOR/2015-17, made under the <i>Hazardous Products Act</i> (Canada); (“<i>Règlement sur les produits dangereux</i> (Canada)”)</p> <p class=\"definition-e\">“hazardous waste” means a hazardous product that is acquired or generated for recycling or recovery or is intended for disposal; (“résidu dangereux”)</p> <p class=\"definition-e\">“label” means a group of written, printed or graphic information elements that relate to a hazardous product, which is designed to be affixed to, printed on or attached to the hazardous product or the container in which the hazardous product is packaged; (“étiquette”)</p> <p class=\"definition-e\">“laboratory sample” means a sample of a hazardous product that is packaged in a container that contains less than 10 kg of hazardous product and that is intended solely to be tested in a laboratory but does not include a sample that is to be used,</p> <p class=\"defclause-e\">  (a) by the laboratory for testing other products, mixtures, materials or substances, or</p> <p class=\"defclause-e\">  (b) for educational or demonstration purposes; (“échantillon pour laboratoire”)</p> <p class=\"definition-e\">“manufactured article” means an article that is formed to a specific shape or design during manufacture, the intended use of which when in that form is dependent in whole or in part on its shape or design, and that, when being installed, if the intended use of the article requires it to be installed, and under normal conditions of use, will not release or otherwise cause an individual to be exposed to a hazardous product; (“article manufacturé”)</p> <p class=\"definition-e\">“medical professional” means a person who, under the laws of the province in which the person is practising,</p> <p class=\"defclause-e\">  (a) is a legally-qualified medical practitioner, or</p> <p class=\"defclause-e\">  (b) is registered as a registered nurse; (“membre d’une profession médicale”)</p> <p class=\"definition-e\">“product identifier” means, in respect of a hazardous product, the brand name, chemical name, common name, generic name or trade name; (“identificateur du produit”)</p> <p class=\"definition-e\">“research and development” means systematic investigation or search carried out in a field of science or technology by means of experiment or analysis, other than investigation or search in respect of market research, sales promotion, quality control or routine testing of hazardous products, and includes,</p> <p class=\"defclause-e\">  (a) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, and</p> <p class=\"defclause-e\">  (b) development, namely, use of the results of applied research for the purpose of creating new, or improving existing, processes or hazardous products; (“recherche et développement”)</p> <p class=\"definition-e\">“safety data sheet” means,</p> <p class=\"defclause-e\">  (a) a supplier safety data sheet, or</p> <p class=\"defclause-e\">  (b) a safety data sheet prepared by an employer under subsection 18 (1) or (1.1) of this Regulation; (“fiche de données de sécurité”)</p> <p class=\"definition-e\">“significant new data” means new data regarding the hazard presented by a hazardous product that change its classification, in accordance with the <i>Hazardous Products Regulations</i><i> </i>(Canada), in a category or subcategory of a hazard class listed in Schedule 2 to the <i>Hazardous Products Act</i>\r\n(Canada), or results in its classification in another hazard class, or change the ways to protect against the hazard presented by the hazardous product; (“nouvelles données importantes”)</p> <p class=\"definition-e\">“supplier label” means, in respect of a hazardous product, a label provided by a supplier that contains the information required by the <i>Hazardous Products Regulations</i>\r\n(Canada) for that hazardous product; (“étiquette du fournisseur”)</p> <p class=\"definition-e\">“supplier safety data sheet” means, in respect of a hazardous product, a safety data sheet provided by a supplier that complies with the requirements of the <i>Hazardous Products Regulations</i> (Canada) for a safety data sheet; (“fiche de données de sécurité du fournisseur”)</p> <p class=\"definition-e\">“workplace label” means, in respect of a hazardous product, a label that discloses,</p> <p class=\"defclause-e\">  (a) a product identifier identical to that found on the safety data sheet for the hazardous product,</p> <p class=\"defclause-e\">  (b) information for the safe handling of the hazardous product, and</p> <p class=\"defclause-e\">  (c) that a safety data sheet, if supplied or produced, is available. (“étiquette du lieu de travail”) R.R.O. 1990, Reg. 860, s. 1 (1); O. Reg. 168/16, s. 2 (1-3), 3; O. Reg. 458/18, s. 1.</p> <p class=\"subsection-e\">  (2) In this Regulation, “produces” in relation to the production of a hazardous product does not include the production of a fugitive emission or of intermediate products undergoing reaction within a reaction vessel or process vessel. R.R.O. 1990, Reg. 860, s. 1 (2); O. Reg. 168/16, s. 2 (1).</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Designation of Hazardous Materials</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. Every hazardous product is designated as a hazardous material. R.R.O. 1990, Reg. 860, s. 2; O. Reg. 168/16, s. 2 (1). Assessment of Biological and Chemical Agents",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>Every hazardous product is designated as a hazardous material. R.R.O. 1990, Reg. 860, s. 2; O. Reg. 168/16, s. 2 (1).</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Assessment of Biological and Chemical Agents</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) An employer shall assess all biological and chemical agents produced in the workplace for use therein to determine if they are hazardous materials. R.R.O. 1990, Reg. 860, s. 3 (1). (2) No employer is required to assess under subsection (1), (a) wood or a product made of wood; (b) tobacco or a tobacco product within the meaning of section 2 of the Tobacco Act\r\n(Canada); or (c) a manufactured article. R.R.O. 1990, Reg. 860, s. 3 (2); O. Reg. 168/16, s. 4 (1, 2). (3) An assessment under subsection (1) shall be performed in accordance with Parts 7 and 8 of the Hazardous Products Regulations (Canada). R.R.O. 1990, Reg. 860, s. 3 (3); O. Reg. 168/16, s. 2 (2), 4 (3). Application",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) An employer shall assess all biological and chemical agents produced in the workplace for use therein to determine if they are hazardous materials. R.R.O. 1990, Reg. 860, s. 3 (1).</p> <p class=\"subsection-e\">  (2) No employer is required to assess under subsection (1),</p> <p class=\"clause-e\">  (a) wood or a product made of wood;</p> <p class=\"clause-e\">  (b) tobacco or a tobacco product within the meaning of section 2 of the <i>Tobacco Act</i>\r\n(Canada); or</p> <p class=\"clause-e\">  (c) a manufactured article. R.R.O. 1990, Reg. 860, s. 3 (2); O. Reg. 168/16, s. 4 (1, 2).</p> <p class=\"subsection-e\">  (3) An assessment under subsection (1) shall be performed in accordance with Parts 7 and 8 of the <i>Hazardous Products Regulations</i> (Canada). R.R.O. 1990, Reg. 860, s. 3 (3); O. Reg. 168/16, s. 2 (2), 4 (3).</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Application</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. (1) Sections 5 to 25 apply to employers and workers in respect of hazardous products used, stored and handled at a workplace. R.R.O. 1990, Reg. 860, s. 4 (1); O. Reg. 168/16, s. 2 (2). (2) Section 8 (supplier labels), section 14 (laboratory samples) and sections 17 and 18 (safety data sheets) do not apply with respect to, (a) an explosive within the meaning of section 2 of the Explosives Act (Canada); (b) a cosmetic, device, drug or food within the meaning of section 2 of the Food and Drugs Act\r\n(Canada); (c) a pest control product within the meaning of subsection 2 (1) of the Pest Control Products Act (Canada); (d) a nuclear substance that is radioactive and that is within the meaning of a nuclear substance under section 2 of the Nuclear Safety and Control Act (Canada); or (e) a consumer product within the meaning of section 2 of the Canada Consumer Product Safety Act (Canada). O. Reg. 168/16, s. 5 (1). (3) Sections 5 to 25 do not apply with respect to a hazardous product that, (a) is wood or a product made of wood; (b) is tobacco or a tobacco product within the meaning of section 2 of the Tobacco Act\r\n(Canada); (c) is a manufactured article; or (d) is being transported or handled in accordance with the requirements of the Dangerous Goods Transportation Act (Ontario) or the Transportation of Dangerous Goods Act, 1992 (Canada). R.R.O. 1990, Reg. 860, s. 4 (3); O. Reg. 168/16, s. 2 (1), 5 (2-4). (4) Sections 5 to 25 do not apply with respect to hazardous waste except to the extent that an employer shall ensure the safe storage and handling of hazardous waste through a combination of identification and worker education. R.R.O. 1990, Reg. 860, s. 4 (4); O. Reg. 168/16, s. 5 (5). Exemptions From Clauses 37 (1) (a) and (b) of the Act",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) Sections 5 to 25 apply to employers and workers in respect of hazardous products used, stored and handled at a workplace. R.R.O. 1990, Reg. 860, s. 4 (1); O. Reg. 168/16, s. 2 (2).</p> <p class=\"subsection-e\">  (2) Section 8 (supplier labels), section 14 (laboratory samples) and sections 17 and 18 (safety data sheets) do not apply with respect to,</p> <p class=\"clause-e\">  (a) an explosive within the meaning of section 2 of the <i>Explosives Act</i> (Canada);</p> <p class=\"clause-e\">  (b) a cosmetic, device, drug or food within the meaning of section 2 of the <i>Food and Drugs Act</i>\r\n(Canada);</p> <p class=\"clause-e\">  (c) a pest control product within the meaning of subsection 2 (1) of the <i>Pest Control Products Act</i> (Canada);</p> <p class=\"clause-e\">  (d) a nuclear substance that is radioactive and that is within the meaning of a nuclear substance under section 2 of the <i>Nuclear Safety and Control Act</i> (Canada); or</p> <p class=\"clause-e\">  (e) a consumer product within the meaning of section 2 of the <i>Canada Consumer Product Safety Act</i> (Canada). O. Reg. 168/16, s. 5 (1).</p> <p class=\"subsection-e\">  (3) Sections 5 to 25 do not apply with respect to a hazardous product that,</p> <p class=\"clause-e\">  (a) is wood or a product made of wood;</p> <p class=\"clause-e\">  (b) is tobacco or a tobacco product within the meaning of section 2 of the <i>Tobacco Act</i>\r\n(Canada);</p> <p class=\"clause-e\">  (c) is a manufactured article; or</p> <p class=\"clause-e\">  (d) is being transported or handled in accordance with the requirements of the <i>Dangerous Goods Transportation Act </i>(Ontario) or the <i>Transportation of Dangerous Goods Act, 1992</i> (Canada). R.R.O. 1990, Reg. 860, s. 4 (3); O. Reg. 168/16, s. 2 (1), 5 (2-4).</p> <p class=\"subsection-e\">  (4) Sections 5 to 25 do not apply with respect to hazardous waste except to the extent that an employer shall ensure the safe storage and handling of hazardous waste through a combination of identification and worker education. R.R.O. 1990, Reg. 860, s. 4 (4); O. Reg. 168/16, s. 5 (5).</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Exemptions From Clauses 37 (1) (a) and (b) of the Act</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) An employer may store a hazardous product received from a supplier without having a label on it, without obtaining a safety data sheet for it and without conducting a program of worker education about it while the employer is actively seeking a supplier label and a supplier safety data sheet for it. R.R.O. 1990, Reg. 860, s. 5 (1); O. Reg. 168/16, s. 2 (1, 3). (2) An employer may store an employer-produced hazardous product without applying a label to it or using other identification for it, without a safety data sheet for it and without conducting a program of worker education about it while the employer is actively seeking the information about it that is required to prepare a workplace label and a safety data sheet. R.R.O. 1990, Reg. 860, s. 5 (2); O. Reg. 168/16, s. 2 (1, 3). Worker Education",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) An employer may store a hazardous product received from a supplier without having a label on it, without obtaining a safety data sheet for it and without conducting a program of worker education about it while the employer is actively seeking a supplier label and a supplier safety data sheet for it. R.R.O. 1990, Reg. 860, s. 5 (1); O. Reg. 168/16, s. 2 (1, 3).</p> <p class=\"subsection-e\">  (2) An employer may store an employer-produced hazardous product without applying a label to it or using other identification for it, without a safety data sheet for it and without conducting a program of worker education about it while the employer is actively seeking the information about it that is required to prepare a workplace label and a safety data sheet. R.R.O. 1990, Reg. 860, s. 5 (2); O. Reg. 168/16, s. 2 (1, 3).</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Worker Education</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. (1) An employer shall ensure that a worker who works with or who may be exposed in the course of his or her work to a hazardous product received from a supplier is informed about all hazard information the employer receives from the supplier concerning the hazardous product and all further hazard information of which the employer is or ought to be aware concerning its use, storage and handling. R.R.O. 1990, Reg. 860, s. 6 (1); O. Reg. 168/16, s. 2 (1), 6. (2) An employer who produces a hazardous product in a workplace shall ensure that every worker who works with or who may be exposed in the course of his or her work to the hazardous product is informed about all hazard information of which the employer is or ought to be aware concerning the hazardous product and its use, storage and handling. R.R.O. 1990, Reg. 860, s. 6 (2); O. Reg. 168/16, s. 2 (1), 6.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) An employer shall ensure that a worker who works with or who may be exposed in the course of his or her work to a hazardous product received from a supplier is informed about all hazard information the employer receives from the supplier concerning the hazardous product and all further hazard information of which the employer is or ought to be aware concerning its use, storage and handling. R.R.O. 1990, Reg. 860, s. 6 (1); O. Reg. 168/16, s. 2 (1), 6.</p> <p class=\"subsection-e\">  (2) An employer who produces a hazardous product in a workplace shall ensure that every worker who works with or who may be exposed in the course of his or her work to the hazardous product is informed about all hazard information of which the employer is or ought to be aware concerning the hazardous product and its use, storage and handling. R.R.O. 1990, Reg. 860, s. 6 (2); O. Reg. 168/16, s. 2 (1), 6.</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) An employer shall ensure that every worker who works with or who may be exposed in the course of his or her work to a hazardous product is instructed in, (a) the contents required on labels and the purpose and significance of the information contained on the labels; (b) the contents required on a safety data sheet and the purpose and significance of the information contained on a safety data sheet; (c) procedures for the safe use, storage, handling and disposal of a hazardous product; (d) procedures for the safe use, storage, handling and disposal of a hazardous product when it is contained or transferred in, (i) a pipe, (ii) a piping system including valves, (iii) a process vessel, (iv) a reaction vessel, or (v) a tank car, a tank truck, an ore car, a conveyor belt or a similar conveyance; (e) procedures to be followed when fugitive emissions are present; and (f) procedures to be followed in case of an emergency involving a hazardous product. R.R.O. 1990, Reg. 860, s. 7 (1); O. Reg. 168/16, s. 2 (1, 3), 7; O. Reg. 458/18, s. 2. (2) An employer shall ensure that the program of worker education required by subsection (1) is developed and implemented for the employer’s workplace and is related to any other training, instruction and prevention programs at the workplace. R.R.O. 1990, Reg. 860, s. 7 (2). (3) An employer shall ensure, so far as is reasonably practicable, that the program of worker instruction required by subsection (1) results in the workers being able to use the information to protect their health and safety. R.R.O. 1990, Reg. 860, s. 7 (3). Labels supplier labels",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>(1) An employer shall ensure that every worker who works with or who may be exposed in the course of his or her work to a hazardous product is instructed in,</p> <p class=\"clause-e\">  (a) the contents required on labels and the purpose and significance of the information contained on the labels;</p> <p class=\"clause-e\">  (b) the contents required on a safety data sheet and the purpose and significance of the information contained on a safety data sheet;</p> <p class=\"clause-e\">  (c) procedures for the safe use, storage, handling and disposal of a hazardous product;</p> <p class=\"clause-e\">  (d) procedures for the safe use, storage, handling and disposal of a hazardous product when it is contained or transferred in,</p> <p class=\"subclause-e\">  (i) a pipe,</p> <p class=\"subclause-e\">  (ii) a piping system including valves,</p> <p class=\"subclause-e\">  (iii) a process vessel,</p> <p class=\"subclause-e\">  (iv) a reaction vessel, or</p> <p class=\"subclause-e\">  (v) a tank car, a tank truck, an ore car, a conveyor belt or a similar conveyance;</p> <p class=\"clause-e\">  (e) procedures to be followed when fugitive emissions are present; and</p> <p class=\"clause-e\">  (f) procedures to be followed in case of an emergency involving a hazardous product. R.R.O. 1990, Reg. 860, s. 7 (1); O. Reg. 168/16, s. 2 (1, 3), 7; O. Reg. 458/18, s. 2.</p> <p class=\"subsection-e\">  (2) An employer shall ensure that the program of worker education required by subsection (1) is developed and implemented for the employer’s workplace and is related to any other training, instruction and prevention programs at the workplace. R.R.O. 1990, Reg. 860, s. 7 (2).</p> <p class=\"subsection-e\">  (3) An employer shall ensure, so far as is reasonably practicable, that the program of worker instruction required by subsection (1) results in the workers being able to use the information to protect their health and safety. R.R.O. 1990, Reg. 860, s. 7 (3).</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Labels</p> <p class=\"heading2-e\">supplier labels</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. (1) An employer shall ensure that every hazardous product not in a container, and every container of a hazardous product, received at a workplace from a supplier is labelled with a supplier label. R.R.O. 1990, Reg. 860, s. 8 (1); O. Reg. 168/16, s. 2 (1). (2) No employer shall alter a supplier label on a container in which a hazardous product is received from a supplier while any of the hazardous product remains in the container. R.R.O. 1990, Reg. 860, s. 8 (2); O. Reg. 168/16, s. 2 (1). (3) If a label applied to a hazardous product or a container of a hazardous product becomes illegible or is removed, an employer shall replace the label with either a supplier label or a workplace label. R.R.O. 1990, Reg. 860, s. 8 (3); O. Reg. 168/16, s. 2 (1). (4) Despite subsections (2) and (3), a supplier label may be removed from a container with a capacity of 3 mL or less if the label interferes with the normal use of the hazardous product. O. Reg. 168/16, s. 8. (5) If an employer receives significant new data from a supplier about a hazardous product, the employer shall, as soon as practicable, attach to every relevant supplier label required under this section, new information that reflects the significant new data. O. Reg. 168/16, s. 8. (6) An employer who imports and receives, under the Hazardous Products Regulations (Canada), a hazardous product for use in the employer’s own workplace, without a supplier label or with a supplier label that does not meet all the labelling requirements of the Hazardous Products Regulations (Canada), shall affix to the product a label that meets the Hazardous Products Regulations (Canada) labelling requirements for that hazardous product. O. Reg. 168/16, s. 8. (7) An employer who receives at a workplace an unpackaged hazardous product without a supplier label or a hazardous product transported as a bulk shipment without a supplier label, shall affix to the product a label that meets the Hazardous Products Regulations (Canada) labelling requirements for that hazardous product. O. Reg. 168/16, s. 8. (8) Despite subsection (1), an employer shall replace a WHMIS 1988 supplier label on a hazardous product, or container of a hazardous product, by affixing to the product or container a workplace label or a label that meets the Hazardous Products Regulations (Canada) labelling requirements for that hazardous product if, (a) the hazardous product or container was received at a workplace from a supplier on or before August 31, 2018; (b) the employer is unable to obtain a supplier label; and (c) the WHMIS 1988 supplier label would have complied with whichever of the following is applicable: (i) the provisions of this Regulation relating to supplier labels for that hazardous product as they read immediately before July 1, 2016, (ii) section 13 of this Regulation, as it read immediately before July 1, 2016, (iii) section 14 of this Regulation, as it read immediately before July 1, 2016. O. Reg. 458/18, s. 3; O. Reg. 3/19, s. 1 (1). (9) Despite subsection (8), an employer may replace a WHMIS 1988 supplier label provided by a supplier under section 14 of this Regulation, as it read immediately before July 1, 2016, with a label that includes the information required by section 14 of this Regulation, as it currently reads, if the conditions set out in section 14 are met. O. Reg. 458/18, s. 3. (10) In this section, “WHMIS 1988 supplier label” means, (a) a supplier label as defined by this Regulation, as it read immediately before July 1, 2016, (b) a label provided by a supplier under section 13 of this Regulation, as it read immediately before July 1, 2016, or (c) a label provided by a supplier under section 14 of this Regulation, as it read immediately before July 1, 2016. O. Reg. 3/19, s. 1 (2). (11) Revoked: O. Reg. 3/19, s. 1 (2). workplace labels for employer-produced products",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>(1) An employer shall ensure that every hazardous product not in a container, and every container of a hazardous product, received at a workplace from a supplier is labelled with a supplier label. R.R.O. 1990, Reg. 860, s. 8 (1); O. Reg. 168/16, s. 2 (1).</p> <p class=\"subsection-e\">  (2) No employer shall alter a supplier label on a container in which a hazardous product is received from a supplier while any of the hazardous product remains in the container. R.R.O. 1990, Reg. 860, s. 8 (2); O. Reg. 168/16, s. 2 (1).</p> <p class=\"subsection-e\">  (3) If a label applied to a hazardous product or a container of a hazardous product becomes illegible or is removed, an employer shall replace the label with either a supplier label or a workplace label. R.R.O. 1990, Reg. 860, s. 8 (3); O. Reg. 168/16, s. 2 (1).</p> <p class=\"subsection-e\">  (4) Despite subsections (2) and (3), a supplier label may be removed from a container with a capacity of 3 mL or less if the label interferes with the normal use of the hazardous product. O. Reg. 168/16, s. 8.</p> <p class=\"subsection-e\">  (5) If an employer receives significant new data from a supplier about a hazardous product, the employer shall, as soon as practicable, attach to every relevant supplier label required under this section, new information that reflects the significant new data. O. Reg. 168/16, s. 8.</p> <p class=\"subsection-e\">  (6) An employer who imports and receives, under the <i>Hazardous Products Regulations</i> (Canada), a hazardous product for use in the employer’s own workplace, without a supplier label or with a supplier label that does not meet all the labelling requirements of the <i>Hazardous Products Regulations</i> (Canada), shall affix to the product a label that meets the <i>Hazardous Products Regulations</i> (Canada) labelling requirements for that hazardous product. O. Reg. 168/16, s. 8.</p> <p class=\"subsection-e\">  (7) An employer who receives at a workplace an unpackaged hazardous product without a supplier label or a hazardous product transported as a bulk shipment without a supplier label, shall affix to the product a label that meets the <i>Hazardous Products Regulations</i> (Canada) labelling requirements for that hazardous product. O. Reg. 168/16, s. 8.</p> <p class=\"subsection-e\">  (8) Despite subsection (1), an employer shall replace a WHMIS 1988 supplier label on a hazardous product, or container of a hazardous product, by affixing to the product or container a workplace label or a label that meets the <i>Hazardous Products Regulations</i> (Canada) labelling requirements for that hazardous product if,</p> <p class=\"clause-e\">  (a) the hazardous product or container was received at a workplace from a supplier on or before August 31, 2018;</p> <p class=\"clause-e\">  (b) the employer is unable to obtain a supplier label; and</p> <p class=\"clause-e\">  (c) the WHMIS 1988 supplier label would have complied with whichever of the following is applicable:</p> <p class=\"subclause-e\">  (i) the provisions of this Regulation relating to supplier labels for that hazardous product as they read immediately before July 1, 2016,</p> <p class=\"subclause-e\">  (ii) section 13 of this Regulation, as it read immediately before July 1, 2016,</p> <p class=\"subclause-e\">  (iii) section 14 of this Regulation, as it read immediately before July 1, 2016. O. Reg. 458/18, s. 3; O. Reg. 3/19, s. 1 (1).</p> <p class=\"subsection-e\">  (9) Despite subsection (8), an employer may replace a WHMIS 1988 supplier label provided by a supplier under section 14 of this Regulation, as it read immediately before July 1, 2016, with a label that includes the information required by section 14 of this Regulation, as it currently reads, if the conditions set out in section 14 are met. O. Reg. 458/18, s. 3.</p> <p class=\"subsection-e\">  (10) In this section,</p> <p class=\"definition-e\">“WHMIS 1988 supplier label” means,</p> <p class=\"defclause-e\">  (a) a supplier label as defined by this Regulation, as it read immediately before July 1, 2016,</p> <p class=\"defclause-e\">  (b) a label provided by a supplier under section 13 of this Regulation, as it read immediately before July 1, 2016, or</p> <p class=\"defclause-e\">  (c) a label provided by a supplier under section 14 of this Regulation, as it read immediately before July 1, 2016. O. Reg. 3/19, s. 1 (2).</p> <p class=\"subsection-e\">  (11) <span>Revoked</span>: O. Reg. 3/19, s. 1 (2).</p> <p class=\"heading2-e\">workplace labels for employer-produced products</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) An employer who produces a hazardous product in a workplace shall ensure that the hazardous product or the container of the hazardous product has a workplace label. R.R.O. 1990, Reg. 860, s. 9 (1); O. Reg. 168/16, s. 2 (1). (2) Subsection (1) does not apply when the hazardous product is in a container that is intended to contain it for sale or disposition and the container is, or is about to be, appropriately labelled. R.R.O. 1990, Reg. 860, s. 9 (2); O. Reg. 168/16, s. 2 (1). (3) An employer shall update a workplace label referred to in subsection (1) as soon as practicable after significant new data about the product becomes available to the employer. O. Reg. 168/16, s. 9. workplace labels for decanted products",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) An employer who produces a hazardous product in a workplace shall ensure that the hazardous product or the container of the hazardous product has a workplace label. R.R.O. 1990, Reg. 860, s. 9 (1); O. Reg. 168/16, s. 2 (1).</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply when the hazardous product is in a container that is intended to contain it for sale or disposition and the container is, or is about to be, appropriately labelled. R.R.O. 1990, Reg. 860, s. 9 (2); O. Reg. 168/16, s. 2 (1).</p> <p class=\"subsection-e\">  (3) An employer shall update a workplace label referred to in subsection (1) as soon as practicable after significant new data about the product becomes available to the employer. O. Reg. 168/16, s. 9.</p> <p class=\"heading2-e\">workplace labels for decanted products</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. (1) If a hazardous product that an employer receives in a container from a supplier is transferred to another container, the employer shall ensure that the other container has a workplace label. R.R.O. 1990, Reg. 860, s. 10 (1); O. Reg. 168/16, s. 2 (1). (2) No supplier label, workplace label or label affixed under subsection 8 (8) is required on a portable container that is filled directly from a container of a hazardous product with a supplier label, workplace label or label affixed under subsection 8 (8), (a) if, (i) the hazardous product is under the control of and is used exclusively by the worker who filled the portable container, (ii) the hazardous product is used only during the shift in which the portable container was filled, and (iii) the contents of the portable container are clearly identified; or (b) if all of the hazardous product in the portable container is required for immediate use. R.R.O. 1990, Reg. 860, s. 10 (2); O. Reg. 168/16, s. 2 (1); O. Reg. 458/18, s. 4; O. Reg. 3/19, s. 2. identification of a hazardous product in piping systems and vessels",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>(1) If a hazardous product that an employer receives in a container from a supplier is transferred to another container, the employer shall ensure that the other container has a workplace label. R.R.O. 1990, Reg. 860, s. 10 (1); O. Reg. 168/16, s. 2 (1).</p> <p class=\"subsection-e\">  (2) No supplier label, workplace label or label affixed under subsection 8 (8) is required on a portable container that is filled directly from a container of a hazardous product with a supplier label, workplace label or label affixed under subsection 8 (8),</p> <p class=\"clause-e\">  (a) if,</p> <p class=\"subclause-e\">  (i) the hazardous product is under the control of and is used exclusively by the worker who filled the portable container,</p> <p class=\"subclause-e\">  (ii) the hazardous product is used only during the shift in which the portable container was filled, and</p> <p class=\"subclause-e\">  (iii) the contents of the portable container are clearly identified; or</p> <p class=\"clause-e\">  (b) if all of the hazardous product in the portable container is required for immediate use. R.R.O. 1990, Reg. 860, s. 10 (2); O. Reg. 168/16, s. 2 (1); O. Reg. 458/18, s. 4; O. Reg. 3/19, s. 2.</p> <p class=\"heading2-e\">identification of a hazardous product in piping systems and vessels</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. An employer shall ensure the safe use, storage and handling of a hazardous product in a workplace through worker education and the use of colour coding, labels, placards or another mode of identification when the hazardous product is contained or transferred in, (a) a pipe; (b) a piping system including valves; (c) a process vessel; (d) a reaction vessel; or (e) a tank car, a tank truck, an ore car, a conveyor belt or a similar conveyance. R.R.O. 1990, Reg. 860, s. 11; O. Reg. 168/16, s. 2 (1). placard identifiers",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>An employer shall ensure the safe use, storage and handling of a hazardous product in a workplace through worker education and the use of colour coding, labels, placards or another mode of identification when the hazardous product is contained or transferred in,</p> <p class=\"clause-e\">  (a) a pipe;</p> <p class=\"clause-e\">  (b) a piping system including valves;</p> <p class=\"clause-e\">  (c) a process vessel;</p> <p class=\"clause-e\">  (d) a reaction vessel; or</p> <p class=\"clause-e\">  (e) a tank car, a tank truck, an ore car, a conveyor belt or a similar conveyance. R.R.O. 1990, Reg. 860, s. 11; O. Reg. 168/16, s. 2 (1).</p> <p class=\"heading2-e\">placard identifiers</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. No label is required on a hazardous product, (a) if the hazardous product, (i) is not in a container, (ii) is in a container or in a form intended for export, or (iii) is in a container that is intended to contain it for sale or distribution and the container is not about to be appropriately labelled as referred to in subsection 9 (2) but is to be appropriately labelled within the normal course of the employer’s business and without undue delay; and (b) if the employer posts a placard that discloses the information required on a workplace label for the hazardous product and is of such size and in such a location that the information is conspicuous and clearly legible to workers. R.R.O. 1990, Reg. 860, s. 12; O. Reg. 168/16, s. 2 (1).",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>No label is required on a hazardous product,</p> <p class=\"clause-e\">  (a) if the hazardous product,</p> <p class=\"subclause-e\">  (i) is not in a container,</p> <p class=\"subclause-e\">  (ii) is in a container or in a form intended for export, or</p> <p class=\"subclause-e\">  (iii) is in a container that is intended to contain it for sale or distribution and the container is not about to be appropriately labelled as referred to in subsection 9 (2) but is to be appropriately labelled within the normal course of the employer’s business and without undue delay; and</p> <p class=\"clause-e\">  (b) if the employer posts a placard that discloses the information required on a workplace label for the hazardous product and is of such size and in such a location that the information is conspicuous and clearly legible to workers. R.R.O. 1990, Reg. 860, s. 12; O. Reg. 168/16, s. 2 (1).</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. (1) An employer shall replace a WHMIS 1988 workplace label on a hazardous product, or container of a hazardous product, by affixing to the product or container a workplace label if, (a) the WHMIS 1988 workplace label was affixed to the product or container on or before November 30, 2018; (b) the WHMIS 1988 workplace label would have complied with the provisions of this Regulation relating to workplace labels for that hazardous product as they read immediately before July 1, 2016; and (c) this Regulation requires that a workplace label be affixed to the product or container. O. Reg. 458/18, s. 5. (2) In this section, “WHMIS 1988 workplace label” means a workplace label as defined by this Regulation, as it read immediately before July 1, 2016. O. Reg. 3/19, s. 3. (3) Revoked: O. Reg. 3/19, s. 3. Laboratory Samples",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>(1) An employer shall replace a WHMIS 1988 workplace label on a hazardous product, or container of a hazardous product, by affixing to the product or container a workplace label if,</p> <p class=\"clause-e\">  (a) the WHMIS 1988 workplace label was affixed to the product or container on or before November 30, 2018; </p> <p class=\"clause-e\">  (b) the WHMIS 1988 workplace label would have complied with the provisions of this Regulation relating to workplace labels for that hazardous product as they read immediately before July 1, 2016; and</p> <p class=\"clause-e\">  (c) this Regulation requires that a workplace label be affixed to the product or container. O. Reg. 458/18, s. 5.</p> <p class=\"subsection-e\">  (2) In this section,</p> <p class=\"definition-e\">“WHMIS 1988 workplace label” means a workplace label as defined by this Regulation, as it read immediately before July 1, 2016. O. Reg. 3/19, s. 3.</p> <p class=\"subsection-e\">  (3) <span>Revoked</span>: O. Reg. 3/19, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Laboratory Samples</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. (1) No supplier label is required on a laboratory sample of a hazardous product if, (a) the laboratory sample is exempt from labelling requirements under subsection 5 (5) or (6) of the Hazardous Products Regulations (Canada); and (b) the supplier provides a label that is affixed to a container of the hazardous product and that discloses the information described in subsection (2). O. Reg. 168/16, s. 10. (2) A label referred to in clause (1) (b) shall disclose the following information about the hazardous product: 1. The chemical name or generic chemical name, if known to the supplier, of every material or substance in the hazardous product where, i. individually, the material or substance is classified in accordance with the Hazardous Products Regulations (Canada) in a category or subcategory of a hazard class listed in Schedule 2 to the Hazardous Products Act (Canada) and is present above the relevant concentration limit, and ii. in a mixture, the material or substance is present at a concentration that results in the mixture being classified in a category or subcategory of a hazard class. 2. The statement “Hazardous Laboratory Sample, for hazard information or in an emergency call/Échantillon pour laboratoire de produit dangereux. Pour obtenir des renseignements sur les dangers ou en cas d’urgence, composez insert the number described in paragraph 3”. 3. An emergency telephone number for the purposes of obtaining the information that must be provided on the safety data sheet for the hazardous product. O. Reg. 168/16, s. 10.",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b>(1) No supplier label is required on a laboratory sample of a hazardous product if,</p> <p class=\"clause-e\">  (a) the laboratory sample is exempt from labelling requirements under subsection 5 (5) or (6) of the <i>Hazardous Products Regulations</i> (Canada); and</p> <p class=\"clause-e\">  (b) the supplier provides a label that is affixed to a container of the hazardous product and that discloses the information described in subsection (2). O. Reg. 168/16, s. 10.</p> <p class=\"subsection-e\">  (2) A label referred to in clause (1) (b) shall disclose the following information about the hazardous product:</p> <p class=\"paragraph-e\">  1. The chemical name or generic chemical name, if known to the supplier, of every material or substance in the hazardous product where, </p> <p class=\"subpara-e\">  i. individually, the material or substance is classified in accordance with the <i>Hazardous Products Regulations</i> (Canada) in a category or subcategory of a hazard class listed in Schedule 2 to the <i>Hazardous Products Act</i> (Canada) and is present above the relevant concentration limit, and</p> <p class=\"subpara-e\">  ii. in a mixture, the material or substance is present at a concentration that results in the mixture being classified in a category or subcategory of a hazard class.</p> <p class=\"paragraph-e\">  2. The statement “Hazardous Laboratory Sample, for hazard information or in an emergency call/Échantillon pour laboratoire de produit dangereux. Pour obtenir des renseignements sur les dangers ou en cas d’urgence, composez <i>insert the number described in paragraph 3</i>”.</p> <p class=\"paragraph-e\">  3. An emergency telephone number for the purposes of obtaining the information that must be provided on the safety data sheet for the hazardous product. O. Reg. 168/16, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. (1) If an employer complies with subsection (2), no workplace label is required for a laboratory sample that, (a) is produced in the workplace or is in a container other than the container in which it was received from a supplier; and (b) is clearly identified through a combination of identification visible to workers at the workplace and worker education. O. Reg. 168/16, s. 10. (2) For the purpose of subsection (1), the employer shall ensure that the identification and worker education for the laboratory sample enable the workers to readily identify and obtain either the information required on a safety data sheet, if one has been prepared, or the information described in subsection 14 (2) on a label. O. Reg. 168/16, s. 10.",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>(1) If an employer complies with subsection (2), no workplace label is required for a laboratory sample that,</p> <p class=\"clause-e\">  (a) is produced in the workplace or is in a container other than the container in which it was received from a supplier; and</p> <p class=\"clause-e\">  (b) is clearly identified through a combination of identification visible to workers at the workplace and worker education. O. Reg. 168/16, s. 10.</p> <p class=\"subsection-e\">  (2) For the purpose of subsection (1), the employer shall ensure that the identification and worker education for the laboratory sample enable the workers to readily identify and obtain either the information required on a safety data sheet, if one has been prepared, or the information described in subsection 14 (2) on a label. O. Reg. 168/16, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. (1) If an employer complies with subsection (2), no workplace label is required for a hazardous product that, (a) is produced in a laboratory; (b) is intended by the employer solely for evaluation, analysis or testing for research and development; (c) is not removed from the laboratory; and (d) is clearly identified through a combination of identification visible to workers at the workplace and worker education. R.R.O. 1990, Reg. 860, s. 16 (1); O. Reg. 168/16, s. 2 (1). (2) For the purposes of subsection (1), the employer shall ensure that the identification and worker education for the hazardous product enables workers to readily identify and obtain either the information required on a safety data sheet, if one has been prepared, or such other information as is necessary to ensure the safe use, storage and handling of the hazardous product. R.R.O. 1990, Reg. 860, s. 16 (2); O. Reg. 168/16, s. 2 (1, 3). Safety Data Sheets supplier safety data sheets",
+            "raw_html": "<p class=\"section-e\"> <b>16. </b>(1) If an employer complies with subsection (2), no workplace label is required for a hazardous product that,</p> <p class=\"clause-e\">  (a) is produced in a laboratory;</p> <p class=\"clause-e\">  (b) is intended by the employer solely for evaluation, analysis or testing for research and development;</p> <p class=\"clause-e\">  (c) is not removed from the laboratory; and</p> <p class=\"clause-e\">  (d) is clearly identified through a combination of identification visible to workers at the workplace and worker education. R.R.O. 1990, Reg. 860, s. 16 (1); O. Reg. 168/16, s. 2 (1).</p> <p class=\"subsection-e\">  (2) For the purposes of subsection (1), the employer shall ensure that the identification and worker education for the hazardous product enables workers to readily identify and obtain either the information required on a safety data sheet, if one has been prepared, or such other information as is necessary to ensure the safe use, storage and handling of the hazardous product. R.R.O. 1990, Reg. 860, s. 16 (2); O. Reg. 168/16, s. 2 (1, 3).</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Safety Data Sheets</p> <p class=\"heading2-e\">supplier safety data sheets</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. (1) An employer who receives a hazardous product from a supplier for use, storage or handling at a workplace shall obtain a supplier safety data sheet for the hazardous product from the supplier unless the supplier is exempted under the Hazardous Products Regulations (Canada) from providing a safety data sheet for the hazardous product. O. Reg. 168/16, s. 11. (2) An employer shall update a supplier safety data sheet obtained under subsection (1) as soon as practicable after significant new data about the product is provided by the supplier or otherwise becomes available to the employer. O. Reg. 168/16, s. 11. (3) An employer may provide a safety data sheet in a different format from that of the supplier safety data sheet for the hazardous product or containing additional hazard information if, (a) the safety data sheet provided by the employer, subject to subsection 40 (6) of the Act, contains no less content than the supplier safety data sheet; and (b) the supplier safety data sheet is available at the workplace and the employer-provided safety data sheet indicates that fact. O. Reg. 168/16, s. 11. employer safety data sheets",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b>(1) An employer who receives a hazardous product from a supplier for use, storage or handling at a workplace shall obtain a supplier safety data sheet for the hazardous product from the supplier unless the supplier is exempted under the <i>Hazardous Products Regulations</i> (Canada) from providing a safety data sheet for the hazardous product. O. Reg. 168/16, s. 11.</p> <p class=\"subsection-e\">  (2) An employer shall update a supplier safety data sheet obtained under subsection (1) as soon as practicable after significant new data about the product is provided by the supplier or otherwise becomes available to the employer. O. Reg. 168/16, s. 11.</p> <p class=\"subsection-e\">  (3) An employer may provide a safety data sheet in a different format from that of the supplier safety data sheet for the hazardous product or containing additional hazard information if,</p> <p class=\"clause-e\">  (a) the safety data sheet provided by the employer, subject to subsection 40 (6) of the Act, contains no less content than the supplier safety data sheet; and</p> <p class=\"clause-e\">  (b) the supplier safety data sheet is available at the workplace and the employer-provided safety data sheet indicates that fact. O. Reg. 168/16, s. 11.</p> <p class=\"heading2-e\">employer safety data sheets</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. (1) An employer who produces a hazardous product at a workplace shall prepare a safety data sheet for the product that complies with the requirements of the Hazardous Products Regulations (Canada) for a safety data sheet. O. Reg. 168/16, s. 12. (1.1) An employer who affixes a label under subsection 8 (8) or (9) or section 13, and who is unable to obtain a supplier safety data sheet for the hazardous product, shall prepare a safety data sheet for the product that complies with the requirements of the Hazardous Products Regulations (Canada) for a safety data sheet. O. Reg. 458/18, s. 6. (2) No safety data sheet is required for a hazardous product that is a laboratory sample produced by the employer at the workplace. O. Reg. 168/16, s. 12. (3) An employer shall update a safety data sheet referred to in subsection (1) as soon as practicable but not later than 90 days after significant new data about the hazardous product becomes available to the employer. O. Reg. 168/16, s. 12. Confidential Business Information",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>(1) An employer who produces a hazardous product at a workplace shall prepare a safety data sheet for the product that complies with the requirements of the <i>Hazardous Products Regulations</i> (Canada) for a safety data sheet. O. Reg. 168/16, s. 12.</p> <p class=\"subsection-e\">  (1.1) An employer who affixes a label under subsection 8 (8) or (9) or section 13, and who is unable to obtain a supplier safety data sheet for the hazardous product, shall prepare a safety data sheet for the product that complies with the requirements of the <i>Hazardous Products Regulations</i> (Canada) for a safety data sheet. O. Reg. 458/18, s. 6.</p> <p class=\"subsection-e\">  (2) No safety data sheet is required for a hazardous product that is a laboratory sample produced by the employer at the workplace. O. Reg. 168/16, s. 12.</p> <p class=\"subsection-e\">  (3) An employer shall update a safety data sheet referred to in subsection (1) as soon as practicable but not later than 90 days after significant new data about the hazardous product becomes available to the employer. O. Reg. 168/16, s. 12.</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Confidential Business Information</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. (1) A claim under subsection 40 (1) of the Act for exemption from disclosure shall be made only in respect of, (a) in the case of a material or substance that is a hazardous product, (i) the chemical name of the material or substance, (ii) the CAS registry number or any other unique identifier of the material or substance, and (iii) the chemical name of any impurity, stabilizing solvent or stabilizing additive that is present in the material or substance, that is classified in accordance with the Hazardous Products Regulations (Canada) in a category or subcategory of a hazard class listed in Schedule 2 to the Hazardous Products Act (Canada) and that contributes to the classification of the material or substance in the hazard class under that Act; (b) in the case of an ingredient that is in a mixture that is a hazardous product, (i) the chemical name of the ingredient, (ii) the CAS registry number or any other unique identifier of the ingredient, and (iii) the concentration or concentration range of the ingredient; (c) in the case of a material, substance or mixture that is a hazardous product, the name of any toxicological study that identifies the material or substance or any ingredient in the mixture; (d) the product identifier of a hazardous product, being its chemical name, common name, generic name, trade name or brand name; (e) information about a hazardous product, other than the product identifier, that constitutes a means of identification; and (f) information that could be used to identify a supplier of a hazardous product. O. Reg. 168/16, s. 12. (2) If an employer excludes from a label or safety data sheet information in respect of which an exemption is claimed, the label or safety data sheet must contain all information otherwise required by this Regulation. O. Reg. 168/16, s. 12.",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>(1) A claim under subsection 40 (1) of the Act for exemption from disclosure shall be made only in respect of,</p> <p class=\"clause-e\">  (a) in the case of a material or substance that is a hazardous product,</p> <p class=\"subclause-e\">  (i) the chemical name of the material or substance,</p> <p class=\"subclause-e\">  (ii) the CAS registry number or any other unique identifier of the material or substance, and</p> <p class=\"subclause-e\">  (iii) the chemical name of any impurity, stabilizing solvent or stabilizing additive that is present in the material or substance, that is classified in accordance with the <i>Hazardous Products Regulations</i> (Canada) in a category or subcategory of a hazard class listed in Schedule 2 to the <i>Hazardous Products Act </i>(Canada) and that contributes to the classification of the material or substance in the hazard class under that Act;</p> <p class=\"clause-e\">  (b) in the case of an ingredient that is in a mixture that is a hazardous product,</p> <p class=\"subclause-e\">  (i) the chemical name of the ingredient,</p> <p class=\"subclause-e\">  (ii) the CAS registry number or any other unique identifier of the ingredient, and</p> <p class=\"subclause-e\">  (iii) the concentration or concentration range of the ingredient;</p> <p class=\"clause-e\">  (c) in the case of a material, substance or mixture that is a hazardous product, the name of any toxicological study that identifies the material or substance or any ingredient in the mixture;</p> <p class=\"clause-e\">  (d) the product identifier of a hazardous product, being its chemical name, common name, generic name, trade name or brand name;</p> <p class=\"clause-e\">  (e) information about a hazardous product, other than the product identifier, that constitutes a means of identification; and</p> <p class=\"clause-e\">  (f) information that could be used to identify a supplier of a hazardous product. O. Reg. 168/16, s. 12.</p> <p class=\"subsection-e\">  (2) If an employer excludes from a label or safety data sheet information in respect of which an exemption is claimed, the label or safety data sheet must contain all information otherwise required by this Regulation. O. Reg. 168/16, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. (1) An employer who files a claim under subsection 40 (1) of the Act for exemption from disclosure in respect of a hazardous product shall state on the safety data sheet and, if applicable, on the label for the hazardous product or container in which the hazardous product is packaged, the date that the claim for exemption was filed and the registry number assigned to the claim under the\r\nHazardous Materials Information Review Act (Canada). O. Reg. 168/16, s. 12. (2) The information described in subsection (1) shall remain on the safety data sheet or label until, (a) 30 days after the final disposition of the proceedings in relation to the claim for exemption; or (b) if an order is issued under the Hazardous Materials Information Review Act (Canada) in respect of the claim, the end of the period specified in the order. O. Reg. 168/16, s. 12.",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>(1) An employer who files a claim under subsection 40 (1) of the Act for exemption from disclosure in respect of a hazardous product shall state on the safety data sheet and, if applicable, on the label for the hazardous product or container in which the hazardous product is packaged, the date that the claim for exemption was filed and the registry number assigned to the claim under the\r\n<i>Hazardous Materials Information Review Act</i> (Canada). O. Reg. 168/16, s. 12.</p> <p class=\"subsection-e\">  (2) The information described in subsection (1) shall remain on the safety data sheet or label until,</p> <p class=\"clause-e\">  (a) 30 days after the final disposition of the proceedings in relation to the claim for exemption; or</p> <p class=\"clause-e\">  (b) if an order is issued under the <i>Hazardous Materials Information Review Act</i> (Canada) in respect of the claim, the end of the period specified in the order. O. Reg. 168/16, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. If an employer files a claim under subsection 40 (1) of the Act for an exemption from disclosure in respect of a hazardous product that is produced in the employer’s workplace and the employer excludes from the safety data sheet information in respect of which the exemption is claimed, the following rules apply with respect to the safety data sheet: 1. If the claim is being made in respect of information set out in clause 19 (1) (a) or subclauses 19 (1) (b) (i) or (ii) of this Regulation, the safety data sheet shall include: i. in the case of a hazardous product that is a material or substance, the generic chemical name of the material or substance, or ii. in the case of a hazardous product that is a mixture, the generic chemical name of each material or substance in the mixture that, A. individually, is classified in accordance with the Hazardous Products Regulations (Canada) in a category or subcategory of a hazard class listed in Schedule 2 to the Hazardous Products Act\r\n(Canada), and is present above the relevant concentration limit, or B. is present at a concentration that results in the mixture being classified in a category or subcategory of a hazard class. 2. If the claim is being made in relation to information set out in clause 19 (1) (d) of this Regulation, the safety data sheet shall include the code name or code number of the hazardous product. O. Reg. 168/16, s. 12.",
+            "raw_html": "<p class=\"section-e\"> <b>21. </b>If an employer files a claim under subsection 40 (1) of the Act for an exemption from disclosure in respect of a hazardous product that is produced in the employer’s workplace and the employer excludes from the safety data sheet information in respect of which the exemption is claimed, the following rules apply with respect to the safety data sheet:</p> <p class=\"paragraph-e\">  1. If the claim is being made in respect of information set out in clause 19 (1) (a) or subclauses 19 (1) (b) (i) or (ii) of this Regulation, the safety data sheet shall include: </p> <p class=\"subpara-e\">  i. in the case of a hazardous product that is a material or substance, the generic chemical name of the material or substance, or</p> <p class=\"subpara-e\">  ii. in the case of a hazardous product that is a mixture, the generic chemical name of each material or substance in the mixture that,</p> <p class=\"subsubpara-e\">  A. individually, is classified in accordance with the <i>Hazardous Products Regulations</i> (Canada) in a category or subcategory of a hazard class listed in Schedule 2 to the <i>Hazardous Products Act</i>\r\n(Canada), and is present above the relevant concentration limit, or</p> <p class=\"subsubpara-e\">  B. is present at a concentration that results in the mixture being classified in a category or subcategory of a hazard class.</p> <p class=\"paragraph-e\">  2. If the claim is being made in relation to information set out in clause 19 (1) (d) of this Regulation, the safety data sheet shall include the code name or code number of the hazardous product. O. Reg. 168/16, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22. Revoked: O. Reg. 168/16, s. 12.",
+            "raw_html": "<p class=\"section-e\"> <b>22. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 168/16, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23. (1) An employer whose claim or a portion of whose claim under subsection 40 (1) of the Act for exemption from disclosure is determined to be valid shall disclose on the safety data sheet and, if applicable, on the label for the hazardous product or container in which the hazardous product is packaged, (a) a statement that an exemption has been granted; (b) the date of the decision granting the exemption; and (c) the registry number assigned to the claim under the Hazardous Materials Information Review Act (Canada). O. Reg. 168/16, s. 13. (2) An employer shall disclose the information required under subsection (1) beginning not more than thirty days after the final disposition of the claim and ending on the last day of the exemption period. R.R.O. 1990, Reg. 860, s. 23 (2). Disclosure of Information in Medical Emergencies",
+            "raw_html": "<p class=\"section-e\"> <b>23. </b>(1) An employer whose claim or a portion of whose claim under subsection 40 (1) of the Act for exemption from disclosure is determined to be valid shall disclose on the safety data sheet and, if applicable, on the label for the hazardous product or container in which the hazardous product is packaged,</p> <p class=\"clause-e\">  (a) a statement that an exemption has been granted;</p> <p class=\"clause-e\">  (b) the date of the decision granting the exemption; and</p> <p class=\"clause-e\">  (c) the registry number assigned to the claim under the <i>Hazardous Materials Information Review Act</i> (Canada). O. Reg. 168/16, s. 13.</p> <p class=\"subsection-e\">  (2) An employer shall disclose the information required under subsection (1) beginning not more than thirty days after the final disposition of the claim and ending on the last day of the exemption period. R.R.O. 1990, Reg. 860, s. 23 (2).</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Disclosure of Information in Medical Emergencies</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 24. For the purposes of clause 25 (2) (b) of the Act, an employer is required to provide information, including confidential business information, to a medical professional. R.R.O. 1990, Reg. 860, s. 24. Disclosure of Source of Toxicological Data",
+            "raw_html": "<p class=\"section-e\"> <b>24. </b>For the purposes of clause 25 (2) (b) of the Act, an employer is required to provide information, including confidential business information, to a medical professional. R.R.O. 1990, Reg. 860, s. 24.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Disclosure of Source of Toxicological Data</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. Subject to subsection 40 (6) of the Act, an employer who produces a hazardous product in a workplace shall disclose as quickly as possible under the circumstances the source of any toxicological data used by the employer to prepare a safety data sheet when the employer is requested to do so by, (a) an inspector; (b) a worker at the workplace; (c) a member of the committee, if any; (d) the health and safety representative, if any; or (e) in the absence of a committee or health and safety representative, a representative of the workers at the workplace. R.R.O. 1990, Reg. 860, s. 25; O. Reg. 168/16, s. 2 (1, 3), 14.",
+            "raw_html": "<p class=\"section-e\"> <b>25. </b>Subject to subsection 40 (6) of the Act, an employer who produces a hazardous product in a workplace shall disclose as quickly as possible under the circumstances the source of any toxicological data used by the employer to prepare a safety data sheet when the employer is requested to do so by,</p> <p class=\"clause-e\">  (a) an inspector;</p> <p class=\"clause-e\">  (b) a worker at the workplace;</p> <p class=\"clause-e\">  (c) a member of the committee, if any;</p> <p class=\"clause-e\">  (d) the health and safety representative, if any; or</p> <p class=\"clause-e\">  (e) in the absence of a committee or health and safety representative, a representative of the workers at the workplace. R.R.O. 1990, Reg. 860, s. 25; O. Reg. 168/16, s. 2 (1, 3), 14.</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25.1 Revoked: O. Reg. 458/18, s. 7. Citation",
+            "raw_html": "<p class=\"section-e\"><a name=\"BK13\"></a> <b>25.1 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 458/18, s. 7.</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Citation</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. This Regulation may be cited as the Workplace Hazardous Materials Information System (WHMIS) Regulation. R.R.O. 1990, Reg. 860, s. 26.",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b>This Regulation may be cited as the <i>Workplace Hazardous Materials Information System (WHMIS) Regulation</i>. R.R.O. 1990, Reg. 860, s. 26.</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/900860\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 277/02: STANDARDS - FINANCIAL STATEMENTS",
+        "reg_name_text": "STANDARDS  FINANCIAL STATEMENTS",
+        "citation": "O. Reg. 277/02: STANDARDS - FINANCIAL STATEMENTS",
+        "act_under": "Municipal Act, 2001   Loi de 2001 sur les municipalités",
+        "url": "https://www.ontario.ca/laws/regulation/020277",
+        "date_scraped": "2023-12-19 10:13:58"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/020277/v1",
+            "valid_from": "January  1, 2003",
+            "valid_to": "February 11, 2007"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Criteria for preparing statements",
+            "content": "1. A municipality shall, for each fiscal year, prepare annual financial statements for the municipality in accordance with generally accepted accounting principles for local governments as recommended, from time to time, by the Public Sector Accounting Board of the Canadian Institute of Chartered Accountants. O. Reg. 277/02, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>A municipality shall, for each fiscal year, prepare annual financial statements for the municipality in accordance with generally accepted accounting principles for local governments as recommended, from time to time, by the Public Sector Accounting Board of the Canadian Institute of Chartered Accountants. O. Reg. 277/02, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Criteria for preparing statements",
+            "content": "2. Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 277/02, s. 2. ",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 277/02, s. 2.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

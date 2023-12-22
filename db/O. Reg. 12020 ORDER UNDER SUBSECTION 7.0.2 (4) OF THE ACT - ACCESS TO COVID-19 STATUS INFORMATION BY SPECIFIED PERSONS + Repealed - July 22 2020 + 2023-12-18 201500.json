@@ -1,0 +1,46 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 120/20: ORDER UNDER SUBSECTION 7.0.2 (4) OF THE ACT - ACCESS TO COVID-19 STATUS INFORMATION BY SPECIFIED PERSONS",
+        "reg_name_text": "ORDER UNDER SUBSECTION 7.0.2 (4) OF THE ACT - ACCESS TO COVID-19 STATUS INFORMATION BY SPECIFIED PERSONS",
+        "citation": "O. Reg. 120/20: ",
+        "act_under": "Emergency Management and Civil Protection Act",
+        "url": "https://www.ontario.ca/laws/regulation/200120",
+        "date_scraped": "2023-12-18 20:15:01"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/200120/v1",
+            "valid_from": "April  3, 2020",
+            "valid_to": "July 21, 2020"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Interpretation",
+            "content": " 1. In this Order, “COVID-19 status information”, in relation to an individual, means the individual’s name, address and date of birth and whether the individual has had a positive test for the COVID-19 coronavirus; “specified custodians” means, (a)  laboratories licensed under the Laboratory and Specimen Collection Centre Licensing Act; and (b)  medical officers of health within the meaning of subsection 1 (1) of the Health Protection and Promotion Act.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Order,</p> <p class=\"definition-e\">“COVID-19 status information”, in relation to an individual, means the individual’s name, address and date of birth and whether the individual has had a positive test for the COVID-19 coronavirus;</p> <p class=\"definition-e\">“specified custodians” means,</p> <p class=\"defclause-e\">  (a)  laboratories licensed under the <i>Laboratory and Specimen Collection Centre Licensing Act</i>; and</p> <p class=\"defclause-e\">  (b)  medical officers of health within the meaning of subsection 1 (1) of the <i>Health Protection and Promotion Act</i>.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Request for COVID-19 status information",
+            "content": " 2. The following persons are authorized to make a request to a specified custodian for the disclosure of COVID-19 status information in relation to an individual specified in the request: 1.  A police officer as defined in the Police Services Act. 2.  A member of a police force other than a police officer as defined in the Police Services Act. 3.  A First Nations Constable appointed under section 54 of the Police Services Act. 4.  A member of a police service in which policing is delivered by First Nations Constables. 5.  An individual employed as a firefighter as defined in section 1 of the Fire Protection and Prevention Act, 1997. 6.  An individual who is, i.  engaged in providing fire protection services as defined under section 1 of the Fire Protection and Prevention Act, 1997, and ii.  employed in a fire department as defined under section 1 of the Fire Protection and Prevention Act, 1997. 7.  A paramedic as defined in the Ambulance Act. 8.  A communications officer within the meaning of Ontario Regulation 257/00 (General) made under the Ambulance Act.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>The following persons are authorized to make a request to a specified custodian for the disclosure of COVID-19 status information in relation to an individual specified in the request:</p> <p class=\"paragraph-e\">  1.  A police officer as defined in the <i>Police Services Act</i>.</p> <p class=\"paragraph-e\">  2.  A member of a police force other than a police officer as defined in the <i>Police Services Act</i>.</p> <p class=\"paragraph-e\">  3.  A First Nations Constable appointed under section 54 of the <i>Police Services Act</i>.</p> <p class=\"paragraph-e\">  4.  A member of a police service in which policing is delivered by First Nations Constables.</p> <p class=\"paragraph-e\">  5.  An individual employed as a firefighter as defined in section 1 of the <i>Fire Protection and Prevention Act, 1997</i>.</p> <p class=\"paragraph-e\">  6.  An individual who is,</p> <p class=\"subpara-e\">  i.  engaged in providing fire protection services as defined under section 1 of the <i>Fire Protection and Prevention Act, 1997</i>, and</p> <p class=\"subpara-e\">  ii.  employed in a fire department as defined under section 1 of the <i>Fire Protection and Prevention Act, 1997</i>.</p> <p class=\"paragraph-e\">  7.  A paramedic as defined in the <i>Ambulance Act</i>.</p> <p class=\"paragraph-e\">  8.  A communications officer within the meaning of Ontario Regulation 257/00 (General) made under the <i>Ambulance Act</i>.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Disclosure of COVID-19 status information",
+            "content": " 3. (1) On request of a person listed in section 2, a specified custodian shall take all reasonable steps to ensure that any COVID-19 status information that is within the custodian’s custody or control is disclosed in a timely manner to the person making the request, and shall do so, (a)  by disclosing the information directly to the person, or (b)  if the Ministry of Health has developed a system to facilitate access to COVID-19 status information for the purpose of this Order, by disclosing the information to the Ministry so that the Ministry may make it available to the person making the request. (2) Disclosure by a specified custodian to the Ministry of Health for the purpose of clause (1) (b) shall be made in accordance with any requirements specified by the Ministry of Health.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) On request of a person listed in section 2, a specified custodian shall take all reasonable steps to ensure that any COVID-19 status information that is within the custodian’s custody or control is disclosed in a timely manner to the person making the request, and shall do so,</p> <p class=\"clause-e\">  (a)  by disclosing the information directly to the person, or</p> <p class=\"clause-e\">  (b)  if the Ministry of Health has developed a system to facilitate access to COVID-19 status information for the purpose of this Order, by disclosing the information to the Ministry so that the Ministry may make it available to the person making the request.</p> <p class=\"subsection-e\">  (2) Disclosure by a specified custodian to the Ministry of Health for the purpose of clause (1) (b) shall be made in accordance with any requirements specified by the Ministry of Health.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Authority to collect, use and disclose information",
+            "content": " 4. The Ministry of Health may, in accordance with this Order and as may be necessary in order to prevent, respond to or alleviate the effects of the emergency, (a)  collect COVID-19 status information; and (b)  use and disclose the COVID-19 status information by making it available to the persons listed in section 2.   Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>The Ministry of Health may, in accordance with this Order and as may be necessary in order to prevent, respond to or alleviate the effects of the emergency,</p> <p class=\"clause-e\">  (a)  collect COVID-19 status information; and</p> <p class=\"clause-e\">  (b)  use and disclose the COVID-19 status information by making it available to the persons listed in section 2.</p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/200120\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

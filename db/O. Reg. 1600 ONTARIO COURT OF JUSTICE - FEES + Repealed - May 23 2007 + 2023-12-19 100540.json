@@ -1,0 +1,40 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 16/00: ONTARIO COURT OF JUSTICE - FEES",
+        "reg_name_text": "ONTARIO COURT OF JUSTICE — FEES",
+        "citation": "O. Reg. 16/00: ONTARIO COURT OF JUSTICE - FEES",
+        "act_under": "Administration of Justice Act",
+        "url": "https://www.ontario.ca/laws/regulation/000016",
+        "date_scraped": "2023-12-19 10:05:40"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/000016/v1",
+            "valid_from": "February 15, 2000",
+            "valid_to": "May 22, 2007"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": "1. The following fees are payable:  1.\n\nFor making copies of documents:\n\n \r\n\n\n \r\n\ni. not requiring certification, per page\n\n$2.00\n\n\n \r\n\nii. requiring certification, per page\n\n3.50 O. Reg. 16/00, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>The following fees are payable:</p> <p>\n</p> <center><table border=\"1\">\n<tr>\n<td valign=\"top\" width=\"39\"><p class=\"table-e\">1.</p>\n</td>\n<td valign=\"top\" width=\"217\"><p class=\"table-e\">For making copies of documents:</p>\n</td>\n<td valign=\"top\" width=\"54\"> \r\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"39\"> \r\n</td>\n<td valign=\"top\" width=\"217\"><ul><p class=\"tablelevel1-e\">i. not requiring certification, per page</p></ul>\n</td>\n<td valign=\"top\" width=\"54\"><p align=\"right\" class=\"table-e\">$2.00</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"39\"> \r\n</td>\n<td valign=\"top\" width=\"217\"><ul><p class=\"tablelevel1-e\">ii. requiring certification, per page</p></ul>\n</td>\n<td valign=\"top\" width=\"54\"><p align=\"right\" class=\"table-e\">3.50</p>\n</td></tr></table></center> <p class=\"footnote-e\">O. Reg. 16/00, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": "2. Omitted (revokes other Regulations). O. Reg. 16/00, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> Omitted (revokes other Regulations). O. Reg. 16/00, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": null,
+            "content": "3. Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 16/00, s. 3. Français ",
+            "raw_html": "<p class=\"section-e\"><b>3.</b> Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 16/00, s. 3.</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/revokedregs/french/elaws_rev_regs_000016_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/revokedregs/french/elaws_rev_regs_000016_f.htm\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "act_info": {
+        "full_title": "Hotel Registration of Guests Act, R.S.O. 1990, c. H.17",
+        "act_name_text": "Hotel Registration of Guests Act",
+        "citation": "R.S.O. 1990, c. H.17",
+        "url": "https://www.ontario.ca/laws/statute/90h17",
+        "date_scraped": "2023-12-18 18:02:05"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "June  3, 2021",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/90h17/v1",
+            "valid_from": "December 31, 1990",
+            "valid_to": "June  2, 2021"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1",
+            "section": "Definition",
+            "content": "1 In this Act, “hotel” means a separate building or two or more connected buildings used mainly for the purpose of catering to the needs of the travelling public by the supply of food and also by the furnishing of sleeping accommodation of not fewer than six bedrooms as distinguished from any other building or connected buildings used mainly for the purpose of supplying food and lodging by the week or otherwise commonly known as “boarding houses” or of furnishing living quarters for families and having a dining room or restaurant commonly known as “apartment houses” or “private hotels”.  R.S.O. 1990, c. H.17, s. 1.",
+            "raw_html": "<p class=\"section\"><b>1 </b>In this Act,</p> <p class=\"definition\">“hotel” means a separate building or two or more connected buildings used mainly for the purpose of catering to the needs of the travelling public by the supply of food and also by the furnishing of sleeping accommodation of not fewer than six bedrooms as distinguished from any other building or connected buildings used mainly for the purpose of supplying food and lodging by the week or otherwise commonly known as “boarding houses” or of furnishing living quarters for families and having a dining room or restaurant commonly known as “apartment houses” or “private hotels”.  R.S.O. 1990, c. H.17, s. 1.</p>"
+        },
+        {
+            "id": "2",
+            "section": "Register to be kept",
+            "content": "2 A register shall be kept in every hotel in which shall be entered the name and usual place of residence of every person admitted as a guest in the hotel and occupying a room therein alone or with another person.  R.S.O. 1990, c. H.17, s. 2.",
+            "raw_html": "<p class=\"section\"><b>2 </b>A register shall be kept in every hotel in which shall be entered the name and usual place of residence of every person admitted as a guest in the hotel and occupying a room therein alone or with another person.  R.S.O. 1990, c. H.17, s. 2.</p>"
+        },
+        {
+            "id": "3",
+            "section": "Offence",
+            "content": "3 The owner and the manager of a hotel who fails to keep the register required by section 2 or to see that the particulars required by section 2 are entered therein, or who knowingly and wilfully permits an untrue statement as to the name or place of residence of a guest to be entered in the register is guilty of an offence and on conviction is liable to a fine of not more than $100, and in default of payment may be imprisoned for a term of not more than three months.  R.S.O. 1990, c. H.17, s. 3.",
+            "raw_html": "<p class=\"section\"><b>3 </b>The owner and the manager of a hotel who fails to keep the register required by section 2 or to see that the particulars required by section 2 are entered therein, or who knowingly and wilfully permits an untrue statement as to the name or place of residence of a guest to be entered in the register is guilty of an offence and on conviction is liable to a fine of not more than $100, and in default of payment may be imprisoned for a term of not more than three months.  R.S.O. 1990, c. H.17, s. 3.</p>"
+        },
+        {
+            "id": "4",
+            "section": "Offence",
+            "content": "4 Every person who applies for admission as a guest in a hotel and who registers under or represents himself or herself as bearing some other name than his or her own, or who in registering or procuring admission to a hotel, makes a false statement as to his or her ordinary place of residence, is guilty of an offence and on conviction is liable to a fine of not more than $100, and in default of payment may be imprisoned for a term of not more than three months.  R.S.O. 1990, c. H.17, s. 4.",
+            "raw_html": "<p class=\"section\"><b>4 </b>Every person who applies for admission as a guest in a hotel and who registers under or represents himself or herself as bearing some other name than his or her own, or who in registering or procuring admission to a hotel, makes a false statement as to his or her ordinary place of residence, is guilty of an offence and on conviction is liable to a fine of not more than $100, and in default of payment may be imprisoned for a term of not more than three months.  R.S.O. 1990, c. H.17, s. 4.</p>"
+        },
+        {
+            "id": "5",
+            "section": "Notice of rates to be posted",
+            "content": "5 (1) In every room used for sleeping accommodation in a hotel there shall be kept posted in a conspicuous place a notice specifying the rates charged for the room.  R.S.O. 1990, c. H.17, s. 5 (1). Offence (2) Every owner and every manager of a hotel who fails to keep posted the notice required by subsection (1) is guilty of an offence and on conviction is liable to a fine of not more than $500.  R.S.O. 1990, c. H.17, s. 5 (2). ____________________  Français  ",
+            "raw_html": "<p class=\"section\"><b>5 </b>(1) In every room used for sleeping accommodation in a hotel there shall be kept posted in a conspicuous place a notice specifying the rates charged for the room.  R.S.O. 1990, c. H.17, s. 5 (1).</p> <p class=\"headnote\">Offence</p> <p class=\"subsection\">(2) Every owner and every manager of a hotel who fails to keep posted the notice required by subsection (1) is guilty of an offence and on conviction is liable to a fine of not more than $500.  R.S.O. 1990, c. H.17, s. 5 (2).</p> <p class=\"line\">____________________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/90h17\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

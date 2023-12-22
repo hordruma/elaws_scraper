@@ -1,0 +1,111 @@
+{
+    "act_info": {
+        "full_title": "Statistics Act, R.S.O. 1990, c. S.18",
+        "act_name_text": "Statistics Act",
+        "citation": "R.S.O. 1990, c. S.18",
+        "url": "https://www.ontario.ca/laws/statute/90s18",
+        "date_scraped": "2023-12-19 10:00:30"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July 25, 2007",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/90s18/v2",
+            "valid_from": "October 19, 2006",
+            "valid_to": "July 24, 2007"
+        },
+        {
+            "a_href": "/laws/statute/90s18/v1",
+            "valid_from": "November 26, 2002",
+            "valid_to": "October 18, 2006"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1",
+            "section": "Definitions",
+            "content": "1 In this Act, “person”, in addition to its meaning in Part VI (Interpretation) of the Legislation Act, 2006, includes a municipality as defined in the Municipal Affairs Act; (“personne”) “statistical information” means information relative to the economic, financial, industrial, commercial, social and general activities and condition of persons, whether such information is collected by means of sampling or any other statistical method. (“données statistiques”)  R.S.O. 1990, c. S.18, s. 1; 2006, c. 21, Sched. F, s. 136 (2). Section Amendments with date in force (d/m/y) 2006, c. 21, Sched. F, s. 136 (2) - 25/07/2007",
+            "raw_html": "<p class=\"section\"><b>1 </b>In this Act,</p> <p class=\"definition\">“person”, in addition to its meaning in Part VI (Interpretation) of the <i>Legislation Act, 2006</i>, includes a municipality as defined in the <i>Municipal Affairs Act</i>; (“personne”)</p> <p class=\"definition\">“statistical information” means information relative to the economic, financial, industrial, commercial, social and general activities and condition of persons, whether such information is collected by means of sampling or any other statistical method. (“données statistiques”)  R.S.O. 1990, c. S.18, s. 1; 2006, c. 21, Sched. F, s. 136 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06021#schedfs136s2\">2006, c. 21, Sched. F, s. 136 (2)</a></span> - 25/07/2007</p>"
+        },
+        {
+            "id": "2",
+            "section": "Statistical procedures authorized",
+            "content": "2 (1) Subject to subsections (3) and (4), the Lieutenant Governor in Council may authorize the minister of any ministry of government, (a) to enter into an agreement with the Government of Canada or the government of any province in Canada or any agency of any such government to provide for an exchange or joint collection of statistical information; (b) to collect, compile, analyse and publish statistical information; (c) to collect statistical information jointly with the minister of any other ministry of government.  R.S.O. 1990, c. S.18, s. 2 (1). Questionnaires (2) Every authorization given under clause (1) (a), (b) or (c) shall have attached thereto a questionnaire setting out the questions that are proposed to be asked, the persons or class of persons to whom the questionnaire is directed and the time within which such persons will be required to answer the questions and return the questionnaire.  R.S.O. 1990, c. S.18, s. 2 (2). Agreements (3) Every agreement and every authorization proposed under this section shall be in writing and filed with the Treasurer of Ontario and Minister of Economics before submission to the Lieutenant Governor in Council.  R.S.O. 1990, c. S.18, s. 2 (3). Report (4) The Treasurer of Ontario and Minister of Economics shall submit a report to the Lieutenant Governor in Council on every agreement and every authorization proposed under this section.  R.S.O. 1990, c. S.18, s. 2 (4).",
+            "raw_html": "<p class=\"section\"><b>2 </b>(1) Subject to subsections (3) and (4), the Lieutenant Governor in Council may authorize the minister of any ministry of government,</p> <p class=\"paragraph\">  (a) to enter into an agreement with the Government of Canada or the government of any province in Canada or any agency of any such government to provide for an exchange or joint collection of statistical information;</p> <p class=\"paragraph\">  (b) to collect, compile, analyse and publish statistical information;</p> <p class=\"paragraph\">  (c) to collect statistical information jointly with the minister of any other ministry of government.  R.S.O. 1990, c. S.18, s. 2 (1).</p> <p class=\"headnote\">Questionnaires</p> <p class=\"subsection\">(2) Every authorization given under clause (1) (a), (b) or (c) shall have attached thereto a questionnaire setting out the questions that are proposed to be asked, the persons or class of persons to whom the questionnaire is directed and the time within which such persons will be required to answer the questions and return the questionnaire.  R.S.O. 1990, c. S.18, s. 2 (2).</p> <p class=\"headnote\">Agreements</p> <p class=\"subsection\">(3) Every agreement and every authorization proposed under this section shall be in writing and filed with the Treasurer of Ontario and Minister of Economics before submission to the Lieutenant Governor in Council.  R.S.O. 1990, c. S.18, s. 2 (3).</p> <p class=\"headnote\">Report</p> <p class=\"subsection\">(4) The Treasurer of Ontario and Minister of Economics shall submit a report to the Lieutenant Governor in Council on every agreement and every authorization proposed under this section.  R.S.O. 1990, c. S.18, s. 2 (4).</p>"
+        },
+        {
+            "id": "3",
+            "section": "Questions to be answered",
+            "content": "3 The questions in any questionnaire authorized under this Act shall be accurately and truthfully answered by each person to whom the questionnaire is directed and shall be returned to the minister who issued it.  R.S.O. 1990, c. S.18, s. 3.",
+            "raw_html": "<p class=\"section\"><b>3 </b>The questions in any questionnaire authorized under this Act shall be accurately and truthfully answered by each person to whom the questionnaire is directed and shall be returned to the minister who issued it.  R.S.O. 1990, c. S.18, s. 3.</p>"
+        },
+        {
+            "id": "4",
+            "section": "Oath of office and secrecy",
+            "content": "4 (1) No person shall collect, compile, analyse or publish statistical information under this Act until taking and subscribing before the person’s minister or deputy minister, or a person designated in writing by either of them, an oath of office and secrecy in the following form in English or in French: I,........................, do swear (or affirm) that I will faithfully discharge my duties under the Statistics Act and, except as I may be legally required, I will not disclose or give to any person any information or document that comes to my knowledge or possession by reason of my duties under the Statistics Act. So help me God. (Omit this phrase in an affirmation.) R.S.O. 1990, c. S.18, s. 4 (1). No unauthorized disclosure (2) Subject to section 6, no public servant having knowledge of the answers to questions asked in a questionnaire under this Act shall disclose or give to any person any information or document with respect to such answers without the written permission of his or her minister, and, except where statistical information is collected jointly under this Act, such permission shall be limited to the disclosing or giving of information or documents to public servants in the minister’s ministry or in prosecutions instituted for offences against this Act.  R.S.O. 1990, c. S.18, s. 4 (2). Answers to be confidential (3) Despite anything in this Act, no minister or public servant shall, in any way, use the answers to questions asked in a questionnaire authorized under this Act for any purpose other than the purposes of this Act.  R.S.O. 1990, c. S.18, s. 4 (3). No personal liability (4) No person who collects, compiles, analyses or publishes statistical information under this Act is personally liable for anything done by him or her under the authority of this Act.  R.S.O. 1990, c. S.18, s. 4 (4).",
+            "raw_html": "<p class=\"section\"><b>4 </b>(1) No person shall collect, compile, analyse or publish statistical information under this Act until taking and subscribing before the person’s minister or deputy minister, or a person designated in writing by either of them, an oath of office and secrecy in the following form in English or in French:</p> <p class=\"paranoindt\">I,........................, do swear (or affirm) that I will faithfully discharge my duties under the <i>Statistics Act</i> and, except as I may be legally required, I will not disclose or give to any person any information or document that comes to my knowledge or possession by reason of my duties under the <i>Statistics Act</i>. So help me God. (Omit this phrase in an affirmation.)</p> <p class=\"footnote\">R.S.O. 1990, c. S.18, s. 4 (1).</p> <p class=\"headnote\">No unauthorized disclosure</p> <p class=\"subsection\">(2) Subject to section 6, no public servant having knowledge of the answers to questions asked in a questionnaire under this Act shall disclose or give to any person any information or document with respect to such answers without the written permission of his or her minister, and, except where statistical information is collected jointly under this Act, such permission shall be limited to the disclosing or giving of information or documents to public servants in the minister’s ministry or in prosecutions instituted for offences against this Act.  R.S.O. 1990, c. S.18, s. 4 (2).</p> <p class=\"headnote\">Answers to be confidential</p> <p class=\"subsection\">(3) Despite anything in this Act, no minister or public servant shall, in any way, use the answers to questions asked in a questionnaire authorized under this Act for any purpose other than the purposes of this Act.  R.S.O. 1990, c. S.18, s. 4 (3).</p> <p class=\"headnote\">No personal liability</p> <p class=\"subsection\">(4) No person who collects, compiles, analyses or publishes statistical information under this Act is personally liable for anything done by him or her under the authority of this Act.  R.S.O. 1990, c. S.18, s. 4 (4).</p>"
+        },
+        {
+            "id": "5",
+            "section": "No discrimination",
+            "content": "5 (1) No person, when acting under the authority of this Act, shall discriminate between persons to the prejudice of any person.  R.S.O. 1990, c. S.18, s. 5 (1). Sampling permitted (2) Nothing in this section prohibits the collection of statistical information by means of sampling.  R.S.O. 1990, c. S.18, s. 5 (2).",
+            "raw_html": "<p class=\"section\"><b>5 </b>(1) No person, when acting under the authority of this Act, shall discriminate between persons to the prejudice of any person.  R.S.O. 1990, c. S.18, s. 5 (1).</p> <p class=\"headnote\">Sampling permitted</p> <p class=\"subsection\">(2) Nothing in this section prohibits the collection of statistical information by means of sampling.  R.S.O. 1990, c. S.18, s. 5 (2).</p>"
+        },
+        {
+            "id": "6",
+            "section": "Disclosure of information to another ministry",
+            "content": "6 (1) Where a person who has answered a question in a questionnaire consents in writing, a minister may give permission to a public servant in his or her ministry who has knowledge of the answer to disclose or give the answer to one or more public servants in another ministry.  R.S.O. 1990, c. S.18, s. 6 (1). Indexes, etc., excepted (2) Subsection (1) does not apply to an index or list, whether released separately or in a report, summary of statistics or other publication under this Act, of answers to the questions in a questionnaire revealing only, (a) the names and locations of individual firms or businesses; or (b) the types of products commercially produced, manufactured or dealt with by individual firms or businesses, but no such list or index shall otherwise disclose any of the answers given to the questions in a questionnaire.  R.S.O. 1990, c. S.18, s. 6 (2).",
+            "raw_html": "<p class=\"section\"><b>6 </b>(1) Where a person who has answered a question in a questionnaire consents in writing, a minister may give permission to a public servant in his or her ministry who has knowledge of the answer to disclose or give the answer to one or more public servants in another ministry.  R.S.O. 1990, c. S.18, s. 6 (1).</p> <p class=\"headnote\">Indexes, etc., excepted</p> <p class=\"subsection\">(2) Subsection (1) does not apply to an index or list, whether released separately or in a report, summary of statistics or other publication under this Act, of answers to the questions in a questionnaire revealing only,</p> <p class=\"paragraph\">  (a) the names and locations of individual firms or businesses; or</p> <p class=\"paragraph\">  (b) the types of products commercially produced, manufactured or dealt with by individual firms or businesses,</p> <p class=\"subsection\">but no such list or index shall otherwise disclose any of the answers given to the questions in a questionnaire.  R.S.O. 1990, c. S.18, s. 6 (2).</p>"
+        },
+        {
+            "id": "7",
+            "section": "Offences: failure to give answers; false answers",
+            "content": "7 Any person who, (a) being required under the authority of this Act to answer any question in a questionnaire and to return it to the minister who issued it, fails to answer, without lawful excuse, any such question or to return the questionnaire within the time prescribed; or (b) wilfully gives a false answer to any such question, is, for every day of such failure or for every false answer, guilty of an offence and on conviction is liable to a fine of not more than $100 or to imprisonment for a term of not more than three months, or to both.  R.S.O. 1990, c. S.18, s. 7.",
+            "raw_html": "<p class=\"section\"><b>7 </b>Any person who,</p> <p class=\"paragraph\">  (a) being required under the authority of this Act to answer any question in a questionnaire and to return it to the minister who issued it, fails to answer, without lawful excuse, any such question or to return the questionnaire within the time prescribed; or</p> <p class=\"paragraph\">  (b) wilfully gives a false answer to any such question,</p> <p class=\"section\">is, for every day of such failure or for every false answer, guilty of an offence and on conviction is liable to a fine of not more than $100 or to imprisonment for a term of not more than three months, or to both.  R.S.O. 1990, c. S.18, s. 7.</p>"
+        },
+        {
+            "id": null,
+            "section": "Offences: failure to give answers; false answers",
+            "content": "is, for every day of such failure or for every false answer, guilty of an offence and on conviction is liable to a fine of not more than $100 or to imprisonment for a term of not more than three months, or to both.  R.S.O. 1990, c. S.18, s. 7.",
+            "raw_html": "<p class=\"section\">is, for every day of such failure or for every false answer, guilty of an offence and on conviction is liable to a fine of not more than $100 or to imprisonment for a term of not more than three months, or to both.  R.S.O. 1990, c. S.18, s. 7.</p>"
+        },
+        {
+            "id": "8",
+            "section": "Offences: obtaining unauthorized information; unauthorized disclosure",
+            "content": "8 Any person who, (a) in the pretended performance of that person’s duties under this Act, obtains or seeks to obtain information that he, she or it is not duly authorized to obtain; or (b) discloses or gives any information or document to any person in contravention of subsection 4 (2), is guilty of an offence and on conviction is liable to a fine of not more than $300 or to imprisonment for a term of not more than six months, or to both.  R.S.O. 1990, c. S.18, s. 8.",
+            "raw_html": "<p class=\"section\"><b>8 </b>Any person who,</p> <p class=\"paragraph\">  (a) in the pretended performance of that person’s duties under this Act, obtains or seeks to obtain information that he, she or it is not duly authorized to obtain; or</p> <p class=\"paragraph\">  (b) discloses or gives any information or document to any person in contravention of subsection 4 (2),</p> <p class=\"section\">is guilty of an offence and on conviction is liable to a fine of not more than $300 or to imprisonment for a term of not more than six months, or to both.  R.S.O. 1990, c. S.18, s. 8.</p>"
+        },
+        {
+            "id": null,
+            "section": "Offences: obtaining unauthorized information; unauthorized disclosure",
+            "content": "is guilty of an offence and on conviction is liable to a fine of not more than $300 or to imprisonment for a term of not more than six months, or to both.  R.S.O. 1990, c. S.18, s. 8.",
+            "raw_html": "<p class=\"section\">is guilty of an offence and on conviction is liable to a fine of not more than $300 or to imprisonment for a term of not more than six months, or to both.  R.S.O. 1990, c. S.18, s. 8.</p>"
+        },
+        {
+            "id": "9",
+            "section": "Offences: affecting market value; speculating",
+            "content": "9 Any person who, (a) discloses or gives any information or document respecting an answer to a question in a questionnaire authorized under this Act to any person with the intent that the market value of a product is thereby affected; or (b) uses an answer in any such questionnaire for the purpose of speculating in a product, is guilty of an offence and on conviction is liable to a fine of not more than $5,000 or to imprisonment for a term of not more than five years less a day, or to both.  R.S.O. 1990, c. S.18, s. 9; 2002, c. 18, Sched. H, s. 15. Section Amendments with date in force (d/m/y) 2002, c. 18, Sched. H, s. 15 - 26/11/2002",
+            "raw_html": "<p class=\"section\"><b>9 </b>Any person who,</p> <p class=\"paragraph\">  (a) discloses or gives any information or document respecting an answer to a question in a questionnaire authorized under this Act to any person with the intent that the market value of a product is thereby affected; or</p> <p class=\"paragraph\">  (b) uses an answer in any such questionnaire for the purpose of speculating in a product,</p> <p class=\"section\">is guilty of an offence and on conviction is liable to a fine of not more than $5,000 or to imprisonment for a term of not more than five years less a day, or to both.  R.S.O. 1990, c. S.18, s. 9; 2002, c. 18, Sched. H, s. 15.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S02018#schedhs15\">2002, c. 18, Sched. H, s. 15</a></span> - 26/11/2002</p>"
+        },
+        {
+            "id": null,
+            "section": "Offences: affecting market value; speculating",
+            "content": "is guilty of an offence and on conviction is liable to a fine of not more than $5,000 or to imprisonment for a term of not more than five years less a day, or to both.  R.S.O. 1990, c. S.18, s. 9; 2002, c. 18, Sched. H, s. 15. Section Amendments with date in force (d/m/y) 2002, c. 18, Sched. H, s. 15 - 26/11/2002",
+            "raw_html": "<p class=\"section\">is guilty of an offence and on conviction is liable to a fine of not more than $5,000 or to imprisonment for a term of not more than five years less a day, or to both.  R.S.O. 1990, c. S.18, s. 9; 2002, c. 18, Sched. H, s. 15.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S02018#schedhs15\">2002, c. 18, Sched. H, s. 15</a></span> - 26/11/2002</p>"
+        },
+        {
+            "id": "10",
+            "section": "Regulations",
+            "content": "10 The Lieutenant Governor in Council may make regulations, (a) prescribing the manner in which information shall be collected, compiled, analysed or published under this Act; (b) prescribing forms and providing for their use; (c) respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act.  R.S.O. 1990, c. S.18, s. 10.  Français  ",
+            "raw_html": "<p class=\"section\"><b>10 </b>The Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a) prescribing the manner in which information shall be collected, compiled, analysed or published under this Act;</p> <p class=\"paragraph\">  (b) prescribing forms and providing for their use;</p> <p class=\"paragraph\">  (c) respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act.  R.S.O. 1990, c. S.18, s. 10.</p> <p class=\"paragraph\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/90s18\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

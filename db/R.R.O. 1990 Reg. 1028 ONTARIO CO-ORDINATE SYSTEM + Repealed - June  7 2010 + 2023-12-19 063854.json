@@ -1,0 +1,70 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 1028: ONTARIO CO-ORDINATE SYSTEM",
+        "reg_name_text": "ONTARIO CO-ORDINATE SYSTEM",
+        "citation": "R.R.O. 1990, Reg. 1028: ",
+        "act_under": "Surveys Act   Loi sur l’arpentage",
+        "url": "https://www.ontario.ca/laws/regulation/901028",
+        "date_scraped": "2023-12-19 06:38:55"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/901028/v1",
+            "valid_from": "December 31, 1990",
+            "valid_to": "June  6, 2010"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": "1. In this Regulation, “co-ordinate survey” means a survey made for the purpose of establishing the location of points on the surface of the earth by geographic or grid co-ordinates; “System” means the Ontario Co-ordinate System. R.R.O. 1990, Reg. 1028, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>In this Regulation,</p> <p class=\"firstdef-e\">“co-ordinate survey” means a survey made for the purpose of establishing the location of points on the surface of the earth by geographic or grid co-ordinates;</p> <p class=\"definition-e\">“System” means the Ontario Co-ordinate System. R.R.O. 1990, Reg. 1028, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": "2. (1) The system of co-ordinate surveys known as the Ontario Co-ordinate System is continued. R.R.O. 1990, Reg. 1028, s. 2 (1). (2) The System is a universal transverse Mercator projection modified to a 3 degree zone of the Clarke spheroid of 1866. R.R.O. 1990, Reg. 1028, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>(1) The system of co-ordinate surveys known as the Ontario Co-ordinate System is continued. R.R.O. 1990, Reg. 1028, s. 2 (1).</p> <p class=\"subsection-e\">(2) The System is a universal transverse Mercator projection modified to a 3 degree zone of the Clarke spheroid of 1866. R.R.O. 1990, Reg. 1028, s. 2 (2).</p>"
+        },
+        {
+            "id": "3.",
+            "section": null,
+            "content": "3. (1) For the purposes of identification of co-ordinates of points in the System, Ontario is divided into ten zones that are numbered 8 to 17. R.R.O. 1990, Reg. 1028, s. 3 (1). (2) The reference meridian for a zone mentioned in an item of Column 1 of Schedule 1 is the meridian of longitude shown opposite thereto in Column 2 of the item and is the Y-axis of the zone. R.R.O. 1990, Reg. 1028, s. 3 (2). (3) The X-axis of a zone is the equator. R.R.O. 1990, Reg. 1028, s. 3 (3). (4) Subject to subsection (5), a zone is the part of Ontario lying within the limits of a 3 degree zone on the Clarke spheroid of 1866. R.R.O. 1990, Reg. 1028, s. 3 (4). (5) Zones 10 and 11 do not extend north of and zones 12 and 13 do not extend south of a line described as follows: Beginning at the intersection of the boundary between Ontario and Quebec with meridian of longitude 79°30'; thence south along that meridian to parallel of latitude 47°00'; thence west along that parallel to meridian of longitude 80°15'; thence south along that meridian to parallel of latitude 46°00'; thence west along that parallel to its intersection with the boundary between Canada and the United States of America. R.R.O. 1990, Reg. 1028, s. 3 (5).",
+            "raw_html": "<p class=\"section-e\"><b>3. </b>(1) For the purposes of identification of co-ordinates of points in the System, Ontario is divided into ten zones that are numbered 8 to 17. R.R.O. 1990, Reg. 1028, s. 3 (1).</p> <p class=\"subsection-e\">(2) The reference meridian for a zone mentioned in an item of Column 1 of Schedule 1 is the meridian of longitude shown opposite thereto in Column 2 of the item and is the Y-axis of the zone. R.R.O. 1990, Reg. 1028, s. 3 (2).</p> <p class=\"subsection-e\">(3) The X-axis of a zone is the equator. R.R.O. 1990, Reg. 1028, s. 3 (3).</p> <p class=\"subsection-e\">(4) Subject to subsection (5), a zone is the part of Ontario lying within the limits of a 3 degree zone on the Clarke spheroid of 1866. R.R.O. 1990, Reg. 1028, s. 3 (4).</p> <p class=\"subsection-e\">(5) Zones 10 and 11 do not extend north of and zones 12 and 13 do not extend south of a line described as follows:</p> <p class=\"parawindt-e\">Beginning at the intersection of the boundary between Ontario and Quebec with meridian of longitude 79°30'; thence south along that meridian to parallel of latitude 47°00'; thence west along that parallel to meridian of longitude 80°15'; thence south along that meridian to parallel of latitude 46°00'; thence west along that parallel to its intersection with the boundary between Canada and the United States of America.</p> <p class=\"footnote-e\">R.R.O. 1990, Reg. 1028, s. 3 (5).</p>"
+        },
+        {
+            "id": "4.",
+            "section": null,
+            "content": "4. In the System, the scale factor at a reference meridian is 0.99990. R.R.O. 1990, Reg. 1028, s. 4.",
+            "raw_html": "<p class=\"section-e\"><b>4. </b>In the System, the scale factor at a reference meridian is 0.99990. R.R.O. 1990, Reg. 1028, s. 4.</p>"
+        },
+        {
+            "id": "5.",
+            "section": null,
+            "content": "5. In the System, the co-ordinates of a point, (a) depend upon and shall be adjusted to the North American datum, 1927 adjustment; (b) shall be expressed in feet and decimals of a foot; and (c) shall be expressed as two terms, the first being the X or easting co-ordinate and the second being the Y or northing co-ordinate. R.R.O. 1990, Reg. 1028, s. 5.",
+            "raw_html": "<p class=\"section-e\"><b>5. </b>In the System, the co-ordinates of a point,</p> <p class=\"clause-e\">(a) depend upon and shall be adjusted to the North American datum, 1927 adjustment;</p> <p class=\"clause-e\">(b) shall be expressed in feet and decimals of a foot; and</p> <p class=\"clause-e\">(c) shall be expressed as two terms, the first being the X or easting co-ordinate and the second being the Y or northing co-ordinate. R.R.O. 1990, Reg. 1028, s. 5.</p>"
+        },
+        {
+            "id": "6.",
+            "section": null,
+            "content": "6. In the System, the origin of co-ordinates in a zone is the intersection of the reference meridian of the zone and the equator and has a northing co-ordinate of zero feet and an easting co-ordinate of 1,000,000 feet. R.R.O. 1990, Reg. 1028, s. 6.",
+            "raw_html": "<p class=\"section-e\"><b>6. </b>In the System, the origin of co-ordinates in a zone is the intersection of the reference meridian of the zone and the equator and has a northing co-ordinate of zero feet and an easting co-ordinate of 1,000,000 feet. R.R.O. 1990, Reg. 1028, s. 6.</p>"
+        },
+        {
+            "id": "7.",
+            "section": null,
+            "content": "7. In the System, the direction of a line shall be expressed as a grid azimuth. R.R.O. 1990, Reg. 1028, s. 7.",
+            "raw_html": "<p class=\"section-e\"><b>7. </b>In the System, the direction of a line shall be expressed as a grid azimuth. R.R.O. 1990, Reg. 1028, s. 7.</p>"
+        },
+        {
+            "id": "8.",
+            "section": null,
+            "content": "8. (1) In the System, in converting metres to feet the number of metres shall be divided by 0.3048000. R.R.O. 1990, Reg. 1028, s. 8 (1). (2) In the System, in converting feet to metres the number of feet shall be divided by 3.2808399. R.R.O. 1990, Reg. 1028, s. 8 (2). SCHEDULE 1  Item\n\nColumn 1\n\nColumn 2\n\n\n \r\n\nZone\n\nReference Meridian\n\n\n1\n\n8\n\n73°30'\n\n\n2\n\n9\n\n76°30'\n\n\n3\n\n10\n\n79°30'\n\n\n4\n\n11\n\n82°30'\n\n\n5\n\n12\n\n81°00'\n\n\n6\n\n13\n\n84°00'\n\n\n7\n\n14\n\n87°00'\n\n\n8\n\n15\n\n90°00'\n\n\n9\n\n16\n\n93°00'\n\n\n10\n\n17\n\n96°00' R.R.O. 1990, Reg. 1028, Sched. 1. ",
+            "raw_html": "<p class=\"section-e\"><b>8. </b>(1) In the System, in converting metres to feet the number of metres shall be divided by 0.3048000. R.R.O. 1990, Reg. 1028, s. 8 (1).</p> <p class=\"subsection-e\">(2) In the System, in converting feet to metres the number of feet shall be divided by 3.2808399. R.R.O. 1990, Reg. 1028, s. 8 (2).</p> <p class=\"schedule-e\">SCHEDULE 1</p> <p>\n</p> <center><table border=\"1\">\n<tr>\n<td valign=\"top\" width=\"62\"><p class=\"table-e\">Item</p>\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">Column 1</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">Column 2</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"62\"> \r\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">Zone</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">Reference Meridian</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"62\"><p class=\"table-e\">1</p>\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">8</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">73°30'</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"62\"><p class=\"table-e\">2</p>\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">9</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">76°30'</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"62\"><p class=\"table-e\">3</p>\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">10</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">79°30'</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"62\"><p class=\"table-e\">4</p>\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">11</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">82°30'</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"62\"><p class=\"table-e\">5</p>\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">12</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">81°00'</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"62\"><p class=\"table-e\">6</p>\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">13</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">84°00'</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"62\"><p class=\"table-e\">7</p>\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">14</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">87°00'</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"62\"><p class=\"table-e\">8</p>\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">15</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">90°00'</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"62\"><p class=\"table-e\">9</p>\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">16</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">93°00'</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"62\"><p class=\"table-e\">10</p>\n</td>\n<td valign=\"top\" width=\"101\"><p class=\"table-e\">17</p>\n</td>\n<td valign=\"top\" width=\"148\"><p class=\"table-e\">96°00'</p>\n</td></tr></table></center> <p class=\"footnote-e\">R.R.O. 1990, Reg. 1028, Sched. 1.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

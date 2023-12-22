@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 140/16: TOLL-FREE PERIOD",
+        "reg_name_text": "TOLL-FREE PERIOD",
+        "citation": "O. Reg. 140/16: ",
+        "act_under": "Highway 407 East Act, 2012",
+        "url": "https://www.ontario.ca/laws/regulation/160140",
+        "date_scraped": "2023-12-19 02:59:51"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/160140/v2",
+            "valid_from": "January 26, 2017",
+            "valid_to": "January 31, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/160140/v1",
+            "valid_from": "May 17, 2016",
+            "valid_to": "January 25, 2017"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Period when no tolls are payable",
+            "content": "  1. (1) No tolls are payable on Highway 407 East during the period that begins on the day that the highway is open for public use and ends on the day before the day this Regulation is revoked. (2) For greater certainty, the last day on which tolls are not payable is the day before the day this Regulation is revoked.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>(1) No tolls are payable on Highway 407 East during the period that begins on the day that the highway is open for public use and ends on the day before the day this Regulation is revoked.</p> <p class=\"subsection-e\">  (2) For greater certainty, the last day on which tolls are not payable is the day before the day this Regulation is revoked.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Period when no tolls are payable",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Period when no tolls are payable",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/160140\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

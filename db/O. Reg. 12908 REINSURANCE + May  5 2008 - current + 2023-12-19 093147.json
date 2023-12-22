@@ -1,0 +1,69 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 129/08: REINSURANCE",
+        "reg_name_text": "Reinsurance",
+        "citation": "O. Reg. 129/08: REINSURANCE",
+        "act_under": "Insurance Act",
+        "url": "https://www.ontario.ca/laws/regulation/080129",
+        "date_scraped": "2023-12-19 09:31:48"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "May  5, 2008",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/080129/v1",
+            "valid_from": "May  2, 2008",
+            "valid_to": "May  4, 2008"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definitions",
+            "content": " 1. In this Regulation, “gross premium income” means, in respect of an insurer for a year, the insurer’s premium income for the year from its policies in Canada, calculated without reduction for reinsurance premiums paid or payable by the insurer; (“produit brut”) “year” means, in respect of an insurer, the insurer’s fiscal year. (“année”)  O. Reg. 129/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Regulation,</p> <p class=\"firstdef-e\">“gross premium income” means, in respect of an insurer for a year, the insurer’s premium income for the year from its policies in Canada, calculated without reduction for reinsurance premiums paid or payable by the insurer; (“produit brut”)</p> <p class=\"definition-e\">“year” means, in respect of an insurer, the insurer’s fiscal year. (“année”)  O. Reg. 129/08, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Application",
+            "content": " 2. (1) Except as otherwise provided in subsection (2), this Regulation applies to insurers incorporated or organized under the laws of Ontario that are licensed under the Act to undertake any class of insurance other than marine insurance and life insurance.  O. Reg. 129/08, s. 2 (1). (2) This Regulation does not apply to, (a) an insurer that is a member of the Fire Mutuals Guarantee Fund; or (b) an insurer whose business is limited to reinsurance.  O. Reg. 129/08, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) Except as otherwise provided in subsection (2), this Regulation applies to insurers incorporated or organized under the laws of Ontario that are licensed under the Act to undertake any class of insurance other than marine insurance and life insurance.  O. Reg. 129/08, s. 2 (1).</p> <p class=\"subsection-e\">  (2) This Regulation does not apply to,</p> <p class=\"clause-e\">  (a) an insurer that is a member of the Fire Mutuals Guarantee Fund; or</p> <p class=\"clause-e\">  (b) an insurer whose business is limited to reinsurance.  O. Reg. 129/08, s. 2 (2).</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Maximum level of risk subject to reinsurance",
+            "content": " 3. (1) An insurer shall not in any year be reinsured against more than 75 per cent of the risks it undertakes in its policies in Canada, as calculated in accordance with this section.  O. Reg. 129/08, s. 3 (1). (2) The percentage of the risks that an insurer undertakes in its policies in Canada against which it is reinsured in a year is calculated using the formula, 100 × A / B in which, “A” is, subject to section 5, the sum of all premiums, other than risk sharing premiums, paid or payable by the insurer in the year for reinsurance of the risks undertaken in its policies in Canada, determined without any reduction in respect of commissions, expense allowances and other considerations received or receivable by the insurer, and “B” is the gross premium income of the insurer for the year less any amount required to be deducted under section 5. O. Reg. 129/08, s. 3 (2). (3) In this section, “risk sharing premiums” means premiums paid or payable by an insurer by reason of its participation in a risk sharing pool referred to in subsection 7 (6) of the Compulsory Automobile Insurance Act operated by the Facility Association.  O. Reg. 129/08, s. 3 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) An insurer shall not in any year be reinsured against more than 75 per cent of the risks it undertakes in its policies in Canada, as calculated in accordance with this section.  O. Reg. 129/08, s. 3 (1).</p> <p class=\"subsection-e\">  (2) The percentage of the risks that an insurer undertakes in its policies in Canada against which it is reinsured in a year is calculated using the formula,</p> <p class=\"equation-e\">100 × A / B</p> <p class=\"Ssubsection-e\">in which,</p> <p class=\"equationind1-e\">  “A” is, subject to section 5, the sum of all premiums, other than risk sharing premiums, paid or payable by the insurer in the year for reinsurance of the risks undertaken in its policies in Canada, determined without any reduction in respect of commissions, expense allowances and other considerations received or receivable by the insurer, and</p> <p class=\"equationind1-e\">  “B” is the gross premium income of the insurer for the year less any amount required to be deducted under section 5.</p> <p class=\"footnote-e\">O. Reg. 129/08, s. 3 (2).</p> <p class=\"subsection-e\">  (3) In this section,</p> <p class=\"firstdef-e\">“risk sharing premiums” means premiums paid or payable by an insurer by reason of its participation in a risk sharing pool referred to in subsection 7 (6) of the <i>Compulsory Automobile Insurance Act</i> operated by the Facility Association.  O. Reg. 129/08, s. 3 (3).</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Reinsurance by unlicensed insurers",
+            "content": " 4. (1) An insurer shall not in any year be reinsured against more than 25 per cent of the risks it undertakes in its policies in Canada by an insurance company that is not licensed under the laws of Canada or a province of Canada.  O. Reg. 129/08, s. 4 (1). (2) The percentage of the risks that an insurer undertakes in its policies in Canada against which it is reinsured in a year by an insurance company that is not licensed under the laws of Canada or a province of Canada is calculated using the formula, 100 × C / B in which, “C” is, subject to section 5, the sum of all premiums paid or payable by the insurer in the year for reinsurance of the risks undertaken in its policies in Canada by unlicensed insurers, determined without any reduction in respect of commissions, expense allowances and other considerations received or receivable by the insurer, and “B” has the same meaning as in subsection 3 (2). O. Reg. 129/08, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) An insurer shall not in any year be reinsured against more than 25 per cent of the risks it undertakes in its policies in Canada by an insurance company that is not licensed under the laws of Canada or a province of Canada.  O. Reg. 129/08, s. 4 (1).</p> <p class=\"subsection-e\">  (2) The percentage of the risks that an insurer undertakes in its policies in Canada against which it is reinsured in a year by an insurance company that is not licensed under the laws of Canada or a province of Canada is calculated using the formula,</p> <p class=\"equation-e\">100 × C / B</p> <p class=\"Ssubsection-e\">in which,</p> <p class=\"equationind1-e\">  “C” is, subject to section 5, the sum of all premiums paid or payable by the insurer in the year for reinsurance of the risks undertaken in its policies in Canada by unlicensed insurers, determined without any reduction in respect of commissions, expense allowances and other considerations received or receivable by the insurer, and</p> <p class=\"equationind1-e\">  “B” has the same meaning as in subsection 3 (2).</p> <p class=\"footnote-e\">O. Reg. 129/08, s. 4 (2).</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Reinsurance not in the ordinary course of business",
+            "content": " 5. If the agreement under which an insurer, in any year, reinsures risks undertaken by it is not made in the ordinary course of business, the premiums referred to in the definitions of “A” in subsection 3 (2) and “C” in subsection 4 (2) and the gross premium income of the insurer for the year for the purposes of subsections 3 (2) and 4 (2) shall be reduced by the amount of premiums paid or payable by the insurer in the year under the agreement.  O. Reg. 129/08, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>If the agreement under which an insurer, in any year, reinsures risks undertaken by it is not made in the ordinary course of business, the premiums referred to in the definitions of “A” in subsection 3 (2) and “C” in subsection 4 (2) and the gross premium income of the insurer for the year for the purposes of subsections 3 (2) and 4 (2) shall be reduced by the amount of premiums paid or payable by the insurer in the year under the agreement.  O. Reg. 129/08, s. 5.</p>"
+        },
+        {
+            "id": "6.",
+            "section": "Reinsurance not in the ordinary course of business",
+            "content": " 6. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 129/08, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>6.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).  O. Reg. 129/08, s. 6.</p>"
+        },
+        {
+            "id": null,
+            "section": "Reinsurance not in the ordinary course of business",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/080129\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

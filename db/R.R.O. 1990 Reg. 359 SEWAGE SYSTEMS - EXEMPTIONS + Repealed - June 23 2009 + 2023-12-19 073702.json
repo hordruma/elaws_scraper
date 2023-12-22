@@ -1,0 +1,34 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 359: SEWAGE SYSTEMS - EXEMPTIONS",
+        "reg_name_text": "SEWAGE SYSTEMS — EXEMPTIONS",
+        "citation": "R.R.O. 1990, Reg. 359: SEWAGE SYSTEMS - EXEMPTIONS",
+        "act_under": "Environmental Protection Act   Loi sur la protection de l’environnement",
+        "url": "https://www.ontario.ca/laws/regulation/900359",
+        "date_scraped": "2023-12-19 07:37:02"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/900359/v1",
+            "valid_from": "December 31, 1990",
+            "valid_to": "June 22, 2009"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": "1. Sewage works designed to distribute sewage on the surface of the ground for the purpose of disposing of the sewage and from which sewage is not to be drained or discharged directly or indirectly into a ditch, drain or storm sewer or well, lake, river, pond, spring, stream, reservoir or other water or watercourse are classified as surface sewage works. R.R.O. 1990, Reg. 359, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>Sewage works designed to distribute sewage on the surface of the ground for the purpose of disposing of the sewage and from which sewage is not to be drained or discharged directly or indirectly into a ditch, drain or storm sewer or well, lake, river, pond, spring, stream, reservoir or other water or watercourse are classified as surface sewage works. R.R.O. 1990, Reg. 359, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": "2. Surface sewage works that would require an approval under section 53 of the Ontario Water Resources Act but for Part VIII of the Environmental Protection Act are exempt from Part VIII of the Environmental Protection Act. R.R.O. 1990, Reg. 359, s. 2. ",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>Surface sewage works that would require an approval under section 53 of the <i>Ontario Water Resources Act</i> but for Part VIII of the <i>Environmental Protection Act</i> are exempt from Part VIII of the <i>Environmental Protection Act</i>. R.R.O. 1990, Reg. 359, s. 2.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

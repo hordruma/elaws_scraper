@@ -1,0 +1,491 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 167/23: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "O. Reg. 167/23: ",
+        "act_under": "Towing and Storage Safety and Enforcement Act, 2021",
+        "url": "https://www.ontario.ca/laws/regulation/230167",
+        "date_scraped": "2023-12-18 02:47:55"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November 23, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/230167/v2",
+            "valid_from": "July  1, 2023",
+            "valid_to": "November 22, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/230167/v1",
+            "valid_from": "June 23, 2023",
+            "valid_to": "June 30, 2023"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "Interpretation",
+            "part_id": null,
+            "part_type": null,
+            "section": "Interpretation",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Interpretation and application",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "2.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Disqualifying record of convictions or charges",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Certification — General",
+            "part_id": null,
+            "part_type": null,
+            "section": "Certification — General",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "3.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Application",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "4.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Term of initial certificate",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "5.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Renewal of certificate",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "6.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "7.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Fees",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "Tow Operator Certification and Requirements",
+            "part_id": null,
+            "part_type": null,
+            "section": "Tow Operator Certification and Requirements",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "8.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Qualifications and requirements for certificate",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "9.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Refusal to issue or renew; suspension or cancellation",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "10.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Conditions",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "11.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Insurance",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "12.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Information for public",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "13.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Records",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "14.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Information for Director",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "Tow Truck Driver Certification and Requirements",
+            "part_id": null,
+            "part_type": null,
+            "section": "Tow Truck Driver Certification and Requirements",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "15.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Qualifications and requirements for certificate",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "16.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Refusal to issue or renew; suspension or cancellation",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "17.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Conditions",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "18.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Surrender of documents",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "19.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Records",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "20.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Information for Director",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "Requirements re Towing",
+            "part_id": null,
+            "part_type": null,
+            "section": "Requirements re Towing",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "21.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Towing",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "22.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Photographs",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "Vehicle Storage Operator Certification and Requirements",
+            "part_id": null,
+            "part_type": null,
+            "section": "Vehicle Storage Operator Certification and Requirements",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "23.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Qualifications and requirements for certificate",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "24.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Refusal to issue or renew; suspension or cancellation",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "25.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Conditions",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "26.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Insurance",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "27.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Storage of vehicle and access to vehicle",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "28.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Information for public",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "29.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Records",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "30.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Information for Director",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "Protection of Users of Towing Services and Vehicle Storage Services",
+            "part_id": null,
+            "part_type": null,
+            "section": "Protection of Users of Towing Services and Vehicle Storage Services",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "31.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Prohibited practices",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "32.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Consent for towing services and vehicle storage services",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "33.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Documentation of consent for towing services",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "34.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Maximum rate schedule",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "35.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Invoices",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "36.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Restrictions on inducement, referrals",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "Appeals",
+            "part_id": null,
+            "part_type": null,
+            "section": "Appeals",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "37.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Commencing an appeal",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "Administration",
+            "part_id": null,
+            "part_type": null,
+            "section": "Administration",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "38.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Personal information",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "39.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Electronic records",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "40.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Notice",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "Schedule 1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Code of conduct",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "Schedule 2",
+            "part_id": null,
+            "part_type": null,
+            "section": "Wording to be provided re consent",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

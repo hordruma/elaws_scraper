@@ -1,0 +1,46 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 177/98: GROUND SOURCE HEAT PUMPS",
+        "reg_name_text": "GROUND SOURCE HEAT PUMPS",
+        "citation": "O. Reg. 177/98: ",
+        "act_under": "Environmental Protection Act   Loi sur la protection de l’environnement",
+        "url": "https://www.ontario.ca/laws/regulation/980177",
+        "date_scraped": "2023-12-19 05:19:44"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/980177/v1",
+            "valid_from": "April 27, 1998",
+            "valid_to": "May 17, 2012"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": "1. In this Regulation, “ground source heat pump” means a heating and cooling system for buildings that uses a liquid to exchange heat with the ground or ground water. O. Reg. 177/98, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>In this Regulation,</p> <p class=\"firstdef-e\">“ground source heat pump” means a heating and cooling system for buildings that uses a liquid to exchange heat with the ground or ground water. O. Reg. 177/98, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": "2. A ground source heat pump that uses a liquid other than methanol is exempted from section 9 of the Act. O. Reg. 177/98, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>A ground source heat pump that uses a liquid other than methanol is exempted from section 9 of the Act. O. Reg. 177/98, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": null,
+            "content": "3. (1) No ground source heat pump that uses methanol shall be used unless it was put into operation before June 1, 1998. O. Reg. 177/98, s. 3 (1). (2) No ground source heat pump that uses methanol shall be constructed, altered, extended or replaced. O. Reg. 177/98, s. 3 (2).",
+            "raw_html": "<p class=\"section-e\"><b>3. </b>(1) No ground source heat pump that uses methanol shall be used unless it was put into operation before June 1, 1998. O. Reg. 177/98, s. 3 (1).</p> <p class=\"subsection-e\">(2) No ground source heat pump that uses methanol shall be constructed, altered, extended or replaced. O. Reg. 177/98, s. 3 (2).</p>"
+        },
+        {
+            "id": "4.",
+            "section": null,
+            "content": "4. Omitted (revokes other Regulations). O. Reg. 177/98, s. 4. ",
+            "raw_html": "<p class=\"section-e\"><b>4.</b> Omitted (revokes other Regulations). O. Reg. 177/98, s. 4.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "act_info": {
+        "full_title": "Local Roads Boards Act, R.S.O. 1990, c. L.27",
+        "act_name_text": "Local Roads Boards Act",
+        "citation": "R.S.O. 1990, c. L.27",
+        "url": "https://www.ontario.ca/laws/statute/90l27",
+        "date_scraped": "2023-12-19 07:39:05"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "June  5, 2009",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/90l27/v7",
+            "valid_from": "January  1, 2009",
+            "valid_to": "June  4, 2009"
+        },
+        {
+            "a_href": "/laws/statute/90l27/v6",
+            "valid_from": "November 27, 2008",
+            "valid_to": "December 31, 2008"
+        },
+        {
+            "a_href": "/laws/statute/90l27/v5",
+            "valid_from": "December 20, 2006",
+            "valid_to": "November 26, 2008"
+        },
+        {
+            "a_href": "/laws/statute/90l27/v4",
+            "valid_from": "June 22, 2006",
+            "valid_to": "December 19, 2006"
+        },
+        {
+            "a_href": "/laws/statute/90l27/v3",
+            "valid_from": "November  1, 2005",
+            "valid_to": "June 21, 2006"
+        },
+        {
+            "a_href": "/laws/statute/90l27/v2",
+            "valid_from": "June 17, 2004",
+            "valid_to": "October 31, 2005"
+        },
+        {
+            "a_href": "/laws/statute/90l27/v1",
+            "valid_from": "December 14, 1999",
+            "valid_to": "June 16, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/090256",
+            "Citation": "O. Reg. 256/09",
+            "title": "CREDITS RE UNOCCUPIED CROWN LAND"
+        },
+        {
+            "a_href": "/laws/regulation/090225",
+            "Citation": "O. Reg. 225/09",
+            "title": "TAX RATIOS"
+        },
+        {
+            "a_href": "/laws/regulation/900736",
+            "Citation": "R.R.O. 1990, Reg. 736",
+            "title": "GENERAL"
+        },
+        {
+            "a_href": "/laws/regulation/900735",
+            "Citation": "R.R.O. 1990, Reg. 735",
+            "title": "ESTABLISHMENT OF LOCAL ROADS AREAS - NORTHWESTERN REGION"
+        },
+        {
+            "a_href": "/laws/regulation/900734",
+            "Citation": "R.R.O. 1990, Reg. 734",
+            "title": "ESTABLISHMENT OF LOCAL ROADS AREAS - NORTHEASTERN AND EASTERN REGIONS"
+        }
+    ],
+    "revoked_regs": null,
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Definitions",
+            "content": "1 In this Act, “board” means a board of a local roads area; (“régie”) “land” includes land covered with water; (“bien-fonds”) “local roads area” means a local roads area established under this Act; (“zone de routes locales”) “Minister” means the Minister of Transportation; (“ministre”) “owner” means a person entitled to convey land and whose interest in the land is defined and whose name is specified in an instrument registered in the proper land registry office, and includes a lessee of the Crown and a locatee under the Public Lands Act; (“propriétaire”) “prescribed” means prescribed by the regulations made under this Act; (“prescrit”) “register” means the Local Roads Tax Register; (“registre”) “secretary-treasurer” means a secretary-treasurer appointed by a board under this Act. (“secrétaire-trésorier”)  R.S.O. 1990, c. L.27, s. 1.",
+            "raw_html": "<p class=\"section\"><a name=\"BK0\"></a><b>1 </b>In this Act,</p> <p class=\"definition\">“board” means a board of a local roads area; (“régie”)</p> <p class=\"definition\">“land” includes land covered with water; (“bien-fonds”)</p> <p class=\"definition\">“local roads area” means a local roads area established under this Act; (“zone de routes locales”)</p> <p class=\"definition\">“Minister” means the Minister of Transportation; (“ministre”)</p> <p class=\"definition\">“owner” means a person entitled to convey land and whose interest in the land is defined and whose name is specified in an instrument registered in the proper land registry office, and includes a lessee of the Crown and a locatee under the <i>Public Lands Act</i>; (“propriétaire”)</p> <p class=\"definition\">“prescribed” means prescribed by the regulations made under this Act; (“prescrit”)</p> <p class=\"definition\">“register” means the Local Roads Tax Register; (“registre”)</p> <p class=\"definition\">“secretary-treasurer” means a secretary-treasurer appointed by a board under this Act. (“secrétaire-trésorier”)  R.S.O. 1990, c. L.27, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "2.",
+            "section_x": "Application",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Application",
+            "content": "2 This Act applies only in territory without municipal organization.  R.S.O. 1990, c. L.27, s. 2.",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>2 </b>This Act applies only in territory without municipal organization.  R.S.O. 1990, c. L.27, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "3.",
+            "section_x": "Votes",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Votes",
+            "content": "3 Any matter to be determined by a vote at any meeting held under the authority of this Act shall be determined by a majority of the owners voting on the matter, and the owners shall decide how the voting shall be conducted.  R.S.O. 1990, c. L.27, s. 3.",
+            "raw_html": "<p class=\"section\"><a name=\"BK2\"></a><b>3 </b>Any matter to be determined by a vote at any meeting held under the authority of this Act shall be determined by a majority of the owners voting on the matter, and the owners shall decide how the voting shall be conducted.  R.S.O. 1990, c. L.27, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "4.",
+            "section_x": "Qualification of voters",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Qualification of voters",
+            "content": "4 (1) Every owner of land in a local roads area of the full age of eighteen years, including the chair of the meeting, is entitled to vote on any matter to be decided by a vote.  R.S.O. 1990, c. L.27, s. 4 (1). Idem (2) If an objection is made to the right of any person to vote at a meeting, the chair shall require the person to identify the land in respect of which the person claims the right to vote and to take an oath or affirmation that the person is of the full age of eighteen years and the owner of such land.  R.S.O. 1990, c. L.27, s. 4 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>4 </b>(1) Every owner of land in a local roads area of the full age of eighteen years, including the chair of the meeting, is entitled to vote on any matter to be decided by a vote.  R.S.O. 1990, c. L.27, s. 4 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) If an objection is made to the right of any person to vote at a meeting, the chair shall require the person to identify the land in respect of which the person claims the right to vote and to take an oath or affirmation that the person is of the full age of eighteen years and the owner of such land.  R.S.O. 1990, c. L.27, s. 4 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "5.",
+            "section_x": "Qualification of trustees",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Qualification of trustees",
+            "content": "5 No person shall be elected or appointed a trustee of a board unless the person is, (a) of the full age of eighteen years; (b) a Canadian citizen; and (c) an owner of land in the local roads area or proposed local roads area, as the case may be, in respect of which no taxes of a preceding year or years payable under this Act are in arrears.  R.S.O. 1990, c. L.27, s. 5.",
+            "raw_html": "<p class=\"section\"><a name=\"BK4\"></a><b>5 </b>No person shall be elected or appointed a trustee of a board unless the person is,</p> <p class=\"paragraph\">  (a) of the full age of eighteen years;</p> <p class=\"paragraph\">  (b) a Canadian citizen; and</p> <p class=\"paragraph\">  (c) an owner of land in the local roads area or proposed local roads area, as the case may be, in respect of which no taxes of a preceding year or years payable under this Act are in arrears.  R.S.O. 1990, c. L.27, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "6.",
+            "section_x": "Declaration of office",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Declaration of office",
+            "content": "6 Every person elected or appointed to a board or appointed secretary-treasurer of a board shall, before entering upon his or her duties, take a declaration of office in the prescribed form.  R.S.O. 1990, c. L.27, s. 6.",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>6 </b>Every person elected or appointed to a board or appointed secretary-treasurer of a board shall, before entering upon his or her duties, take a declaration of office in the prescribed form.  R.S.O. 1990, c. L.27, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "7.",
+            "section_x": "Meeting for establishment of area and board",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Meeting for establishment of area and board",
+            "content": "7 (1) Ten or more owners of land in a proposed local roads area may in writing appoint one of their number to call a meeting of all owners of land in such area to consider the establishment of a local roads area.  R.S.O. 1990, c. L.27, s. 7 (1). Notice of meeting (2) The owner so appointed shall call a meeting within ten days of the appointment by posting up in at least six conspicuous places and at each post office and school house in the proposed local roads area a notice setting forth a description or illustration of the roads to be included in and the boundaries of the proposed local roads area, the place, date, time and purpose of the meeting, the date of the posting of the notice and his or her name and address.  R.S.O. 1990, c. L.27, s. 7 (2). Date of meeting (3) The date of the meeting shall be at least ten days after the date of the posting up of the last notice.  R.S.O. 1990, c. L.27, s. 7 (3). Idem (4) The meeting shall take place at the time and place set forth in the notice, and the owner appointed under subsection (1) shall preside at the meeting as chair, but, if the owner is absent or declines to act, the owners of land in the proposed local roads area who are present at the meeting shall elect another of their number to act as chair.  R.S.O. 1990, c. L.27, s. 7 (4). Secretary (5) The owners of land in the proposed local roads area who are present at the meeting shall elect a secretary to record the proceedings.  R.S.O. 1990, c. L.27, s. 7 (5). Area and roads determined by vote (6) The owners of land in the proposed local roads area who are present at the meeting shall by vote determine the boundaries of the proposed local roads area, which area may be smaller but not larger than the area originally proposed, and the local roads to be included therein.  R.S.O. 1990, c. L.27, s. 7 (6). Election of trustees, petition to Minister (7) Where a majority of the owners of land in the proposed local roads area vote in favour of the establishment of a local roads area, (a) the owners of land in the area who are present at the meeting shall elect three of their number to be trustees of the board; and (b) the secretary shall forward to the Minister a petition in the prescribed form requesting that the proposed local roads area approved by the vote of the owners under subsection (6) be established as a local roads area and that the local roads approved by such vote be included therein.  R.S.O. 1990, c. L.27, s. 7 (7).",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>7 </b>(1) Ten or more owners of land in a proposed local roads area may in writing appoint one of their number to call a meeting of all owners of land in such area to consider the establishment of a local roads area.  R.S.O. 1990, c. L.27, s. 7 (1).</p> <p class=\"headnote\">Notice of meeting</p> <p class=\"subsection\">(2) The owner so appointed shall call a meeting within ten days of the appointment by posting up in at least six conspicuous places and at each post office and school house in the proposed local roads area a notice setting forth a description or illustration of the roads to be included in and the boundaries of the proposed local roads area, the place, date, time and purpose of the meeting, the date of the posting of the notice and his or her name and address.  R.S.O. 1990, c. L.27, s. 7 (2).</p> <p class=\"headnote\">Date of meeting</p> <p class=\"subsection\">(3) The date of the meeting shall be at least ten days after the date of the posting up of the last notice.  R.S.O. 1990, c. L.27, s. 7 (3).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(4) The meeting shall take place at the time and place set forth in the notice, and the owner appointed under subsection (1) shall preside at the meeting as chair, but, if the owner is absent or declines to act, the owners of land in the proposed local roads area who are present at the meeting shall elect another of their number to act as chair.  R.S.O. 1990, c. L.27, s. 7 (4).</p> <p class=\"headnote\">Secretary</p> <p class=\"subsection\">(5) The owners of land in the proposed local roads area who are present at the meeting shall elect a secretary to record the proceedings.  R.S.O. 1990, c. L.27, s. 7 (5).</p> <p class=\"headnote\">Area and roads determined by vote</p> <p class=\"subsection\">(6) The owners of land in the proposed local roads area who are present at the meeting shall by vote determine the boundaries of the proposed local roads area, which area may be smaller but not larger than the area originally proposed, and the local roads to be included therein.  R.S.O. 1990, c. L.27, s. 7 (6).</p> <p class=\"headnote\">Election of trustees, petition to Minister</p> <p class=\"subsection\">(7) Where a majority of the owners of land in the proposed local roads area vote in favour of the establishment of a local roads area,</p> <p class=\"paragraph\">  (a) the owners of land in the area who are present at the meeting shall elect three of their number to be trustees of the board; and</p> <p class=\"paragraph\">  (b) the secretary shall forward to the Minister a petition in the prescribed form requesting that the proposed local roads area approved by the vote of the owners under subsection (6) be established as a local roads area and that the local roads approved by such vote be included therein.  R.S.O. 1990, c. L.27, s. 7 (7).</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "8.",
+            "section_x": "Minister’s order",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Minister’s order",
+            "content": "8 (1) Upon receipt of a petition, the Minister, if the Minister considers it in the public interest so to do for the purposes of this Act, may, by order in writing, establish the proposed local roads area, or any smaller or larger area as the Minister considers appropriate, as a local roads area, and the Minister may designate the local roads to be included therein.  R.S.O. 1990, c. L.27, s. 8 (1). Trustees form board (2) Upon the establishment of a local roads area, the trustees elected under subsection 7 (7) form the board for the year in which they were elected and until successors elected in their stead have taken office.  R.S.O. 1990, c. L.27, s. 8 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>8 </b>(1) Upon receipt of a petition, the Minister, if the Minister considers it in the public interest so to do for the purposes of this Act, may, by order in writing, establish the proposed local roads area, or any smaller or larger area as the Minister considers appropriate, as a local roads area, and the Minister may designate the local roads to be included therein.  R.S.O. 1990, c. L.27, s. 8 (1).</p> <p class=\"headnote\">Trustees form board</p> <p class=\"subsection\">(2) Upon the establishment of a local roads area, the trustees elected under subsection 7 (7) form the board for the year in which they were elected and until successors elected in their stead have taken office.  R.S.O. 1990, c. L.27, s. 8 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "9.",
+            "section_x": "First meeting",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "First meeting",
+            "content": "9 (1) Every board shall meet within twenty-one days of the receipt of the order of the Minister establishing the local roads area.  R.S.O. 1990, c. L.27, s. 9 (1). Chair (2) Every board shall at its first meeting elect one of their number to be chair of the board.  R.S.O. 1990, c. L.27, s. 9 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK8\"></a><b>9 </b>(1) Every board shall meet within twenty-one days of the receipt of the order of the Minister establishing the local roads area.  R.S.O. 1990, c. L.27, s. 9 (1).</p> <p class=\"headnote\">Chair</p> <p class=\"subsection\">(2) Every board shall at its first meeting elect one of their number to be chair of the board.  R.S.O. 1990, c. L.27, s. 9 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "10.",
+            "section_x": "Duties of board, inspection",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Duties of board, inspection",
+            "content": "10 (1) The board shall annually, and may as often as it considers necessary, inspect the local roads in the local roads area.  R.S.O. 1990, c. L.27, s. 10 (1). Roadwork (2) The board may, within the limit of the money available to pay for such work and subject to the approval of the Minister, determine the work to be performed on local roads in the local roads area and enter into contracts for the performance of such work.  1996, c. 33, s. 29 (1). Trustee failing to act (3) If for any reason a trustee is unable or unwilling to act, the remaining two trustees may appoint an owner of land in the local roads area to serve for the remainder of the term of such trustee, and, where the trustee is the chair of the board, a new chair shall be elected by the trustees.  R.S.O. 1990, c. L.27, s. 10 (3). Secretary-treasurer (4) Every board shall appoint a secretary-treasurer who may be a member of the board other than the chair and, subject to such direction as the Minister may give, shall pay the secretary-treasurer such salary as the board may determine.  R.S.O. 1990, c. L.27, s. 10 (4). Security to be furnished by secretary-treasurer (5) Before entering on the duties of the office, the secretary-treasurer shall give annually such security as the board may direct for the faithful performance of such duties and for duly accounting for all money that comes into the secretary-treasurer’s hands.  R.S.O. 1990, c. L.27, s. 10 (5). Nature of security (6) The security to be given shall be the bond of an insurer licensed under the Insurance Act to write surety and fidelity insurance in such form and on such terms as the Minister may approve.  1997, c. 19, s. 35. Duties (7) In addition to the other duties prescribed by this Act, a secretary-treasurer shall attend all meetings of the board, keep minutes of such meetings, carry on correspondence as directed by the board, receive and safely keep all money paid to the board and maintain books of account and other records as may be required by the Minister or the board.  R.S.O. 1990, c. L.27, s. 10 (7). Section Amendments with date in force (d/m/y) 1996, c. 33, s. 29 (1) - 01/04/1997; 1997, c. 19, s. 35 - 10/10/1997",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>10 </b>(1) The board shall annually, and may as often as it considers necessary, inspect the local roads in the local roads area.  R.S.O. 1990, c. L.27, s. 10 (1).</p> <p class=\"headnote\">Roadwork</p> <p class=\"subsection\">(2) The board may, within the limit of the money available to pay for such work and subject to the approval of the Minister, determine the work to be performed on local roads in the local roads area and enter into contracts for the performance of such work.  1996, c. 33, s. 29 (1).</p> <p class=\"headnote\">Trustee failing to act</p> <p class=\"subsection\">(3) If for any reason a trustee is unable or unwilling to act, the remaining two trustees may appoint an owner of land in the local roads area to serve for the remainder of the term of such trustee, and, where the trustee is the chair of the board, a new chair shall be elected by the trustees.  R.S.O. 1990, c. L.27, s. 10 (3).</p> <p class=\"headnote\">Secretary-treasurer</p> <p class=\"subsection\">(4) Every board shall appoint a secretary-treasurer who may be a member of the board other than the chair and, subject to such direction as the Minister may give, shall pay the secretary-treasurer such salary as the board may determine.  R.S.O. 1990, c. L.27, s. 10 (4).</p> <p class=\"headnote\">Security to be furnished by secretary-treasurer</p> <p class=\"subsection\">(5) Before entering on the duties of the office, the secretary-treasurer shall give annually such security as the board may direct for the faithful performance of such duties and for duly accounting for all money that comes into the secretary-treasurer’s hands.  R.S.O. 1990, c. L.27, s. 10 (5).</p> <p class=\"headnote\">Nature of security</p> <p class=\"subsection\">(6) The security to be given shall be the bond of an insurer licensed under the <i>Insurance Act</i> to write surety and fidelity insurance in such form and on such terms as the Minister may approve.  1997, c. 19, s. 35.</p> <p class=\"headnote\">Duties</p> <p class=\"subsection\">(7) In addition to the other duties prescribed by this Act, a secretary-treasurer shall attend all meetings of the board, keep minutes of such meetings, carry on correspondence as directed by the board, receive and safely keep all money paid to the board and maintain books of account and other records as may be required by the Minister or the board.  R.S.O. 1990, c. L.27, s. 10 (7).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 33, s. 29 (1) - 01/04/1997; 1997, c. 19, s. 35 - 10/10/1997</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "10.0.1",
+            "section_x": "Annual estimate",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Annual estimate",
+            "content": "10.0.1 (1) The board shall prepare an estimate of the amount required for the purposes of the board for a year.  2008, c. 19, Sched. M, s. 1. Same (2) The estimate for a particular year may be prepared during the year or during the preceding year.  2008, c. 19, Sched. M, s. 1. Same (3) In preparing its estimate for a year, a board shall make due allowance for any surplus of any previous year that will be available in the current year and for any uncollectable taxes and for any money to be credited to the board under sections 31 and 32 in the current year.  2008, c. 19, Sched. M, s. 1. Section Amendments with date in force (d/m/y) 2008, c. 19, Sched. M, s. 1 - 01/01/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK10\"></a><b>10.0.1 </b>(1) The board shall prepare an estimate of the amount required for the purposes of the board for a year.  2008, c. 19, Sched. M, s. 1.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The estimate for a particular year may be prepared during the year or during the preceding year.  2008, c. 19, Sched. M, s. 1.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3) In preparing its estimate for a year, a board shall make due allowance for any surplus of any previous year that will be available in the current year and for any uncollectable taxes and for any money to be credited to the board under sections 31 and 32 in the current year.  2008, c. 19, Sched. M, s. 1.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S08019#schedms1\">2008, c. 19, Sched. M, s. 1</a></span> - 01/01/2009</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "10.1",
+            "section_x": "Liability under contracts",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Liability under contracts",
+            "content": "10.1 (1) The board may enter into contracts under subsection 10 (2) in its own name and may sue and be sued with respect to such contracts in its own name, but the trustees of the board are not personally liable for the board’s contracts.  1996, c. 33, s. 29 (2). Insurance (2) The board may purchase and maintain insurance against its liability under a contract entered into under subsection 10 (2).  1996, c. 33, s. 29 (2). Section Amendments with date in force (d/m/y) 1996, c. 33, s. 29 (2) - 01/04/1997",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>10.1</b> (1) The board may enter into contracts under subsection 10 (2) in its own name and may sue and be sued with respect to such contracts in its own name, but the trustees of the board are not personally liable for the board’s contracts.  1996, c. 33, s. 29 (2).</p> <p class=\"headnote\">Insurance</p> <p class=\"subsection\">(2) The board may purchase and maintain insurance against its liability under a contract entered into under subsection 10 (2).  1996, c. 33, s. 29 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 33, s. 29 (2) - 01/04/1997</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "11.",
+            "section_x": "Annual meeting",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Annual meeting",
+            "content": "11 (1) Before the 1st day of November in each year, the board shall call an annual meeting of the owners of land in the local roads area for the election of the successors of the members of the board and for the conduct of other business, including the presentation of a statement of the receipts and disbursements of the board and the auditor’s report, if one has been made.  R.S.O. 1990, c. L.27, s. 11 (1). Idem (2) The secretary-treasurer shall send notice of the time, date and place of the annual meeting to every owner of land in the local roads area and to the Minister not less than fourteen days before the meeting.  R.S.O. 1990, c. L.27, s. 11 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK12\"></a><b>11 </b>(1) Before the 1st day of November in each year, the board shall call an annual meeting of the owners of land in the local roads area for the election of the successors of the members of the board and for the conduct of other business, including the presentation of a statement of the receipts and disbursements of the board and the auditor’s report, if one has been made.  R.S.O. 1990, c. L.27, s. 11 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) The secretary-treasurer shall send notice of the time, date and place of the annual meeting to every owner of land in the local roads area and to the Minister not less than fourteen days before the meeting.  R.S.O. 1990, c. L.27, s. 11 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "12.",
+            "section_x": "Trustees, term of office",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Trustees, term of office",
+            "content": "12 The trustees elected at an annual meeting shall assume office on the 1st day of January in the year next following the year in which they were elected.  R.S.O. 1990, c. L.27, s. 12.",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>12 </b>The trustees elected at an annual meeting shall assume office on the 1st day of January in the year next following the year in which they were elected.  R.S.O. 1990, c. L.27, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "13.",
+            "section_x": "Chair",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Chair",
+            "content": "13 The chair of the board shall act as chair of the annual meeting.  R.S.O. 1990, c. L.27, s. 13.",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>13 </b>The chair of the board shall act as chair of the annual meeting.  R.S.O. 1990, c. L.27, s. 13.</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "14.",
+            "section_x": "Annual meeting, on call of secretary-treasurer",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Annual meeting, on call of secretary-treasurer",
+            "content": "14 (1) If in any year the board fails to call an annual meeting before the 1st day of November, the secretary-treasurer shall forthwith call such a meeting and shall give notice thereof as provided in subsection 11 (2), and shall act as chair of the meeting despite the fact that the chair of the board attends the meeting.  R.S.O. 1990, c. L.27, s. 14 (1). on call of ten owners (2) If in any year both the board and the secretary-treasurer fail to call an annual meeting or, having called an annual meeting, fail to put to a vote a proposal as required by the Minister under subsection 16 (2), any ten owners of land in the local roads area may call a meeting as provided in section 7 and may appoint one of their number to act as chair at the meeting, and such owner shall act as chair despite the fact that the chair of the board attends the meeting.  R.S.O. 1990, c. L.27, s. 14 (2). Expenses to be a debt (3) Any expense incurred by an owner in calling or providing for a meeting under subsection (2) shall be deemed to be a debt due and owing to the owner by the trustees and the secretary-treasurer, who are jointly and severally liable for the debt, and the owner may bring an action for the recovery of such debt in any court of competent jurisdiction.  R.S.O. 1990, c. L.27, s. 14 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK15\"></a><b>14 </b>(1) If in any year the board fails to call an annual meeting before the 1st day of November, the secretary-treasurer shall forthwith call such a meeting and shall give notice thereof as provided in subsection 11 (2), and shall act as chair of the meeting despite the fact that the chair of the board attends the meeting.  R.S.O. 1990, c. L.27, s. 14 (1).</p> <p class=\"headnote\">on call of ten owners</p> <p class=\"subsection\">(2) If in any year both the board and the secretary-treasurer fail to call an annual meeting or, having called an annual meeting, fail to put to a vote a proposal as required by the Minister under subsection 16 (2), any ten owners of land in the local roads area may call a meeting as provided in section 7 and may appoint one of their number to act as chair at the meeting, and such owner shall act as chair despite the fact that the chair of the board attends the meeting.  R.S.O. 1990, c. L.27, s. 14 (2).</p> <p class=\"headnote\">Expenses to be a debt</p> <p class=\"subsection\">(3) Any expense incurred by an owner in calling or providing for a meeting under subsection (2) shall be deemed to be a debt due and owing to the owner by the trustees and the secretary-treasurer, who are jointly and severally liable for the debt, and the owner may bring an action for the recovery of such debt in any court of competent jurisdiction.  R.S.O. 1990, c. L.27, s. 14 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "15.",
+            "section_x": "Financial statement",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Financial statement",
+            "content": "15 Upon receipt of notice of an annual meeting, the Minister shall cause to be prepared a statement of the money credited to the account of the board during the period since the last such statement and of the expenditures charged against the account for the same period, and shall send such statement to the secretary-treasurer at least three days before the date of the annual meeting.  R.S.O. 1990, c. L.27, s. 15.",
+            "raw_html": "<p class=\"section\"><a name=\"BK16\"></a><b>15 </b>Upon receipt of notice of an annual meeting, the Minister shall cause to be prepared a statement of the money credited to the account of the board during the period since the last such statement and of the expenditures charged against the account for the same period, and shall send such statement to the secretary-treasurer at least three days before the date of the annual meeting.  R.S.O. 1990, c. L.27, s. 15.</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "16.",
+            "section_x": "Alteration of boundaries or local roads",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Alteration of boundaries or local roads",
+            "content": "16 (1) Where it is proposed that, (a) the boundaries of a local roads area be altered; (b) any local road be added to or removed from a local roads area; (c) any local road included in a local roads area be extended; or (d) the minimum annual tax imposed under section 22 be altered, the proposal shall be put to a vote at an annual meeting, and the notice of such annual meeting shall outline the proposal.  R.S.O. 1990, c. L.27, s. 16 (1). Idem (2) Where it is proposed by the Minister that the boundaries of a local roads area be altered, the Minister may, by notice to the secretary-treasurer of the board affected, require the board to put the proposal to a vote at the next annual meeting.  R.S.O. 1990, c. L.27, s. 16 (2). Notices (3) Where it is proposed that a local roads area be enlarged, in addition to the notice required under subsection (1), the secretary-treasurer shall post within the new area that is proposed to be added to the existing local roads area notices of the proposal, setting forth a description or illustration of the boundaries of the new area and the place, date and time of the annual meeting, and all owners of land in the new area may attend the annual meeting and vote upon the proposal.  R.S.O. 1990, c. L.27, s. 16 (3). Record of vote (4) Where it is proposed that the boundaries of a local roads area be altered, the secretary-treasurer shall record separately the vote of the owners of land within the area that is proposed to be added to or to be removed from the local roads area.  R.S.O. 1990, c. L.27, s. 16 (4). Notification to Minister (5) Where a vote has been taken under subsection (1) or (2), the secretary-treasurer shall forward to the Minister a copy of the proposal together with a statement of the results of the vote showing the vote of the owners for and against the proposal and, in the case of a proposal made under clause (1) (a) or under subsection (2), the vote of the owners of land in the area that is proposed to be added to or to be removed from an existing area for and against the proposal.  R.S.O. 1990, c. L.27, s. 16 (5). Order by Minister (6) Where the Minister receives a copy of a proposal together with a statement of results as set out in subsection (5), the Minister, if the Minister considers it in the public interest so to do, may by order in writing alter the boundaries of the local roads area or the roads included therein in accordance with the proposal or in such other manner as the Minister considers appropriate.  R.S.O. 1990, c. L.27, s. 16 (6).",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>16 </b>(1) Where it is proposed that,</p> <p class=\"paragraph\">  (a) the boundaries of a local roads area be altered;</p> <p class=\"paragraph\">  (b) any local road be added to or removed from a local roads area;</p> <p class=\"paragraph\">  (c) any local road included in a local roads area be extended; or</p> <p class=\"paragraph\">  (d) the minimum annual tax imposed under section 22 be altered,</p> <p class=\"section\">the proposal shall be put to a vote at an annual meeting, and the notice of such annual meeting shall outline the proposal.  R.S.O. 1990, c. L.27, s. 16 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) Where it is proposed by the Minister that the boundaries of a local roads area be altered, the Minister may, by notice to the secretary-treasurer of the board affected, require the board to put the proposal to a vote at the next annual meeting.  R.S.O. 1990, c. L.27, s. 16 (2).</p> <p class=\"headnote\">Notices</p> <p class=\"subsection\">(3) Where it is proposed that a local roads area be enlarged, in addition to the notice required under subsection (1), the secretary-treasurer shall post within the new area that is proposed to be added to the existing local roads area notices of the proposal, setting forth a description or illustration of the boundaries of the new area and the place, date and time of the annual meeting, and all owners of land in the new area may attend the annual meeting and vote upon the proposal.  R.S.O. 1990, c. L.27, s. 16 (3).</p> <p class=\"headnote\">Record of vote</p> <p class=\"subsection\">(4) Where it is proposed that the boundaries of a local roads area be altered, the secretary-treasurer shall record separately the vote of the owners of land within the area that is proposed to be added to or to be removed from the local roads area.  R.S.O. 1990, c. L.27, s. 16 (4).</p> <p class=\"headnote\">Notification to Minister</p> <p class=\"subsection\">(5) Where a vote has been taken under subsection (1) or (2), the secretary-treasurer shall forward to the Minister a copy of the proposal together with a statement of the results of the vote showing the vote of the owners for and against the proposal and, in the case of a proposal made under clause (1) (a) or under subsection (2), the vote of the owners of land in the area that is proposed to be added to or to be removed from an existing area for and against the proposal.  R.S.O. 1990, c. L.27, s. 16 (5).</p> <p class=\"headnote\">Order by Minister</p> <p class=\"subsection\">(6) Where the Minister receives a copy of a proposal together with a statement of results as set out in subsection (5), the Minister, if the Minister considers it in the public interest so to do, may by order in writing alter the boundaries of the local roads area or the roads included therein in accordance with the proposal or in such other manner as the Minister considers appropriate.  R.S.O. 1990, c. L.27, s. 16 (6).</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "17.",
+            "section_x": "Vote on dissolution",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Vote on dissolution",
+            "content": "17 (1) Where it is proposed that a board and a local roads area be dissolved, the proposal shall be put to a vote at an annual meeting, and the notice of such annual meeting shall outline the proposal.  R.S.O. 1990, c. L.27, s. 17 (1). Notification to Minister (2) Where the majority of owners present at an annual meeting approve a proposal that the board and its local roads area be dissolved, the secretary-treasurer shall forthwith forward to the Minister a copy of the proposal, together with a statement of the vote for and against the proposal, and the Minister, if the Minister considers it in the public interest so to do, may by order in writing dissolve the board and the local roads area.  R.S.O. 1990, c. L.27, s. 17 (2). Dissolution by Minister (3) Where a board and its secretary-treasurer fail to call an annual meeting as herein provided and no meeting is called under subsection 14 (2), the Minister may by order in writing dissolve the board and the local roads area.  R.S.O. 1990, c. L.27, s. 17 (3). Surplus funds (4) Where money remains in the account maintained by the Minister to the credit of a board that has been dissolved, the Minister may order the money forfeited to the Treasurer of Ontario or the Minister may expend it on the local roads in the former local roads area.  R.S.O. 1990, c. L.27, s. 17 (4).",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>17 </b>(1) Where it is proposed that a board and a local roads area be dissolved, the proposal shall be put to a vote at an annual meeting, and the notice of such annual meeting shall outline the proposal.  R.S.O. 1990, c. L.27, s. 17 (1).</p> <p class=\"headnote\">Notification to Minister</p> <p class=\"subsection\">(2) Where the majority of owners present at an annual meeting approve a proposal that the board and its local roads area be dissolved, the secretary-treasurer shall forthwith forward to the Minister a copy of the proposal, together with a statement of the vote for and against the proposal, and the Minister, if the Minister considers it in the public interest so to do, may by order in writing dissolve the board and the local roads area.  R.S.O. 1990, c. L.27, s. 17 (2).</p> <p class=\"headnote\">Dissolution by Minister</p> <p class=\"subsection\">(3) Where a board and its secretary-treasurer fail to call an annual meeting as herein provided and no meeting is called under subsection 14 (2), the Minister may by order in writing dissolve the board and the local roads area.  R.S.O. 1990, c. L.27, s. 17 (3).</p> <p class=\"headnote\">Surplus funds</p> <p class=\"subsection\">(4) Where money remains in the account maintained by the Minister to the credit of a board that has been dissolved, the Minister may order the money forfeited to the Treasurer of Ontario or the Minister may expend it on the local roads in the former local roads area.  R.S.O. 1990, c. L.27, s. 17 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "18.",
+            "section_x": "Liability for damages",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Liability for damages",
+            "content": "18 No action shall be brought against the Crown, a board or any trustee elected or appointed under this Act for damage caused by any default in the maintenance of a local road in a local roads area, and neither the Crown nor a board nor any such trustee is liable for any damage sustained by any person using such local road.  R.S.O. 1990, c. L.27, s. 18.",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>18 </b>No action shall be brought against the Crown, a board or any trustee elected or appointed under this Act for damage caused by any default in the maintenance of a local road in a local roads area, and neither the Crown nor a board nor any such trustee is liable for any damage sustained by any person using such local road.  R.S.O. 1990, c. L.27, s. 18.</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "19.",
+            "section_x": "Liability to assessment and taxation",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Liability to assessment and taxation",
+            "content": "19 All land, as defined in the Assessment Act, in a local roads area is liable to taxation under this Act, subject to the exemptions from taxation enumerated in subsection 3 (1) of the Assessment Act and those enumerated in section 3 of the Provincial Land Tax Act, 2006.  2006, c. 33, Sched. Z.3, s. 16 (1). Section Amendments with date in force (d/m/y) 2006, c. 33, Sched. Z.3, s. 16 (1) - 01/01/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>19 </b>All land, as defined in the <i>Assessment Act</i>, in a local roads area is liable to taxation under this Act, subject to the exemptions from taxation enumerated in subsection 3 (1) of the <i>Assessment Act</i> and those enumerated in section 3 of the <i>Provincial Land Tax Act, 2006</i>.  2006, c. 33, Sched. Z.3, s. 16 (1).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06033#schedz3s16s1\">2006, c. 33, Sched. Z.3, s. 16 (1)</a></span> - 01/01/2009</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "20.",
+            "section_x": "Assessment of land",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Assessment of land",
+            "content": "20 The assessment made under the Assessment Act of land in a local roads area constitutes the assessment of the land for the purposes of this Act.  2006, c. 33, Sched. Z.3, s. 16 (2). Section Amendments with date in force (d/m/y) 2006, c. 33, Sched. Z.3, s. 16 (2) - 01/01/2009 Annual levy",
+            "raw_html": "<p class=\"section\"><a name=\"BK21\"></a><b>20 </b>The assessment made under the <i>Assessment Act</i> of land in a local roads area constitutes the assessment of the land for the purposes of this Act.  2006, c. 33, Sched. Z.3, s. 16 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06033#schedz3s16s2\">2006, c. 33, Sched. Z.3, s. 16 (2)</a></span> - 01/01/2009</p> <p class=\"headnote\">Annual levy</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "21.",
+            "section_x": "Annual levy",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Definitions",
+            "content": "21 (1) In this section, “assessment” means the assessment for real property made under the Assessment Act according to the last returned roll; (“évaluation”) “property class” means a class of real property prescribed under the Assessment Act; (“catégorie de biens”) “residential property class” means the residential property class prescribed under the Assessment Act; (“catégorie des biens résidentiels”) “tax ratio” means a tax ratio described in subsection (7). (“coefficient d’impôt”)  2008, c. 19, Sched. M, s. 2. Tax rates (2) Each year, the board shall levy a separate tax rate on the assessment in each property class in the local roads area of the board.  2008, c. 19, Sched. M, s. 2. Adjustments to assessments (3) For the purposes of subsection (2), the assessment in each property class includes any adjustments made under section 32, 33, 34, 39.1 or 40 of the Assessment Act to the assessments on the assessment roll as returned for the taxation year if the adjustments are made on the tax roll before the board determines the tax rate referred to in subsection (2).  2008, c. 19, Sched. M, s. 2. Taxes to be levied equally (4) The tax rate shall be levied upon the whole of the assessment for real property in the local roads area of the board according to the amounts assessed and not upon one or more kinds of property or assessment or in different proportions.  2008, c. 19, Sched. M, s. 2. Calculation of rates (5) The tax rates shall be calculated as percentages of the assessment in each property class.  2008, c. 19, Sched. M, s. 2. Restrictions on rates (6) The tax rates to be levied under this section are subject to the following restrictions: 1. The rates must be set so that, when they are levied on the applicable assessment, a sum equal to the amount estimated for the year by the board under subsection 10.0.1 (1) is raised. 2. The rates on the different property classes must be in the same proportion to each other as the tax ratios for the property classes are to each other.  2008, c. 19, Sched. M, s. 2. What tax ratios are (7) The tax ratios are the ratios that the tax rate for each property class must be to the tax rate for the residential property classes where the residential property class is one.  2008, c. 19, Sched. M, s. 2. Regulations (8) The Minister of Finance may make regulations prescribing, for a particular board, the tax ratios or the method for determining tax ratios.  2008, c. 19, Sched. M, s. 2. Section Amendments with date in force (d/m/y) 1997, c. 43, Sched. F, s. 7 - 01/01/1998; 1999, c. 9, s. 137 (1) - 14/12/1999 2008, c. 19, Sched. M, s. 2 - 01/01/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>21 </b>(1) In this section,</p> <p class=\"definition\">“assessment” means the assessment for real property made under the <i>Assessment Act</i> according to the last returned roll; (“évaluation”)</p> <p class=\"definition\">“property class” means a class of real property prescribed under the <i>Assessment Act</i>; (“catégorie de biens”)</p> <p class=\"definition\">“residential property class” means the residential property class prescribed under the <i>Assessment Act</i>; (“catégorie des biens résidentiels”)</p> <p class=\"definition\">“tax ratio” means a tax ratio described in subsection (7). (“coefficient d’impôt”)  2008, c. 19, Sched. M, s. 2.</p> <p class=\"headnote\">Tax rates</p> <p class=\"subsection\">(2) Each year, the board shall levy a separate tax rate on the assessment in each property class in the local roads area of the board.  2008, c. 19, Sched. M, s. 2.</p> <p class=\"headnote\">Adjustments to assessments</p> <p class=\"subsection\">(3) For the purposes of subsection (2), the assessment in each property class includes any adjustments made under section 32, 33, 34, 39.1 or 40 of the <i>Assessment Act</i> to the assessments on the assessment roll as returned for the taxation year if the adjustments are made on the tax roll before the board determines the tax rate referred to in subsection (2).  2008, c. 19, Sched. M, s. 2.</p> <p class=\"headnote\">Taxes to be levied equally</p> <p class=\"subsection\">(4) The tax rate shall be levied upon the whole of the assessment for real property in the local roads area of the board according to the amounts assessed and not upon one or more kinds of property or assessment or in different proportions.  2008, c. 19, Sched. M, s. 2.</p> <p class=\"headnote\">Calculation of rates</p> <p class=\"subsection\">(5) The tax rates shall be calculated as percentages of the assessment in each property class.  2008, c. 19, Sched. M, s. 2.</p> <p class=\"headnote\">Restrictions on rates</p> <p class=\"subsection\">(6) The tax rates to be levied under this section are subject to the following restrictions:</p> <p class=\"paragraph\">  1. The rates must be set so that, when they are levied on the applicable assessment, a sum equal to the amount estimated for the year by the board under subsection 10.0.1 (1) is raised.</p> <p class=\"paragraph\">  2. The rates on the different property classes must be in the same proportion to each other as the tax ratios for the property classes are to each other.  2008, c. 19, Sched. M, s. 2.</p> <p class=\"headnote\">What tax ratios are</p> <p class=\"subsection\">(7) The tax ratios are the ratios that the tax rate for each property class must be to the tax rate for the residential property classes where the residential property class is one.  2008, c. 19, Sched. M, s. 2.</p> <p class=\"headnote\">Regulations</p> <p class=\"subsection\">(8) The Minister of Finance may make regulations prescribing, for a particular board, the tax ratios or the method for determining tax ratios.  2008, c. 19, Sched. M, s. 2.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1997, c. 43, Sched. F, s. 7 - 01/01/1998; 1999, c. 9, s. 137 (1) - 14/12/1999</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S08019#schedms2\">2008, c. 19, Sched. M, s. 2</a></span> - 01/01/2009</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "22.",
+            "section_x": "Minimum tax",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Minimum tax",
+            "content": "22 (1) The minimum annual tax imposed under this Act in respect of the land of any owner is the minimum annual tax approved by a majority of owners present at an annual meeting, but where there is no such approval, the minimum annual tax is $10.  R.S.O. 1990, c. L.27, s. 22 (1). Idem (2) Where a minimum annual tax is approved under subsection (1), that minimum annual tax as approved remains in effect until a further variation is approved at a subsequent annual meeting.  R.S.O. 1990, c. L.27, s. 22 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>22 </b>(1) The minimum annual tax imposed under this Act in respect of the land of any owner is the minimum annual tax approved by a majority of owners present at an annual meeting, but where there is no such approval, the minimum annual tax is $10.  R.S.O. 1990, c. L.27, s. 22 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) Where a minimum annual tax is approved under subsection (1), that minimum annual tax as approved remains in effect until a further variation is approved at a subsequent annual meeting.  R.S.O. 1990, c. L.27, s. 22 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "23.",
+            "section_x": "Annual tax",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Annual tax",
+            "content": "23 The tax levied under this Act in any year becomes due and is payable to the board on the 1st day of June in that year.  R.S.O. 1990, c. L.27, s. 23.",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>23 </b>The tax levied under this Act in any year becomes due and is payable to the board on the 1st day of June in that year.  R.S.O. 1990, c. L.27, s. 23.</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "24.",
+            "section_x": "Tax bill",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Tax bill",
+            "content": "24 (1) A tax bill shall be sent by the secretary-treasurer to every owner of land in the local roads area on or before the 1st day of June in the year in which the tax is payable.  R.S.O. 1990, c. L.27, s. 24 (1). Idem (2) The tax bill shall show the assessed value of the land, the tax rate, the amount of tax payable and such other matters as are prescribed.  R.S.O. 1990, c. L.27, s. 24 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>24 </b>(1) A tax bill shall be sent by the secretary-treasurer to every owner of land in the local roads area on or before the 1st day of June in the year in which the tax is payable.  R.S.O. 1990, c. L.27, s. 24 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) The tax bill shall show the assessed value of the land, the tax rate, the amount of tax payable and such other matters as are prescribed.  R.S.O. 1990, c. L.27, s. 24 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "25.",
+            "section_x": "Local Roads Tax Register",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Local Roads Tax Register",
+            "content": "25 (1) The secretary-treasurer shall keep a register, to be known as the Local Roads Tax Register, in which the secretary-treasurer shall set down the name and address in full of every person in the local roads area assessed and taxed under this Act, a brief description of the land in respect of which such person is taxed, the amount of its assessment and taxation in each year, the amount of taxes paid from time to time, and the balance of unpaid taxes, if any.  R.S.O. 1990, c. L.27, s. 25 (1). Idem (2) The address of an owner in the register, where the owner has given the secretary-treasurer notice in writing of the address, shall be the address in such notice, and, where the owner has not given the secretary-treasurer such a notice, shall be the address for the owner shown in the proper land registry office, as the case may be, for that owner or for the last registered owner of the land.  R.S.O. 1990, c. L.27, s. 25 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK26\"></a><b>25 </b>(1) The secretary-treasurer shall keep a register, to be known as the Local Roads Tax Register, in which the secretary-treasurer shall set down the name and address in full of every person in the local roads area assessed and taxed under this Act, a brief description of the land in respect of which such person is taxed, the amount of its assessment and taxation in each year, the amount of taxes paid from time to time, and the balance of unpaid taxes, if any.  R.S.O. 1990, c. L.27, s. 25 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) The address of an owner in the register, where the owner has given the secretary-treasurer notice in writing of the address, shall be the address in such notice, and, where the owner has not given the secretary-treasurer such a notice, shall be the address for the owner shown in the proper land registry office, as the case may be, for that owner or for the last registered owner of the land.  R.S.O. 1990, c. L.27, s. 25 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "26.",
+            "section_x": "Penalty on unpaid tax",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Penalty on unpaid tax",
+            "content": "26 (1) Where any tax under this Act remains unpaid on the 1st day of August in the year in which it is payable, a penalty of 10 per cent shall be added thereto.  R.S.O. 1990, c. L.27, s. 26 (1). Idem (2) Where any tax or penalty remains unpaid on the 1st day of August in the year next following the year in which it is payable, a penalty of 10 per cent shall be added thereto, and, where the whole or any part of such tax or penalties remains unpaid on the 1st day of August in any subsequent year, a further penalty of 10 per cent of the taxes and penalties remaining unpaid shall be added thereto.  R.S.O. 1990, c. L.27, s. 26 (2). Idem (3) Any penalty imposed under this section shall be deemed to be tax due and payable under this Act.  R.S.O. 1990, c. L.27, s. 26 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK27\"></a><b>26 </b>(1) Where any tax under this Act remains unpaid on the 1st day of August in the year in which it is payable, a penalty of 10 per cent shall be added thereto.  R.S.O. 1990, c. L.27, s. 26 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) Where any tax or penalty remains unpaid on the 1st day of August in the year next following the year in which it is payable, a penalty of 10 per cent shall be added thereto, and, where the whole or any part of such tax or penalties remains unpaid on the 1st day of August in any subsequent year, a further penalty of 10 per cent of the taxes and penalties remaining unpaid shall be added thereto.  R.S.O. 1990, c. L.27, s. 26 (2).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(3) Any penalty imposed under this section shall be deemed to be tax due and payable under this Act.  R.S.O. 1990, c. L.27, s. 26 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "27.",
+            "section_x": "Who liable for taxes",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Who liable for taxes",
+            "content": "27 (1) The taxes and penalties due upon any land with costs may be recovered as a debt due to the board from the owner originally assessed therefor and from any subsequent owner of the whole or any part thereof, saving the owner’s recourse against any other person, and are a special lien on the land in priority to every claim, privilege, lien or encumbrance of every person except the Crown, and the lien and its priority are not lost or impaired by any neglect, omission or error of the board or of any person appointed or assigned to any work in the course of the administration of this Act, or by want of registration.  R.S.O. 1990, c. L.27, s. 27 (1). Action for recovery of taxes and penalties (2) The secretary-treasurer, with the approval of the board, may bring an action on behalf of and in the name of the board for the recovery of taxes and penalties due upon any lands in any court of competent jurisdiction.  R.S.O. 1990, c. L.27, s. 27 (2). Liability in respect of action (3) Any liability incurred by or on behalf of the board in respect of an action brought by the secretary-treasurer under subsection (2) is a charge against the assets of the board, and no personal liability shall be incurred in respect thereof by the secretary-treasurer or any trustee elected or appointed under this Act.  R.S.O. 1990, c. L.27, s. 27 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK28\"></a><b>27 </b>(1) The taxes and penalties due upon any land with costs may be recovered as a debt due to the board from the owner originally assessed therefor and from any subsequent owner of the whole or any part thereof, saving the owner’s recourse against any other person, and are a special lien on the land in priority to every claim, privilege, lien or encumbrance of every person except the Crown, and the lien and its priority are not lost or impaired by any neglect, omission or error of the board or of any person appointed or assigned to any work in the course of the administration of this Act, or by want of registration.  R.S.O. 1990, c. L.27, s. 27 (1).</p> <p class=\"headnote\">Action for recovery of taxes and penalties</p> <p class=\"subsection\">(2) The secretary-treasurer, with the approval of the board, may bring an action on behalf of and in the name of the board for the recovery of taxes and penalties due upon any lands in any court of competent jurisdiction.  R.S.O. 1990, c. L.27, s. 27 (2).</p> <p class=\"headnote\">Liability in respect of action</p> <p class=\"subsection\">(3) Any liability incurred by or on behalf of the board in respect of an action brought by the secretary-treasurer under subsection (2) is a charge against the assets of the board, and no personal liability shall be incurred in respect thereof by the secretary-treasurer or any trustee elected or appointed under this Act.  R.S.O. 1990, c. L.27, s. 27 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "28.",
+            "section_x": "Delivery of tax bills",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Delivery of tax bills",
+            "content": "28 A tax bill or a notice required to be sent under this Act shall be sent by mail to the address of the owner or his or her agent as shown on the register.  R.S.O. 1990, c. L.27, s. 28; 2006, c. 19, Sched. T, s. 8. Section Amendments with date in force (d/m/y) 2006, c. 19, Sched. T, s. 8 - 22/06/2006",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>28 </b>A tax bill or a notice required to be sent under this Act shall be sent by mail to the address of the owner or his or her agent as shown on the register.  R.S.O. 1990, c. L.27, s. 28; 2006, c. 19, Sched. T, s. 8.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedts8\">2006, c. 19, Sched. T, s. 8</a></span> - 22/06/2006</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "29.",
+            "section_x": "Billing joint owners, etc.",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Billing joint owners, etc.",
+            "content": "29 (1) Where land is owned by two or more persons, either jointly or otherwise, a secretary-treasurer may send notices and tax bills issued under this Act to such part-owner as is designated by the other part-owners, and, where the part-owners fail to designate a part-owner for this purpose or where they fail to agree on which part-owner should be designated, a secretary-treasurer may select a part-owner to whom such notices and tax bills may be sent.  R.S.O. 1990, c. L.27, s. 29 (1). Idem (2) Where a secretary-treasurer designates the part-owner to whom such notices and tax bills may be sent, the secretary-treasurer shall notify the other part-owners of the designation.  R.S.O. 1990, c. L.27, s. 29 (2). Idem (3) Notices and tax bills sent to a part-owner designated under subsection (1) shall be deemed to have been sent to the other part-owners.  R.S.O. 1990, c. L.27, s. 29 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK30\"></a><b>29 </b>(1) Where land is owned by two or more persons, either jointly or otherwise, a secretary-treasurer may send notices and tax bills issued under this Act to such part-owner as is designated by the other part-owners, and, where the part-owners fail to designate a part-owner for this purpose or where they fail to agree on which part-owner should be designated, a secretary-treasurer may select a part-owner to whom such notices and tax bills may be sent.  R.S.O. 1990, c. L.27, s. 29 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) Where a secretary-treasurer designates the part-owner to whom such notices and tax bills may be sent, the secretary-treasurer shall notify the other part-owners of the designation.  R.S.O. 1990, c. L.27, s. 29 (2).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(3) Notices and tax bills sent to a part-owner designated under subsection (1) shall be deemed to have been sent to the other part-owners.  R.S.O. 1990, c. L.27, s. 29 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "29.1",
+            "section_x": "Delegation re tax collection",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Delegation re tax collection",
+            "content": "29.1 (1) A board may enter into an agreement with the Minister of Finance providing for the delegation to the Minister of Finance of the board’s powers under this Act to collect tax.  2008, c. 19, Sched. M, s. 3 (1). Timing (1.1) An agreement must be entered into no later than December 1 of the year preceding the first taxation year to which the delegation applies.  2008, c. 19, Sched. M, s. 3 (1). Transition (1.2) Despite subsection (1.1), an agreement for a delegation that applies to the 2009 taxation year may be entered into at any time during the 2009 taxation year that the Minister of Finance considers appropriate.  2009, c. 18, Sched. 16, s. 1. Effect of delegation (2) When a delegation applies in respect of a taxation year, sections 23 to 29 do not apply for the year and the Minister of Finance may collect the tax under the Provincial Land Tax Act, 2006 as if it was tax imposed under that Act.  2006, c. 33, Sched. Z.3, s. 16 (3). Termination of agreement (3) The Minister of Finance may terminate an agreement by giving written notice to the board at least 12 months before the beginning of the taxation year in respect of which agreement ceases to apply.  2008, c. 19, Sched. M, s. 3 (2). Same (4) A board may terminate an agreement by serving notice on the Minister of Finance at least 12 months before the beginning of the taxation year in respect of which the agreement ceases to apply.  2008, c. 19, Sched. M, s. 3 (2). Section Amendments with date in force (d/m/y) 2006, c. 33, Sched. Z.3, s. 16 (3) - 01/01/2009 2008, c. 19, Sched. M, s. 3 (1, 2) - 01/01/2009 2009, c. 18, Sched. 16, s. 1 - 05/06/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK31\"></a><b>29.1</b> (1) A board may enter into an agreement with the Minister of Finance providing for the delegation to the Minister of Finance of the board’s powers under this Act to collect tax.  2008, c. 19, Sched. M, s. 3 (1).</p> <p class=\"headnote\">Timing</p> <p class=\"subsection\">(1.1) An agreement must be entered into no later than December 1<sup> </sup>of the year preceding the first taxation year to which the delegation applies.  2008, c. 19, Sched. M, s. 3 (1).</p> <p class=\"headnote\">Transition</p> <p class=\"subsection\">(1.2) Despite subsection (1.1), an agreement for a delegation that applies to the 2009 taxation year may be entered into at any time during the 2009 taxation year that the Minister of Finance considers appropriate.  2009, c. 18, Sched. 16, s. 1.</p> <p class=\"headnote\">Effect of delegation</p> <p class=\"subsection\">(2) When a delegation applies in respect of a taxation year, sections 23 to 29 do not apply for the year and the Minister of Finance may collect the tax under the <i>Provincial Land Tax Act, 2006</i> as if it was tax imposed under that Act.  2006, c. 33, Sched. Z.3, s. 16 (3).</p> <p class=\"headnote\">Termination of agreement</p> <p class=\"subsection\">(3) The Minister of Finance may terminate an agreement by giving written notice to the board at least 12 months before the beginning of the taxation year in respect of which agreement ceases to apply.  2008, c. 19, Sched. M, s. 3 (2).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(4) A board may terminate an agreement by serving notice on the Minister of Finance at least 12 months before the beginning of the taxation year in respect of which the agreement ceases to apply.  2008, c. 19, Sched. M, s. 3 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06033#schedz3s16s3\">2006, c. 33, Sched. Z.3, s. 16 (3)</a></span> - 01/01/2009</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S08019#schedms3s1\">2008, c. 19, Sched. M, s. 3 (1, 2)</a></span> - 01/01/2009</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09018#sched16s1\">2009, c. 18, Sched. 16, s. 1</a></span> - 05/06/2009</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "30.",
+            "section_x": "Remission of tax to Minister",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Remission of tax to Minister",
+            "content": "30 The secretary-treasurer shall remit to the Minister an amount equal to the amount of the tax money received by the secretary-treasurer from the owners of land within the local roads area less the amount required to defray the incidental expenses and administrative costs of the secretary-treasurer and of the board.  R.S.O. 1990, c. L.27, s. 30.",
+            "raw_html": "<p class=\"section\"><a name=\"BK32\"></a><b>30 </b>The secretary-treasurer shall remit to the Minister an amount equal to the amount of the tax money received by the secretary-treasurer from the owners of land within the local roads area less the amount required to defray the incidental expenses and administrative costs of the secretary-treasurer and of the board.  R.S.O. 1990, c. L.27, s. 30.</p>"
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "31.",
+            "section_x": "Credits",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Credits",
+            "content": "31 (1) The money received by the Minister from a board shall be paid into the Consolidated Revenue Fund and credited to that board, and the Minister shall cause to be credited to that board, out of money appropriated therefor by the Legislature, an amount not exceeding twice the amount of the money so received.  2008, c. 19, Sched. M, s. 4. Same, tax collectable by the Minister of Finance (1.1) Upon receiving written notice from the Minister of Finance of the amount of tax collectable by the Minister of Finance for a board in respect of a taxation year under an agreement authorized by section 29.1, the Minister shall cause that amount to be credited to the board and the Minister may cause an amount not exceeding twice that amount to be credited to the board out of money appropriated therefor by the Legislature.  2008, c. 19, Sched. M, s. 4. Idem (2) For the purpose of determining the amount to be credited to a board under subsection (1), the money paid by a board to its secretary-treasurer under subsection 10 (4) shall be deemed to have been received by the Minister.  R.S.O. 1990, c. L.27, s. 31 (2). Section Amendments with date in force (d/m/y) 1996, c. 1, Sched. M, s. 48 - 01/01/1996 2008, c. 19, Sched. M, s. 4 - 01/01/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK33\"></a><b>31 </b>(1) The money received by the Minister from a board shall be paid into the Consolidated Revenue Fund and credited to that board, and the Minister shall cause to be credited to that board, out of money appropriated therefor by the Legislature, an amount not exceeding twice the amount of the money so received.  2008, c. 19, Sched. M, s. 4.</p> <p class=\"headnote\">Same, tax collectable by the Minister of Finance</p> <p class=\"subsection\">(1.1) Upon receiving written notice from the Minister of Finance of the amount of tax collectable by the Minister of Finance for a board in respect of a taxation year under an agreement authorized by section 29.1, the Minister shall cause that amount to be credited to the board and the Minister may cause an amount not exceeding twice that amount to be credited to the board out of money appropriated therefor by the Legislature.  2008, c. 19, Sched. M, s. 4.</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) For the purpose of determining the amount to be credited to a board under subsection (1), the money paid by a board to its secretary-treasurer under subsection 10 (4) shall be deemed to have been received by the Minister.  R.S.O. 1990, c. L.27, s. 31 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 1, Sched. M, s. 48 - 01/01/1996</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S08019#schedms4\">2008, c. 19, Sched. M, s. 4</a></span> - 01/01/2009</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "32.",
+            "section_x": "Credits re unoccupied Crown land",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Credits re unoccupied Crown land",
+            "content": "32 (1) In addition to the amounts credited to a board by the Minister under section 31, the Minister may annually credit to a board in respect of unoccupied Crown land fronting on a local road in the local roads area an amount equal to the lesser of, (a) the amount prescribed by the regulations; or (b) twice the amount remitted to the Minister by the board under section 30 or, if the board has entered into an agreement under section 29.1, twice the amount of tax collectable by the Minister of Finance under subsection 31 (1.1).  2008, c. 19, Sched. M, s. 5. Same (2) Amounts credited under subsection (1) shall be paid out of money appropriated therefor by the Legislature.  2008, c. 19, Sched. M, s. 5. Regulations (3) The Minister may make regulations prescribing an amount for the purposes of clause (1) (a).  2008, c. 19, Sched. M, s. 5. Section Amendments with date in force (d/m/y) 2008, c. 19, Sched. M, s. 5 - 01/01/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK34\"></a><b>32 </b>(1) In addition to the amounts credited to a board by the Minister under section 31, the Minister may annually credit to a board in respect of unoccupied Crown land fronting on a local road in the local roads area an amount equal to the lesser of,</p> <p class=\"paragraph\">  (a) the amount prescribed by the regulations; or</p> <p class=\"paragraph\">  (b) twice the amount remitted to the Minister by the board under section 30 or, if the board has entered into an agreement under section 29.1, twice the amount of tax collectable by the Minister of Finance under subsection 31 (1.1).  2008, c. 19, Sched. M, s. 5.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) Amounts credited under subsection (1) shall be paid out of money appropriated therefor by the Legislature.  2008, c. 19, Sched. M, s. 5.</p> <p class=\"headnote\">Regulations</p> <p class=\"subsection\">(3) The Minister may make regulations prescribing an amount for the purposes of clause (1) (a).  2008, c. 19, Sched. M, s. 5.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S08019#schedms5\">2008, c. 19, Sched. M, s. 5</a></span> - 01/01/2009</p>"
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "33.",
+            "section_x": "Expenditure of money",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Expenditure of money",
+            "content": "33 (1) The Minister shall cause the amounts credited to each board to be spent on the local roads area in carrying out work determined by the board and approved by the Minister under section 10, or in acquiring right-of-way for roads.  R.S.O. 1990, c. L.27, s. 33 (1); 2008, c. 19, Sched. M, s. 6. Powers (2) For any of the purposes of this Act, the Minister may exercise any powers of the Minister under Part I of the Public Transportation and Highway Improvement Act, including the power to expropriate land.  R.S.O. 1990, c. L.27, s. 33 (2). Land vested in Crown (3) All land heretofore or hereafter acquired under subsection (2) is vested in the Crown in right of Ontario and is under the jurisdiction and control of the Minister and when no longer required for the purposes of this Act may be sold, leased or otherwise disposed of by the Minister.  R.S.O. 1990, c. L.27, s. 33 (3). Section Amendments with date in force (d/m/y) 2008, c. 19, Sched. M, s. 6 - 01/01/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK35\"></a><b>33 </b>(1) The Minister shall cause the amounts credited to each board to be spent on the local roads area in carrying out work determined by the board and approved by the Minister under section 10, or in acquiring right-of-way for roads.  R.S.O. 1990, c. L.27, s. 33 (1); 2008, c. 19, Sched. M, s. 6.</p> <p class=\"headnote\">Powers</p> <p class=\"subsection\">(2) For any of the purposes of this Act, the Minister may exercise any powers of the Minister under Part I of the <i>Public Transportation and Highway Improvement Act</i>, including the power to expropriate land.  R.S.O. 1990, c. L.27, s. 33 (2).</p> <p class=\"headnote\">Land vested in Crown</p> <p class=\"subsection\">(3) All land heretofore or hereafter acquired under subsection (2) is vested in the Crown in right of Ontario and is under the jurisdiction and control of the Minister and when no longer required for the purposes of this Act may be sold, leased or otherwise disposed of by the Minister.  R.S.O. 1990, c. L.27, s. 33 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S08019#schedms6\">2008, c. 19, Sched. M, s. 6</a></span> - 01/01/2009</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "33.1",
+            "section_x": "Advance re tax not yet collectable by the Minister of Finance",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Advance re tax not yet collectable by the Minister of Finance",
+            "content": "33.1 (1) Upon request by the Minister, the Minister of Finance may authorize an advance to be paid from the Consolidated Revenue Fund to the Minister in respect of a board if both the following circumstances exist: 1. The Minister of Finance is authorized by an agreement under section 29.1 to collect the tax for the board for the taxation year. 2. The tax is not yet collectable.  2008, c. 19, Sched. M, s. 7; 2009, c. 18, Sched. 16, s. 2. Amount of advance (2) The amount of the advance is as determined by the Minister of Finance.  2008, c. 19, Sched. M, s. 7. Authority to spend (3) The Minister is authorized to spend the amount advanced in respect of a board for a purpose described in subsection 33 (1).  2008, c. 19, Sched. M, s. 7; 2009, c. 18, Sched. 16, s. 2. Recovery of advance (4) When an amount is credited to the board under subsection 31 (1.1) for the taxation year, the amount advanced shall be recovered into the Consolidated Revenue Fund by way of set off against the amount so credited.  2008, c. 19, Sched. M, s. 7. Section Amendments with date in force (d/m/y) 2008, c. 19, Sched. M, s. 7 - 01/01/2009 2009, c. 18, Sched. 16, s. 2 - 05/06/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK36\"></a><b>33.1 </b>(1) Upon request by the Minister, the Minister of Finance may authorize an advance to be paid from the Consolidated Revenue Fund to the Minister in respect of a board if both the following circumstances exist:</p> <p class=\"paragraph\">  1. The Minister of Finance is authorized by an agreement under section 29.1 to collect the tax for the board for the taxation year.</p> <p class=\"paragraph\">  2. The tax is not yet collectable.  2008, c. 19, Sched. M, s. 7; 2009, c. 18, Sched. 16, s. 2.</p> <p class=\"headnote\">Amount of advance</p> <p class=\"subsection\">(2) The amount of the advance is as determined by the Minister of Finance.  2008, c. 19, Sched. M, s. 7.</p> <p class=\"headnote\">Authority to spend</p> <p class=\"subsection\">(3) The Minister is authorized to spend the amount advanced in respect of a board for a purpose described in subsection 33 (1).  2008, c. 19, Sched. M, s. 7; 2009, c. 18, Sched. 16, s. 2.</p> <p class=\"headnote\">Recovery of advance</p> <p class=\"subsection\">(4) When an amount is credited to the board under subsection 31 (1.1) for the taxation year, the amount advanced shall be recovered into the Consolidated Revenue Fund by way of set off against the amount so credited.  2008, c. 19, Sched. M, s. 7.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S08019#schedms7\">2008, c. 19, Sched. M, s. 7</a></span> - 01/01/2009</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09018#sched16s2\">2009, c. 18, Sched. 16, s. 2</a></span> - 05/06/2009</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "34.",
+            "section_x": "Audit",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Audit",
+            "content": "34 (1) A board may engage a licensed public accountant to audit its accounts and transactions, including the account maintained by the Minister, and to make a report to it, and the accountant’s fee shall be paid by the Minister out of the money held by the Minister to the credit of the board.  R.S.O. 1990, c. L.27, s. 34 (1); 2004, c. 8, s. 47 (1). Idem (2) The Minister may at any time cause the accounts and transactions of a board to be audited.  R.S.O. 1990, c. L.27, s. 34 (2). Section Amendments with date in force (d/m/y) 2004, c. 8, s. 47 (1)\r\n- 01/11/2005",
+            "raw_html": "<p class=\"section\"><a name=\"BK37\"></a><b>34 </b>(1) A board may engage a licensed public accountant to audit its accounts and transactions, including the account maintained by the Minister, and to make a report to it, and the accountant’s fee shall be paid by the Minister out of the money held by the Minister to the credit of the board.  R.S.O. 1990, c. L.27, s. 34 (1); 2004, c. 8, s. 47 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) The Minister may at any time cause the accounts and transactions of a board to be audited.  R.S.O. 1990, c. L.27, s. 34 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S04008#s47s1\">2004, c. 8, s. 47 (1)</a></span>\r\n- 01/11/2005</p>"
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "35.",
+            "section_x": "Notice of forfeiture",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Notice of forfeiture",
+            "content": "35 (1) Where any part of the tax imposed under this Act remains unpaid for a period of two years or more, the board may cause to be filed in the proper land registry office a caution in the prescribed form, and thereupon the secretary-treasurer shall send by registered mail a notice to the owner and to every person appearing from search or inquiry at the proper land registry or sheriff’s office to be owner of the land in respect of which the default has been made, and to every person appearing from such search or inquiry to have an interest therein, stating that, unless the total amount of tax and penalties due and payable under this Act and the prescribed costs are paid within twelve months of the mailing of the notice, the land and every interest therein will be liable to be forfeited to and to be vested in the Crown.  R.S.O. 1990, c. L.27, s. 35 (1). Idem (2) Where no letters patent from the Crown have issued granting land in respect of which the tax imposed under this Act remains unpaid for a period of two years or more, the secretary-treasurer shall send by registered mail the notice mentioned in subsection (1) to the person entered in the register as the owner of the land, and the sending of such notice shall be deemed to be in compliance with subsection (1).  R.S.O. 1990, c. L.27, s. 35 (2). Declaration of forfeiture (3) Where any part of the tax, penalties and costs remains unpaid twelve months after the mailing of the notice under subsection (1) or (2), the secretary-treasurer shall so certify to the Minister of Natural Resources, and upon receipt of such certificate the Minister of Natural Resources by a certificate may declare the lands and every interest therein forfeited to and vested in the Crown, and thereupon, subject to subsection (4), the land and every interest therein vest in the Crown absolutely freed and discharged from every estate, right, title, interest, claim or demand therein or thereto, whether existing, arising or accruing before or after such forfeiture is declared, and the land may be granted, sold, leased or otherwise disposed of in the same manner as public lands may be dealt with under the laws of Ontario.  R.S.O. 1990, c. L.27, s. 35 (3). Easements (4) Where a dominant tenement is forfeited, any easement appurtenant thereto passes to the Crown, and, where a servient tenement is forfeited, the forfeiture does not affect any easement to which the servient tenement is subject.  R.S.O. 1990, c. L.27, s. 35 (4). Registration of certificate (5) Upon receipt of a certificate of forfeiture, the proper land registrar shall register it, and it is conclusive evidence of the forfeiture to the Crown of the land and every interest therein so certified to be forfeited, and it is not open to attack in any court by reason of the omission of any act or thing leading up to the forfeiture.  R.S.O. 1990, c. L.27, s. 35 (5). Land Titles Act, Registry Act not to apply to forfeited lands (6) Upon registration of a certificate of forfeiture in the proper land registry office, the Land Titles Act or the Registry Act, as the case may be, ceases to apply to the land forfeited, and the land registrar shall note that fact in the register in red ink.  R.S.O. 1990, c. L.27, s. 35 (6).",
+            "raw_html": "<p class=\"section\"><a name=\"BK38\"></a><b>35 </b>(1) Where any part of the tax imposed under this Act remains unpaid for a period of two years or more, the board may cause to be filed in the proper land registry office a caution in the prescribed form, and thereupon the secretary-treasurer shall send by registered mail a notice to the owner and to every person appearing from search or inquiry at the proper land registry or sheriff’s office to be owner of the land in respect of which the default has been made, and to every person appearing from such search or inquiry to have an interest therein, stating that, unless the total amount of tax and penalties due and payable under this Act and the prescribed costs are paid within twelve months of the mailing of the notice, the land and every interest therein will be liable to be forfeited to and to be vested in the Crown.  R.S.O. 1990, c. L.27, s. 35 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) Where no letters patent from the Crown have issued granting land in respect of which the tax imposed under this Act remains unpaid for a period of two years or more, the secretary-treasurer shall send by registered mail the notice mentioned in subsection (1) to the person entered in the register as the owner of the land, and the sending of such notice shall be deemed to be in compliance with subsection (1).  R.S.O. 1990, c. L.27, s. 35 (2).</p> <p class=\"headnote\">Declaration of forfeiture</p> <p class=\"subsection\">(3) Where any part of the tax, penalties and costs remains unpaid twelve months after the mailing of the notice under subsection (1) or (2), the secretary-treasurer shall so certify to the Minister of Natural Resources, and upon receipt of such certificate the Minister of Natural Resources by a certificate may declare the lands and every interest therein forfeited to and vested in the Crown, and thereupon, subject to subsection (4), the land and every interest therein vest in the Crown absolutely freed and discharged from every estate, right, title, interest, claim or demand therein or thereto, whether existing, arising or accruing before or after such forfeiture is declared, and the land may be granted, sold, leased or otherwise disposed of in the same manner as public lands may be dealt with under the laws of Ontario.  R.S.O. 1990, c. L.27, s. 35 (3).</p> <p class=\"headnote\">Easements</p> <p class=\"subsection\">(4) Where a dominant tenement is forfeited, any easement appurtenant thereto passes to the Crown, and, where a servient tenement is forfeited, the forfeiture does not affect any easement to which the servient tenement is subject.  R.S.O. 1990, c. L.27, s. 35 (4).</p> <p class=\"headnote\">Registration of certificate</p> <p class=\"subsection\">(5) Upon receipt of a certificate of forfeiture, the proper land registrar shall register it, and it is conclusive evidence of the forfeiture to the Crown of the land and every interest therein so certified to be forfeited, and it is not open to attack in any court by reason of the omission of any act or thing leading up to the forfeiture.  R.S.O. 1990, c. L.27, s. 35 (5).</p> <p class=\"headnote\"><i>Land Titles Act</i>, <i>Registry Act</i> not to apply to forfeited lands</p> <p class=\"subsection\">(6) Upon registration of a certificate of forfeiture in the proper land registry office, the <i>Land Titles Act</i> or the <i>Registry Act</i>, as the case may be, ceases to apply to the land forfeited, and the land registrar shall note that fact in the register in red ink.  R.S.O. 1990, c. L.27, s. 35 (6).</p>"
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "36.",
+            "section_x": "Land forfeited in error",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Land forfeited in error",
+            "content": "36 Where land has been forfeited to the Crown in error under this Act, the Minister of Natural Resources, by a certificate under the Minister’s hand, may annul the forfeiture in so far as it has reference to land forfeited to the Crown in error, and thereupon such land reverts to the owner of the land at the time of forfeiture, the owner’s heirs, successors or assigns, subject to any lien, mortgage or charge, as if the forfeiture had never occurred.  R.S.O. 1990, c. L.27, s. 36.",
+            "raw_html": "<p class=\"section\"><a name=\"BK39\"></a><b>36 </b>Where land has been forfeited to the Crown in error under this Act, the Minister of Natural Resources, by a certificate under the Minister’s hand, may annul the forfeiture in so far as it has reference to land forfeited to the Crown in error, and thereupon such land reverts to the owner of the land at the time of forfeiture, the owner’s heirs, successors or assigns, subject to any lien, mortgage or charge, as if the forfeiture had never occurred.  R.S.O. 1990, c. L.27, s. 36.</p>"
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "37.",
+            "section_x": "Regulations",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Regulations",
+            "content": "37 The Lieutenant Governor in Council may make regulations, (a) prescribing forms and providing for their use; (b) prescribing matters, other than those specified in subsection 24 (2), that shall be shown on tax bills; (c) prescribing the rate of assessment for buildings, other than dwellings, for the purposes of subsection 20 (4); (d) prescribing the costs to be paid under subsection 35 (1); (e) respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act.  R.S.O. 1990, c. L.27, s. 37.",
+            "raw_html": "<p class=\"section\"><a name=\"BK40\"></a><b>37 </b>The Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a) prescribing forms and providing for their use;</p> <p class=\"paragraph\">  (b) prescribing matters, other than those specified in subsection 24 (2), that shall be shown on tax bills;</p> <p class=\"paragraph\">  (c) prescribing the rate of assessment for buildings, other than dwellings, for the purposes of subsection 20 (4);</p> <p class=\"paragraph\">  (d) prescribing the costs to be paid under subsection 35 (1);</p> <p class=\"paragraph\">  (e) respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act.  R.S.O. 1990, c. L.27, s. 37.</p>"
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "38.",
+            "section_x": "Transitional",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Transitional",
+            "content": "38 Where a board is established under this Act, the Statute Labour Act shall, on the 1st day of January next following the date of the establishment of the board, cease to apply to the local roads area administered by that board, and, where the local roads area includes all of an area administered by road commissioners elected under the Statute Labour Act, the road commissioners shall transfer to the board any assets held by them in their capacity as road commissioners, and, where the local roads area includes part of an area administered by road commissioners elected under the Statute Labour Act, the road commissioners may transfer to the board any assets held by them in their capacity as road commissioners in respect of such part.  R.S.O. 1990, c. L.27, s. 38. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK41\"></a><b>38 </b>Where a board is established under this Act, the <i>Statute Labour Act</i> shall, on the 1st day of January next following the date of the establishment of the board, cease to apply to the local roads area administered by that board, and, where the local roads area includes all of an area administered by road commissioners elected under the <i>Statute Labour Act</i>, the road commissioners shall transfer to the board any assets held by them in their capacity as road commissioners, and, where the local roads area includes part of an area administered by road commissioners elected under the <i>Statute Labour Act</i>, the road commissioners may transfer to the board any assets held by them in their capacity as road commissioners in respect of such part.  R.S.O. 1990, c. L.27, s. 38.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/90l27\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

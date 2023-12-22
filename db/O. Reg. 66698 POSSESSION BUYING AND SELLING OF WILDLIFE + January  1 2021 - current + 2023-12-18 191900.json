@@ -1,0 +1,840 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 666/98: POSSESSION, BUYING AND SELLING OF WILDLIFE",
+        "reg_name_text": "POSSESSION, BUYING AND SELLING OF WILDLIFE",
+        "citation": "O. Reg. 666/98: ",
+        "act_under": "Fish and Wildlife Conservation Act, 1997   Loi de 1997 sur la protection du poisson et de la faune",
+        "url": "https://www.ontario.ca/laws/regulation/980666",
+        "date_scraped": "2023-12-18 19:19:04"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "January  1, 2021",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v13",
+            "valid_from": "December 16, 2020",
+            "valid_to": "December 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v12",
+            "valid_from": "October 29, 2020",
+            "valid_to": "December 15, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v11",
+            "valid_from": "January  1, 2019",
+            "valid_to": "October 28, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v10",
+            "valid_from": "December 18, 2017",
+            "valid_to": "December 31, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v9",
+            "valid_from": "April  1, 2017",
+            "valid_to": "December 17, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v8",
+            "valid_from": "March 30, 2017",
+            "valid_to": "March 31, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v7",
+            "valid_from": "July 18, 2013",
+            "valid_to": "March 29, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v6",
+            "valid_from": "July  1, 2013",
+            "valid_to": "July 17, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v5",
+            "valid_from": "May 31, 2013",
+            "valid_to": "June 30, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v4",
+            "valid_from": "August 17, 2010",
+            "valid_to": "May 30, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v3",
+            "valid_from": "November  4, 2005",
+            "valid_to": "August 16, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v2",
+            "valid_from": "June  3, 2005",
+            "valid_to": "November  3, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/980666/v1",
+            "valid_from": "January  1, 1999",
+            "valid_to": "June  2, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "PART II",
+            "Section": "None",
+            "Section1": "DEFINITIONS",
+            "Section2": "1",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "PART II.1",
+            "Section": "None",
+            "Section1": "POSSESSION",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Carcasses",
+            "Section2": "2",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Pelts",
+            "Section2": "3-4",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "PART III",
+            "Section": "None",
+            "Section1": "REGULATING POSSESSION OF CERVIDS TO PREVENT CHRONIC WASTING DISEASE",
+            "Section2": "4.1-4.4",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "PART IV",
+            "Section": "None",
+            "Section1": "TANNING, PLUCKING OR TREATING",
+            "Section2": "5-6",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "PART V",
+            "Section": "None",
+            "Section1": "BUYING OR SELLING OF PELTS",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "General",
+            "Section2": "7-8.1",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Selling",
+            "Section2": "9-15",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Buying",
+            "Section2": "16",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Fur Auction House",
+            "Section2": "17",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "PART V.1",
+            "Section": "None",
+            "Section1": "RECORDS — FUR DEALERS, TANNERS, TAXIDERMISTS",
+            "Section2": "18-19",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "PART VI",
+            "Section": "None",
+            "Section1": "BUYING AND SELLING LIVE FURBEARING MAMMALS",
+            "Section2": "19.1",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "PART VII",
+            "Section": "None",
+            "Section1": "BUYING AND SELLING CARCASSES",
+            "Section2": "20",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "PART VIII",
+            "Section": "None",
+            "Section1": "BUYING AND SELLING HIDES AND CAST ANTLERS",
+            "Section2": "21-23., 24",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "PART X",
+            "Section": "None",
+            "Section1": "BUYING AND SELLING GAME BIRDS",
+            "Section2": "25-27",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "PART XI",
+            "Section": "None",
+            "Section1": "TRANSPORTATION",
+            "Section2": "29-30.5",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "PART XII",
+            "Section": "None",
+            "Section1": "EXEMPTIONS",
+            "Section2": "31",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "PART XII",
+            "Section": "None",
+            "Section1": "ROYALTIES",
+            "Section2": "32-34",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "None",
+            "part_id": "PART XII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "Last amendment: 761/20. Legislative History: 263/05,\r\n561/05,\r\n172/13,\r\n217/13,\r\n88/17,\r\n546/17,\r\n600/20,\r\n761/20,\r\nCTR 1 AL 21 - 1. This Regulation is made in English only. CONTENTS Sections \n\n  PART I   DEFINITIONS   1 \n\n  PART II   POSSESSION     \n\n      Carcasses   2 \n\n      Pelts   3-4 \n\n  PART II.1   REGULATING POSSESSION OF CERVIDS TO PREVENT CHRONIC WASTING DISEASE   4.1-4.4 \n\n  PART III   TANNING, PLUCKING OR TREATING   5-6 \n\n  PART IV   BUYING OR SELLING OF PELTS     \n\n      General   7-8.1 \n\n      Selling   9-15 \n\n      Buying   16 \n\n      Fur Auction House   17 \n\n  PART V   RECORDS — FUR DEALERS, TANNERS, TAXIDERMISTS   18-19 \n\n  PART V.1   BUYING AND SELLING LIVE FURBEARING MAMMALS   19.1 \n\n  PART VI   BUYING AND SELLING CARCASSES   20 \n\n  PART VII   BUYING AND SELLING HIDES AND CAST ANTLERS   21-23., 24 \n\n  PART VIII   BUYING AND SELLING GAME BIRDS   25-27 \n\n  PART X   TRANSPORTATION   29-30.5 \n\n  PART XI   EXEMPTIONS   31 \n\n  PART XII   ROYALTIES   32-34 PART I   DEFINITIONS",
+            "raw_html": "<p class=\"section-e\">Last amendment: <span class=\"MsoHyperlink\"><a href=\"https://www.ontario.ca/laws/regulation/R20761\">761/20</a></span>.</p> <p class=\"footnoteLeft-e\">Legislative History: <span class=\"MsoHyperlink\"><a href=\"https://www.ontario.ca/laws/regulation/R05263\">263/05</a></span>,\r\n<span class=\"MsoHyperlink\"><a href=\"https://www.ontario.ca/laws/regulation/R05561\">561/05</a></span>,\r\n<span class=\"MsoHyperlink\"><a href=\"https://www.ontario.ca/laws/regulation/R13172\">172/13</a></span>,\r\n<span class=\"MsoHyperlink\"><a href=\"https://www.ontario.ca/laws/regulation/R13217\">217/13</a></span>,\r\n<span class=\"MsoHyperlink\"><a href=\"https://www.ontario.ca/laws/regulation/R17088\">88/17</a></span>,\r\n<span class=\"MsoHyperlink\"><a href=\"https://www.ontario.ca/laws/regulation/R17546\">546/17</a></span>,\r\n<span class=\"MsoHyperlink\"><a href=\"https://www.ontario.ca/laws/regulation/R20600\">600/20</a></span>,\r\n<span class=\"MsoHyperlink\"><a href=\"https://www.ontario.ca/laws/regulation/R20761\">761/20</a></span>,\r\n<a href=\"https://www.ontario.ca/laws/consolidated-regulations-change-notices\">CTR 1 AL 21 - 1</a>.</p> <p class=\"version-e\">This Regulation is made in English only.</p> <p class=\"toc-e\">CONTENTS</p> <div align=\"center\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\">\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"432\"> <p class=\"table-e\"> </p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">Sections</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK0\" title=\"PART I\"><u><span>PART I</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">DEFINITIONS</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK1\" title=\"PART II\"><u><span>PART II</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">POSSESSION</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\"> </p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><span> </span></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCheadLeft-e\"><a href=\"#BK2\" title=\"Carcasses\"><u><span>Carcasses</span></u></a></p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">2</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><span> </span></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCheadLeft-e\"><a href=\"#BK3\" title=\"Pelts\"><u><span>Pelts</span></u></a></p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">3-4</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK4\" title=\"PART II.1\"><u><span>PART II.1</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">REGULATING POSSESSION OF CERVIDS TO PREVENT CHRONIC WASTING DISEASE</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">4.1-4.4</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK5\" title=\"PART III\"><u><span>PART III</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">TANNING, PLUCKING OR TREATING</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">5-6</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK6\" title=\"PART IV\"><u><span>PART IV</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">BUYING OR SELLING OF PELTS</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\"> </p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><span> </span></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCheadLeft-e\"><a href=\"#BK7\" title=\"General\"><u><span>General</span></u></a></p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">7-8.1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><span> </span></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCheadLeft-e\"><a href=\"#BK8\" title=\"Selling\"><u><span>Selling</span></u></a></p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">9-15</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><span> </span></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCheadLeft-e\"><a href=\"#BK9\" title=\"Buying\"><u><span>Buying</span></u></a></p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">16</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><span> </span></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCheadLeft-e\"><a href=\"#BK10\" title=\"Fur Auction House\"><u><span>Fur Auction House</span></u></a></p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">17</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK11\" title=\"PART V\"><u><span>PART V</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">RECORDS — FUR DEALERS, TANNERS, TAXIDERMISTS</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">18-19</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK12\" title=\"PART V.1\"><u><span>PART V.1</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">BUYING AND SELLING LIVE FURBEARING MAMMALS</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">19.1</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK13\" title=\"PART VI\"><u><span>PART VI</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">BUYING AND SELLING CARCASSES</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">20</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK14\" title=\"PART VII\"><u><span>PART VII</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">BUYING AND SELLING HIDES AND CAST ANTLERS</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">21-23., 24</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK15\" title=\"PART VIII\"><u><span>PART VIII</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">BUYING AND SELLING GAME BIRDS</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">25-27</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK16\" title=\"PART X\"><u><span>PART X</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">TRANSPORTATION</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">29-30.5</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK17\" title=\"PART XI\"><u><span>PART XI</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">EXEMPTIONS</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">31</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><a href=\"#BK18\" title=\"PART XII\"><u><span>PART XII</span></u></a></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\">ROYALTIES</p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\">32-34</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"112\"> <p class=\"TOCpartLeft-e\"><span class=\"UnderBlue\"><span> </span></span></p> </td> <td valign=\"top\" width=\"432\"> <p class=\"TOCpartLeft-e\"> </p> </td> <td valign=\"top\" width=\"96\"> <p class=\"table-e\"> </p> </td>\n</tr>\n</table>\n</div> <p class=\"partnum-e\"><a name=\"BK0\"></a>PART I <br/>  DEFINITIONS</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "    ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. In this Regulation, “carcass” includes any part of a carcass; “cast antlers” means antlers that have dropped naturally from living woodland caribou, American elk, white-tailed deer or moose, are intact and have not been treated; “cervid” means a member of a species of the deer family; “chronic wasting disease” means a transmissible animal disease of the nervous system that afflicts cervids and that belongs to the group of diseases known as transmissible spongiform encephalopathies; “district manager” means the district manager of an administrative district of the Ministry; “hide” means the untanned and untreated skin, (a) of a black bear, including the head and claws attached to the skin, or (b) of a white-tailed deer, American elk or moose, but not its head; “Registry” means the registry known as the Ministry of Natural Resources Registry available on the Ministry website; “treating” includes taxidermy; “working day” means any day other than a Saturday or a holiday.  O. Reg. 666/98, s. 1; O. Reg. 561/05, s. 1; O. Reg. 324/10, s. 1; O. Reg. 172/13, s. 1. PART II   POSSESSION Carcasses",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Regulation,</p> <p class=\"firstdef-e\">“carcass” includes any part of a carcass;</p> <p class=\"definition-e\">“cast antlers” means antlers that have dropped naturally from living woodland caribou, American elk, white-tailed deer or moose, are intact and have not been treated;</p> <p class=\"definition-e\">“cervid” means a member of a species of the deer family;</p> <p class=\"definition-e\">“chronic wasting disease” means a transmissible animal disease of the nervous system that afflicts cervids and that belongs to the group of diseases known as transmissible spongiform encephalopathies; </p> <p class=\"definition-e\">“district manager” means the district manager of an administrative district of the Ministry;</p> <p class=\"definition-e\">“hide” means the untanned and untreated skin,</p> <p class=\"defclause-e\">  (a) of a black bear, including the head and claws attached to the skin, or</p> <p class=\"defclause-e\">  (b) of a white-tailed deer, American elk or moose, but not its head;</p> <p class=\"definition-e\">“Registry” means the registry known as the Ministry of Natural Resources Registry available on the Ministry website;</p> <p class=\"definition-e\">“treating” includes taxidermy;</p> <p class=\"definition-e\">“working day” means any day other than a Saturday or a holiday.  O. Reg. 666/98, s. 1; O. Reg. 561/05, s. 1; O. Reg. 324/10, s. 1; O. Reg. 172/13, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK1\"></a>PART II <br/>  POSSESSION</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Carcasses</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. (1) This section applies with respect to the possession of a carcass of a black bear, woodland caribou, white-tailed deer, American elk, moose, specially protected raptor or furbearing mammal that a person acquires by any means other than by purchasing it or by acquiring it in a manner described in subsection (7). O. Reg. 172/13, s. 3. (2) A person shall not keep possession of the carcass of a species referred to in subsection (1) and acquired in a manner described in subsection (1) unless, promptly upon acquiring the carcass, the person gives notice of the acquisition to the Minister by submitting a notice of possession form available on the Registry to the Minister through the Registry. O. Reg. 172/13, s. 3. (3) Before submitting a notice of possession form to the Minister, a person shall complete the form by providing all mandatory information on the form, including the person’s contact information, and ensuring the information is complete and accurate. O. Reg. 172/13, s. 3. (4) Promptly upon obtaining from the Ministry confirmation that a notice of possession form submitted through the Registry has been received by the Ministry, a person shall keep a record of the confirmation for as long as the carcass remains in his or her possession. O. Reg. 172/13, s. 3. (5) A person who keeps possession of the carcass of a species under this section shall update his or her contact information on the Registry within 10 business days of any change to the information. O. Reg. 172/13, s. 3. (6) A person who provides incomplete, false or misleading information through the Registry shall be deemed not to have submitted a notice of possession form for the purposes of subsection (2). O. Reg. 172/13, s. 3. (7) This section does not apply to a person who acquires the carcass of a species referred to in subsection (1), (a) by lawfully killing wildlife under the Act, other than a black bear, specially protected raptor or furbearing mammal that is lawfully killed while protecting property under section 31 of the Act; (b) by receiving the carcass of any species referred to in subsection (1), other than a furbearing mammal, as a gift from a person who lawfully killed the wildlife under the Act; (c) in the case of a taxidermist or butcher, in the course of his or her business as a taxidermist or butcher, as the case may be; or (d) in the case of a person who possesses live wildlife, upon the death of the wildlife. O. Reg. 172/13, s. 3. Pelts",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) This section applies with respect to the possession of a carcass of a black bear, woodland caribou, white-tailed deer, American elk, moose, specially protected raptor or furbearing mammal that a person acquires by any means other than by purchasing it or by acquiring it in a manner described in subsection (7). O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (2) A person shall not keep possession of the carcass of a species referred to in subsection (1) and acquired in a manner described in subsection (1) unless, promptly upon acquiring the carcass, the person gives notice of the acquisition to the Minister by submitting a notice of possession form available on the Registry to the Minister through the Registry. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (3) Before submitting a notice of possession form to the Minister, a person shall complete the form by providing all mandatory information on the form, including the person’s contact information, and ensuring the information is complete and accurate. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (4) Promptly upon obtaining from the Ministry confirmation that a notice of possession form submitted through the Registry has been received by the Ministry, a person shall keep a record of the confirmation for as long as the carcass remains in his or her possession. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (5) A person who keeps possession of the carcass of a species under this section shall update his or her contact information on the Registry within 10 business days of any change to the information. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (6) A person who provides incomplete, false or misleading information through the Registry shall be deemed not to have submitted a notice of possession form for the purposes of subsection (2). O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (7) This section does not apply to a person who acquires the carcass of a species referred to in subsection (1),</p> <p class=\"clause-e\">  (a) by lawfully killing wildlife under the Act, other than a black bear, specially protected raptor or furbearing mammal that is lawfully killed while protecting property under section 31 of the Act;</p> <p class=\"clause-e\">  (b) by receiving the carcass of any species referred to in subsection (1), other than a furbearing mammal, as a gift from a person who lawfully killed the wildlife under the Act;</p> <p class=\"clause-e\">  (c) in the case of a taxidermist or butcher, in the course of his or her business as a taxidermist or butcher, as the case may be; or</p> <p class=\"clause-e\">  (d) in the case of a person who possesses live wildlife, upon the death of the wildlife. O. Reg. 172/13, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Pelts</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) No person shall possess a pelt except in accordance with this section, or section 3.1 or 3.2. O. Reg. 172/13, s. 3. (2) A person who holds a fur dealer’s licence may possess pelts in the course of carrying on his or her business as a fur dealer. O. Reg. 172/13, s. 3. (3) A person who is a common carrier may possess pelts in the course of his or her business while transporting the pelts on behalf of another person. O. Reg. 172/13, s. 3. (4) A person who acquires the carcass of a furbearing mammal and gives notice of that fact to the Minister under section 2 may possess the pelt that is derived from the carcass of the furbearing mammal. O. Reg. 172/13, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) No person shall possess a pelt except in accordance with this section, or section 3.1 or 3.2. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (2) A person who holds a fur dealer’s licence may possess pelts in the course of carrying on his or her business as a fur dealer. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (3) A person who is a common carrier may possess pelts in the course of his or her business while transporting the pelts on behalf of another person. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (4) A person who acquires the carcass of a furbearing mammal and gives notice of that fact to the Minister under section 2 may possess the pelt that is derived from the carcass of the furbearing mammal. O. Reg. 172/13, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#3.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3.1 (1) The following persons who lawfully kill a furbearing mammal during the open season for the furbearing mammal may possess the pelt of the furbearing mammal during the remainder of the open season: 1. A person who holds a trapping licence. 2. A person who holds a small game licence. 3. A person who kills the furbearing mammal under subsection 6 (3) of the Act and who holds a farmer’s licence to sell pelts and carcasses. O. Reg. 172/13, s. 3. (2) A person referred to in paragraphs 1 and 3 of subsection (1) may, after the end of the open season for a species of furbearing mammal, continue to possess the pelts of the members of that species that he or she lawfully killed during the open season, if the person completes the season-end harvest report required under the Act. O. Reg. 172/13, s. 3. (3) A person referred to in paragraph 2 of subsection (1) may, after the end of the open season for a species of furbearing mammal, continue to possess the pelt of the member of that species that he or she lawfully killed during the open season, if the Minister has issued a licence to possess the pelt to the person. O. Reg. 172/13, s. 3. (4) A person who holds a trapping licence or a farmer’s licence to sell pelts and carcasses and who, despite the exercise of all due diligence, kills a furbearing mammal during the closed season for the species or contrary to the conditions of his or her licence may keep the pelt of the furbearing mammal if the Minister has issued a licence to possess the pelt to the person. O. Reg. 172/13, s. 3. (4.0.1)  Despite subsection (4), if a person who holds a farmer’s licence to sell pelts and carcasses and who is trapping under subsection 6 (3) of the Act or a person who holds a trapping licence kills an otter during the closed season despite the exercise of all due diligence, the person may possess the pelt of the otter if: (a) the person incidentally kills the otter while lawfully trapping beaver during the open season for beaver; and (b) the person records the incidentally killed otter on the season-end harvest report required under section 13 of Ontario Regulation 667/98 (Trapping) within 24 hours of the close of the relevant open season for beaver. O. Reg. 88/17, s. 1. (4.1) Despite subsection 64 (1) of the Act and for the purposes of subsection (4), a licence to possess a pelt may be issued to a person under 16 years of age who holds a trapping licence. O. Reg. 217/13, s. 1. (5) A person who kills a furbearing mammal under subsection 6 (3) of the Act and who does not hold a farmer’s licence to sell pelts and carcasses may, (a) in the case of a species of furbearing mammal that the person killed during the open season for the species, keep possession of the pelt of the furbearing mammal during the remainder of the open season and, if the person obtains a licence to possess the pelt, continue to keep possession of the pelt after the end of the open season; and (b) in the case of a species of furbearing mammal that the person killed during the closed season for the species despite the exercise of all due diligence, keep possession of the pelt of the furbearing mammal if the Minister has issued a licence to possess the pelt to the person. O. Reg. 172/13, s. 3. (6) A licence to possess a pelt shall specify the number of pelts and the species for which the licence is issued. O. Reg. 172/13, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3.1 </b>(1) The following persons who lawfully kill a furbearing mammal during the open season for the furbearing mammal may possess the pelt of the furbearing mammal during the remainder of the open season:</p> <p class=\"paragraph-e\">  1. A person who holds a trapping licence.</p> <p class=\"paragraph-e\">  2. A person who holds a small game licence.</p> <p class=\"paragraph-e\">  3. A person who kills the furbearing mammal under subsection 6 (3) of the Act and who holds a farmer’s licence to sell pelts and carcasses. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (2) A person referred to in paragraphs 1 and 3 of subsection (1) may, after the end of the open season for a species of furbearing mammal, continue to possess the pelts of the members of that species that he or she lawfully killed during the open season, if the person completes the season-end harvest report required under the Act. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (3) A person referred to in paragraph 2 of subsection (1) may, after the end of the open season for a species of furbearing mammal, continue to possess the pelt of the member of that species that he or she lawfully killed during the open season, if the Minister has issued a licence to possess the pelt to the person. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (4) A person who holds a trapping licence or a farmer’s licence to sell pelts and carcasses and who, despite the exercise of all due diligence, kills a furbearing mammal during the closed season for the species or contrary to the conditions of his or her licence may keep the pelt of the furbearing mammal if the Minister has issued a licence to possess the pelt to the person. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (4.0.1)  Despite subsection (4), if a person who holds a farmer’s licence to sell pelts and carcasses and who is trapping under subsection 6 (3) of the Act or a person who holds a trapping licence kills an otter during the closed season despite the exercise of all due diligence, the person may possess the pelt of the otter if: </p> <p class=\"clause-e\">  (a) the person incidentally kills the otter while lawfully trapping beaver during the open season for beaver; and</p> <p class=\"clause-e\">  (b) the person records the incidentally killed otter on the season-end harvest report required under section 13 of Ontario Regulation 667/98 (Trapping) within 24 hours of the close of the relevant open season for beaver. O. Reg. 88/17, s. 1.</p> <p class=\"subsection-e\">  (4.1) Despite subsection 64 (1) of the Act and for the purposes of subsection (4), a licence to possess a pelt may be issued to a person under 16 years of age who holds a trapping licence. O. Reg. 217/13, s. 1.</p> <p class=\"subsection-e\">  (5) A person who kills a furbearing mammal under subsection 6 (3) of the Act and who does not hold a farmer’s licence to sell pelts and carcasses may,</p> <p class=\"clause-e\">  (a) in the case of a species of furbearing mammal that the person killed during the open season for the species, keep possession of the pelt of the furbearing mammal during the remainder of the open season and, if the person obtains a licence to possess the pelt, continue to keep possession of the pelt after the end of the open season; and</p> <p class=\"clause-e\">  (b) in the case of a species of furbearing mammal that the person killed during the closed season for the species despite the exercise of all due diligence, keep possession of the pelt of the furbearing mammal if the Minister has issued a licence to possess the pelt to the person. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (6) A licence to possess a pelt shall specify the number of pelts and the species for which the licence is issued. O. Reg. 172/13, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#3.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3.2 (1) A person who buys a pelt for his or her own use, or a person who otherwise acquires a pelt for his or her own use in circumstances other than those described in sections 2, 3 and 3.1, may keep possession of the pelt only if he or she gives notice of the acquisition to the Minister by completing a notice of possession form available on the registry and submitting it to the Minister through the registry. O. Reg. 172/13, s. 3. (2) Subsection (1) applies to a person who, (a) acquires the pelt in Ontario; or (b) acquires the pelt outside of Ontario and transports it into Ontario. O. Reg. 172/13, s. 3. (3) Before submitting a notice of possession form to the Minister, a person shall complete the form by providing all mandatory information on the form, including the person’s contact information, and ensuring the information is complete and accurate. O. Reg. 172/13, s. 3. (4) Promptly upon obtaining from the Ministry confirmation that a notice of possession form submitted through the Registry has been received by the Ministry, a person shall keep a record of the confirmation for as long as the pelt remains in his or her possession. O. Reg. 172/13, s. 3. (5) A person who keeps possession of the pelt of a species under this section shall update his or her contact information on the Registry within 10 business days of any change to the information. O. Reg. 172/13, s. 3. (6) A person who provides incomplete, false or misleading information through the Registry shall be deemed not to have submitted a notice of possession form for the purposes of subsection (2). O. Reg. 172/13, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3.2 </b>(1) A person who buys a pelt for his or her own use, or a person who otherwise acquires a pelt for his or her own use in circumstances other than those described in sections 2, 3 and 3.1, may keep possession of the pelt only if he or she gives notice of the acquisition to the Minister by completing a notice of possession form available on the registry and submitting it to the Minister through the registry. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (2) Subsection (1) applies to a person who,</p> <p class=\"clause-e\">  (a) acquires the pelt in Ontario; or </p> <p class=\"clause-e\">  (b) acquires the pelt outside of Ontario and transports it into Ontario. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (3) Before submitting a notice of possession form to the Minister, a person shall complete the form by providing all mandatory information on the form, including the person’s contact information, and ensuring the information is complete and accurate. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (4) Promptly upon obtaining from the Ministry confirmation that a notice of possession form submitted through the Registry has been received by the Ministry, a person shall keep a record of the confirmation for as long as the pelt remains in his or her possession. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (5) A person who keeps possession of the pelt of a species under this section shall update his or her contact information on the Registry within 10 business days of any change to the information. O. Reg. 172/13, s. 3.</p> <p class=\"subsection-e\">  (6) A person who provides incomplete, false or misleading information through the Registry shall be deemed not to have submitted a notice of possession form for the purposes of subsection (2). O. Reg. 172/13, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. (1) A person who holds a valid trapping licence or a person who traps under subsection 6 (3) of the Act and who also keeps farmed animals that are furbearing mammals shall retain for two years invoices, bills of lading or other similar documents showing the number of farmed animals or pelts of farmed animals, and their species, that the person raises, buys or otherwise acquires or sells or otherwise disposes of.  O. Reg. 666/98, s. 4 (1). (2) The invoice, bill of lading or other document shall set out the name and address of the other person involved in the transaction and the date of the transaction.  O. Reg. 666/98, s. 4 (2). Part II.1   REGULATING POSSESSION OF CERVIDS TO PREVENT CHRONIC WASTING DISEASE",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) A person who holds a valid trapping licence or a person who traps under subsection 6 (3) of the Act and who also keeps farmed animals that are furbearing mammals shall retain for two years invoices, bills of lading or other similar documents showing the number of farmed animals or pelts of farmed animals, and their species, that the person raises, buys or otherwise acquires or sells or otherwise disposes of.  O. Reg. 666/98, s. 4 (1).</p> <p class=\"subsection-e\">  (2) The invoice, bill of lading or other document shall set out the name and address of the other person involved in the transaction and the date of the transaction.  O. Reg. 666/98, s. 4 (2).</p> <p class=\"partnum-e\"><a name=\"BK4\"></a>Part II.1 <br/>  REGULATING POSSESSION OF CERVIDS TO PREVENT CHRONIC WASTING DISEASE</p>"
+        },
+        {
+            "ahref_id": "#4.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4.1 (1) No person shall, except as provided in this section, transport into Ontario or possess in Ontario the whole or any part of a cervid that has died outside Ontario. O. Reg. 761/20, s. 1. (2) Subsection (1) does not apply to a person who transports into Ontario or possesses in Ontario, (a) meat from a cervid that has been butchered, deboned and packaged before it was transported into Ontario; (b) finished taxidermy mounts; (c) tanned skin; or (d) antlers or a skull cap with antlers attached, as long as there is no tissue or skin attached to them and they are separate from the skull. O. Reg. 761/20, s. 1. (3) A person who possesses a thing referred to under subsection (2) shall ensure that, while the thing is being transported in Ontario, it is plainly marked to show the species from which the thing comes, the name and address of the person to whom the thing belongs and the place where the thing was acquired. O. Reg. 761/20, s. 1. (4) Subsection (1) does not apply to a person who possesses the whole or any part of a cervid that has died outside Ontario for the purposes of research at a laboratory research facility certified to handle prion disease agents under the Health of Animals Act (Canada) if, from the time it is brought into Ontario until the time it is used, it is sealed in a container from which nothing can escape. O. Reg. 761/20, s. 1. (5) Subsection (1) does not apply to a person who is temporarily in transit through Ontario and possesses the whole or any part of a cervid that has died outside Ontario in a container from which nothing can escape. O. Reg. 761/20, s. 1. (6) The exceptions in subsections (2) and (5) do not apply if the person knew or ought to have known that the cervid had tested positive for chronic wasting disease prior to its transport into Ontario. O. Reg. 761/20, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>4.1 </b>(1) No person shall, except as provided in this section, transport into Ontario or possess in Ontario the whole or any part of a cervid that has died outside Ontario. O. Reg. 761/20, s. 1.</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply to a person who transports into Ontario or possesses in Ontario,</p> <p class=\"clause-e\">  (a) meat from a cervid that has been butchered, deboned and packaged before it was transported into Ontario;</p> <p class=\"clause-e\">  (b) finished taxidermy mounts;</p> <p class=\"clause-e\">  (c) tanned skin; or</p> <p class=\"clause-e\">  (d) antlers or a skull cap with antlers attached, as long as there is no tissue or skin attached to them and they are separate from the skull. O. Reg. 761/20, s. 1.</p> <p class=\"subsection-e\">  (3) A person who possesses a thing referred to under subsection (2) shall ensure that, while the thing is being transported in Ontario, it is plainly marked to show the species from which the thing comes, the name and address of the person to whom the thing belongs and the place where the thing was acquired. O. Reg. 761/20, s. 1.</p> <p class=\"subsection-e\">  (4) Subsection (1) does not apply to a person who possesses the whole or any part of a cervid that has died outside Ontario for the purposes of research at a laboratory research facility certified to handle prion disease agents under the <i>Health of Animals Act</i> (Canada) if, from the time it is brought into Ontario until the time it is used, it is sealed in a container from which nothing can escape. O. Reg. 761/20, s. 1.</p> <p class=\"subsection-e\">  (5) Subsection (1) does not apply to a person who is temporarily in transit through Ontario and possesses the whole or any part of a cervid that has died outside Ontario in a container from which nothing can escape. O. Reg. 761/20, s. 1.</p> <p class=\"subsection-e\">  (6) The exceptions in subsections (2) and (5) do not apply if the person knew or ought to have known that the cervid had tested positive for chronic wasting disease prior to its transport into Ontario. O. Reg. 761/20, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#4.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4.2 A person shall not possess a thing in a container under subsection 4.1 (4) or (5) unless the container is labelled to show the species from which the thing comes, the name and address of the person to whom the container belongs and the place where the thing was acquired. O. Reg. 761/20, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>4.2 </b>A person shall not possess a thing in a container under subsection 4.1 (4) or (5) unless the container is labelled to show the species from which the thing comes, the name and address of the person to whom the container belongs and the place where the thing was acquired. O. Reg. 761/20, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#4.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4.3 (1) A person who possesses the whole or any part of a cervid that has died outside Ontario or who transported the whole or any part of a cervid that has died outside Ontario into Ontario shall, within 24 hours of learning that the cervid has tested positive for chronic wasting disease, (a) notify a district manager of the Ministry of that fact; and (b) submit to the district manager details of the transportation of the cervid, and any other information required by the district manager. O. Reg. 761/20, s. 1. (2) Any person who possesses the whole or any part of a cervid that has died outside Ontario and was transported into Ontario and that has tested positive for chronic wasting disease shall dispose of it in accordance with the directions of the Ministry. O. Reg. 761/20, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>4.3 </b>(1) A person who possesses the whole or any part of a cervid that has died outside Ontario or who transported the whole or any part of a cervid that has died outside Ontario into Ontario shall, within 24 hours of learning that the cervid has tested positive for chronic wasting disease,</p> <p class=\"clause-e\">  (a) notify a district manager of the Ministry of that fact; and</p> <p class=\"clause-e\">  (b) submit to the district manager details of the transportation of the cervid, and any other information required by the district manager. O. Reg. 761/20, s. 1.</p> <p class=\"subsection-e\">  (2) Any person who possesses the whole or any part of a cervid that has died outside Ontario and was transported into Ontario and that has tested positive for chronic wasting disease shall dispose of it in accordance with the directions of the Ministry. O. Reg. 761/20, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#4.4",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4.4 A person shall not use or possess a product that contains or purports to contain the faeces, urine, blood, gland oil, saliva or other bodily fluids of a cervid including a cervid that is a farmed animal. O. Reg. 761/20, s. 1. PART III   TANNING, PLUCKING OR TREATING",
+            "raw_html": "<p class=\"section-e\"> <b>4.4 </b>A person shall not use or possess a product that contains or purports to contain the faeces, urine, blood, gland oil, saliva or other bodily fluids of a cervid including a cervid that is a farmed animal. O. Reg. 761/20, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK5\"></a>PART III <br/>  TANNING, PLUCKING OR TREATING</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) A person shall not engage in, carry on or be concerned in the tanning, plucking or treating of pelts without holding a fur dealer’s licence authorizing tanning.  O. Reg. 666/98, s. 5 (1). (2) Subsection (1) does not apply to a person who, himself or herself, tans, plucks or treats pelts for the person’s own use.  O. Reg. 666/98, s. 5 (2). (3) Subsection (1) does not apply to a person who engages in the tanning, plucking or treating of pelts of farmed animals that are furbearing mammals unless the person possesses furbearing mammals that are not farmed animals.  O. Reg. 666/98, s. 5 (3). (4) Despite subsection (1), a person who holds a trapping licence may tan, pluck or treat pelts that he or she caught under the licence, or that he or she otherwise lawfully acquired under the Act, without holding a fur dealer’s licence authorizing tanning. O. Reg. 172/13, s. 4. (5) Revoked: O. Reg. 172/13, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) A person shall not engage in, carry on or be concerned in the tanning, plucking or treating of pelts without holding a fur dealer’s licence authorizing tanning.  O. Reg. 666/98, s. 5 (1).</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply to a person who, himself or herself, tans, plucks or treats pelts for the person’s own use.  O. Reg. 666/98, s. 5 (2).</p> <p class=\"subsection-e\">  (3) Subsection (1) does not apply to a person who engages in the tanning, plucking or treating of pelts of farmed animals that are furbearing mammals unless the person possesses furbearing mammals that are not farmed animals.  O. Reg. 666/98, s. 5 (3).</p> <p class=\"subsection-e\">  (4) Despite subsection (1), a person who holds a trapping licence may tan, pluck or treat pelts that he or she caught under the licence, or that he or she otherwise lawfully acquired under the Act, without holding a fur dealer’s licence authorizing tanning. O. Reg. 172/13, s. 4.</p> <p class=\"subsection-e\">  (5) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 172/13, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. Revoked: O. Reg. 172/13, s. 5. PART IV   BUYING OR SELLING OF PELTS General",
+            "raw_html": "<p class=\"section-e\"> <b>6.</b><span class=\"ovsmallcap\"> Revoked</span>: O. Reg. 172/13, s. 5.</p> <p class=\"partnum-e\"><a name=\"BK6\"></a>PART IV <br/>  BUYING OR SELLING OF PELTS</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>General</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. Despite subsection 48 (2) of the Act, subsection 48 (1) of the Act and a provision of this Part and Part V do not apply to a person who buys or sells pelts of farmed animals that are furbearing mammals unless the person also buys or sells, as the case may be, the pelts of furbearing mammals that are not farmed animals.  O. Reg. 666/98, s. 7; O. Reg. 172/13, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>Despite subsection 48 (2) of the Act, subsection 48 (1) of the Act and a provision of this Part and Part V do not apply to a person who buys or sells pelts of farmed animals that are furbearing mammals unless the person also buys or sells, as the case may be, the pelts of furbearing mammals that are not farmed animals.  O. Reg. 666/98, s. 7; O. Reg. 172/13, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. A person may buy or sell pelts if the person holds a dealer’s licence authorizing the buying or selling of pelts.  O. Reg. 666/98, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>A person may buy or sell pelts if the person holds a dealer’s licence authorizing the buying or selling of pelts.  O. Reg. 666/98, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#8.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8.1 A holder of a licence authorizing the selling of pelts or carcasses of furbearing mammals under this Part shall not sell a pelt or carcass, except to a person who may buy it lawfully.  O. Reg. 263/05, s. 1. Selling",
+            "raw_html": "<p class=\"section-e\"> <b>8.1 </b>A holder of a licence authorizing the selling of pelts or carcasses of furbearing mammals under this Part shall not sell a pelt or carcass, except to a person who may buy it lawfully.  O. Reg. 263/05, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Selling</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. The holder of a fur dealer’s licence authorizing the buying or selling of pelts shall not sell pelts except to, (a) another holder of a fur dealer’s licence authorizing the buying or selling of pelts; (b) a person who accepts delivery of the pelts outside Ontario; or (c)  Revoked: O. Reg. 600/20, s. 1. (d) a person who is buying the pelt for his or her own use. O. Reg. 666/98, s. 9; O. Reg. 172/13, s. 7; O. Reg. 600/20, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>The holder of a fur dealer’s licence authorizing the buying or selling of pelts shall not sell pelts except to,</p> <p class=\"clause-e\">  (a) another holder of a fur dealer’s licence authorizing the buying or selling of pelts;</p> <p class=\"clause-e\">  (b) a person who accepts delivery of the pelts outside Ontario; or</p> <p class=\"clause-e\">  (c)  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 600/20, s. 1.</p> <p class=\"clause-e\">  (d) a person who is buying the pelt for his or her own use. O. Reg. 666/98, s. 9; O. Reg. 172/13, s. 7; O. Reg. 600/20, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. (1) For the purpose of subsection 48 (1) of the Act, a person who hunts or traps under subsection 6 (3) of the Act may sell the carcasses of furbearing mammals killed under that subsection, including their pelts, under a farmer’s licence to sell pelts and carcasses.  O. Reg. 666/98, s. 10 (1). (2) A farmer’s licence to sell pelts and carcasses shall not be issued to an applicant unless the applicant submits with the application, (a) a farmer’s licence to sell pelts and carcasses or a trapping licence issued to the applicant at any time during the five years immediately prior to the application and any season-end Harvest Report completed by the person in accordance with section 13 of Ontario Regulation 667/98 (Trapping) for the most recent year in which the applicant carried on trapping, or evidence of having filed the report; or (b) a certificate issued to the applicant at any time during the five years prior to the application by the Minister or a person designated by the Minister certifying that the applicant has successfully completed the course of instruction in fur harvest, fur management and conservation approved by the Minister.  O. Reg. 666/98, s. 10 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>(1) For the purpose of subsection 48 (1) of the Act, a person who hunts or traps under subsection 6 (3) of the Act may sell the carcasses of furbearing mammals killed under that subsection, including their pelts, under a farmer’s licence to sell pelts and carcasses.  O. Reg. 666/98, s. 10 (1).</p> <p class=\"subsection-e\">  (2) A farmer’s licence to sell pelts and carcasses shall not be issued to an applicant unless the applicant submits with the application,</p> <p class=\"clause-e\">  (a) a farmer’s licence to sell pelts and carcasses or a trapping licence issued to the applicant at any time during the five years immediately prior to the application and any season-end Harvest Report completed by the person in accordance with section 13 of Ontario Regulation 667/98 (Trapping) for the most recent year in which the applicant carried on trapping, or evidence of having filed the report; or</p> <p class=\"clause-e\">  (b) a certificate issued to the applicant at any time during the five years prior to the application by the Minister or a person designated by the Minister certifying that the applicant has successfully completed the course of instruction in fur harvest, fur management and conservation approved by the Minister.  O. Reg. 666/98, s. 10 (2).</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. (1) A holder of a farmer’s licence to sell pelts and carcasses shall complete the form entitled Trappers Season-end Harvest Report in accordance with section 13 of Ontario Regulation 667/98 (Trapping) and submit the report to the address indicated on the report on or before June 10 following the issuance of the licence.  O. Reg. 666/98, s. 11 (1). (2) The holder who sells a pelt under subsection 10 (1) shall produce the licence or proof of the existence of the licence at the time of sale.  O. Reg. 666/98, s. 11 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>(1) A holder of a farmer’s licence to sell pelts and carcasses shall complete the form entitled Trappers Season-end Harvest Report in accordance with section 13 of Ontario Regulation 667/98 (Trapping) and submit the report to the address indicated on the report on or before June 10 following the issuance of the licence.  O. Reg. 666/98, s. 11 (1).</p> <p class=\"subsection-e\">  (2) The holder who sells a pelt under subsection 10 (1) shall produce the licence or proof of the existence of the licence at the time of sale.  O. Reg. 666/98, s. 11 (2).</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. (1) For the purpose of subsection 48 (1) of the Act, the holder of a small game licence may, without any other licence, sell pelts of furbearing mammals that were killed under that licence during the open season. O. Reg. 172/13, s. 8. (2) If the holder of a small game licence also holds a licence to possess a pelt referred to in subsection 3.1 (3), he or she may sell the pelt of any species of furbearing mammal for which a small game licence may be issued under the Act. O. Reg. 172/13, s. 8. (3) The holder shall produce the licence or proof of the existence of the licence under which the furbearing mammal was killed or possessed at the time of sale.  O. Reg. 666/98, s. 12 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>(1) For the purpose of subsection 48 (1) of the Act, the holder of a small game licence may, without any other licence, sell pelts of furbearing mammals that were killed under that licence during the open season. O. Reg. 172/13, s. 8.</p> <p class=\"subsection-e\">  (2) If the holder of a small game licence also holds a licence to possess a pelt referred to in subsection 3.1 (3), he or she may sell the pelt of any species of furbearing mammal for which a small game licence may be issued under the Act. O. Reg. 172/13, s. 8.</p> <p class=\"subsection-e\">  (3) The holder shall produce the licence or proof of the existence of the licence under which the furbearing mammal was killed or possessed at the time of sale.  O. Reg. 666/98, s. 12 (3).</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. A holder of a trapping licence shall not sell a pelt under subsection 48 (3) of the Act unless he or she produces the licence or proof of the existence of the licence at the time of sale.  O. Reg. 666/98, s. 13.",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>A holder of a trapping licence shall not sell a pelt under subsection 48 (3) of the Act unless he or she produces the licence or proof of the existence of the licence at the time of sale.  O. Reg. 666/98, s. 13.</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. A holder of a trapping licence or a farmer’s licence to sell pelts and carcasses shall not sell more pelts than the number specified in the licence unless, at the time of sale, the holder holds a licence to possess a pelt issued in respect of the pelts that are being sold.  O. Reg. 666/98, s. 14.",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b>A holder of a trapping licence or a farmer’s licence to sell pelts and carcasses shall not sell more pelts than the number specified in the licence unless, at the time of sale, the holder holds a licence to possess a pelt issued in respect of the pelts that are being sold.  O. Reg. 666/98, s. 14.</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. (1) A person shall not sell pelts of furbearing mammals killed during the closed season.  O. Reg. 666/98, s. 15 (1). (2) Subsection (1) does not apply to, (a) the holder of a small game licence, a trapping licence or a farmer’s licence to sell pelts and carcasses if the person also holds a licence to possess a pelt; or (b) the holder of a fur dealer’s licence who bought the pelt either from a person referred to in clause (a) or from another person who holds a fur dealer’s licence. O. Reg. 172/13, s. 9. Buying",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>(1) A person shall not sell pelts of furbearing mammals killed during the closed season.  O. Reg. 666/98, s. 15 (1).</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply to,</p> <p class=\"clause-e\">  (a) the holder of a small game licence, a trapping licence or a farmer’s licence to sell pelts and carcasses if the person also holds a licence to possess a pelt; or </p> <p class=\"clause-e\">  (b) the holder of a fur dealer’s licence who bought the pelt either from a person referred to in clause (a) or from another person who holds a fur dealer’s licence. O. Reg. 172/13, s. 9.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Buying</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. The holder of a fur dealer’s licence authorizing the buying or selling of pelts or a person who purchases a pelt for his or her own use shall not buy a pelt except from the following persons: 1. The holder of a fur dealer’s licence authorizing the buying or selling of pelts. 2. A person who sells pelts in accordance with the Act. O. Reg. 172/13, s. 10. Fur Auction House",
+            "raw_html": "<p class=\"section-e\"> <b>16.</b> The holder of a fur dealer’s licence authorizing the buying or selling of pelts or a person who purchases a pelt for his or her own use shall not buy a pelt except from the following persons:</p> <p class=\"paragraph-e\">  1. The holder of a fur dealer’s licence authorizing the buying or selling of pelts.</p> <p class=\"paragraph-e\">  2. A person who sells pelts in accordance with the Act. O. Reg. 172/13, s. 10.</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Fur Auction House</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. (1) A person who is registered to buy or sell pelts at a fur auction house is exempt from the requirement for a licence under subsection 48 (1) of the Act.  O. Reg. 666/98, s. 17 (1). (2) The person who buys a pelt at a fur auction house under subsection (1) shall not accept delivery of the pelt in Ontario and shall not sell it anywhere else but at that fur auction house.  O. Reg. 666/98, s. 17 (2). (3) A person who holds a fur dealer’s licence shall not register to buy or sell pelts under subsection (1).  O. Reg. 666/98, s. 17 (3). (4) A person who is registered to buy or sell pelts at a fur auction house may cancel the registration and obtain a fur dealer’s licence.  O. Reg. 666/98, s. 17 (4). (5) A person who surrenders a fur dealer’s licence shall not register to buy or sell pelts at a fur auction house until July 1 immediately following the date on which the licence was issued.  O. Reg. 666/98, s. 17 (5). PART V   RECORDS — FUR DEALERS, TANNERS, TAXIDERMISTS",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b>(1) A person who is registered to buy or sell pelts at a fur auction house is exempt from the requirement for a licence under subsection 48 (1) of the Act.  O. Reg. 666/98, s. 17 (1).</p> <p class=\"subsection-e\">  (2) The person who buys a pelt at a fur auction house under subsection (1) shall not accept delivery of the pelt in Ontario and shall not sell it anywhere else but at that fur auction house.  O. Reg. 666/98, s. 17 (2).</p> <p class=\"subsection-e\">  (3) A person who holds a fur dealer’s licence shall not register to buy or sell pelts under subsection (1).  O. Reg. 666/98, s. 17 (3).</p> <p class=\"subsection-e\">  (4) A person who is registered to buy or sell pelts at a fur auction house may cancel the registration and obtain a fur dealer’s licence.  O. Reg. 666/98, s. 17 (4).</p> <p class=\"subsection-e\">  (5) A person who surrenders a fur dealer’s licence shall not register to buy or sell pelts at a fur auction house until July 1 immediately following the date on which the licence was issued.  O. Reg. 666/98, s. 17 (5).</p> <p class=\"partnum-e\"><a name=\"BK11\"></a>PART V <br/>  RECORDS — FUR DEALERS, TANNERS, TAXIDERMISTS</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. (1) Upon completing any of the following activities, the holder of a fur dealer’s licence shall immediately make a record of the activity in accordance with the format established by the Ministry: 1. The purchase or receipt of a pelt. 2. The sale or disposition of a pelt. 3. The plucking, tanning or treating of a pelt. O. Reg. 600/20, s. 2. (2) Within 14 days after the expiry of a fur dealer’s licence, the licence holder shall submit to the district manager of the Ministry a copy of the activities the licence holder recorded under subsection (1) during the period the licence was in effect. O. Reg. 600/20, s. 2. (3) A licence holder shall retain the records made under subsection (1) for at least two years after the day on which the fur dealer’s licence expires. O. Reg. 600/20, s. 2. (4) A licence holder who, during the entire period the licence is in effect, does not purchase, receive, sell or dispose of any pelts and does not pluck, tan or treat any pelts, shall submit a report confirming that fact to the district manager of the Ministry within 14 days following the expiry of the licence. O. Reg. 600/20, s. 2. (5) The holder who buys or receives pelts of farmed animals shall obtain an invoice, bill of lading or similar document describing them, setting out the name and address of the person from whom the holder obtained the pelts, the number of pelts obtained and of what species and the date on which they were obtained. O. Reg. 666/98, s. 18 (5).",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>(1) Upon completing any of the following activities, the holder of a fur dealer’s licence shall immediately make a record of the activity in accordance with the format established by the Ministry:</p> <p class=\"paragraph-e\">  1. The purchase or receipt of a pelt.</p> <p class=\"paragraph-e\">  2. The sale or disposition of a pelt.</p> <p class=\"paragraph-e\">  3. The plucking, tanning or treating of a pelt. O. Reg. 600/20, s. 2.</p> <p class=\"subsection-e\">  (2) Within 14 days after the expiry of a fur dealer’s licence, the licence holder shall submit to the district manager of the Ministry a copy of the activities the licence holder recorded under subsection (1) during the period the licence was in effect. O. Reg. 600/20, s. 2.</p> <p class=\"subsection-e\">  (3) A licence holder shall retain the records made under subsection (1) for at least two years after the day on which the fur dealer’s licence expires. O. Reg. 600/20, s. 2.</p> <p class=\"subsection-e\">  (4) A licence holder who, during the entire period the licence is in effect, does not purchase, receive, sell or dispose of any pelts and does not pluck, tan or treat any pelts, shall submit a report confirming that fact to the district manager of the Ministry within 14 days following the expiry of the licence. O. Reg. 600/20, s. 2.</p> <p class=\"subsection-e\">  (5) The holder who buys or receives pelts of farmed animals shall obtain an invoice, bill of lading or similar document describing them, setting out the name and address of the person from whom the holder obtained the pelts, the number of pelts obtained and of what species and the date on which they were obtained. O. Reg. 666/98, s. 18 (5).</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. A person who carries on business as a taxidermist shall record the following information: 1. The name and address of every person from whom the taxidermist receives the carcass of a specimen of game wildlife or specially protected wildlife and the date of receipt. 2. The number of carcasses received and of what species. 3. At the time the taxidermist receives the carcass, a notation of the authority under which the person from whom it is received killed the wildlife or possessed the carcass, as the case may be.  O. Reg. 666/98, s. 19; O. Reg. 172/13, s. 11. part v.1   buying and selling live furbearing mammals",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>A person who carries on business as a taxidermist shall record the following information:</p> <p class=\"paragraph-e\">  1. The name and address of every person from whom the taxidermist receives the carcass of a specimen of game wildlife or specially protected wildlife and the date of receipt.</p> <p class=\"paragraph-e\">  2. The number of carcasses received and of what species.</p> <p class=\"paragraph-e\">  3. At the time the taxidermist receives the carcass, a notation of the authority under which the person from whom it is received killed the wildlife or possessed the carcass, as the case may be.  O. Reg. 666/98, s. 19; O. Reg. 172/13, s. 11.</p> <p class=\"partnum-e\"><a name=\"BK12\"></a>part v.1 <br/>  buying and selling live furbearing mammals</p>"
+        },
+        {
+            "ahref_id": "#19.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19.1 (1) Despite subsections 40 (3) and 48 (1) of the Act, a person who holds a trapping licence may, without any other licence, sell a live furbearing mammal that he or she has trapped under the licence if, (a) in the case of a furbearing mammal other than a coyote or red fox, he or she sells it to, (i) a person who keeps farmed animals that are furbearing mammals, or (ii) a person who owns or operates a zoo and who is licensed to keep furbearing mammals in captivity in the zoo; (b) in the case of a red fox, he or she sells it to, (i) a person who keeps farmed animals that are furbearing mammals, (ii) a person who owns or operates a zoo and who is licensed to keep furbearing mammals in captivity in the zoo, or (iii) a person who is licensed to keep red fox in a train and trial area and who owns or operates such an area; or (c) in the case of a coyote, he or she sells it to, (i) a person who owns or operates a zoo and who is licensed to keep furbearing mammals in captivity in the zoo, or (ii) a person who is licensed to keep coyote in a train and trial area and who owns or operates such an area. O. Reg. 172/13, s. 12. (2) In subsection (1), “train and trial area” means an area in which wildlife is enclosed for the purpose of teaching dogs hunting skills or testing their hunting skills. O. Reg. 172/13, s. 12. PART VI   BUYING AND SELLING CARCASSES",
+            "raw_html": "<p class=\"section-e\"> <b>19.1 </b>(1) Despite subsections 40 (3) and 48 (1) of the Act, a person who holds a trapping licence may, without any other licence, sell a live furbearing mammal that he or she has trapped under the licence if,</p> <p class=\"clause-e\">  (a) in the case of a furbearing mammal other than a coyote or red fox, he or she sells it to,</p> <p class=\"subclause-e\">  (i) a person who keeps farmed animals that are furbearing mammals, or</p> <p class=\"subclause-e\">  (ii) a person who owns or operates a zoo and who is licensed to keep furbearing mammals in captivity in the zoo; </p> <p class=\"clause-e\">  (b) in the case of a red fox, he or she sells it to,</p> <p class=\"subclause-e\">  (i) a person who keeps farmed animals that are furbearing mammals,</p> <p class=\"subclause-e\">  (ii) a person who owns or operates a zoo and who is licensed to keep furbearing mammals in captivity in the zoo, or</p> <p class=\"subclause-e\">  (iii) a person who is licensed to keep red fox in a train and trial area and who owns or operates such an area; or</p> <p class=\"clause-e\">  (c) in the case of a coyote, he or she sells it to,</p> <p class=\"subclause-e\">  (i) a person who owns or operates a zoo and who is licensed to keep furbearing mammals in captivity in the zoo, or</p> <p class=\"subclause-e\">  (ii) a person who is licensed to keep coyote in a train and trial area and who owns or operates such an area. O. Reg. 172/13, s. 12.</p> <p class=\"subsection-e\">  (2) In subsection (1),</p> <p class=\"firstdef-e\">“train and trial area” means an area in which wildlife is enclosed for the purpose of teaching dogs hunting skills or testing their hunting skills. O. Reg. 172/13, s. 12.</p> <p class=\"partnum-e\"><a name=\"BK13\"></a>PART VI <br/>  BUYING AND SELLING CARCASSES</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. (1) This section applies to carcasses of furbearing mammals but not to pelts.  O. Reg. 666/98, s. 20 (1). (2) The holder of a licence to hunt raccoon may, without any other licence, sell the carcass of a raccoon that the holder has lawfully killed.  O. Reg. 666/98, s. 20 (2). (3) A person may buy the carcass of a raccoon for the person’s own use without a licence.  O. Reg. 666/98, s. 20 (3). (4) A person may buy the carcass of a furbearing mammal that has been lawfully killed from the holder of a trapping licence or a farmer’s licence to sell pelts and carcasses.  O. Reg. 666/98, s. 20 (4). (5) A person who buys a carcass under subsection (4) for his or her personal use may do so without a licence under subsection 48 (1) of the Act.  O. Reg. 666/98, s. 20 (5). (6) An invoice issued by a seller to a person who buys a carcass under subsection (4) for a purpose other than his or her own personal use shall be deemed to be a licence to buy the carcass referred to in the invoice.  O. Reg. 666/98, s. 20 (6). (7) The invoice shall list the number of carcasses sold, species involved, the name of the trapper or farmer who is selling, the name of the buyer and the date of the sale.  O. Reg. 666/98, s. 20 (7). (8) A person shall not buy or sell the carcass of a furbearing mammal for consumption by a person other than the buyer or his or her immediate family.  O. Reg. 666/98, s. 20 (8). (9) A person shall not sell the carcass of a furbearing mammal for consumption by a person unless the seller advises the buyer in writing that the meat has not been inspected under the Food Safety and Quality Act, 2001.  O. Reg. 666/98, s. 20 (9); O. Reg. 263/05, s. 2. PART VII   BUYING AND SELLING HIDES AND CAST ANTLERS",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>(1) This section applies to carcasses of furbearing mammals but not to pelts.  O. Reg. 666/98, s. 20 (1).</p> <p class=\"subsection-e\">  (2) The holder of a licence to hunt raccoon may, without any other licence, sell the carcass of a raccoon that the holder has lawfully killed.  O. Reg. 666/98, s. 20 (2).</p> <p class=\"subsection-e\">  (3) A person may buy the carcass of a raccoon for the person’s own use without a licence.  O. Reg. 666/98, s. 20 (3).</p> <p class=\"subsection-e\">  (4) A person may buy the carcass of a furbearing mammal that has been lawfully killed from the holder of a trapping licence or a farmer’s licence to sell pelts and carcasses.  O. Reg. 666/98, s. 20 (4).</p> <p class=\"subsection-e\">  (5) A person who buys a carcass under subsection (4) for his or her personal use may do so without a licence under subsection 48 (1) of the Act.  O. Reg. 666/98, s. 20 (5).</p> <p class=\"subsection-e\">  (6) An invoice issued by a seller to a person who buys a carcass under subsection (4) for a purpose other than his or her own personal use shall be deemed to be a licence to buy the carcass referred to in the invoice.  O. Reg. 666/98, s. 20 (6).</p> <p class=\"subsection-e\">  (7) The invoice shall list the number of carcasses sold, species involved, the name of the trapper or farmer who is selling, the name of the buyer and the date of the sale.  O. Reg. 666/98, s. 20 (7).</p> <p class=\"subsection-e\">  (8) A person shall not buy or sell the carcass of a furbearing mammal for consumption by a person other than the buyer or his or her immediate family.  O. Reg. 666/98, s. 20 (8).</p> <p class=\"subsection-e\">  (9) A person shall not sell the carcass of a furbearing mammal for consumption by a person unless the seller advises the buyer in writing that the meat has not been inspected under the<i> Food Safety and Quality Act, 2001</i>.  O. Reg. 666/98, s. 20 (9); O. Reg. 263/05, s. 2.</p> <p class=\"partnum-e\"><a name=\"BK14\"></a>PART VII <br/>  BUYING AND SELLING HIDES AND CAST ANTLERS</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. Despite subsection 48 (1) of the Act, a person may buy or sell hides or cast antlers without a licence to do so if he or she keeps a record of the transaction required by section 22. O. Reg. 172/13, s. 13.",
+            "raw_html": "<p class=\"section-e\"> <b>21.</b> Despite subsection 48 (1) of the Act, a person may buy or sell hides or cast antlers without a licence to do so if he or she keeps a record of the transaction required by section 22. O. Reg. 172/13, s. 13.</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22. (1) A person who buys or sells hides or cast antlers, other than a person described in subsection (5), shall keep a record of the hides or cast antlers that the person buys or sells. O. Reg. 172/13, s. 13. (2) The record shall be made at the time the buying or selling occurs. O. Reg. 172/13, s. 13. (3) The record shall be in a form acceptable to the Minister. O. Reg. 172/13, s. 13. (4) The person shall record the following information: 1. The date on which the record is made. 2. The name and address of the parties involved. 3. If the person who sold the hide or cast antlers holds a hunting or trapping licence, the licence number and the date on which the licence expires. 4. If the person who sold the hide gave notice of its acquisition under section 2, the number of the notice of possession form. 5. The number of hides or cast antlers and the species of animal involved. O. Reg. 172/13, s. 13. (5) The following persons are not required to keep records under this section: 1. A hunter or trapper who sells the hide of an animal that he or she lawfully hunted or trapped or who sells cast antlers. 2. A person who sells not more than a single hide or a single set of cast antlers in a year, if it was lawfully acquired. 3. A person who buys a hide or set of cast antlers for his or her own use. 4. A person who trades or barters hides for a token of little or no value as part of a program approved or sponsored by the Ministry to facilitate the provision of hides to artisans. O. Reg. 172/13, s. 13.",
+            "raw_html": "<p class=\"section-e\"> <b>22.</b> (1) A person who buys or sells hides or cast antlers, other than a person described in subsection (5), shall keep a record of the hides or cast antlers that the person buys or sells. O. Reg. 172/13, s. 13.</p> <p class=\"subsection-e\">  (2) The record shall be made at the time the buying or selling occurs. O. Reg. 172/13, s. 13.</p> <p class=\"subsection-e\">  (3) The record shall be in a form acceptable to the Minister. O. Reg. 172/13, s. 13.</p> <p class=\"subsection-e\">  (4) The person shall record the following information:</p> <p class=\"paragraph-e\">  1. The date on which the record is made.</p> <p class=\"paragraph-e\">  2. The name and address of the parties involved.</p> <p class=\"paragraph-e\">  3. If the person who sold the hide or cast antlers holds a hunting or trapping licence, the licence number and the date on which the licence expires.</p> <p class=\"paragraph-e\">  4. If the person who sold the hide gave notice of its acquisition under section 2, the number of the notice of possession form.</p> <p class=\"paragraph-e\">  5. The number of hides or cast antlers and the species of animal involved. O. Reg. 172/13, s. 13.</p> <p class=\"subsection-e\">  (5) The following persons are not required to keep records under this section:</p> <p class=\"paragraph-e\">  1. A hunter or trapper who sells the hide of an animal that he or she lawfully hunted or trapped or who sells cast antlers.</p> <p class=\"paragraph-e\">  2. A person who sells not more than a single hide or a single set of cast antlers in a year, if it was lawfully acquired.</p> <p class=\"paragraph-e\">  3. A person who buys a hide or set of cast antlers for his or her own use.</p> <p class=\"paragraph-e\">  4. A person who trades or barters hides for a token of little or no value as part of a program approved or sponsored by the Ministry to facilitate the provision of hides to artisans. O. Reg. 172/13, s. 13.</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23., 24. Revoked: O. Reg. 172/13, s. 13. PART VIII   BUYING AND SELLING GAME BIRDS",
+            "raw_html": "<p class=\"section-e\"> <b>23.</b>, <b>24.</b> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 172/13, s. 13.</p> <p class=\"partnum-e\"><a name=\"BK15\"></a>PART VIII <br/>  BUYING AND SELLING GAME BIRDS</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. (1) A holder of a licence to keep game birds in captivity may, without any other licence, keep in captivity, propagate or buy or sell live game birds of the species that the holder is authorized to keep and their eggs to another holder of a licence to keep game birds in captivity.  O. Reg. 666/98, s. 25 (1). (2) If authorized to keep gray (Hungarian) partridge, northern bobwhite or wild turkey under such a licence, the holder of the licence may, without any other licence, sell them and their eggs to the holder of a licence to own or operate a game bird hunting preserve.  O. Reg. 666/98, s. 25 (2); O. Reg. 546/17, s. 1. (3) If authorized to keep ring-necked pheasants under such a licence, the holder of the licence may sell them or their eggs to any person without any other licence.  O. Reg. 666/98, s. 25 (3). (4) The purchaser of a live ring-necked pheasant may keep the bird in captivity for a period of 10 days without a licence under subsection 40 (1) of the Act.  O. Reg. 666/98, s. 25 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>25. </b>(1) A holder of a licence to keep game birds in captivity may, without any other licence, keep in captivity, propagate or buy or sell live game birds of the species that the holder is authorized to keep and their eggs to another holder of a licence to keep game birds in captivity.  O. Reg. 666/98, s. 25 (1).</p> <p class=\"subsection-e\">  (2) If authorized to keep gray (Hungarian) partridge, northern bobwhite or wild turkey under such a licence, the holder of the licence may, without any other licence, sell them and their eggs to the holder of a licence to own or operate a game bird hunting preserve.  O. Reg. 666/98, s. 25 (2); O. Reg. 546/17, s. 1.</p> <p class=\"subsection-e\">  (3) If authorized to keep ring-necked pheasants under such a licence, the holder of the licence may sell them or their eggs to any person without any other licence.  O. Reg. 666/98, s. 25 (3).</p> <p class=\"subsection-e\">  (4) The purchaser of a live ring-necked pheasant may keep the bird in captivity for a period of 10 days without a licence under subsection 40 (1) of the Act.  O. Reg. 666/98, s. 25 (4).</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. (1) A holder of a licence to keep game birds in captivity shall not sell a live game bird or the carcass of a ring-necked pheasant to a purchaser without giving the purchaser an invoice showing, (a) the holder’s name; (b) the number of the holder’s licence; (c) the date of the sale; (d) the purchaser’s name and address; (e) the number of the purchaser’s licence, if any; and (f) the number of game birds sold and the species involved and the number of carcasses of ring-necked pheasant sold.  O. Reg. 666/98, s. 26 (1). (2) The holder named as seller in an invoice shall retain a copy of the invoice for at least two years.  O. Reg. 666/98, s. 26 (2). (3) The purchaser of a live bird shall retain the invoice for at least two years.  O. Reg. 666/98, s. 26 (3). (4) The purchaser of a carcass of a ring-necked pheasant shall retain the invoice for at least two years or until the carcass is consumed or otherwise disposed of, whichever occurs first.  O. Reg. 666/98, s. 26 (4). (5) The invoice shall be deemed to be a licence to buy the game bird or carcass of a ring-necked pheasant specified in it for the purpose of subsection 48 (1) of the Act.  O. Reg. 666/98, s. 26 (5).",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b>(1) A holder of a licence to keep game birds in captivity shall not sell a live game bird or the carcass of a ring-necked pheasant to a purchaser without giving the purchaser an invoice showing,</p> <p class=\"clause-e\">  (a) the holder’s name;</p> <p class=\"clause-e\">  (b) the number of the holder’s licence;</p> <p class=\"clause-e\">  (c) the date of the sale;</p> <p class=\"clause-e\">  (d) the purchaser’s name and address;</p> <p class=\"clause-e\">  (e) the number of the purchaser’s licence, if any; and</p> <p class=\"clause-e\">  (f) the number of game birds sold and the species involved and the number of carcasses of ring-necked pheasant sold.  O. Reg. 666/98, s. 26 (1).</p> <p class=\"subsection-e\">  (2) The holder named as seller in an invoice shall retain a copy of the invoice for at least two years.  O. Reg. 666/98, s. 26 (2).</p> <p class=\"subsection-e\">  (3) The purchaser of a live bird shall retain the invoice for at least two years.  O. Reg. 666/98, s. 26 (3).</p> <p class=\"subsection-e\">  (4) The purchaser of a carcass of a ring-necked pheasant shall retain the invoice for at least two years or until the carcass is consumed or otherwise disposed of, whichever occurs first.  O. Reg. 666/98, s. 26 (4).</p> <p class=\"subsection-e\">  (5) The invoice shall be deemed to be a licence to buy the game bird or carcass of a ring-necked pheasant specified in it for the purpose of subsection 48 (1) of the Act.  O. Reg. 666/98, s. 26 (5).</p>"
+        },
+        {
+            "ahref_id": "#27.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27. Subsection 48 (1) of the Act does not apply to a ring-necked pheasant that is sold in a dressed condition and in a container or package that clearly shows the name and address of the person who sold it.  O. Reg. 666/98, s. 27. Part iX Revoked: O. Reg. 88/17, s. 2. PART X   TRANSPORTATION",
+            "raw_html": "<p class=\"section-e\"> <b>27. </b>Subsection 48 (1) of the Act does not apply to a ring-necked pheasant that is sold in a dressed condition and in a container or package that clearly shows the name and address of the person who sold it.  O. Reg. 666/98, s. 27.</p> <p class=\"partnumRevoked-e\"><span class=\"ovboldallcaps\">Part iX </span><span class=\"ovsmallcap\">Revoked:</span> O. Reg. 88/17, s. 2.</p> <p class=\"partnum-e\"><a name=\"BK16\"></a>PART X <br/>  TRANSPORTATION</p>"
+        },
+        {
+            "ahref_id": "#29.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 29. Subsection 57 (1) of the Act does not apply to, (a) a person who keeps farmed animals that are furbearing mammals and who transports their pelts, unless the person transports the pelts of furbearing mammals that are not farmed animals at the same time; (b) a hunter or trapper who transports wildlife that he or she has killed in accordance with the Act and the regulations if the hunter or trapper accompanies the wildlife during transportation.  O. Reg. 666/98, s. 29.",
+            "raw_html": "<p class=\"section-e\"> <b>29. </b>Subsection 57 (1) of the Act does not apply to,</p> <p class=\"clause-e\">  (a) a person who keeps farmed animals that are furbearing mammals and who transports their pelts, unless the person transports the pelts of furbearing mammals that are not farmed animals at the same time;</p> <p class=\"clause-e\">  (b) a hunter or trapper who transports wildlife that he or she has killed in accordance with the Act and the regulations if the hunter or trapper accompanies the wildlife during transportation.  O. Reg. 666/98, s. 29.</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. (1) For the purposes of subsection 55 (1) of the Act, a person shall not transport out of Ontario any of the following game wildlife, unless he or she holds an export permit with respect to the game wildlife: 1. A furbearing mammal that is not a farmed animal, its pelt or the pelt of a furbearing mammal that is a farmed animal. 2. In the case of a non-resident, any of the following game mammals that were killed in Ontario: i. A black bear. ii. A white-tailed deer. iii. An American elk. iv. A moose. O. Reg. 172/13, s. 14. (2) Despite subsection (1), if the carcass of a species of game wildlife referred to in subsection (1) has been divided into parts, a person shall not transport a part of the carcass out of Ontario unless the person holds an export permit with respect to the carcass or has obtained a portion or component of the export permit. O. Reg. 172/13, s. 14. (3) Despite subsection (2), an export permit or a portion or component of an export permit is not required to transport out of Ontario a part of a carcass that has been tanned or treated by a taxidermist. O. Reg. 172/13, s. 14. (4) For the purposes of subsection 55 (1) of the Act, a non-resident who holds a licence to hunt game wildlife under the Act shall not transport out of Ontario more game wildlife than the number he or she is permitted to kill or possess under the Act. O. Reg. 172/13, s. 14.",
+            "raw_html": "<p class=\"section-e\"> <b>30. </b>(1) For the purposes of subsection 55 (1) of the Act, a person shall not transport out of Ontario any of the following game wildlife, unless he or she holds an export permit with respect to the game wildlife:</p> <p class=\"paragraph-e\">  1. A furbearing mammal that is not a farmed animal, its pelt or the pelt of a furbearing mammal that is a farmed animal.</p> <p class=\"paragraph-e\">  2. In the case of a non-resident, any of the following game mammals that were killed in Ontario:</p> <p class=\"subpara-e\">  i. A black bear.</p> <p class=\"subpara-e\">  ii. A white-tailed deer.</p> <p class=\"subpara-e\">  iii. An American elk.</p> <p class=\"subpara-e\">  iv. A moose. O. Reg. 172/13, s. 14.</p> <p class=\"subsection-e\">  (2) Despite subsection (1), if the carcass of a species of game wildlife referred to in subsection (1) has been divided into parts, a person shall not transport a part of the carcass out of Ontario unless the person holds an export permit with respect to the carcass or has obtained a portion or component of the export permit. O. Reg. 172/13, s. 14.</p> <p class=\"subsection-e\">  (3) Despite subsection (2), an export permit or a portion or component of an export permit is not required to transport out of Ontario a part of a carcass that has been tanned or treated by a taxidermist. O. Reg. 172/13, s. 14.</p> <p class=\"subsection-e\">  (4) For the purposes of subsection 55 (1) of the Act, a non-resident who holds a licence to hunt game wildlife under the Act shall not transport out of Ontario more game wildlife than the number he or she is permitted to kill or possess under the Act. O. Reg. 172/13, s. 14.</p>"
+        },
+        {
+            "ahref_id": "#30.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30.1 (1) No person shall transport a live cervid into Ontario, including a cervid intended to be kept as a farmed animal, unless the person has been issued a permit from the Minister authorizing the transport of the cervid into Ontario. O. Reg. 761/20, s. 2. (2) The Minister shall not issue a permit under subsection (1) unless, (a) the cervid originates from a jurisdiction that has been free from chronic wasting disease for at least six years immediately prior to the date of transport of the cervid into Ontario; and (b) the Minister has received a written notice issued by the Minister of Agriculture, Food and Rural Affairs as described in subsection (3) in respect of the cervid. O. Reg. 761/20, s. 2. (3) A notice issued by the Minister of Agriculture, Food and Rural Affairs shall indicate that that Minister is satisfied that, (a) a qualified veterinarian has confirmed that the cervid being transported into Ontario is from a herd that is fully certified in a chronic wasting disease herd certification program established in the jurisdiction from which the cervid is being imported; and (b) the cervid is unlikely to be at risk of spreading chronic wasting disease based on a qualified veterinarian’s assessment of the cervid’s health and movement history. O. Reg. 761/20, s. 2. (4) A person transporting a live cervid into Ontario under the authority of a permit issued under subsection (1) shall, subject to subsection (5), deliver the cervid to, (a) a place for slaughtering in which the cervid is slaughtered immediately upon arrival; or (b) a place of captivity that meets the requirements set out in subsection (6). O. Reg. 761/20, s. 2. (5) Subsection (4) does not apply if the cervid is only in Ontario for the purpose of temporary transit through Ontario. O. Reg. 761/20, s. 2. (6) A place of captivity to which a live cervid is delivered must have adopted the following measures in order to prevent the introduction and spread of disease: 1. The place has a two-gate system through which vehicles transporting animals must pass before the animals are released and the gates are separated by sufficient space so as to allow vehicles to stop between the gates as the first gate is being shut and the second gate is being opened. 2. The place is enclosed by a system of double fencing that is designed to prevent a captive cervid from escaping or has one of the following means of preventing such animals from escaping that is as effective as a system of double fencing: i. The place is enclosed by a single fence and a system of electrified fencing. ii. The place is enclosed by a single fence that is sufficiently high and solid to prevent the animals from escaping. iii. The place has a system of landscaping arrangements and natural barriers that are sufficient to prevent the animals from escaping. O. Reg. 761/20, s. 2. (7) A person who is issued a permit under subsection (1) and any person who possesses a cervid that was transported into Ontario pursuant to a permit issued under subsection (1) shall ensure the cervid is identified with a unique number. O. Reg. 761/20, s. 2. (8) Any person who accepted delivery of a woodland caribou, American elk, white-tailed deer or moose transported into Ontario pursuant to a permit issued under this section as it read immediately before January 1, 2021 shall ensure that all woodland caribou, American elk, white-tailed deer or moose the person keeps in captivity, including those that are farmed animals, are identified with a unique number. O. Reg. 761/20, s. 2. (9) No person shall possess a live cervid transported into Ontario contrary to subsection (1). O. Reg. 761/20, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>30.1 </b>(1) No person shall transport a live cervid into Ontario, including a cervid intended to be kept as a farmed animal, unless the person has been issued a permit from the Minister authorizing the transport of the cervid into Ontario. O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (2) The Minister shall not issue a permit under subsection (1) unless,</p> <p class=\"clause-e\">  (a) the cervid originates from a jurisdiction that has been free from chronic wasting disease for at least six years immediately prior to the date of transport of the cervid into Ontario; and</p> <p class=\"clause-e\">  (b) the Minister has received a written notice issued by the Minister of Agriculture, Food and Rural Affairs as described in subsection (3) in respect of the cervid. O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (3) A notice issued by the Minister of Agriculture, Food and Rural Affairs shall indicate that that Minister is satisfied that,</p> <p class=\"clause-e\">  (a) a qualified veterinarian has confirmed that the cervid being transported into Ontario is from a herd that is fully certified in a chronic wasting disease herd certification program established in the jurisdiction from which the cervid is being imported; and</p> <p class=\"clause-e\">  (b) the cervid is unlikely to be at risk of spreading chronic wasting disease based on a qualified veterinarian’s assessment of the cervid’s health and movement history. O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (4) A person transporting a live cervid into Ontario under the authority of a permit issued under subsection (1) shall, subject to subsection (5), deliver the cervid to,</p> <p class=\"clause-e\">  (a) a place for slaughtering in which the cervid is slaughtered immediately upon arrival; or</p> <p class=\"clause-e\">  (b) a place of captivity that meets the requirements set out in subsection (6). O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (5) Subsection (4) does not apply if the cervid is only in Ontario for the purpose of temporary transit through Ontario. O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (6) A place of captivity to which a live cervid is delivered must have adopted the following measures in order to prevent the introduction and spread of disease:</p> <p class=\"paragraph-e\">  1. The place has a two-gate system through which vehicles transporting animals must pass before the animals are released and the gates are separated by sufficient space so as to allow vehicles to stop between the gates as the first gate is being shut and the second gate is being opened.</p> <p class=\"paragraph-e\">  2. The place is enclosed by a system of double fencing that is designed to prevent a captive cervid from escaping or has one of the following means of preventing such animals from escaping that is as effective as a system of double fencing:</p> <p class=\"subpara-e\">  i. The place is enclosed by a single fence and a system of electrified fencing.</p> <p class=\"subpara-e\">  ii. The place is enclosed by a single fence that is sufficiently high and solid to prevent the animals from escaping.</p> <p class=\"subpara-e\">  iii. The place has a system of landscaping arrangements and natural barriers that are sufficient to prevent the animals from escaping. O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (7) A person who is issued a permit under subsection (1) and any person who possesses a cervid that was transported into Ontario pursuant to a permit issued under subsection (1) shall ensure the cervid is identified with a unique number. O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (8) Any person who accepted delivery of a woodland caribou, American elk, white-tailed deer or moose transported into Ontario pursuant to a permit issued under this section as it read immediately before January 1, 2021 shall ensure that all woodland caribou, American elk, white-tailed deer or moose the person keeps in captivity, including those that are farmed animals, are identified with a unique number. O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (9) No person shall possess a live cervid transported into Ontario contrary to subsection (1). O. Reg. 761/20, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#30.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  30.2 (1) This section applies to any live cervid that is being kept in captivity in Ontario including those that are farmed animals. O. Reg. 761/20, s. 2. (2) No person shall transport a live cervid that is being kept in captivity in Ontario except under the authority of a permit issued by the Minister. O. Reg. 761/20, s. 2. (3) The Minister shall not issue a permit under subsection (2) unless, (a) the cervid, (i) was born and has lived its entire life in Ontario, (ii) has lived in Ontario for at least five years prior to the date of transportation in Ontario, (iii) was transported into Ontario after January 1, 2021 in accordance with subsection 30.1 (1), or (iv) was transported into Ontario prior to January 1, 2021, and the only other jurisdiction that the cervid lived in was a jurisdiction that has been free from chronic wasting disease for at least six years prior to the date it was transported into Ontario and originated from a herd that was fully certified in a chronic wasting disease herd certification program established in that jurisdiction; (b) the cervid has not been in contact with any other cervids other than a cervid that meets one of the criteria described in clause (a); and (c) the Minister has received a written notice issued by the Minister of Agriculture, Food and Rural Affairs described in subsection (4) in respect of the cervid. O. Reg. 761/20, s. 2. (4) A notice issued by the Minister of Agriculture, Food and Rural Affairs shall indicate that that Minister is satisfied that the cervid, (a) meets the criteria set out in clauses (a) and (b) of subsection (3); and (b) is unlikely to be at risk of spreading chronic wasting disease based on a qualified veterinarian’s assessment of the cervid’s health and movement history. O. Reg. 761/20, s. 2. (5) A person transporting a cervid within Ontario under the authority of a permit issued under subsection (2) shall deliver the animal to a place of captivity that meets the requirements set out in subsection 30.1 (6). O. Reg. 761/20, s. 2. (6) A person who is issued a permit under subsection (2) and any person who possesses a cervid that was transported within Ontario pursuant to a permit issued under subsection (2) shall ensure the cervid is identified with a unique number. O. Reg. 761/20, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  30.2 </b>(1) This section applies to any live cervid that is being kept in captivity in Ontario including those that are farmed animals. O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (2) No person shall transport a live cervid that is being kept in captivity in Ontario except under the authority of a permit issued by the Minister. O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (3) The Minister shall not issue a permit under subsection (2) unless,</p> <p class=\"clause-e\">  (a) the cervid,</p> <p class=\"subclause-e\">  (i) was born and has lived its entire life in Ontario,</p> <p class=\"subclause-e\">  (ii) has lived in Ontario for at least five years prior to the date of transportation in Ontario,</p> <p class=\"subclause-e\">  (iii) was transported into Ontario after January 1, 2021 in accordance with subsection 30.1 (1), or</p> <p class=\"subclause-e\">  (iv) was transported into Ontario prior to January 1, 2021, and the only other jurisdiction that the cervid lived in was a jurisdiction that has been free from chronic wasting disease for at least six years prior to the date it was transported into Ontario and originated from a herd that was fully certified in a chronic wasting disease herd certification program established in that jurisdiction;</p> <p class=\"clause-e\">  (b) the cervid has not been in contact with any other cervids other than a cervid that meets one of the criteria described in clause (a); and</p> <p class=\"clause-e\">  (c) the Minister has received a written notice issued by the Minister of Agriculture, Food and Rural Affairs described in subsection (4) in respect of the cervid. O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (4) A notice issued by the Minister of Agriculture, Food and Rural Affairs shall indicate that that Minister is satisfied that the cervid,</p> <p class=\"clause-e\">  (a) meets the criteria set out in clauses (a) and (b) of subsection (3); and</p> <p class=\"clause-e\">  (b) is unlikely to be at risk of spreading chronic wasting disease based on a qualified veterinarian’s assessment of the cervid’s health and movement history. O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (5) A person transporting a cervid within Ontario under the authority of a permit issued under subsection (2) shall deliver the animal to a place of captivity that meets the requirements set out in subsection 30.1 (6). O. Reg. 761/20, s. 2.</p> <p class=\"subsection-e\">  (6) A person who is issued a permit under subsection (2) and any person who possesses a cervid that was transported within Ontario pursuant to a permit issued under subsection (2) shall ensure the cervid is identified with a unique number. O. Reg. 761/20, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#30.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30.3 Subsection 30.2 (2) does not apply in the following circumstances: 1. The cervid is being transported to a place for slaughtering in which the animal is slaughtered immediately upon arrival. 2. The cervid is being transported to a location outside of Ontario. 3. The cervid is being transported to another location within Ontario solely for the purposes of a temporary exhibit, display or event provided the cervid, i. is at the exhibit, display or event for no longer than 14 days, ii. is returned to the place of captivity upon completion of the exhibit, display or event, iii. does not have any contact with cervids from any other location while at the exhibit, display or event, and iv. is identified with a unique number while at the exhibit, display or event. 4. The cervid is a wild American elk, moose, white-tailed deer or woodland caribou that is being transported to or from a place of temporary captivity for the purposes of, i. medical treatment by a veterinarian, or ii. rehabilitation or care by a wildlife custodian who is authorized to keep the species in captivity under section 44 the Act. O. Reg. 761/20, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>30.3</b> Subsection 30.2 (2) does not apply in the following circumstances:</p> <p class=\"paragraph-e\">  1. The cervid is being transported to a place for slaughtering in which the animal is slaughtered immediately upon arrival.</p> <p class=\"paragraph-e\">  2. The cervid is being transported to a location outside of Ontario.</p> <p class=\"paragraph-e\">  3. The cervid is being transported to another location within Ontario solely for the purposes of a temporary exhibit, display or event provided the cervid,</p> <p class=\"subpara-e\">  i. is at the exhibit, display or event for no longer than 14 days,</p> <p class=\"subpara-e\">  ii. is returned to the place of captivity upon completion of the exhibit, display or event,</p> <p class=\"subpara-e\">  iii. does not have any contact with cervids from any other location while at the exhibit, display or event, and</p> <p class=\"subpara-e\">  iv. is identified with a unique number while at the exhibit, display or event.</p> <p class=\"paragraph-e\">  4. The cervid is a wild American elk, moose, white-tailed deer or woodland caribou that is being transported to or from a place of temporary captivity for the purposes of,</p> <p class=\"subpara-e\">  i. medical treatment by a veterinarian, or</p> <p class=\"subpara-e\">  ii. rehabilitation or care by a wildlife custodian who is authorized to keep the species in captivity under section 44 the Act. O. Reg. 761/20, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#30.4",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30.4 Any person transporting a live cervid into Ontario or within Ontario, including a cervid that is a farmed animal or intended to be kept as such, shall keep the cervid securely contained in the transit vehicle at all times during transportation. O. Reg. 761/20, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>30.4 </b>Any person transporting a live cervid into Ontario or within Ontario, including a cervid that is a farmed animal or intended to be kept as such, shall keep the cervid securely contained in the transit vehicle at all times during transportation. O. Reg. 761/20, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#30.5",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30.5 A reference to a cervid in sections 30.1 to 30.4 includes a reference to its gamete. O. Reg. 761/20, s. 2. PART XI   EXEMPTIONS",
+            "raw_html": "<p class=\"section-e\"> <b>30.5 </b>A reference to a cervid in sections 30.1 to 30.4 includes a reference to its gamete. O. Reg. 761/20, s. 2.</p> <p class=\"partnum-e\"><a name=\"BK17\"></a>PART XI <br/>  EXEMPTIONS</p>"
+        },
+        {
+            "ahref_id": "#31.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31. (1) Subsections 48 (1) and 57 (1) of the Act and the requirement for an export permit do not apply with respect to, (a) hides, cast antlers, pelts or other parts of furbearing mammals that have been lawfully bought or sold and that have been tanned, plucked or treated, or manufactured into commercial products; (b) artwork or jewellery made from game wildlife the commercial value of which is primarily in the artwork or jewellery and not in the wildlife.  O. Reg. 666/98, s. 31 (1). (2) For the purposes of clause (1) (b), “artwork” does not include a wildlife specimen that has been treated by a taxidermist, whether in whole or in part, or mounts of such specimens.  O. Reg. 666/98, s. 31 (2). PART XII   ROYALTIES",
+            "raw_html": "<p class=\"section-e\"> <b>31. </b>(1) Subsections 48 (1) and 57 (1) of the Act and the requirement for an export permit do not apply with respect to,</p> <p class=\"clause-e\">  (a) hides, cast antlers, pelts or other parts of furbearing mammals that have been lawfully bought or sold and that have been tanned, plucked or treated, or manufactured into commercial products;</p> <p class=\"clause-e\">  (b) artwork or jewellery made from game wildlife the commercial value of which is primarily in the artwork or jewellery and not in the wildlife.  O. Reg. 666/98, s. 31 (1).</p> <p class=\"subsection-e\">  (2) For the purposes of clause (1) (b),</p> <p class=\"firstdef-e\">“artwork” does not include a wildlife specimen that has been treated by a taxidermist, whether in whole or in part, or mounts of such specimens.  O. Reg. 666/98, s. 31 (2).</p> <p class=\"partnum-e\"><a name=\"BK18\"></a>PART XII <br/>  ROYALTIES</p>"
+        },
+        {
+            "ahref_id": "#32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32. (1) A person shall pay the royalty determined in accordance with subsection (2) to the Minister before he or she transports a furbearing mammal or a pelt outside of Ontario. O. Reg. 172/13, s. 15. (1.1) In subsection (1), “pelt” includes a pelt that has begun to undergo a process of tanning or treating, but for which the process is not yet complete. O. Reg. 172/13, s. 15. (2) The royalties for furbearing mammals or their pelts are established and calculated as follows: 1. Ascertain the calendar year of the October 1 that preceded the act that gives rise to the royalty obligation. 2. Determine the average of all sale prices obtained for individual furbearing mammals and individual pelts of the species in auction houses in Ontario during the 12-month period ending on July 1 of the calendar year ascertained under paragraph 1. 3. Multiply the average obtained under paragraph 2 by 5.5 per cent. 4. Round off the results obtained under paragraph 3 to the nearest five cents.  O. Reg. 666/98, s. 32 (2). (3) Despite subsection (1), no royalties are payable, (a) in respect of a furbearing mammal or its pelt if the average sale price determined for it under paragraph 2 of subsection (2) is less than one dollar; and (b) in respect of a furbearing mammal or pelt imported from a place outside of Ontario.  O. Reg. 666/98, s. 32 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>32. </b>(1) A person shall pay the royalty determined in accordance with subsection (2) to the Minister before he or she transports a furbearing mammal or a pelt outside of Ontario. O. Reg. 172/13, s. 15.</p> <p class=\"subsection-e\">  (1.1) In subsection (1),</p> <p class=\"firstdef-e\">“pelt” includes a pelt that has begun to undergo a process of tanning or treating, but for which the process is not yet complete. O. Reg. 172/13, s. 15.</p> <p class=\"subsection-e\">  (2) The royalties for furbearing mammals or their pelts are established and calculated as follows:</p> <p class=\"paragraph-e\">  1. Ascertain the calendar year of the October 1 that preceded the act that gives rise to the royalty obligation.</p> <p class=\"paragraph-e\">  2. Determine the average of all sale prices obtained for individual furbearing mammals and individual pelts of the species in auction houses in Ontario during the 12-month period ending on July 1 of the calendar year ascertained under paragraph 1.</p> <p class=\"paragraph-e\">  3. Multiply the average obtained under paragraph 2 by 5.5 per cent.</p> <p class=\"paragraph-e\">  4. Round off the results obtained under paragraph 3 to the nearest five cents.  O. Reg. 666/98, s. 32 (2).</p> <p class=\"subsection-e\">  (3) Despite subsection (1), no royalties are payable,</p> <p class=\"clause-e\">  (a) in respect of a furbearing mammal or its pelt if the average sale price determined for it under paragraph 2 of subsection (2) is less than one dollar; and</p> <p class=\"clause-e\">  (b) in respect of a furbearing mammal or pelt imported from a place outside of Ontario.  O. Reg. 666/98, s. 32 (3).</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. Omitted (revokes other Regulations).  O. Reg. 666/98, s. 33.",
+            "raw_html": "<p class=\"section-e\"> <b>33.</b> <span class=\"ovsmallcap\">Omitted (revokes other Regulations)</span>.  O. Reg. 666/98, s. 33.</p>"
+        },
+        {
+            "ahref_id": "#34.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 666/98, s. 34.",
+            "raw_html": "<p class=\"section-e\"> <b>34.</b> <span class=\"ovsmallcap\">Omitted (provides for coming into force of provisions of this Regulation)</span><span>.</span>  O. Reg. 666/98, s. 34.</p>"
+        }
+    ]
+}

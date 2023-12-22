@@ -1,0 +1,429 @@
+{
+    "act_info": {
+        "full_title": "Racing Commission Act, 2000, S.O. 2000, c. 20",
+        "act_name_text": "Not Found",
+        "citation": "Racing Commission Act, 2000, S.O. 2000, c. 20",
+        "url": "https://www.ontario.ca/laws/statute/00r20",
+        "date_scraped": "2023-12-21 17:52:04"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/statute/00r20/v4",
+            "valid_from": "December 10, 2015",
+            "valid_to": "March 31, 2016"
+        },
+        {
+            "a_href": "/laws/statute/00r20/v3",
+            "valid_from": "December 20, 2006",
+            "valid_to": "December  9, 2015"
+        },
+        {
+            "a_href": "/laws/statute/00r20/v2",
+            "valid_from": "November 30, 2004",
+            "valid_to": "December 19, 2006"
+        },
+        {
+            "a_href": "/laws/statute/00r20/v1",
+            "valid_from": "December 15, 2000",
+            "valid_to": "November 29, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/000664",
+            "Citation": "O. Reg. 664/00",
+            "title": "FRIVOLOUS APPEALS"
+        }
+    ],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I  ",
+            "section_x": "PART I DEFINITIONS AND ADMINISTRATION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "Definitions",
+            "section_x": "Definitions",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Definitions",
+            "content": " 1.  In this Act, “Commission” means the Ontario Racing Commission; (“Commission”) “Director” means the Director of the Commission appointed under section 9; (“directeur”) “licence” means a licence described in clause 7 (c) or (d); (“licence”) “licensee” means the holder of a licence; (“titulaire de licence”) “Minister” means the Minister responsible for the administration of this Act; (“ministre”) “regulations” means the regulations made under this Act; (“règlements”) “rules” means the rules for the conduct of horse racing made by the Commission under this Act. (“règles”)  2000, c. 20, s. 1. Commission",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK2\"></a><b>1. </b> In this Act,</p> <p class=\"firstdef-e\">“Commission” means the Ontario Racing Commission; (“Commission”)</p> <p class=\"definition-e\">“Director” means the Director of the Commission appointed under section 9; (“directeur”)</p> <p class=\"definition-e\">“licence” means a licence described in clause 7 (c) or (d); (“licence”)</p> <p class=\"definition-e\">“licensee” means the holder of a licence; (“titulaire de licence”)</p> <p class=\"definition-e\">“Minister” means the Minister responsible for the administration of this Act; (“ministre”)</p> <p class=\"definition-e\">“regulations” means the regulations made under this Act; (“règlements”)</p> <p class=\"definition-e\">“rules” means the rules for the conduct of horse racing made by the Commission under this Act. (“règles”)  2000, c. 20, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Commission</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Commission",
+            "section_x": "Commission",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "2.",
+            "section_x": "Commission continued",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Commission continued",
+            "content": " 2. (1) The body corporate known as the Ontario Racing Commission in English and Commission des courses de l’Ontario in French is continued.  2000, c. 20, s. 2 (1). Non-application of Acts (2) The Corporations Act and the Corporations Information Act do not apply to the Commission.  2000, c. 20, s. 2 (2). Crown agency (3) The Commission is for all purposes an agent of the Crown in right of Ontario and its powers may be exercised only as an agent of the Crown.  2000, c. 20, s. 2 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK4\"></a><b>2.</b> (1) The body corporate known as the Ontario Racing Commission in English and Commission des courses de l’Ontario in French is continued.  2000, c. 20, s. 2 (1).</p> <p class=\"headnote-e\">Non-application of Acts</p> <p class=\"subsection-e\">  (2) The <i>Corporations Act</i> and the <i>Corporations Information Act</i> do not apply to the Commission.  2000, c. 20, s. 2 (2).</p> <p class=\"headnote-e\">Crown agency</p> <p class=\"subsection-e\">  (3) The Commission is for all purposes an agent of the Crown in right of Ontario and its powers may be exercised only as an agent of the Crown.  2000, c. 20, s. 2 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "3.",
+            "section_x": "Members",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Members",
+            "content": " 3. (1) The Commission shall consist of not fewer than three and not more than seven members appointed by the Lieutenant Governor in Council.  2000, c. 20, s. 3 (1). (2) Repealed:  2006, c. 34, s. 41. Vacancies (3) The Lieutenant Governor in Council may fill any vacancy that occurs in the membership of the Commission.  2000, c. 20, s. 3 (3). Remuneration and expenses (4) The Commission shall pay its members the remuneration and expenses that the Lieutenant Governor in Council determines.  2000, c. 20, s. 3 (4).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK5\"></a><b>3.</b> (1) The Commission shall consist of not fewer than three and not more than seven members appointed by the Lieutenant Governor in Council.  2000, c. 20, s. 3 (1).</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Repealed</span>:  2006, c. 34, s. 41.</p> <p class=\"headnote-e\">Vacancies</p> <p class=\"subsection-e\">  (3) The Lieutenant Governor in Council may fill any vacancy that occurs in the membership of the Commission.  2000, c. 20, s. 3 (3).</p> <p class=\"headnote-e\">Remuneration and expenses</p> <p class=\"subsection-e\">  (4) The Commission shall pay its members the remuneration and expenses that the Lieutenant Governor in Council determines.  2000, c. 20, s. 3 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "4.",
+            "section_x": "Chair and vice-chair",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Chair and vice-chair",
+            "content": " 4. (1) The Lieutenant Governor in Council shall name one of the members of the Commission to be the chair and one of the members to be the vice-chair.  2000, c. 20, s. 4 (1). Absence of chair (2) If the chair is absent or otherwise unable to act or if the office is vacant, the vice-chair shall act in the place of the chair.  2000, c. 20, s. 4 (2). Quorum (3) A majority of the members of the Commission constitutes a quorum of a meeting of the Commission.  2000, c. 20, s. 4 (3). Casting vote (4) The chair has a casting vote in addition to an ordinary vote.  2000, c. 20, s. 4 (4).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK6\"></a><b>4.</b> (1) The Lieutenant Governor in Council shall name one of the members of the Commission to be the chair and one of the members to be the vice-chair.  2000, c. 20, s. 4 (1).</p> <p class=\"headnote-e\">Absence of chair</p> <p class=\"subsection-e\">  (2) If the chair is absent or otherwise unable to act or if the office is vacant, the vice-chair shall act in the place of the chair.  2000, c. 20, s. 4 (2).</p> <p class=\"headnote-e\">Quorum</p> <p class=\"subsection-e\">  (3) A majority of the members of the Commission constitutes a quorum of a meeting of the Commission.  2000, c. 20, s. 4 (3).</p> <p class=\"headnote-e\">Casting vote</p> <p class=\"subsection-e\">  (4) The chair has a casting vote in addition to an ordinary vote.  2000, c. 20, s. 4 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "5.",
+            "section_x": "Objects",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Objects",
+            "content": " 5. The objects of the Commission are to govern, direct, control and regulate horse racing in Ontario in any or all of its forms.  2000, c. 20, s. 5. Powers and Duties",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK7\"></a><b>5.</b> The objects of the Commission are to govern, direct, control and regulate horse racing in Ontario in any or all of its forms.  2000, c. 20, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Powers and Duties</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "Powers and Duties",
+            "section_x": "Powers and Duties",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "6.",
+            "section_x": "Duty",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Duty",
+            "content": " 6. The Commission shall exercise its powers and perform its duties in the public interest and in accordance with the principles of honesty and integrity, and social responsibility.  2000, c. 20, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK9\"></a><b>6.</b> The Commission shall exercise its powers and perform its duties in the public interest and in accordance with the principles of honesty and integrity, and social responsibility.  2000, c. 20, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "7.",
+            "section_x": "Powers",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Powers",
+            "content": " 7. The Commission has power, (a) to govern, direct, control and regulate horse racing in Ontario in any or all of its forms; (b) to govern, control and regulate the operation of race tracks in Ontario at which any form of horse racing is carried on; (c) to license persons to operate race tracks, at which horse racing in any of its forms is carried on, and to impose the terms on a licence that the Commission considers expedient; (d) to license owners, trainers, drivers, jockeys, apprentice jockeys, grooms, jockeys’ agents, jockeys’ valets, exercise riders, tradespersons and those other persons in or about race tracks, at which horse racing in any of its forms is carried on, and to impose those terms on a licence that the Commission considers expedient; (e) to prescribe the form of licences and the conditions under which they may be issued, continued or renewed; (f) to fix and collect fees or other charges for the issuance or renewal of licences and to provide for refunds of the fees and charges; (g) to require licensees to keep books of account in a manner satisfactory to the Commission, and to inspect the books at any time; (h) to require approval by the Commission for the appointment of race track officials and employees whose duties relate to the actual running of horse races and to compel the discharge for cause of any of those officials and employees; (i) to require registration with the Commission of colours, assumed names, partnerships and contracts relating to horse racing in any of its forms and all other matters and things relating to it that the Commission considers expedient; (j) to govern registration under clause (i), including to prescribe the form of registration and conditions under which the registration may be made, to fix and collect fees or other charges for the registration and to provide for refunds of the fees and charges; (k) to hold hearings relating to the carrying out of its objects or powers, to establish the procedure for the hearings and to require, by a summons signed by the chair or by another member of the Commission, a person to give evidence on oath and to produce the documents and things that the Commission considers requisite in a hearing; (l) to fix, impose and collect fines and other penalties for a contravention of this Act, the regulations, the rules or a requirement of the Commission made under this Act; (m) to make by-laws for the conduct of its business and for the control and direction of its work; (n) to do those things relating to horse racing in any or all of its forms, or to the operation of race tracks at which horse racing is carried on, that are authorized or directed by the Lieutenant Governor in Council.  2000, c. 20, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK10\"></a><b>7.</b> The Commission has power,</p> <p class=\"clause-e\">  (a) to govern, direct, control and regulate horse racing in Ontario in any or all of its forms;</p> <p class=\"clause-e\">  (b) to govern, control and regulate the operation of race tracks in Ontario at which any form of horse racing is carried on;</p> <p class=\"clause-e\">  (c) to license persons to operate race tracks, at which horse racing in any of its forms is carried on, and to impose the terms on a licence that the Commission considers expedient;</p> <p class=\"clause-e\">  (d) to license owners, trainers, drivers, jockeys, apprentice jockeys, grooms, jockeys’ agents, jockeys’ valets, exercise riders, tradespersons and those other persons in or about race tracks, at which horse racing in any of its forms is carried on, and to impose those terms on a licence that the Commission considers expedient;</p> <p class=\"clause-e\">  (e) to prescribe the form of licences and the conditions under which they may be issued, continued or renewed;</p> <p class=\"clause-e\">  (f) to fix and collect fees or other charges for the issuance or renewal of licences and to provide for refunds of the fees and charges;</p> <p class=\"clause-e\">  (g) to require licensees to keep books of account in a manner satisfactory to the Commission, and to inspect the books at any time;</p> <p class=\"clause-e\">  (h) to require approval by the Commission for the appointment of race track officials and employees whose duties relate to the actual running of horse races and to compel the discharge for cause of any of those officials and employees;</p> <p class=\"clause-e\">  (i) to require registration with the Commission of colours, assumed names, partnerships and contracts relating to horse racing in any of its forms and all other matters and things relating to it that the Commission considers expedient;</p> <p class=\"clause-e\">  (j) to govern registration under clause (i), including to prescribe the form of registration and conditions under which the registration may be made, to fix and collect fees or other charges for the registration and to provide for refunds of the fees and charges;</p> <p class=\"clause-e\">  (k) to hold hearings relating to the carrying out of its objects or powers, to establish the procedure for the hearings and to require, by a summons signed by the chair or by another member of the Commission, a person to give evidence on oath and to produce the documents and things that the Commission considers requisite in a hearing;</p> <p class=\"clause-e\">  (l) to fix, impose and collect fines and other penalties for a contravention of this Act, the regulations, the rules or a requirement of the Commission made under this Act;</p> <p class=\"clause-e\">  (m) to make by-laws for the conduct of its business and for the control and direction of its work;</p> <p class=\"clause-e\">  (n) to do those things relating to horse racing in any or all of its forms, or to the operation of race tracks at which horse racing is carried on, that are authorized or directed by the Lieutenant Governor in Council.  2000, c. 20, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "8.",
+            "section_x": "Employees and contractors",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Employees and contractors",
+            "content": " 8. (1) The Commission may, (a) with the approval of the Lieutenant Governor in Council, establish job classifications, personnel qualifications, salaries, benefits and other remuneration for the persons that members of the Commission consider necessary for the proper conduct of the affairs of the Commission; (b) employ or contract for the services of the persons mentioned in clause (a); and (c) pay the salaries, benefits and other remuneration and expenses of the persons mentioned in clause (a).  2000, c. 20, s. 8 (1). Pension plan (2) The Commission is an organization whose permanent full-time employees are required to be members of the Public Service Pension Plan.  2000, c. 20, s. 8 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK11\"></a><b>8.</b> (1) The Commission may,</p> <p class=\"clause-e\">  (a) with the approval of the Lieutenant Governor in Council, establish job classifications, personnel qualifications, salaries, benefits and other remuneration for the persons that members of the Commission consider necessary for the proper conduct of the affairs of the Commission;</p> <p class=\"clause-e\">  (b) employ or contract for the services of the persons mentioned in clause (a); and</p> <p class=\"clause-e\">  (c) pay the salaries, benefits and other remuneration and expenses of the persons mentioned in clause (a).  2000, c. 20, s. 8 (1).</p> <p class=\"headnote-e\">Pension plan</p> <p class=\"subsection-e\">  (2) The Commission is an organization whose permanent full-time employees are required to be members of the Public Service Pension Plan.  2000, c. 20, s. 8 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "9.",
+            "section_x": "Director of the Commission",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Director of the Commission",
+            "content": " 9. (1) The Commission shall appoint one of its employees to be the Director of the Commission.  2000, c. 20, s. 9 (1). Powers and duties (2) The Director shall, (a) on behalf of the Commission, exercise the powers of the Commission described in clauses 7 (c), (d) and (i); and (b) exercise the powers conferred on the Director and perform the duties assigned to the Director.  2000, c. 20, s. 9 (2). Deputy Directors (3) The Director may appoint one or more Deputy Directors and may delegate the Director’s powers or duties to them, subject to the conditions that may be set out in the delegation.  2000, c. 20, s. 9 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK12\"></a><b>9.</b> (1) The Commission shall appoint one of its employees to be the Director of the Commission.  2000, c. 20, s. 9 (1).</p> <p class=\"headnote-e\">Powers and duties</p> <p class=\"subsection-e\">  (2) The Director shall,</p> <p class=\"clause-e\">  (a) on behalf of the Commission, exercise the powers of the Commission described in clauses 7 (c), (d) and (i); and</p> <p class=\"clause-e\">  (b) exercise the powers conferred on the Director and perform the duties assigned to the Director.  2000, c. 20, s. 9 (2).</p> <p class=\"headnote-e\">Deputy Directors</p> <p class=\"subsection-e\">  (3) The Director may appoint one or more Deputy Directors and may delegate the Director’s powers or duties to them, subject to the conditions that may be set out in the delegation.  2000, c. 20, s. 9 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "10.",
+            "section_x": "Immunity",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Immunity",
+            "content": " 10. (1) No action or other proceeding for damages may be instituted against any member of the Commission or person appointed to the service of the Commission for any act done in good faith in the execution or intended execution of the person’s duty or for any alleged neglect or default in the execution in good faith of the person’s duty.  2000, c. 20, s. 10 (1). Crown liability (2) Despite subsections 5 (2) and (4) of the Proceedings Against the Crown Act, subsection (1) does not relieve the Crown of liability in respect of a tort committed by a person mentioned in subsection (1) to which it would otherwise be subject.  2000, c. 20, s. 10 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK13\"></a><b>10.</b> (1) No action or other proceeding for damages may be instituted against any member of the Commission or person appointed to the service of the Commission for any act done in good faith in the execution or intended execution of the person’s duty or for any alleged neglect or default in the execution in good faith of the person’s duty.  2000, c. 20, s. 10 (1).</p> <p class=\"headnote-e\">Crown liability</p> <p class=\"subsection-e\">  (2) Despite subsections 5 (2) and (4) of the <i>Proceedings Against the Crown Act</i>, subsection (1) does not relieve the Crown of liability in respect of a tort committed by a person mentioned in subsection (1) to which it would otherwise be subject.  2000, c. 20, s. 10 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "11.",
+            "section_x": "Rules for racing",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Rules for racing",
+            "content": " 11. (1) The Commission may make rules for the conduct of horse racing in any of its forms, and if they do not conflict with the regulations, may make rules specifying, (a) information to be included in an application for a licence or the renewal of a licence; (b) activities for the purpose of clause 19 (b); and (c) examinations and standards for the purpose of subsection 20 (2).  2000, c. 20, s. 11 (1). Adoption of other rules (2) In its rules, the Commission may adopt by reference, in whole or in part, with the changes that the Commission considers necessary, rules and procedures of racing associations or bodies, as amended from time to time, with respect to any matter except hearings held under Part II.  2000, c. 20, s. 11 (2). Delegation to persons (3) In its rules, the Commission may delegate to stewards, judges, veterinarians, race track officials, racing association officials, licensing agents or officers of the Commission any of the following powers that the Commission considers expedient: 1. The power to collect fees or other charges for the issuance or renewal of licences and to provide for refunds of the fees and charges. 2. The power to enforce the carrying out of this Act, the regulations, the rules and all requirements of the Commission made under this Act. 3. The power to fix, impose and collect fines and other penalties for a contravention of a requirement of the Commission made under this Act. 4. The power to hold and establish procedure for hearings relating to the carrying out of its objects or powers, except for hearings held under Part II.  2000, c. 20, s. 11 (3). Delegation to associations (4) In its rules, the Commission may delegate to racing associations or bodies the power to, (a) enforce the carrying out of the regulations and the rules and procedures that it has adopted under subsection (2); (b) hold and establish procedure for hearings with respect to the contravention of any of the rules or procedures that it has adopted under subsection (2); and (c) set, impose and collect fines and other penalties for the contravention of any of the rules or procedures that it has adopted under subsection (2).  2000, c. 20, s. 11 (4). Discretion of association (5) The racing association or body shall have the right to exercise discretion or judgment in relation to the powers delegated.  2000, c. 20, s. 11 (5). Power to summon (6) Every person, association or body to whom the Commission has delegated a power to hold hearings under subsection (3) or (4), may by summons require a person to give evidence on oath and to produce the documents and things that may be required for purposes of a hearing.  2000, c. 20, s. 11 (6). Hearing for aggrieved person (7) Subject to subsection (9), a person who considers oneself aggrieved by a decision of a person to whom the Commission has delegated a power under subsection (3) or by a decision resulting from a hearing held pursuant to a delegation under subsection (4), is entitled to a hearing by the Commission, at which the Commission may exercise its powers and duties under section 7 as if it had not delegated them.  2000, c. 20, s. 11 (7). Frivolous request (8) If, after holding the hearing, the Commission is of the opinion that the request for the hearing was frivolous, the Commission may order the person requesting the hearing to pay to the Commission a penalty of not more than the amount prescribed by the regulations, in addition to any other penalty to which the person may be liable.  2000, c. 20, s. 11 (8). Appeal instead of hearing (9) If the rules of the Commission provide for an appeal to an association or body, a person who considers oneself aggrieved shall appeal in accordance with the rules before applying to the Commission for a hearing under subsection (7).  2000, c. 20, s. 11 (9). Review of association’s decision (10) The Commission may, on its own motion, (a) review a decision made by a racing association or body to whom the Commission delegated a power under subsection (4); and (b) after affording the parties an opportunity to be heard, confirm the decision reviewed or substitute its own decision.  2000, c. 20, s. 11 (10). Administrative nature (11) An order or rule made by the Commission under this Act shall be deemed to be of an administrative and not of a legislative nature.  2000, c. 20, s. 11 (11).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK14\"></a><b>11.</b> (1) The Commission may make rules for the conduct of horse racing in any of its forms, and if they do not conflict with the regulations, may make rules specifying,</p> <p class=\"clause-e\">  (a) information to be included in an application for a licence or the renewal of a licence;</p> <p class=\"clause-e\">  (b) activities for the purpose of clause 19 (b); and</p> <p class=\"clause-e\">  (c) examinations and standards for the purpose of subsection 20 (2).  2000, c. 20, s. 11 (1).</p> <p class=\"headnote-e\">Adoption of other rules</p> <p class=\"subsection-e\">  (2) In its rules, the Commission may adopt by reference, in whole or in part, with the changes that the Commission considers necessary, rules and procedures of racing associations or bodies, as amended from time to time, with respect to any matter except hearings held under Part II.  2000, c. 20, s. 11 (2).</p> <p class=\"headnote-e\">Delegation to persons</p> <p class=\"subsection-e\">  (3) In its rules, the Commission may delegate to stewards, judges, veterinarians, race track officials, racing association officials, licensing agents or officers of the Commission any of the following powers that the Commission considers expedient:</p> <p class=\"paragraph-e\">  1. The power to collect fees or other charges for the issuance or renewal of licences and to provide for refunds of the fees and charges.</p> <p class=\"paragraph-e\">  2. The power to enforce the carrying out of this Act, the regulations, the rules and all requirements of the Commission made under this Act.</p> <p class=\"paragraph-e\">  3. The power to fix, impose and collect fines and other penalties for a contravention of a requirement of the Commission made under this Act.</p> <p class=\"paragraph-e\">  4. The power to hold and establish procedure for hearings relating to the carrying out of its objects or powers, except for hearings held under Part II.  2000, c. 20, s. 11 (3).</p> <p class=\"headnote-e\">Delegation to associations</p> <p class=\"subsection-e\">  (4) In its rules, the Commission may delegate to racing associations or bodies the power to,</p> <p class=\"clause-e\">  (a) enforce the carrying out of the regulations and the rules and procedures that it has adopted under subsection (2);</p> <p class=\"clause-e\">  (b) hold and establish procedure for hearings with respect to the contravention of any of the rules or procedures that it has adopted under subsection (2); and</p> <p class=\"clause-e\">  (c) set, impose and collect fines and other penalties for the contravention of any of the rules or procedures that it has adopted under subsection (2).  2000, c. 20, s. 11 (4).</p> <p class=\"headnote-e\">Discretion of association</p> <p class=\"subsection-e\">  (5) The racing association or body shall have the right to exercise discretion or judgment in relation to the powers delegated.  2000, c. 20, s. 11 (5).</p> <p class=\"headnote-e\">Power to summon</p> <p class=\"subsection-e\">  (6) Every person, association or body to whom the Commission has delegated a power to hold hearings under subsection (3) or (4), may by summons require a person to give evidence on oath and to produce the documents and things that may be required for purposes of a hearing.  2000, c. 20, s. 11 (6).</p> <p class=\"headnote-e\">Hearing for aggrieved person</p> <p class=\"subsection-e\">  (7) Subject to subsection (9), a person who considers oneself aggrieved by a decision of a person to whom the Commission has delegated a power under subsection (3) or by a decision resulting from a hearing held pursuant to a delegation under subsection (4), is entitled to a hearing by the Commission, at which the Commission may exercise its powers and duties under section 7 as if it had not delegated them.  2000, c. 20, s. 11 (7).</p> <p class=\"headnote-e\">Frivolous request</p> <p class=\"subsection-e\">  (8) If, after holding the hearing, the Commission is of the opinion that the request for the hearing was frivolous, the Commission may order the person requesting the hearing to pay to the Commission a penalty of not more than the amount prescribed by the regulations, in addition to any other penalty to which the person may be liable.  2000, c. 20, s. 11 (8).</p> <p class=\"headnote-e\">Appeal instead of hearing</p> <p class=\"subsection-e\">  (9) If the rules of the Commission provide for an appeal to an association or body, a person who considers oneself aggrieved shall appeal in accordance with the rules before applying to the Commission for a hearing under subsection (7).  2000, c. 20, s. 11 (9).</p> <p class=\"headnote-e\">Review of association’s decision</p> <p class=\"subsection-e\">  (10) The Commission may, on its own motion,</p> <p class=\"clause-e\">  (a) review a decision made by a racing association or body to whom the Commission delegated a power under subsection (4); and</p> <p class=\"clause-e\">  (b) after affording the parties an opportunity to be heard, confirm the decision reviewed or substitute its own decision.  2000, c. 20, s. 11 (10).</p> <p class=\"headnote-e\">Administrative nature</p> <p class=\"subsection-e\">  (11) An order or rule made by the Commission under this Act shall be deemed to be of an administrative and not of a legislative nature.  2000, c. 20, s. 11 (11).</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "12.",
+            "section_x": "Hearings",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Hearings",
+            "content": " 12. (1) If the chair of the Commission so designates, a hearing that the Commission holds under this Act shall be held before a panel consisting of one or more members of the Commission as the chair designates.  2000, c. 20, s. 12 (1). Quorum (2) One member of the panel constitutes a quorum for the purposes of the hearing.  2000, c. 20, s. 12 (2). Jurisdiction (3) The panel has jurisdiction to determine all questions of fact or law that arise in hearings before it.  2000, c. 20, s. 12 (3). Oaths (4) Every member of the panel has power to administer oaths and affirmations for the purposes of a hearing.  2000, c. 20, s. 12 (4). Order (5) An order of the panel constitutes an order of the Commission.  2000, c. 20, s. 12 (5). Stay (6) An order of the panel takes effect immediately unless the order provides otherwise.  2000, c. 20, s. 12 (6). Money and Reports",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK15\"></a><b>12.</b> (1) If the chair of the Commission so designates, a hearing that the Commission holds under this Act shall be held before a panel consisting of one or more members of the Commission as the chair designates.  2000, c. 20, s. 12 (1).</p> <p class=\"headnote-e\">Quorum</p> <p class=\"subsection-e\">  (2) One member of the panel constitutes a quorum for the purposes of the hearing.  2000, c. 20, s. 12 (2).</p> <p class=\"headnote-e\">Jurisdiction</p> <p class=\"subsection-e\">  (3) The panel has jurisdiction to determine all questions of fact or law that arise in hearings before it.  2000, c. 20, s. 12 (3).</p> <p class=\"headnote-e\">Oaths</p> <p class=\"subsection-e\">  (4) Every member of the panel has power to administer oaths and affirmations for the purposes of a hearing.  2000, c. 20, s. 12 (4).</p> <p class=\"headnote-e\">Order</p> <p class=\"subsection-e\">  (5) An order of the panel constitutes an order of the Commission.  2000, c. 20, s. 12 (5).</p> <p class=\"headnote-e\">Stay</p> <p class=\"subsection-e\">  (6) An order of the panel takes effect immediately unless the order provides otherwise.  2000, c. 20, s. 12 (6).</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Money and Reports</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "Money and Reports",
+            "section_x": "Money and Reports",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "13.",
+            "section_x": "Revenue",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Revenue",
+            "content": " 13. (1) Despite the Financial Administration Act, the money payable to the Commission under this or any other Act and the revenue that the Commission receives from exercising its powers, performing its duties or holding investments do not form part of the Consolidated Revenue Fund and, subject to subsection (2), the Commission shall apply that money and revenue to exercising its powers and performing its duties.  2000, c. 20, s. 13 (1). Surplus (2) When ordered to do so by the Minister, the Commission shall pay into the Consolidated Revenue Fund the part of its surplus funds that the Minister determines.  2000, c. 20, s. 13 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK17\"></a><b>13.</b> (1) Despite the <i>Financial Administration Act</i>, the money payable to the Commission under this or any other Act and the revenue that the Commission receives from exercising its powers, performing its duties or holding investments do not form part of the Consolidated Revenue Fund and, subject to subsection (2), the Commission shall apply that money and revenue to exercising its powers and performing its duties.  2000, c. 20, s. 13 (1).</p> <p class=\"headnote-e\">Surplus</p> <p class=\"subsection-e\">  (2) When ordered to do so by the Minister, the Commission shall pay into the Consolidated Revenue Fund the part of its surplus funds that the Minister determines.  2000, c. 20, s. 13 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "14.",
+            "section_x": "Audit",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Audit",
+            "content": " 14. The accounts of the Commission shall be audited by the Auditor General or by another auditor whom the Lieutenant Governor in Council may appoint.  2000, c. 20, s. 14; 2004, c. 17, s. 32.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK18\"></a><b>14.</b> The accounts of the Commission shall be audited by the Auditor General or by another auditor whom the Lieutenant Governor in Council may appoint.  2000, c. 20, s. 14; 2004, c. 17, s. 32.</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "15.",
+            "section_x": "Reports",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS AND ADMINISTRATION",
+            "section_y": "Reports",
+            "content": " 15. (1) The Commission shall make a report annually to the Minister, containing the information that the Minister may require.  2000, c. 20, s. 15 (1). Other reports (2) The Commission shall submit to the Minister all other reports on the conduct of its business, other than the annual report, that the Minister may require.  2000, c. 20, s. 15 (2). PART II   LICENCES",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK19\"></a><b>15.</b> (1) The Commission shall make a report annually to the Minister, containing the information that the Minister may require.  2000, c. 20, s. 15 (1).</p> <p class=\"headnote-e\">Other reports</p> <p class=\"subsection-e\">  (2) The Commission shall submit to the Minister all other reports on the conduct of its business, other than the annual report, that the Minister may require.  2000, c. 20, s. 15 (2).</p> <p class=\"partnum-e\"><a name=\"BK20\"></a>PART II <br/>  LICENCES</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "PART II  ",
+            "section_x": "PART II LICENCES",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "16.",
+            "section_x": "Prohibitions",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Prohibitions",
+            "content": " 16. (1) No person shall operate a race track at which horse racing in any of its forms is carried on unless the person holds a licence for that purpose.  2000, c. 20, s. 16 (1). Same, persons about a race track (2) No person shall act as an owner, trainer, driver, jockey, apprentice jockey, groom, jockey’s agent, jockey’s valet, exercise rider, tradesperson or other person of a type that the Commission considers expedient in or about a race track at which horse racing in any of its forms is carried on unless the person holds a licence for that purpose.  2000, c. 20, s. 16 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK21\"></a><b>16.</b> (1) No person shall operate a race track at which horse racing in any of its forms is carried on unless the person holds a licence for that purpose.  2000, c. 20, s. 16 (1).</p> <p class=\"headnote-e\">Same, persons about a race track</p> <p class=\"subsection-e\">  (2) No person shall act as an owner, trainer, driver, jockey, apprentice jockey, groom, jockey’s agent, jockey’s valet, exercise rider, tradesperson or other person of a type that the Commission considers expedient in or about a race track at which horse racing in any of its forms is carried on unless the person holds a licence for that purpose.  2000, c. 20, s. 16 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "17.",
+            "section_x": "Application for licence",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Application for licence",
+            "content": " 17. An application for a licence or the renewal of a licence must be made to the Director and must be in the form and contain the information, including information relating to personal identification, that the Director determines or the regulations or the rules prescribe.  2000, c. 20, s. 17.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK22\"></a><b>17.</b> An application for a licence or the renewal of a licence must be made to the Director and must be in the form and contain the information, including information relating to personal identification, that the Director determines or the regulations or the rules prescribe.  2000, c. 20, s. 17.</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "18.",
+            "section_x": "Inquiries",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Inquiries",
+            "content": " 18. (1) The Director may make those inquiries and conduct those investigations into the character, financial history and competence of an applicant for a licence or the renewal of a licence that are necessary to determine whether the applicant meets the requirements of this Act and the regulations.  2000, c. 20, s. 18 (1). Corporations, partnerships (2) If the applicant is a corporation or partnership, the Director may make the inquiries into or conduct the investigations of the officers, directors or partners of the applicant.  2000, c. 20, s. 18 (2). Costs (3) The applicant shall pay the reasonable costs of the inquiries or investigations or provide security to the Director in a form acceptable to the Director for the payment.  2000, c. 20, s. 18 (3). Collection of information (4) The Director may require information or material from any person who is the subject of the inquiries or investigations and may request information or material from any person who the Director has reason to believe can provide information or material relevant to the inquiries or investigations.  2000, c. 20, s. 18 (4). Verification of information (5) The Director may require that any information provided under subsection (4) be verified by statutory declaration.  2000, c. 20, s. 18 (5). Disclosure (6) Despite section 17 of the Freedom of Information and Protection of Privacy Act and section 10 of the Municipal Freedom of Information and Protection of Privacy Act, the head of an institution within the meaning of those Acts shall disclose to the Director the information or material that the Director requires under subsection (4).  2000, c. 20, s. 18 (6).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK23\"></a><b>18.</b> (1) The Director may make those inquiries and conduct those investigations into the character, financial history and competence of an applicant for a licence or the renewal of a licence that are necessary to determine whether the applicant meets the requirements of this Act and the regulations.  2000, c. 20, s. 18 (1).</p> <p class=\"headnote-e\">Corporations, partnerships</p> <p class=\"subsection-e\">  (2) If the applicant is a corporation or partnership, the Director may make the inquiries into or conduct the investigations of the officers, directors or partners of the applicant.  2000, c. 20, s. 18 (2).</p> <p class=\"headnote-e\">Costs</p> <p class=\"subsection-e\">  (3) The applicant shall pay the reasonable costs of the inquiries or investigations or provide security to the Director in a form acceptable to the Director for the payment.  2000, c. 20, s. 18 (3).</p> <p class=\"headnote-e\">Collection of information</p> <p class=\"subsection-e\">  (4) The Director may require information or material from any person who is the subject of the inquiries or investigations and may request information or material from any person who the Director has reason to believe can provide information or material relevant to the inquiries or investigations.  2000, c. 20, s. 18 (4).</p> <p class=\"headnote-e\">Verification of information</p> <p class=\"subsection-e\">  (5) The Director may require that any information provided under subsection (4) be verified by statutory declaration.  2000, c. 20, s. 18 (5).</p> <p class=\"headnote-e\">Disclosure</p> <p class=\"subsection-e\">  (6) Despite section 17 of the <i>Freedom of Information and Protection of Privacy Act</i> and section 10 of the <i>Municipal Freedom of Information and Protection of Privacy Act</i>, the head of an institution within the meaning of those Acts shall disclose to the Director the information or material that the Director requires under subsection (4).  2000, c. 20, s. 18 (6).</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "19.",
+            "section_x": "Issuance of licence or renewal",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Issuance of licence or renewal",
+            "content": " 19. The Director shall refuse to issue a licence to an applicant or to renew the licence of an applicant if, (a) there are reasonable grounds to believe that, while the applicant carries out activities for which the licence is required, the applicant will not act in accordance with law, or with integrity, honesty, or in the public interest, having regard to the past conduct of the applicant; or (b) the applicant is carrying on activities that are, or will be, if the applicant is licensed, in contravention of this Act, the regulations, the rules or the terms of the licence.  2000, c. 20, s. 19.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK24\"></a><b>19.</b> The Director shall refuse to issue a licence to an applicant or to renew the licence of an applicant if,</p> <p class=\"clause-e\">  (a) there are reasonable grounds to believe that, while the applicant carries out activities for which the licence is required, the applicant will not act in accordance with law, or with integrity, honesty, or in the public interest, having regard to the past conduct of the applicant; or</p> <p class=\"clause-e\">  (b) the applicant is carrying on activities that are, or will be, if the applicant is licensed, in contravention of this Act, the regulations, the rules or the terms of the licence.  2000, c. 20, s. 19.</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "20.",
+            "section_x": "Terms of licence",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Terms of licence",
+            "content": " 20. (1) A licence is subject to those terms to give effect to the purposes of this Act that the Director proposes and the applicant consents to or that the regulations prescribe.  2000, c. 20, s. 20 (1). Examinations (2) The Director may require, as a term of a licence, that an applicant for a licence or the renewal of a licence pass the examinations or attain the standards that the regulations or the rules prescribe.  2000, c. 20, s. 20 (2). No transfers (3) A licence is not transferable.  2000, c. 20, s. 20 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK25\"></a><b>20.</b> (1) A licence is subject to those terms to give effect to the purposes of this Act that the Director proposes and the applicant consents to or that the regulations prescribe.  2000, c. 20, s. 20 (1).</p> <p class=\"headnote-e\">Examinations</p> <p class=\"subsection-e\">  (2) The Director may require, as a term of a licence, that an applicant for a licence or the renewal of a licence pass the examinations or attain the standards that the regulations or the rules prescribe.  2000, c. 20, s. 20 (2).</p> <p class=\"headnote-e\">No transfers</p> <p class=\"subsection-e\">  (3) A licence is not transferable.  2000, c. 20, s. 20 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "21.",
+            "section_x": "Suspension or revocation of licence",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Suspension or revocation of licence",
+            "content": " 21. The Director may propose to suspend or to revoke a licence for any reason that would disentitle the applicant to the issuance or the renewal of the licence.  2000, c. 20, s. 21.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK26\"></a><b>21.</b> The Director may propose to suspend or to revoke a licence for any reason that would disentitle the applicant to the issuance or the renewal of the licence.  2000, c. 20, s. 21.</p>"
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "22.",
+            "section_x": "Director’s proposed order",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Director’s proposed order",
+            "content": " 22. (1) If the Director refuses to issue or renew a licence or proposes to suspend or revoke a licence, the Director shall serve notice of a proposed order, together with written reasons, on the applicant.  2000, c. 20, s. 22 (1). Right to hearing (2) The notice of the proposed order shall inform the applicant that the person is entitled to a hearing before a panel of the Commission.  2000, c. 20, s. 22 (2). Request for hearing (3) To request a hearing, the person shall serve a written request on the Director and the Commission within 15 days after the Director serves the notice of the proposed order.  2000, c. 20, s. 22 (3). If no hearing (4) The Director may make the proposed order, if the person does not request a hearing within the allowed time.  2000, c. 20, s. 22 (4). Hearing (5) If the person requests a hearing, the panel shall schedule and hold the hearing.  2000, c. 20, s. 22 (5). Order of panel (6) After holding a hearing, the panel may by order, (a) confirm or set aside the proposed order; (b) direct the Director to take the action that the panel considers the Director ought to take to give effect to the purposes of this Act.  2000, c. 20, s. 22 (6). Discretion of panel (7) In making an order, the panel may substitute its opinion for that of the Director.  2000, c. 20, s. 22 (7). Terms of order (8) The panel may attach the terms to its order or to the licence that it considers appropriate.  2000, c. 20, s. 22 (8).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK27\"></a><b>22.</b> (1) If the Director refuses to issue or renew a licence or proposes to suspend or revoke a licence, the Director shall serve notice of a proposed order, together with written reasons, on the applicant.  2000, c. 20, s. 22 (1).</p> <p class=\"headnote-e\">Right to hearing</p> <p class=\"subsection-e\">  (2) The notice of the proposed order shall inform the applicant that the person is entitled to a hearing before a panel of the Commission.  2000, c. 20, s. 22 (2).</p> <p class=\"headnote-e\">Request for hearing</p> <p class=\"subsection-e\">  (3) To request a hearing, the person shall serve a written request on the Director and the Commission within 15 days after the Director serves the notice of the proposed order.  2000, c. 20, s. 22 (3).</p> <p class=\"headnote-e\">If no hearing</p> <p class=\"subsection-e\">  (4) The Director may make the proposed order, if the person does not request a hearing within the allowed time.  2000, c. 20, s. 22 (4).</p> <p class=\"headnote-e\">Hearing</p> <p class=\"subsection-e\">  (5) If the person requests a hearing, the panel shall schedule and hold the hearing.  2000, c. 20, s. 22 (5).</p> <p class=\"headnote-e\">Order of panel</p> <p class=\"subsection-e\">  (6) After holding a hearing, the panel may by order,</p> <p class=\"clause-e\">  (a) confirm or set aside the proposed order;</p> <p class=\"clause-e\">  (b) direct the Director to take the action that the panel considers the Director ought to take to give effect to the purposes of this Act.  2000, c. 20, s. 22 (6).</p> <p class=\"headnote-e\">Discretion of panel</p> <p class=\"subsection-e\">  (7) In making an order, the panel may substitute its opinion for that of the Director.  2000, c. 20, s. 22 (7).</p> <p class=\"headnote-e\">Terms of order</p> <p class=\"subsection-e\">  (8) The panel may attach the terms to its order or to the licence that it considers appropriate.  2000, c. 20, s. 22 (8).</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "23.",
+            "section_x": "Immediate suspension",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Immediate suspension",
+            "content": " 23. (1) The Director may by order suspend a licence without serving notice of a proposed order under section 22 if the Director considers it to be necessary in the public interest.  2000, c. 20, s. 23 (1). Effect of order (2) The Director shall serve a copy of the order made together with written reasons for it on the licensee and it takes effect immediately on being served.  2000, c. 20, s. 23 (2). Right to hearing (3) Subsections 22 (2), (3) and (5) to (8) apply to the order in the same way as to a proposed order under that section.  2000, c. 20, s. 23 (3). Expiry of order (4) If the licensee requests a hearing, the order expires on the day the order of the panel takes effect.  2000, c. 20, s. 23 (4). Combined hearing (5) If the Director makes an order under this section with respect to a licensee before a hearing is held under section 22 with respect to a notice of a proposed order that the Director has served on the licensee, the panel may hold only one hearing to deal with both the order made and the proposed order.  2000, c. 20, s. 23 (5).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK28\"></a><b>23.</b> (1) The Director may by order suspend a licence without serving notice of a proposed order under section 22 if the Director considers it to be necessary in the public interest.  2000, c. 20, s. 23 (1).</p> <p class=\"headnote-e\">Effect of order</p> <p class=\"subsection-e\">  (2) The Director shall serve a copy of the order made together with written reasons for it on the licensee and it takes effect immediately on being served.  2000, c. 20, s. 23 (2).</p> <p class=\"headnote-e\">Right to hearing</p> <p class=\"subsection-e\">  (3) Subsections 22 (2), (3) and (5) to (8) apply to the order in the same way as to a proposed order under that section.  2000, c. 20, s. 23 (3).</p> <p class=\"headnote-e\">Expiry of order</p> <p class=\"subsection-e\">  (4) If the licensee requests a hearing, the order expires on the day the order of the panel takes effect.  2000, c. 20, s. 23 (4).</p> <p class=\"headnote-e\">Combined hearing</p> <p class=\"subsection-e\">  (5) If the Director makes an order under this section with respect to a licensee before a hearing is held under section 22 with respect to a notice of a proposed order that the Director has served on the licensee, the panel may hold only one hearing to deal with both the order made and the proposed order.  2000, c. 20, s. 23 (5).</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "24.",
+            "section_x": "Continuation pending renewal",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Continuation pending renewal",
+            "content": " 24. If within the time prescribed by the regulations, or if no time is prescribed, before the expiry of the licensee’s licence, a licensee applies in accordance with the regulations for renewal of the licence and pays the required fee for the application, the licence shall be deemed to continue, (a) if the Director grants the renewal, until the renewal is granted; (b) if the Director refuses to grant the renewal and the licensee does not request a hearing under section 22, until the time for requesting a hearing has expired; or (c) if the Director refuses to grant the renewal and the licensee requests a hearing under section 22, until the panel has made its order.  2000, c. 20, s. 24.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK29\"></a><b>24.</b> If within the time prescribed by the regulations, or if no time is prescribed, before the expiry of the licensee’s licence, a licensee applies in accordance with the regulations for renewal of the licence and pays the required fee for the application, the licence shall be deemed to continue,</p> <p class=\"clause-e\">  (a) if the Director grants the renewal, until the renewal is granted;</p> <p class=\"clause-e\">  (b) if the Director refuses to grant the renewal and the licensee does not request a hearing under section 22, until the time for requesting a hearing has expired; or</p> <p class=\"clause-e\">  (c) if the Director refuses to grant the renewal and the licensee requests a hearing under section 22, until the panel has made its order.  2000, c. 20, s. 24.</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "25.",
+            "section_x": "Cancellation of licence on request",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Cancellation of licence on request",
+            "content": " 25. The Director may cancel a licence upon the request in writing of the licensee and section 22 does not apply.  2000, c. 20, s. 25.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK30\"></a><b>25.</b> The Director may cancel a licence upon the request in writing of the licensee and section 22 does not apply.  2000, c. 20, s. 25.</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "26.",
+            "section_x": "Further applications",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Further applications",
+            "content": " 26. (1) No person who is refused a licence or renewal of a licence or whose licence is revoked may apply to the Director for a licence until at least two years have passed since the refusal or revocation.  2000, c. 20, s. 26 (1). Suspended licences (2) No person whose licence is suspended may apply to the Director for a licence during the suspension.  2000, c. 20, s. 26 (2). Rejection of further application (3) Despite section 22, the Director may, without giving written reasons, reject an application made after the time period specified in subsection (1) if, in the Director’s opinion, the application discloses no substantial new evidence or no material change in circumstances since the refusal, revocation or suspension took effect.  2000, c. 20, s. 26 (3). Not statutory power of decision (4) The Statutory Powers Procedure Act does not apply to the exercise of the Director’s power under subsection (3).  2000, c. 20, s. 26 (4).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK31\"></a><b>26.</b> (1) No person who is refused a licence or renewal of a licence or whose licence is revoked may apply to the Director for a licence until at least two years have passed since the refusal or revocation.  2000, c. 20, s. 26 (1).</p> <p class=\"headnote-e\">Suspended licences</p> <p class=\"subsection-e\">  (2) No person whose licence is suspended may apply to the Director for a licence during the suspension.  2000, c. 20, s. 26 (2).</p> <p class=\"headnote-e\">Rejection of further application</p> <p class=\"subsection-e\">  (3) Despite section 22, the Director may, without giving written reasons, reject an application made after the time period specified in subsection (1) if, in the Director’s opinion, the application discloses no substantial new evidence or no material change in circumstances since the refusal, revocation or suspension took effect.  2000, c. 20, s. 26 (3).</p> <p class=\"headnote-e\">Not statutory power of decision</p> <p class=\"subsection-e\">  (4) The <i>Statutory Powers Procedure Act</i> does not apply to the exercise of the Director’s power under subsection (3).  2000, c. 20, s. 26 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "27.",
+            "section_x": "Change in address for service",
+            "part_id": "PART II  ",
+            "part_type": "PART II LICENCES",
+            "section_y": "Change in address for service",
+            "content": " 27. Every licensee shall, not later than five days after the change, serve the Director with a written notice of any change in address for service.  2000, c. 20, s. 27. PART III   GENERAL",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK32\"></a><b>27.</b> Every licensee shall, not later than five days after the change, serve the Director with a written notice of any change in address for service.  2000, c. 20, s. 27.</p> <p class=\"partnum-e\"><a name=\"BK33\"></a>PART III <br/>  GENERAL</p>"
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "PART III  ",
+            "section_x": "PART III GENERAL",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "28.",
+            "section_x": "Service",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL",
+            "section_y": "Service",
+            "content": " 28.  (1) A notice, order or other document that is required or permitted to be given or delivered to or served on a person under this Act is sufficiently given, delivered or served if, (a) it is delivered personally; (b) it is sent by regular mail addressed to the person at the person’s last known address; (c) a copy of it is sent by fax transmission to the person’s last known fax number; or (d) it is sent by any other method specified by the Commission.  2000, c. 20, s. 28 (1). Deemed receipt, mail (2) A notice, order or other document sent by regular mail in accordance with clause (1) (b) shall be deemed to be given, served or delivered on the fifth day after the day of mailing, unless the person to whom it is sent establishes that it was not received on or before that date because of absence, accident, illness or other cause beyond the person’s control.  2000, c. 20, s. 28 (2). Deemed receipt, fax (3) A notice, order or other document, a copy of which is sent by fax transmission in accordance with clause (1) (c), shall be deemed to be given, served or delivered on the date of transmission unless the person to whom it is sent establishes that it was not received on that date because of absence, accident, illness or other cause beyond the person’s control.  2000, c. 20, s. 28 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK34\"></a><b>28. </b> (1) A notice, order or other document that is required or permitted to be given or delivered to or served on a person under this Act is sufficiently given, delivered or served if,</p> <p class=\"clause-e\">  (a) it is delivered personally;</p> <p class=\"clause-e\">  (b) it is sent by regular mail addressed to the person at the person’s last known address;</p> <p class=\"clause-e\">  (c) a copy of it is sent by fax transmission to the person’s last known fax number; or</p> <p class=\"clause-e\">  (d) it is sent by any other method specified by the Commission.  2000, c. 20, s. 28 (1).</p> <p class=\"headnote-e\">Deemed receipt, mail</p> <p class=\"subsection-e\">  (2) A notice, order or other document sent by regular mail in accordance with clause (1) (b) shall be deemed to be given, served or delivered on the fifth day after the day of mailing, unless the person to whom it is sent establishes that it was not received on or before that date because of absence, accident, illness or other cause beyond the person’s control.  2000, c. 20, s. 28 (2).</p> <p class=\"headnote-e\">Deemed receipt, fax</p> <p class=\"subsection-e\">  (3) A notice, order or other document, a copy of which is sent by fax transmission in accordance with clause (1) (c), shall be deemed to be given, served or delivered on the date of transmission unless the person to whom it is sent establishes that it was not received on that date because of absence, accident, illness or other cause beyond the person’s control.  2000, c. 20, s. 28 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "29.",
+            "section_x": "Director’s certificate",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL",
+            "section_y": "Director’s certificate",
+            "content": " 29.  (1) The Director may issue a signed certificate that contains information concerning, (a) the issuance or non-issuance of a licence; (b) the registration or non-registration of any matter or thing under this Act; (c) the filing or non-filing of any document or material required or permitted to be filed with the Commission; (d) the time when the facts upon which a proceeding is based first came to the knowledge of the Director; or (e) any other matter pertaining to licences, registrations, non-registrations, filings or non-filings under this Act.  2000, c. 20, s. 29 (1). Admissibility (2) The certificate is, without proof of the office or signature of the Director, receivable in evidence in any proceeding as proof, in the absence of evidence to the contrary, of the facts stated in the certificate.  2000, c. 20, s. 29 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK35\"></a><b>29. </b> (1) The Director may issue a signed certificate that contains information concerning,</p> <p class=\"clause-e\">  (a) the issuance or non-issuance of a licence;</p> <p class=\"clause-e\">  (b) the registration or non-registration of any matter or thing under this Act;</p> <p class=\"clause-e\">  (c) the filing or non-filing of any document or material required or permitted to be filed with the Commission;</p> <p class=\"clause-e\">  (d) the time when the facts upon which a proceeding is based first came to the knowledge of the Director; or</p> <p class=\"clause-e\">  (e) any other matter pertaining to licences, registrations, non-registrations, filings or non-filings under this Act.  2000, c. 20, s. 29 (1).</p> <p class=\"headnote-e\">Admissibility</p> <p class=\"subsection-e\">  (2) The certificate is, without proof of the office or signature of the Director, receivable in evidence in any proceeding as proof, in the absence of evidence to the contrary, of the facts stated in the certificate.  2000, c. 20, s. 29 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "30.",
+            "section_x": "Regulations",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL",
+            "section_y": "Regulations",
+            "content": " 30. The Lieutenant Governor in Council may make regulations, (a) prescribing anything that is referred to as being prescribed by the regulations; (b) exempting a licensee or a class of licensee from any or all of the provisions of this Act or the regulations; (c) classifying licensees for the purpose of any requirement under this Act; (d) governing applications for the issuance or renewal of licences; (e) prescribing terms of licences; (f) respecting any matter or thing that is considered necessary for the carrying out of this Act.  2000, c. 20, s. 30.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK36\"></a><b>30.</b> The Lieutenant Governor in Council may make regulations,</p> <p class=\"clause-e\">  (a) prescribing anything that is referred to as being prescribed by the regulations;</p> <p class=\"clause-e\">  (b) exempting a licensee or a class of licensee from any or all of the provisions of this Act or the regulations;</p> <p class=\"clause-e\">  (c) classifying licensees for the purpose of any requirement under this Act;</p> <p class=\"clause-e\">  (d) governing applications for the issuance or renewal of licences;</p> <p class=\"clause-e\">  (e) prescribing terms of licences;</p> <p class=\"clause-e\">  (f) respecting any matter or thing that is considered necessary for the carrying out of this Act.  2000, c. 20, s. 30.</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "31.",
+            "section_x": "Transitional",
+            "part_id": "PART III  ",
+            "part_type": "PART III GENERAL",
+            "section_y": "Transitional",
+            "content": " 31. (1) Licences and registrations issued under the Racing Commission Act, being chapter R.2 of the Revised Statutes of Ontario, 1990, are continued as licences and registrations respectively issued under this Act.  2000, c. 20, s. 31 (1). Acts of Commission (2) Rules, orders, delegations and by-laws made by the Commission under the Racing Commission Act are continued as rules, orders, delegations and by-laws respectively made by the Commission under this Act.  2000, c. 20, s. 31 (2). 32. Omitted (amends or repeals other Acts).  2000, c. 20, s. 32. 33. Omitted (provides for coming into force of provisions of this Act).  2000, c. 20, s. 33. 34. Omitted (enacts short title of this Act).  2000, c. 20, s. 34. ______________  Français  ",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK37\"></a><b>31.</b> (1) Licences and registrations issued under the <i>Racing Commission Act</i>, being chapter R.2 of the Revised Statutes of Ontario, 1990, are continued as licences and registrations respectively issued under this Act.  2000, c. 20, s. 31 (1).</p> <p class=\"headnote-e\">Acts of Commission</p> <p class=\"subsection-e\">  (2) Rules, orders, delegations and by-laws made by the Commission under the <i>Racing Commission Act</i> are continued as rules, orders, delegations and by-laws respectively made by the Commission under this Act.  2000, c. 20, s. 31 (2).</p> <p class=\"section-e\"> <b>32.</b> <span>Omitted (amends or repeals other Acts)</span>.  2000, c. 20, s. 32.</p> <p class=\"section-e\"> <b>33.</b> <span>Omitted (provides for coming into force of provisions of this Act)</span>.  2000, c. 20, s. 33.</p> <p class=\"section-e\"> <b>34.</b> <span>Omitted (enacts short title of this Act)</span>.  2000, c. 20, s. 34.</p> <p class=\"line-e\">______________</p> <p class=\"line-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/00r20\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 361: SULPHUR CONTENT OF FUELS",
+        "reg_name_text": "SULPHUR CONTENT OF FUELS",
+        "citation": "R.R.O. 1990, Reg. 361: ",
+        "act_under": "Environmental Protection Act   Loi sur la protection de l’environnement",
+        "url": "https://www.ontario.ca/laws/regulation/900361",
+        "date_scraped": "2023-12-19 05:32:42"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "October 31, 2011",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900361/v2",
+            "valid_from": "June 14, 2011",
+            "valid_to": "October 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900361/v1",
+            "valid_from": "November  5, 1999",
+            "valid_to": "June 13, 2011"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definitions",
+            "content": " 1. In this Regulation, “fuel” includes any fuel used for heating, generating steam or electricity, or for industrial processes; “sulphur content” means the amount of sulphur in the fuel as determined by standard methods of sampling and testing and in the case of coal shall be determined as organic sulphur.  R.R.O. 1990, Reg. 361, s. 1. Application",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>In this Regulation,</p> <p class=\"firstdef-e\">“fuel” includes any fuel used for heating, generating steam or electricity, or for industrial processes;</p> <p class=\"definition-e\">“sulphur content” means the amount of sulphur in the fuel as determined by standard methods of sampling and testing and in the case of coal shall be determined as organic sulphur.  R.R.O. 1990, Reg. 361, s. 1.</p> <p class=\"heading1-e\">Application</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Application",
+            "content": " 2. This Regulation applies to the City of Toronto.  O. Reg. 522/99, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>This Regulation applies to the City of Toronto.  O. Reg. 522/99, s. 1.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Application",
+            "content": " 3. Subject to section 4, no person shall use for fuel, or sell or offer for sale, any fuel referred to in Column 1 of the Schedule if the sulphur content of the fuel is greater than the maximum sulphur content set opposite thereto in Column 2 of the Schedule.  R.R.O. 1990, Reg. 361, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>Subject to section 4, no person shall use for fuel, or sell or offer for sale, any fuel referred to in Column 1 of the Schedule if the sulphur content of the fuel is greater than the maximum sulphur content set opposite thereto in Column 2 of the Schedule.  R.R.O. 1990, Reg. 361, s. 3.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Application",
+            "content": " 4. A fuel having a higher sulphur content than the maximum sulphur content prescribed for that fuel in the Schedule may be used for fuel, or sold or offered for sale to a purchaser if the user or purchaser has applied for and been issued an environmental compliance approval in respect of an activity mentioned in subsection 9 (1) of the Act, for methods or devices that will result in emissions of sulphur dioxide no greater than if the fuel contained the sulphur content prescribed in the Schedule.  R.R.O. 1990, Reg. 361, s. 4; O. Reg. 522/99, s. 2; O. Reg. 263/11, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>A fuel having a higher sulphur content than the maximum sulphur content prescribed for that fuel in the Schedule may be used for fuel, or sold or offered for sale to a purchaser if the user or purchaser has applied for and been issued an environmental compliance approval in respect of an activity mentioned in subsection 9 (1) of the Act, for methods or devices that will result in emissions of sulphur dioxide no greater than if the fuel contained the sulphur content prescribed in the Schedule.  R.R.O. 1990, Reg. 361, s. 4; O. Reg. 522/99, s. 2; O. Reg. 263/11, s. 1.</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Application",
+            "content": " 5. Every supplier of fuel shall, at the times and in the manner specified by the Director,  (a) report to the Director the sulphur content of the fuels the supplier has supplied; and (b) specify to the Director the source or sources of supply of those fuels.  O. Reg. 522/99, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>Every supplier of fuel shall, at the times and in the manner specified by the Director, </p> <p class=\"clause-e\">  (a) report to the Director the sulphur content of the fuels the supplier has supplied; and </p> <p class=\"clause-e\">  (b) specify to the Director the source or sources of supply of those fuels.  O. Reg. 522/99, s. 3.</p>"
+        },
+        {
+            "id": "6.",
+            "section": "Application",
+            "content": " 6. Every supplier of fuel shall, upon the request of a provincial officer, provide duplicate samples of any fuel supplied by the supplier.  R.R.O. 1990, Reg. 361, s. 6. Schedule Fuel   Column 1 Grade or type of Fuel   Column 2 Maximum Sulphur Content \n\n  Oil   1   0.5% \n\n  Oil   2   0.5% \n\n  Oil   4   1.5% \n\n  Oil   5   1.5% \n\n  Oil   6B   1.5% \n\n  Oil   6C   1.5% \n\n  Coal   Bituminous   1.5% R.R.O. 1990, Reg. 361, Sched.    ",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>Every supplier of fuel shall, upon the request of a provincial officer, provide duplicate samples of any fuel supplied by the supplier.  R.R.O. 1990, Reg. 361, s. 6.</p> <p class=\"schedule-e\">Schedule</p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"390\">\n<tr> <td valign=\"top\" width=\"97\"> <p class=\"table-e\">Fuel</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">Column 1</p> <p class=\"table-e\">Grade or type of Fuel</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">Column 2</p> <p class=\"table-e\">Maximum Sulphur Content</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"97\"> <p class=\"table-e\">Oil</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">1</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">0.5%</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"97\"> <p class=\"table-e\">Oil</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">2</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">0.5%</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"97\"> <p class=\"table-e\">Oil</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">4</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">1.5%</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"97\"> <p class=\"table-e\">Oil</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">5</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">1.5%</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"97\"> <p class=\"table-e\">Oil</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">6B</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">1.5%</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"97\"> <p class=\"table-e\">Oil</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">6C</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">1.5%</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"97\"> <p class=\"table-e\">Coal</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">Bituminous</p> </td> <td valign=\"top\" width=\"146\"> <p class=\"table-e\">1.5%</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">R.R.O. 1990, Reg. 361, Sched.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

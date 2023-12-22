@@ -1,0 +1,537 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 257/00: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "O. Reg. 257/00: ",
+        "act_under": "Ambulance Act   Loi sur les ambulances",
+        "url": "https://www.ontario.ca/laws/regulation/000257",
+        "date_scraped": "2023-12-18 05:36:57"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November  4, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v14",
+            "valid_from": "January  1, 2022",
+            "valid_to": "November  3, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v13",
+            "valid_from": "November 29, 2021",
+            "valid_to": "December 31, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v12",
+            "valid_from": "October 22, 2020",
+            "valid_to": "November 28, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v11",
+            "valid_from": "April 16, 2020",
+            "valid_to": "October 21, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v10",
+            "valid_from": "November  1, 2019",
+            "valid_to": "April 15, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v9",
+            "valid_from": "January  1, 2011",
+            "valid_to": "October 31, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v8",
+            "valid_from": "December 30, 2010",
+            "valid_to": "December 31, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v7",
+            "valid_from": "September 17, 2010",
+            "valid_to": "December 29, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v6",
+            "valid_from": "July 30, 2008",
+            "valid_to": "September 16, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v5",
+            "valid_from": "July 25, 2007",
+            "valid_to": "July 29, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v4",
+            "valid_from": "June 11, 2007",
+            "valid_to": "July 24, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v3",
+            "valid_from": "July 25, 2005",
+            "valid_to": "June 10, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v2",
+            "valid_from": "October  8, 2004",
+            "valid_to": "July 24, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/000257/v1",
+            "valid_from": "July 25, 2002",
+            "valid_to": "October  7, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "PART II",
+            "Section": "None",
+            "Section1": "DEFINITIONS",
+            "Section2": "1",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "PART III",
+            "Section": "None",
+            "Section1": "CERTIFICATION OF OPERATORS OF AMBULANCE SERVICES",
+            "Section2": "2-4",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "PART IV",
+            "Section": "None",
+            "Section1": "QUALIFICATIONS OF EMERGENCY MEDICAL ATTENDANTS AND PARAMEDICS",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Land Ambulance Services",
+            "Section2": "5-8",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Air Ambulance Services",
+            "Section2": "9",
+            "part_id": "PART IV",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "PART V",
+            "Section": "None",
+            "Section1": "REQUALIFYING EXAMINATIONS OF EMERGENCY MEDICAL ATTENDANTS AND PARAMEDICS",
+            "Section2": "10",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "PART VI",
+            "Section": "None",
+            "Section1": "STANDARD OF PATIENT CARE, REPORTS AND DOCUMENTATION",
+            "Section2": "11-11.1",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "PART VII",
+            "Section": "None",
+            "Section1": "OPERATION OF AMBULANCE SERVICES",
+            "Section2": "12-14",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "PART VIII",
+            "Section": "None",
+            "Section1": "OBLIGATIONS OF COMMUNICATION SERVICES, BASE HOSPITAL PROGRAMS AND LAND AMBULANCE SERVICES THAT ARE FUNDED BY THE PROVINCE",
+            "Section2": "15-21",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "PART VIII",
+            "Section": "None",
+            "Section1": "RESPONSE TIME PERFORMANCE PLANS",
+            "Section2": "22-24",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule 1",
+            "Section": "None",
+            "Section1": "List of controlled acts that may be performed by a primary care paramedic",
+            "Section2": "None",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule 2",
+            "Section": "None",
+            "Section1": "List of controlled acts that may be performed by an advanced care paramedic or, if authorized, a primary care paramedic",
+            "Section2": "None",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule 3",
+            "Section": "None",
+            "Section1": "List of controlled acts that may be performed by a critical care paramedic or, if authorized, an advanced care paramedic",
+            "Section2": "None",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. (1) In this Regulation, “advanced care paramedic” means a paramedic who holds the qualifications set out in subsection 8 (2); “advanced emergency medical care assistant” means an emergency medical attendant who holds the qualification set out in subsection 7 (4); “air ambulance” means an aircraft that is used as an air ambulance by an operator; “base hospital” means a hospital designated by the Minister to provide a base hospital program; “base hospital program” means a program operated by a base hospital for the purpose of, (a) delegating controlled acts to paramedics, (b) providing medical advice relating to pre-hospital patient care and transportation of patients to ambulance and communication services and to emergency medical attendants, paramedics and other employees of the services, (c) providing quality assurance information and advice relating to pre-hospital patient care to ambulance services and to emergency medical attendants and paramedics, and (d) providing the continuing medical education required to maintain the delegation of controlled acts to paramedics; “communications officer” means a person employed in a communication service who receives requests for ambulance services and other emergency and non-emergency services and causes a response to such requests to occur; “controlled act” means a controlled act as defined under subsection 27 (2) of the Regulated Health Professions Act, 1991; “critical care paramedic” means a paramedic who holds the qualifications set out in subsection 8 (3); “emergency” means a situation where a delay in responding to a call for services could endanger the life, limb or function of a person; “emergency medical care assistant” means an emergency medical attendant who holds the qualifications set out in subsection 7 (3); “emergency response vehicle” means a vehicle within the meaning of the Highway Traffic Act\r\noperated by an ambulance service, other than an ambulance, that is used to provide emergency response services, and that has been assigned an emergency response vehicle number by the Director; “employee” includes an independent contractor and an employee of an independent contractor; “medical director” means a physician designated by a base hospital as the medical director of a base hospital program; “nurse practitioner” means a registered nurse who holds an extended certificate of registration under the Nursing Act, 1991; “patient” means a person who, (a) receives first aid, emergency or other medical care from an emergency medical attendant or paramedic, or (b) is transported in an ambulance by an emergency medical attendant or paramedic; “physician” means a member in good standing of the College of Physicians and Surgeons of Ontario; “primary care paramedic” means a paramedic who holds the qualifications set out in subsection 8 (1); “volunteer” means a person who may receive an honorarium or other compensation but does not receive a wage or salary.  O. Reg. 257/00, s. 1 (1); O. Reg. 803/21, s. 1. (2) For the purposes of this Regulation, (a) a person who works 24 hours a week or less is a part-time employee or volunteer, as the case may be; and (b) a person who works more than 24 hours a week is a full-time employee or volunteer, as the case may be.  O. Reg. 257/00, s. 1 (2). PART II   CERTIFICATION OF OPERATORS OF AMBULANCE SERVICES",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) In this Regulation,</p> <p class=\"firstdef-e\">“advanced care paramedic” means a paramedic who holds the qualifications set out in subsection 8 (2);</p> <p class=\"definition-e\">“advanced emergency medical care assistant” means an emergency medical attendant who holds the qualification set out in subsection 7 (4);</p> <p class=\"definition-e\">“air ambulance” means an aircraft that is used as an air ambulance by an operator;</p> <p class=\"definition-e\">“base hospital”<i> </i>means a hospital designated by the Minister to provide a base hospital program;</p> <p class=\"definition-e\">“base hospital program” means a program operated by a base hospital for the purpose of,</p> <p class=\"defclause-e\">  (a) delegating controlled acts to paramedics,</p> <p class=\"defclause-e\">  (b) providing medical advice relating to pre-hospital patient care and transportation of patients to ambulance and communication services and to emergency medical attendants, paramedics and other employees of the services,</p> <p class=\"defclause-e\">  (c) providing quality assurance information and advice relating to pre-hospital patient care to ambulance services and to emergency medical attendants and paramedics, and</p> <p class=\"defclause-e\">  (d) providing the continuing medical education required to maintain the delegation of controlled acts to paramedics;</p> <p class=\"definition-e\">“communications officer” means a person employed in a communication service who receives requests for ambulance services and other emergency and non-emergency services and causes a response to such requests to occur;</p> <p class=\"definition-e\">“controlled act” means a controlled act as defined under subsection 27 (2) of the <i>Regulated Health Professions Act, 1991</i>;</p> <p class=\"definition-e\">“critical care paramedic”<i> </i>means a paramedic who holds the qualifications set out in subsection 8 (3);</p> <p class=\"definition-e\">“emergency” means a situation where a delay in responding to a call for services could endanger the life, limb or function of a person;</p> <p class=\"definition-e\">“emergency medical care assistant”<i> </i>means an emergency medical attendant who holds the qualifications set out in subsection 7 (3);</p> <p class=\"definition-e\">“emergency response vehicle” means a vehicle within the meaning of the <i>Highway Traffic Act</i>\r\noperated by an ambulance service, other than an ambulance, that is used to provide emergency response services, and that has been assigned an emergency response vehicle number by the Director;</p> <p class=\"definition-e\">“employee” includes an independent contractor and an employee of an independent contractor;</p> <p class=\"definition-e\">“medical director” means a physician designated by a base hospital as the medical director of a base hospital program;</p> <p class=\"definition-e\">“nurse practitioner” means a registered nurse who holds an extended certificate of registration under the <i>Nursing Act, 1991</i>;</p> <p class=\"definition-e\">“patient” means a person who,</p> <p class=\"defclause-e\">  (a) receives first aid, emergency or other medical care from an emergency medical attendant or paramedic, or</p> <p class=\"defclause-e\">  (b) is transported in an ambulance by an emergency medical attendant or paramedic;</p> <p class=\"definition-e\">“physician” means a member in good standing of the College of Physicians and Surgeons of Ontario;</p> <p class=\"definition-e\">“primary care paramedic” means a paramedic who holds the qualifications set out in subsection 8 (1);</p> <p class=\"definition-e\">“volunteer” means a person who may receive an honorarium or other compensation but does not receive a wage or salary.  O. Reg. 257/00, s. 1 (1); O. Reg. 803/21, s. 1.</p> <p class=\"subsection-e\">  (2) For the purposes of this Regulation,</p> <p class=\"clause-e\">  (a) a person who works 24 hours a week or less is a part-time employee or volunteer, as the case may be; and</p> <p class=\"clause-e\">  (b) a person who works more than 24 hours a week is a full-time employee or volunteer, as the case may be.  O. Reg. 257/00, s. 1 (2).</p> <p class=\"partnum-e\"><a name=\"BK1\"></a>PART II <br/>  CERTIFICATION OF OPERATORS OF AMBULANCE SERVICES</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. (1) A person who wishes to be certified to operate an ambulance service shall apply to the certifying authority in the form developed by the certifying authority and approved by the Director.  O. Reg. 257/00, s. 2 (1). (2) An application under subsection (1) shall be made, (a) in the case of an applicant who currently operates an ambulance service and is applying to renew certification, at least 120 days before the day the previous certificate expires; and (b) in the case of an applicant who does not currently operate an ambulance service, at least 120 days before the day the applicant intends to begin providing ambulance services.  O. Reg. 257/00, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) A person who wishes to be certified to operate an ambulance service shall apply to the certifying authority in the form developed by the certifying authority and approved by the Director.  O. Reg. 257/00, s. 2 (1).</p> <p class=\"subsection-e\">  (2) An application under subsection (1) shall be made,</p> <p class=\"clause-e\">  (a) in the case of an applicant who currently operates an ambulance service and is applying to renew certification, at least 120 days before the day the previous certificate expires; and</p> <p class=\"clause-e\">  (b) in the case of an applicant who does not currently operate an ambulance service, at least 120 days before the day the applicant intends to begin providing ambulance services.  O. Reg. 257/00, s. 2 (2).</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) For the purposes of subsections 8 (2), (4) and (5) of the Act, the certification process that a person must successfully complete in order to operate a land ambulance service and the certification criteria that a person must meet to complete that process are set out in the document entitled “Land Ambulance Certification Standards” published by the Ministry, as that document may be amended from time to time.  O. Reg. 257/00, s. 3 (1). (2) For the purposes of subsections 8 (2), (4) and (5) of the Act, the certification process that a person must successfully complete in order to operate an air ambulance service and the certification criteria that a person must meet to complete that process are set out in the document entitled “Air Ambulance Certification Standards” published by the Ministry, as that document may be amended from time to time.  O. Reg. 257/00, s. 3 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) For the purposes of subsections 8 (2), (4) and (5) of the Act, the certification process that a person must successfully complete in order to operate a land ambulance service and the certification criteria that a person must meet to complete that process are set out in the document entitled “Land Ambulance Certification Standards” published by the Ministry, as that document may be amended from time to time.  O. Reg. 257/00, s. 3 (1).</p> <p class=\"subsection-e\">  (2) For the purposes of subsections 8 (2), (4) and (5) of the Act, the certification process that a person must successfully complete in order to operate an air ambulance service and the certification criteria that a person must meet to complete that process are set out in the document entitled “Air Ambulance Certification Standards” published by the Ministry, as that document may be amended from time to time.  O. Reg. 257/00, s. 3 (2).</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. (1) A certificate to operate an ambulance service expires,  (a) in the case of a certificate issued to a person who does not operate an ambulance service at the time the application is made under section 2, one year after the day it is issued; (b) in the case of a certificate issued to an operator upon the expiry of a previous certificate, three years after the day it is issued; and (c) in the case of a certificate issued to an operator upon successfully completing the certification process that the operator was ordered to complete under clause 11 (1) (b) of the Act, one year after the day it is issued.  O. Reg. 257/00, s. 4 (1). (2) Despite subsection (1), if the operator of an ambulance service is ordered to complete the certification process under clause 11 (1) (b) of the Act and the operator is issued a new certificate upon successfully completing that process, the certificate that was held by the operator at the time the order was made under clause 11 (1) (b) of the Act shall expire upon the issuing of the new certificate.  O. Reg. 257/00, s. 4 (2). PART III   QUALIFICATIONS OF EMERGENCY MEDICAL ATTENDANTS AND PARAMEDICS Land Ambulance Services",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) A certificate to operate an ambulance service expires, </p> <p class=\"clause-e\">  (a) in the case of a certificate issued to a person who does not operate an ambulance service at the time the application is made under section 2, one year after the day it is issued;</p> <p class=\"clause-e\">  (b) in the case of a certificate issued to an operator upon the expiry of a previous certificate, three years after the day it is issued; and </p> <p class=\"clause-e\">  (c) in the case of a certificate issued to an operator upon successfully completing the certification process that the operator was ordered to complete under clause 11 (1) (b) of the Act, one year after the day it is issued.  O. Reg. 257/00, s. 4 (1).</p> <p class=\"subsection-e\">  (2) Despite subsection (1), if the operator of an ambulance service is ordered to complete the certification process under clause 11 (1) (b) of the Act and the operator is issued a new certificate upon successfully completing that process, the certificate that was held by the operator at the time the order was made under clause 11 (1) (b) of the Act shall expire upon the issuing of the new certificate.  O. Reg. 257/00, s. 4 (2).</p> <p class=\"partnum-e\"><a name=\"BK2\"></a>PART III <br/>  QUALIFICATIONS OF EMERGENCY MEDICAL ATTENDANTS AND PARAMEDICS</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Land Ambulance Services</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) The operator of a land ambulance service shall not employ a person to provide patient care, whether on a full-time or part-time basis, or engage a person to provide patient care as a full-time volunteer, unless the person is a paramedic who, (a) obtained, before January 1, 2002, the qualifications of an emergency medical care assistant referred to in subsection 7 (3); or (b) holds the qualifications of an advanced emergency medical care assistant referred to in subsection 7 (4).  O. Reg. 229/02, s. 1. (2) Revoked: O. Reg. 364/19, s. 1. (3) Despite subsection (1), a paramedic who does not hold the qualifications of an emergency medical care assistant or an advanced emergency medical care assistant may be employed by an operator of a land ambulance service to provide patient care on a part-time basis beginning on January 1, 2002 and ending on December 31, 2011 if the paramedic, (a) is enrolled in an upgrading program offered by a College of Applied Arts and Technology leading to qualification as an advanced emergency medical care assistant; or (b) has experience and qualifications that the Director considers to be equivalent to those of a person who has successfully completed such an upgrading program.  O. Reg. 229/02, s. 1; O. Reg. 432/05, s. 1; O. Reg. 268/08, s. 1. (4) Despite subsection (1), a person who does not meet the requirements set out in clause 7 (4) (b) may be employed on a full-time or part-time basis or engaged as a full-time volunteer by the operator of a land ambulance service to provide patient care as an emergency medical attendant for a period of 210 consecutive days after successfully completing a program referred to in clause 7 (4) (a).  O. Reg. 229/02, s. 1. (5) The operator of a land ambulance service shall not engage a person as a part-time volunteer unless the person is qualified as an emergency medical attendant.  O. Reg. 229/02, s. 1. (6) Despite subsection (1), during a period when an emergency has been declared to exist throughout Ontario under the Emergency Management and Civil Protection Act, the operator of a land ambulance service may employ or engage, or continue to employ or engage, a person who does not meet the requirements set out in clause 7 (4) (b), but who has successfully completed a program referred to in clause 7 (4) (a), to provide patient care as an emergency medical attendant on a full-time or part-time basis or as a full-time volunteer, and the operator may continue to employ or engage such a person for a period of 420 consecutive days after the completion of the program, even if the declaration of emergency has ceased to apply. O. Reg. 159/20, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>5.</b><b> </b>(1) The operator of a land ambulance service shall not employ a person to provide patient care, whether on a full-time or part-time basis, or engage a person to provide patient care as a full-time volunteer, unless the person is a paramedic who,</p> <p class=\"clause-e\">  (a) obtained, before January 1, 2002, the qualifications of an emergency medical care assistant referred to in subsection 7 (3); or</p> <p class=\"clause-e\">  (b) holds the qualifications of an advanced emergency medical care assistant referred to in subsection 7 (4).  O. Reg. 229/02, s. 1.</p> <p class=\"subsection-e\">  (2)<b> </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 364/19, s. 1.</p> <p class=\"subsection-e\">  (3) Despite subsection (1), a paramedic who does not hold the qualifications of an emergency medical care assistant or an advanced emergency medical care assistant may be employed by an operator of a land ambulance service to provide patient care on a part-time basis beginning on January 1, 2002 and ending on December 31, 2011 if the paramedic,</p> <p class=\"clause-e\">  (a) is enrolled in an upgrading program offered by a College of Applied Arts and Technology leading to qualification as an advanced emergency medical care assistant; or</p> <p class=\"clause-e\">  (b) has experience and qualifications that the Director considers to be equivalent to those of a person who has successfully completed such an upgrading program.  O. Reg. 229/02, s. 1; O. Reg. 432/05, s. 1; O. Reg. 268/08, s. 1.</p> <p class=\"subsection-e\">  (4) Despite subsection (1), a person who does not meet the requirements set out in clause 7 (4) (b) may be employed on a full-time or part-time basis or engaged as a full-time volunteer by the operator of a land ambulance service to provide patient care as an emergency medical attendant for a period of 210 consecutive days after successfully completing a program referred to in clause 7 (4) (a).  O. Reg. 229/02, s. 1.</p> <p class=\"subsection-e\">  (5) The operator of a land ambulance service shall not engage a person as a part-time volunteer unless the person is qualified as an emergency medical attendant.  O. Reg. 229/02, s. 1.</p> <p class=\"subsection-e\">  (6) Despite subsection (1), during a period when an emergency has been declared to exist throughout Ontario under the <i>Emergency Management and Civil Protection Act</i>, the operator of a land ambulance service may employ or engage, or continue to employ or engage, a person who does not meet the requirements set out in clause 7 (4) (b), but who has successfully completed a program referred to in clause 7 (4) (a), to provide patient care as an emergency medical attendant on a full-time or part-time basis or as a full-time volunteer, and the operator may continue to employ or engage such a person for a period of 420 consecutive days after the completion of the program, even if the declaration of emergency has ceased to apply. O. Reg. 159/20, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. (1) An emergency medical attendant and paramedic employed, or engaged as a volunteer, in a land ambulance service shall, (a)  Revoked:  O. Reg. 268/08, s. 2 (1). (b) be able to read, write and speak the English language fluently; (c) subject to subsection (2), not have received, during the year immediately prior to the date he or she commenced employment, six or more demerit points recorded on his or her record by the Registrar of Motor Vehicles under the Highway Traffic Act; (d) have maintained, during the two years immediately prior to the date he or she commenced employment, and have continued to maintain during his or her employment, a valid driver’s licence under the Highway Traffic Act; (e) not have, at any time during the three years immediately prior to the date he or she commenced employment or during his or her employment, been prohibited under the Criminal Code (Canada) from driving a motor vehicle in Canada; (f) hold and maintain a driver’s licence that authorizes the person to drive an ambulance; (g) be free from all communicable diseases set out in Table 1 to the document entitled “Ambulance Service Communicable Disease Standards”, published by the Ministry, as that document may be amended from time to time; (h) hold a valid certificate signed by a physician, nurse practitioner or other person authorized to administer the relevant vaccine that states that the person is immunized against diseases listed in Table 1 to the document entitled “Ambulance Service Communicable Disease Standards”, published by the Ministry, as that document may be amended from time to time, or hold a valid certificate signed by a physician or nurse practitioner that such immunization is contra-indicated; (i) not have been convicted of any crime involving moral turpitude for which the person has not been pardoned; and (j) at the time he or she commences employment and every 12 months thereafter, be certified in cardiopulmonary resuscitation to the Basic Rescuer level or the Advanced Cardiac Life Support level or in a course approved by the Director.  O. Reg. 257/00, s. 6 (1); O. Reg. 268/08, s. 2 (1); O. Reg. 803/21, s. 2. (2) The requirement in clause (1) (j) to be re-certified at 12-month intervals does not apply, (a) during a period when an emergency has been declared to exist throughout Ontario under the Emergency Management and Civil Protection Act; and (b) after the declaration of emergency has ceased to apply, as provided for by the Director in accordance with the document entitled “Patient Care and Transportation Standards” published by the Ministry, as that document may be amended from time to time. O. Reg. 593/20, s. 1. (3) In providing for a time or times when the requirement does not apply for the purposes of clause (2) (b), the Director shall consider, (a) the guidelines and directives of the Chief Medical Officer of Health; (b) the effectiveness of the quality assurance program for paramedics operated through the base hospital program; and (c) the availability of resources to provide certification in cardiopulmonary resuscitation to the level approved by the Director. O. Reg. 593/20, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) An emergency medical attendant and paramedic employed, or engaged as a volunteer, in a land ambulance service shall,</p> <p class=\"clause-e\">  (a)  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 268/08, s. 2 (1).</p> <p class=\"clause-e\">  (b) be able to read, write and speak the English language fluently;</p> <p class=\"clause-e\">  (c) subject to subsection (2), not have received, during the year immediately prior to the date he or she commenced employment, six or more demerit points recorded on his or her record by the Registrar of Motor Vehicles under the <i>Highway Traffic Act</i>;</p> <p class=\"clause-e\">  (d) have maintained, during the two years immediately prior to the date he or she commenced employment, and have continued to maintain during his or her employment, a valid driver’s licence under the <i>Highway Traffic Act</i>;</p> <p class=\"clause-e\">  (e) not have, at any time during the three years immediately prior to the date he or she commenced employment or during his or her employment, been prohibited under the <i>Criminal Code</i> (Canada) from driving a motor vehicle in Canada;</p> <p class=\"clause-e\">  (f) hold and maintain a driver’s licence that authorizes the person to drive an ambulance;</p> <p class=\"clause-e\">  (g) be free from all communicable diseases set out in Table 1 to the document entitled “Ambulance Service Communicable Disease Standards”, published by the Ministry, as that document may be amended from time to time;</p> <p class=\"clause-e\">  (h) hold a valid certificate signed by a physician, nurse practitioner or other person authorized to administer the relevant vaccine that states that the person is immunized against diseases listed in Table 1 to the document entitled “Ambulance Service Communicable Disease Standards”, published by the Ministry, as that document may be amended from time to time, or hold a valid certificate signed by a physician or nurse practitioner that such immunization is contra-indicated;</p> <p class=\"clause-e\">  (i) not have been convicted of any crime involving moral turpitude for which the person has not been pardoned; and</p> <p class=\"clause-e\">  (j) at the time he or she commences employment and every 12 months thereafter, be certified in cardiopulmonary resuscitation to the Basic Rescuer level or the Advanced Cardiac Life Support level or in a course approved by the Director.  O. Reg. 257/00, s. 6 (1); O. Reg. 268/08, s. 2 (1); O. Reg. 803/21, s. 2.</p> <p class=\"subsection-e\">  (2) The requirement in clause (1) (j) to be re-certified at 12-month intervals does not apply,</p> <p class=\"clause-e\">  (a) during a period when an emergency has been declared to exist throughout Ontario under the <i>Emergency Management and Civil Protection Act</i>; and</p> <p class=\"clause-e\">  (b) after the declaration of emergency has ceased to apply, as provided for by the Director in accordance with the document entitled “Patient Care and Transportation Standards” published by the Ministry, as that document may be amended from time to time. O. Reg. 593/20, s. 1.</p> <p class=\"subsection-e\">  (3) In providing for a time or times when the requirement does not apply for the purposes of clause (2) (b), the Director shall consider,</p> <p class=\"clause-e\">  (a) the guidelines and directives of the Chief Medical Officer of Health;</p> <p class=\"clause-e\">  (b) the effectiveness of the quality assurance program for paramedics operated through the base hospital program; and</p> <p class=\"clause-e\">  (c) the availability of resources to provide certification in cardiopulmonary resuscitation to the level approved by the Director. O. Reg. 593/20, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) In addition to meeting the qualifications set out in subsection 6 (1), an emergency medical attendant shall have, (a) the qualifications set out in subsection (2); (b) the qualifications of an emergency medical care assistant referred to in subsection (3); (c) the qualifications of an advanced emergency medical care assistant referred to in subsection (4); or (d) the qualification of being currently registered as a student in a paramedic program of a College of Applied Arts and Technology or an institution approved by the Director, during a period when an emergency has been declared to exist throughout Ontario under the Emergency Management and Civil Protection Act and during the six-month period after the declaration of emergency has ceased to apply. O. Reg. 257/00, s. 7 (1); O. Reg. 159/20, s. 3. (2) The qualifications referred to in clause (1) (a) are as follows: 1. The person must be the holder of a valid standard first aid certificate issued by a training institute approved by the Workplace Safety and Insurance Board. 2. The person must have successfully completed an Emergency First Response course approved by the Director or have experience and qualifications that are approved as equivalent by the Director.  O. Reg. 257/00, s. 7 (2). (3) An emergency medical care assistant shall, before January 1, 2002, (a) have successfully completed an ambulance and emergency care program provided by a College of Applied Arts and Technology or have experience and qualifications that are approved as equivalent by the Director; and (b) have obtained a pass standing in an emergency medical care examination set by the Director or hold qualifications that the Director considers to be equivalent to the qualifications of an emergency medical care assistant.  O. Reg. 257/00, s. 7 (3); O. Reg. 386/01, s. 2 (1); O. Reg. 229/02, s. 2 (1). (4) An advanced emergency medical care assistant shall, (a) have successfully completed an ambulance and emergency care program or a paramedic program provided by a College of Applied Arts and Technology or have experience and qualifications that are approved as equivalent by the Director; and (b) have obtained a pass standing in an advanced emergency medical care examination set by the Director or hold qualifications that the Director considers to be equivalent to the qualifications of an advanced emergency medical care assistant.  O. Reg. 257/00, s. 7 (4); O. Reg. 386/01, s. 2 (2); O. Reg. 229/02, s. 2 (2). (5) A fee of $100 shall be paid for an emergency medical care examination under clause (3) (b) or an advanced emergency medical care examination under clause (4) (b).  O. Reg. 255/07, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>(1) In addition to meeting the qualifications set out in subsection 6 (1), an emergency medical attendant shall have,</p> <p class=\"clause-e\">  (a) the qualifications set out in subsection (2);</p> <p class=\"clause-e\">  (b) the qualifications of an emergency medical care assistant referred to in subsection (3);</p> <p class=\"clause-e\">  (c) the qualifications of an advanced emergency medical care assistant referred to in subsection (4); or</p> <p class=\"clause-e\">  (d) the qualification of being currently registered as a student in a paramedic program of a College of Applied Arts and Technology or an institution approved by the Director, during a period when an emergency has been declared to exist throughout Ontario under the <i>Emergency Management and Civil Protection Act</i> and during the six-month period after the declaration of emergency has ceased to apply. O. Reg. 257/00, s. 7 (1); O. Reg. 159/20, s. 3.</p> <p class=\"subsection-e\">  (2) The qualifications referred to in clause (1) (a) are as follows:</p> <p class=\"paragraph-e\">  1. The person must be the holder of a valid standard first aid certificate issued by a training institute approved by the Workplace Safety and Insurance Board.</p> <p class=\"paragraph-e\">  2. The person must have successfully completed an Emergency First Response course approved by the Director or have experience and qualifications that are approved as equivalent by the Director.  O. Reg. 257/00, s. 7 (2).</p> <p class=\"subsection-e\">  (3) An emergency medical care assistant shall, before January 1, 2002,</p> <p class=\"clause-e\">  (a) have successfully completed an ambulance and emergency care program provided by a College of Applied Arts and Technology or have experience and qualifications that are approved as equivalent by the Director; and</p> <p class=\"clause-e\">  (b) have obtained a pass standing in an emergency medical care examination set by the Director or hold qualifications that the Director considers to be equivalent to the qualifications of an emergency medical care assistant.  O. Reg. 257/00, s. 7 (3); O. Reg. 386/01, s. 2 (1); O. Reg. 229/02, s. 2 (1).</p> <p class=\"subsection-e\">  (4) An advanced emergency medical care assistant shall,</p> <p class=\"clause-e\">  (a) have successfully completed an ambulance and emergency care program or a paramedic program provided by a College of Applied Arts and Technology or have experience and qualifications that are approved as equivalent by the Director; and</p> <p class=\"clause-e\">  (b) have obtained a pass standing in an advanced emergency medical care examination set by the Director or hold qualifications that the Director considers to be equivalent to the qualifications of an advanced emergency medical care assistant.  O. Reg. 257/00, s. 7 (4); O. Reg. 386/01, s. 2 (2); O. Reg. 229/02, s. 2 (2).</p> <p class=\"subsection-e\">  (5) A fee of $100 shall be paid for an emergency medical care examination under clause (3) (b) or an advanced emergency medical care examination under clause (4) (b).  O. Reg. 255/07, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. (1) In addition to meeting the qualifications set out in subsection 6 (1), a primary care paramedic shall, (a) hold the qualification of emergency medical attendant; and (b) be authorized by the medical director of a base hospital program to perform the controlled acts set out in Schedule 1.  O. Reg. 257/00, s. 8 (1). (2) In addition to meeting the qualifications set out in subsection 6 (1), an advanced care paramedic shall, (a) be qualified as a primary care paramedic; (b) have successfully completed an advanced care paramedic training program approved by the Director, and have obtained a pass standing in an advanced care paramedic examination set or approved by the Director; and (c) be authorized by a medical director to perform the controlled acts set out in Schedule 2.  O. Reg. 257/00, s. 8 (2). (3) In addition to meeting the qualifications set out in subsection 6 (1), a critical care paramedic shall, (a) be qualified as an advanced care paramedic; (b) have successfully completed a critical care paramedic training program approved by the Director, and have obtained a pass standing in a critical care paramedic examination set or approved by the Director; and (c) be authorized by a medical director to perform the controlled acts set out in Schedule 3.  O. Reg. 257/00, s. 8 (3). (4) The medical director of a base hospital program may authorize a primary care paramedic to perform one or more of the controlled acts set out in Schedule 2.  O. Reg. 257/00, s. 8 (4). (5) The medical director of a base hospital program may authorize an advanced care paramedic to perform one or more of the controlled acts set out in Schedule 3.  O. Reg. 257/00, s. 8 (5). (6) The requirement in clause (2) (b) that an advanced care paramedic have obtained a pass standing in an advanced care paramedic examination set or approved by the Director does not apply during a period when an emergency has been declared to exist throughout Ontario under the Emergency Management and Civil Protection Act and during the six-month period after the declaration of emergency has ceased to apply. O. Reg. 159/20, s. 4. Air Ambulance Services",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>(1) In addition to meeting the qualifications set out in subsection 6 (1), a primary care paramedic shall,</p> <p class=\"clause-e\">  (a) hold the qualification of emergency medical attendant; and</p> <p class=\"clause-e\">  (b) be authorized by the medical director of a base hospital program to perform the controlled acts set out in Schedule 1.  O. Reg. 257/00, s. 8 (1).</p> <p class=\"subsection-e\">  (2) In addition to meeting the qualifications set out in subsection 6 (1), an advanced care paramedic shall,</p> <p class=\"clause-e\">  (a) be qualified as a primary care paramedic;</p> <p class=\"clause-e\">  (b) have successfully completed an advanced care paramedic training program approved by the Director, and have obtained a pass standing in an advanced care paramedic examination set or approved by the Director; and</p> <p class=\"clause-e\">  (c) be authorized by a medical director to perform the controlled acts set out in Schedule 2.  O. Reg. 257/00, s. 8 (2).</p> <p class=\"subsection-e\">  (3) In addition to meeting the qualifications set out in subsection 6 (1), a critical care paramedic shall,</p> <p class=\"clause-e\">  (a) be qualified as an advanced care paramedic;</p> <p class=\"clause-e\">  (b) have successfully completed a critical care paramedic training program approved by the Director, and have obtained a pass standing in a critical care paramedic examination set or approved by the Director; and</p> <p class=\"clause-e\">  (c) be authorized by a medical director to perform the controlled acts set out in Schedule 3.  O. Reg. 257/00, s. 8 (3).</p> <p class=\"subsection-e\">  (4) The medical director of a base hospital program may authorize a primary care paramedic to perform one or more of the controlled acts set out in Schedule 2.  O. Reg. 257/00, s. 8 (4).</p> <p class=\"subsection-e\">  (5) The medical director of a base hospital program may authorize an advanced care paramedic to perform one or more of the controlled acts set out in Schedule 3.  O. Reg. 257/00, s. 8 (5).</p> <p class=\"subsection-e\">  (6) The requirement in clause (2) (b) that an advanced care paramedic have obtained a pass standing in an advanced care paramedic examination set or approved by the Director does not apply during a period when an emergency has been declared to exist throughout Ontario under the <i>Emergency Management and Civil Protection Act </i>and during the six-month period after the declaration of emergency has ceased to apply. O. Reg. 159/20, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK4\"></a><a name=\"BK5\"></a>Air Ambulance Services</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) The operator of an air ambulance service shall not employ a person to provide patient care, or engage a person to provide patient care as a volunteer, except in accordance with this section. O. Reg. 517/22, s. 1. (2) A flight paramedic may be employed or engaged to provide patient care if all of the following conditions are met: 1. They must have the qualifications of a paramedic set out in section 8. 2. They must have successfully completed an aeromedical course approved by the Director. 3. They must have obtained a pass standing in the aeromedical patient care examination approved by the Director. 4. They must have successfully completed and obtained a pass standing in a transportation of dangerous goods by air course and examination approved by the Director. 5. They must have a valid document signed by the operator stating that the person has successfully completed training on each type of aircraft in which the person is required to work. O. Reg. 517/22, s. 1. (3) A member of the College of Nurses of Ontario, the College of Physicians and Surgeons of Ontario or the College of Respiratory Therapists of Ontario may be employed or engaged to provide patient care if all of the following conditions are met: 1. They must have at least two years’ experience providing patient care in a health care setting other than an air ambulance service. 2. They must have successfully completed an aeromedical course approved by the Director. 3. They must have obtained a pass standing in the aeromedical patient care examination approved by the Director. 4. They must have successfully completed and obtained a pass standing in a transportation of dangerous goods by air course and examination approved by the Director. 5. They must only provide patient care while part of a crew that meets the crew configuration requirements set out in the document entitled “Patient Care and Transportation Standards”, published by the Ministry, as that document may be amended from time to time. O. Reg. 517/22, s. 1. PART IV   REQUALIFYING EXAMINATIONS OF EMERGENCY MEDICAL ATTENDANTS AND PARAMEDICS",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) The operator of an air ambulance service shall not employ a person to provide patient care, or engage a person to provide patient care as a volunteer, except in accordance with this section. O. Reg. 517/22, s. 1.</p> <p class=\"subsection-e\">  (2) A flight paramedic may be employed or engaged to provide patient care if all of the following conditions are met:</p> <p class=\"paragraph-e\">  1. They must have the qualifications of a paramedic set out in section 8.</p> <p class=\"paragraph-e\">  2. They must have successfully completed an aeromedical course approved by the Director.</p> <p class=\"paragraph-e\">  3. They must have obtained a pass standing in the aeromedical patient care examination approved by the Director.</p> <p class=\"paragraph-e\">  4. They must have successfully completed and obtained a pass standing in a transportation of dangerous goods by air course and examination approved by the Director.</p> <p class=\"paragraph-e\">  5. They must have a valid document signed by the operator stating that the person has successfully completed training on each type of aircraft in which the person is required to work. O. Reg. 517/22, s. 1.</p> <p class=\"subsection-e\">  (3) A member of the College of Nurses of Ontario, the College of Physicians and Surgeons of Ontario or the College of Respiratory Therapists of Ontario may be employed or engaged to provide patient care if all of the following conditions are met:</p> <p class=\"paragraph-e\">  1. They must have at least two years’ experience providing patient care in a health care setting other than an air ambulance service.</p> <p class=\"paragraph-e\">  2. They must have successfully completed an aeromedical course approved by the Director.</p> <p class=\"paragraph-e\">  3. They must have obtained a pass standing in the aeromedical patient care examination approved by the Director.</p> <p class=\"paragraph-e\">  4. They must have successfully completed and obtained a pass standing in a transportation of dangerous goods by air course and examination approved by the Director.</p> <p class=\"paragraph-e\">  5. They must only provide patient care while part of a crew that meets the crew configuration requirements set out in the document entitled “Patient Care and Transportation Standards”, published by the Ministry, as that document may be amended from time to time. O. Reg. 517/22, s. 1.</p> <p class=\"partnum-e\">PART IV <br/>  REQUALIFYING EXAMINATIONS OF EMERGENCY MEDICAL ATTENDANTS AND PARAMEDICS</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. (1) The Director may direct an emergency medical attendant or paramedic employed, or engaged as a volunteer, in an ambulance service to take a requalifying examination, set or approved by the Director, at such time and location as the Director specifies, if, (a) the emergency medical attendant or paramedic has not taken such an examination within the previous three years; or (b) the Director has reasonable cause to believe that the emergency medical attendant or paramedic may not be competent to perform with reasonable skill the duties normally required for his or her position.  O. Reg. 257/00, s. 10 (1). (2) A person who fails to take a requalifying examination as directed under subsection (1), or who does not obtain a pass standing in the requalifying examination, shall not be qualified to be employed, or engaged as a volunteer, in an ambulance service until such time as the person successfully completes a requalifying examination set or approved by the Director.  O. Reg. 257/00, s. 10 (2). (3) A fee of $100 shall be paid for a requalifying examination under subsection (1).  O. Reg. 255/07, s. 2. PART V   Standard of Patient Care, reports and documentation",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>(1) The Director may direct an emergency medical attendant or paramedic employed, or engaged as a volunteer, in an ambulance service to take a requalifying examination, set or approved by the Director, at such time and location as the Director specifies, if,</p> <p class=\"clause-e\">  (a) the emergency medical attendant or paramedic has not taken such an examination within the previous three years; or</p> <p class=\"clause-e\">  (b) the Director has reasonable cause to believe that the emergency medical attendant or paramedic may not be competent to perform with reasonable skill the duties normally required for his or her position.  O. Reg. 257/00, s. 10 (1).</p> <p class=\"subsection-e\">  (2) A person who fails to take a requalifying examination as directed under subsection (1), or who does not obtain a pass standing in the requalifying examination, shall not be qualified to be employed, or engaged as a volunteer, in an ambulance service until such time as the person successfully completes a requalifying examination set or approved by the Director.  O. Reg. 257/00, s. 10 (2).</p> <p class=\"subsection-e\">  (3) A fee of $100 shall be paid for a requalifying examination under subsection (1).  O. Reg. 255/07, s. 2.</p> <p class=\"partnum-e\"><a name=\"BK6\"></a>PART V <br/>  Standard of Patient Care, reports and documentation</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. An operator of an ambulance service and every emergency medical attendant and paramedic employed by or engaged as a volunteer by the operator shall ensure that, (a) patient care is provided in accordance with the patient care standards and procedures set out in the document entitled “Basic Life Support Patient Care Standards” published by the Ministry, as that document may be amended from time to time; (b) patient care provided by advanced care paramedics or critical care paramedics is provided in accordance with the standards and procedures set out in the document entitled “Advanced Life Support Patient Care Standards” published by the Ministry, as that document may be amended from time to time; (c) the additional patient care standards set out in the document entitled “Patient Care Model Standards”, published by the Ministry, as that document may be amended from time to time, are followed; and (d) the additional patient care standards and the transportation standards set out in the document entitled “Patient Care and Transportation Standards”, published by the Ministry, as that document may be amended from time to time, are followed.  O. Reg. 257/00, s. 11; O. Reg. 527/10, s. 2; O. Reg. 364/19, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>An operator of an ambulance service and every emergency medical attendant and paramedic employed by or engaged as a volunteer by the operator shall ensure that,</p> <p class=\"clause-e\">  (a) patient care is provided in accordance with the patient care standards and procedures set out in the document entitled “Basic Life Support Patient Care Standards” published by the Ministry, as that document may be amended from time to time;</p> <p class=\"clause-e\">  (b) patient care provided by advanced care paramedics or critical care paramedics is provided in accordance with the standards and procedures set out in the document entitled “Advanced Life Support Patient Care Standards” published by the Ministry, as that document may be amended from time to time;</p> <p class=\"clause-e\">  (c) the additional patient care standards set out in the document entitled “Patient Care Model Standards”, published by the Ministry, as that document may be amended from time to time, are followed; and</p> <p class=\"clause-e\">  (d) the additional patient care standards and the transportation standards set out in the document entitled “Patient Care and Transportation Standards”, published by the Ministry, as that document may be amended from time to time, are followed.  O. Reg. 257/00, s. 11; O. Reg. 527/10, s. 2; O. Reg. 364/19, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#11.0.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11.0.1 (1) An ambulance service operator that is approved by the Minister to implement a patient care model in accordance with the procedure set out in the “Patient Care Model Standards” document referenced in clause 11 (c) shall provide reports to the Minister evaluating the patient care model. O. Reg. 364/19, s. 5. (2) A report required by this section must be provided in the manner described in the document entitled “Patient Care Model Evaluation Framework”, published by the Ministry, as that document may be amended from time to time, and must be delivered to the Ministry at the frequency specified in that document. O. Reg. 364/19, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>11.0.1 </b>(1) An ambulance service operator that is approved by the Minister to implement a patient care model in accordance with the procedure set out in the “Patient Care Model Standards” document referenced in clause 11 (c) shall provide reports to the Minister evaluating the patient care model. O. Reg. 364/19, s. 5.</p> <p class=\"subsection-e\">  (2) A report required by this section must be provided in the manner described in the document entitled “Patient Care Model Evaluation Framework”, published by the Ministry, as that document may be amended from time to time, and must be delivered to the Ministry at the frequency specified in that document. O. Reg. 364/19, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#11.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11.1 An operator of an ambulance service and every emergency medical attendant and paramedic employed by or engaged as a volunteer by the operator shall ensure that documentation is provided by the emergency medical attendant or paramedic in accordance with the “Ontario Ambulance Documentation Standards” published by the Ministry, as that document may be amended from time to time.  O. Reg. 527/10, s. 3. PART VI   OPERATION OF AMBULANCE SERVICES",
+            "raw_html": "<p class=\"section-e\"> <b>11.1</b> An operator of an ambulance service and every emergency medical attendant and paramedic employed by or engaged as a volunteer by the operator shall ensure that documentation is provided by the emergency medical attendant or paramedic in accordance with the “Ontario Ambulance Documentation Standards” published by the Ministry, as that document may be amended from time to time.  O. Reg. 527/10, s. 3.</p> <p class=\"partnum-e\"><a name=\"BK7\"></a>PART VI <br/>  OPERATION OF AMBULANCE SERVICES</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  12. (1) The operator of an ambulance service shall ensure that the remains of a dead person are not transported by ambulance unless, (a) the remains are in a public place and it is in the public interest that the remains be removed; (b) arrangements are made to ensure that an alternative ambulance is readily available for ambulance services during the time that the remains are being transported; and (c) no patient is transported in the ambulance at the same time as the remains are transported.  O. Reg. 268/08, s. 3. (2) For the purposes of this section, an ambulance crew attending a person may rely on either of the following in determining that the person is dead: 1. The crew is presented with a medical certificate of death, in the form prescribed by the Vital Statistics Act, in respect of the person that appears on its face to be completed and signed in accordance with that Act. 2. The person is obviously dead.  O. Reg. 268/08, s. 3. (3) Despite subsection (1), an ambulance may be used to transport the remains of a dead person for the purpose of tissue transplantation on the order of a physician if a physician at the hospital where the tissue is being delivered acknowledges the order.  O. Reg. 268/08, s. 3. (4) The ambulance crew attending the remains referred to in subsection (3) shall care for the remains as directed by the physician who ordered the transportation.  O. Reg. 268/08, s. 3. (5) Despite subsection (1), an ambulance may continue to be used to transport a patient who was alive when transportation began.  O. Reg. 268/08, s. 3.",
+            "raw_html": "<p class=\"section-e\"><b>  12. </b>(1) The operator of an ambulance service shall ensure that the remains of a dead person are not transported by ambulance unless,</p> <p class=\"clause-e\">  (a) the remains are in a public place and it is in the public interest that the remains be removed;</p> <p class=\"clause-e\">  (b) arrangements are made to ensure that an alternative ambulance is readily available for ambulance services during the time that the remains are being transported; and</p> <p class=\"clause-e\">  (c) no patient is transported in the ambulance at the same time as the remains are transported.  O. Reg. 268/08, s. 3.</p> <p class=\"subsection-e\">  (2) For the purposes of this section, an ambulance crew attending a person may rely on either of the following in determining that the person is dead:</p> <p class=\"paragraph-e\">  1. The crew is presented with a medical certificate of death, in the form prescribed by the <i>Vital Statistics Act</i>, in respect of the person that appears on its face to be completed and signed in accordance with that Act.</p> <p class=\"paragraph-e\">  2. The person is obviously dead.  O. Reg. 268/08, s. 3.</p> <p class=\"subsection-e\">  (3) Despite subsection (1), an ambulance may be used to transport the remains of a dead person for the purpose of tissue transplantation on the order of a physician if a physician at the hospital where the tissue is being delivered acknowledges the order.  O. Reg. 268/08, s. 3.</p> <p class=\"subsection-e\">  (4) The ambulance crew attending the remains referred to in subsection (3) shall care for the remains as directed by the physician who ordered the transportation.  O. Reg. 268/08, s. 3.</p> <p class=\"subsection-e\">  (5) Despite subsection (1), an ambulance may continue to be used to transport a patient who was alive when transportation began.  O. Reg. 268/08, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. If the operator of a land ambulance service also operates a communication service, the operator shall, on receiving notice from the Director, cease operating the communication service and shall, (a) permit Ministry officials to do all things reasonably necessary to transfer control of the communication service to a new communication service; (b) ensure that all telephone numbers under the operator’s control that are used to receive ambulance calls from the public or other agencies are assigned to the new communication service; (c) ensure that no other telephone lines under the operator’s control are used for assigning calls to ambulances or emergency response vehicles; and (d) not advertise or hold out to the public any telephone number as being available to access ambulance or emergency response services except those assigned to the new communication service.  O. Reg. 257/00, s. 13.",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>If the operator of a land ambulance service also operates a communication service, the operator shall, on receiving notice from the Director, cease operating the communication service and shall,</p> <p class=\"clause-e\">  (a) permit Ministry officials to do all things reasonably necessary to transfer control of the communication service to a new communication service;</p> <p class=\"clause-e\">  (b) ensure that all telephone numbers under the operator’s control that are used to receive ambulance calls from the public or other agencies are assigned to the new communication service;</p> <p class=\"clause-e\">  (c) ensure that no other telephone lines under the operator’s control are used for assigning calls to ambulances or emergency response vehicles; and</p> <p class=\"clause-e\">  (d) not advertise or hold out to the public any telephone number as being available to access ambulance or emergency response services except those assigned to the new communication service.  O. Reg. 257/00, s. 13.</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. (1) An operator shall ensure that if a person referred to in subsection (2) attends, assists or renders first aid or emergency medical care to a patient of the operator’s ambulance service, (a) the person does so under the direction of an emergency medical attendant or paramedic; (b) the ambulance that is on the call when the person renders assistance is staffed in accordance with the requirements set out in the document entitled “Land Ambulance Certification Standards” published by the Ministry, as that document may be amended from time to time; (c) the person is free of the communicable diseases set out in Table 1 to the document entitled “Ambulance Service Communicable Disease Standards”, published by the Ministry, as that document may be amended from time to time; and (d) the person holds a valid certificate signed by a physician, nurse practitioner or other person authorized to administer the relevant vaccine that states that the person is immunized against diseases listed in Table 1 to the document entitled “Ambulance Service Communicable Disease Standards”, published by the Ministry, as that document may be amended from time to time, or holds a valid certificate signed by a physician or nurse practitioner that such immunization is contra-indicated. O. Reg. 257/00, s. 14 (1); O. Reg. 803/21, s. 3. (2) Subsection (1) applies to a person who is registered as a student in nursing, medicine, psychology, respiratory therapy, midwifery or a paramedic program at one of the following institutions: 1. A provincially assisted university. 2. A College of Applied Arts and Technology. 3. An institution approved by the Director for the purpose of this section.  O. Reg. 257/00, s. 14 (2). PART VII   OBLIGATIONS OF COMMUNICATION SERVICES, BASE HOSPITAL PROGRAMS AND LAND AMBULANCE SERVICES THAT ARE FUNDED BY THE PROVINCE",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b>(1) An operator shall ensure that if a person referred to in subsection (2) attends, assists or renders first aid or emergency medical care to a patient of the operator’s ambulance service,</p> <p class=\"clause-e\">  (a) the person does so under the direction of an emergency medical attendant or paramedic;</p> <p class=\"clause-e\">  (b) the ambulance that is on the call when the person renders assistance is staffed in accordance with the requirements set out in the document entitled “Land Ambulance Certification Standards” published by the Ministry, as that document may be amended from time to time;</p> <p class=\"clause-e\">  (c) the person is free of the communicable diseases set out in Table 1 to the document entitled “Ambulance Service Communicable Disease Standards”, published by the Ministry, as that document may be amended from time to time; and</p> <p class=\"clause-e\">  (d) the person holds a valid certificate signed by a physician, nurse practitioner or other person authorized to administer the relevant vaccine that states that the person is immunized against diseases listed in Table 1 to the document entitled “Ambulance Service Communicable Disease Standards”, published by the Ministry, as that document may be amended from time to time, or holds a valid certificate signed by a physician or nurse practitioner that such immunization is contra-indicated. O. Reg. 257/00, s. 14 (1); O. Reg. 803/21, s. 3.</p> <p class=\"subsection-e\">  (2) Subsection (1) applies to a person who is registered as a student in nursing, medicine, psychology, respiratory therapy, midwifery or a paramedic program at one of the following institutions:</p> <p class=\"paragraph-e\">  1. A provincially assisted university.</p> <p class=\"paragraph-e\">  2. A College of Applied Arts and Technology.</p> <p class=\"paragraph-e\">  3. An institution approved by the Director for the purpose of this section.  O. Reg. 257/00, s. 14 (2).</p> <p class=\"partnum-e\"><a name=\"BK8\"></a>PART VII <br/>  OBLIGATIONS OF COMMUNICATION SERVICES, BASE HOSPITAL PROGRAMS AND LAND AMBULANCE SERVICES THAT ARE FUNDED BY THE PROVINCE</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. In this Part, “applicable enterprise” means a communication service or any base hospital program or land ambulance service that receives funds directly from the Province of Ontario on an ongoing basis but does not include a communication service or land ambulance service that is operated by the Ministry.  O. Reg. 257/00, s. 15.",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>In this Part,</p> <p class=\"firstdef-e\">“applicable enterprise” means a communication service or any base hospital program or land ambulance service that receives funds directly from the Province of Ontario on an ongoing basis but does not include a communication service or land ambulance service that is operated by the Ministry.  O. Reg. 257/00, s. 15.</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. On and after January 1, 2001, the operator of an applicable enterprise shall be a party to an agreement with the Ministry for the provision of ambulance or communication services or the operation of a base hospital program, as the case may be.  O. Reg. 257/00, s. 16.",
+            "raw_html": "<p class=\"section-e\"> <b>16. </b>On and after January 1, 2001, the operator of an applicable enterprise shall be a party to an agreement with the Ministry for the provision of ambulance or communication services or the operation of a base hospital program, as the case may be.  O. Reg. 257/00, s. 16.</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. (1) The operator of an applicable enterprise shall, (a) maintain financial records, including books of account and accounting records, in accordance with generally accepted accounting principles; (b) prepare annual financial statements for the applicable enterprise, on forms provided by the Director, at the end of each fiscal year; (c) ensure that audited financial statements for the applicable enterprise are prepared annually by a public accountant licensed under the Public Accountancy Act; and (d) maintain personnel, equipment and supply records, as well as a record of daily hours of work performed by each employee of each applicable enterprise.  O. Reg. 257/00, s. 17 (1). (2) The operator of an applicable enterprise shall ensure that the records and statements referred to in subsection (1) are kept separate from those of any other applicable enterprise, business, undertaking or venture operated by the operator.  O. Reg. 257/00, s. 17 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b>(1) The operator of an applicable enterprise shall,</p> <p class=\"clause-e\">  (a) maintain financial records, including books of account and accounting records, in accordance with generally accepted accounting principles;</p> <p class=\"clause-e\">  (b) prepare annual financial statements for the applicable enterprise, on forms provided by the Director, at the end of each fiscal year;</p> <p class=\"clause-e\">  (c) ensure that audited financial statements for the applicable enterprise are prepared annually by a public accountant licensed under the <i>Public Accountancy Act</i>; and</p> <p class=\"clause-e\">  (d) maintain personnel, equipment and supply records, as well as a record of daily hours of work performed by each employee of each applicable enterprise.  O. Reg. 257/00, s. 17 (1).</p> <p class=\"subsection-e\">  (2) The operator of an applicable enterprise shall ensure that the records and statements referred to in subsection (1) are kept separate from those of any other applicable enterprise, business, undertaking or venture operated by the operator.  O. Reg. 257/00, s. 17 (2).</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. The operator of an applicable enterprise shall, within 90 days after the end of each fiscal year, submit to the Director a copy of the annual financial statements prepared under clause 17 (1) (b), together with a copy of the audited financial statements prepared under clause 17 (1) (c).  O. Reg. 257/00, s. 18.",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>The operator of an applicable enterprise shall, within 90 days after the end of each fiscal year, submit to the Director a copy of the annual financial statements prepared under clause 17 (1) (b), together with a copy of the audited financial statements prepared under clause 17 (1) (c).  O. Reg. 257/00, s. 18.</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. Revoked: O. Reg. 364/19, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b><span class=\"ovsmallcap\">Revoked:</span> O. Reg. 364/19, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. (1) If the Province of Ontario directs an applicable enterprise to use the funds received from the Province for the purposes of the enterprise, or for another specified purpose, the operator of the applicable enterprise shall use the funds only for that purpose.  O. Reg. 257/00, s. 20 (1). (2) If equipment, supplies or other tangible property are provided by the Province of Ontario to an applicable enterprise, the operator shall use such equipment, supplies or property only for purposes directly related to the enterprise, unless the Director has approved some other disposition of the equipment, supplies or property.  O. Reg. 257/00, s. 20 (2). (3) If funds provided by the Province of Ontario are used by the operator of an applicable enterprise to acquire equipment, supplies or other tangible property, the operator shall use the acquired equipment, supplies or property only for purposes directly related to the enterprise, unless the Director has approved some other disposition of the equipment, supplies or property.  O. Reg. 257/00, s. 20 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>(1) If the Province of Ontario directs an applicable enterprise to use the funds received from the Province for the purposes of the enterprise, or for another specified purpose, the operator of the applicable enterprise shall use the funds only for that purpose.  O. Reg. 257/00, s. 20 (1).</p> <p class=\"subsection-e\">  (2) If equipment, supplies or other tangible property are provided by the Province of Ontario to an applicable enterprise, the operator shall use such equipment, supplies or property only for purposes directly related to the enterprise, unless the Director has approved some other disposition of the equipment, supplies or property.  O. Reg. 257/00, s. 20 (2).</p> <p class=\"subsection-e\">  (3) If funds provided by the Province of Ontario are used by the operator of an applicable enterprise to acquire equipment, supplies or other tangible property, the operator shall use the acquired equipment, supplies or property only for purposes directly related to the enterprise, unless the Director has approved some other disposition of the equipment, supplies or property.  O. Reg. 257/00, s. 20 (3).</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. (1) If the operator of a land ambulance service that is an applicable enterprise uses or permits the use of a land ambulance or emergency response vehicle that is not owned by the Province of Ontario, the operator shall obtain and maintain in good standing a contract of automobile insurance under Part VI of the Insurance Act in respect of the vehicle, under which, (a) the operator and every driver are insured; (b) the liability of the insured is at least $5,000,000 in respect of any one incident; (c) the insurer is liable for the loss or damage resulting from bodily injury to, or death of, any passenger being carried in or upon or entering or getting onto or alighting from the ambulance or emergency response vehicle; (d) the insurer is liable for loss of, or damage to, the property of a passenger that was carried in or upon the ambulance or emergency response vehicle; and (e) in respect of any insured ambulance, the insurer is liable while the ambulance is used for carrying passengers for compensation or hire.  O. Reg. 257/00, s. 21 (1). (2) The operator of an applicable enterprise shall obtain and maintain a contract of general liability insurance in the minimum amount of $5,000,000 in respect of any one incident.  O. Reg. 257/00, s. 21 (2). Part VIII   Response Time Performance Plans",
+            "raw_html": "<p class=\"section-e\"> <b>21.</b> (1) If the operator of a land ambulance service that is an applicable enterprise uses or permits the use of a land ambulance or emergency response vehicle that is not owned by the Province of Ontario, the operator shall obtain and maintain in good standing a contract of automobile insurance under Part VI of the <i>Insurance Act</i> in respect of the vehicle, under which,</p> <p class=\"clause-e\">  (a) the operator and every driver are insured;</p> <p class=\"clause-e\">  (b) the liability of the insured is at least $5,000,000 in respect of any one incident;</p> <p class=\"clause-e\">  (c) the insurer is liable for the loss or damage resulting from bodily injury to, or death of, any passenger being carried in or upon or entering or getting onto or alighting from the ambulance or emergency response vehicle; </p> <p class=\"clause-e\">  (d) the insurer is liable for loss of, or damage to, the property of a passenger that was carried in or upon the ambulance or emergency response vehicle; and</p> <p class=\"clause-e\">  (e) in respect of any insured ambulance, the insurer is liable while the ambulance is used for carrying passengers for compensation or hire.  O. Reg. 257/00, s. 21 (1).</p> <p class=\"subsection-e\">  (2) The operator of an applicable enterprise shall obtain and maintain a contract of general liability insurance in the minimum amount of $5,000,000 in respect of any one incident.  O. Reg. 257/00, s. 21 (2).</p> <p class=\"partnum-e\"><a name=\"BK9\"></a>Part VIII <br/>  Response Time Performance Plans</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  22. In this Part, “notice” means notice given to a land ambulance crew by a land ambulance communication service of a request; “request” means a request made to a land ambulance communication service for ambulance services that are determined to be emergency services by the communication service at the time of the request.  O. Reg. 267/08, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"><b>  22. </b>In this Part,</p> <p class=\"firstdef-e\">“notice” means notice given to a land ambulance crew by a land ambulance communication service of a request;</p> <p class=\"definition-e\">“request” means a request made to a land ambulance communication service for ambulance services that are determined to be emergency services by the communication service at the time of the request.  O. Reg. 267/08, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  23. (1) In this section, “response time” means the time measured from the time a notice is received to the earlier of the following: 1. The arrival on-scene of a person equipped to provide any type of defibrillation to sudden cardiac arrest patients. 2. The arrival on-scene of the ambulance crew.  O. Reg. 267/08, s. 1 (2). (2) No later than October 1 in each year after 2011, every upper-tier municipality and every delivery agent responsible under the Act for ensuring the proper provision of land ambulance services shall establish, for land ambulance service operators selected by the upper-tier municipality or delivery agent in accordance with the Act, a performance plan for the next calendar year respecting response times.  O. Reg. 267/08, s. 1 (2); O. Reg. 368/10, s. 1 (1). (3) An upper-tier municipality or delivery agent to which subsection (2) applies shall ensure that the plan established under that subsection sets response time targets for responses to notices respecting patients categorized as Canadian Triage Acuity Scale (“CTAS”) 1, 2, 3, 4 and 5, and that such targets are set for each land ambulance service operator selected by the upper-tier municipality or delivery agent in accordance with the Act.  O. Reg. 267/08, s. 1 (2). (4) An upper-tier municipality or delivery agent to which subsection (2) applies shall ensure that throughout the year the plan established under that subsection is continuously maintained, enforced and evaluated and, where necessary, updated, whether in whole or in part.  O. Reg. 267/08, s. 1 (2). (5) An upper-tier municipality or delivery agent to which subsection (2) applies shall provide the Director with a copy of the plan established under that subsection no later than October 31 in each year, and a copy of any plan updated, whether in whole or in part, under subsection (4) no later than one month after the plan has been updated.  O. Reg. 267/08, s. 1 (2). (6) An upper-tier municipality or delivery agent to which subsection (2) applies shall report to the Director, as required from time to time by the Director and on forms or in a manner provided or determined by the Director, on any matter relating to, (a) the nature and scope of the plan established under that subsection or updated under subsection (4); and (b) the establishment, maintenance, enforcement, evaluation and updating of the plan.  O. Reg. 267/08, s. 1 (2). (7) Without limiting the generality of subsection (6), no later than March 31 in each year after 2013, an upper-tier municipality or delivery agent to which subsection (2) applies shall report to the Director on the following matters for the preceding calendar year: 1. The percentage of times that a person equipped to provide any type of defibrillation has arrived on-scene to provide defibrillation to sudden cardiac arrest patients within six minutes of the time notice is received. 2. The percentage of times that an ambulance crew has arrived on-scene to provide ambulance services to sudden cardiac arrest patients or other patients categorized as CTAS 1 within eight minutes of the time notice is received respecting such services. 3. The percentage of times that an ambulance crew has arrived on-scene to provide ambulance services to patients categorized as CTAS 2, 3, 4 and 5 within the response time targets set by the upper-tier municipality or delivery agent under its plan established under subsection (2).  O. Reg. 267/08, s. 1 (2); O. Reg. 368/10, s. 1 (2). (8) Without limiting the generality of subsection (6), an upper-tier municipality or delivery agent to which subsection (2) applies shall report to the Director on the performance of each land ambulance service operator selected by the upper-tier municipality or delivery agent in accordance with the Act in respect of the targets set for that operator under subsection (3).  O. Reg. 267/08, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"><b>  23. </b>(1) In this section,</p> <p class=\"firstdef-e\">“response time” means the time measured from the time a notice is received to the earlier of the following:<b> </b></p> <p class=\"defparagraph-e\">  1. The arrival on-scene of a person equipped to provide any type of defibrillation to sudden cardiac arrest patients.</p> <p class=\"defparagraph-e\">  2. The arrival on-scene of the ambulance crew.  O. Reg. 267/08, s. 1 (2).</p> <p class=\"subsection-e\"><b> </b>(2) No later than October 1 in each year after 2011, every upper-tier municipality and every delivery agent responsible under the Act for ensuring the proper provision of land ambulance services shall establish, for land ambulance service operators selected by the upper-tier municipality or delivery agent in accordance with the Act, a performance plan for the next calendar year respecting response times.  O. Reg. 267/08, s. 1 (2); O. Reg. 368/10, s. 1 (1).</p> <p class=\"subsection-e\"><b> </b>(3) An upper-tier municipality or delivery agent to which subsection (2) applies shall ensure that the plan established under that subsection sets response time targets for responses to notices respecting patients categorized as Canadian Triage Acuity Scale (“CTAS”) 1, 2, 3, 4 and 5, and that such targets are set for each land ambulance service operator selected by the upper-tier municipality or delivery agent in accordance with the Act.  O. Reg. 267/08, s. 1 (2).</p> <p class=\"subsection-e\"><b> </b>(4) An upper-tier municipality or delivery agent to which subsection (2) applies shall ensure that throughout the year the plan established under that subsection is continuously maintained, enforced and evaluated and, where necessary, updated, whether in whole or in part.  O. Reg. 267/08, s. 1 (2).</p> <p class=\"subsection-e\"><b> </b>(5) An upper-tier municipality or delivery agent to which subsection (2) applies shall provide the Director with a copy of the plan established under that subsection no later than October 31 in each year, and a copy of any plan updated, whether in whole or in part, under subsection (4) no later than one month after the plan has been updated.  O. Reg. 267/08, s. 1 (2).</p> <p class=\"subsection-e\"><b> </b>(6) An upper-tier municipality or delivery agent to which subsection (2) applies shall report to the Director, as required from time to time by the Director and on forms or in a manner provided or determined by the Director, on any matter relating to, </p> <p class=\"clause-e\">  (a) the nature and scope of the plan established under that subsection or updated under subsection (4); and </p> <p class=\"clause-e\">  (b) the establishment, maintenance, enforcement, evaluation and updating of the plan.  O. Reg. 267/08, s. 1 (2).</p> <p class=\"subsection-e\">  (7) Without limiting the generality of subsection (6), no later than March 31 in each year after 2013, an upper-tier municipality or delivery agent to which subsection (2) applies shall report to the Director on the following matters for the preceding calendar year:</p> <p class=\"paragraph-e\">  1. The percentage of times that a person equipped to provide any type of defibrillation has arrived on-scene to provide defibrillation to sudden cardiac arrest patients within six minutes of the time notice is received.</p> <p class=\"paragraph-e\">  2. The percentage of times that an ambulance crew has arrived on-scene to provide ambulance services to sudden cardiac arrest patients or other patients categorized as CTAS 1 within eight minutes of the time notice is received respecting such services.</p> <p class=\"paragraph-e\">  3. The percentage of times that an ambulance crew has arrived on-scene to provide ambulance services to patients categorized as CTAS 2, 3, 4 and 5 within the response time targets set by the upper-tier municipality or delivery agent under its plan established under subsection (2).  O. Reg. 267/08, s. 1 (2); O. Reg. 368/10, s. 1 (2).</p> <p class=\"subsection-e\">  (8) Without limiting the generality of subsection (6), an upper-tier municipality or delivery agent to which subsection (2) applies shall report to the Director on the performance of each land ambulance service operator selected by the upper-tier municipality or delivery agent in accordance with the Act in respect of the targets set for that operator under subsection (3).  O. Reg. 267/08, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  24. (1) In this section, “response time” means the time measured from the time a request is received to the time a notice is given respecting that request.  O. Reg. 267/08, s. 1 (2). (2) No later than October 1 in each year after 2011, every land ambulance communication service shall establish a response time performance plan for the next calendar year that sets out the percentage of times that the communication service will give notice within two minutes of the time a request is received respecting sudden cardiac arrest patients or other patients categorized as CTAS 1.  O. Reg. 267/08, s. 1 (2); O. Reg. 368/10, s. 2 (1). (3) A land ambulance communication service to which subsection (2) applies shall ensure that throughout the year the plan established under that subsection is continuously maintained, enforced and evaluated and, where necessary, updated, whether in whole or in part.  O. Reg. 267/08, s. 1 (2). (4) A land ambulance communication service to which subsection (2) applies shall provide the Director with a copy of the plan established under that subsection no later than October 31 in each year, and a copy of any plan updated, whether in whole or in part, under subsection (3) no later than one month after the plan has been updated.  O. Reg. 267/08, s. 1 (2). (5) A land ambulance communication service to which subsection (2) applies shall report to the Director, as required from time to time by the Director and on forms or in a manner provided or determined by the Director, on any matter relating to, (a) the nature and scope of every plan established under that subsection or updated under subsection (3); and (b) the establishment, maintenance, enforcement, evaluation and updating of the plan.  O. Reg. 267/08, s. 1 (2). (6) Without limiting the generality of subsection (5), no later than March 31 in each year after 2013, a land ambulance communication service to which subsection (2) applies shall report to the Director the percentage of times in the preceding calendar year that the communication service gave notice within two minutes of the time a request was received respecting sudden cardiac arrest patients or other patients categorized as CTAS 1.  O. Reg. 267/08, s. 1 (2); O. Reg. 368/10, s. 2 (2). Schedule 1   LIST OF CONTROLLED ACTS THAT MAY BE PERFORMED BY A PRIMARY CARE PARAMEDIC Item   Controlled Acts \n\n  1.   Administration of glucagon, oral glucose, nitroglycerin, epinephrine, salbutamol and ASA (80mg form). \n\n  2.   Semi-automated external cardiac defibrillation. O. Reg. 257/00, Sched. 1. Schedule 2   LIST OF CONTROLLED ACTS THAT MAY BE PERFORMED BY AN ADVANCED CARE PARAMEDIC OR, IF AUTHORIZED, A PRIMARY CARE PARAMEDIC Item   Controlled Acts \n\n  1.   Administration of the drugs referred to in item 1 of Schedule 1, in addition to any other drug approved by the Director on the recommendation of one or more medical directors of base hospital programs. \n\n  2.   Semi-automated external cardiac defibrillation. \n\n  3.   Peripheral intravenous therapy. \n\n  4.   Endotracheal intubation. \n\n  5.   Non-automated external cardiac defibrillation and monitoring. O. Reg. 257/00, Sched. 2. Schedule 3   LIST OF CONTROLLED ACTS THAT MAY BE PERFORMED BY A CRITICAL CARE PARAMEDIC OR, IF AUTHORIZED, AN ADVANCED CARE PARAMEDIC Item   Controlled Acts \n\n  1.   Administration of any drug that an advanced care paramedic may administer under item 1 of Schedule 2, in addition to any other drug approved by the Director on the recommendation of one or more medical directors of base hospital programs. \n\n  2.   The controlled acts referred to in items 2 to 5 of Schedule 2. \n\n  3.   Non-automated external cardiac defibrillation, electrical cardioversion and pacing. \n\n  4.   Maintenance and monitoring of arterial and central venous catheters. \n\n  5.   Gastric intubation and suction. \n\n  6.   Ventilation (mechanical) and setting of ventrillatory parameters. \n\n  7.   Lab blood value interpretation. \n\n  8.   Management of chest tubes and chest drainage systems. \n\n  9.   Chest x-ray interpretation. \n\n  10.   Urinary catheter insertion. \n\n  11.   Intravenous blood product administration. \n\n  12.   Doppler flow monitor use. \n\n  13.   Revoked:  O. Reg. 386/01, s. 4. \n\n  14.   Use of infusion pumps. \n\n  15.   Other advanced airway techniques, e.g. needle thoracostomy, cricothyroidotomy. O. Reg. 257/00, Sched. 3; O. Reg. 386/01, s. 4.    ",
+            "raw_html": "<p class=\"section-e\"><b>  24. </b>(1) In this section,</p> <p class=\"firstdef-e\">“response time” means the time measured from the time a request is received to the time a notice is given respecting that request.  O. Reg. 267/08, s. 1 (2).</p> <p class=\"subsection-e\"><b> </b>(2) No later than October 1 in each year after 2011, every land ambulance communication service shall establish a response time performance plan for the next calendar year that sets out the percentage of times that the communication service will give notice within two minutes of the time a request is received respecting sudden cardiac arrest patients or other patients categorized as CTAS 1.  O. Reg. 267/08, s. 1 (2); O. Reg. 368/10, s. 2 (1).</p> <p class=\"subsection-e\">  (3) A land ambulance communication service to which subsection (2) applies shall ensure that throughout the year the plan established under that subsection is continuously maintained, enforced and evaluated and, where necessary, updated, whether in whole or in part.  O. Reg. 267/08, s. 1 (2).</p> <p class=\"subsection-e\"><b> </b>(4) A land ambulance communication service to which subsection (2) applies shall provide the Director with a copy of the plan established under that subsection no later than October 31 in each year, and a copy of any plan updated, whether in whole or in part, under subsection (3) no later than one month after the plan has been updated.  O. Reg. 267/08, s. 1 (2).</p> <p class=\"subsection-e\">  (5) A land ambulance communication service to which subsection (2) applies shall report to the Director, as required from time to time by the Director and on forms or in a manner provided or determined by the Director, on any matter relating to, </p> <p class=\"clause-e\">  (a) the nature and scope of every plan established under that subsection or updated under subsection (3); and </p> <p class=\"clause-e\">  (b) the establishment, maintenance, enforcement, evaluation and updating of the plan.  O. Reg. 267/08, s. 1 (2).</p> <p class=\"subsection-e\"><b> </b>(6) Without limiting the generality of subsection (5), no later than March 31 in each year after 2013, a land ambulance communication service to which subsection (2) applies shall report to the Director the percentage of times in the preceding calendar year that the communication service gave notice within two minutes of the time a request was received respecting sudden cardiac arrest patients or other patients categorized as CTAS 1.  O. Reg. 267/08, s. 1 (2); O. Reg. 368/10, s. 2 (2).</p> <p class=\"schedule-e\"><a name=\"BK10\"></a>Schedule 1 <br/>  LIST OF CONTROLLED ACTS THAT MAY BE PERFORMED BY A PRIMARY CARE PARAMEDIC</p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\">\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">Item</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Controlled Acts</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">1.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Administration of glucagon, oral glucose, nitroglycerin, epinephrine, salbutamol and ASA (80mg form).</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">2.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Semi-automated external cardiac defibrillation.</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 257/00, Sched. 1.</p> <p class=\"schedule-e\"><a name=\"BK11\"></a>Schedule 2 <br/>  LIST OF CONTROLLED ACTS THAT MAY BE PERFORMED BY AN ADVANCED CARE PARAMEDIC OR, IF AUTHORIZED, A PRIMARY CARE PARAMEDIC</p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\">\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">Item</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Controlled Acts</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">1.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Administration of the drugs referred to in item 1 of Schedule 1, in addition to any other drug approved by the Director on the recommendation of one or more medical directors of base hospital programs.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">2.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Semi-automated external cardiac defibrillation.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">3.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Peripheral intravenous therapy.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">4.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Endotracheal intubation.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">5.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Non-automated external cardiac defibrillation and monitoring.</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 257/00, Sched. 2.</p> <p class=\"schedule-e\"><a name=\"BK12\"></a>Schedule 3 <br/>  LIST OF CONTROLLED ACTS THAT MAY BE PERFORMED BY A CRITICAL CARE PARAMEDIC OR, IF AUTHORIZED, AN ADVANCED CARE PARAMEDIC</p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\">\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">Item</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Controlled Acts</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">1.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Administration of any drug that an advanced care paramedic may administer under item 1 of Schedule 2, in addition to any other drug approved by the Director on the recommendation of one or more medical directors of base hospital programs.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">2.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">The controlled acts referred to in items 2 to 5 of Schedule 2.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">3.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Non-automated external cardiac defibrillation, electrical cardioversion and pacing.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">4.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Maintenance and monitoring of arterial and central venous catheters.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">5.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Gastric intubation and suction.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">6.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Ventilation (mechanical) and setting of ventrillatory parameters.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">7.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Lab blood value interpretation.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">8.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Management of chest tubes and chest drainage systems.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">9.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Chest x-ray interpretation.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">10.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Urinary catheter insertion.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">11.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Intravenous blood product administration.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">12.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Doppler flow monitor use.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">13.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\"><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 386/01, s. 4.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">14.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Use of infusion pumps.</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"39\"> <p class=\"table-e\">15.</p> </td> <td valign=\"top\" width=\"282\"> <p class=\"table-e\">Other advanced airway techniques, e.g. needle thoracostomy, cricothyroidotomy.</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 257/00, Sched. 3; O. Reg. 386/01, s. 4.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

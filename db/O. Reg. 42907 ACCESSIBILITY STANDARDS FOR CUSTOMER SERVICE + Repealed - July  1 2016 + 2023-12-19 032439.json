@@ -1,0 +1,194 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 429/07: ACCESSIBILITY STANDARDS FOR CUSTOMER SERVICE",
+        "reg_name_text": "accessibility standards for customer service",
+        "citation": "O. Reg. 429/07: ACCESSIBILITY STANDARDS FOR CUSTOMER SERVICE",
+        "act_under": "Accessibility for Ontarians with Disabilities Act, 2005",
+        "url": "https://www.ontario.ca/laws/regulation/070429",
+        "date_scraped": "2023-12-19 03:24:40"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/070429/v11",
+            "valid_from": "June  6, 2016",
+            "valid_to": "June 30, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/070429/v10",
+            "valid_from": "October  1, 2015",
+            "valid_to": "June  5, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/070429/v9",
+            "valid_from": "March 30, 2015",
+            "valid_to": "September 30, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/070429/v8",
+            "valid_from": "November  7, 2014",
+            "valid_to": "March 29, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/070429/v7",
+            "valid_from": "December 14, 2012",
+            "valid_to": "November  6, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/070429/v6",
+            "valid_from": "July  1, 2011",
+            "valid_to": "December 13, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/070429/v5",
+            "valid_from": "June  6, 2011",
+            "valid_to": "June 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/070429/v4",
+            "valid_from": "June  3, 2011",
+            "valid_to": "June  5, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/070429/v3",
+            "valid_from": "October 24, 2008",
+            "valid_to": "June  2, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/070429/v2",
+            "valid_from": "January  1, 2008",
+            "valid_to": "October 23, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/070429/v1",
+            "valid_from": "July 27, 2007",
+            "valid_to": "December 31, 2007"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "1.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Purpose and application",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "2.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Effective dates",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "3.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Establishment of policies, practices and procedures",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "4.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Use of service animals and support persons",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "5.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Notice of temporary disruptions",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "6.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Training for staff, etc.",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "7.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Feedback process for providers of goods or services",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "8.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Notice of availability of documents",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "9.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Format of documents",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "10.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Compliance",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "11.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Accessibility report",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "Schedule 1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Boards, commissions, authorities and agencies",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "Schedule 2",
+            "part_id": null,
+            "part_type": null,
+            "section": "Broader public sector",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

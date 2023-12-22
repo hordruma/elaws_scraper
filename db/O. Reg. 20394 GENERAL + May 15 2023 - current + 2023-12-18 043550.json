@@ -1,0 +1,756 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 203/94: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "O. Reg. 203/94: ",
+        "act_under": "Chiropody Act, 1991",
+        "url": "https://www.ontario.ca/laws/regulation/940203",
+        "date_scraped": "2023-12-18 04:35:51"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "May 15, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/940203/v5",
+            "valid_from": "October  8, 2020",
+            "valid_to": "May 14, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/940203/v4",
+            "valid_from": "April  7, 2015",
+            "valid_to": "October  7, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/940203/v3",
+            "valid_from": "September 26, 2008",
+            "valid_to": "April  6, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/940203/v2",
+            "valid_from": "August 15, 2006",
+            "valid_to": "September 25, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/940203/v1",
+            "valid_from": "April 27, 1999",
+            "valid_to": "August 14, 2006"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "PART I.1",
+            "Section": "None",
+            "Section1": "INJECTIONS, PRESCRIPTIONS AND STANDARDS OF PRACTICE",
+            "Section2": "1-4.2",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "PART II",
+            "Section": "None",
+            "Section1": "ADMINISTERING SUBSTANCES BY INHALATION AND STANDARDS OF PRACTICE",
+            "Section2": "5-6",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "PART III",
+            "Section": "None",
+            "Section1": "ADVERTISING",
+            "Section2": "7-12",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "PART V",
+            "Section": "None",
+            "Section1": "RECORDS",
+            "Section2": "13-20",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "PART VI",
+            "Section": "None",
+            "Section1": "QUALITY ASSURANCE",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "General",
+            "Section2": "25-27",
+            "part_id": "PART VI",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Self-Assessment and Continuing Education",
+            "Section2": "28-29",
+            "part_id": "PART VI",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Practice Assessment",
+            "Section2": "30",
+            "part_id": "PART VI",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Evaluation and Remediation",
+            "Section2": "31",
+            "part_id": "PART VI",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Assessment and Remediation of Behaviour or Remarks of a Sexual Nature",
+            "Section2": "32",
+            "part_id": "PART VI",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "PART VII",
+            "Section": "None",
+            "Section1": "NOTICE OF MEETINGS AND HEARINGS",
+            "Section2": "33-34",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "PART VIII",
+            "Section": "None",
+            "Section1": "COMMUNICATION AND PUBLICATION OF PANEL DECISIONS",
+            "Section2": "35-36",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "PART VIII",
+            "Section": "None",
+            "Section1": "SPOUSAL EXCEPTION",
+            "Section2": "37",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule 1",
+            "Section": "None",
+            "Section1": "Substances administered by injection into the foot",
+            "Section2": "None",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule 2",
+            "Section": "None",
+            "Section1": "Drugs that may be prescribed by a member (topical and oral)",
+            "Section2": "17",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule 3",
+            "Section": "None",
+            "Section1": "Drugs that may be prescribed by a member (anti-anxiety)",
+            "Section2": "None",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule 4",
+            "Section": "None",
+            "Section1": "Drugs that may be prescribed by a member (narcotics)",
+            "Section2": "None",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "None",
+            "part_id": "PART VIII",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. (1) For the purposes of paragraph 2 of subsection 5 (1) and paragraph 3 of subsection 5 (2) of the Act, a member may administer by injection into the foot a substance set out in Schedule 1 to this Regulation, if the member complies with the standards of practice set out in section 2.  O. Reg. 338/08, s. 1. (2) For the purposes of paragraph 3 of subsection 5 (1) and paragraph 4 of subsection 5 (2) of the Act, a member holding a general or academic class certificate of registration may prescribe a drug set out in Schedule 2 to this Regulation, if the member complies with the standards of practice set out in sections 3 and 4.2. O. Reg. 93/23, s. 1. (3) For the purposes of paragraph 3 of subsection 5 (1) and paragraph 4 of subsection 5 (2) of the Act, a member holding a general or academic class certificate of registration may prescribe a drug set out in Schedule 3 to this Regulation, if the member complies with the standards of practice set out in sections 4 and 4.2. O. Reg. 93/23, s. 1. (4) For the purposes of paragraph 3 of subsection 5 (1) and paragraph 4 of subsection 5 (2) of the Act, a member holding a general or academic class certificate of registration may prescribe a drug set out in Schedule 4 to this Regulation, if the member complies with the standards of practice set out in sections 4.1 and 4.2. O. Reg. 93/23, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) For the purposes of paragraph 2 of subsection 5 (1) and paragraph 3 of subsection 5 (2) of the Act, a member may administer by injection into the foot a substance set out in Schedule 1 to this Regulation, if the member complies with the standards of practice set out in section 2.  O. Reg. 338/08, s. 1.</p> <p class=\"subsection-e\">  (2) For the purposes of paragraph 3 of subsection 5 (1) and paragraph 4 of subsection 5 (2) of the Act, a member holding a general or academic class certificate of registration may prescribe a drug set out in Schedule 2 to this Regulation, if the member complies with the standards of practice set out in sections 3 and 4.2. O. Reg. 93/23, s. 1.</p> <p class=\"subsection-e\">  (3) For the purposes of paragraph 3 of subsection 5 (1) and paragraph 4 of subsection 5 (2) of the Act, a member holding a general or academic class certificate of registration may prescribe a drug set out in Schedule 3 to this Regulation, if the member complies with the standards of practice set out in sections 4 and 4.2. O. Reg. 93/23, s. 1.</p> <p class=\"subsection-e\">  (4) For the purposes of paragraph 3 of subsection 5 (1) and paragraph 4 of subsection 5 (2) of the Act, a member holding a general or academic class certificate of registration may prescribe a drug set out in Schedule 4 to this Regulation, if the member complies with the standards of practice set out in sections 4.1 and 4.2. O. Reg. 93/23, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. (1) Subject to the other provisions of this section, it is a standard of practice of the profession that a member who administers a substance by injection into the foot shall first have either, (a) satisfied the Registrar or the Registration Committee that the member has sufficient knowledge, skill and judgement, based on the member’s formal education and training, to safely and competently administer by injection into the foot the substances set out in Schedule 1; or (b) successfully completed a course approved by the Council on administering substances by injection into the foot. O. Reg. 93/23, s. 2. (2) A member is deemed to have met the standard of practice referred to in subsection (1) if the member was authorized immediately before May 15, 2023, to administer by injection into the foot a substance set out in Schedule 1 as that Schedule existed immediately before that date. O. Reg. 93/23, s. 2. (3) Despite subsection (1), a member holding an educational class certificate of registration may administer by injection into the foot a substance set out in Schedule 1, if, (a) the administration by injection is done as part of an educational program which is a specific requirement for the issuance of that educational class certificate of registration; and (b) the administration by injection is performed under the direct supervision of a member who is authorized under subsection 1 (1) to perform that administration by injection.  O. Reg. 338/08, s. 1. (4) Despite subsection (1), a member holding a general or academic class certificate of registration may administer by injection into the foot a substance set out in Schedule 1, if, (a) the administration by injection is done as part of a course, program or training approved by the Council; and (b) the administration by injection is performed under the direct supervision of a member who is authorized under subsection 1 (1) to perform that administration by injection.  O. Reg. 338/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) Subject to the other provisions of this section, it is a standard of practice of the profession that a member who administers a substance by injection into the foot shall first have either,</p> <p class=\"clause-e\">  (a) satisfied the Registrar or the Registration Committee that the member has sufficient knowledge, skill and judgement, based on the member’s formal education and training, to safely and competently administer by injection into the foot the substances set out in Schedule 1; or</p> <p class=\"clause-e\">  (b) successfully completed a course approved by the Council on administering substances by injection into the foot. O. Reg. 93/23, s. 2.</p> <p class=\"subsection-e\">  (2) A member is deemed to have met the standard of practice referred to in subsection (1) if the member was authorized immediately before May 15, 2023,<b> </b>to administer by injection into the foot a substance set out in Schedule 1 as that Schedule existed immediately before that date. O. Reg. 93/23, s. 2.</p> <p class=\"subsection-e\">  (3) Despite subsection (1), a member holding an educational class certificate of registration may administer by injection into the foot a substance set out in Schedule 1, if,</p> <p class=\"clause-e\">  (a) the administration by injection is done as part of an educational program which is a specific requirement for the issuance of that educational class certificate of registration; and</p> <p class=\"clause-e\">  (b) the administration by injection is performed under the direct supervision of a member who is authorized under subsection 1 (1) to perform that administration by injection.  O. Reg. 338/08, s. 1.</p> <p class=\"subsection-e\">  (4) Despite subsection (1), a member holding a general or academic class certificate of registration may administer by injection into the foot a substance set out in Schedule 1, if,</p> <p class=\"clause-e\">  (a) the administration by injection is done as part of a course, program or training approved by the Council; and</p> <p class=\"clause-e\">  (b) the administration by injection is performed under the direct supervision of a member who is authorized under subsection 1 (1)<b> </b>to perform that administration by injection.  O. Reg. 338/08, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  3. (1) Subject to the other provisions of this section, it is a standard of practice of the profession that a member who prescribes a drug set out in Schedule 2 shall first have either, (a) satisfied the Registrar or the Registration Committee that the member has sufficient knowledge, skill and judgement, based on the member’s formal education and training, to safely and competently prescribe the drugs set out in Schedule 2; or (b) successfully completed a course approved by the Council on prescribing the drugs set out in Schedule 2. O. Reg. 93/23, s. 3. (2) A member is deemed to have met the standard of practice referred to in subsection (1) if the member was authorized immediately before May 15, 2023, to prescribe drugs set out in either Schedule 2 or Schedule 3 as those Schedules existed immediately before that date. O. Reg. 93/23, s. 3.",
+            "raw_html": "<p class=\"section-e\"><b>  3. </b>(1) Subject to the other provisions of this section, it is a standard of practice of the profession that a member who prescribes a drug set out in Schedule 2 shall first have either,</p> <p class=\"clause-e\">  (a) satisfied the Registrar or the Registration Committee that the member has sufficient knowledge, skill and judgement, based on the member’s formal education and training, to safely and competently prescribe the drugs set out in Schedule 2; or</p> <p class=\"clause-e\">  (b) successfully completed a course approved by the Council on prescribing the drugs set out in Schedule 2. O. Reg. 93/23, s. 3.</p> <p class=\"subsection-e\">  (2) A member is deemed to have met the standard of practice referred to in subsection (1) if the member was authorized immediately before May 15, 2023,<b> </b>to prescribe drugs set out in either Schedule 2 or Schedule 3 as those Schedules existed immediately before that date. O. Reg. 93/23, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. (1) Subject to the other provisions of this section, it is a standard of practice of the profession that a member who prescribes a drug set out in Schedule 3 shall first have either, (a) satisfied the Registrar or the Registration Committee that the member has sufficient knowledge, skill and judgement, based on the member’s formal education and training, to safely and competently prescribe the drugs set out in Schedule 3; or (b) successfully completed a course approved by the Council on prescribing the drugs set out in Schedule 3. O. Reg. 93/23, s. 3. (2) A member is deemed to have met the standard of practice referred to in subsection (1) if the member was authorized immediately before May 15, 2023, to prescribe drugs set out in Schedule 3 as that Schedule existed immediately before that date. O. Reg. 93/23, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) Subject to the other provisions of this section, it is a standard of practice of the profession that a member who prescribes a drug set out in Schedule 3 shall first have either,</p> <p class=\"clause-e\">  (a) satisfied the Registrar or the Registration Committee that the member has sufficient knowledge, skill and judgement, based on the member’s formal education and training, to safely and competently prescribe the drugs set out in Schedule 3; or</p> <p class=\"clause-e\">  (b) successfully completed a course approved by the Council on prescribing the drugs set out in Schedule 3. O. Reg. 93/23, s. 3.</p> <p class=\"subsection-e\">  (2) A member is deemed to have met the standard of practice referred to in subsection (1) if the member was authorized immediately before May 15, 2023, to prescribe drugs set out in Schedule 3 as that Schedule existed immediately before that date. O. Reg. 93/23, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#4.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4.1 It is a standard of practice of the profession that a member who prescribes a drug set out in Schedule 4 shall first have either, (a) satisfied the Registrar or the Registration Committee that the member has sufficient knowledge, skill and judgement, based on the member’s formal education and training, to safely and competently prescribe the drugs set out in Schedule 4; or (b) successfully completed a course approved by the Council on prescribing the drugs set out in Schedule 4. O. Reg. 93/23, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>4.1 </b>It is a standard of practice of the profession that a member who prescribes a drug set out in Schedule 4 shall first have either,</p> <p class=\"clause-e\">  (a) satisfied the Registrar or the Registration Committee that the member has sufficient knowledge, skill and judgement, based on the member’s formal education and training, to safely and competently prescribe the drugs set out in Schedule 4; or</p> <p class=\"clause-e\">  (b) successfully completed a course approved by the Council on prescribing the drugs set out in Schedule 4. O. Reg. 93/23, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#4.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4.2 (1) It is a standard of practice of the profession that a member who may prescribe a drug set out in Schedule 2, 3 or 4 shall do so only in accordance with the parameters, if any, set out in the Schedule, except that a member may prescribe in excess of a parameter exceeding maximum duration or maximum daily dosage if the standard of practice set out in subsection (2) is complied with. O. Reg. 93/23, s. 3. (2) It is a standard of practice of the profession that a member who prescribes a drug in a prescription that exceeds the maximum duration or the maximum daily dosage set out in Schedule 2, 3 or 4 shall first consult with the patient’s regulated primary healthcare practitioner. O. Reg. 93/23, s. 3. (3) Where subsection (2) applies, it is a standard of practice of the profession that the member shall record in the patient health record the fact of the consultation with the patient’s regulated primary healthcare practitioner. O. Reg. 93/23, s. 3. Part i.1   ADMINISTERING SUBSTANCES BY INHALATION and STANDARDS OF PRACTICE",
+            "raw_html": "<p class=\"section-e\"> <b>4.2 </b>(1) It is a standard of practice of the profession that a member who may prescribe a drug set out in Schedule 2, 3 or 4 shall do so only in accordance with the parameters, if any, set out in the Schedule, except that a member may prescribe in excess of a parameter exceeding maximum duration or maximum daily dosage if the standard of practice set out in subsection (2) is complied with. O. Reg. 93/23, s. 3.</p> <p class=\"subsection-e\">  (2) It is a standard of practice of the profession that a member who prescribes a drug in a prescription that exceeds the maximum duration or the maximum daily dosage set out in Schedule 2, 3 or 4 shall first consult with the patient’s regulated primary healthcare practitioner. O. Reg. 93/23, s. 3.</p> <p class=\"subsection-e\">  (3) Where subsection (2) applies, it is a standard of practice of the profession that the member shall record in the patient health record the fact of the consultation with the patient’s regulated primary healthcare practitioner. O. Reg. 93/23, s. 3.</p> <p class=\"partnum-e\"><a name=\"BK1\"></a>Part i.1 <br/>  ADMINISTERING SUBSTANCES BY INHALATION and STANDARDS OF PRACTICE</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) For the purposes of paragraph 4 of subsection 5 (1) and paragraph 5 of subsection 5 (2) of the Act, a member who complies with the standards of practice provided for in this section is authorized to administer the following designated substances to a patient by inhalation: 1. A gas mixture of up to 50 per cent nitrous oxide, with the balance of the mixture being oxygen. 2. Therapeutic oxygen. O. Reg. 72/15, s. 1. (2) A member shall only administer a designated substance described in paragraph 1 or 2 of subsection (1) if he or she complies with the following standards of practice: 1. The member shall only administer the designated substance to a patient for the purposes of, i. pain management during the performance of a procedure, or ii. controlling anxiety before or during the performance of a procedure. 2. The member must have, i. successfully completed a program approved by Council that includes a didactic and a clinical training component provided under the supervision of, A. a member of the College of Physicians and Surgeons of Ontario who is recognized by that College as a specialist in anaesthesia, B. a member of the Royal College of Dental Surgeons of Ontario who holds a specialty certificate of registration in dental anaesthesia, or C. any other person who is approved by Council, or ii. satisfied the Registration Committee that, A. the member’s education in chiropody or podiatry included a program equivalent to the program referred to in subparagraph i that was completed not more than five years before the day this Part came into force, or B. the member has safely administered the designated substance by inhalation to patients as part of his or her practice during the five-year period before the day this Part came into force. O. Reg. 72/15, s. 1. (3) Despite anything in this section, a member may administer therapeutic oxygen by inhalation to a patient in an emergency. O. Reg. 72/15, s. 1. (4) Despite anything in this section, a member may administer a designated substance described in paragraph 1 or 2 of subsection (1) to a patient by inhalation if the member does so, (a) as part of a program described in subparagraph 2 i of subsection (2); and (b) while under the direct supervision of a member of the College of Physicians and Surgeons of Ontario who is recognized by the College to be a specialist in anaesthesia, a member of the Royal College of Dental Surgeons of Ontario holding a specialty certificate in dental anaesthesia, or any other person approved by Council. O. Reg. 72/15, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) For the purposes of paragraph 4 of subsection 5 (1) and paragraph 5 of subsection 5 (2) of the Act, a member who complies with the standards of practice provided for in this section is authorized to administer the following designated substances to a patient by inhalation:</p> <p class=\"paragraph-e\">  1. A gas mixture of up to 50 per cent nitrous oxide, with the balance of the mixture being oxygen.</p> <p class=\"paragraph-e\">  2. Therapeutic oxygen. O. Reg. 72/15, s. 1.</p> <p class=\"subsection-e\">  (2) A member shall only administer a designated substance described in paragraph 1 or 2 of subsection (1) if he or she complies with the following standards of practice:</p> <p class=\"paragraph-e\">  1. The member shall only administer the designated substance to a patient for the purposes of,</p> <p class=\"subpara-e\">  i. pain management during the performance of a procedure, or</p> <p class=\"subpara-e\">  ii. controlling anxiety before or during the performance of a procedure.</p> <p class=\"paragraph-e\">  2. The member must have,</p> <p class=\"subpara-e\">  i. successfully completed a program approved by Council that includes a didactic and a clinical training component provided under the supervision of,</p> <p class=\"subsubpara-e\">  A. a member of the College of Physicians and Surgeons of Ontario who is recognized by that College as a specialist in anaesthesia,</p> <p class=\"subsubpara-e\">  B. a member of the Royal College of Dental Surgeons of Ontario who holds a specialty certificate of registration in dental anaesthesia, or</p> <p class=\"subsubpara-e\">  C. any other person who is approved by Council, or</p> <p class=\"subpara-e\">  ii. satisfied the Registration Committee that,</p> <p class=\"subsubpara-e\">  A. the member’s education in chiropody or podiatry included a program equivalent to the program referred to in subparagraph i that was completed not more than five years before the day this Part came into force, or</p> <p class=\"subsubpara-e\">  B. the member has safely administered the designated substance by inhalation to patients as part of his or her practice during the five-year period before the day this Part came into force. O. Reg. 72/15, s. 1.</p> <p class=\"subsection-e\">  (3) Despite anything in this section, a member may administer therapeutic oxygen by inhalation to a patient in an emergency. O. Reg. 72/15, s. 1.</p> <p class=\"subsection-e\">  (4) Despite anything in this section, a member may administer a designated substance described in paragraph 1 or 2 of subsection (1) to a patient by inhalation if the member does so,</p> <p class=\"clause-e\">  (a) as part of a program described in subparagraph 2 i of subsection (2); and</p> <p class=\"clause-e\">  (b) while under the direct supervision of a member of the College of Physicians and Surgeons of Ontario who is recognized by the College to be a specialist in anaesthesia, a member of the Royal College of Dental Surgeons of Ontario holding a specialty certificate in dental anaesthesia, or any other person approved by Council. O. Reg. 72/15, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. Revoked: O. Reg. 384/06, s. 1. PART II   ADVERTISING",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 384/06, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK2\"></a>PART II <br/>  ADVERTISING</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  7. (1) An advertisement with respect to a member’s practice must not contain, (a) anything that is false, misleading or self laudatory; (b) anything that, because of its nature, cannot be verified; (c) an endorsement other than an endorsement by an organization that is known to have expertise relevant to the subject-matter of the endorsement; (d) any testimonial; (e) a reference to a drug or to a particular brand of equipment used to provide health services; (f) a claim or guarantee as to the quality or effectiveness of services provided; (g) anything that promotes or is likely to promote the excessive or unnecessary use of services.  O. Reg. 746/94, s. 2. (2) An advertisement must be readily comprehensible to the persons to whom it is directed.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  7. </b>(1) An advertisement with respect to a member’s practice must not contain,</p> <p class=\"clause-e\">  (a) anything that is false, misleading or self laudatory;</p> <p class=\"clause-e\">  (b) anything that, because of its nature, cannot be verified;</p> <p class=\"clause-e\">  (c) an endorsement other than an endorsement by an organization that is known to have expertise relevant to the subject-matter of the endorsement;</p> <p class=\"clause-e\">  (d) any testimonial;</p> <p class=\"clause-e\">  (e) a reference to a drug or to a particular brand of equipment used to provide health services;</p> <p class=\"clause-e\">  (f) a claim or guarantee as to the quality or effectiveness of services provided;</p> <p class=\"clause-e\">  (g) anything that promotes or is likely to promote the excessive or unnecessary use of services.  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (2) An advertisement must be readily comprehensible to the persons to whom it is directed.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. (1) In any advertisement, a member who is registered as a chiropodist shall clearly identify himself or herself as a chiropodist and a member who is registered as a podiatrist shall clearly identify himself or herself as a podiatrist.  O. Reg. 746/94, s. 2. (2) No member shall hold himself or herself out, (a) as a chiropodist unless the member is registered as a chiropodist; or (b) as a podiatrist unless the member is registered as a podiatrist.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>(1) In any advertisement, a member who is registered as a chiropodist shall clearly identify himself or herself as a chiropodist and a member who is registered as a podiatrist shall clearly identify himself or herself as a podiatrist.  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (2) No member shall hold himself or herself out,</p> <p class=\"clause-e\">  (a) as a chiropodist unless the member is registered as a chiropodist; or</p> <p class=\"clause-e\">  (b) as a podiatrist unless the member is registered as a podiatrist.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  9. No member shall indicate after his or her name, (a) a diploma or degree other than a diploma or degree held by the member; and (b) the word “chiropodist” if the member is not registered as a chiropodist or the word “podiatrist” if the member is not registered as a podiatrist.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  9. </b>No member shall indicate after his or her name,</p> <p class=\"clause-e\">  (a) a diploma or degree other than a diploma or degree held by the member; and</p> <p class=\"clause-e\">  (b) the word “chiropodist” if the member is not registered as a chiropodist or the word “podiatrist” if the member is not registered as a podiatrist.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10. A member shall not contact or communicate individually with, or cause or allow any person to contact or communicate individually with, a potential patient either in person, by telephone, by mail or by any other means of individualized communication, in an attempt to solicit business.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  10. </b>A member shall not contact or communicate individually with, or cause or allow any person to contact or communicate individually with, a potential patient either in person, by telephone, by mail or by any other means of individualized communication, in an attempt to solicit business.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  11. No member shall appear in, or permit the use of the member’s name in, an advertisement that is for a purpose other than the promotion of the member’s own practice if the advertisement implies, or could be reasonably interpreted to imply, that the professional expertise of the member is relevant to the subject-matter of the advertisement.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  11. </b>No member shall appear in, or permit the use of the member’s name in, an advertisement that is for a purpose other than the promotion of the member’s own practice if the advertisement implies, or could be reasonably interpreted to imply, that the professional expertise of the member is relevant to the subject-matter of the advertisement.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  12. A member shall not advertise or permit advertising with respect to the member’s practice in contravention of this Part.  O. Reg. 746/94, s. 2. PART III   RECORDS",
+            "raw_html": "<p class=\"section-e\"><b>  12. </b>A member shall not advertise or permit advertising with respect to the member’s practice in contravention of this Part.  O. Reg. 746/94, s. 2.</p> <p class=\"partnum-e\"><a name=\"BK3\"></a>PART III <br/>  RECORDS</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  13. (1) A member shall, in relation to his or her practice, take all reasonable steps necessary to ensure that records are kept in accordance with this Part.  O. Reg. 746/94, s. 2. (2) Reasonable steps under subsection (1) shall include the verification by the member, at reasonable intervals, that the records are kept in accordance with this Part.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  13. </b>(1) A member shall, in relation to his or her practice, take all reasonable steps necessary to ensure that records are kept in accordance with this Part.  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (2) Reasonable steps under subsection (1) shall include the verification by the member, at reasonable intervals, that the records are kept in accordance with this Part.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. A daily appointment record shall be kept that sets out the name of each patient whom the member examines or treats or to whom the member renders any service.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b>A daily appointment record shall be kept that sets out the name of each patient whom the member examines or treats or to whom the member renders any service.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  15. An equipment service record shall be kept that sets out the servicing for every potentially hazardous piece of equipment used to examine, treat or render any service to patients.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  15. </b>An equipment service record shall be kept that sets out the servicing for every potentially hazardous piece of equipment used to examine, treat or render any service to patients.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  16. (1) If a patient is charged a fee, a financial record shall be kept for the patient.  O. Reg. 746/94, s. 2. (2) The financial record must contain, (a) the patient’s name and address; (b) the date the service was rendered; and (c) the fees charged to and received from or on behalf of the patient.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  16. </b>(1) If a patient is charged a fee, a financial record shall be kept for the patient.  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (2) The financial record must contain,</p> <p class=\"clause-e\">  (a) the patient’s name and address;</p> <p class=\"clause-e\">  (b) the date the service was rendered; and</p> <p class=\"clause-e\">  (c) the fees charged to and received from or on behalf of the patient.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  17. (1) A patient health record shall be kept for each patient.  O. Reg. 746/94, s. 2. (2) The patient health record must include the following: 1. The patient’s name and address. 2. The date of each of the patient’s visits to the member. 3. The name and address of the primary care physician and any referring health professional. 4. A history of the patient. 5. Reasonable information about every examination performed by the member and reasonable information about every clinical finding, diagnosis and assessment made by the member. 6. Reasonable information about every order made by the member for examinations, tests, consultations or treatments to be performed by any other person. 7. Every written report received by the member with respect to examinations, tests, consultations or treatments performed by other health professionals. 8. Reasonable information about all significant advice given by the member and every pre and post-operative instruction given by the member. 9. Reasonable information about every post-operative visit. 10. Reasonable information about every controlled act, within the meaning of subsection 27 (2) of the Regulated Health Professions Act, 1991, performed by the member. 11. Reasonable information about every delegation of a controlled act within the meaning of subsection 27 (2) of the Regulated Health Professions Act, 1991, delegated by the member. 12. Reasonable information about every referral of the patient by the member to another health professional, service or agency. 13. Any pertinent reasons a patient may give for cancelling an appointment. 14. Reasonable information about every procedure that was commenced but not completed, including reasons for the non-completion. 15. A copy of every written consent.  O. Reg. 746/94, s. 2. (3) Every part of a patient health record must have a reference identifying the patient or the patient health record.  O. Reg. 746/94, s. 2. (4) The member shall be personally responsible for all things recorded in relation to a patient, including all treatments, orders, advice and referrals and the member responsible and the author of the record should both be identified in the record.  O. Reg. 746/94, s. 2. (5) Every patient health record shall be retained for at least 10 years following, (a) the patient’s last visit; or (b) if the patient was less than 18 years old at the time of his or her last visit, the day the patient became or would have become 18 years old.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  17. </b>(1) A patient health record shall be kept for each patient.  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (2) The patient health record must include the following:</p> <p class=\"paragraph-e\">  1. The patient’s name and address.</p> <p class=\"paragraph-e\">  2. The date of each of the patient’s visits to the member.</p> <p class=\"paragraph-e\">  3. The name and address of the primary care physician and any referring health professional.</p> <p class=\"paragraph-e\">  4. A history of the patient.</p> <p class=\"paragraph-e\">  5. Reasonable information about every examination performed by the member and reasonable information about every clinical finding, diagnosis and assessment made by the member.</p> <p class=\"paragraph-e\">  6. Reasonable information about every order made by the member for examinations, tests, consultations or treatments to be performed by any other person.</p> <p class=\"paragraph-e\">  7. Every written report received by the member with respect to examinations, tests, consultations or treatments performed by other health professionals.</p> <p class=\"paragraph-e\">  8. Reasonable information about all significant advice given by the member and every pre and post-operative instruction given by the member.</p> <p class=\"paragraph-e\">  9. Reasonable information about every post-operative visit.</p> <p class=\"paragraph-e\">  10. Reasonable information about every controlled act, within the meaning of subsection 27 (2) of the <i>Regulated Health Professions Act, 1991</i>, performed by the member.</p> <p class=\"paragraph-e\">  11. Reasonable information about every delegation of a controlled act within the meaning of subsection 27 (2) of the <i>Regulated Health Professions Act, 1991</i>, delegated by the member.</p> <p class=\"paragraph-e\">  12. Reasonable information about every referral of the patient by the member to another health professional, service or agency.</p> <p class=\"paragraph-e\">  13. Any pertinent reasons a patient may give for cancelling an appointment.</p> <p class=\"paragraph-e\">  14. Reasonable information about every procedure that was commenced but not completed, including reasons for the non-completion.</p> <p class=\"paragraph-e\">  15. A copy of every written consent.  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (3) Every part of a patient health record must have a reference identifying the patient or the patient health record.  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (4) The member shall be personally responsible for all things recorded in relation to a patient, including all treatments, orders, advice and referrals and the member responsible and the author of the record should both be identified in the record.  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (5) Every patient health record shall be retained for at least 10 years following,</p> <p class=\"clause-e\">  (a) the patient’s last visit; or</p> <p class=\"clause-e\">  (b) if the patient was less than 18 years old at the time of his or her last visit, the day the patient became or would have become 18 years old.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  18. (1) It is an act of professional misconduct for the purpose of clause 51 (1) (c) of the Health Professions Procedural Code if a member fails to provide access to or copies from a patient health record for which the member has primary responsibility as required by this section.  O. Reg. 746/94, s. 2. (2) A member shall, within a reasonable time, provide access to a patient health record and a copy of a patient health record to the patient or the patient’s authorized representative upon their request. O. Reg. 93/23, s. 4 (1). (3) It is not an act of professional misconduct under subsection (2) for a member to refuse to provide copies from a patient health record until the member is paid a reasonable fee.  O. Reg. 746/94, s. 2; O. Reg. 93/23, s. 4 (2). (4) A member may provide copies from a patient health record for which the member has primary responsibility to any person authorized by a person to whom the member is required to provide copies under subsection (2).  O. Reg. 746/94, s. 2. (5) A member may, for the purpose of providing health care or assisting in the provision of health care to a patient, allow a health care professional to examine the patient health record or give a health professional any information, copy or thing from the record.  O. Reg. 746/94, s. 2. (6) A member may provide information or copies from a patient health record to a person if, (a) the information or copies are to be used for health administration or planning or health research or epidemiological studies; (b) the use of the information or copies is in the public interest as determined by the Minister; and (c) anything that could identify the patient is removed from the information or copies.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  18. </b>(1) It is an act of professional misconduct for the purpose of clause 51 (1) (c) of the Health Professions Procedural Code if a member fails to provide access to or copies from a patient health record for which the member has primary responsibility as required by this section.  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (2) A member shall, within a reasonable time, provide access to a patient health record and a copy of a patient health record to the patient or the patient’s authorized representative upon their request. O. Reg. 93/23, s. 4 (1).</p> <p class=\"subsection-e\">  (3) It is not an act of professional misconduct under subsection (2) for a member to refuse to provide copies from a patient health record until the member is paid a reasonable fee.  O. Reg. 746/94, s. 2; O. Reg. 93/23, s. 4 (2).</p> <p class=\"subsection-e\">  (4) A member may provide copies from a patient health record for which the member has primary responsibility to any person authorized by a person to whom the member is required to provide copies under subsection (2).  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (5) A member may, for the purpose of providing health care or assisting in the provision of health care to a patient, allow a health care professional to examine the patient health record or give a health professional any information, copy or thing from the record.  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (6) A member may provide information or copies from a patient health record to a person if,</p> <p class=\"clause-e\">  (a) the information or copies are to be used for health administration or planning or health research or epidemiological studies;</p> <p class=\"clause-e\">  (b) the use of the information or copies is in the public interest as determined by the Minister; and</p> <p class=\"clause-e\">  (c) anything that could identify the patient is removed from the information or copies.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  19. (1) A record required to be kept under this Part may be kept by means of an electronic or optical storage system.  O. Reg. 746/94, s. 2. (2) The electronic or optical storage system referred to in subsection (1) shall be designed and operated so as to ensure that all reports are secure from loss, tampering, interference or unauthorized use or access.  O. Reg. 746/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>  19. </b>(1) A record required to be kept under this Part may be kept by means of an electronic or optical storage system.  O. Reg. 746/94, s. 2.</p> <p class=\"subsection-e\">  (2) The electronic or optical storage system referred to in subsection (1) shall be designed and operated so as to ensure that all reports are secure from loss, tampering, interference or unauthorized use or access.  O. Reg. 746/94, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. It is an act of professional misconduct for the purpose of clause 51 (1) (c) of the Health Professions Procedural Code for a member to fail to take reasonable steps, before resigning as a member or ceasing to reside in Ontario, to ensure that for each patient health record for which the member has primary responsibility, (a) the record is transferred to another member; or (b) the patient is notified that the member intends to resign and that the patient can obtain copies from the patient health record.  O. Reg. 746/94, s. 2. Part iv (ss. 21-24) Revoked:  O. Reg. 248/99, s. 1. PART V   QUALITY ASSURANCE General",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>It is an act of professional misconduct for the purpose of clause 51 (1) (c) of the Health Professions Procedural Code for a member to fail to take reasonable steps, before resigning as a member or ceasing to reside in Ontario, to ensure that for each patient health record for which the member has primary responsibility,</p> <p class=\"clause-e\">  (a) the record is transferred to another member; or</p> <p class=\"clause-e\">  (b) the patient is notified that the member intends to resign and that the patient can obtain copies from the patient health record.  O. Reg. 746/94, s. 2.</p> <p class=\"partnumRevoked-e\"><span class=\"ovboldallcaps\">Part iv </span>(ss. 21-24) <span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 248/99, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK4\"></a>PART V <br/>  QUALITY ASSURANCE</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>General</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. In this Part, “assessor” means an assessor appointed under section 81 of the Health Professions Procedural Code; (“évaluateur”) “Committee” means the Quality Assurance Committee; (“comité”) “evaluation” means a program designed to evaluate the member’s knowledge, skills and judgment; (“évaluation”) “practice assessment” means an assessment of a member’s care of patients, the member’s records of the care of patients or the premises where the member practises. (“évaluation des activités professionnelles”) O. Reg. 183/99, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>25. </b>In this Part,</p> <p class=\"firstdef-e\">“assessor” means an assessor appointed under section 81 of the Health Professions Procedural Code; (“évaluateur”)</p> <p class=\"definition-e\">“Committee” means the Quality Assurance Committee; (“comité”)</p> <p class=\"definition-e\">“evaluation” means a program designed to evaluate the member’s knowledge, skills and judgment; (“évaluation”)</p> <p class=\"definition-e\">“practice assessment” means an assessment of a member’s care of patients, the member’s records of the care of patients or the premises where the member practises. (“évaluation des activités professionnelles”) O. Reg. 183/99, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. (1) The Committee shall administer the quality assurance program, which shall include the following components: 1. Self-assessment and continuing education. 2.   Practice assessment. 3. Evaluation and remediation. 4. Assessment and remediation of behaviour and remarks of a sexual nature.  O. Reg. 183/99, s. 1. (2) Every member shall comply with the requirements of the quality assurance program that apply to him or her.  O. Reg. 183/99, s. 1. (3) The self-assessment and continuing education component,  the practice assessment component and the evaluation and remediation component apply only to members who hold a general certificate of registration.  O. Reg. 183/99, s. 1. (4) The remediation component referred to in paragraph 4 of subsection (1) applies to all members.  O. Reg. 183/99, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b>(1) The Committee shall administer the quality assurance program, which shall include the following components:</p> <p class=\"paragraph-e\">  1. Self-assessment and continuing education.</p> <p class=\"paragraph-e\">  2.   Practice assessment.</p> <p class=\"paragraph-e\">  3. Evaluation and remediation.</p> <p class=\"paragraph-e\">  4. Assessment and remediation of behaviour and remarks of a sexual nature.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (2) Every member shall comply with the requirements of the quality assurance program that apply to him or her.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (3) The self-assessment and continuing education component,  the practice assessment component and the evaluation and remediation component apply only to members who hold a general certificate of registration.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (4) The remediation component referred to in paragraph 4 of subsection (1) applies to all members.  O. Reg. 183/99, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#27.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27. (1) A panel of the Committee shall be composed of at least three members of the Committee selected by the chair, at least one of whom shall be a person appointed to the Council by the Lieutenant Governor in Council.  O. Reg. 183/99, s. 1. (2) If a member of the panel becomes ill or is otherwise unable to continue as a member of the panel, (a) the remaining members may continue to act as if the panel were fully constituted; or (b) the chair may appoint another member to replace the member who is unable to act.  O. Reg. 183/99, s. 1. (3) A panel of the Committee may act on behalf of the Committee with respect to any matter that arises under this Part.  O. Reg. 183/99, s. 1. Self-Assessment and Continuing Education",
+            "raw_html": "<p class=\"section-e\"> <b>27. </b>(1) A panel of the Committee shall be composed of at least three members of the Committee selected by the chair, at least one of whom shall be a person appointed to the Council by the Lieutenant Governor in Council.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (2) If a member of the panel becomes ill or is otherwise unable to continue as a member of the panel,</p> <p class=\"clause-e\">  (a) the remaining members may continue to act as if the panel were fully constituted; or</p> <p class=\"clause-e\">  (b) the chair may appoint another member to replace the member who is unable to act.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (3) A panel of the Committee may act on behalf of the Committee with respect to any matter that arises under this Part.  O. Reg. 183/99, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Self-Assessment and Continuing Education</p>"
+        },
+        {
+            "ahref_id": "#28.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 28. (1) The self-assessment and continuing education requirements shall be set out in the quality assurance policy that is approved by Council and published and distributed to the members.  O. Reg. 183/99, s. 1.  (2) On being registered or on being reinstated, the member becomes subject to, and shall comply with, the self-assessment and continuing education requirements set out in the policy referred to in subsection (1).  O. Reg. 183/99, s. 1. (3) If a member is registered or reinstated at any time after the beginning of a continuing education cycle, the number of continuing education credits that the member is required to obtain during the cycle is prorated to the time remaining in the cycle at the time of the registration or reinstatement.  O. Reg. 183/99, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>28. </b>(1) The self-assessment and continuing education requirements shall be set out in the quality assurance policy that is approved by Council and published and distributed to the members.  O. Reg. 183/99, s. 1. </p> <p class=\"subsection-e\">  (2) On being registered or on being reinstated, the member becomes subject to, and shall comply with, the self-assessment and continuing education requirements set out in the policy referred to in subsection (1).  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (3) If a member is registered or reinstated at any time after the beginning of a continuing education cycle, the number of continuing education credits that the member is required to obtain during the cycle is prorated to the time remaining in the cycle at the time of the registration or reinstatement.  O. Reg. 183/99, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#29.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 29. (1) A member shall maintain a record of his or her self-assessments and continuing education activities and submit them to the College upon request.  O. Reg. 183/99, s. 1. (2) If a member fails to submit the records referred to in subsection (1) when requested to do so, the Registrar shall refer the matter to the Committee and notify the member in writing that this has been done and that the member may make written submissions to the Committee within 30 days after receiving the notice.  O. Reg. 183/99, s. 1. (3) After considering the member’s written submissions, if any, the Committee may, (a) grant the member an extension for a specified period of time during which the member shall submit the records; (b) require the member to undergo a practice assessment by an assessor in accordance with section 30.  O. Reg. 183/99, s. 1. (4) If the member submits the records but fails to meet the self-assessment and continuing education requirements set out in the quality assurance policy approved by Council, the Registrar shall refer the matter to the Committee and notify the member in writing that this has been done and that the member may make written submissions to the Committee within 30 days after receiving the notice.  O. Reg. 183/99, s. 1. (5) After considering the member’s written submissions, if any, the Committee may, (a) grant the member an extension for a specified period of time during which the member shall comply with the requirements; (b) grant the member an exemption from some or all of the requirements; or (c) require the member to undergo a practice assessment by an assessor in accordance with section 30.  O. Reg. 183/99, s. 1. (6) If an extension granted under clause (3) (a) or (5) (a) elapses without the member having provided satisfactory evidence of having satisfied the requirements, the Committee may require the member to undergo a practice assessment by an assessor in accordance with section 30.  O. Reg. 183/99, s. 1. (7) The Committee may appoint one or more assessors to perform one or more of the following: 1. Monitor participation in and compliance with the self-assessment and continuing education requirements. 2. Conduct a practice assessment under section 30. 3. Conduct an evaluation under section 31.  O. Reg. 183/99, s. 1. Practice Assessment",
+            "raw_html": "<p class=\"section-e\"> <b>29. </b>(1) A member shall maintain a record of his or her self-assessments and continuing education activities and submit them to the College upon request.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (2) If a member fails to submit the records referred to in subsection (1) when requested to do so, the Registrar shall refer the matter to the Committee and notify the member in writing that this has been done and that the member may make written submissions to the Committee within 30 days after receiving the notice.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (3) After considering the member’s written submissions, if any, the Committee may,</p> <p class=\"clause-e\">  (a) grant the member an extension for a specified period of time during which the member shall submit the records;</p> <p class=\"clause-e\">  (b) require the member to undergo a practice assessment by an assessor in accordance with section 30.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (4) If the member submits the records but fails to meet the self-assessment and continuing education requirements set out in the quality assurance policy approved by Council, the Registrar shall refer the matter to the Committee and notify the member in writing that this has been done and that the member may make written submissions to the Committee within 30 days after receiving the notice.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (5) After considering the member’s written submissions, if any, the Committee may,</p> <p class=\"clause-e\">  (a) grant the member an extension for a specified period of time during which the member shall comply with the requirements;</p> <p class=\"clause-e\">  (b) grant the member an exemption from some or all of the requirements; or</p> <p class=\"clause-e\">  (c) require the member to undergo a practice assessment by an assessor in accordance with section 30.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (6) If an extension granted under clause (3) (a) or (5) (a) elapses without the member having provided satisfactory evidence of having satisfied the requirements, the Committee may require the member to undergo a practice assessment by an assessor in accordance with section 30.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (7) The Committee may appoint one or more assessors to perform one or more of the following:</p> <p class=\"paragraph-e\">  1. Monitor participation in and compliance with the self-assessment and continuing education requirements.</p> <p class=\"paragraph-e\">  2. Conduct a practice assessment under section 30.</p> <p class=\"paragraph-e\">  3. Conduct an evaluation under section 31.  O. Reg. 183/99, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Practice Assessment</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. (1) A member is required to undergo a practice assessment under this section if, (a) the member is selected at random under subsection (2); (b) the member has been referred to the Committee by the Executive Committee, the Discipline Committee or the Complaints Committee; or (c) the member has been referred under clause 29 (3) (b) or (5) (c), or under subsection 29 (6).  O. Reg. 183/99, s. 1. (2) The College shall select at random the names of holders of general certificates required to undergo a practice assessment.  O. Reg. 183/99, s. 1. (3) A practice assessment shall be conducted by an assessor, who shall prepare a written report on his or her findings and submit it to the Committee.  O. Reg. 183/99, s. 1. (4) The Committee shall provide the member with a copy of the assessor’s report.  O. Reg. 183/99, s. 1. (5) The member shall have at least 14 days to make written submissions in response to the report.  O. Reg. 183/99, s. 1. (6) After considering the assessor’s findings and the submissions of the member, if any, the Committee may do one or both of the following if the report identifies deficiencies in the member’s practice: 1. Recommend to the member ways in which the deficiencies may be corrected. 2. Require the member to undergo an evaluation.  O. Reg. 183/99, s. 1. (7) If the Committee takes action under paragraph 1 of subsection (6), the Committee may require a reassessment of the member’s practice, and subsections (3), (4), (5) and (6) apply to the reassessment.  O. Reg. 183/99, s. 1. (8) A member whose practice has been reassessed under subsection (7) may not be reassessed again.  O. Reg. 183/99, s. 1. Evaluation and Remediation",
+            "raw_html": "<p class=\"section-e\"> <b>30. </b>(1) A member is required to undergo a practice assessment under this section if,</p> <p class=\"clause-e\">  (a) the member is selected at random under subsection (2);</p> <p class=\"clause-e\">  (b) the member has been referred to the Committee by the Executive Committee, the Discipline Committee or the Complaints Committee; or</p> <p class=\"clause-e\">  (c) the member has been referred under clause 29 (3) (b) or (5) (c), or under subsection 29 (6).  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (2) The College shall select at random the names of holders of general certificates required to undergo a practice assessment.  O. Reg. 183/99, s. 1. </p> <p class=\"subsection-e\">  (3) A practice assessment shall be conducted by an assessor, who shall prepare a written report on his or her findings and submit it to the Committee.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (4) The Committee shall provide the member with a copy of the assessor’s report.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (5) The member shall have at least 14 days to make written submissions in response to the report.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (6) After considering the assessor’s findings and the submissions of the member, if any, the Committee may do one or both of the following if the report identifies deficiencies in the member’s practice:</p> <p class=\"paragraph-e\">  1. Recommend to the member ways in which the deficiencies may be corrected.</p> <p class=\"paragraph-e\">  2. Require the member to undergo an evaluation.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (7) If the Committee takes action under paragraph 1 of subsection (6), the Committee may require a reassessment of the member’s practice, and subsections (3), (4), (5) and (6) apply to the reassessment.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (8) A member whose practice has been reassessed under subsection (7) may not be reassessed again.  O. Reg. 183/99, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Evaluation and Remediation</p>"
+        },
+        {
+            "ahref_id": "#31.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31. (1) A member is required to undergo an evaluation under this section if, (a) the member has been referred to the Committee by the Executive Committee, the Discipline Committee or the Complaints Committee; or (b) the member is required to undergo an evaluation pursuant to paragraph 2 of subsection 30 (6).  O. Reg. 183/99, s. 1. (2) An evaluation shall be conducted by an assessor, who shall prepare a written report on his or her findings and submit it to the Committee.  O. Reg. 183/99, s. 1. (3) The Committee shall provide the member with a copy of the assessor’s report.  O. Reg. 183/99, s. 1. (4) The member shall have at least 14 days to make written submissions in response to the report.  O. Reg. 183/99, s. 1. (5) After considering the report and the member’s submissions, if any, the Committee may, if it finds that the member’s knowledge, skills or judgment are unsatisfactory, do one or more of the following: 1. Direct the member to participate in a specified remedial program. 2. Direct the Registrar to impose terms, conditions or limitations on the member’s certificate of registration for a specified period not exceeding six months.  O. Reg. 183/99, s. 1. (6) A member who has been required to participate in a remedial program may be required to undergo another evaluation, and subsections (2), (3), (4) and (5) apply to that evaluation.  O. Reg. 183/99, s. 1. (7) A member who has been re-evaluated under subsection (6) may not be re-evaluated again.  O. Reg. 183/99, s. 1. (8) If the member fails to participate in a specified remedial program or fails to complete the program successfully, the Committee may direct the Registrar to impose terms, conditions or limitations on a member’s certificate of registration for a specified period not exceeding six months.  O. Reg. 183/99, s. 1. (9) If the Registrar imposes terms, conditions or limitations on the member’s certificate of registration for a specified period pursuant to a direction given by the Committee under paragraph 2 of subsection (5) or under subsection (8), the Committee may direct the Registrar to remove the terms, conditions or limitations before the end of the specified period if it is satisfied that the member’s knowledge, skills and judgment are now satisfactory.  O. Reg. 183/99, s. 1. (10) No direction shall be given to the Registrar under paragraph 2 of subsection (5) or under subsection (8) unless the member has been given notice of the Committee’s intention to give the direction and the member has been given at least 14 days to make written submissions to the Committee.  O. Reg. 183/99, s. 1. Assessment and Remediation of Behaviour or Remarks of a Sexual Nature",
+            "raw_html": "<p class=\"section-e\"> <b>31. </b>(1) A member is required to undergo an evaluation under this section if,</p> <p class=\"clause-e\">  (a) the member has been referred to the Committee by the Executive Committee, the Discipline Committee or the Complaints Committee; or</p> <p class=\"clause-e\">  (b) the member is required to undergo an evaluation pursuant to paragraph 2 of subsection 30 (6).  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (2) An evaluation shall be conducted by an assessor, who shall prepare a written report on his or her findings and submit it to the Committee.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (3) The Committee shall provide the member with a copy of the assessor’s report.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (4) The member shall have at least 14 days to make written submissions in response to the report.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (5) After considering the report and the member’s submissions, if any, the Committee may, if it finds that the member’s knowledge, skills or judgment are unsatisfactory, do one or more of the following:</p> <p class=\"paragraph-e\">  1. Direct the member to participate in a specified remedial program.</p> <p class=\"paragraph-e\">  2. Direct the Registrar to impose terms, conditions or limitations on the member’s certificate of registration for a specified period not exceeding six months.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (6) A member who has been required to participate in a remedial program may be required to undergo another evaluation, and subsections (2), (3), (4) and (5) apply to that evaluation.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (7) A member who has been re-evaluated under subsection (6) may not be re-evaluated again.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (8) If the member fails to participate in a specified remedial program or fails to complete the program successfully, the Committee may direct the Registrar to impose terms, conditions or limitations on a member’s certificate of registration for a specified period not exceeding six months.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (9) If the Registrar imposes terms, conditions or limitations on the member’s certificate of registration for a specified period pursuant to a direction given by the Committee under paragraph 2 of subsection (5) or under subsection (8), the Committee may direct the Registrar to remove the terms, conditions or limitations before the end of the specified period if it is satisfied that the member’s knowledge, skills and judgment are now satisfactory.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (10) No direction shall be given to the Registrar under paragraph 2 of subsection (5) or under subsection (8) unless the member has been given notice of the Committee’s intention to give the direction and the member has been given at least 14 days to make written submissions to the Committee.  O. Reg. 183/99, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Assessment and Remediation of Behaviour or Remarks of a Sexual Nature</p>"
+        },
+        {
+            "ahref_id": "#32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32. (1) This section applies to matters relating to sexual abuse as defined in clause 1 (3) (c) of the Health Professions Procedural Code that are referred to the Committee by, (a) a panel of the Complaints Committee under paragraph 4 of subsection 26 (2) of the Code; or (b) the Executive Committee, Complaints Committee or Board under section 79.1 of the Code.  O. Reg. 183/99, s. 1. (2) The Committee may require a member to undergo a psychological assessment or another assessment specified by the Committee if a matter respecting the member is referred as provided in subsection (1).  O. Reg. 183/99, s. 1. (3) After receiving the report of an assessment referred to in subsection (2), the Committee may require the member to undertake specified measures such as education, therapy or counselling, if (a) the Committee is of the opinion that the measures will help the member to refrain from such behaviour or remarks; and (b) the member has been given written notice of the Committee’s intention to require the member to undertake measures, a copy of the report and at least 14 days to make written submissions to the Committee.  O. Reg. 183/99, s. 1. (4) If the member makes written submissions, the Committee shall take them into account before requiring the member to undertake specified measures.  O. Reg. 183/99, s. 1. (5) If the member refuses to undergo an assessment under subsection (2) or to undertake specified measures under subsection (3), or fails to complete those measures, the Committee may direct the Registrar to impose terms, conditions or limitations on the member’s certificate of registration for a period not exceeding six months.  O. Reg. 183/99, s. 1. (6) The Committee shall not give a direction under subsection (5) unless the member has been given notice of the Committee’s  intention and at least 14 days to make written submissions to the Committee.  O. Reg. 183/99, s. 1. (7) If the Registrar imposes terms, conditions or limitations on a member’s certificate of registration under subsection (5), the Committee may direct the Registrar to remove them before the end of the specified period if the Committee is satisfied that they are no longer needed.  O. Reg. 183/99, s. 1. PART VI   NOTICE OF MEETINGS AND HEARINGS",
+            "raw_html": "<p class=\"section-e\"> <b>32. </b>(1) This section applies to matters relating to sexual abuse as defined in clause 1 (3) (c) of the Health Professions Procedural Code that are referred to the Committee by,</p> <p class=\"clause-e\">  (a) a panel of the Complaints Committee under paragraph 4 of subsection 26 (2) of the Code; or</p> <p class=\"clause-e\">  (b) the Executive Committee, Complaints Committee or Board under section 79.1 of the Code.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (2) The Committee may require a member to undergo a psychological assessment or another assessment specified by the Committee if a matter respecting the member is referred as provided in subsection (1).  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (3) After receiving the report of an assessment referred to in subsection (2), the Committee may require the member to undertake specified measures such as education, therapy or counselling, if</p> <p class=\"clause-e\">  (a) the Committee is of the opinion that the measures will help the member to refrain from such behaviour or remarks; and</p> <p class=\"clause-e\">  (b) the member has been given written notice of the Committee’s intention to require the member to undertake measures, a copy of the report and at least 14 days to make written submissions to the Committee.  O. Reg. 183/99, s. 1. </p> <p class=\"subsection-e\">  (4) If the member makes written submissions, the Committee shall take them into account before requiring the member to undertake specified measures.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (5) If the member refuses to undergo an assessment under subsection (2) or to undertake specified measures under subsection (3), or fails to complete those measures, the Committee may direct the Registrar to impose terms, conditions or limitations on the member’s certificate of registration for a period not exceeding six months.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (6) The Committee shall not give a direction under subsection (5) unless the member has been given notice of the Committee’s  intention and at least 14 days to make written submissions to the Committee.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (7) If the Registrar imposes terms, conditions or limitations on a member’s certificate of registration under subsection (5), the Committee may direct the Registrar to remove them before the end of the specified period if the Committee is satisfied that they are no longer needed.  O. Reg. 183/99, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK10\"></a>PART VI <br/>  NOTICE OF MEETINGS AND HEARINGS</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. (1) The Registrar shall ensure that notice of every Council meeting that is required to be open to the public under the Act is given in accordance with this Part.  O. Reg. 183/99, s. 1. (2) The notice shall be published in a daily newspaper of general circulation throughout Ontario at least 14 days before the date of the meeting.  O. Reg. 183/99, s. 1. (3) The notice shall be in English and French.  O. Reg. 183/99, s. 1. (4) The notice shall include the intended date, time and place of the meeting and indicate its purpose.  O. Reg. 183/99, s. 1. (5) The Registrar shall give notice of Council meetings to every person who requests it.  O. Reg. 183/99, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>33. </b>(1) The Registrar shall ensure that notice of every Council meeting that is required to be open to the public under the Act is given in accordance with this Part.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (2) The notice shall be published in a daily newspaper of general circulation throughout Ontario at least 14 days before the date of the meeting.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (3) The notice shall be in English and French.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (4) The notice shall include the intended date, time and place of the meeting and indicate its purpose.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (5) The Registrar shall give notice of Council meetings to every person who requests it.  O. Reg. 183/99, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#34.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34. (1) The Registrar shall ensure that information concerning every hearing into allegations of professional misconduct or incompetence held by a panel of the Discipline Committee is given to every person who requests it.  O. Reg. 183/99, s. 1. (2) The information to be provided must include the name of the member against whom the allegations have been made, his or her principal place of practice, the intended date, time and place of the hearing and a summary of the allegations.  O. Reg. 183/99, s. 1. (3) For requests received more than 30 days before the date of the hearing, the Registrar shall, where possible, provide the information at least 30 days before that date.  O. Reg. 183/99, s. 1. (4) For requests received less than 30 days before the date of the hearing, the Registrar shall provide the information as soon as reasonably possible before that date.  O. Reg. 183/99, s. 1. (5) The information provided must be in English or, upon request, in French.  O. Reg. 183/99, s. 1. PART VII   COMMUNICATION AND PUBLICATION OF PANEL DECISIONS",
+            "raw_html": "<p class=\"section-e\"> <b>34. </b>(1) The Registrar shall ensure that information concerning every hearing into allegations of professional misconduct or incompetence held by a panel of the Discipline Committee is given to every person who requests it.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (2) The information to be provided must include the name of the member against whom the allegations have been made, his or her principal place of practice, the intended date, time and place of the hearing and a summary of the allegations.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (3) For requests received more than 30 days before the date of the hearing, the Registrar shall, where possible, provide the information at least 30 days before that date.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (4) For requests received less than 30 days before the date of the hearing, the Registrar shall provide the information as soon as reasonably possible before that date.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (5) The information provided must be in English or, upon request, in French.  O. Reg. 183/99, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK11\"></a>PART VII <br/>  COMMUNICATION AND PUBLICATION OF PANEL DECISIONS</p>"
+        },
+        {
+            "ahref_id": "#35.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 35. The Registrar shall communicate the decision of a panel of the Fitness to Practise Committee, the reasons for decision or a summary of the reasons, to the complainant, if any, upon the release of the decision.  O. Reg. 183/99, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>35. </b>The Registrar shall communicate the decision of a panel of the Fitness to Practise Committee, the reasons for decision or a summary of the reasons, to the complainant, if any, upon the release of the decision.  O. Reg. 183/99, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#36.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 36. (1) The College shall publish the decisions of the Fitness to Practise Committee and the reasons for decision, or a summary of such reasons, in its annual report and may publish the decisions and reasons or summary in any other publication of the College.  O. Reg. 183/99, s. 1. (2) In publishing the information mentioned in subsection (1), the College shall publish the name of the member who was the subject of the proceeding if the result of the proceeding may be obtained by a person from the Register under subsection 23 (3) of the Health Professions Procedural Code.  O. Reg. 183/99, s. 1. PART VIII   SPOUSAL EXCEPTION",
+            "raw_html": "<p class=\"section-e\"> <b>36. </b>(1) The College shall publish the decisions of the Fitness to Practise Committee and the reasons for decision, or a summary of such reasons, in its annual report and may publish the decisions and reasons or summary in any other publication of the College.  O. Reg. 183/99, s. 1.</p> <p class=\"subsection-e\">  (2) In publishing the information mentioned in subsection (1), the College shall publish the name of the member who was the subject of the proceeding if the result of the proceeding may be obtained by a person from the Register under subsection 23 (3) of the Health Professions Procedural Code.  O. Reg. 183/99, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK12\"></a>PART VIII <br/>  SPOUSAL EXCEPTION</p>"
+        },
+        {
+            "ahref_id": "#37.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 37. The spousal exception in subsection 1 (5) of the Health Professions Procedural Code applies in respect of the College. O. Reg. 567/20, s. 1. Schedule 1   Substances Administered by Injection into the foot Betamethasone sodium phosphate beta-acetate Dexamethasone sodium phosphate Hydrocortisone sodium succinate Methylprednisolone acetate Triamcinolone acetonide Denatured alcohol 4% (ethyl alcohol) Bupivacaine Lidocaine hydrochloride (with or without epinephrine) Mepivacaine hydrochloride B12- Cyanocobalamin O. Reg. 338/08, s. 2; O. Reg. 93/23, s. 5. Schedule 2   drugs that may be prescribed by a member (Topical and oral) Drugs for Topical Use Topical Antibacterial Agents — for the purpose of managing superficial bacterial infections of the foot:",
+            "raw_html": "<p class=\"section-e\"> <b>37. </b>The spousal exception in subsection 1 (5) of the Health Professions Procedural Code applies in respect of the College. O. Reg. 567/20, s. 1.</p> <p class=\"schedule-e\"><a name=\"BK13\"></a>Schedule 1 <br/>  Substances Administered by Injection into the foot</p> <p class=\"paranoindt-e\">Betamethasone sodium phosphate beta-acetate</p> <p class=\"paranoindt-e\">Dexamethasone sodium phosphate</p> <p class=\"paranoindt-e\">Hydrocortisone sodium succinate</p> <p class=\"paranoindt-e\">Methylprednisolone acetate</p> <p class=\"paranoindt-e\">Triamcinolone acetonide</p> <p class=\"paranoindt-e\">Denatured alcohol 4% (ethyl alcohol)</p> <p class=\"paranoindt-e\">Bupivacaine</p> <p class=\"paranoindt-e\">Lidocaine hydrochloride (with or without epinephrine)</p> <p class=\"paranoindt-e\">Mepivacaine hydrochloride</p> <p class=\"paranoindt-e\">B12- Cyanocobalamin</p> <p class=\"footnote-e\">O. Reg. 338/08, s. 2; O. Reg. 93/23, s. 5.</p> <p class=\"schedule-e\"><a name=\"BK14\"></a>Schedule 2 <br/>  drugs that may be prescribed by a member (Topical and oral)</p> <p class=\"heading3-e\">Drugs for Topical Use</p> <p class=\"paranoindt-e\">Topical Antibacterial Agents — for the purpose of managing superficial bacterial infections of the foot:</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "Bacitracin",
+            "raw_html": "<p class=\"section-e\">Bacitracin</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "Framycetin sulfate",
+            "raw_html": "<p class=\"section-e\">Framycetin sulfate</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "Fusidic acid",
+            "raw_html": "<p class=\"section-e\">Fusidic acid</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "Gentamicin sulfate",
+            "raw_html": "<p class=\"section-e\">Gentamicin sulfate</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "Mupirocin",
+            "raw_html": "<p class=\"section-e\">Mupirocin</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "Silver sulfadiazine",
+            "raw_html": "<p class=\"section-e\">Silver sulfadiazine</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "Erythromycin",
+            "raw_html": "<p class=\"section-e\">Erythromycin</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "Bacitracin/neomycin sulphate",
+            "raw_html": "<p class=\"section-e\">Bacitracin/neomycin sulphate</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "Neomycin sulphate/polymyxin B sulphate/bacitracin",
+            "raw_html": "<p class=\"section-e\">Neomycin sulphate/polymyxin B sulphate/bacitracin</p>"
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "Neomycin sulphate/polymyxin B sulphate/gramicidin Topical Antifungal Agents — for the purpose of managing fungal and/or yeast infections of the skin and nails of the foot: Ciclopirox olamine Clotrimazole Ketoconazole Miconazole nitrate Nystatin Terbinafine HCl Tolnaftate cream Undecylenic acid Efinaconazole Clioquinol Topical Antipruritic and Local Anesthetic Agents — for the purpose of decreasing or eliminating sensation in an area of skin of the foot to relieve inflammatory skin symptoms or prior to injection or superficial procedures: Benzocaine Lidocaine Prilocaine Topical Nonsteroidal Anti-inflammatory Agents — for the purpose of relieving inflammation and pain in structures of the foot: Diclofenac Ketoprofen Piroxicam Sulindac Topical Corticosteroid Agents — for the purpose of treating inflammatory manifestations of corticosteroid responsive dermatoses in structures of the foot: Amcinonide Betamethasone diproprionate Betamethasone valerate Desoximetasone Flumethasone/clioquinol Fluocinonide Halcinonide Hydrocortisone Hydrocortisone 17 valerate Mometasone furoate Triamcinolone acetonide Topical Emollients, Keratolytic, and Miscellaneous Skin Agents — for the management of hyperkeratotic, inflammatory, and/or infectious skin conditions of the foot, adjunct treatment of fungal nails, and/or chemical destruction of miscellaneous skin and nail lesions: Salicylic Acid (70% or less) Urea (50% or less) Ammonium lactate (12% or less) Cantharidin (1% or less) Silver Nitrate (95% or less) 5-Fluorouracil (5% or less) Podophyllin (2% or less) Lactic acid (16.7% or less) Imiquimod (3.75% w/w) Pimercrolimus (1% w/w) Calcipotriol (50 mcg/g) Collagenase Drugs for Oral Use Oral Penicillin Antibacterial Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis: Amoxicillin Amoxicillin/Clavulanic acid Cloxacillin Oral First-Generation Cephalosporin Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis: Cefadroxil Cephalexin Oral Erythromycin and Macrolide Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis: Erythromycin Azithromycin Clarithromycin Oral Quinolone Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis: Ciprofloxacin Levofloxacin Moxifloxacin Oral Sulfonamide Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis: Sulfamethoxazole/trimethoprim Oral Tetracycline Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis: Tetracycline Doxycycline Oral Lincomycins — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis: Clindamycin Oral Metronidazole — for the purpose of managing susceptible anaerobic bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, and abscesses: Metronidazole Oral Nonsteroidal Anti-Inflammatory Agents — for the purpose of relieving inflammatory conditions or pain of the foot: Diclofenac potassium Diclofenac sodium Diflunisal Ibuprofen Indomethacin Meloxicam Ketorolac tromethamine (maximum daily dosage of 10 mg every 4-6 hours, as needed for pain, with the total dosage not to exceed 4 doses per day, or 40 mg in total per day, for a maximum duration of 5 days) Naproxen Naproxen sodium Tiaprofenic acid Celecoxib Ketoprofen Piroxicam Sulindac Oral Misoprostol — to be prescribed only in conjunction with Nonsteroidal Anti-inflammatory Agents for the purpose of preventing gastric bleeding, in the course of engaging in the practice of chiropody: Misoprostol Oral Azole Agents — for the purpose of managing fungal and/or yeast infections of the skin and nails of the foot: Itraconazole Fluconazole Oral Allylamine Agents — for the purpose of managing fungal and/or yeast infections of the skin and nails of the foot: Terbinafine Oral First-Generation Antihistamines — for use in the management of nausea/vomiting, pruritis, urticaria, and/or allergic symptomatology, in the course of engaging in the practice of chiropody: Diphenhydramine Promethazine Hydroxyzine Oral Second-Generation Antihistamines — for use in the management of pruritis, urticaria, and/or allergic symptomatology, in the course of engaging in the practice of chiropody: Cetirizine Oral Histamine H2-Antagonists — to be prescribed only in conjunction with Nonsteroidal Anti-inflammatory Agents for the purpose of preventing gastric bleeding, in the course of engaging in the practice of chiropody: Cimetidine Nizatidine O. Reg. 93/23, s. 6. SCHEDULE 3   DRUGS THAT MAY BE PRESCRIBED BY A MEMBER (Anti-Anxiety) Benzodiazepines for Oral Use: for the purpose of treatment of anxiety before and during surgical procedures and to provide minimal sedation during surgical procedures: Diazepam —individual dosing range of 2.5-10 mg, with 10 mg being the maximum individual dose, every 6-12 hours. Maximum total dosage not to exceed 40 mg within 24 hours. Maximum total duration not to exceed 24 hours Lorazepam –– individual dosing range of 0.5-1 mg, with 1 mg being the maximum individual dose, every 12 hours. Maximum total dosage not to exceed 2 mg within 24 hours. Maximum total duration not to exceed 24 hours Triazolam — individual dosing range of 0.125 to 0.25 mg, with 0.25 mg being the maximum individual dose, limited to a single dose, with the total dosage not to exceed 0.25 mg per day, for a maximum duration of 1 day Alprazolam — individual dosing range of 0.25 to 0.5 mg, with 0.5 mg being the maximum individual dose, limited to a single dose, with the total dosage not to exceed 0.5 mg per day, for a maximum duration of 1 day O. Reg. 93/23, s. 6. SCHEDULE 4   DRUGS THAT MAY BE PRESCRIBED BY A MEMBER (Narcotics) Narcotics for Oral Use: for the purpose of treatment of acute moderate to severe pain related to surgical procedures and trauma as an adjunct to appropriate non-pharmacological pain management options: Tramadol — individual dosing range of 50-100 mg, with 100 mg being the maximum individual dose, 3-4 times a day, with the total dosage not to exceed 400 mg per day, for a maximum duration of 3 days Oxycodone (5 mg) with Acetaminophen (325 mg) — individual dosing range of 1-2 tablets, with 2 tablets being the maximum individual dose, every 4-6 hours as needed, with the total dosage not to exceed 6 tablets per day, for a maximum duration of 3 days Codeine (15 mg) with Acetaminophen (300 mg) and Caffeine (15 mg) — individual dosing range of 1-2 tablets, with 2 tablets being the maximum individual dose, every 4-6 hours as needed, with the total dosage not to exceed 12 tablets per day, for a maximum duration of 3 days Codeine (30 mg) with Acetaminophen (300 mg) and Caffeine (15 mg) — individual dosing range of 1-2 tablets, with 2 tablets being the maximum individual dose, every 4-6 hours as needed, with the total dosage not to exceed 12 tablets per day, for a maximum duration of 3 days O. Reg. 93/23, s. 6.  Français  ",
+            "raw_html": "<p class=\"section-e\">Neomycin sulphate/polymyxin B sulphate/gramicidin</p> <p class=\"subsection-e\">Topical Antifungal Agents — for the purpose of managing fungal and/or yeast infections of the skin and nails of the foot:</p> <p class=\"subsection-e\">Ciclopirox olamine</p> <p class=\"subsection-e\">Clotrimazole</p> <p class=\"subsection-e\">Ketoconazole</p> <p class=\"subsection-e\">Miconazole nitrate</p> <p class=\"subsection-e\">Nystatin</p> <p class=\"subsection-e\">Terbinafine HCl</p> <p class=\"subsection-e\">Tolnaftate cream</p> <p class=\"subsection-e\">Undecylenic acid</p> <p class=\"subsection-e\">Efinaconazole</p> <p class=\"subsection-e\">Clioquinol</p> <p class=\"paranoindt-e\">Topical Antipruritic and Local Anesthetic Agents — for the purpose of decreasing or eliminating sensation in an area of skin of the foot to relieve inflammatory skin symptoms or prior to injection or superficial procedures:</p> <p class=\"paranoindt-e\">Benzocaine</p> <p class=\"paranoindt-e\">Lidocaine</p> <p class=\"paranoindt-e\">Prilocaine</p> <p class=\"paranoindt-e\">Topical Nonsteroidal Anti-inflammatory Agents — for the purpose of relieving inflammation and pain in structures of the foot:</p> <p class=\"paranoindt-e\">Diclofenac</p> <p class=\"paranoindt-e\">Ketoprofen</p> <p class=\"paranoindt-e\">Piroxicam</p> <p class=\"paranoindt-e\">Sulindac</p> <p class=\"paranoindt-e\">Topical Corticosteroid Agents — for the purpose of treating inflammatory manifestations of corticosteroid responsive dermatoses in structures of the foot:</p> <p class=\"paranoindt-e\">Amcinonide</p> <p class=\"paranoindt-e\">Betamethasone diproprionate</p> <p class=\"paranoindt-e\">Betamethasone valerate</p> <p class=\"paranoindt-e\">Desoximetasone</p> <p class=\"paranoindt-e\">Flumethasone/clioquinol</p> <p class=\"paranoindt-e\">Fluocinonide</p> <p class=\"paranoindt-e\">Halcinonide</p> <p class=\"paranoindt-e\">Hydrocortisone </p> <p class=\"paranoindt-e\">Hydrocortisone 17 valerate</p> <p class=\"paranoindt-e\">Mometasone furoate</p> <p class=\"paranoindt-e\">Triamcinolone acetonide</p> <p class=\"paranoindt-e\">Topical Emollients, Keratolytic, and Miscellaneous Skin Agents — for the management of hyperkeratotic, inflammatory, and/or infectious skin conditions of the foot, adjunct treatment of fungal nails, and/or chemical destruction of miscellaneous skin and nail lesions:</p> <p class=\"paranoindt-e\"> Salicylic Acid (70% or less)</p> <p class=\"paranoindt-e\"> Urea (50% or less)</p> <p class=\"paranoindt-e\"> Ammonium lactate (12% or less)</p> <p class=\"paranoindt-e\"> Cantharidin (1% or less)</p> <p class=\"paranoindt-e\">Silver Nitrate (95% or less)</p> <p class=\"paranoindt-e\">5-Fluorouracil (5% or less)</p> <p class=\"paranoindt-e\"> Podophyllin (2% or less)</p> <p class=\"paranoindt-e\">Lactic acid (16.7% or less)</p> <p class=\"paranoindt-e\">Imiquimod (3.75% w/w)</p> <p class=\"paranoindt-e\"> Pimercrolimus (1% w/w)</p> <p class=\"paranoindt-e\"> Calcipotriol (50 mcg/g)</p> <p class=\"paranoindt-e\">Collagenase</p> <p class=\"heading3-e\">Drugs for Oral Use</p> <p class=\"paranoindt-e\">Oral Penicillin Antibacterial Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis:</p> <p class=\"paranoindt-e\">Amoxicillin</p> <p class=\"paranoindt-e\">Amoxicillin/Clavulanic acid</p> <p class=\"paranoindt-e\">Cloxacillin</p> <p class=\"paranoindt-e\">Oral First-Generation Cephalosporin Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis:</p> <p class=\"paranoindt-e\">Cefadroxil</p> <p class=\"paranoindt-e\">Cephalexin </p> <p class=\"paranoindt-e\">Oral Erythromycin and Macrolide Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis:</p> <p class=\"paranoindt-e\">Erythromycin</p> <p class=\"paranoindt-e\">Azithromycin</p> <p class=\"paranoindt-e\">Clarithromycin</p> <p class=\"paranoindt-e\">Oral Quinolone Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis:</p> <p class=\"paranoindt-e\">Ciprofloxacin</p> <p class=\"paranoindt-e\">Levofloxacin</p> <p class=\"paranoindt-e\">Moxifloxacin</p> <p class=\"paranoindt-e\">Oral Sulfonamide Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis:</p> <p class=\"paranoindt-e\">Sulfamethoxazole/trimethoprim</p> <p class=\"paranoindt-e\">Oral Tetracycline Agents — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis:</p> <p class=\"paranoindt-e\">Tetracycline </p> <p class=\"paranoindt-e\">Doxycycline</p> <p class=\"paranoindt-e\">Oral Lincomycins — for the purpose of managing susceptible bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, abscesses, and/or surgical prophylaxis:</p> <p class=\"paranoindt-e\">Clindamycin</p> <p class=\"paranoindt-e\">Oral Metronidazole — for the purpose of managing susceptible anaerobic bacterial infections of foot wounds (traumatic, post-op complications), cellulitis, lacerations/punctures, and abscesses:</p> <p class=\"paranoindt-e\">Metronidazole</p> <p class=\"paranoindt-e\">Oral Nonsteroidal Anti-Inflammatory Agents — for the purpose of relieving inflammatory conditions or pain of the foot:</p> <p class=\"paranoindt-e\">Diclofenac potassium</p> <p class=\"paranoindt-e\">Diclofenac sodium</p> <p class=\"paranoindt-e\">Diflunisal </p> <p class=\"paranoindt-e\">Ibuprofen</p> <p class=\"paranoindt-e\">Indomethacin</p> <p class=\"paranoindt-e\">Meloxicam</p> <p class=\"paranoindt-e\">Ketorolac tromethamine (maximum daily dosage of 10 mg every 4-6 hours, as needed for pain, with the total dosage not to exceed 4 doses per day, or 40 mg in total per day, for a maximum duration of 5 days)</p> <p class=\"paranoindt-e\">Naproxen</p> <p class=\"paranoindt-e\">Naproxen sodium</p> <p class=\"paranoindt-e\">Tiaprofenic acid</p> <p class=\"paranoindt-e\"> Celecoxib</p> <p class=\"paranoindt-e\"> Ketoprofen</p> <p class=\"paranoindt-e\"> Piroxicam</p> <p class=\"paranoindt-e\"> Sulindac</p> <p class=\"paranoindt-e\">Oral Misoprostol — to be prescribed only in conjunction with Nonsteroidal Anti-inflammatory Agents for the purpose of preventing gastric bleeding, in the course of engaging in the practice of chiropody:</p> <p class=\"paranoindt-e\">Misoprostol</p> <p class=\"paranoindt-e\">Oral Azole Agents — for the purpose of managing fungal and/or yeast infections of the skin and nails of the foot:</p> <p class=\"paranoindt-e\"> Itraconazole</p> <p class=\"paranoindt-e\"> Fluconazole</p> <p class=\"paranoindt-e\">Oral Allylamine Agents — for the purpose of managing fungal and/or yeast infections of the skin and nails of the foot:</p> <p class=\"paranoindt-e\">Terbinafine</p> <p class=\"paranoindt-e\">Oral First-Generation Antihistamines — for use in the management of nausea/vomiting, pruritis, urticaria, and/or allergic symptomatology, in the course of engaging in the practice of chiropody:</p> <p class=\"paranoindt-e\">Diphenhydramine</p> <p class=\"paranoindt-e\">Promethazine</p> <p class=\"paranoindt-e\">Hydroxyzine</p> <p class=\"paranoindt-e\">Oral Second-Generation Antihistamines — for use in the management of pruritis, urticaria, and/or allergic symptomatology, in the course of engaging in the practice of chiropody:</p> <p class=\"paranoindt-e\">Cetirizine</p> <p class=\"paranoindt-e\">Oral Histamine H2-Antagonists — to be prescribed only in conjunction with Nonsteroidal Anti-inflammatory Agents for the purpose of preventing gastric bleeding, in the course of engaging in the practice of chiropody:</p> <p class=\"paranoindt-e\">Cimetidine</p> <p class=\"paranoindt-e\">Nizatidine</p> <p class=\"footnote-e\">O. Reg. 93/23, s. 6.</p> <p class=\"schedule-e\"><a name=\"BK15\"></a>SCHEDULE 3 <br/>  DRUGS THAT MAY BE PRESCRIBED BY A MEMBER (Anti-Anxiety)</p> <p class=\"MsoNormal\">Benzodiazepines for Oral Use: for the purpose of treatment of anxiety before and during surgical procedures and to provide minimal sedation during surgical procedures:</p> <p class=\"paranoindt-e\">Diazepam —individual dosing range of 2.5-10 mg, with 10 mg being the maximum individual dose, every 6-12 hours. Maximum total dosage not to exceed 40 mg within 24 hours. Maximum total duration not to exceed 24 hours</p> <p class=\"paranoindt-e\">Lorazepam –– individual dosing range of 0.5-1 mg, with 1 mg being the maximum individual dose, every 12 hours. Maximum total dosage not to exceed 2 mg within 24 hours. Maximum total duration not to exceed 24 hours</p> <p class=\"paranoindt-e\"> Triazolam — individual dosing range of 0.125 to 0.25 mg, with 0.25 mg being the maximum individual dose, limited to a single dose, with the total dosage not to exceed 0.25 mg per day, for a maximum duration of 1 day</p> <p class=\"paranoindt-e\"> Alprazolam — individual dosing range of 0.25 to 0.5 mg, with 0.5 mg being the maximum individual dose, limited to a single dose, with the total dosage not to exceed 0.5 mg per day, for a maximum duration of 1 day</p> <p class=\"footnote-e\">O. Reg. 93/23, s. 6.</p> <p class=\"schedule-e\"><a name=\"BK16\"></a>SCHEDULE 4 <br/>  DRUGS THAT MAY BE PRESCRIBED BY A MEMBER (Narcotics)</p> <p class=\"paranoindt-e\">Narcotics for Oral Use: for the purpose of treatment of acute moderate to severe pain related to surgical procedures and trauma as an adjunct to appropriate non-pharmacological pain management options:  </p> <p class=\"paranoindt-e\">Tramadol — individual dosing range of 50-100 mg, with 100 mg being the maximum individual dose, 3-4 times a day, with the total dosage not to exceed 400 mg per day, for a maximum duration of 3 days</p> <p class=\"paranoindt-e\">Oxycodone (5 mg) with Acetaminophen (325 mg) — individual dosing range of 1-2 tablets, with 2 tablets being the maximum individual dose, every 4-6 hours as needed, with the total dosage not to exceed 6 tablets per day, for a maximum duration of 3 days</p> <p class=\"paranoindt-e\">Codeine (15 mg) with Acetaminophen (300 mg) and Caffeine (15 mg) — individual dosing range of 1-2 tablets, with 2 tablets being the maximum individual dose, every 4-6 hours as needed, with the total dosage not to exceed 12 tablets per day, for a maximum duration of 3 days</p> <p class=\"paranoindt-e\">Codeine (30 mg) with Acetaminophen (300 mg) and Caffeine (15 mg) — individual dosing range of 1-2 tablets, with 2 tablets being the maximum individual dose, every 4-6 hours as needed, with the total dosage not to exceed 12 tablets per day, for a maximum duration of 3 days</p> <p class=\"footnote-e\">O. Reg. 93/23, s. 6.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/940203\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

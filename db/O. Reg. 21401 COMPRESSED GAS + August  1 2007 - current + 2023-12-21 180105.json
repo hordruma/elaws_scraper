@@ -1,0 +1,428 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 214/01: COMPRESSED GAS",
+        "reg_name_text": "Compressed Gas",
+        "citation": "O. Reg. 214/01: COMPRESSED GAS",
+        "act_under": "Technical Standards and Safety Act, 2000   Loi de 2000 sur les normes techniques et la sécurité",
+        "url": "https://www.ontario.ca/laws/regulation/010214",
+        "date_scraped": "2023-12-21 18:01:06"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "August  1, 2007",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/010214/v2",
+            "valid_from": "June 11, 2007",
+            "valid_to": "July 31, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/010214/v1",
+            "valid_from": "June 27, 2001",
+            "valid_to": "June 10, 2007"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": 1.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Interpretation",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 2.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Application",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 3.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "General requirement for compliance",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 4.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Regulated activities",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 5.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Duty of employer",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 6.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Certificate required for handling compressed gas",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 7.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Registration of contractor",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 8.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Certificate required for various activities",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 9.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Putting into use",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 10.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Distributor’s right of access to premises",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 11.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "No interference with pipeline",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 12.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Prohibited activities",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 13.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Safe operating condition",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 14.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Licence required",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 15.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Certificate required for certain activities",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 16.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Occurrence or accident",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 17.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Designated testing organizations",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 18.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Off-site testing and approval",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 19.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "On-site testing and approval",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 20.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Refuelling stations — construction and alteration",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 21.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Licences for refuelling stations",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 22.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Display of licence for a refuelling station",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 23.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "No operation of altered station without approval",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 24.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Operation of refuelling station",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 25.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Operation of refuelling station",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 26.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Duty to ensure safe use of equipment",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 27.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Licence to transport gas in bulk container on vehicle",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 28.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Licence to be carried in vehicle",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 29.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Licence for VRA station",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 30.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Display of licence required for gas to be supplied",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 31.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Registration",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 32.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Display of registration",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 33.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Duration and expiry",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 34.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Renewal of licence",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 35.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Transferability, change of address, etc.",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 36.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Vehicle conversion",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 37.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Vehicle fuel systems",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 38.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Transfer of used vehicle using GV",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 39.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Containers",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 40.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Transfer to bulk container",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 41.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Unacceptable condition — immediate hazard",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 42.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Unacceptable condition — no immediate hazard",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 43.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Unacceptable condition — immediate hazard",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 44.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Unacceptable condition — no immediate hazard",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

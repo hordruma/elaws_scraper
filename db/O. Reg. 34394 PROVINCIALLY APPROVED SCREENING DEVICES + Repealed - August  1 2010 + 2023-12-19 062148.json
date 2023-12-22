@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 343/94: PROVINCIALLY APPROVED SCREENING DEVICES",
+        "reg_name_text": "PROVINCIALLY APPROVED SCREENING DEVICES",
+        "citation": "O. Reg. 343/94: ",
+        "act_under": "Highway Traffic Act   Code de la route",
+        "url": "https://www.ontario.ca/laws/regulation/940343",
+        "date_scraped": "2023-12-19 06:21:48"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/940343/v2",
+            "valid_from": "June  4, 2010",
+            "valid_to": "July 31, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/940343/v1",
+            "valid_from": "June  6, 1994",
+            "valid_to": "June  3, 2010"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": "1. The following devices are prescribed as provincially approved screening devices for the purposes of section 48.1 of the Act: 1. An “approved screening device” as defined in the Criminal Code (Canada). 2. A screening device that meets the standards of the Alcohol Test Committee of the Canadian Society of Forensic Sciences. O.Reg. 343/94, s.1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>The following devices are prescribed as provincially approved screening devices for the purposes of section 48.1 of the Act:</p> <p class=\"paragraph-e\">1. An “approved screening device” as defined in the <i>Criminal Code</i> (Canada).</p> <p class=\"paragraph-e\">2. A screening device that meets the standards of the Alcohol Test Committee of the Canadian Society of Forensic Sciences. O.Reg. 343/94, s.1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": "2. A provincially approved screening device shall be calibrated so that when a breath sample that is alcohol free is tested, the device does not give a reading or result greater than three milligrams of alcohol in 100 millilitres of blood. O. Reg. 343/94, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>A provincially approved screening device shall be calibrated so that when a breath sample that is alcohol free is tested, the device does not give a reading or result greater than three milligrams of alcohol in 100 millilitres of blood. O. Reg. 343/94, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": null,
+            "content": "3. Omitted (provides for coming into force of provisions of this Regulation). O.Reg. 343/94, s. 3. ",
+            "raw_html": "<p class=\"section-e\"><b>3.</b> Omitted (provides for coming into force of provisions of this Regulation). O.Reg. 343/94, s. 3.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

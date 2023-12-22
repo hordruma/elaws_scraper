@@ -1,0 +1,2055 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 950: PROCEEDINGS COMMENCED BY CERTIFICATE OF OFFENCE",
+        "reg_name_text": "PROCEEDINGS COMMENCED BY CERTIFICATE OF OFFENCE",
+        "citation": "R.R.O. 1990, Reg. 950: ",
+        "act_under": "Provincial Offences Act",
+        "url": "https://www.ontario.ca/laws/regulation/900950",
+        "date_scraped": "2023-12-18 02:47:16"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November 24, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v168",
+            "valid_from": "September 15, 2023",
+            "valid_to": "November 23, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v167",
+            "valid_from": "August 18, 2023",
+            "valid_to": "September 14, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v166",
+            "valid_from": "June 23, 2023",
+            "valid_to": "August 17, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v165",
+            "valid_from": "April 12, 2023",
+            "valid_to": "June 22, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v164",
+            "valid_from": "January  1, 2023",
+            "valid_to": "April 11, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v163",
+            "valid_from": "December  9, 2022",
+            "valid_to": "December 31, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v162",
+            "valid_from": "November 25, 2022",
+            "valid_to": "December  8, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v161",
+            "valid_from": "July  1, 2022",
+            "valid_to": "November 24, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v160",
+            "valid_from": "June 12, 2022",
+            "valid_to": "June 30, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v159",
+            "valid_from": "May  1, 2022",
+            "valid_to": "June 11, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v158",
+            "valid_from": "April  1, 2022",
+            "valid_to": "April 30, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v157",
+            "valid_from": "March 11, 2022",
+            "valid_to": "March 31, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v156",
+            "valid_from": "March 10, 2022",
+            "valid_to": "March 10, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v155",
+            "valid_from": "March  2, 2022",
+            "valid_to": "March  9, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v154",
+            "valid_from": "January  1, 2022",
+            "valid_to": "March  1, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v153",
+            "valid_from": "December  2, 2021",
+            "valid_to": "December 31, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v152",
+            "valid_from": "November 29, 2021",
+            "valid_to": "December  1, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v151",
+            "valid_from": "November  8, 2021",
+            "valid_to": "November 28, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v150",
+            "valid_from": "October 21, 2021",
+            "valid_to": "November  7, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v148",
+            "valid_from": "June  7, 2021",
+            "valid_to": "June  6, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v149",
+            "valid_from": "June  7, 2021",
+            "valid_to": "October 20, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v147",
+            "valid_from": "April  7, 2021",
+            "valid_to": "June  6, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v146",
+            "valid_from": "January 13, 2021",
+            "valid_to": "April  6, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v145",
+            "valid_from": "January  1, 2021",
+            "valid_to": "January 12, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v144",
+            "valid_from": "December 21, 2020",
+            "valid_to": "December 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v143",
+            "valid_from": "December  5, 2020",
+            "valid_to": "December 20, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v142",
+            "valid_from": "December  4, 2020",
+            "valid_to": "December  4, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v141",
+            "valid_from": "November 27, 2020",
+            "valid_to": "December  3, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v140",
+            "valid_from": "November 20, 2020",
+            "valid_to": "November 26, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v139",
+            "valid_from": "November  1, 2020",
+            "valid_to": "November 19, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v138",
+            "valid_from": "October 29, 2020",
+            "valid_to": "October 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v137",
+            "valid_from": "October 19, 2020",
+            "valid_to": "October 28, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v136",
+            "valid_from": "September 29, 2020",
+            "valid_to": "October 18, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v135",
+            "valid_from": "July 24, 2020",
+            "valid_to": "September 28, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v134",
+            "valid_from": "July 22, 2020",
+            "valid_to": "July 23, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v133",
+            "valid_from": "March 18, 2020",
+            "valid_to": "July 21, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v132",
+            "valid_from": "January  1, 2020",
+            "valid_to": "March 17, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v131",
+            "valid_from": "December 19, 2019",
+            "valid_to": "December 31, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v130",
+            "valid_from": "November 29, 2019",
+            "valid_to": "December 18, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v129",
+            "valid_from": "October 30, 2019",
+            "valid_to": "November 28, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v128",
+            "valid_from": "August 30, 2019",
+            "valid_to": "October 29, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v127",
+            "valid_from": "August 22, 2019",
+            "valid_to": "August 29, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v126",
+            "valid_from": "July  1, 2019",
+            "valid_to": "August 21, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v125",
+            "valid_from": "June 28, 2019",
+            "valid_to": "June 30, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v124",
+            "valid_from": "May 14, 2019",
+            "valid_to": "June 27, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v123",
+            "valid_from": "January  1, 2019",
+            "valid_to": "May 13, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v122",
+            "valid_from": "December 14, 2018",
+            "valid_to": "December 31, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v121",
+            "valid_from": "November 23, 2018",
+            "valid_to": "December 13, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v120",
+            "valid_from": "November 16, 2018",
+            "valid_to": "November 22, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v119",
+            "valid_from": "November 14, 2018",
+            "valid_to": "November 15, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v118",
+            "valid_from": "November  2, 2018",
+            "valid_to": "November 13, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v117",
+            "valid_from": "October 17, 2018",
+            "valid_to": "November  1, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v116",
+            "valid_from": "September  1, 2018",
+            "valid_to": "October 16, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v115",
+            "valid_from": "July  1, 2018",
+            "valid_to": "August 31, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v114",
+            "valid_from": "April 25, 2018",
+            "valid_to": "June 30, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v113",
+            "valid_from": "April 24, 2018",
+            "valid_to": "April 24, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v112",
+            "valid_from": "April 20, 2018",
+            "valid_to": "April 23, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v111",
+            "valid_from": "April  6, 2018",
+            "valid_to": "April 19, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v110",
+            "valid_from": "April  1, 2018",
+            "valid_to": "April  5, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v109",
+            "valid_from": "March 29, 2018",
+            "valid_to": "March 31, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v108",
+            "valid_from": "December 18, 2017",
+            "valid_to": "March 28, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v107",
+            "valid_from": "September 15, 2017",
+            "valid_to": "December 17, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v106",
+            "valid_from": "August  3, 2017",
+            "valid_to": "September 14, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v105",
+            "valid_from": "June  6, 2017",
+            "valid_to": "August  2, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v104",
+            "valid_from": "January  1, 2017",
+            "valid_to": "June  5, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v103",
+            "valid_from": "December  8, 2016",
+            "valid_to": "December 31, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v102",
+            "valid_from": "December  2, 2016",
+            "valid_to": "December  7, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v101",
+            "valid_from": "October  1, 2016",
+            "valid_to": "December  1, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v100",
+            "valid_from": "September 20, 2016",
+            "valid_to": "September 30, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v99",
+            "valid_from": "June  6, 2016",
+            "valid_to": "September 19, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v98",
+            "valid_from": "May  5, 2016",
+            "valid_to": "June  5, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v97",
+            "valid_from": "January  1, 2016",
+            "valid_to": "May  4, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v96",
+            "valid_from": "December 16, 2015",
+            "valid_to": "December 31, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v95",
+            "valid_from": "December 11, 2015",
+            "valid_to": "December 15, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v94",
+            "valid_from": "November 26, 2015",
+            "valid_to": "December 10, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v93",
+            "valid_from": "October 23, 2015",
+            "valid_to": "November 25, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v92",
+            "valid_from": "September  1, 2015",
+            "valid_to": "October 22, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v91",
+            "valid_from": "August  1, 2015",
+            "valid_to": "August 31, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v90",
+            "valid_from": "July 24, 2015",
+            "valid_to": "July 31, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v89",
+            "valid_from": "April 15, 2015",
+            "valid_to": "July 23, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v88",
+            "valid_from": "March 11, 2015",
+            "valid_to": "April 14, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v87",
+            "valid_from": "January  1, 2015",
+            "valid_to": "March 10, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v86",
+            "valid_from": "October 27, 2014",
+            "valid_to": "December 31, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v85",
+            "valid_from": "September 19, 2014",
+            "valid_to": "October 26, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v84",
+            "valid_from": "May  1, 2014",
+            "valid_to": "September 18, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v83",
+            "valid_from": "April  8, 2014",
+            "valid_to": "April 30, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v82",
+            "valid_from": "March  1, 2014",
+            "valid_to": "April  7, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v81",
+            "valid_from": "February 19, 2014",
+            "valid_to": "February 28, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v80",
+            "valid_from": "February 14, 2014",
+            "valid_to": "February 18, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v79",
+            "valid_from": "February  1, 2014",
+            "valid_to": "February 13, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v78",
+            "valid_from": "November 29, 2013",
+            "valid_to": "January 31, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v77",
+            "valid_from": "May  6, 2013",
+            "valid_to": "November 28, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v76",
+            "valid_from": "April  8, 2013",
+            "valid_to": "May  5, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v75",
+            "valid_from": "March  1, 2013",
+            "valid_to": "April  7, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v74",
+            "valid_from": "July 20, 2012",
+            "valid_to": "February 28, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v73",
+            "valid_from": "May 18, 2012",
+            "valid_to": "July 19, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v72",
+            "valid_from": "May  3, 2012",
+            "valid_to": "May 17, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v71",
+            "valid_from": "March 31, 2012",
+            "valid_to": "May  2, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v70",
+            "valid_from": "October 31, 2011",
+            "valid_to": "March 30, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v69",
+            "valid_from": "August 24, 2011",
+            "valid_to": "October 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v68",
+            "valid_from": "July 26, 2011",
+            "valid_to": "August 23, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v67",
+            "valid_from": "July  1, 2011",
+            "valid_to": "July 25, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v66",
+            "valid_from": "June 14, 2011",
+            "valid_to": "June 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v65",
+            "valid_from": "March 31, 2011",
+            "valid_to": "June 13, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v64",
+            "valid_from": "March 25, 2011",
+            "valid_to": "March 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v63",
+            "valid_from": "November  5, 2010",
+            "valid_to": "March 24, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v62",
+            "valid_from": "November  1, 2010",
+            "valid_to": "November  4, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v61",
+            "valid_from": "September  7, 2010",
+            "valid_to": "October 31, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v60",
+            "valid_from": "August  1, 2010",
+            "valid_to": "September  6, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v59",
+            "valid_from": "July  1, 2010",
+            "valid_to": "July 31, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v58",
+            "valid_from": "June 17, 2010",
+            "valid_to": "June 30, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v57",
+            "valid_from": "June 16, 2010",
+            "valid_to": "June 16, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v56",
+            "valid_from": "February  1, 2010",
+            "valid_to": "June 15, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v55",
+            "valid_from": "January  1, 2010",
+            "valid_to": "January 31, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v54",
+            "valid_from": "December 11, 2009",
+            "valid_to": "December 31, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v53",
+            "valid_from": "November 27, 2009",
+            "valid_to": "December 10, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v52",
+            "valid_from": "November  6, 2009",
+            "valid_to": "November 26, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v51",
+            "valid_from": "May 29, 2009",
+            "valid_to": "November  5, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v50",
+            "valid_from": "May 15, 2009",
+            "valid_to": "May 28, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v49",
+            "valid_from": "April 22, 2009",
+            "valid_to": "May 14, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v48",
+            "valid_from": "January 21, 2009",
+            "valid_to": "April 21, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v47",
+            "valid_from": "January  1, 2009",
+            "valid_to": "January 20, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v46",
+            "valid_from": "December  5, 2008",
+            "valid_to": "December 31, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v45",
+            "valid_from": "December  1, 2008",
+            "valid_to": "December  4, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v44",
+            "valid_from": "October 27, 2008",
+            "valid_to": "November 30, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v43",
+            "valid_from": "September 16, 2008",
+            "valid_to": "October 26, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v42",
+            "valid_from": "July 28, 2008",
+            "valid_to": "September 15, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v41",
+            "valid_from": "July 27, 2008",
+            "valid_to": "July 27, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v40",
+            "valid_from": "July 25, 2008",
+            "valid_to": "July 26, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v39",
+            "valid_from": "June 18, 2008",
+            "valid_to": "July 24, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v38",
+            "valid_from": "June  6, 2008",
+            "valid_to": "June 17, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v37",
+            "valid_from": "May 31, 2008",
+            "valid_to": "June  5, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v36",
+            "valid_from": "May 16, 2008",
+            "valid_to": "May 30, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v35",
+            "valid_from": "January  1, 2008",
+            "valid_to": "May 15, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v34",
+            "valid_from": "November 21, 2007",
+            "valid_to": "December 31, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v33",
+            "valid_from": "September 30, 2007",
+            "valid_to": "November 20, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v32",
+            "valid_from": "September  4, 2007",
+            "valid_to": "September 29, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v31",
+            "valid_from": "August 30, 2007",
+            "valid_to": "September  3, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v30",
+            "valid_from": "August 24, 2007",
+            "valid_to": "August 29, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v29",
+            "valid_from": "May  8, 2007",
+            "valid_to": "August 23, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v28",
+            "valid_from": "April 20, 2007",
+            "valid_to": "May  7, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v27",
+            "valid_from": "December  1, 2006",
+            "valid_to": "April 19, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v26",
+            "valid_from": "November 23, 2006",
+            "valid_to": "November 30, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v25",
+            "valid_from": "October 16, 2006",
+            "valid_to": "November 22, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v24",
+            "valid_from": "October  2, 2006",
+            "valid_to": "October 15, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v23",
+            "valid_from": "September  1, 2006",
+            "valid_to": "October  1, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v22",
+            "valid_from": "August 28, 2006",
+            "valid_to": "August 31, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v21",
+            "valid_from": "August 14, 2006",
+            "valid_to": "August 27, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v20",
+            "valid_from": "May 31, 2006",
+            "valid_to": "August 13, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v19",
+            "valid_from": "May 19, 2006",
+            "valid_to": "May 30, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v18",
+            "valid_from": "April  3, 2006",
+            "valid_to": "May 18, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v17",
+            "valid_from": "March 31, 2006",
+            "valid_to": "April  2, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v16",
+            "valid_from": "March 28, 2006",
+            "valid_to": "March 30, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v15",
+            "valid_from": "March  6, 2006",
+            "valid_to": "March 27, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v14",
+            "valid_from": "March  3, 2006",
+            "valid_to": "March  5, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v13",
+            "valid_from": "January  1, 2006",
+            "valid_to": "March  2, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v12",
+            "valid_from": "December  1, 2005",
+            "valid_to": "December 31, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v11",
+            "valid_from": "September  1, 2005",
+            "valid_to": "November 30, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v10",
+            "valid_from": "July 22, 2005",
+            "valid_to": "August 31, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v9",
+            "valid_from": "June 28, 2005",
+            "valid_to": "July 21, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v8",
+            "valid_from": "March 24, 2005",
+            "valid_to": "June 27, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v7",
+            "valid_from": "December 23, 2004",
+            "valid_to": "March 23, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v6",
+            "valid_from": "November 30, 2004",
+            "valid_to": "December 22, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v5",
+            "valid_from": "June 10, 2004",
+            "valid_to": "November 29, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v4",
+            "valid_from": "April  5, 2004",
+            "valid_to": "June  9, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v3",
+            "valid_from": "April  2, 2004",
+            "valid_to": "April  4, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v2",
+            "valid_from": "January  2, 2004",
+            "valid_to": "April  1, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900950/v1",
+            "valid_from": "December 18, 2003",
+            "valid_to": "January  1, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "Schedule 0.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "Schedule 0.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "Schedule 0.3",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Schedule 1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "Schedule 2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "Schedule 3",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "Schedule 3.0.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "Schedule 3.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "Schedule 4",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "Schedule 4.0.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "Schedule 4.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "Schedule 4.1.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "Schedule 4.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "Schedule 4.3",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "Schedule 5",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "Schedule 6",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "Schedule 8",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "Schedule 10",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "Schedule 12",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "Schedule 13",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "Schedule 17",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "Schedule 17.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "Schedule 17.4",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "Schedule 17.5",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "Schedule 17.6",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "Schedule 17.7",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "Schedule 17.8",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "Schedule 17.9",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "Schedule 17.10",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "Schedule 17.11",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "Schedule 18",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "Schedule 19",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "Schedule 20",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "Schedule 21",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "Schedule 38.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "Schedule 38.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "Schedule 38.3",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "Schedule 39",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "Schedule 40",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "Schedule 41",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "Schedule 41.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "Schedule 41.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "Schedule 41.3",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "Schedule 41.4",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "Schedule 42",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "Schedule 42.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "Schedule 43",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "Schedule 44",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "Schedule 45",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "Schedule 46",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "Schedule 48",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "Schedule 49",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "Schedule 50",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "Schedule 51",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK54",
+            "TOCid": "Schedule 52",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK55",
+            "TOCid": "Schedule 52.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK56",
+            "TOCid": "Schedule 52.1.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK57",
+            "TOCid": "Schedule 52.1.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK58",
+            "TOCid": "Schedule 52.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK59",
+            "TOCid": "Schedule 53",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK60",
+            "TOCid": "Schedule 54",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK61",
+            "TOCid": "Schedule 55",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK62",
+            "TOCid": "Schedule 55.0.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK63",
+            "TOCid": "Schedule 55.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK64",
+            "TOCid": "Schedule 56",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK65",
+            "TOCid": "Schedule 57",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK66",
+            "TOCid": "Schedule 58",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK67",
+            "TOCid": "Schedule 59",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK68",
+            "TOCid": "Schedule 60",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK69",
+            "TOCid": "Schedule 60.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK70",
+            "TOCid": "Schedule 60.1.0.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK71",
+            "TOCid": "Schedule 60.1.0.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK72",
+            "TOCid": "Schedule 60.1.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK73",
+            "TOCid": "Schedule 60.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK74",
+            "TOCid": "Schedule 61",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK75",
+            "TOCid": "Schedule 62",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK76",
+            "TOCid": "Schedule 63",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK77",
+            "TOCid": "Schedule 64",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK78",
+            "TOCid": "Schedule 65",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK79",
+            "TOCid": "Schedule 66",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK80",
+            "TOCid": "Schedule 66.0.0.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK81",
+            "TOCid": "Schedule 66.0.0.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK82",
+            "TOCid": "Schedule 66.0.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK83",
+            "TOCid": "Schedule 66.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK84",
+            "TOCid": "Schedule 66.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK85",
+            "TOCid": "Schedule 67",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK86",
+            "TOCid": "Schedule 67.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK87",
+            "TOCid": "Schedule 67.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK88",
+            "TOCid": "Schedule 67.3",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK89",
+            "TOCid": "Schedule 67.4",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK90",
+            "TOCid": "Schedule 67.5",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK91",
+            "TOCid": "Schedule 68",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK92",
+            "TOCid": "Schedule 69",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK93",
+            "TOCid": "Schedule 70",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK94",
+            "TOCid": "Schedule 70.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK95",
+            "TOCid": "Schedule 70.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK96",
+            "TOCid": "Schedule 70.3",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK97",
+            "TOCid": "Schedule 71",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK98",
+            "TOCid": "Schedule 72",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK99",
+            "TOCid": "Schedule 73",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK100",
+            "TOCid": "Schedule 73.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK101",
+            "TOCid": "Schedule 74",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK102",
+            "TOCid": "Schedule 74.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK103",
+            "TOCid": "Schedule 74.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK104",
+            "TOCid": "Schedule 74.3",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK105",
+            "TOCid": "Schedule 74.4",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK106",
+            "TOCid": "Schedule 74.5",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK107",
+            "TOCid": "Schedule 74.6",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK108",
+            "TOCid": "Schedule 74.7",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK109",
+            "TOCid": "Schedule 74.8",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK110",
+            "TOCid": "Schedule 75",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK111",
+            "TOCid": "Schedule 76",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK112",
+            "TOCid": "Schedule 76.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK113",
+            "TOCid": "Schedule 76.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK114",
+            "TOCid": "Schedule 76.3",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK115",
+            "TOCid": "Schedule 77",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK116",
+            "TOCid": "Schedule 77.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK117",
+            "TOCid": "Schedule 77.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK118",
+            "TOCid": "Schedule 78",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK119",
+            "TOCid": "Schedule 80.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK120",
+            "TOCid": "Schedule 81",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK121",
+            "TOCid": "Schedule 81.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK122",
+            "TOCid": "Schedule 82",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK123",
+            "TOCid": "Schedule 82.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK124",
+            "TOCid": "Schedule 82.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK125",
+            "TOCid": "Schedule 82.3",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK126",
+            "TOCid": "Schedule 83.0.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK127",
+            "TOCid": "Schedule 83.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK128",
+            "TOCid": "Schedule 84",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK129",
+            "TOCid": "Schedule 84.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK130",
+            "TOCid": "Schedule 84.2",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK131",
+            "TOCid": "Schedule 85",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

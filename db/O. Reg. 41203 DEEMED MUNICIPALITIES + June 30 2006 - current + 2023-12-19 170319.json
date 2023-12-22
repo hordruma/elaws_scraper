@@ -1,0 +1,56 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 412/03: DEEMED MUNICIPALITIES",
+        "reg_name_text": "deemed municipalities",
+        "citation": "O. Reg. 412/03: DEEMED MUNICIPALITIES",
+        "act_under": "Municipal Act, 2001   Loi de 2001 sur les municipalités",
+        "url": "https://www.ontario.ca/laws/regulation/030412",
+        "date_scraped": "2023-12-19 17:03:19"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "June 30, 2006",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/030412/v2",
+            "valid_from": "June 28, 2006",
+            "valid_to": "June 29, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/030412/v1",
+            "valid_from": "December  4, 2003",
+            "valid_to": "June 27, 2006"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": " 1. The Sault Ste. Marie North Planning Board is a municipality for the purposes of section 302 of the Act.  O. Reg. 412/03, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1.</b> The Sault Ste. Marie North Planning Board is a municipality for the purposes of section 302 of the Act.  O. Reg. 412/03, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": " 2. OMERS Sponsors Corporation, established under section 22 of the Ontario Municipal Employees Retirement System Act, 2006, is a municipality for the purposes of section 302 of the Act.  O. Reg. 348/06, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>OMERS Sponsors Corporation, established under section 22 of the <i>Ontario Municipal Employees Retirement System Act, 2006</i>, is a municipality for the purposes of section 302 of the Act.  O. Reg. 348/06, s. 1.</p>"
+        },
+        {
+            "id": "3.",
+            "section": null,
+            "content": " 3. OMERS Administration Corporation, continued under section 32 of the Ontario Municipal Employees Retirement System Act, 2006,\r\nis a municipality for the purposes of section 302 of the Act.  O. Reg. 348/06, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>OMERS Administration Corporation, continued under section 32 of the <i>Ontario Municipal Employees Retirement System Act, 2006</i><i>,\r\n</i>is a municipality for the purposes of section 302 of the Act.  O. Reg. 348/06, s. 1.</p>"
+        },
+        {
+            "id": null,
+            "section": null,
+            "content": "    ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

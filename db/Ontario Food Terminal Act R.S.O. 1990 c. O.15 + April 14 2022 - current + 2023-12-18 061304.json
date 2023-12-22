@@ -1,0 +1,218 @@
+{
+    "act_info": {
+        "full_title": "Ontario Food Terminal Act, R.S.O. 1990, c. O.15",
+        "act_name_text": "Ontario Food Terminal Act",
+        "citation": "R.S.O. 1990, c. O.15",
+        "url": "https://www.ontario.ca/laws/statute/90o15",
+        "date_scraped": "2023-12-18 06:13:04"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "April 14, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/90o15/v11",
+            "valid_from": "April  1, 2022",
+            "valid_to": "April 13, 2022"
+        },
+        {
+            "a_href": "/laws/statute/90o15/v10",
+            "valid_from": "October 19, 2021",
+            "valid_to": "March 31, 2022"
+        },
+        {
+            "a_href": "/laws/statute/90o15/v9",
+            "valid_from": "July  1, 2021",
+            "valid_to": "October 18, 2021"
+        },
+        {
+            "a_href": "/laws/statute/90o15/v8",
+            "valid_from": "November 30, 2020",
+            "valid_to": "June 30, 2021"
+        },
+        {
+            "a_href": "/laws/statute/90o15/v7",
+            "valid_from": "January  1, 2018",
+            "valid_to": "November 29, 2020"
+        },
+        {
+            "a_href": "/laws/statute/90o15/v6",
+            "valid_from": "December 14, 2017",
+            "valid_to": "December 31, 2017"
+        },
+        {
+            "a_href": "/laws/statute/90o15/v5",
+            "valid_from": "November 14, 2017",
+            "valid_to": "December 13, 2017"
+        },
+        {
+            "a_href": "/laws/statute/90o15/v4",
+            "valid_from": "October 25, 2010",
+            "valid_to": "November 13, 2017"
+        },
+        {
+            "a_href": "/laws/statute/90o15/v3",
+            "valid_from": "December 15, 2009",
+            "valid_to": "October 24, 2010"
+        },
+        {
+            "a_href": "/laws/statute/90o15/v2",
+            "valid_from": "November 30, 2004",
+            "valid_to": "December 14, 2009"
+        },
+        {
+            "a_href": "/laws/statute/90o15/v1",
+            "valid_from": "January  1, 1998",
+            "valid_to": "November 29, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/220148",
+            "Citation": "O. Reg. 148/22",
+            "title": "FOOD TERMINAL RULES"
+        },
+        {
+            "a_href": "/laws/regulation/220147",
+            "Citation": "O. Reg. 147/22",
+            "title": "CONDUCT OF BUSINESS"
+        },
+        {
+            "a_href": "/laws/regulation/090065",
+            "Citation": "O. Reg. 65/09",
+            "title": "RENTAL OF WAREHOUSE UNITS"
+        },
+        {
+            "a_href": "/laws/regulation/900871",
+            "Citation": "R.R.O. 1990, Reg. 871",
+            "title": "COMPOSITION AND PROCEDURE OF THE BOARD"
+        }
+    ],
+    "revoked_regs": null,
+    "content": [
+        {
+            "id": "1",
+            "section": "Definitions",
+            "content": "1 In this Act, “agricultural product” includes, subject to the rules made under section 13, dairy products, edible fungi, eggs, fish, flowers, fruit, honey, living and decorative horticultural products, nuts, maple products, plants, poultry, vegetables and other products designated in the rules made under section 13; (“produit agricole”) “Board” means the Ontario Food Terminal Board; (“Commission”) “manager” means the manager appointed under this Act; (“administrateur”) “Minister” means the Minister of Agriculture, Food and Rural Affairs; (“ministre”) “regulations” means the regulations made under this Act; (“règlements”) “securities” includes bonds, debentures and promissory notes; (“valeurs mobilières”) “Terminal” means the Ontario Food Terminal. (“Marché”)  R.S.O. 1990, c. O.15, s. 1; 2009, c. 33, Sched. 1, s. 23 (1); 2020, c. 29, Sched. 4, s. 1 (1, 2). Agricultural product (2) A product is considered to be an agricultural product whether or not it is wrapped, packaged or minimally processed. 2020, c. 29, Sched. 4, s. 1 (3). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 1, s. 23 (1) - 15/12/2009 2020, c. 29, Sched. 4, s. 1 (1-3) - 01/04/2022",
+            "raw_html": "<p class=\"section\"><b>1 </b>In this Act,</p> <p class=\"definition\">“agricultural product” includes, subject to the rules made under section 13, dairy products, edible fungi, eggs, fish, flowers, fruit, honey, living and decorative horticultural products, nuts, maple products, plants, poultry, vegetables and other products designated in the rules made under section 13; (“produit agricole”)</p> <p class=\"definition\">“Board” means the Ontario Food Terminal Board; (“Commission”)</p> <p class=\"definition\">“manager” means the manager appointed under this Act; (“administrateur”)</p> <p class=\"definition\">“Minister” means the Minister of Agriculture, Food and Rural Affairs; (“ministre”)</p> <p class=\"definition\">“regulations” means the regulations made under this Act; (“règlements”)</p> <p class=\"definition\">“securities” includes bonds, debentures and promissory notes; (“valeurs mobilières”)</p> <p class=\"definition\">“Terminal” means the Ontario Food Terminal. (“Marché”)  R.S.O. 1990, c. O.15, s. 1; 2009, c. 33, Sched. 1, s. 23 (1); 2020, c. 29, Sched. 4, s. 1 (1, 2).</p> <p class=\"headnote\">Agricultural product</p> <p class=\"subsection\">(2) A product is considered to be an agricultural product whether or not it is wrapped, packaged or minimally processed. 2020, c. 29, Sched. 4, s. 1 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched1s23s1\">2009, c. 33, Sched. 1, s. 23 (1)</a></span> - 15/12/2009</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20029#sched4s1s1\">2020, c. 29, Sched. 4, s. 1 (1-3)</a></span> - 01/04/2022</p>"
+        },
+        {
+            "id": "2",
+            "section": "Ontario Food Terminal Board",
+            "content": "2 (1) The Board known in English as the Ontario Food Terminal Board and in French as Commission du Marché des produits alimentaires de l’Ontario is continued as a body corporate without share capital and has a corporate seal in the form prescribed by the regulations. R.S.O. 1990, c. O.15, s. 2 (1); 2017, c. 20, Sched. 8, s. 110 (1). Board composition (2) The Board shall consist of at least five and not more than 13 persons appointed by the Lieutenant Governor in Council. 2020, c. 29, Sched. 4, s. 2. Chair, vice-chair (3) The Lieutenant Governor in Council may appoint one of the members of the Board to be chair and one of the members to be vice-chair. R.S.O. 1990, c. O.15, s. 2 (3). Quorum (4) A majority of the members of the Board constitutes a quorum. R.S.O. 1990, c. O.15, s. 2 (4). Allowances and expenses (5) The members of the Board shall receive such fees and expenses as the Lieutenant Governor in Council may determine and any member of the Board who is charged with the performance of any special services may be paid such additional remuneration therefor as the Lieutenant Governor in Council may determine. R.S.O. 1990, c. O.15, s. 2 (5). Section Amendments with date in force (d/m/y) 2017, c. 20, Sched. 8, s. 110 (1) - 19/10/2021 2020, c. 29, Sched. 4, s. 2 - 01/07/2021",
+            "raw_html": "<p class=\"section\"><b>2 </b>(1) The Board known in English as the Ontario Food Terminal Board and in French as Commission du Marché des produits alimentaires de l’Ontario is continued as a body corporate without share capital and has a corporate seal in the form prescribed by the regulations. R.S.O. 1990, c. O.15, s. 2 (1); 2017, c. 20, Sched. 8, s. 110 (1).</p> <p class=\"headnote\">Board composition</p> <p class=\"subsection\">(2) The Board shall consist of at least five and not more than 13 persons appointed by the Lieutenant Governor in Council. 2020, c. 29, Sched. 4, s. 2.</p> <p class=\"headnote\">Chair, vice-chair</p> <p class=\"subsection\">(3) The Lieutenant Governor in Council may appoint one of the members of the Board to be chair and one of the members to be vice-chair. R.S.O. 1990, c. O.15, s. 2 (3).</p> <p class=\"headnote\">Quorum</p> <p class=\"subsection\">(4) A majority of the members of the Board constitutes a quorum. R.S.O. 1990, c. O.15, s. 2 (4).</p> <p class=\"headnote\">Allowances and expenses</p> <p class=\"subsection\">(5) The members of the Board shall receive such fees and expenses as the Lieutenant Governor in Council may determine and any member of the Board who is charged with the performance of any special services may be paid such additional remuneration therefor as the Lieutenant Governor in Council may determine. R.S.O. 1990, c. O.15, s. 2 (5).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17020#sched8s110s1\">2017, c. 20, Sched. 8, s. 110 (1)</a></span> - 19/10/2021</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20029#sched4s2\">2020, c. 29, Sched. 4, s. 2</a></span> - 01/07/2021</p>"
+        },
+        {
+            "id": "3",
+            "section": "Appointment of officers, employees",
+            "content": "3 (1) Subject to the approval of the Minister, the Board may appoint a manager of the Terminal. 2020, c. 29, Sched. 4, s. 3. Clarification (1.1) The appointment of any person as a manager or other officer does not disqualify that person from acting as chair, vice-chair or a member of the Board. 2020, c. 29, Sched. 4, s. 3. Employees (2) Subject to the approval of the Board, the manager of the Terminal may appoint such employees as he or she considers necessary and fix their salaries or other remuneration.  R.S.O. 1990, c. O.15, s. 3. Section Amendments with date in force (d/m/y) 2020, c. 29, Sched. 4, s. 3 - 01/07/2021",
+            "raw_html": "<p class=\"section\"><b>3 </b>(1) Subject to the approval of the Minister, the Board may appoint a manager of the Terminal. 2020, c. 29, Sched. 4, s. 3.</p> <p class=\"headnote\">Clarification</p> <p class=\"subsection\">(1.1) The appointment of any person as a manager or other officer does not disqualify that person from acting as chair, vice-chair or a member of the Board. 2020, c. 29, Sched. 4, s. 3.</p> <p class=\"headnote\">Employees</p> <p class=\"subsection\">(2) Subject to the approval of the Board, the manager of the Terminal may appoint such employees as he or she considers necessary and fix their salaries or other remuneration.  R.S.O. 1990, c. O.15, s. 3.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20029#sched4s3\">2020, c. 29, Sched. 4, s. 3</a></span> - 01/07/2021</p>"
+        },
+        {
+            "id": "4",
+            "section": "Objects and powers of Board",
+            "content": "4 (1) The objects of the Board are, (a) to acquire, construct, equip and operate a wholesale market primarily for agricultural products in the City of Toronto or The Regional Municipality of York known in English as the Ontario Food Terminal and in French as Marché des produits alimentaires de l’Ontario and to acquire and operate such facilities for the transportation and handling of agricultural products as may be necessary for the purposes of the Terminal; and (a.1) to promote local food within the meaning of the Local Food Act, 2013; (b) to do such other acts as may be necessary or expedient for the carrying out of its operations and undertakings.  R.S.O. 1990, c. O.15, s. 4 (1); 1997, c. 26, Sched; 2020, c. 29, Sched. 4, s. 4. Power to borrow money and issue securities (2) The Board has the power to borrow money and to issue securities for the purpose of carrying out any of its objects and to make such securities payable as to principal and interest at such time or times and in such manner and at such place or places as the Board may determine. R.S.O. 1990, c. O.15, s. 4 (2). Application of Not-for-Profit Corporations Act, 2010 (2.1) The Not-for-Profit Corporations Act, 2010 does not apply to the Board. 2017, c. 20, Sched. 8, s. 110 (2). Additional powers (3) The Board, in carrying out its objects, has the powers set out in sections 23 and 275 of the Corporations Act. R.S.O. 1990, c. O.15, s. 4 (3). (4) Repealed: 2017, c. 20, Sched. 7, s. 82 (2). Section Amendments with date in force (d/m/y) 1997, c. 26, Sched. - 1/01/1998 2017, c. 20, Sched. 7, s. 82 (1) - 14/11/2017; 2017, c. 20, Sched. 7, s. 82 (2) - 19/10/2021; 2017, c. 20, Sched. 8, s. 110 (2) - 19/10/2021 2020, c. 29, Sched. 4, s. 4 (1) - 01/04/2022; 2020, c. 29, Sched. 4, s. 4 (2) - 01/07/2021",
+            "raw_html": "<p class=\"section\"><b>4 </b>(1) The objects of the Board are,</p> <p class=\"paragraph\">  (a) to acquire, construct, equip and operate a wholesale market primarily for agricultural products in the City of Toronto or The Regional Municipality of York known in English as the Ontario Food Terminal and in French as Marché des produits alimentaires de l’Ontario and to acquire and operate such facilities for the transportation and handling of agricultural products as may be necessary for the purposes of the Terminal; and</p> <p class=\"paragraph\"> (a.1) to promote local food within the meaning of the <i>Local Food Act, 2013</i>;</p> <p class=\"paragraph\">  (b) to do such other acts as may be necessary or expedient for the carrying out of its operations and undertakings.  R.S.O. 1990, c. O.15, s. 4 (1); 1997, c. 26, Sched; 2020, c. 29, Sched. 4, s. 4.</p> <p class=\"headnote\">Power to borrow money and issue securities</p> <p class=\"subsection\">(2) The Board has the power to borrow money and to issue securities for the purpose of carrying out any of its objects and to make such securities payable as to principal and interest at such time or times and in such manner and at such place or places as the Board may determine. R.S.O. 1990, c. O.15, s. 4 (2).</p> <p class=\"headnote\">Application of <i>Not-for-Profit Corporations Act, 2010</i></p> <p class=\"subsection\">(2.1) The <i>Not-for-Profit Corporations Act, 2010</i> does not apply to the Board. 2017, c. 20, Sched. 8, s. 110 (2).</p> <p class=\"headnote\">Additional powers</p> <p class=\"subsection\">(3) The Board, in carrying out its objects, has the powers set out in sections 23 and 275 of the <i>Corporations Act</i>. R.S.O. 1990, c. O.15, s. 4 (3).</p> <p class=\"subsection\">(4) <span class=\"ovsmallcap\">Repealed</span>: 2017, c. 20, Sched. 7, s. 82 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1997, c. 26, Sched. - 1/01/1998</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17020#sched7s82s1\">2017, c. 20, Sched. 7, s. 82 (1)</a></span> - 14/11/2017; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17020#sched7s82s2\">2017, c. 20, Sched. 7, s. 82 (2)</a></span> - 19/10/2021; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17020#sched8s110s2\">2017, c. 20, Sched. 8, s. 110 (2)</a></span> - 19/10/2021</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20029#sched4s4s1\">2020, c. 29, Sched. 4, s. 4 (1)</a></span> - 01/04/2022; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20029#sched4s4s2\">2020, c. 29, Sched. 4, s. 4 (2)</a></span> - 01/07/2021</p>"
+        },
+        {
+            "id": null,
+            "section": "Contingency plan for emergency situations",
+            "content": "4.1 (1) The Board shall develop and maintain a contingency plan with respect to the carrying out of its operations and undertakings during emergency situations that may put the continuity of those operations and undertakings at risk. 2022, c. 11, Sched. 3, s. 1. Same (2) The contingency plan must include a description of how all or part of the Board’s operations could be carried out temporarily, for no longer than 30 days at a time, from a location other than the Terminal’s current location in the event of such an emergency situation. 2022, c. 11, Sched. 3, s. 1. Same (3) The Minister may direct the Board to implement all or part of its contingency plan if the Minister is of the opinion that such an emergency situation exists. 2022, c. 11, Sched. 3, s. 1. Section Amendments with date in force (d/m/y) 2022, c. 11, Sched. 3, s. 1 - 14/04/2022",
+            "raw_html": "<p class=\"section\"><b>4.1 </b>(1) The Board shall develop and maintain a contingency plan with respect to the carrying out of its operations and undertakings during emergency situations that may put the continuity of those operations and undertakings at risk. <a href=\"http://www.ontario.ca/laws/statute/S22011#sched3s1\">2022, c. 11, Sched. 3, s. 1</a>.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The contingency plan must include a description of how all or part of the Board’s operations could be carried out temporarily, for no longer than 30 days at a time, from a location other than the Terminal’s current location in the event of such an emergency situation. <a href=\"http://www.ontario.ca/laws/statute/S22011#sched3s1\">2022, c. 11, Sched. 3, s. 1</a>.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3) The Minister may direct the Board to implement all or part of its contingency plan if the Minister is of the opinion that such an emergency situation exists. <a href=\"http://www.ontario.ca/laws/statute/S22011#sched3s1\">2022, c. 11, Sched. 3, s. 1</a>.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S22011#sched3s1\">2022, c. 11, Sched. 3, s. 1</a></span> - 14/04/2022</p>"
+        },
+        {
+            "id": "5",
+            "section": "Agreements",
+            "content": "5 The Board may rent space in the Terminal to such persons and upon such terms as the Board considers proper and may make such arrangement and enter into such agreement with any such person as it considers advisable in the circumstances.  R.S.O. 1990, c. O.15, s. 5.",
+            "raw_html": "<p class=\"section\"><b>5 </b>The Board may rent space in the Terminal to such persons and upon such terms as the Board considers proper and may make such arrangement and enter into such agreement with any such person as it considers advisable in the circumstances.  R.S.O. 1990, c. O.15, s. 5.</p>"
+        },
+        {
+            "id": "6",
+            "section": "Guarantee by Province",
+            "content": "6 (1) The Lieutenant Governor in Council may authorize the Minister of Finance for and on behalf of the Province of Ontario to guarantee the payment of any securities issued by the Board, the repayment of any advances made by banks to the Board and the payment of any other indebtedness incurred by the Board.  R.S.O. 1990, c. O.15, s. 6 (1); 2009, c. 33, Sched. 1, s. 23 (2). Form of guarantee (2) The form of any such guarantee and the manner of its execution shall be determined by the Lieutenant Governor in Council.  R.S.O. 1990, c. O.15, s. 6 (2). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 1, s. 23 (2) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><b>6 </b>(1) The Lieutenant Governor in Council may authorize the Minister of Finance for and on behalf of the Province of Ontario to guarantee the payment of any securities issued by the Board, the repayment of any advances made by banks to the Board and the payment of any other indebtedness incurred by the Board.  R.S.O. 1990, c. O.15, s. 6 (1); 2009, c. 33, Sched. 1, s. 23 (2).</p> <p class=\"headnote\">Form of guarantee</p> <p class=\"subsection\">(2) The form of any such guarantee and the manner of its execution shall be determined by the Lieutenant Governor in Council.  R.S.O. 1990, c. O.15, s. 6 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched1s23s2\">2009, c. 33, Sched. 1, s. 23 (2)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "id": "7",
+            "section": "Application of money",
+            "content": "7 All money received by the Board from the operation of its undertakings or otherwise shall be applied to, (a) operating expenses; (b) payment of interest on indebtedness; and (c) a sinking fund established by the Minister of Finance for the repayment of securities guaranteed by the Minister of Finance under subsection 6 (1) and for the retirement of any other indebtedness of the Board, and any surplus money remaining in any year after paying for operating expenses, interest on indebtedness and the repayment of any part of the principal money payable in that year shall be used in reducing the cost of operating the Terminal, reducing the fees, rents or other charges charged or made by the Board or for the setting up of such reserve funds as the Board may determine.  R.S.O. 1990, c. O.15, s. 7; 2009, c. 33, Sched. 1, s. 23 (3). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 1, s. 23 (3) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><b>7 </b>All money received by the Board from the operation of its undertakings or otherwise shall be applied to,</p> <p class=\"paragraph\">  (a) operating expenses;</p> <p class=\"paragraph\">  (b) payment of interest on indebtedness; and</p> <p class=\"paragraph\">  (c) a sinking fund established by the Minister of Finance for the repayment of securities guaranteed by the Minister of Finance under subsection 6 (1) and for the retirement of any other indebtedness of the Board,</p> <p class=\"section\">and any surplus money remaining in any year after paying for operating expenses, interest on indebtedness and the repayment of any part of the principal money payable in that year shall be used in reducing the cost of operating the Terminal, reducing the fees, rents or other charges charged or made by the Board or for the setting up of such reserve funds as the Board may determine.  R.S.O. 1990, c. O.15, s. 7; 2009, c. 33, Sched. 1, s. 23 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched1s23s3\">2009, c. 33, Sched. 1, s. 23 (3)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "id": null,
+            "section": "Application of money",
+            "content": "and any surplus money remaining in any year after paying for operating expenses, interest on indebtedness and the repayment of any part of the principal money payable in that year shall be used in reducing the cost of operating the Terminal, reducing the fees, rents or other charges charged or made by the Board or for the setting up of such reserve funds as the Board may determine.  R.S.O. 1990, c. O.15, s. 7; 2009, c. 33, Sched. 1, s. 23 (3). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 1, s. 23 (3) - 15/12/2009",
+            "raw_html": "<p class=\"section\">and any surplus money remaining in any year after paying for operating expenses, interest on indebtedness and the repayment of any part of the principal money payable in that year shall be used in reducing the cost of operating the Terminal, reducing the fees, rents or other charges charged or made by the Board or for the setting up of such reserve funds as the Board may determine.  R.S.O. 1990, c. O.15, s. 7; 2009, c. 33, Sched. 1, s. 23 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched1s23s3\">2009, c. 33, Sched. 1, s. 23 (3)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "id": "8",
+            "section": "Fiscal year",
+            "content": "8 The fiscal year of the Board commences on the 1st day of April in each year and ends on the 31st day of March in the following year.  R.S.O. 1990, c. O.15, s. 8.",
+            "raw_html": "<p class=\"section\"><b>8 </b>The fiscal year of the Board commences on the 1st day of April in each year and ends on the 31st day of March in the following year.  R.S.O. 1990, c. O.15, s. 8.</p>"
+        },
+        {
+            "id": "BK348",
+            "section": "Annual report",
+            "content": "9 (1) The Board shall prepare an annual report, provide it to the Minister and make it available to the public. 2017, c. 34, Sched. 46, s. 34. Same (2) The Board shall comply with such directives as may be issued by the Management Board of Cabinet with respect to, (a) the form and content of the annual report; (b) when to provide it to the Minister; and (c) when and how to make it available to the public. 2017, c. 34, Sched. 46, s. 34. Same (3) The Board shall include such additional content in the annual report as the Minister may require. 2017, c. 34, Sched. 46, s. 34. Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 46, s. 34 - 01/01/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK348\"></a><b>9 </b>(1) The Board shall prepare an annual report, provide it to the Minister and make it available to the public. 2017, c. 34, Sched. 46, s. 34.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The Board shall comply with such directives as may be issued by the Management Board of Cabinet with respect to,</p> <p class=\"paragraph\">  (a) the form and content of the annual report;</p> <p class=\"paragraph\">  (b) when to provide it to the Minister; and</p> <p class=\"paragraph\">  (c) when and how to make it available to the public. 2017, c. 34, Sched. 46, s. 34.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(3) The Board shall include such additional content in the annual report as the Minister may require. 2017, c. 34, Sched. 46, s. 34.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched46s34\">2017, c. 34, Sched. 46, s. 34</a></span> - 01/01/2018</p>"
+        },
+        {
+            "id": "BK349",
+            "section": "Tabling of annual report",
+            "content": "9.1 The Minister shall table the Board’s annual report in the Assembly and shall comply with such directives as may be issued by the Management Board of Cabinet with respect to when to table it. 2017, c. 34, Sched. 46, s. 34. Section Amendments with date in force (d/m/y) 2017, c. 34, Sched. 46, s. 34 - 01/01/2018",
+            "raw_html": "<p class=\"section\"><a name=\"BK349\"></a><b>9.1 </b>The Minister shall table the Board’s annual report in the Assembly and shall comply with such directives as may be issued by the Management Board of Cabinet with respect to when to table it. 2017, c. 34, Sched. 46, s. 34.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17034#sched46s34\">2017, c. 34, Sched. 46, s. 34</a></span> - 01/01/2018</p>"
+        },
+        {
+            "id": "10",
+            "section": "Audit",
+            "content": "10 The books and accounts of the Board shall be audited and checked from time to time by the Auditor General or such other auditor as the Lieutenant Governor in Council may designate and such auditor shall make an annual report to the Minister of Finance.  R.S.O. 1990, c. O.15, s. 10; 2004, c. 17, s. 32; 2009, c. 33, Sched. 1, s. 23 (4). Section Amendments with date in force (d/m/y) 2004, c. 17, s. 32\r\n- 30/11/2004 2009, c. 33, Sched. 1, s. 23 (4) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><b>10 </b>The books and accounts of the Board shall be audited and checked from time to time by the Auditor General or such other auditor as the Lieutenant Governor in Council may designate and such auditor shall make an annual report to the Minister of Finance.  R.S.O. 1990, c. O.15, s. 10; 2004, c. 17, s. 32; 2009, c. 33, Sched. 1, s. 23 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S04017#s32\">2004, c. 17, s. 32</a></span>\r\n- 30/11/2004</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched1s23s4\">2009, c. 33, Sched. 1, s. 23 (4)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "id": "11",
+            "section": "Authority to sue and be sued",
+            "content": "11 The Board may be sued and may institute or defend proceedings in any court.  R.S.O. 1990, c. O.15, s. 11.",
+            "raw_html": "<p class=\"section\"><b>11 </b>The Board may be sued and may institute or defend proceedings in any court.  R.S.O. 1990, c. O.15, s. 11.</p>"
+        },
+        {
+            "id": "11.1",
+            "section": "By-laws",
+            "content": "11.1 Subject to this Act and the regulations, the Board may make by-laws relating to the conduct of Board meetings and to the Board’s administrative practices and procedures.  2010, c. 16, Sched. 1, s. 8. Section Amendments with date in force (d/m/y) 2010, c. 16, Sched. 1, s. 8 - 25/10/2010",
+            "raw_html": "<p class=\"section\"><b>11.1 </b>Subject to this Act and the regulations, the Board may make by-laws relating to the conduct of Board meetings and to the Board’s administrative practices and procedures.  2010, c. 16, Sched. 1, s. 8.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S10016#sched1s8\">2010, c. 16, Sched. 1, s. 8</a></span> - 25/10/2010</p>"
+        },
+        {
+            "id": "11.2",
+            "section": "Committees",
+            "content": "11.2 The Board may establish one or more committees to provide advice or recommendations to the Board in respect of its objects. 2020, c. 29, Sched. 4, s. 5. Section Amendments with date in force (d/m/y) 2020, c. 29, Sched. 4, s. 5 - 01/07/2021",
+            "raw_html": "<p class=\"section\"><b>11.2 </b>The Board may establish one or more committees to provide advice or recommendations to the Board in respect of its objects. 2020, c. 29, Sched. 4, s. 5.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20029#sched4s5\">2020, c. 29, Sched. 4, s. 5</a></span> - 01/07/2021</p>"
+        },
+        {
+            "id": "12",
+            "section": "Regulations",
+            "content": "12 Subject to the approval of the Lieutenant Governor in Council, the Board may make regulations, (a) prescribing the officers of the Board; (b) prescribing the powers and duties of the manager of the Terminal and of the officers of the Board; (c) prescribing the form of the seal of the Board; (d) respecting the operation, management and maintenance of the Terminal; (e) respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act.  R.S.O. 1990, c. O.15, s. 12.",
+            "raw_html": "<p class=\"section\"><b>12 </b>Subject to the approval of the Lieutenant Governor in Council, the Board may make regulations,</p> <p class=\"paragraph\">  (a) prescribing the officers of the Board;</p> <p class=\"paragraph\">  (b) prescribing the powers and duties of the manager of the Terminal and of the officers of the Board;</p> <p class=\"paragraph\">  (c) prescribing the form of the seal of the Board;</p> <p class=\"paragraph\">  (d) respecting the operation, management and maintenance of the Terminal;</p> <p class=\"paragraph\">  (e) respecting any matter necessary or advisable to carry out effectively the intent and purpose of this Act.  R.S.O. 1990, c. O.15, s. 12.</p>"
+        },
+        {
+            "id": "13",
+            "section": "Rules",
+            "content": "13 (1) Subject to the regulations, the Board may make rules with respect to, (0.a) limiting what constitutes an agricultural product for the purposes of this Act; (0.b) designating products as agricultural products for the purposes of this Act; (a) the conduct of the Board’s employees; (b) the conduct of the Board’s tenants and their employees; (c) the conduct of any person on the Board’s premises for any purpose; (d) the use by any person of the Board’s facilities and equipment.  R.S.O. 1990, c. O.15, s. 13 (1); 2020, c. 29, Sched. 4, s. 6. Approval of Minister (2) No rule hereafter made under subsection (1) takes effect until it is approved by the Minister.  R.S.O. 1990, c. O.15, s. 13 (2). Section Amendments with date in force (d/m/y) 2020, c. 29, Sched. 4, s. 6 - 01/04/2022",
+            "raw_html": "<p class=\"section\"><b>13 </b>(1) Subject to the regulations, the Board may make rules with respect to,</p> <p class=\"paragraph\"> (0.a) limiting what constitutes an agricultural product for the purposes of this Act;</p> <p class=\"paragraph\"> (0.b) designating products as agricultural products for the purposes of this Act;</p> <p class=\"paragraph\">  (a) the conduct of the Board’s employees;</p> <p class=\"paragraph\">  (b) the conduct of the Board’s tenants and their employees;</p> <p class=\"paragraph\">  (c) the conduct of any person on the Board’s premises for any purpose;</p> <p class=\"paragraph\">  (d) the use by any person of the Board’s facilities and equipment.  R.S.O. 1990, c. O.15, s. 13 (1); 2020, c. 29, Sched. 4, s. 6.</p> <p class=\"headnote\">Approval of Minister</p> <p class=\"subsection\">(2) No rule hereafter made under subsection (1) takes effect until it is approved by the Minister.  R.S.O. 1990, c. O.15, s. 13 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20029#sched4s6\">2020, c. 29, Sched. 4, s. 6</a></span> - 01/04/2022</p>"
+        },
+        {
+            "id": "14",
+            "section": "Offence",
+            "content": "14 (1) Every person who contravenes this Act or the regulations or any rule made under this Act is guilty of an offence and on conviction is liable to a fine of not more than $2,000 for a first offence and to a fine of not more than $5,000 or to imprisonment for a term of not more than thirty days, or both, for any subsequent offence. Motor vehicle owner and driver liable for penalties (2) Where an offence under subsection (1) is committed by means of a motor vehicle, the driver of the motor vehicle, not being the owner, is liable to the fine provided under subsection (1) and the owner of the motor vehicle is also liable to the fine provided under subsection (1) unless at the time the offence was committed the driver was in possession of the motor vehicle without the owner’s consent.  R.S.O. 1990, c. O.15, s. 14. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>14 </b>(1) Every person who contravenes this Act or the regulations or any rule made under this Act is guilty of an offence and on conviction is liable to a fine of not more than $2,000 for a first offence and to a fine of not more than $5,000 or to imprisonment for a term of not more than thirty days, or both, for any subsequent offence.</p> <p class=\"headnote\">Motor vehicle owner and driver liable for penalties</p> <p class=\"subsection\">(2) Where an offence under subsection (1) is committed by means of a motor vehicle, the driver of the motor vehicle, not being the owner, is liable to the fine provided under subsection (1) and the owner of the motor vehicle is also liable to the fine provided under subsection (1) unless at the time the offence was committed the driver was in possession of the motor vehicle without the owner’s consent.  R.S.O. 1990, c. O.15, s. 14.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/90o15\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

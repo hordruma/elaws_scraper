@@ -1,0 +1,133 @@
+{
+    "act_info": {
+        "full_title": "Prepaid Hospital and Medical Services Act, R.S.O. 1990, c. P.21",
+        "act_name_text": "Prepaid Hospital and Medical Services Act",
+        "citation": "R.S.O. 1990, c. P.21",
+        "url": "https://www.ontario.ca/laws/statute/90p21",
+        "date_scraped": "2023-12-18 14:23:40"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "October 19, 2021",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/90p21/v9",
+            "valid_from": "June  8, 2019",
+            "valid_to": "October 18, 2021"
+        },
+        {
+            "a_href": "/laws/statute/90p21/v8",
+            "valid_from": "April  1, 2019",
+            "valid_to": "June  7, 2019"
+        },
+        {
+            "a_href": "/laws/statute/90p21/v7",
+            "valid_from": "May  8, 2018",
+            "valid_to": "March 31, 2019"
+        },
+        {
+            "a_href": "/laws/statute/90p21/v6",
+            "valid_from": "December 14, 2017",
+            "valid_to": "May  7, 2018"
+        },
+        {
+            "a_href": "/laws/statute/90p21/v5",
+            "valid_from": "November 14, 2017",
+            "valid_to": "December 13, 2017"
+        },
+        {
+            "a_href": "/laws/statute/90p21/v4",
+            "valid_from": "July 24, 2014",
+            "valid_to": "November 13, 2017"
+        },
+        {
+            "a_href": "/laws/statute/90p21/v3",
+            "valid_from": "May  5, 2008",
+            "valid_to": "July 23, 2014"
+        },
+        {
+            "a_href": "/laws/statute/90p21/v2",
+            "valid_from": "May 17, 2007",
+            "valid_to": "May  4, 2008"
+        },
+        {
+            "a_href": "/laws/statute/90p21/v1",
+            "valid_from": "December 22, 1999",
+            "valid_to": "May 16, 2007"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": NaN,
+            "TOCid": "did not exceed $15,000",
+            "section_x": "$10",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": "exceeded $15,000 but did not exceed $50,000",
+            "section_x": "$15",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": "exceeded $50,000 but did not exceed $100,000",
+            "section_x": "$25",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": "exceeded $100,000 but did not exceed $250,000",
+            "section_x": "$50",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": "exceeded $250,000 but did not exceed $1,000,000",
+            "section_x": "$100",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": NaN,
+            "TOCid": "exceeded $1,000,000",
+            "section_x": "$200",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

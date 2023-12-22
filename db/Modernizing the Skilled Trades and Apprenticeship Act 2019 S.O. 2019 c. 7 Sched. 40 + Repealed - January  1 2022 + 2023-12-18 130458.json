@@ -1,0 +1,828 @@
+{
+    "act_info": {
+        "full_title": "Modernizing the Skilled Trades and Apprenticeship Act, 2019, S.O. 2019, c. 7, Sched. 40",
+        "act_name_text": "Modernizing the Skilled Trades and Apprenticeship Act, 2019",
+        "citation": "S.O. 2019, c. 7, Sched. 40",
+        "url": "https://www.ontario.ca/laws/statute/19m07",
+        "date_scraped": "2023-12-18 13:05:03"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/statute/19m07/v3",
+            "valid_from": "June  3, 2021",
+            "valid_to": "December 31, 2021"
+        },
+        {
+            "a_href": "/laws/statute/19m07/v2",
+            "valid_from": "July  1, 2019",
+            "valid_to": "June  2, 2021"
+        },
+        {
+            "a_href": "/laws/statute/19m07/v1",
+            "valid_from": "May 29, 2019",
+            "valid_to": "June 30, 2019"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I  ",
+            "section_x": "PART I DEFINITIONS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": "PART I  ",
+            "part_type": "PART I DEFINITIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "PART II  ",
+            "section_x": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Activities of Trades and Skill Sets",
+            "section_x": "Activities of Trades and Skill Sets",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "2.",
+            "section_x": "Policy re activities of trade or skill set",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "Prohibitions",
+            "section_x": "Prohibitions",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "3.",
+            "section_x": "Performing restricted activity",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "4.",
+            "section_x": "Employing individual to perform restricted activity",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "5.",
+            "section_x": "Ratio",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "6.",
+            "section_x": "Proof of certificate, apprenticeship",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "Certificates – General",
+            "section_x": "Certificates – General",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "7.",
+            "section_x": "Certificate of apprenticeship",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "8.",
+            "section_x": "Certificate of qualification",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "9.",
+            "section_x": "Certificate of completion",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "10.",
+            "section_x": "Revocation of certificate",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "Certificates – Restricted Practice",
+            "section_x": "Certificates – Restricted Practice",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "11.",
+            "section_x": "Certificate of restricted practice",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "12.",
+            "section_x": "Conditions, suspension, revocation",
+            "part_id": "PART II  ",
+            "part_type": "PART II TRADES, SKILL SETS, RESTRICTED ACTIVITIES",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "PART III  ",
+            "section_x": "PART III APPRENTICESHIP",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "13.",
+            "section_x": "Apprenticeship program",
+            "part_id": "PART III  ",
+            "part_type": "PART III APPRENTICESHIP",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "14.",
+            "section_x": "Training agreements",
+            "part_id": "PART III  ",
+            "part_type": "PART III APPRENTICESHIP",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "15.",
+            "section_x": "Provisional certificates of restricted practice",
+            "part_id": "PART III  ",
+            "part_type": "PART III APPRENTICESHIP",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "16.",
+            "section_x": "Conditions, suspension, revocation",
+            "part_id": "PART III  ",
+            "part_type": "PART III APPRENTICESHIP",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "17.",
+            "section_x": "Ratio",
+            "part_id": "PART III  ",
+            "part_type": "PART III APPRENTICESHIP",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "PART IV  ",
+            "section_x": "PART IV INSPECTIONS AND INVESTIGATIONS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "18.",
+            "section_x": "Registrar’s inspections and investigations",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV INSPECTIONS AND INVESTIGATIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "19.",
+            "section_x": "Entries and searches by warrant: inspections and investigations",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV INSPECTIONS AND INVESTIGATIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "20.",
+            "section_x": "Return of things",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV INSPECTIONS AND INVESTIGATIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "21.",
+            "section_x": "Admissibility of certain documents",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV INSPECTIONS AND INVESTIGATIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "PART V  ",
+            "section_x": "PART V COMPLIANCE",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "Compliance Orders",
+            "section_x": "Compliance Orders",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLIANCE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "22.",
+            "section_x": "Compliance orders",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLIANCE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "Administrative Penalties",
+            "section_x": "Administrative Penalties",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLIANCE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "23.",
+            "section_x": "Notice of contravention",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLIANCE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "24.",
+            "section_x": "Review",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLIANCE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "25.",
+            "section_x": "Enforcement of administrative penalty",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLIANCE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "26.",
+            "section_x": "Crown debt",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLIANCE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "27.",
+            "section_x": "Registrar may authorize collector",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLIANCE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "28.",
+            "section_x": "Fees and disbursements",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLIANCE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "29.",
+            "section_x": "Settlement by collector",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLIANCE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "30.",
+            "section_x": "Publication",
+            "part_id": "PART V  ",
+            "part_type": "PART V COMPLIANCE",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "PART VI  ",
+            "section_x": "PART VI ADMINISTRATION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "Minister’s Functions",
+            "section_x": "Minister’s Functions",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "31.",
+            "section_x": "Minister’s functions",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "32.",
+            "section_x": "Other powers of Minister",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": "Committees",
+            "content": "32 (1) The Minister may establish committees to advise the Minister or the Registrar on any matter under this Act or the regulations. Same (2) A committee established under (1) shall consist of one or more individuals including individuals who shall have experience in the skilled trades and apprenticeship system. Fees (3) The Minister may establish and charge fees for applications made under this Act, for examinations required under this Act, or for any other power, duty or function performed in connection with this Act or the regulations. Note: Sections 33 to 55 of this Act are not yet in force. They come into force on a day to be named by proclamation of the Lieutenant Governor. (See: 2019, c. 7, Sched. 40, s. 65) Registrar Registrar of Skilled Trades and Apprenticeship 33 (1) The Minister may designate, in writing, a public servant employed under Part III of the Public Service of Ontario Act, 2006 as the Registrar of Skilled Trades and Apprenticeship. Duties and functions (2) The Registrar may exercise the powers and shall perform the duties and functions conferred or imposed on the Registrar by or under this Act. Delegation (3) The Registrar may delegate in writing any of their powers, duties or functions under this Act to one or more persons employed in the Ministry, subject to such limitations, restrictions, conditions, and requirements the Registrar may set out in the delegation. Registrar’s functions (4) The functions of the Registrar for the purposes of this Act are, (a)  to issue certificates of qualification and certificates of completion; (b)  to issue, renew, and amend certificates of restricted practice and issue and extend provisional certificates of restricted practice; (c)  to establish apprenticeship programs for trades and skill sets; (d)  to register training agreements; (e)  to administer examinations, including, (i)  examinations that may be required for the purposes of completing an apprenticeship program, or (ii)  certifying examinations; (f)  to provide those who successfully complete an apprenticeship program with a certificate of apprenticeship; (g)  to exercise and perform functions referred to in Part IV or V relating to inspections, investigations and compliance; and (h)  to exercise and perform such other powers, duties and functions as are provided for in this Act or the regulations. Register 34 Subject to any regulation respecting the removal of information from the register, the Registrar shall establish and maintain a public register which shall contain, (a)  the name of each apprentice working pursuant to a registered training agreement that is not suspended in a trade or skill set that includes one or more restricted activities, and the name of the trade or skill set in which the apprentice is receiving or is to receive training as part of an apprenticeship program; (b)  the name of each individual who holds a certificate of restricted practice, the restricted activities set out in the certificate, and each trade or skill set that includes the restricted activity and for which the individual holds a certificate of apprenticeship, certificate of qualification or certificate of completion; (c)  the name of each individual who holds a provisional certificate of restricted practice, the restricted activities set out in the certificate and each trade or skill set that includes the restricted activity and for which the individual holds a certificate of apprenticeship; (d)  any terms, conditions and limitations imposed on an individual’s certificate of restricted practice or provisional certificate of restricted practice; (e)  a notation of every suspension or revocation of a certificate of restricted practice or provisional certificate of restricted practice; and (f)  any other information that is prescribed as information to be kept in the register. Delegation to Administrative Authority Delegation to an administrative authority 35 (1) The Lieutenant Governor in Council may, by regulation, designate one or more persons as an administrative authority for the purposes of this Act. Same (2) Subject to subsection (3), a regulation made under subsection (1) shall specify the functions of the Minister listed in section 31 or of the Registrar listed in subsection 33 (4) for which administration is being delegated to the administrative authority, and the administrative authority shall carry out the administration of the delegated functions. Regulation-making power (3) A regulation made under subsection (1) may not delegate to an administrative authority any power to make regulations conferred by this Act. Same (4) Subject to the regulations, if a function of the Minister or Registrar is delegated to the administrative authority, any reference to the Minister or Registrar in the relevant provisions of this Act or the regulations shall be deemed to be a reference to the administrative authority, as the case may be. Administrative agreement 36 (1) The Lieutenant Governor in Council may not designate a person as an administrative authority until the Minister and the person have entered into an administrative agreement. Contents (2) The administrative agreement shall include, at a minimum, terms related to the following matters with respect to the administrative authority: 1.  All matters that the Minister considers necessary for the administrative authority to carry out the administration of the delegated functions. 2.  The maintenance by the administrative authority of adequate insurance against liability arising out of the carrying out of its powers and duties under this Act or the regulations. Amendment (3) The Minister may unilaterally amend the administrative agreement if the Minister considers the amendment to be in the public interest, after giving the administrative authority the notice that the Minister considers reasonable in the circumstances. Policy directions 37 (1) The Minister may issue policy directions to an administrative authority related to its powers and duties under this Act or the regulations, after giving the administrative authority the notice that the Minister considers reasonable in the circumstances. Part of administrative agreement (2) The policy directions are deemed to form part of the administrative agreement. Compliance (3) The administrative authority shall comply with the policy directions and shall implement measures to do so. Compliance by administrative authority 38 In carrying out the administration of the delegated functions under this Act or the regulations, the administrative authority shall comply with the administrative agreement, this Act, the regulations, and other applicable law. Conflict 39 In the event of conflict, this Act and the regulations prevail over, (a)  the administrative agreement; and (b)  the administrative authority’s constituting documents, bylaws and resolutions. Duty to inform Minister 40 The administrative authority shall promptly inform and advise the Minister with respect to, (a)  any material fact that could affect the administrative authority’s ability to perform its powers or duties under this Act or the regulations; or (b)  any urgent or critical matter that is likely to require action by the Minister to ensure that the administration of the delegated functions is carried out properly. Revocation of designation 41 (1) The Lieutenant Governor in Council may, by regulation, revoke the designation of the administrative authority if the Lieutenant Governor in Council considers it advisable to do so in the public interest. Revocation for non-compliance (2) The Lieutenant Governor in Council may, by regulation, revoke the designation of the administrative authority if, (a)  the administrative authority has failed to comply with this Act, the regulations, other applicable law or the administrative agreement; (b)  the Minister has allowed the administrative authority the opportunity to remedy its default within a specified time period that the Minister considers reasonable in the circumstances; and (c)  the administrative authority has not remedied its default to the Minister’s satisfaction within the specified time period mentioned in clause (b) and the Minister has so advised the Lieutenant Governor in Council. Same (3) Nothing in subsection (2) restricts the ability of the Lieutenant Governor in Council to act under subsection (1). Revocation on request (4) The Lieutenant Governor in Council may, by regulation, revoke the designation of the administrative authority on the terms that the Lieutenant Governor in Council considers advisable in the public interest if the administrative authority requests the revocation. Transition (5) If the Lieutenant Governor in Council revokes the designation of the administrative authority, the Lieutenant Governor in Council may, by regulation, provide for any transitional matter necessary for the effective implementation of the revocation. Not Crown agency 42 (1) Despite the Crown Agency Act, the administrative authority is not, by virtue only of the designation, an agent of the Crown for any purpose and shall not hold itself out as such. Same (2) The following persons are not agents of the Crown, by virtue only of the designation, and shall not hold themselves out as such: 1.  Any person who is employed or whose services are retained by the administrative authority. 2.  Any member, officer, or agent of the administrative authority. 3.  Any member of the board of directors of the administrative authority. No Crown liability 43 (1) No cause of action arises against the Crown as a direct or indirect result of any act or omission that a person who is acting on behalf of the administrative authority takes or makes in the execution or intended execution of any of the person’s powers or duties under this Act or the regulations. No proceeding (2) No action or other proceeding for damages, including but not limited to a proceeding for a remedy in contract, restitution, or tort, shall be instituted against the Crown in connection with any cause of action described in subsection (1). Indemnification of the Crown 44 The administrative authority shall indemnify the Crown, in accordance with the administrative agreement, in respect of damages and costs incurred by the Crown for any act or omission of the administrative authority or its members, officers, directors, employees, or agents in the execution or the intended execution of the administration of the delegated functions under this Act, the regulations or the administrative agreement. Not public money 45 (1) The money that the administrative authority collects in carrying out the administration of the delegated functions is not public money within the meaning of the Financial Administration Act. Same (2) The administrative authority may use the money described in subsection (1) only for the purposes of carrying out the administration of the delegated functions. Audit 46 (1) The Auditor General appointed under the Auditor General Act may conduct an audit of the administrative authority. Same (2) If the Auditor General conducts an audit under subsection (1), the administrative authority shall give the Auditor General and employees of the Auditor General access to all records and other information required to conduct the audit. Reports 47 The administrative authority shall report to the Minister on its activities and financial affairs as they relate to this Act and the administrative agreement. 1.  The report shall be in a form acceptable to the Minister and shall provide the information that the Minister requires. 2.  The administrative authority shall prepare a report for each year and at the other times that the Minister specifies. Right to use French 48 (1) A person has the right to communicate in French with, and to receive available services in French from, the administrative authority. Administrative authority’s duty (2) The administrative authority shall take all reasonable measures and make all reasonable plans to ensure that persons may exercise the right to use French given by this section. Limitation (3) The right to use French given by this section is subject to the limits that are reasonable in the circumstances. Definition (4) In this section, “service” means any service or procedure that is provided to the public by the administrative authority in carrying out its powers and duties under this Act or the regulations and includes, (a)  responding to inquiries from members of the public, and (b)  any other communications for the purpose of providing the service or procedure. Forms and fees 49 (1) The administrative authority may, (a)  establish forms related to the administration of the delegated functions; (b)  in accordance with processes and criteria established by the administrative authority and approved by the Minister, establish and collect fees related to the administration of the delegated functions; and (c)  make rules governing the payment of the fees described in clause (b). Publication of fee schedule (2) The administrative authority, (a)  shall publish the fees, the processes and criteria, and the rules on its website and in any other way described in the administrative agreement; and (b)  may publish the fees, processes, criteria and rules referred to in clause (a) in any other format that the administrative authority considers advisable. PART VII   Miscellaneous Conflict with Statutory Powers Procedure Act 50 If there is a conflict between this Act or the regulations and the Statutory Powers Procedure Act, the provisions of this Act or the regulations prevail. Service of notice or document 51 (1) A notice or document to be given or served under this Act is sufficiently given or served if it is, (a)  delivered personally; (b)  sent by mail; (c)  sent or delivered by another method, if the sender can prove receipt; or (d)  sent by any other prescribed manner. Deemed service (2) If a notice, order or request is served by mail, the service is deemed to be made on the fifth day after the day of mailing unless the person on whom the document is served establishes that he, she or it did not, acting in good faith, through absence, accident, illness or other cause beyond the person's control, receive it until a later date. Personal information 52 (1) The Minister may collect personal information, directly or indirectly, for purposes related to the following matters, and may use it for those purposes: 1.  Administering this Act and the regulations and implementing the policies made under this Act. 2.  Ensuring compliance with this Act, the regulations, and the policies made under this Act. 3.  Planning or delivering programs or services in relation to trades, skill sets and apprenticeship that the Ministry provides or funds, in whole or in part, allocating resources to any of them, evaluating or monitoring any of them or detecting, monitoring and preventing fraud or any unauthorized receipt of services or benefits related to any of them. 4.  Risk management, error management or activities to improve or maintain the quality of the programs or services in relation to trades, skill sets and apprenticeship that the Ministry provides or funds, in whole or in part. 5.  Research and statistical activities that relate to apprenticeship or trades or skill sets, whether or not they are prescribed as trades or skill sets under this Act, and that are conducted by or on behalf of the Ministry. 6.  Such other matters related to apprenticeship, trades or skills sets, whether or not they are prescribed as trades or skill sets under this Act, as the Lieutenant Governor in Council may determine. Limits on collection, use and disclosure (2) The Minister shall not collect, use or disclose personal information if other information will serve the purpose of the collection, use or disclosure. Same (3) The Minister shall not collect, use or disclose more personal information than is reasonably necessary to meet the purpose of the collection, use or disclosure. Collection and use of personal information for research (4) The collection or use of personal information for purposes related to the research as mentioned in paragraph 5 of subsection (1) is subject to any requirements and restrictions that may be prescribed. Disclosure (5) The Minister may require any of the following to disclose to the Minister such personal information as is reasonably necessary for the purposes described in subsection (1): 1.  Persons approved by the Minister to provide in-class training for apprenticeship programs. 2.  Sponsors. 3.  Employers of apprentices and individuals who hold a certificate issued under this Act. 4.  Any person designated as an administrative authority under this Act. 5.  Other prescribed persons. Same (6) The Minister may specify the time at which, and the form in which, the information must be provided. Notice required by s. 39 (2) of FIPPA (7) If the Minister collects personal information indirectly under subsection (1), without limiting the Minister’s ability to give notice in other ways, the notice required by subsection 39 (2) of the Freedom of Information and Protection of Privacy Act may be given by a public notice posted on the Ministry’s website. Reports and information 53 The Minister may require the following persons to provide reports and information and may specify the time at which, and the form in which, the reports and information must be provided: 1.  Persons approved by the Minister to provide in-class training for apprenticeship programs. 2.  Any person designated as an administrative authority under this Act. 3.  Other prescribed persons. PART VIII   REgulations Minister’s regulations 54 (1) The Minister may make regulations, (a)  prescribing a trade or skill set as a trade or skill set for the purposes of this Act; (b)  prescribing an activity as a restricted activity for the purposes of this Act and providing that the restricted activity is included in one or more trades or skill sets; (c)  providing for any transitional matter that may arise in connection with a trade, skill set or restricted activity no longer being prescribed for the purposes of this Act; (d)  governing what constitutes proof of certification for the purposes of subsection 6 (1) or proof of apprenticeship for the purposes of subsection 6 (2); (e)  designating persons by name, job title or otherwise who are authorized to request proof of a certificate of restricted practice, provisional certificate of restricted practice or proof of apprenticeship; (f)  governing certificates of apprenticeship, including the revocation of certificates of apprenticeship and the circumstances in which they may be revoked; (g)  governing certificates of qualification and certificates of completion, including, (i)  prescribing the trades and skill sets for which a certifying examination is required, (ii)  governing applications for certificates and the issuance of certificates, (iii)  governing the revocation of certificates, including the circumstances in which certificates may be revoked; (h)  governing certificates of restricted practice and provisional certificates of restricted practice, including, (i)  applications for certificates and the issuance, renewal, extension and amendment of certificates, (ii)  the term for which a certificate may be issued, renewed or extended, including providing for a different term depending on the trade, skill set, or restricted activity, (iii)  the renewal or extension of certificates, including the time period within which an individual must apply for a renewal or extension, (iv)  the terms, conditions and limitations that may be imposed on certificates, (v)  the suspension and revocation of certificates, including the circumstances in which certificates may be suspended or revoked and the process for suspension or revocation; (i)  governing apprenticeship programs, including with respect to on-the-job training standards, in-class curriculum standards, examinations and other requirements; (j)  governing registered training agreements and the registration of training agreements, including prescribing academic standards, sponsor criteria and any other criteria that must be satisfied in order to register a training agreement, and the suspension and revocation of a registered training agreement, including the circumstances in which an agreement may be suspended or revoked and the process for suspension or revocation; (k)  deeming an individual from another province or territory of Canada to be an apprentice under a registered training agreement under which he or she is to receive training in a trade or skill set required as part of an apprenticeship program, subject to such conditions and restrictions as may be specified in the regulations; (l)  governing apprentice to journeyperson ratios, including, (i)  prescribing a trade or skill set as being subject to an apprentice to journeyperson ratio, (ii)  prescribing that a different apprentice to journeyperson ratio applies for a trade or skill set than the ratio set out in section 17, (iii)  governing when individuals shall be deemed to be apprentices or journeypersons for the purposes of the apprentice to journeyperson ratio applicable to a trade or skill set, (iv)  governing the determination of compliance with an apprentice to journeyperson ratio set out in section 17 or in a regulation, (v)  establishing and governing processes by which the Minister may grant a person an exemption from an apprentice to journeyperson ratio or specify a different ratio for that person; (m)  governing the public register; (n)  prescribing alternative methods for serving a notice or document; (o)  providing that a different time period or deadline shall apply instead of a time period or deadline specified in this Act; (p)  exempting any person from any provision of this Act or the regulations; (q)  providing for any transitional matter relating to the implementation of this Act or amendments to this Act; (r)  prescribing or otherwise providing for anything required or permitted under this Act, other than anything referred to in subsection 55 (1), to be prescribed or otherwise provided for in the regulations, including governing anything required or permitted to be done in accordance with the regulations. Conflict (2) In the event of a conflict between a regulation made under clause (1) (q) and this Act, the regulation prevails. Lieutenant Governor in Council regulations 55 (1 ) The Lieutenant Governor in Council may make regulations, (a)  governing hearings under sections 12, 14 and 16, including prescribing the person who shall conduct hearings, the process for conducting hearings and the period within which a hearing must be requested; (b)  governing inspections and investigations under Part IV of this Act, including prescribing additional powers and duties of inspectors; (c)  governing compliance orders, including governing their content and when they may be amended or revoked; (d)  governing administrative penalties and all matters necessary and incidental to the administration of a system of administrative penalties under this Act; (e)  prescribing additional functions of the Minister for the purposes of section 31; (f)  prescribing additional functions of the Registrar for the purposes of section 33; (g)  delegating to the Minister the power to make regulations with respect to any matter that may be the subject of a regulation under this subsection; (h)  where a function has been delegated to an administrative authority, governing whether references in this Act to the Minister or Registrar are deemed to be references to the administrative authority and providing that this Act shall be read with any necessary modifications; (i)  authorizing personal information to be collected by or on behalf of the Minister, other than directly from the individual to whom the information relates, and regulating the manner in which the information is collected; (j)  prescribing requirements and restrictions for the purposes of subsection 52 (4) and prescribing persons for the purposes of subsection 52 (5); (k)  governing reports and information that may be required under section 53, including prescribing persons to whom section 53 applies; (l)  defining, for the purposes of this Act and the regulations, any word or expression used in this Act that has not already been expressly defined in this Act; (m)  providing for any other matters the Lieutenant Governor in Council considers necessary or advisable in connection with this Act. Residual authority to act (2) Despite any delegation to the Minister under clause (1) (g) and without having to revoke the delegation, the Lieutenant Governor in Council continues to have authority to make regulations in respect of the matter that is the subject of the delegation. Making regulation not revocation (3) If the Lieutenant Governor in Council makes a regulation to which subsection (2) applies, the regulation does not have the effect of revoking a delegation under this section unless the regulation so specifies. Minister’s regulations preserved (4) The Lieutenant Governor in Council may, by regulation, revoke a delegation to the Minister under clause (1) (g), but the revocation of a delegation does not result in the revocation of any regulation the Minister made under the delegated power before the revocation of the delegation. PART IX   Transition",
+            "raw_html": "<p class=\"section\"><a name=\"BK44\"></a><b>32 </b>(1) The Minister may establish committees to advise the Minister or the Registrar on any matter under this Act or the regulations.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) A committee established under (1) shall consist of one or more individuals including individuals who shall have experience in the skilled trades and apprenticeship system.</p> <p class=\"headnote\">Fees</p> <p class=\"subsection\">(3) The Minister may establish and charge fees for applications made under this Act, for examinations required under this Act, or for any other power, duty or function performed in connection with this Act or the regulations.</p> <p class=\"Pnote-e\"><span>Note: Sections 33 to 55 of this Act are not yet in force. They come into force on a day to be named by proclamation of the Lieutenant Governor</span>.<span> (See: 2019, c. 7, Sched. 40, s. 65)</span></p> <p class=\"Yheading1\"><a name=\"BK45\"></a><span>Registrar</span></p> <p class=\"Yheadnote\"><span>Registrar of Skilled Trades and Apprenticeship</span></p> <p class=\"Ysection\"><a name=\"BK46\"></a><b><span>33 </span></b><span>(1) The Minister may designate, in writing, a public servant employed under Part III of the <i>Public Service of Ontario Act, 2006</i> as the Registrar of Skilled Trades and Apprenticeship.</span></p> <p class=\"Yheadnote\"><span>Duties and functions</span></p> <p class=\"Ysubsection\"><span>(2) The Registrar may exercise the powers and shall perform the duties and functions conferred or imposed on the Registrar by or under this Act.</span></p> <p class=\"Yheadnote\"><span>Delegation</span></p> <p class=\"Ysubsection\"><span>(3) The Registrar may delegate in writing any of their powers, duties or functions under this Act to one or more persons employed in the Ministry, subject to such limitations, restrictions, conditions, and requirements the Registrar may set out in the delegation.</span></p> <p class=\"Yheadnote\"><span>Registrar’s functions</span></p> <p class=\"Ysubsection\"><span>(4) The functions of the Registrar for the purposes of this Act are,</span></p> <p class=\"Yparagraph\"><span>  (a)  to issue certificates of qualification and certificates of completion;</span></p> <p class=\"Yparagraph\"><span>  (b)  to issue, renew, and amend certificates of restricted practice and issue and extend provisional certificates of restricted practice;</span></p> <p class=\"Yparagraph\"><span>  (c)  to establish apprenticeship programs for trades and skill sets;</span></p> <p class=\"Yparagraph\"><span>  (d)  to register training agreements;</span></p> <p class=\"Yparagraph\"><span>  (e)  to administer examinations, including,</span></p> <p class=\"Ysubpara\"><span>  (i)  examinations that may be required for the purposes of completing an apprenticeship program, or</span></p> <p class=\"Ysubpara\"><span>  (ii)  certifying examinations;</span></p> <p class=\"Yparagraph\"><span>  (f)  to provide those who successfully complete an apprenticeship program with a certificate of apprenticeship;</span></p> <p class=\"Yparagraph\"><span>  (g)  to exercise and perform functions referred to in Part IV or V relating to inspections, investigations and compliance; and</span></p> <p class=\"Yparagraph\"><span>  (h)  to exercise and perform such other powers, duties and functions as are provided for in this Act or the regulations.</span></p> <p class=\"Yheadnote\"><span>Register</span></p> <p class=\"Ysection\"><a name=\"BK47\"></a><b><span>34 </span></b><span>Subject to any regulation respecting the removal of information from the register, the Registrar shall establish and maintain a public register which shall contain,</span></p> <p class=\"Yparagraph\"><span>  (a)  the name of each apprentice working pursuant to a registered training agreement that is not suspended in a trade or skill set that includes one or more restricted activities, and the name of the trade or skill set in which the apprentice is receiving or is to receive training as part of an apprenticeship program;</span></p> <p class=\"Yparagraph\"><span>  (b)  the name of each individual who holds a certificate of restricted practice, the restricted activities set out in the certificate, and each trade or skill set that includes the restricted activity and for which the individual holds a certificate of apprenticeship, certificate of qualification or certificate of completion;</span></p> <p class=\"Yparagraph\"><span>  (c)  the name of each individual who holds a provisional certificate of restricted practice, the restricted activities set out in the certificate and each trade or skill set that includes the restricted activity and for which the individual holds a certificate of apprenticeship;</span></p> <p class=\"Yparagraph\"><span>  (d)  any terms, conditions and limitations imposed on an individual’s certificate of restricted practice or provisional certificate of restricted practice;</span></p> <p class=\"Yparagraph\"><span>  (e)  a notation of every suspension or revocation of a certificate of restricted practice or provisional certificate of restricted practice; and</span></p> <p class=\"Yparagraph\"><span>  (f)  any other information that is prescribed as information to be kept in the register.</span></p> <p class=\"Yheading1\"><a name=\"BK48\"></a><span>Delegation to Administrative Authority</span></p> <p class=\"Yheadnote\"><span>Delegation to an administrative authority</span></p> <p class=\"Ysection\"><a name=\"BK49\"></a><b><span>35 </span></b><span>(1) The Lieutenant Governor in Council may, by regulation, designate one or more persons as an administrative authority for the purposes of this Act.</span></p> <p class=\"Yheadnote\"><span>Same</span></p> <p class=\"Ysubsection\"><span>(2) Subject to subsection (3), a regulation made under subsection (1) shall specify the functions of the Minister listed in section 31 or of the Registrar listed in subsection 33 (4) for which administration is being delegated to the administrative authority, and the administrative authority shall carry out the administration of the delegated functions.</span></p> <p class=\"Yheadnote\"><span>Regulation-making power</span></p> <p class=\"Ysubsection\"><span>(3) A regulation made under subsection (1) may not delegate to an administrative authority any power to make regulations conferred by this Act.</span></p> <p class=\"Yheadnote\"><span>Same</span></p> <p class=\"Ysubsection\"><span>(4) Subject to the regulations, if a function of the Minister or Registrar is delegated to the administrative authority, any reference to the Minister or Registrar in the relevant provisions of this Act or the regulations shall be deemed to be a reference to the administrative authority, as the case may be.</span></p> <p class=\"Yheadnote\"><span>Administrative agreement</span></p> <p class=\"Ysection\"><a name=\"BK50\"></a><b><span>36 </span></b><span>(1) The Lieutenant Governor in Council may not designate a person as an administrative authority until the Minister and the person have entered into an administrative agreement.</span></p> <p class=\"Yheadnote\"><span>Contents</span></p> <p class=\"Ysubsection\"><span>(2) The administrative agreement shall include, at a minimum, terms related to the following matters with respect to the administrative authority:</span></p> <p class=\"Yparagraph\"><span>  1.  All matters that the Minister considers necessary for the administrative authority to carry out the administration of the delegated functions.</span></p> <p class=\"Yparagraph\"><span>  2.  The maintenance by the administrative authority of adequate insurance against liability arising out of the carrying out of its powers and duties under this Act or the regulations.</span></p> <p class=\"Yheadnote\"><span>Amendment</span></p> <p class=\"Ysubsection\"><span>(3) The Minister may unilaterally amend the administrative agreement if the Minister considers the amendment to be in the public interest, after giving the administrative authority the notice that the Minister considers reasonable in the circumstances.</span></p> <p class=\"Yheadnote\"><span>Policy directions</span></p> <p class=\"Ysection\"><a name=\"BK51\"></a><b><span>37 </span></b><span>(1) The Minister may issue policy directions to an administrative authority related to its powers and duties under this Act or the regulations, after giving the administrative authority the notice that the Minister considers reasonable in the circumstances.</span></p> <p class=\"Yheadnote\"><span>Part of administrative agreement</span></p> <p class=\"Ysubsection\"><span>(2) The policy directions are deemed to form part of the administrative agreement.</span></p> <p class=\"Yheadnote\"><span>Compliance</span></p> <p class=\"Ysubsection\"><span>(3) The administrative authority shall comply with the policy directions and shall implement measures to do so.</span></p> <p class=\"Yheadnote\"><span>Compliance by administrative authority</span></p> <p class=\"Ysection\"><a name=\"BK52\"></a><b><span>38 </span></b><span>In carrying out the administration of the delegated functions under this Act or the regulations, the administrative authority shall comply with the administrative agreement, this Act, the regulations, and other applicable law.</span></p> <p class=\"Yheadnote\"><span>Conflict</span></p> <p class=\"Ysection\"><a name=\"BK53\"></a><b><span>39 </span></b><span>In the event of conflict, this Act and the regulations prevail over,</span></p> <p class=\"Yparagraph\"><span>  (a)  the administrative agreement; and</span></p> <p class=\"Yparagraph\"><span>  (b)  the administrative authority’s constituting documents, bylaws and resolutions.</span></p> <p class=\"Yheadnote\"><span>Duty to inform Minister</span></p> <p class=\"Ysection\"><a name=\"BK54\"></a><b><span>40 </span></b><span>The administrative authority shall promptly inform and advise the Minister with respect to,</span></p> <p class=\"Yparagraph\"><span>  (a)  any material fact that could affect the administrative authority’s ability to perform its powers or duties under this Act or the regulations; or</span></p> <p class=\"Yparagraph\"><span>  (b)  any urgent or critical matter that is likely to require action by the Minister to ensure that the administration of the delegated functions is carried out properly.</span></p> <p class=\"Yheadnote\"><span>Revocation of designation</span></p> <p class=\"Ysection\"><a name=\"BK55\"></a><b><span>41 </span></b><span>(1) The Lieutenant Governor in Council may, by regulation, revoke the designation of the administrative authority if the Lieutenant Governor in Council considers it advisable to do so in the public interest.</span></p> <p class=\"Yheadnote\"><span>Revocation for non-compliance</span></p> <p class=\"Ysubsection\"><span>(2) The Lieutenant Governor in Council may, by regulation, revoke the designation of the administrative authority if,</span></p> <p class=\"Yparagraph\"><span>  (a)  the administrative authority has failed to comply with this Act, the regulations, other applicable law or the administrative agreement;</span></p> <p class=\"Yparagraph\"><span>  (b)  the Minister has allowed the administrative authority the opportunity to remedy its default within a specified time period that the Minister considers reasonable in the circumstances; and</span></p> <p class=\"Yparagraph\"><span>  (c)  the administrative authority has not remedied its default to the Minister’s satisfaction within the specified time period mentioned in clause (b) and the Minister has so advised the Lieutenant Governor in Council.</span></p> <p class=\"Yheadnote\"><span>Same</span></p> <p class=\"Ysubsection\"><span>(3) Nothing in subsection (2) restricts the ability of the Lieutenant Governor in Council to act under subsection (1).</span></p> <p class=\"Yheadnote\"><span>Revocation on request</span></p> <p class=\"Ysubsection\"><span>(4) The Lieutenant Governor in Council may, by regulation, revoke the designation of the administrative authority on the terms that the Lieutenant Governor in Council considers advisable in the public interest if the administrative authority requests the revocation.</span></p> <p class=\"Yheadnote\"><span>Transition</span></p> <p class=\"Ysubsection\"><span>(5) If the Lieutenant Governor in Council revokes the designation of the administrative authority, the Lieutenant Governor in Council may, by regulation, provide for any transitional matter necessary for the effective implementation of the revocation.</span></p> <p class=\"Yheadnote\"><span>Not Crown agency</span></p> <p class=\"Ysection\"><a name=\"BK56\"></a><b><span>42 </span></b><span>(1) Despite the <i>Crown Agency Act</i>, the administrative authority is not, by virtue only of the designation, an agent of the Crown for any purpose and shall not hold itself out as such.</span></p> <p class=\"Yheadnote\"><span>Same</span></p> <p class=\"Ysubsection\"><span>(2) The following persons are not agents of the Crown, by virtue only of the designation, and shall not hold themselves out as such:</span></p> <p class=\"Yparagraph\"><span>  1.  Any person who is employed or whose services are retained by the administrative authority.</span></p> <p class=\"Yparagraph\"><span>  2.  Any member, officer, or agent of the administrative authority.</span></p> <p class=\"Yparagraph\"><span>  3.  Any member of the board of directors of the administrative authority.</span></p> <p class=\"Yheadnote\"><span>No Crown liability</span></p> <p class=\"Ysection\"><a name=\"BK57\"></a><b><span>43 </span></b><span>(1) No cause of action arises against the Crown as a direct or indirect result of any act or omission that a person who is acting on behalf of the administrative authority takes or makes in the execution or intended execution of any of the person’s powers or duties under this Act or the regulations.</span></p> <p class=\"Yheadnote\"><span>No proceeding</span></p> <p class=\"Ysubsection\"><span>(2) No action or other proceeding for damages, including but not limited to a proceeding for a remedy in contract, restitution, or tort, shall be instituted against the Crown in connection with any cause of action described in subsection (1).</span></p> <p class=\"Yheadnote\"><span>Indemnification of the Crown</span></p> <p class=\"Ysection\"><a name=\"BK58\"></a><b><span>44 </span></b><span>The administrative authority shall indemnify the Crown, in accordance with the administrative agreement, in respect of damages and costs incurred by the Crown for any act or omission of the administrative authority or its members, officers, directors, employees, or agents in the execution or the intended execution of the administration of the delegated functions under this Act, the regulations or the administrative agreement.</span></p> <p class=\"Yheadnote\"><span>Not public money</span></p> <p class=\"Ysection\"><a name=\"BK59\"></a><b><span>45 </span></b><span>(1) The money that the administrative authority collects in carrying out the administration of the delegated functions is not public money within the meaning of the <i>Financial Administration Act</i>.</span></p> <p class=\"Yheadnote\"><span>Same</span></p> <p class=\"Ysubsection\"><span>(2) The administrative authority may use the money described in subsection (1) only for the purposes of carrying out the administration of the delegated functions.</span></p> <p class=\"Yheadnote\"><span>Audit</span></p> <p class=\"Ysection\"><a name=\"BK60\"></a><b><span>46 </span></b><span>(1) The Auditor General appointed under the <i>Auditor General Act</i> may conduct an audit of the administrative authority.</span></p> <p class=\"Yheadnote\"><span>Same</span></p> <p class=\"Ysubsection\"><span>(2) If the Auditor General conducts an audit under subsection (1), the administrative authority shall give the Auditor General and employees of the Auditor General access to all records and other information required to conduct the audit.</span></p> <p class=\"Yheadnote\"><span>Reports</span></p> <p class=\"Ysection\"><a name=\"BK61\"></a><b><span>47 </span></b><span>The administrative authority shall report to the Minister on its activities and financial affairs as they relate to this Act and the administrative agreement.</span></p> <p class=\"Yparagraph\"><span>  1.  The report shall be in a form acceptable to the Minister and shall provide the information that the Minister requires.</span></p> <p class=\"Yparagraph\"><span>  2.  The administrative authority shall prepare a report for each year and at the other times that the Minister specifies.</span></p> <p class=\"Yheadnote\"><span>Right to use French</span></p> <p class=\"Ysection\"><a name=\"BK62\"></a><b><span>48 </span></b><span>(1) A person has the right to communicate in French with, and to receive available services in French from, the administrative authority.</span></p> <p class=\"Yheadnote\"><span>Administrative authority’s duty</span></p> <p class=\"Ysubsection\"><span>(2) The administrative authority shall take all reasonable measures and make all reasonable plans to ensure that persons may exercise the right to use French given by this section.</span></p> <p class=\"Yheadnote\"><span>Limitation</span></p> <p class=\"Ysubsection\"><span>(3) The right to use French given by this section is subject to the limits that are reasonable in the circumstances.</span></p> <p class=\"Yheadnote\"><span>Definition</span></p> <p class=\"Ysubsection\"><span>(4) In this section,</span></p> <p class=\"Ydefinition\"><span>“service” means any service or procedure that is provided to the public by the administrative authority in carrying out its powers and duties under this Act or the regulations and includes,</span></p> <p class=\"Yparagraph\"><span>  (a)  responding to inquiries from members of the public, and</span></p> <p class=\"Yparagraph\"><span>  (b)  any other communications for the purpose of providing the service or procedure.</span></p> <p class=\"Yheadnote\"><span>Forms and fees</span></p> <p class=\"Ysection\"><a name=\"BK63\"></a><b><span>49 </span></b><span>(1) The administrative authority may,</span></p> <p class=\"Yparagraph\"><span>  (a)  establish forms related to the administration of the delegated functions;</span></p> <p class=\"Yparagraph\"><span>  (b)  in accordance with processes and criteria established by the administrative authority and approved by the Minister, establish and collect fees related to the administration of the delegated functions; and</span></p> <p class=\"Yparagraph\"><span>  (c)  make rules governing the payment of the fees described in clause (b).</span></p> <p class=\"Yheadnote\"><span>Publication of fee schedule</span></p> <p class=\"Ysubsection\"><span>(2) The administrative authority,</span></p> <p class=\"Yparagraph\"><span>  (a)  shall publish the fees, the processes and criteria, and the rules on its website and in any other way described in the administrative agreement; and</span></p> <p class=\"Yparagraph\"><span>  (b)  may publish the fees, processes, criteria and rules referred to in clause (a) in any other format that the administrative authority considers advisable.</span></p> <p class=\"Ypartnum\"><a name=\"BK64\"></a><span>PART VII <br/>  Miscellaneous</span></p> <p class=\"Yheadnote\"><span>Conflict with <i>Statutory Powers Procedure Act</i></span></p> <p class=\"Ysection\"><a name=\"BK65\"></a><b><span>50 </span></b><span>If there is a conflict between this Act or the regulations and the <i>Statutory Powers Procedure Act</i>, the provisions of this Act or the regulations prevail.</span></p> <p class=\"Yheadnote\"><span>Service of notice or document</span></p> <p class=\"Ysection\"><a name=\"BK66\"></a><b><span>51 </span></b><span>(1) A notice or document to be given or served under this Act is sufficiently given or served if it is,</span></p> <p class=\"Yparagraph\"><span>  (a)  delivered personally;</span></p> <p class=\"Yparagraph\"><span>  (b)  sent by mail;</span></p> <p class=\"Yparagraph\"><span>  (c)  sent or delivered by another method, if the sender can prove receipt; or</span></p> <p class=\"Yparagraph\"><span>  (d)  sent by any other prescribed manner.</span></p> <p class=\"Yheadnote\"><span>Deemed service</span></p> <p class=\"Ysubsection\"><span>(2) If a notice, order or request is served by mail, the service is deemed to be made on the fifth day after the day of mailing unless the person on whom the document is served establishes that he, she or it did not, acting in good faith, through absence, accident, illness or other cause beyond the person's control, receive it until a later date.</span></p> <p class=\"Yheadnote\"><span>Personal information</span></p> <p class=\"Ysection\"><a name=\"BK67\"></a><b><span>52 </span></b><span>(1) The Minister may collect personal information, directly or indirectly, for purposes related to the following matters, and may use it for those purposes:</span></p> <p class=\"Yparagraph\"><span>  1.  Administering this Act and the regulations and implementing the policies made under this Act.</span></p> <p class=\"Yparagraph\"><span>  2.  Ensuring compliance with this Act, the regulations, and the policies made under this Act.</span></p> <p class=\"Yparagraph\"><span>  3.  Planning or delivering programs or services in relation to trades, skill sets and apprenticeship that the Ministry provides or funds, in whole or in part, allocating resources to any of them, evaluating or monitoring any of them or detecting, monitoring and preventing fraud or any unauthorized receipt of services or benefits related to any of them.</span></p> <p class=\"Yparagraph\"><span>  4.  Risk management, error management or activities to improve or maintain the quality of the programs or services in relation to trades, skill sets and apprenticeship that the Ministry provides or funds, in whole or in part.</span></p> <p class=\"Yparagraph\"><span>  5.  Research and statistical activities that relate to apprenticeship or trades or skill sets, whether or not they are prescribed as trades or skill sets under this Act, and that are conducted by or on behalf of the Ministry.</span></p> <p class=\"Yparagraph\"><span>  6.  Such other matters related to apprenticeship, trades or skills sets, whether or not they are prescribed as trades or skill sets under this Act, as the Lieutenant Governor in Council may determine.</span></p> <p class=\"Yheadnote\"><span>Limits on collection, use and disclosure</span></p> <p class=\"Ysubsection\"><span>(2) The Minister shall not collect, use or disclose personal information if other information will serve the purpose of the collection, use or disclosure.</span></p> <p class=\"Yheadnote\"><span>Same</span></p> <p class=\"Ysubsection\"><span>(3) The Minister shall not collect, use or disclose more personal information than is reasonably necessary to meet the purpose of the collection, use or disclosure.</span></p> <p class=\"Yheadnote\"><span>Collection and use of personal information for research</span></p> <p class=\"Ysubsection\"><span>(4) The collection or use of personal information for purposes related to the research as mentioned in paragraph 5 of subsection (1) is subject to any requirements and restrictions that may be prescribed.</span></p> <p class=\"Yheadnote\"><span>Disclosure</span></p> <p class=\"Ysubsection\"><span>(5) The Minister may require any of the following to disclose to the Minister such personal information as is reasonably necessary for the purposes described in subsection (1):</span></p> <p class=\"Yparagraph\"><span>  1.  Persons approved by the Minister to provide in-class training for apprenticeship programs.</span></p> <p class=\"Yparagraph\"><span>  2.  Sponsors.</span></p> <p class=\"Yparagraph\"><span>  3.  Employers of apprentices and individuals who hold a certificate issued under this Act.</span></p> <p class=\"Yparagraph\"><span>  4.  Any person designated as an administrative authority under this Act.</span></p> <p class=\"Yparagraph\"><span>  5.  Other prescribed persons.</span></p> <p class=\"Yheadnote\"><span>Same</span></p> <p class=\"Ysubsection\"><span>(6) The Minister may specify the time at which, and the form in which, the information must be provided.</span></p> <p class=\"Yheadnote\"><span>Notice required by s. 39 (2) of <i>FIPPA</i></span></p> <p class=\"Ysubsection\"><span>(7) If the Minister collects personal information indirectly under subsection (1), without limiting the Minister’s ability to give notice in other ways, the notice required by subsection 39 (2) of the <i>Freedom of Information and Protection of Privacy Act</i> may be given by a public notice posted on the Ministry’s website.</span></p> <p class=\"Yheadnote\"><span>Reports and information</span></p> <p class=\"Ysection\"><a name=\"BK68\"></a><b><span>53 </span></b><span>The Minister may require the following persons to provide reports and information and may specify the time at which, and the form in which, the reports and information must be provided:</span></p> <p class=\"Yparagraph\"><span>  1.  Persons approved by the Minister to provide in-class training for apprenticeship programs.</span></p> <p class=\"Yparagraph\"><span>  2.  Any person designated as an administrative authority under this Act.</span></p> <p class=\"Yparagraph\"><span>  3.  Other prescribed persons.</span></p> <p class=\"Ypartnum\"><a name=\"BK69\"></a><span>PART VIII <br/>  REgulations</span></p> <p class=\"Yheadnote\"><span>Minister’s regulations</span></p> <p class=\"Ysection\"><a name=\"BK70\"></a><b><span>54 </span></b><span>(1) The Minister may make regulations,</span></p> <p class=\"Yparagraph\"><span>  (a)  prescribing a trade or skill set as a trade or skill set for the purposes of this Act;</span></p> <p class=\"Yparagraph\"><span>  (b)  prescribing an activity as a restricted activity for the purposes of this Act and providing that the restricted activity is included in one or more trades or skill sets;</span></p> <p class=\"Yparagraph\"><span>  (c)  providing for any transitional matter that may arise in connection with a trade, skill set or restricted activity no longer being prescribed for the purposes of this Act;</span></p> <p class=\"Yparagraph\"><span>  (d)  governing what constitutes proof of certification for the purposes of subsection 6 (1) or proof of apprenticeship for the purposes of subsection 6 (2);</span></p> <p class=\"Yparagraph\"><span>  (e)  designating persons by name, job title or otherwise who are authorized to request proof of a certificate of restricted practice, provisional certificate of restricted practice or proof of apprenticeship;</span></p> <p class=\"Yparagraph\"><span>  (f)  governing certificates of apprenticeship, including the revocation of certificates of apprenticeship and the circumstances in which they may be revoked;</span></p> <p class=\"Yparagraph\"><span>  (g)  governing certificates of qualification and certificates of completion, including,</span></p> <p class=\"Ysubpara\"><span>  (i)  prescribing the trades and skill sets for which a certifying examination is required,</span></p> <p class=\"Ysubpara\"><span>  (ii)  governing applications for certificates and the issuance of certificates,</span></p> <p class=\"Ysubpara\"><span>  (iii)  governing the revocation of certificates, including the circumstances in which certificates may be revoked;</span></p> <p class=\"Yparagraph\"><span>  (h)  governing certificates of restricted practice and provisional certificates of restricted practice, including,</span></p> <p class=\"Ysubpara\"><span>  (i)  applications for certificates and the issuance, renewal, extension and amendment of certificates,</span></p> <p class=\"Ysubpara\"><span>  (ii)  the term for which a certificate may be issued, renewed or extended, including providing for a different term depending on the trade, skill set, or restricted activity,</span></p> <p class=\"Ysubpara\"><span>  (iii)  the renewal or extension of certificates, including the time period within which an individual must apply for a renewal or extension,</span></p> <p class=\"Ysubpara\"><span>  (iv)  the terms, conditions and limitations that may be imposed on certificates,</span></p> <p class=\"Ysubpara\"><span>  (v)  the suspension and revocation of certificates, including the circumstances in which certificates may be suspended or revoked and the process for suspension or revocation;</span></p> <p class=\"Yparagraph\"><span>  (i)  governing apprenticeship programs, including with respect to on-the-job training standards, in-class curriculum standards, examinations and other requirements;</span></p> <p class=\"Yparagraph\"><span>  (j)  governing registered training agreements and the registration of training agreements, including prescribing academic standards, sponsor criteria and any other criteria that must be satisfied in order to register a training agreement, and the suspension and revocation of a registered training agreement, including the circumstances in which an agreement may be suspended or revoked and the process for suspension or revocation;</span></p> <p class=\"Yparagraph\"><span>  (k)  deeming an individual from another province or territory of Canada to be an apprentice under a registered training agreement under which he or she is to receive training in a trade or skill set required as part of an apprenticeship program, subject to such conditions and restrictions as may be specified in the regulations;</span></p> <p class=\"Yparagraph\"><span>  (l)  governing apprentice to journeyperson ratios, including,</span></p> <p class=\"Ysubpara\"><span>  (i)  prescribing a trade or skill set as being subject to an apprentice to journeyperson ratio,</span></p> <p class=\"Ysubpara\"><span>  (ii)  prescribing that a different apprentice to journeyperson ratio applies for a trade or skill set than the ratio set out in section 17,</span></p> <p class=\"Ysubpara\"><span>  (iii)  governing when individuals shall be deemed to be apprentices or journeypersons for the purposes of the apprentice to journeyperson ratio applicable to a trade or skill set,</span></p> <p class=\"Ysubpara\"><span>  (iv)  governing the determination of compliance with an apprentice to journeyperson ratio set out in section 17 or in a regulation,</span></p> <p class=\"Ysubpara\"><span>  (v)  establishing and governing processes by which the Minister may grant a person an exemption from an apprentice to journeyperson ratio or specify a different ratio for that person;</span></p> <p class=\"Yparagraph\"><span>  (m)  governing the public register;</span></p> <p class=\"Yparagraph\"><span>  (n)  prescribing alternative methods for serving a notice or document;</span></p> <p class=\"Yparagraph\"><span>  (o)  providing that a different time period or deadline shall apply instead of a time period or deadline specified in this Act;</span></p> <p class=\"Yparagraph\"><span>  (p)  exempting any person from any provision of this Act or the regulations;</span></p> <p class=\"Yparagraph\"><span>  (q)  providing for any transitional matter relating to the implementation of this Act or amendments to this Act;</span></p> <p class=\"Yparagraph\"><span>  (r)  prescribing or otherwise providing for anything required or permitted under this Act, other than anything referred to in subsection 55 (1), to be prescribed or otherwise provided for in the regulations, including governing anything required or permitted to be done in accordance with the regulations.</span></p> <p class=\"Yheadnote\"><span>Conflict</span></p> <p class=\"Ysubsection\"><span>(2) In the event of a conflict between a regulation made under clause (1) (q) and this Act, the regulation prevails.</span></p> <p class=\"Yheadnote\"><span>Lieutenant Governor in Council regulations</span></p> <p class=\"Ysection\"><a name=\"BK71\"></a><b><span>55 </span></b><span>(1 ) </span><span>The Lieutenant Governor in Council may make regulations,</span></p> <p class=\"Yparagraph\"><span>  (a)  governing hearings under sections 12, 14 and 16, including prescribing the person who shall conduct hearings, the process for conducting hearings and the period within which a hearing must be requested;</span></p> <p class=\"Yparagraph\"><span>  (b)  governing inspections and investigations under Part IV of this Act, including prescribing additional powers and duties of inspectors;</span></p> <p class=\"Yparagraph\"><span>  (c)  governing compliance orders, including governing their content and when they may be amended or revoked;</span></p> <p class=\"Yparagraph\"><span>  (d)  governing administrative penalties and all matters necessary and incidental to the administration of a system of administrative penalties under this Act;</span></p> <p class=\"Yparagraph\"><span>  (e)  prescribing additional functions of the Minister for the purposes of section 31;</span></p> <p class=\"Yparagraph\"><span>  (f)  prescribing additional functions of the Registrar for the purposes of section 33;</span></p> <p class=\"Yparagraph\"><span>  (g)  delegating to the Minister the power to make regulations with respect to any matter that may be the subject of a regulation under this subsection;</span></p> <p class=\"Yparagraph\"><span>  (h)  where a function has been delegated to an administrative authority, governing whether references in this Act to the Minister or Registrar are deemed to be references to the administrative authority and providing that this Act shall be read with any necessary modifications;</span></p> <p class=\"Yparagraph\"><span>  (i)  authorizing personal information to be collected by or on behalf of the Minister, other than directly from the individual to whom the information relates, and regulating the manner in which the information is collected;</span></p> <p class=\"Yparagraph\"><span>  (j)  prescribing requirements and restrictions for the purposes of subsection 52 (4) and prescribing persons for the purposes of subsection 52 (5);</span></p> <p class=\"Yparagraph\"><span>  (k)  governing reports and information that may be required under section 53, including prescribing persons to whom section 53 applies;</span></p> <p class=\"Yparagraph\"><span>  (l)  defining, for the purposes of this Act and the regulations, any word or expression used in this Act that has not already been expressly defined in this Act;</span></p> <p class=\"Yparagraph\"><span>  (m)  providing for any other matters the Lieutenant Governor in Council considers necessary or advisable in connection with this Act.</span></p> <p class=\"Yheadnote\"><span>Residual authority to act</span></p> <p class=\"Ysubsection\"><span>(2) Despite any delegation to the Minister under clause (1) (g) and without having to revoke the delegation, the Lieutenant Governor in Council continues to have authority to make regulations in respect of the matter that is the subject of the delegation.</span></p> <p class=\"Yheadnote\"><span>Making regulation not revocation</span></p> <p class=\"Ysubsection\"><span>(3) If the Lieutenant Governor in Council makes a regulation to which subsection (2) applies, the regulation does not have the effect of revoking a delegation under this section unless the regulation so specifies.</span></p> <p class=\"Yheadnote\"><span>Minister’s regulations preserved</span></p> <p class=\"Ysubsection\"><span>(4) The Lieutenant Governor in Council may, by regulation, revoke a delegation to the Minister under clause (1) (g), but the revocation of a delegation does not result in the revocation of any regulation the Minister made under the delegated power before the revocation of the delegation.</span></p> <p class=\"partnum\"><a name=\"BK72\"></a>PART IX <br/>  Transition</p>"
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "Registrar",
+            "section_x": "Registrar",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "33.",
+            "section_x": "Registrar of Skilled Trades and Apprenticeship",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "34.",
+            "section_x": "Register",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "Delegation to Administrative Authority",
+            "section_x": "Delegation to Administrative Authority",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "35.",
+            "section_x": "Delegation to an administrative authority",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "36.",
+            "section_x": "Administrative agreement",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "37.",
+            "section_x": "Policy directions",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "38.",
+            "section_x": "Compliance by administrative authority",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "39.",
+            "section_x": "Conflict",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK54",
+            "TOCid": "40.",
+            "section_x": "Duty to inform Minister",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK55",
+            "TOCid": "41.",
+            "section_x": "Revocation of designation",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK56",
+            "TOCid": "42.",
+            "section_x": "Not Crown agency",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK57",
+            "TOCid": "43.",
+            "section_x": "No Crown liability",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK58",
+            "TOCid": "44.",
+            "section_x": "Indemnification of the Crown",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK59",
+            "TOCid": "45.",
+            "section_x": "Not public money",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK60",
+            "TOCid": "46.",
+            "section_x": "Audit",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK61",
+            "TOCid": "47.",
+            "section_x": "Reports",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK62",
+            "TOCid": "48.",
+            "section_x": "Right to use French",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK63",
+            "TOCid": "49.",
+            "section_x": "Forms and fees",
+            "part_id": "PART VI  ",
+            "part_type": "PART VI ADMINISTRATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK64",
+            "TOCid": "PART VII  ",
+            "section_x": "PART VII MISCELLANEOUS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK65",
+            "TOCid": "50.",
+            "section_x": "Conflict with Statutory Powers Procedure Act",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII MISCELLANEOUS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK66",
+            "TOCid": "51.",
+            "section_x": "Service of notice or document",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII MISCELLANEOUS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK67",
+            "TOCid": "52.",
+            "section_x": "Personal information",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII MISCELLANEOUS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK68",
+            "TOCid": "53.",
+            "section_x": "Reports and information",
+            "part_id": "PART VII  ",
+            "part_type": "PART VII MISCELLANEOUS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK69",
+            "TOCid": "PART VIII  ",
+            "section_x": "PART VIII REGULATIONS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK70",
+            "TOCid": "54.",
+            "section_x": "Minister’s regulations",
+            "part_id": "PART VIII  ",
+            "part_type": "PART VIII REGULATIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK71",
+            "TOCid": "55.",
+            "section_x": "Lieutenant Governor in Council regulations",
+            "part_id": "PART VIII  ",
+            "part_type": "PART VIII REGULATIONS",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK72",
+            "TOCid": "PART IX  ",
+            "section_x": "PART IX TRANSITION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK73",
+            "TOCid": "56.",
+            "section_x": "Definition",
+            "part_id": "PART IX  ",
+            "part_type": "PART IX TRANSITION",
+            "section_y": "Definition",
+            "content": "56 In this Part, “College” means the Ontario College of Trades.",
+            "raw_html": "<p class=\"section\"><a name=\"BK73\"></a><b>56 </b>In this Part,</p> <p class=\"definition\">“College” means the Ontario College of Trades.</p>"
+        },
+        {
+            "ahref_id": "#BK74",
+            "TOCid": "57.",
+            "section_x": "Regulations re transition",
+            "part_id": "PART IX  ",
+            "part_type": "PART IX TRANSITION",
+            "section_y": "Regulations re transition",
+            "content": "57 (1) The Minister may make regulations providing for any transitional matters relating to the implementation of this Act and the repeal of the Ontario College of Trades and Apprenticeship Act, 2009, including, (a)  deeming certificates of qualification, statements of membership and statements of completion of an apprenticeship program under the Ontario College of Trades and Apprenticeship Act, 2009\r\nto be certificates under this Act and providing for any related processes; (b)  providing that terms, conditions and limitations on a certificate or statement issued under the Ontario College of Trades and Apprenticeship Act, 2009 continue to apply or apply with modifications to a certificate or statement deemed to be a certificate issued under this Act; (c)  deeming registered training agreements under the Ontario College of Trades and Apprenticeship Act, 2009 to be registered training agreements under this Act and providing for any related processes; (d)  providing that a trade is no longer deemed a trade for the purposes of this Act and providing for any transitional matter that may arise in connection with a trade no longer being deemed a trade for the purpose of this Act; (e)  governing outstanding proceedings under Part V or administrative penalties under Part VIII.1 of the Ontario College of Trades and Apprenticeship Act, 2009. Conflict (2) In the event of a conflict between a regulation made under subsection (1) and this Act or the Ontario College of Trades and Apprenticeship Act, 2009, the regulation prevails. Note: Section 58 of this Act is not yet in force. It comes into force on a day to be named by proclamation of the Lieutenant Governor. (See: 2019, c. 7, Sched. 40, s. 65) Deemed trades 58 (1) Each trade that was prescribed under clause 74 (3) (a) of the Ontario College of Trades and Apprenticeship Act, 2009, as that provision read immediately before it was repealed, is deemed to be a trade for the purposes of this Act until a regulation is made prescribing the trade for the purposes of this Act or prescribing that the trade is no longer deemed to be a trade for the purposes of this Act. Scope of practice (2) For each trade deemed under subsection (1) to be a trade for the purposes of this Act, the scope of practice prescribed for the trade under paragraph 1 of subsection 72 (1) of the Ontario College of Trades and Apprenticeship Act, 2009, as that provision read immediately before it was repealed, is deemed to be the description of the trade in a policy required under subsection 2 (1) until the Minister makes a policy under that subsection providing otherwise or until the Minister prescribes that the trade is no longer deemed to be a trade for the purposes of this Act. Same (3) For each compulsory trade under the Ontario College of Trades and Apprenticeship Act, 2009 deemed under subsection (1) to be a trade for the purposes of this Act, all activities included in the scope of practice of the trade under that Act are deemed to be restricted activities for the purposes of this Act until, (a)  a regulation is made prescribing the trade for the purposes of this Act and the Minister makes a policy under subsection 2 (1); or (b)  a regulation is made prescribing that the trade is no longer deemed to be a trade for the purposes of this Act.",
+            "raw_html": "<p class=\"section\"><a name=\"BK74\"></a><b>57 </b>(1) The Minister may make regulations providing for any transitional matters relating to the implementation of this Act and the repeal of the <i>Ontario College of Trades and Apprenticeship Act, 2009</i>, including,</p> <p class=\"paragraph\">  (a)  deeming certificates of qualification, statements of membership and statements of completion of an apprenticeship program under the <i>Ontario College of Trades and Apprenticeship Act, 2009</i>\r\nto be certificates under this Act and providing for any related processes;</p> <p class=\"paragraph\">  (b)  providing that terms, conditions and limitations on a certificate or statement issued under the <i>Ontario College of Trades and Apprenticeship Act, 2009</i> continue to apply or apply with modifications to a certificate or statement deemed to be a certificate issued under this Act;</p> <p class=\"paragraph\">  (c)  deeming registered training agreements under the <i>Ontario College of Trades and Apprenticeship Act, 2009</i> to be registered training agreements under this Act and providing for any related processes;</p> <p class=\"paragraph\">  (d)  providing that a trade is no longer deemed a trade for the purposes of this Act and providing for any transitional matter that may arise in connection with a trade no longer being deemed a trade for the purpose of this Act;</p> <p class=\"paragraph\">  (e)  governing outstanding proceedings under Part V or administrative penalties under Part VIII.1 of the <i>Ontario College of Trades and Apprenticeship Act, 2009</i>.</p> <p class=\"headnote\">Conflict</p> <p class=\"subsection\">(2) In the event of a conflict between a regulation made under subsection (1) and this Act or the <i>Ontario College of Trades and Apprenticeship Act, 2009</i>, the regulation prevails.</p> <p class=\"Pnote-e\"><span>Note: Section 58 of this Act is not yet in force. It comes into force on a day to be named by proclamation of the Lieutenant Governor</span>.<span> (See: 2019, c. 7, Sched. 40, s. 65)</span></p> <p class=\"Yheadnote\"><span>Deemed trades</span></p> <p class=\"Ysection\"><a name=\"BK75\"></a><b><span>58 </span></b><span>(1) Each trade that was prescribed under clause 74 (3) (a) of the <i>Ontario College of Trades and Apprenticeship Act, 2009</i>, as that provision read immediately before it was repealed, is deemed to be a trade for the purposes of this Act until a regulation is made prescribing the trade for the purposes of this Act or prescribing that the trade is no longer deemed to be a trade for the purposes of this Act.</span></p> <p class=\"Yheadnote\"><span>Scope of practice</span></p> <p class=\"Ysubsection\"><span>(2) For each trade deemed under subsection (1) to be a trade for the purposes of this Act, the scope of practice prescribed for the trade under paragraph 1 of subsection 72 (1) of the <i>Ontario College of Trades and Apprenticeship Act, 2009</i>, as that provision read immediately before it was repealed, is deemed to be the description of the trade in a policy required under subsection 2 (1) until the Minister makes a policy under that subsection providing otherwise or until the Minister prescribes that the trade is no longer deemed to be a trade for the purposes of this Act.</span></p> <p class=\"Yheadnote\"><span>Same</span></p> <p class=\"Ysubsection\"><span>(3) For each compulsory trade under the <i>Ontario College of Trades and Apprenticeship Act, 2009</i> deemed under subsection (1) to be a trade for the purposes of this Act, all activities included in the scope of practice of the trade under that Act are deemed to be restricted activities for the purposes of this Act until,</span></p> <p class=\"Yparagraph\"><span>  (a)  a regulation is made prescribing the trade for the purposes of this Act and the Minister makes a policy under subsection 2 (1); or</span></p> <p class=\"Yparagraph\"><span>  (b)  a regulation is made prescribing that the trade is no longer deemed to be a trade for the purposes of this Act.</span></p>"
+        },
+        {
+            "ahref_id": "#BK75",
+            "TOCid": "58.",
+            "section_x": "Deemed trades",
+            "part_id": "PART IX  ",
+            "part_type": "PART IX TRANSITION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK76",
+            "TOCid": "59.",
+            "section_x": "Dissolution of Ontario College of Trades",
+            "part_id": "PART IX  ",
+            "part_type": "PART IX TRANSITION",
+            "section_y": "Dissolution of Ontario College of Trades",
+            "content": "59 (1) The College is dissolved on the day section 9 of the Ontario College of Trades and Apprenticeship Act, 2009 is repealed. Same (2) The College shall make all reasonable efforts to pay its debts, liabilities and obligations prior to the dissolution of the College.",
+            "raw_html": "<p class=\"section\"><a name=\"BK76\"></a><b>59 </b>(1) The College is dissolved on the day section 9 of the <i>Ontario College of Trades and Apprenticeship Act, 2009</i> is repealed.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The College shall make all reasonable efforts to pay its debts, liabilities and obligations prior to the dissolution of the College.</p>"
+        },
+        {
+            "ahref_id": "#BK77",
+            "TOCid": "60.",
+            "section_x": "College assets, liabilities, etc., on dissolution",
+            "part_id": "PART IX  ",
+            "part_type": "PART IX TRANSITION",
+            "section_y": "College assets, liabilities, etc., on dissolution",
+            "content": "60 (1) On the date the College is dissolved, all of the rights, property and assets of the College are transferred to and vested in the Crown in right of Ontario. Extinguishment of debts, etc. (2) On the date the College is dissolved, all of the debts, liabilities, and obligations of the College are extinguished, subject to subsection (3). Claim of creditor (3) A creditor of the College may make a claim to the Minister for the payment of any debts, liabilities or obligations of the College that exist on the date the College is dissolved, and any claim shall be made and determined in accordance with the process set out in the regulations. Amount to resolve claims (4) The total amount that the Crown in right of Ontario may pay to resolve claims made pursuant to subsection (3) shall not exceed the liquidated value of the rights, assets and property of the College transferred to the Crown under subsection (1). Extinguishment of claims (5) As of the date that the Minister provides notice to claimants of the amounts payable, if any, by the Crown to such claimants to resolve claims made pursuant to subsection (3), all such claims, and any potential claims that could have been made by a creditor of the College under subsection (3), are otherwise extinguished. Regulations (6) The Minister may make regulations governing the process by which claims under subsection (3) shall be made and determined, including, (a)  whether a claim for the payment of an outstanding debt, liability or obligation of the College is valid; (b)  the circumstances in which the Minister may reduce, cancel or otherwise alter an outstanding debt, liability, or obligation of the College for the purposes of determining a claim in respect of that outstanding debt, liability or obligation; (c)  how the amount, if any, to be paid by the Crown in right of Ontario to resolve a claim shall be determined; and (d)  the notice that shall be given to potential claimants about the process for making claims under subsection (3) and the notice that shall be given to a claimant as to whether any amounts are payable by the Crown to that claimant and, if so, what amounts are payable. Same (7) For greater certainty, a regulation made under subsection (6) applies to any debt, liability or obligation of the College that exists as of the date that the regulation comes into force, regardless of when the debt, liability or obligation was incurred.",
+            "raw_html": "<p class=\"section\"><a name=\"BK77\"></a><b>60 </b>(1) On the date the College is dissolved, all of the rights, property and assets of the College are transferred to and vested in the Crown in right of Ontario.</p> <p class=\"headnote\">Extinguishment of debts, etc.</p> <p class=\"subsection\">(2) On the date the College is dissolved, all of the debts, liabilities, and obligations of the College are extinguished, subject to subsection (3).</p> <p class=\"headnote\">Claim of creditor</p> <p class=\"subsection\">(3) A creditor of the College may make a claim to the Minister for the payment of any debts, liabilities or obligations of the College that exist on the date the College is dissolved, and any claim shall be made and determined in accordance with the process set out in the regulations.</p> <p class=\"headnote\">Amount to resolve claims</p> <p class=\"subsection\">(4) The total amount that the Crown in right of Ontario may pay to resolve claims made pursuant to subsection (3) shall not exceed the liquidated value of the rights, assets and property of the College transferred to the Crown under subsection (1).</p> <p class=\"headnote\">Extinguishment of claims</p> <p class=\"subsection\">(5) As of the date that the Minister provides notice to claimants of the amounts payable, if any, by the Crown to such claimants to resolve claims made pursuant to subsection (3), all such claims, and any potential claims that could have been made by a creditor of the College under subsection (3), are otherwise extinguished.</p> <p class=\"headnote\">Regulations</p> <p class=\"subsection\">(6) The Minister may make regulations governing the process by which claims under subsection (3) shall be made and determined, including,</p> <p class=\"paragraph\">  (a)  whether a claim for the payment of an outstanding debt, liability or obligation of the College is valid;</p> <p class=\"paragraph\">  (b)  the circumstances in which the Minister may reduce, cancel or otherwise alter an outstanding debt, liability, or obligation of the College for the purposes of determining a claim in respect of that outstanding debt, liability or obligation;</p> <p class=\"paragraph\">  (c)  how the amount, if any, to be paid by the Crown in right of Ontario to resolve a claim shall be determined; and</p> <p class=\"paragraph\">  (d)  the notice that shall be given to potential claimants about the process for making claims under subsection (3) and the notice that shall be given to a claimant as to whether any amounts are payable by the Crown to that claimant and, if so, what amounts are payable.</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(7) For greater certainty, a regulation made under subsection (6) applies to any debt, liability or obligation of the College that exists as of the date that the regulation comes into force, regardless of when the debt, liability or obligation was incurred.</p>"
+        },
+        {
+            "ahref_id": "#BK78",
+            "TOCid": "61.",
+            "section_x": "Causes of action",
+            "part_id": "PART IX  ",
+            "part_type": "PART IX TRANSITION",
+            "section_y": "Causes of action",
+            "content": "61 (1) No cause of action arises against the Crown, any current or former member of the Executive Council or any current or former employee or agent of or advisor to the Crown, or against the Ontario College of Trades or any of its current or former directors, officers, employees or agents or members of its governing structure as a direct or indirect result of, (a)  the operation, administration or repeal of any provision of the Ontario College of Trades and Apprenticeship Act, 2009 or regulations under that Act; (b)  the enactment, operation, or administration of Part IX of this Act or a regulation made under Part IX; (c)  anything done or not done in order to comply with the Ontario College of Trades and Apprenticeship Act, 2009, Part IX of this Act or regulations made under Part IX; or (d)  any revocation, cessation, termination, variation or amendment of contractual or other rights under Part IX of this Act or regulations made under Part IX. Proceedings barred (2) No proceeding, including but not limited to any proceeding for a remedy in contract, restitution, unjust enrichment, tort, misfeasance, bad faith, trust or fiduciary obligation, or any remedy under any statute, that is directly or indirectly based on or related to anything referred to in subsection (1) may be brought or maintained against a person referred to in that subsection. Application (3) Subsection (2) applies to any action or other proceeding claiming any remedy or relief, including specific performance, injunction, declaratory relief, any form of compensation or damages, or any other remedy or relief, and includes a proceeding to enforce a judgment or order made by a court or tribunal outside of Canada. Retrospective effect (4) Subsections (2) and (3) apply regardless of whether the cause of action on which the proceeding is purportedly based arose before, on or after the day this subsection came into force. Proceedings set aside (5) Any proceeding referred to in subsection (2) or (3) that is commenced before the day this subsection comes into force is deemed to have been dismissed, without costs, on the day this subsection comes into force. No compensation payable (6) No person is entitled to any compensation, other than any compensation provided for under subsection 60 (3) and the regulations, or to any other remedy or relief for the revocation, cessation, termination, variation or amendment of contractual or other rights under Part IX of this Act or regulations made under Part IX. No expropriation (7) Nothing in Part IX of this Act or regulations made under Part IX and nothing done or not done in accordance with Part IX of this Act or regulations made under Part IX constitutes an expropriation or injurious affection for the purposes of the Expropriations Act or otherwise at law. Part X (OMITTED) 62-64 Omitted (amends, repeals or revokes other legislation). 65 Omitted\r\n(provides for coming into force of provisions of this Act). 66 Omitted (enacts short title of this Act). ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK78\"></a><b>61 </b>(1) No cause of action arises against the Crown, any current or former member of the Executive Council or any current or former employee or agent of or advisor to the Crown, or against the Ontario College of Trades or any of its current or former directors, officers, employees or agents or members of its governing structure as a direct or indirect result of,</p> <p class=\"paragraph\">  (a)  the operation, administration or repeal of any provision of the <i>Ontario College of Trades and Apprenticeship Act, 2009</i> or regulations under that Act;</p> <p class=\"paragraph\">  (b)  the enactment, operation, or administration of Part IX of this Act or a regulation made under Part IX;</p> <p class=\"paragraph\">  (c)  anything done or not done in order to comply with the <i>Ontario College of Trades and Apprenticeship Act, 2009</i>, Part IX of this Act or regulations made under Part IX; or</p> <p class=\"paragraph\">  (d)  any revocation, cessation, termination, variation or amendment of contractual or other rights under Part IX of this Act or regulations made under Part IX.</p> <p class=\"headnote\">Proceedings barred</p> <p class=\"subsection\">(2) No proceeding, including but not limited to any proceeding for a remedy in contract, restitution, unjust enrichment, tort, misfeasance, bad faith, trust or fiduciary obligation, or any remedy under any statute, that is directly or indirectly based on or related to anything referred to in subsection (1) may be brought or maintained against a person referred to in that subsection.</p> <p class=\"headnote\">Application</p> <p class=\"subsection\">(3) Subsection (2) applies to any action or other proceeding claiming any remedy or relief, including specific performance, injunction, declaratory relief, any form of compensation or damages, or any other remedy or relief, and includes a proceeding to enforce a judgment or order made by a court or tribunal outside of Canada.</p> <p class=\"headnote\">Retrospective effect</p> <p class=\"subsection\">(4) Subsections (2) and (3) apply regardless of whether the cause of action on which the proceeding is purportedly based arose before, on or after the day this subsection came into force.</p> <p class=\"headnote\">Proceedings set aside</p> <p class=\"subsection\">(5) Any proceeding referred to in subsection (2) or (3) that is commenced before the day this subsection comes into force is deemed to have been dismissed, without costs, on the day this subsection comes into force.</p> <p class=\"headnote\">No compensation payable</p> <p class=\"subsection\">(6) No person is entitled to any compensation, other than any compensation provided for under subsection 60 (3) and the regulations, or to any other remedy or relief for the revocation, cessation, termination, variation or amendment of contractual or other rights under Part IX of this Act or regulations made under Part IX.</p> <p class=\"headnote\">No expropriation</p> <p class=\"subsection\">(7) Nothing in Part IX of this Act or regulations made under Part IX and nothing done or not done in accordance with Part IX of this Act or regulations made under Part IX constitutes an expropriation or injurious affection for the purposes of the <i>Expropriations Act</i> or otherwise at law.</p> <p class=\"headingx\"><b>Part </b><b>X (OMITTED)</b></p> <p class=\"section\"><b>62</b>-<b>64</b><b> </b><span class=\"ovsmallcap\">Omitted (amends, repeals or revokes other legislation).</span></p> <p class=\"section\"><b>65 </b><span class=\"ovsmallcap\">Omitted</span>\r\n(<span class=\"ovsmallcap\">provides for coming into force of provisions of this Act</span>).</p> <p class=\"section\"><b>66</b><b> </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act).</span></p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/19m07\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

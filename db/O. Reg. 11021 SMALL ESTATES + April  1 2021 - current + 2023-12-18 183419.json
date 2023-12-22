@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 110/21: SMALL ESTATES",
+        "reg_name_text": "SMALL ESTATES",
+        "citation": "O. Reg. 110/21: ",
+        "act_under": "Estates Act",
+        "url": "https://www.ontario.ca/laws/regulation/210110",
+        "date_scraped": "2023-12-18 18:34:20"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "April  1, 2021",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/210110/v1",
+            "valid_from": "February 12, 2021",
+            "valid_to": "March 31, 2021"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Value of a small estate",
+            "content": "  1. For the purposes of the definition of “small estate” in section 1 of the Act, the prescribed amount is $150,000.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>For the purposes of the definition of “small estate” in section 1 of the Act, the prescribed amount is $150,000.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Value of a small estate",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Value of a small estate",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/210110\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

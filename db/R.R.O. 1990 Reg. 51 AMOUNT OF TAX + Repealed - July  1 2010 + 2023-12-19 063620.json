@@ -1,0 +1,33 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 51: AMOUNT OF TAX",
+        "reg_name_text": "AMOUNT OF TAX",
+        "citation": "R.R.O. 1990, Reg. 51: ",
+        "act_under": "Athletics Control Act   Loi sur le contrôle des sports",
+        "url": "https://www.ontario.ca/laws/regulation/900051",
+        "date_scraped": "2023-12-19 06:36:21"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/900051/v2",
+            "valid_from": "March 26, 2010",
+            "valid_to": "June 30, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900051/v1",
+            "valid_from": "December 31, 1990",
+            "valid_to": "March 25, 2010"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": "1. The amount payable to the Minister under subsection 5 (1) of the Act is 2 per cent of the gross receipts of the contest or exhibition. R.R.O. 1990, Reg. 51, s. 1. ",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>The amount payable to the Minister under subsection 5 (1) of the Act is 2 per cent of the gross receipts of the contest or exhibition. R.R.O. 1990, Reg. 51, s. 1.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

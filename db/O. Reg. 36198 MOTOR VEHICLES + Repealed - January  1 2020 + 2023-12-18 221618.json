@@ -1,0 +1,477 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 361/98: MOTOR VEHICLES",
+        "reg_name_text": "MOTOR VEHICLES",
+        "citation": "O. Reg. 361/98: ",
+        "act_under": "Environmental Protection Act",
+        "url": "https://www.ontario.ca/laws/regulation/980361",
+        "date_scraped": "2023-12-18 22:16:19"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/980361/v15",
+            "valid_from": "December 19, 2019",
+            "valid_to": "December 31, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v14",
+            "valid_from": "April  1, 2019",
+            "valid_to": "December 18, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v13",
+            "valid_from": "December 13, 2018",
+            "valid_to": "March 31, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v12",
+            "valid_from": "September 15, 2017",
+            "valid_to": "December 12, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v10",
+            "valid_from": "September  1, 2017",
+            "valid_to": "September 14, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v9",
+            "valid_from": "April  1, 2017",
+            "valid_to": "August 31, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v8",
+            "valid_from": "December  2, 2016",
+            "valid_to": "March 31, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v7",
+            "valid_from": "April  8, 2013",
+            "valid_to": "December  1, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v6",
+            "valid_from": "January 25, 2013",
+            "valid_to": "April  7, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v5",
+            "valid_from": "January  1, 2013",
+            "valid_to": "January 24, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v4",
+            "valid_from": "July  1, 2010",
+            "valid_to": "December 31, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v3",
+            "valid_from": "June  4, 2010",
+            "valid_to": "June 30, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v2",
+            "valid_from": "November 18, 2005",
+            "valid_to": "June  3, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/980361/v1",
+            "valid_from": "December 19, 2003",
+            "valid_to": "November 17, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Definitions",
+            "Section2": "1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Drive Clean Inspectors",
+            "Section2": "1.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "False Reports",
+            "Section2": "1.2",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Testing Motor Vehicles with Respect to Air Emissions",
+            "Section2": "2",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Application",
+            "Section2": "3",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Emission Control Equipment for Kit Cars, Rebuilt Cars and Hot Rods",
+            "Section2": "4",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Catalytic Converters",
+            "Section2": "5",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Visible Emissions",
+            "Section2": "6",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Emission Control Systems or Devices",
+            "Section2": "6.1-7",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "On-Board Diagnostic System Test (All Light Vehicles)",
+            "Section2": "9.0.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Opacity Test Diesel Fuelled Heavy Vehicles",
+            "Section2": "12",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Submission of Vehicle for Testing",
+            "Section2": "13",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Orders under Section 18 of the Act",
+            "Section2": "13.1",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. (1) In this Regulation, “catalytic converter” means a device through which exhaust from a motor is passed in order to prevent or lessen the emission of a contaminant; (“convertisseur catalytique”) “commercial motor vehicle” has the same meaning as in section 3 of Ontario Regulation 419/15 (Definitions of Commercial Motor Vehicle and Tow Truck) made under the Highway Traffic Act; (“véhicule utilitaire”) “Drive Clean Guide” means the Ministry of the Environment publication entitled “Drive Clean Guide” and dated February 1, 1999, as amended from time to time; (“guide Air pur Ontario”) “emissions inspection report” means a report issued under subsection 2 (7); (“rapport d’inspection des émissions”) “grey market vehicle” means a motor vehicle imported into Canada and manufactured to emission standards that at the time of manufacture were less stringent than those applicable to the same or similar categories of new vehicles in Canada; (“véhicule du marché gris”) “heavy vehicle” means a commercial motor vehicle with a registered gross weight of more than 4,500 kilograms; (“véhicule lourd”) “hot rod” means a motor vehicle in which the original motor has been replaced with a motor of a type not installed by the manufacturer on that model of motor vehicle for the model year designated for the motor vehicle by the manufacturer; (“véhicule dynamisé”) “kit car” means a motor vehicle that has been constructed using a new and complete body of a motor vehicle that is supplied without a motor, chassis or drive train; (“automobile assemblée à la pièce”) “light vehicle” means a motor vehicle with a registered gross weight of 4,500 kilograms or less; (“véhicule léger”) “model year”, when used with respect to a motor vehicle, a motor or a chassis, means the model year designated by the manufacturer or, if there is no such designation, the calendar year in which the manufacture is completed; (“année modèle”) “Ontario Drive Clean testing facility” means a facility accredited by the Director as an Ontario Drive Clean testing facility; (“centre d’analyse Air pur Ontario”) “rebuilt car” means a motor vehicle that has been constructed using various used or new component parts, such as a body, chassis or frame, obtained from other vehicles or from auto wreckers, dealers or manufacturers; (“automobile remise à neuf”) “registered gross weight” means the weight for which a permit has been issued under the Highway Traffic Act, based on the weight of the vehicle or the combined weight of the vehicle and load; (“poids brut enregistré”) “remote OBD test provider” means a person who has been accredited by the Director as a remote on-board diagnostic system test provider; (“fournisseur de services d’analyse à distance du système de diagnostic embarqué”) O. Reg. 361/98, s. 1 (1); O. Reg. 86/99, s. 1 (1, 2); O. Reg. 438/99, s. 1; O. Reg. 343/01, s. 1 (1-11); O. Reg. 191/10, s. 1; O. Reg. 356/17, s. 1; O. Reg. 496/18, s. 1. (2) Despite the definition of “model year” in subsection (1), (a) the model year of a grey market vehicle or hot rod shall be deemed to be, (i) the model year designated by the manufacturer for the vehicle, if the manufacturer designated the model year of the vehicle to be 2000 or a later year, (ii) the calendar year in which the manufacture of the vehicle was completed, if the manufacture of the vehicle was completed in 2000 or a later year and the manufacturer did not designate a model year for the vehicle, or (iii) 1980, in any other case; and (b) the model year of a kit car or rebuilt car shall be deemed to be the model year of the motor. O. Reg. 343/01, s. 1 (12). Drive Clean Inspectors",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) In this Regulation,</p> <p class=\"firstdef-e\">“catalytic converter” means a device through which exhaust from a motor is passed in order to prevent or lessen the emission of a contaminant; (“convertisseur catalytique”)</p> <p class=\"definition-e\">“commercial motor vehicle” has the same meaning as in section 3 of Ontario Regulation 419/15 (Definitions of Commercial Motor Vehicle and Tow Truck) made under the <i>Highway Traffic Act</i>; (“véhicule utilitaire”)</p> <p class=\"definition-e\">“Drive Clean Guide” means the Ministry of the Environment publication entitled “Drive Clean Guide” and dated February 1, 1999, as amended from time to time; (“guide Air pur Ontario”)</p> <p class=\"definition-e\">“emissions inspection report” means a report issued under subsection 2 (7); (“rapport d’inspection des émissions”)</p> <p class=\"definition-e\">“grey market vehicle” means a motor vehicle imported into Canada and manufactured to emission standards that at the time of manufacture were less stringent than those applicable to the same or similar categories of new vehicles in Canada; (“véhicule du marché gris”)</p> <p class=\"definition-e\">“heavy vehicle” means a commercial motor vehicle with a registered gross weight of more than 4,500 kilograms; (“véhicule lourd”)</p> <p class=\"definition-e\">“hot rod” means a motor vehicle in which the original motor has been replaced with a motor of a type not installed by the manufacturer on that model of motor vehicle for the model year designated for the motor vehicle by the manufacturer; (“véhicule dynamisé”)</p> <p class=\"definition-e\">“kit car” means a motor vehicle that has been constructed using a new and complete body of a motor vehicle that is supplied without a motor, chassis or drive train; (“automobile assemblée à la pièce”)</p> <p class=\"definition-e\">“light vehicle” means a motor vehicle with a registered gross weight of 4,500 kilograms or less; (“véhicule léger”)</p> <p class=\"definition-e\">“model year”, when used with respect to a motor vehicle, a motor or a chassis, means the model year designated by the manufacturer or, if there is no such designation, the calendar year in which the manufacture is completed; (“année modèle”)</p> <p class=\"definition-e\">“Ontario Drive Clean testing facility” means a facility accredited by the Director as an Ontario Drive Clean testing facility; (“centre d’analyse<sup> </sup>Air pur Ontario”)</p> <p class=\"definition-e\">“rebuilt car” means a motor vehicle that has been constructed using various used or new component parts, such as a body, chassis or frame, obtained from other vehicles or from auto wreckers, dealers or manufacturers; (“automobile remise à neuf”)</p> <p class=\"definition-e\">“registered gross weight” means the weight for which a permit has been issued under the <i>Highway Traffic Act</i>, based on the weight of the vehicle or the combined weight of the vehicle and load; (“poids brut enregistré”)</p> <p class=\"definition-e\">“remote OBD test provider” means a person who has been accredited by the Director as a remote on-board diagnostic system test provider; (“fournisseur de services d’analyse à distance du système de diagnostic embarqué”) O. Reg. 361/98, s. 1 (1); O. Reg. 86/99, s. 1 (1, 2); O. Reg. 438/99, s. 1; O. Reg. 343/01, s. 1 (1-11); O. Reg. 191/10, s. 1; O. Reg. 356/17, s. 1; O. Reg. 496/18, s. 1.</p> <p class=\"subsection-e\">  (2) Despite the definition of “model year” in subsection (1),</p> <p class=\"clause-e\">  (a) the model year of a grey market vehicle or hot rod shall be deemed to be,</p> <p class=\"subclause-e\">  (i) the model year designated by the manufacturer for the vehicle, if the manufacturer designated the model year of the vehicle to be 2000 or a later year,</p> <p class=\"subclause-e\">  (ii) the calendar year in which the manufacture of the vehicle was completed, if the manufacture of the vehicle was completed in 2000 or a later year and the manufacturer did not designate a model year for the vehicle, or</p> <p class=\"subclause-e\">  (iii) 1980, in any other case; and</p> <p class=\"clause-e\">  (b) the model year of a kit car or rebuilt car shall be deemed to be the model year of the motor. O. Reg. 343/01, s. 1 (12).</p> <p class=\"heading1-e\"><a name=\"BK2\"></a><a name=\"BK3\"></a>Drive Clean Inspectors</p>"
+        },
+        {
+            "ahref_id": "#1.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1.1 (1) Revoked: O. Reg. 496/18, s. 2 (3). (2) A person is a Drive Clean inspector for heavy vehicles for the purposes of this Regulation if he or she has successfully completed, within the previous 24 months, a course satisfactory to the Director with respect to the testing of air emissions and on-board diagnostic systems of heavy vehicles. O. Reg. 343/01, s. 2; O. Reg. 191/10, s. 2 (2). (3) Revoked: O. Reg. 496/18, s. 2 (5). (3.1), (3.1.1) Revoked: O. Reg. 496/18, s. 2 (6). (3.1.2) If the Director is satisfied that a Drive Clean inspector for heavy vehicles has incompetently made a determination described in subsection 2 (1), the Director may, by giving written notice to the inspector, require the inspector to successfully complete one or more courses satisfactory to the Director to address the incompetence. O. Reg. 417/16, s. 1 (1); O. Reg. 356/17, s. 2 (2); O. Reg. 496/18, s. 2 (7). (3.2) Revoked: O. Reg. 356/17, s. 2 (3). (4) Despite subsection (2), a person is not a Drive Clean inspector for the purposes of this Regulation if the Director gives the person written notice indicating that the Director is satisfied that, (a) the person has submitted false or misleading personal information to the Director; (b) the person has been convicted within the preceding 48 months of an offence under the Act or the regulations that relates to motor vehicles or to a lack of honesty or integrity in dealing with customers; (c) the person has created, distributed or used a document, or has permitted the creation, distribution or use of a document, that indicates that a motor vehicle complies with standards prescribed in section 7 or 12 if the vehicle, (i) does not comply with those standards, or (ii) has not been tested in accordance with this Regulation for compliance with those standards; or (d) the person has previously been given a notice under subsection (3.1.2) and the Director is satisfied that, subsequent to completing the training required by that notice, the person has again incompetently made a determination described in subsection 2 (1). O. Reg. 343/01, s. 2; O. Reg. 587/05, s. 1; O. Reg. 191/10, s. 2 (5-9); O. Reg. 417/16, s. 1 (2, 3); O. Reg. 356/17, s. 2 (4); O. Reg. 496/18, s. 2 (8, 9). (5) The Director shall not give a person notice under subsection (4) unless the Director has advised the person in writing of the proposal to give notice and has afforded the person a reasonable opportunity to make written or oral submissions to the Director. O. Reg. 343/01, s. 2; O. Reg. 191/10, s. 2 (10); O. Reg. 496/18, s. 2 (10). (6) A notice under subsection (4) may provide that the notice does not apply to the person after a date specified by the Director in the notice. O. Reg. 343/01, s. 2. (7) The Director may revoke a notice given under subsection (4) on a date specified by the Director, and the notice does not apply to the person after that date. O. Reg. 343/01, s. 2. False Reports",
+            "raw_html": "<p class=\"section-e\"> <b>1.1</b><b> </b>(1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 2 (3).</p> <p class=\"subsection-e\">  (2) A person is a Drive Clean inspector for heavy vehicles for the purposes of this Regulation if he or she has successfully completed, within the previous 24 months, a course satisfactory to the Director with respect to the testing of air emissions and on-board diagnostic systems of heavy vehicles. O. Reg. 343/01, s. 2; O. Reg. 191/10, s. 2 (2).</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 2 (5).</p> <p class=\"subsection-e\">  (3.1), (3.1.1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 2 (6).</p> <p class=\"subsection-e\">  (3.1.2) If the Director is satisfied that a Drive Clean inspector for heavy vehicles has incompetently made a determination described in subsection 2 (1), the Director may, by giving written notice to the inspector, require the inspector to successfully complete one or more courses satisfactory to the Director to address the incompetence. O. Reg. 417/16, s. 1 (1); O. Reg. 356/17, s. 2 (2); O. Reg. 496/18, s. 2 (7).</p> <p class=\"subsection-e\">  (3.2) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 356/17, s. 2 (3).</p> <p class=\"subsection-e\">  (4) Despite subsection (2), a person is not a Drive Clean inspector for the purposes of this Regulation if the Director gives the person written notice indicating that the Director is satisfied that,</p> <p class=\"clause-e\">  (a) the person has submitted false or misleading personal information to the Director;</p> <p class=\"clause-e\">  (b) the person has been convicted within the preceding 48 months of an offence under the Act or the regulations that relates to motor vehicles or to a lack of honesty or integrity in dealing with customers;</p> <p class=\"clause-e\">  (c) the person has created, distributed or used a document, or has permitted the creation, distribution or use of a document, that indicates that a motor vehicle complies with standards prescribed in section 7 or 12 if the vehicle,</p> <p class=\"subclause-e\">  (i) does not comply with those standards, or</p> <p class=\"subclause-e\">  (ii) has not been tested in accordance with this Regulation for compliance with those standards; or</p> <p class=\"clause-e\">  (d) the person has previously been given a notice under subsection (3.1.2) and the Director is satisfied that, subsequent to completing the training required by that notice, the person has again incompetently made a determination described in subsection 2 (1). O. Reg. 343/01, s. 2; O. Reg. 587/05, s. 1; O. Reg. 191/10, s. 2 (5-9); O. Reg. 417/16, s. 1 (2, 3); O. Reg. 356/17, s. 2 (4); O. Reg. 496/18, s. 2 (8, 9).</p> <p class=\"subsection-e\">  (5) The Director shall not give a person notice under subsection (4) unless the Director has advised the person in writing of the proposal to give notice and has afforded the person a reasonable opportunity to make written or oral submissions to the Director. O. Reg. 343/01, s. 2; O. Reg. 191/10, s. 2 (10); O. Reg. 496/18, s. 2 (10).</p> <p class=\"subsection-e\">  (6) A notice under subsection (4) may provide that the notice does not apply to the person after a date specified by the Director in the notice. O. Reg. 343/01, s. 2.</p> <p class=\"subsection-e\">  (7) The Director may revoke a notice given under subsection (4) on a date specified by the Director, and the notice does not apply to the person after that date. O. Reg. 343/01, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>False Reports</p>"
+        },
+        {
+            "ahref_id": "#1.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  1.2 No person shall create, distribute or use a document or permit the creation, distribution or use of a document that indicates that a motor vehicle complies with standards prescribed in section 7 or 12 if the vehicle does not comply with those standards or has not been tested in accordance with this Regulation for compliance with those standards. O. Reg. 496/18, s. 3. Testing Motor Vehicles with Respect to Air Emissions",
+            "raw_html": "<p class=\"section-e\"><b>  1.2 </b>No person shall create, distribute or use a document or permit the creation, distribution or use of a document that indicates that a motor vehicle complies with standards prescribed in section 7 or 12 if the vehicle does not comply with those standards or has not been tested in accordance with this Regulation for compliance with those standards. O. Reg. 496/18, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Testing Motor Vehicles with Respect to Air Emissions</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2.  (1) For the purpose of enforcing the Act and this Regulation, no person other than a Drive Clean inspector for heavy vehicles shall determine compliance with the maximum emission standards prescribed in sections 7 and 12. O. Reg. 496/18, s. 4 (1). (2) Revoked: O. Reg. 496/18, s. 4 (1). (2.1) Revoked:  O. Reg. 191/10, s. 4 (3). (3), (4) Revoked: O. Reg. 496/18, s. 4 (1). (5) The testing to determine compliance with the standards prescribed in sections 7 and 12 for the purpose of enforcing the Act and this Regulation shall take place at an Ontario Drive Clean testing facility. O. Reg. 343/01, s. 3; O. Reg. 191/10, s. 4 (4); O. Reg. 191/10, s. 4 (5); O. Reg. 496/18, s. 4 (2). (5.1) Revoked: O. Reg. 496/18, s. 4 (3). (6) Despite subsections (1) and (5), a provincial officer or police officer may determine compliance with the standards prescribed in this Regulation for the purpose of enforcing the Act and this Regulation and may do so at any location. O. Reg. 343/01, s. 3; O. Reg. 191/10, s. 4 (6); O. Reg. 191/10, s. 4 (7); O. Reg. 496/18, s. 4 (4). (7) If testing conducted by a Drive Clean inspector at an Ontario Drive Clean testing facility in accordance with this Regulation confirms compliance with standards prescribed in section 7 or 12, the facility may issue an emissions inspection report indicating that the vehicle complies with the standards. O. Reg. 356/17, s. 3 (2); O. Reg. 496/18, s. 4 (5). (7.1) Revoked: O. Reg. 496/18, s. 4 (6). (8) If a motor vehicle of a model year after 1997 is manufactured with an on-board diagnostic system designed to identify motor or emission control system problems and regulate motor or emission control system operations, testing to determine compliance with maximum emission standards prescribed in this Regulation shall include an advisory test of the on-board diagnostic system in accordance with the Drive Clean Guide. O. Reg. 343/01, s. 3; O. Reg. 191/10, s. 4 (10); O. Reg. 496/18, s. 4 (7). (9) A person is exempt from subsection 22 (3) and section 23 of the Act and from sections 5, 6 and 7 of this Regulation if, with the consent of the Director, the person alters a vehicle and either, (a) submits it to an Ontario Drive Clean testing facility for the purpose of assessing the quality of the facility and the competence of staff at the facility; or (b) uses the services of a remote OBD test provider for the purpose of assessing the quality of the services provided by the remote OBD test provider. O. Reg. 356/17, s. 3 (3); O. Reg. 496/18, s. 4 (8). Application",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b><b> </b>(1) For the purpose of enforcing the Act and this Regulation, no person other than a Drive Clean inspector for heavy vehicles shall determine compliance with the maximum emission standards prescribed in sections 7 and 12. O. Reg. 496/18, s. 4 (1).</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 4 (1).</p> <p class=\"subsection-e\">  (2.1) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 191/10, s. 4 (3).</p> <p class=\"subsection-e\">  (3), (4) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 4 (1).</p> <p class=\"subsection-e\">  (5) The testing to determine compliance with the standards prescribed in sections 7 and 12 for the purpose of enforcing the Act and this Regulation shall take place at an Ontario Drive Clean testing facility. O. Reg. 343/01, s. 3; O. Reg. 191/10, s. 4 (4); O. Reg. 191/10, s. 4 (5); O. Reg. 496/18, s. 4 (2).</p> <p class=\"subsection-e\">  (5.1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 4 (3).</p> <p class=\"subsection-e\">  (6) Despite subsections (1) and (5), a provincial officer or police officer may determine compliance with the standards prescribed in this Regulation for the purpose of enforcing the Act and this Regulation and may do so at any location. O. Reg. 343/01, s. 3; O. Reg. 191/10, s. 4 (6); O. Reg. 191/10, s. 4 (7); O. Reg. 496/18, s. 4 (4).</p> <p class=\"subsection-e\">  (7) If testing conducted by a Drive Clean inspector at an Ontario Drive Clean testing facility in accordance with this Regulation confirms compliance with standards prescribed in section 7 or 12, the facility may issue an emissions inspection report indicating that the vehicle complies with the standards. O. Reg. 356/17, s. 3 (2); O. Reg. 496/18, s. 4 (5).</p> <p class=\"subsection-e\">  (7.1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 4 (6).</p> <p class=\"subsection-e\">  (8) If a motor vehicle of a model year after 1997 is manufactured with an on-board diagnostic system designed to identify motor or emission control system problems and regulate motor or emission control system operations, testing to determine compliance with maximum emission standards prescribed in this Regulation shall include an advisory test of the on-board diagnostic system in accordance with the Drive Clean Guide. O. Reg. 343/01, s. 3; O. Reg. 191/10, s. 4 (10); O. Reg. 496/18, s. 4 (7).</p> <p class=\"subsection-e\">  (9) A person is exempt from subsection 22 (3) and section 23 of the Act and from sections 5, 6 and 7 of this Regulation if, with the consent of the Director, the person alters a vehicle and either,</p> <p class=\"clause-e\">  (a) submits it to an Ontario Drive Clean testing facility for the purpose of assessing the quality of the facility and the competence of staff at the facility; or</p> <p class=\"clause-e\">  (b) uses the services of a remote OBD test provider for the purpose of assessing the quality of the services provided by the remote OBD test provider. O. Reg. 356/17, s. 3 (3); O. Reg. 496/18, s. 4 (8).</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Application</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) Sections 5, 6, 6.1 and 7 of this Regulation apply with respect to every motor vehicle operating in Ontario. O. Reg. 361/98, s. 3 (3); O. Reg. 496/18, s. 5 (1). (2) This Regulation applies with respect to every motor vehicle operating in Ontario for which a permit under the Highway Traffic Act is in effect. O. Reg. 361/98, s. 3 (2). (3) This Regulation, other than sections 4 and 9.0.1, applies with respect to every heavy vehicle. O. Reg. 361/98, s. 3 (3); O. Reg. 343/01, s. 4; O. Reg. 191/10, s. 5; O. Reg. 496/18, s. 5 (2). Emission Control Equipment for Kit Cars, Rebuilt Cars and Hot Rods",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) Sections 5, 6, 6.1 and 7 of this Regulation apply with respect to every motor vehicle operating in Ontario. O. Reg. 361/98, s. 3 (3); O. Reg. 496/18, s. 5 (1).</p> <p class=\"subsection-e\">  (2) This Regulation applies with respect to every motor vehicle operating in Ontario for which a permit under the <i>Highway Traffic Act </i>is in effect. O. Reg. 361/98, s. 3 (2).</p> <p class=\"subsection-e\">  (3) This Regulation, other than sections 4 and 9.0.1, applies with respect to every heavy vehicle. O. Reg. 361/98, s. 3 (3); O. Reg. 343/01, s. 4; O. Reg. 191/10, s. 5; O. Reg. 496/18, s. 5 (2).</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Emission Control Equipment for Kit Cars, Rebuilt Cars and Hot Rods</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. (1) A kit car or a rebuilt car that receives its first permit under the Highway Traffic Act on or after January 1, 1999, shall include, as part of a system to prevent or lessen the emission of contaminants, all of the original pollution control systems and components, or equivalent replacements, included or usually included with the motor of the rebuilt car or kit car by the manufacturer of the motor. O. Reg. 361/98, s. 4 (1); O. Reg. 86/99, s. 3. (2) A hot rod that receives a motor replacement on or after January 1, 1999, shall receive a motor designed to meet emission standards at least as stringent as those achieved by the original motor with all its original emission control equipment attached and functioning, and the replacement motor shall have the original catalytic converter and all the original emission control equipment, or equivalent replacements, included or usually included with the replacement motor by the manufacturer of the motor. O. Reg. 361/98, s. 4 (2); O. Reg. 86/99, s. 3. Catalytic Converters",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) A kit car or a rebuilt car that receives its first permit under the <i>Highway Traffic Act</i> on or after January 1, 1999, shall include, as part of a system to prevent or lessen the emission of contaminants, all of the original pollution control systems and components, or equivalent replacements, included or usually included with the motor of the rebuilt car or kit car by the manufacturer of the motor. O. Reg. 361/98, s. 4 (1); O. Reg. 86/99, s. 3.</p> <p class=\"subsection-e\">  (2) A hot rod that receives a motor replacement on or after January 1, 1999, shall receive a motor designed to meet emission standards at least as stringent as those achieved by the original motor with all its original emission control equipment attached and functioning, and the replacement motor shall have the original catalytic converter and all the original emission control equipment, or equivalent replacements, included or usually included with the replacement motor by the manufacturer of the motor. O. Reg. 361/98, s. 4 (2); O. Reg. 86/99, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Catalytic Converters</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1), (2) Revoked:  O. Reg. 191/10, s. 6. (3) If a motor or motor vehicle is manufactured with a catalytic converter, no person shall alter or cause or permit the alteration of the motor or motor vehicle in a manner that permits exhaust emissions to bypass the catalytic converter. O. Reg. 86/99, s. 4. (4) No person shall operate or cause or permit the operation of a motor or motor vehicle that was manufactured with a catalytic converter if the catalytic converter, or any replacement for the catalytic converter, (a) is not capable of performing the function for which the catalytic converter was intended; or (b) is disconnected, removed or otherwise altered so that it is not capable of performing the function for which the catalytic converter was intended. O. Reg. 86/99, s. 4. Visible Emissions",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1), (2) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 191/10, s. 6.</p> <p class=\"subsection-e\">  (3) If a motor or motor vehicle is manufactured with a catalytic converter, no person shall alter or cause or permit the alteration of the motor or motor vehicle in a manner that permits exhaust emissions to bypass the catalytic converter. O. Reg. 86/99, s. 4.</p> <p class=\"subsection-e\">  (4) No person shall operate or cause or permit the operation of a motor or motor vehicle that was manufactured with a catalytic converter if the catalytic converter, or any replacement for the catalytic converter,</p> <p class=\"clause-e\">  (a) is not capable of performing the function for which the catalytic converter was intended; or</p> <p class=\"clause-e\">  (b) is disconnected, removed or otherwise altered so that it is not capable of performing the function for which the catalytic converter was intended. O. Reg. 86/99, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Visible Emissions</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. (1) No person shall operate or cause or permit the operation of a light vehicle from which there is a visible emission for more than 15 seconds in any five-minute period. O. Reg. 401/98, s. 1; O. Reg. 86/99, s. 5 (1); O. Reg. 343/01, s. 5 (1). (2) No person shall operate or cause or permit the operation of a heavy vehicle from which there is a visible emission for more than 15 seconds in any five-minute period. O. Reg. 401/98, s. 1; O. Reg. 86/99, s. 5 (2); O. Reg. 343/01, s. 5 (2). Emission Control Systems or Devices",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) No person shall operate or cause or permit the operation of a light vehicle from which there is a visible emission for more than 15 seconds in any five-minute period. O. Reg. 401/98, s. 1; O. Reg. 86/99, s. 5 (1); O. Reg. 343/01, s. 5 (1).</p> <p class=\"subsection-e\">  (2) No person shall operate or cause or permit the operation of a heavy vehicle from which there is a visible emission for more than 15 seconds in any five-minute period. O. Reg. 401/98, s. 1; O. Reg. 86/99, s. 5 (2); O. Reg. 343/01, s. 5 (2).</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Emission Control Systems or Devices</p>"
+        },
+        {
+            "ahref_id": "#6.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6.1  The following types of systems and devices are prescribed for the purpose of subsection 22 (4) of the Act: 1. A system or device that is manufactured by the manufacturer of the system or device that is being replaced and, i. is identical to or equivalent to the system or device that is being replaced, or ii. is manufactured as a replacement for the system or device that is being replaced. 2. A system or device that is approved by the Bureau of Automobile Repair, the California Air Resources Board, the United States Environmental Protection Agency or another body specified by the Director as a replacement for the system or device that is being replaced. O. Reg. 86/99, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>6.1</b>  The following types of systems and devices are prescribed for the purpose of subsection 22 (4) of the Act:</p> <p class=\"paragraph-e\">  1. A system or device that is manufactured by the manufacturer of the system or device that is being replaced and,</p> <p class=\"subpara-e\">  i. is identical to or equivalent to the system or device that is being replaced, or</p> <p class=\"subpara-e\">  ii. is manufactured as a replacement for the system or device that is being replaced.</p> <p class=\"paragraph-e\">  2. A system or device that is approved by the Bureau of Automobile Repair, the California Air Resources Board, the United States Environmental Protection Agency or another body specified by the Director as a replacement for the system or device that is being replaced. O. Reg. 86/99, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  7. (1) If a motor or motor vehicle is manufactured with a system or device to prevent or lessen the emission of any contaminant, including an on-board diagnostic system designed to identify motor or emissions control system problems and regulate motor or emission control system operations, the following standards are prescribed as additional maximum emission standards for the vehicle: 1. The system or device, or any replacement therefor, must be maintained or kept in such a state of repair that it is capable of performing the function for which it was intended. 2. The system or device, or any replacement therefor, must be kept installed on, attached to or incorporated in the motor or motor vehicle in such a manner that, when the motor or motor vehicle is operating, the system or device functions in the manner in which it was intended to function. O. Reg. 343/01, s. 6; O. Reg. 191/10, s. 7. (2) Every motor vehicle for which emission standards are prescribed in this section shall comply with those standards. O. Reg. 343/01, s. 6. (3) No person shall operate or cause or permit the operation of a motor vehicle that does not comply with subsection (2). O. Reg. 343/01, s. 6.",
+            "raw_html": "<p class=\"section-e\"><b>  7.</b><b> </b>(1) If a motor or motor vehicle is manufactured with a system or device to prevent or lessen the emission of any contaminant, including an on-board diagnostic system designed to identify motor or emissions control system problems and regulate motor or emission control system operations, the following standards are prescribed as additional maximum emission standards for the vehicle:</p> <p class=\"paragraph-e\">  1. The system or device, or any replacement therefor, must be maintained or kept in such a state of repair that it is capable of performing the function for which it was intended.</p> <p class=\"paragraph-e\">  2. The system or device, or any replacement therefor, must be kept installed on, attached to or incorporated in the motor or motor vehicle in such a manner that, when the motor or motor vehicle is operating, the system or device functions in the manner in which it was intended to function. O. Reg. 343/01, s. 6; O. Reg. 191/10, s. 7.</p> <p class=\"subsection-e\">  (2) Every motor vehicle for which emission standards are prescribed in this section shall comply with those standards. O. Reg. 343/01, s. 6.</p> <p class=\"subsection-e\">  (3) No person shall operate or cause or permit the operation of a motor vehicle that does not comply with subsection (2). O. Reg. 343/01, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. Revoked: O. Reg. 496/18, s. 6 (2).",
+            "raw_html": "<p class=\"section-e\"><a name=\"BK11\"></a> <b>8. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 6 (2).</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. Revoked:  O. Reg. 191/10, s. 8. On-Board Diagnostic System Test (All Light Vehicles)",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 191/10, s. 8.</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>On-Board Diagnostic System Test (All Light Vehicles)</p>"
+        },
+        {
+            "ahref_id": "#9.0.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9.0.1 (1) This section applies to a light vehicle of a model year after 1997 that was manufactured with an on-board diagnostic system designed to identify motor or emission control system problems and regulate motor or emission control system operations if the design or configuration of the motor vehicle, (a) is compatible with the performance of the test referred to in subsection (4); and (b) would not render the performance of the test referred to in subsection (4) unsafe. O. Reg. 191/10, s. 9 (1). (2) Revoked: O. Reg. 496/18, s. 7. (3) The on-board diagnostic system test standards set out in Table 9.0.1B of the Drive Clean Guide are prescribed as standards for motor vehicles to which this section applies. O. Reg. 191/10, s. 9 (1). (4) The procedure to be used for testing a motor vehicle’s compliance with the standards prescribed in subsection (3) is the on-board diagnostic system test as described in the Drive Clean Guide or a test that the Director considers equivalent. O. Reg. 191/10, s. 9 (1). (5) Revoked: O. Reg. 496/18, s. 7. (6) Revoked: O. Reg. 356/17, s. 4 (2). (7), (8) Revoked: O. Reg. 496/18, s. 7. (9) Every motor vehicle to which this section applies shall comply with the on-board diagnostic system test standards. O. Reg. 191/10, s. 9 (4). (10) No person shall operate or cause or permit the operation of a motor vehicle that does not comply with subsection (9). O. Reg. 191/10, s. 9 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>9.0.1 </b>(1) This section applies to a light vehicle of a model year after 1997 that was manufactured with an on-board diagnostic system designed to identify motor or emission control system problems and regulate motor or emission control system operations if the design or configuration of the motor vehicle,</p> <p class=\"clause-e\">  (a) is compatible with the performance of the test referred to in subsection (4); and</p> <p class=\"clause-e\">  (b) would not render the performance of the test referred to in subsection (4) unsafe. O. Reg. 191/10, s. 9 (1).</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 7.</p> <p class=\"subsection-e\">  (3) The on-board diagnostic system test standards set out in Table 9.0.1B of the Drive Clean Guide are prescribed as standards for motor vehicles to which this section applies. O. Reg. 191/10, s. 9 (1).</p> <p class=\"subsection-e\">  (4) The procedure to be used for testing a motor vehicle’s compliance with the standards prescribed in subsection (3) is the on-board diagnostic system test as described in the Drive Clean Guide or a test that the Director considers equivalent. O. Reg. 191/10, s. 9 (1).</p> <p class=\"subsection-e\">  (5) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 7.</p> <p class=\"subsection-e\">  (6) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 356/17, s. 4 (2).</p> <p class=\"subsection-e\">  (7), (8) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 7.</p> <p class=\"subsection-e\">  (9) Every motor vehicle to which this section applies shall comply with the on-board diagnostic system test standards. O. Reg. 191/10, s. 9 (4).</p> <p class=\"subsection-e\">  (10) No person shall operate or cause or permit the operation of a motor vehicle that does not comply with subsection (9). O. Reg. 191/10, s. 9 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  9.1 Revoked: O. Reg. 496/18, s. 8 (3).",
+            "raw_html": "<p class=\"section-e\"><a name=\"BK13\"></a><b>  9.1</b><b> </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 8 (3).</p>"
+        },
+        {
+            "ahref_id": "#9.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9.2 Revoked:  O. Reg. 191/10, s. 11.",
+            "raw_html": "<p class=\"section-e\"> <b>9.2</b> <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 191/10, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. Revoked: O. Reg. 496/18, s. 9 (2).",
+            "raw_html": "<p class=\"section-e\"><a name=\"BK14\"></a> <b>10. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 9 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. Revoked: O. Reg. 496/18, s. 10 (2). Opacity Test Diesel Fuelled Heavy Vehicles",
+            "raw_html": "<p class=\"section-e\"><a name=\"BK15\"></a> <b>11. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 10 (2).</p> <p class=\"heading1-e\"><a name=\"BK16\"></a>Opacity Test Diesel Fuelled Heavy Vehicles</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. (1) This section applies with respect to a heavy vehicle that operates on diesel fuel. O. Reg. 343/01, s. 12. (1.1), (1.2) Revoked:  O. Reg. 343/01, s. 12. (2) The maximum emission standard set out in Table 12 of the Drive Clean Guide for motor vehicles of a type and a model year set out in that Table and for a period set out in the Table is prescribed for those vehicles for that period. O. Reg. 86/99, s. 15; O. Reg. 445/03, s. 5 (1). (3) The procedure to be used for testing a motor vehicle’s compliance with the maximum emission standards prescribed in this section is the opacity test for diesel fuelled heavy vehicles, as described in the Drive Clean Guide, or a test that the Director considers equivalent. O. Reg. 86/99, s. 15. (4) Every motor vehicle for which emission standards are prescribed in this section shall comply with those standards. O. Reg. 361/98, s. 12 (4). (5) No person shall operate or cause or permit the operation of a motor vehicle that does not comply with subsection (4). O. Reg. 401/98, s. 6. (6), (7) Revoked:  O. Reg. 445/03, s. 5 (2). Submission of Vehicle for Testing",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>(1) This section applies with respect to a heavy vehicle that operates on diesel fuel. O. Reg. 343/01, s. 12.</p> <p class=\"subsection-e\">  (1.1), (1.2) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 343/01, s. 12.</p> <p class=\"subsection-e\">  (2) The maximum emission standard set out in Table 12 of the Drive Clean Guide for motor vehicles of a type and a model year set out in that Table and for a period set out in the Table is prescribed for those vehicles for that period. O. Reg. 86/99, s. 15; O. Reg. 445/03, s. 5 (1).</p> <p class=\"subsection-e\">  (3) The procedure to be used for testing a motor vehicle’s compliance with the maximum emission standards prescribed in this section is the opacity test for diesel fuelled heavy vehicles, as described in the Drive Clean Guide, or a test that the Director considers equivalent. O. Reg. 86/99, s. 15.</p> <p class=\"subsection-e\">  (4) Every motor vehicle for which emission standards are prescribed in this section shall comply with those standards. O. Reg. 361/98, s. 12 (4).</p> <p class=\"subsection-e\">  (5) No person shall operate or cause or permit the operation of a motor vehicle that does not comply with subsection (4). O. Reg. 401/98, s. 6.</p> <p class=\"subsection-e\">  (6), (7) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 445/03, s. 5 (2).</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>Submission of Vehicle for Testing</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. (1) A provincial officer designated for the purpose of carrying out Part III of the Act or a police officer may, by written notice in a form approved by the Minister, require the driver or owner of a motor vehicle to, (a) submit the motor vehicle for testing and inspection; or (b) cause repairs to be done to the motor vehicle. O. Reg. 496/18, s. 11. (2) Every driver or owner of a motor vehicle shall comply with a written notice given under subsection (1). O. Reg. 361/98, s. 13 (2). (3) A notice under subsection (1) may be given to the owner of a vehicle by leaving a copy of the notice with the driver of the vehicle. O. Reg. 401/98, s. 7. Orders under Section 18 of the Act",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>(1) A provincial officer designated for the purpose of carrying out Part III of the Act or a police officer may, by written notice in a form approved by the Minister, require the driver or owner of a motor vehicle to,</p> <p class=\"clause-e\">  (a) submit the motor vehicle for testing and inspection; or</p> <p class=\"clause-e\">  (b) cause repairs to be done to the motor vehicle. O. Reg. 496/18, s. 11.</p> <p class=\"subsection-e\">  (2) Every driver or owner of a motor vehicle shall comply with a written notice given under subsection (1). O. Reg. 361/98, s. 13 (2).</p> <p class=\"subsection-e\">  (3) A notice under subsection (1) may be given to the owner of a vehicle by leaving a copy of the notice with the driver of the vehicle. O. Reg. 401/98, s. 7.</p> <p class=\"heading1-e\"><a name=\"BK18\"></a>Orders under Section 18 of the Act</p>"
+        },
+        {
+            "ahref_id": "#13.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13.1 An order under section 18 of the Act may be given to a person who owns or has management or control of one or more motor vehicles by leaving a copy of the order with the driver of any of the vehicles. O. Reg. 401/98, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>13.1 </b>An order under section 18 of the Act may be given to a person who owns or has management or control of one or more motor vehicles by leaving a copy of the order with the driver of any of the vehicles. O. Reg. 401/98, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. Omitted (revokes other Regulations). O. Reg. 361/98, s. 14. TableS 1-9 Revoked:  O. Reg. 86/99, s. 16. Schedules 1-3 Revoked: O. Reg. 496/18, s. 12. Form 1 Revoked:  O. Reg. 343/01, s. 15.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>14.</b> <span>O<span class=\"ovsmallcap\">mitted (revokes other Regulations</span>)</span>. O. Reg. 361/98, s. 14.</p> <p class=\"tableheadingrev-e\"><span class=\"ovallcaps\">TableS 1-9</span> <span class=\"ovsmallcap\">Revoked:</span>  O. Reg. 86/99, s. 16.</p> <p class=\"scheduleRepeal-e\"><a name=\"BK19\"></a><span class=\"ovallcaps\">Schedules 1-3</span> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 496/18, s. 12.</p> <p class=\"formRevoked-e\"><a name=\"BK20\"></a><a name=\"BK21\"></a><span class=\"ovallcaps\">Form</span> 1 <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 343/01, s. 15.</p> <p class=\"formRevoked-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/980361\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

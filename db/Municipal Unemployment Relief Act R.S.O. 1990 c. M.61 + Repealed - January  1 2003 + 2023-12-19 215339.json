@@ -1,0 +1,29 @@
+{
+    "act_info": {
+        "full_title": "Municipal Unemployment Relief Act, R.S.O. 1990, c. M.61",
+        "act_name_text": "Not Found",
+        "citation": "Municipal Unemployment Relief Act, R.S.O. 1990, c. M.61",
+        "url": "https://www.ontario.ca/laws/statute/90m61",
+        "date_scraped": "2023-12-19 21:53:40"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definition",
+            "content": "1.In this Act, “municipality” means a city, town, village, township and county, and includes a metropolitan, regional and district municipality. R.S.O. 1990, c. M.61, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1.</b>In this Act,</p> <p class=\"firstdef-e\">“municipality” means a city, town, village, township and county, and includes a metropolitan, regional and district municipality. R.S.O. 1990, c. M.61, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Expenditure of money and entry on private property",
+            "content": "2.Every municipality may, by agreement with the owner of private property, enter on such property and expend money thereon for the purpose of implementing any plan that is approved by the Ministry of Municipal Affairs for the relief of unemployment in the municipality. R.S.O. 1990, c. M.61, s. 2. ______________ Français ",
+            "raw_html": "<p class=\"section-e\"><b>2.</b>Every municipality may, by agreement with the owner of private property, enter on such property and expend money thereon for the purpose of implementing any plan that is approved by the Ministry of Municipal Affairs for the relief of unemployment in the municipality. R.S.O. 1990, c. M.61, s. 2.</p> <p class=\"line-e\">______________</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90m61_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90m61_f.htm\" target=\"_top\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

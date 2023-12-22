@@ -1,0 +1,50 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 69/07: TITLE INSURANCE LICENCES",
+        "reg_name_text": "Title Insurance Licences",
+        "citation": "O. Reg. 69/07: TITLE INSURANCE LICENCES",
+        "act_under": "Insurance Act",
+        "url": "https://www.ontario.ca/laws/regulation/070069",
+        "date_scraped": "2023-12-19 03:08:29"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "December  6, 2016",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/070069/v2",
+            "valid_from": "April 30, 2007",
+            "valid_to": "December  5, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/070069/v1",
+            "valid_from": "February 26, 2007",
+            "valid_to": "April 29, 2007"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Limitation and condition",
+            "content": "  1. A licence issued to an insurer to undertake title insurance in Ontario is subject to the limitation and condition that no policy of title insurance shall be issued unless the insurer has first obtained a concurrent certificate of title to the property to be insured from a solicitor then entitled to practise in Ontario and who is not at that time in the employ of the insurer.  O. Reg. 69/07, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>A licence issued to an insurer to undertake title insurance in Ontario is subject to the limitation and condition that no policy of title insurance shall be issued unless the insurer has first obtained a concurrent certificate of title to the property to be insured from a solicitor then entitled to practise in Ontario and who is not at that time in the employ of the insurer.  O. Reg. 69/07, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Limitation and condition",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 69/07, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).  O. Reg. 69/07, s. 2.</p>"
+        },
+        {
+            "id": null,
+            "section": "Limitation and condition",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/070069\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

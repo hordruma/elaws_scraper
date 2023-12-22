@@ -1,0 +1,51 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 11/21: STAY-AT-HOME ORDER",
+        "reg_name_text": "STAY-AT-HOME ORDER",
+        "citation": "O. Reg. 11/21: ",
+        "act_under": "Emergency Management and Civil Protection Act",
+        "url": "https://www.ontario.ca/laws/regulation/210011",
+        "date_scraped": "2023-12-18 18:45:20"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/210011/v2",
+            "valid_from": "February  8, 2021",
+            "valid_to": "March  7, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/210011/v1",
+            "valid_from": "January 13, 2021",
+            "valid_to": "February  7, 2021"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Terms of Order",
+            "content": "  1. The terms of this Order are set out in Schedule 1.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>The terms of this Order are set out in Schedule 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Application",
+            "content": " 2. (1) This Order applies as of 12:01 a.m. on January 14, 2021. O. Reg. 11/21, s. 2. (2) Beginning on February 10, 2021, this Order applies to every individual residing in a particular health unit if another Order made under the Act specifies that this Order applies to that health unit. O. Reg. 94/21, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) This Order applies as of 12:01 a.m. on January 14, 2021. O. Reg. 11/21, s. 2.</p> <p class=\"subsection-e\">  (2) Beginning on February 10, 2021, this Order applies to every individual residing in a particular health unit if another Order made under the Act specifies that this Order applies to that health unit. O. Reg. 94/21, s. 1.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Definition",
+            "content": " 3. In this Order, “health unit” means a health unit as defined in the Health Protection and Promotion Act. O. Reg. 94/21, s. 2. Schedule 1",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>In this Order,</p> <p class=\"definition-e\">“health unit” means a health unit as defined in the <i>Health Protection and Promotion Act</i>. O. Reg. 94/21, s. 2.</p> <p class=\"schedule-e\">Schedule 1</p>"
+        },
+        {
+            "id": null,
+            "section": "Requirement to remain in residence",
+            "content": "  1. (1) Every individual shall remain at the residence at which they are currently residing at all times unless leaving their residence is necessary for one or more of the following purposes:",
+            "raw_html": "<p class=\"section-e\">  1. (1) Every individual shall remain at the residence at which they are currently residing at all times unless leaving their residence is necessary for one or more of the following purposes:</p>"
+        }
+    ]
+}

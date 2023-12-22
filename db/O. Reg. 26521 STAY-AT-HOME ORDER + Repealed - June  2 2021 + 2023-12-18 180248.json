@@ -1,0 +1,40 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 265/21: STAY-AT-HOME ORDER",
+        "reg_name_text": "STAY-AT-HOME ORDER",
+        "citation": "O. Reg. 265/21: ",
+        "act_under": "Emergency Management and Civil Protection Act",
+        "url": "https://www.ontario.ca/laws/regulation/210265",
+        "date_scraped": "2023-12-18 18:02:49"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/210265/v1",
+            "valid_from": "April  7, 2021",
+            "valid_to": "June  1, 2021"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Terms of Order",
+            "content": " 1. The terms of this Order are set out in Schedule 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The terms of this Order are set out in Schedule 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Application",
+            "content": " 2. This Order applies as of 12:01 a.m. on April 8, 2021. SCHEDULE 1",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>This Order applies as of 12:01 a.m. on April 8, 2021.</p> <p class=\"schedule-e\">SCHEDULE 1</p>"
+        },
+        {
+            "id": "1.",
+            "section": "Requirement to remain in residence",
+            "content": " 1. (1) Every individual shall remain at the residence at which they are currently residing at all times unless leaving their residence is necessary for one or more of the following purposes:",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) Every individual shall remain at the residence at which they are currently residing at all times unless leaving their residence is necessary for one or more of the following purposes:</p>"
+        }
+    ]
+}

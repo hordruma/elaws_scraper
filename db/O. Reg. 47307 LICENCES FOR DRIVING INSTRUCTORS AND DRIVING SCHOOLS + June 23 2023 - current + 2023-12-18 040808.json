@@ -1,0 +1,684 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 473/07: LICENCES FOR DRIVING INSTRUCTORS AND DRIVING SCHOOLS",
+        "reg_name_text": "LIcences for driving instructors and driving schools",
+        "citation": "O. Reg. 473/07: LICENCES FOR DRIVING INSTRUCTORS AND DRIVING SCHOOLS",
+        "act_under": "Highway Traffic Act",
+        "url": "https://www.ontario.ca/laws/regulation/070473",
+        "date_scraped": "2023-12-18 04:08:09"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "June 23, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v36",
+            "valid_from": "January  1, 2023",
+            "valid_to": "June 22, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v35",
+            "valid_from": "April 22, 2022",
+            "valid_to": "December 31, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v34",
+            "valid_from": "March  1, 2022",
+            "valid_to": "April 21, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v33",
+            "valid_from": "November 28, 2021",
+            "valid_to": "February 28, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v32",
+            "valid_from": "November  5, 2021",
+            "valid_to": "November 27, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v31",
+            "valid_from": "September  1, 2021",
+            "valid_to": "November  4, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v30",
+            "valid_from": "August 31, 2021",
+            "valid_to": "August 31, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v29",
+            "valid_from": "June 24, 2021",
+            "valid_to": "August 30, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v28",
+            "valid_from": "January  1, 2021",
+            "valid_to": "June 23, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v27",
+            "valid_from": "November 27, 2020",
+            "valid_to": "December 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v26",
+            "valid_from": "June 30, 2020",
+            "valid_to": "November 26, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v25",
+            "valid_from": "July 12, 2019",
+            "valid_to": "June 29, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v24",
+            "valid_from": "July  1, 2019",
+            "valid_to": "July 11, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v23",
+            "valid_from": "June 27, 2019",
+            "valid_to": "June 30, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v22",
+            "valid_from": "June  8, 2019",
+            "valid_to": "June 26, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v21",
+            "valid_from": "May 24, 2019",
+            "valid_to": "June  7, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v20",
+            "valid_from": "August 20, 2018",
+            "valid_to": "May 23, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v19",
+            "valid_from": "January  1, 2018",
+            "valid_to": "August 19, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v18",
+            "valid_from": "August 31, 2017",
+            "valid_to": "December 31, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v17",
+            "valid_from": "January  1, 2017",
+            "valid_to": "August 30, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v16",
+            "valid_from": "July 26, 2016",
+            "valid_to": "December 31, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v15",
+            "valid_from": "November  1, 2015",
+            "valid_to": "July 25, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v14",
+            "valid_from": "November  1, 2014",
+            "valid_to": "October 31, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v13",
+            "valid_from": "November  1, 2013",
+            "valid_to": "October 31, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v12",
+            "valid_from": "September  1, 2013",
+            "valid_to": "October 31, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v11",
+            "valid_from": "August 27, 2013",
+            "valid_to": "August 31, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v10",
+            "valid_from": "June 22, 2012",
+            "valid_to": "August 26, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v9",
+            "valid_from": "May 29, 2012",
+            "valid_to": "June 21, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v8",
+            "valid_from": "February  1, 2011",
+            "valid_to": "May 28, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v7",
+            "valid_from": "December  1, 2008",
+            "valid_to": "January 31, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v6",
+            "valid_from": "November  1, 2008",
+            "valid_to": "November 30, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v5",
+            "valid_from": "September 30, 2008",
+            "valid_to": "October 31, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v4",
+            "valid_from": "September  1, 2008",
+            "valid_to": "September 29, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v3",
+            "valid_from": "December  1, 2007",
+            "valid_to": "August 31, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v2",
+            "valid_from": "September  1, 2007",
+            "valid_to": "November 30, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/070473/v1",
+            "valid_from": "August 23, 2007",
+            "valid_to": "August 31, 2007"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I  ",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section": "PART I INTERPRETATION",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION",
+            "section": "Interpretation",
+            "content": " 1. (1) In this Regulation, “Class G motor vehicle” means a Class G motor vehicle within the meaning of the Table to subsection 2 (1) of O. Reg. 340/94; (“véhicule automobile de catégorie G”) “driver education certificate” means an electronic record, maintained by the Ministry, of a student’s successful completion of a course of driving instruction provided by a driving school; (“certificat de cours de conduite automobile”) “old regulation” means Regulation 586 of the Revised Regulations of Ontario, 1990 (Driving Instructor’s Licence) made under the Act, as it read on November 30, 2007; (“ancien règlement”) “O. Reg. 340/94” means Ontario Regulation 340/94 (Drivers’ Licences) made under the Act; O. Reg. 473/07, s. 1 (1); O. Reg. 347/08, s. 1; O. Reg. 116/19, s. 1. (“Règl. de l’Ont. 340/94”) (2) A reference in this Regulation to a prescribed class of driving instruction is to a class of driving instruction prescribed under section 2 or 15, as the case may be.  O. Reg. 473/07, s. 1 (2). (3) For greater certainty, a school board that provides driving instruction as a business or as part of a driver education course approved by the Ministry is a driving school.  O. Reg. 473/07, s. 1 (3). Part II   Driving instructor licences Class of Instruction",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK1\"></a><b>1. </b>(1) In this Regulation,</p> <p class=\"firstdef-e\">“Class G motor vehicle” means a Class G motor vehicle within the meaning of the Table to subsection 2 (1) of O. Reg. 340/94; (“véhicule automobile de catégorie G”)</p> <p class=\"definition-e\">“driver education certificate” means an electronic record, maintained by the Ministry, of a student’s successful completion of a course of driving instruction provided by a driving school; (“certificat de cours de conduite automobile”)</p> <p class=\"definition-e\">“old regulation” means Regulation 586 of the Revised Regulations of Ontario, 1990 (Driving Instructor’s Licence) made under the Act, as it read on November 30, 2007; (“ancien règlement”)</p> <p class=\"definition-e\">“O. Reg. 340/94” means Ontario Regulation 340/94 (Drivers’ Licences) made under the Act; O. Reg. 473/07, s. 1 (1); O. Reg. 347/08, s. 1; O. Reg. 116/19, s. 1. (“Règl. de l’Ont. 340/94”)</p> <p class=\"subsection-e\">  (2) A reference in this Regulation to a prescribed class of driving instruction is to a class of driving instruction prescribed under section 2 or 15, as the case may be.  O. Reg. 473/07, s. 1 (2).</p> <p class=\"subsection-e\">  (3) For greater certainty, a school board that provides driving instruction as a business or as part of a driver education course approved by the Ministry is a driving school.  O. Reg. 473/07, s. 1 (3).</p> <p class=\"partnum-e\"><a name=\"BK2\"></a>Part II <br/>  Driving instructor licences</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Class of Instruction</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "PART II  ",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section": "PART II DRIVING INSTRUCTOR LICENCES",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Class of Instruction",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Class of Instruction",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "2.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Prescribed class of driving instruction",
+            "content": " 2. In-vehicle driving instruction in the operation of a Class G motor vehicle provided to a holder of a Class G1, G2 or G driver’s licence is a class of driving instruction that an individual must be authorized to provide for the purpose of subsection 58 (1) of the Act.  O. Reg. 473/07, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK4\"></a><b>2. </b>In-vehicle driving instruction in the operation of a Class G motor vehicle provided to a holder of a Class G1, G2 or G driver’s licence is a class of driving instruction that an individual must be authorized to provide for the purpose of subsection 58 (1) of the Act.  O. Reg. 473/07, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "3.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Authorization to provide driving instruction",
+            "content": " 3. The holder of a valid driving instructor licence is authorized to provide instruction in the prescribed class of in-vehicle driving instruction.  O. Reg. 473/07, s. 3. Issuance and Renewal of Licences",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK5\"></a><b>3. </b>The holder of a valid driving instructor licence is authorized to provide instruction in the prescribed class of in-vehicle driving instruction.  O. Reg. 473/07, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Issuance and Renewal of Licences</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "Issuance and Renewal of Licences",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Issuance and Renewal of Licences",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "4.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Requirements for driving instructor licence",
+            "content": " 4. (1) An applicant must satisfy the following requirements for the issue of a driving instructor licence: 1.  The applicant has the ability to operate, and to instruct in the safe operation of, a Class G motor vehicle. 2.  The applicant meets the requirements of subsection 5 (2) of O. Reg. 340/94 to be an accompanying driver, other than by virtue of being licensed as a driving instructor in Ontario. 3.  The applicant successfully completed, not more than one year before the date of the application, the examinations referred to in clauses 15 (1) (a) and (b) and subsection 15 (2) of O. Reg. 340/94. 4.  The applicant satisfies the Minister, not more than one year before the date of the application, that he or she meets the requirements of subsection 18 (2) of O. Reg. 340/94. 5.  The applicant does not have any accumulated demerit points on his or her driving record. 6.  The applicant’s driver’s licence has not been under suspension at any time in the preceding two years, i.  as a result of being found guilty or convicted of an offence under section 9 or 53, subsection 128 (15) or section 130, subsection 172 (2) or section 200 or 216 of the Act, ii.  as a result of being found guilty or convicted of an offence under section 2 of the Compulsory Automobile Insurance Act, iii.  as a result of being found guilty or convicted of an offence under the Criminal Code (Canada) committed by means of a motor vehicle or while driving or having the care or control of a motor vehicle, or of a comparable offence in another jurisdiction, or iv.  pursuant to section 48 or 48.3 or subsection 172 (9) of the Act. 6.1  The applicant has not been convicted or found guilty in the preceding two years of an offence under section 58.0.1 of the Act. 7.  The applicant is not, on the date of the application, subject to a charge for an offence under section 151, 152, 153, 153.1, 155, 160, 162, 163, 163.1, 167, 168, 170, 171, 172, 172.1, 173, 212, 271, 272 or 273 of the Criminal Code (Canada) or of a comparable offence in another jurisdiction. 8.  The applicant has never been convicted or found guilty of an offence under the Criminal Code (Canada) listed in paragraph 7, or of a comparable offence in another jurisdiction. 9.  The applicant has not been convicted or found guilty in the preceding five years of an offence under the Criminal Code (Canada), not including an offence listed in paragraph 7, or of a comparable offence in another jurisdiction. 10.  The applicant has never been convicted or found guilty of an offence under section 5, 6 or 7 of the Controlled Drugs and Substances Act (Canada) or section 4 or 5 of the Narcotic Control Act (Canada), or of a comparable offence in another jurisdiction. 11.  The applicant has not been convicted or found guilty in the preceding five years of an offence under the Controlled Drugs and Substances Act (Canada) or the Narcotic Control Act (Canada), not including an offence listed in paragraph 10, or of a comparable offence in another jurisdiction. 12.  The applicant is not subject to a court order, conditions of parole or an undertaking to a peace officer prohibiting him or her from, i.  possessing a weapon, or ii.  being alone with, in the presence of or in proximity to persons under any age that may be specified in the order, conditions or undertaking. 13.  The applicant has successfully completed, not more than five years before the date of the application, a course for in-vehicle driving instructors approved by the Ministry. 14.  Where the applicant has been licensed by another jurisdiction, the applicant’s driving record in that jurisdiction is comparable to that required by paragraph 5. 15.  The applicant is a fit and proper person to be a driving instructor, having regard to the applicant’s character, integrity and past conduct. O. Reg. 473/07, s. 4 (1); O. Reg. 688/20, s. 1; O. Reg. 743/21, s. 1; O. Reg. 138/23, s. 1. (2) Subject to section 35, the Minister shall refuse to issue a driving instructor licence to a person who does not satisfy the requirements of paragraphs 1 to 15 of subsection (1) and shall serve written notice of the refusal on the person. O. Reg. 473/07, s. 4 (2); O. Reg. 110/12, s. 1. (3) Revoked: O. Reg. 625/21, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK7\"></a><b>4. </b>(1) An applicant must satisfy the following requirements for the issue of a driving instructor licence:</p> <p class=\"paragraph-e\">  1.  The applicant has the ability to operate, and to instruct in the safe operation of, a Class G motor vehicle.</p> <p class=\"paragraph-e\">  2.  The applicant meets the requirements of subsection 5 (2) of O. Reg. 340/94 to be an accompanying driver, other than by virtue of being licensed as a driving instructor in Ontario.</p> <p class=\"paragraph-e\">  3.  The applicant successfully completed, not more than one year before the date of the application, the examinations referred to in clauses 15 (1) (a) and (b) and subsection 15 (2) of O. Reg. 340/94.</p> <p class=\"paragraph-e\">  4.  The applicant satisfies the Minister, not more than one year before the date of the application, that he or she meets the requirements of subsection 18 (2) of O. Reg. 340/94.</p> <p class=\"paragraph-e\">  5.  The applicant does not have any accumulated demerit points on his or her driving record.</p> <p class=\"paragraph-e\">  6.  The applicant’s driver’s licence has not been under suspension at any time in the preceding two years,</p> <p class=\"subpara-e\">  i.  as a result of being found guilty or convicted of an offence under section 9 or 53, subsection 128 (15) or section 130, subsection 172 (2) or section 200 or 216 of the Act,</p> <p class=\"subpara-e\">  ii.  as a result of being found guilty or convicted of an offence under section 2 of the <i>Compulsory Automobile Insurance Act</i>,</p> <p class=\"subpara-e\">  iii.  as a result of being found guilty or convicted of an offence under the <i>Criminal Code</i> (Canada) committed by means of a motor vehicle or while driving or having the care or control of a motor vehicle, or of a comparable offence in another jurisdiction, or</p> <p class=\"subpara-e\">  iv.  pursuant to section 48 or 48.3 or subsection 172 (9) of the Act.</p> <p class=\"paragraph-e\">  6.1  The applicant has not been convicted or found guilty in the preceding two years of an offence under section 58.0.1 of the Act.</p> <p class=\"paragraph-e\">  7.  The applicant is not, on the date of the application, subject to a charge for an offence under section 151, 152, 153, 153.1, 155, 160, 162, 163, 163.1, 167, 168, 170, 171, 172, 172.1, 173, 212, 271, 272 or 273 of the <i>Criminal Code</i> (Canada) or of a comparable offence in another jurisdiction. </p> <p class=\"paragraph-e\">  8.  The applicant has never been convicted or found guilty of an offence under the <i>Criminal Code</i> (Canada) listed in paragraph 7, or of a comparable offence in another jurisdiction. </p> <p class=\"paragraph-e\">  9.  The applicant has not been convicted or found guilty in the preceding five years of an offence under the <i>Criminal Code</i> (Canada), not including an offence listed in paragraph 7, or of a comparable offence in another jurisdiction.</p> <p class=\"paragraph-e\">  10.  The applicant has never been convicted or found guilty of an offence under section 5, 6 or 7 of the <i>Controlled Drugs and Substances Act</i> (Canada) or section 4 or 5 of the <i>Narcotic Control Act</i> (Canada), or of a comparable offence in another jurisdiction.</p> <p class=\"paragraph-e\">  11.  The applicant has not been convicted or found guilty in the preceding five years of an offence under the <i>Controlled Drugs and Substances Act</i> (Canada) or the <i>Narcotic Control Act</i> (Canada), not including an offence listed in paragraph 10, or of a comparable offence in another jurisdiction.</p> <p class=\"paragraph-e\">  12.  The applicant is not subject to a court order, conditions of parole or an undertaking to a peace officer prohibiting him or her from,</p> <p class=\"subpara-e\">  i.  possessing a weapon, or </p> <p class=\"subpara-e\">  ii.  being alone with, in the presence of or in proximity to persons under any age that may be specified in the order, conditions or undertaking.</p> <p class=\"paragraph-e\">  13.  The applicant has successfully completed, not more than five years before the date of the application, a course for in-vehicle driving instructors approved by the Ministry. </p> <p class=\"paragraph-e\">  14.  Where the applicant has been licensed by another jurisdiction, the applicant’s driving record in that jurisdiction is comparable to that required by paragraph 5. </p> <p class=\"paragraph-e\">  15.  The applicant is a fit and proper person to be a driving instructor, having regard to the applicant’s character, integrity and past conduct. O. Reg. 473/07, s. 4 (1); O. Reg. 688/20, s. 1; O. Reg. 743/21, s. 1; O. Reg. 138/23, s. 1.</p> <p class=\"subsection-e\">  (2) Subject to section 35, the Minister shall refuse to issue a driving instructor licence to a person who does not satisfy the requirements of paragraphs 1 to 15 of subsection (1) and shall serve written notice of the refusal on the person. O. Reg. 473/07, s. 4 (2); O. Reg. 110/12, s. 1.</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 625/21, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "5.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Application for driving instructor licence",
+            "content": " 5. (1) An applicant for a driving instructor licence shall submit, together with the application,  (a)  Revoked:  O. Reg. 110/12, s. 2. (b)  the fees required by subsection 8 (1); and (c)  any other material that the Minister may require as evidence that the applicant satisfies the requirements of subsection 4 (1).  O. Reg. 473/07, s. 5 (1); O. Reg. 110/12, s. 2. (2) An applicant for a driving instructor licence who has twice failed an examination for such licence under subsection 15 (2) of O. Reg. 340/94 is not eligible to take the examination again until one year has passed since the last failed examination.  O. Reg. 473/07, s. 5 (2). (3) An applicant for a driving instructor licence who has twice failed an examination for such licence under clause 15 (1) (a) of O. Reg. 340/94 is not eligible to take the examination again until one year has passed since the last failed examination.  O. Reg. 347/08, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK8\"></a>5. </b>(1) An applicant for a driving instructor licence shall submit, together with the application, </p> <p class=\"clause-e\">  (a)  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 110/12, s. 2.</p> <p class=\"clause-e\">  (b)  the fees required by subsection 8 (1); and</p> <p class=\"clause-e\">  (c)  any other material that the Minister may require as evidence that the applicant satisfies the requirements of subsection 4 (1).  O. Reg. 473/07, s. 5 (1); O. Reg. 110/12, s. 2.</p> <p class=\"subsection-e\">  (2) An applicant for a driving instructor licence who has twice failed an examination for such licence under subsection 15 (2) of O. Reg. 340/94 is not eligible to take the examination again until one year has passed since the last failed examination.  O. Reg. 473/07, s. 5 (2).</p> <p class=\"subsection-e\">  (3) An applicant for a driving instructor licence who has twice failed an examination for such licence under clause 15 (1) (a) of O. Reg. 340/94 is not eligible to take the examination again until one year has passed since the last failed examination.  O. Reg. 347/08, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "6.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Term of initial driving instructor licence",
+            "content": " 6. (1) The term of a driving instructor licence issued to an applicant for the first time under this Regulation shall be at least 13 months and shall expire on March 31 of the year in which it expires.  O. Reg. 473/07, s. 6 (1). (2) Despite subsection (1), a driving instructor licence that is deemed to be issued under section 9 expires on the date set out in the licence that was issued under the old regulation.  O. Reg. 473/07, s. 6 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK9\"></a><b>6. </b>(1) The term of a driving instructor licence issued to an applicant for the first time under this Regulation shall be at least 13 months and shall expire on March 31 of the year in which it expires.  O. Reg. 473/07, s. 6 (1).</p> <p class=\"subsection-e\">  (2) Despite subsection (1), a driving instructor licence that is deemed to be issued under section 9 expires on the date set out in the licence that was issued under the old regulation.  O. Reg. 473/07, s. 6 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "7.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Renewal of driving instructor licence",
+            "content": " 7. (1) Every renewal of a driving instructor licence shall be for a term of three years and shall expire on March 31 of the year in which it expires.  O. Reg. 473/07, s. 7 (1). (2) A driving instructor licence that is not renewed within one year after its expiry is not renewable and must be applied for again.  O. Reg. 473/07, s. 7 (2). (3) Section 6 applies with necessary modifications to a driving instructor licence that is applied for again as required by subsection (2).  O. Reg. 473/07, s. 7 (3). 7.1 Revoked: O. Reg. 625/21, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK10\"></a><b>7. </b>(1) Every renewal of a driving instructor licence shall be for a term of three years and shall expire on March 31 of the year in which it expires.  O. Reg. 473/07, s. 7 (1).</p> <p class=\"subsection-e\">  (2) A driving instructor licence that is not renewed within one year after its expiry is not renewable and must be applied for again.  O. Reg. 473/07, s. 7 (2).</p> <p class=\"subsection-e\">  (3) Section 6 applies with necessary modifications to a driving instructor licence that is applied for again as required by subsection (2).  O. Reg. 473/07, s. 7 (3).</p> <p class=\"section-e\"> <a name=\"BK11\"></a><b>7.1 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 625/21, s. 2 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "8.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Fees",
+            "content": " 8. (1) The following fees are payable in respect of the issue, renewal or replacement of a driving instructor licence: 1.  For examinations under clauses 15 (1) (a) and (b) and subsection 15 (2) of O. Reg. 340/94, $115. 2.  For the administration of examinations under clauses 15 (1) (a) and (b) and subsection 15 (2) of O. Reg. 340/94 described in paragraph 1, $10. 3.  For the issue or renewal of a driving instructor licence, per month, to the date of its expiry, $1.33. 4.  For replacement of a lost or destroyed driving instructor licence, $35.75. O. Reg. 473/07, s. 8 (1); O. Reg. 173/12, s. 1 (1); O. Reg. 245/13, s. 1; O. Reg. 270/16, s. 1 (1); O. Reg. 339/17, s. 1; O. Reg. 270/16, s. 1 (2); O. Reg. 217/19, s. 1 (2); O. Reg. 333/20, s. 1 (2, 3); O. Reg. 494/21, s. 1; O. Reg. 430/22, s. 1; O. Reg. 138/23, s. 2. (2) The fees under paragraphs 1 and 2 of subsection (1) are due when the examinations are booked and are payable even if the time booked for taking the examinations passes without the examinations being taken. O. Reg. 173/12, s. 1 (2); O. Reg. 270/16, s. 1 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK12\"></a><b>8. </b>(1) The following fees are payable in respect of the issue, renewal or replacement of a driving instructor licence:</p> <p class=\"paragraph-e\">  1.  For examinations under clauses 15 (1) (a) and (b) and subsection 15 (2) of O. Reg. 340/94, $115.</p> <p class=\"paragraph-e\">  2.  For the administration of examinations under clauses 15 (1) (a) and (b) and subsection 15 (2) of O. Reg. 340/94 described in paragraph 1, $10.</p> <p class=\"paragraph-e\">  3.  For the issue or renewal of a driving instructor licence, per month, to the date of its expiry, $1.33.</p> <p class=\"paragraph-e\">  4.  For replacement of a lost or destroyed driving instructor licence, $35.75. O. Reg. 473/07, s. 8 (1); O. Reg. 173/12, s. 1 (1); O. Reg. 245/13, s. 1; O. Reg. 270/16, s. 1 (1); O. Reg. 339/17, s. 1; O. Reg. 270/16, s. 1 (2); O. Reg. 217/19, s. 1 (2); O. Reg. 333/20, s. 1 (2, 3); O. Reg. 494/21, s. 1; O. Reg. 430/22, s. 1; O. Reg. 138/23, s. 2.</p> <p class=\"subsection-e\">  (2) The fees under paragraphs 1 and 2 of subsection (1) are due when the examinations are booked and are payable even if the time booked for taking the examinations passes without the examinations being taken. O. Reg. 173/12, s. 1 (2); O. Reg. 270/16, s. 1 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "8.1",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Fee adjustment — Consumer Price Index",
+            "content": " 8.1 (1) On July 1, 2024 and on every July 1 after that, the fee prescribed in paragraph 1 of subsection 8 (1) is the fee prescribed as of June 30 of the year adjusted by the percentage change in the Ontario Consumer Price Index between the previous two calendar years. O. Reg. 333/20, s. 2; O. Reg. 494/21, s. 2; O. Reg. 430/22, s. 2; O. Reg. 138/23, s. 3. (2) The actual fee prescribed in paragraph 1 of subsection 8 (1) is the amount determined by the calculation described in subsection (1) rounded to the nearest quarter of a dollar. O. Reg. 173/12, s. 2. (3) If the percentage change in the Ontario Consumer Price Index between the previous two calendar years results in a negative amount under subsection (1), no adjustment shall be made. O. Reg. 217/19, s. 2 (2). (4) In this section, the percentage change in the Ontario Consumer Price Index between two calendar years is the percentage change in the Consumer Price Index for Ontario (All-Items) between those years as published by Statistics Canada under the authority of the Statistics Act (Canada). O. Reg. 173/12, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK13\"></a><b>8.1 </b>(1) On July 1, 2024 and on every July 1 after that, the fee prescribed in paragraph 1 of subsection 8 (1) is the fee prescribed as of June 30 of the year adjusted by the percentage change in the Ontario Consumer Price Index between the previous two calendar years. O. Reg. 333/20, s. 2; O. Reg. 494/21, s. 2; O. Reg. 430/22, s. 2; O. Reg. 138/23, s. 3.</p> <p class=\"subsection-e\">  (2) The actual fee prescribed in paragraph 1 of subsection 8 (1) is the amount determined by the calculation described in subsection (1) rounded to the nearest quarter of a dollar. O. Reg. 173/12, s. 2.</p> <p class=\"subsection-e\">  (3) If the percentage change in the Ontario Consumer Price Index between the previous two calendar years results in a negative amount under subsection (1), no adjustment shall be made. O. Reg. 217/19, s. 2 (2).</p> <p class=\"subsection-e\">  (4) In this section, the percentage change in the Ontario Consumer Price Index between two calendar years is the percentage change in the Consumer Price Index for Ontario (All-Items) between those years as published by Statistics Canada under the authority of the <i>Statistics Act</i> (Canada). O. Reg. 173/12, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "9.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Transition",
+            "content": " 9. A person who holds a valid driving instructor’s licence under the old regulation on November 30, 2007 is deemed to be issued a driving instructor licence under this Regulation on December 1, 2007.  O. Reg. 473/07, s. 9. Refusal to Renew and Revocation of a Licence",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK14\"></a><b>9. </b>A person who holds a valid driving instructor’s licence under the old regulation on November 30, 2007 is deemed to be issued a driving instructor licence under this Regulation on December 1, 2007.  O. Reg. 473/07, s. 9.</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Refusal to Renew and Revocation of a Licence</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "Refusal to Renew and Revocation of a Licence",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Refusal to Renew and Revocation of a Licence",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "10.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Refusal to renew or revocation of driving instructor licence",
+            "content": " 10. (1) Subject to section 35, the Minister may refuse to renew or may revoke a driving instructor licence if,  (a)  the licensee made a false or inaccurate statement on his or her application for the licence under this Regulation, on his or her application for a licence under the old regulation or on his or her application for renewal of a licence that was issued or deemed to be issued under this Regulation; (b)  the licensee did not satisfy a requirement of subsection 4 (1) at the time the application for the licence was made or the licence was issued; (c)  if the licensee holds a licence deemed to be issued under section 9, the licensee did not satisfy a requirement of section 3 of the old regulation at the time the application for a driving instructor’s licence was made or the licence was issued under the old regulation or at the time the licence was deemed to be issued under section 9 of this Regulation; (d)  at any time while licensed as a driving instructor, (i)  under this Regulation, (A)  the licensee ceases to meet the requirements of subsection 5 (2) of O. Reg. 340/94 to be an accompanying driver, other than by virtue of being licensed as a driving instructor in Ontario, (B)  the licensee has more than three accumulated demerit points on his or her driving record, (C)  the licensee is convicted or found guilty of an offence under the Criminal Code (Canada) or of a comparable offence in another jurisdiction, (D)  the licensee is convicted or found guilty of an offence under the Controlled Drugs and Substances Act (Canada) or the Narcotic Control Act (Canada) or of a comparable offence in another jurisdiction, (E)  the licensee is subject to a court order, conditions of parole or an undertaking to a peace officer, prohibiting him or her from possessing a weapon, or (F)  the licensee is subject to a court order, conditions of parole or an undertaking to a peace officer, prohibiting him or her from being alone with, in the presence of or in proximity to persons under any age that may be specified in the order, conditions or undertaking, or (ii)  under the old regulation, grounds existed for the suspension or revocation of the licence under section 9 of that regulation; (e)  at any time while licensed as a driving instructor under this Regulation or, in the case of subclauses (i) and (ii), while licensed as a driving instructor under the old regulation, (i)  the licensee does not or did not operate motor vehicles safely, (ii)  the licensee does not or did not provide adequate instruction to his or her students or treats his or her students in an inappropriate manner, (iii)  the licensee contravenes or fails to comply with section 58, 58.0.1, 58.1 or 58.2 of the Act or any provision of this Regulation or breaches a condition of his or her licence, or (iv)  the licensee is not a fit and proper person to be a driving instructor, having regard to his or her character, integrity and past conduct; or (f)  on or after December 1, 1997, whether while licensed as a driving instructor under this Regulation or the old regulation or while not so licensed, the licensee is or was convicted or found guilty of an offence under section 151, 152, 153, 153.1, 155, 160, 162, 163, 163.1, 167, 168, 170, 171, 172, 172.1, 173, 212, 271, 272 or 273 of the Criminal Code (Canada) or a comparable offence in another jurisdiction; or (g)  on or after December 1, 1997, whether while licensed as a driving instructor under this Regulation or the old regulation or while not so licensed, the licensee is or was convicted or found guilty of an offence under section 5, 6 or 7 of the Controlled Drugs and Substances Act (Canada), section 4 or 5 of the Narcotic Control Act (Canada) or a comparable offence in another jurisdiction. O. Reg. 473/07, s. 10 (1); O. Reg. 347/08, s. 3 (1); O. Reg. 688/20, s. 2; O. Reg. 138/23, s. 4. (2) Despite sub-subclause (1) (d) (i) (B), the Minister shall not revoke or refuse to renew a driving instructor licence of a licensee who was licensed as a driving instructor under the old regulation on November 30, 2007 and who had more than three accumulated demerit points on his or her driving record on November 30, 2007, unless, (a)  the licensee acquires any demerit points on or after December 1, 2007 as a result of an offence that was committed on or after that day; (b)  having had his or her accumulated demerit points reduced on or after December 1, 2007 to three or fewer, he or she has more than three accumulated demerit points on his or her driving record at any time after that day; or (c)  the licensee has more than eight accumulated demerit points on his or her driving record at any time on or after December 1, 2007. O. Reg. 473/07, s. 10 (2). (3), (4) Revoked: O. Reg. 347/08, s. 3 (2). (5) Despite sub-subclause (1) (d) (i) (E), the Minister shall not revoke or refuse to renew a driving instructor licence of a licensee who was licensed as a driving instructor under the old regulation on November 30, 2007 and who was subject to an order, condition or undertaking described in that sub-subclause made on or before that date. O. Reg. 473/07, s. 10 (5). (6) Nothing in subsection (2) or (5) prevents the Minister from revoking or refusing to renew a driving instructor licence for any other reason under subsection (1). O. Reg. 473/07, s. 10 (6); O. Reg. 347/08, s. 3 (3). (7) The Minister shall serve written notice of a refusal to renew or a revocation of a license on the licensee. O. Reg. 473/07, s. 10 (7). (8) A licence revocation shall be effective on the date set out in the notice. O. Reg. 473/07, s. 10 (8). Obligations of Licensees",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK16\"></a><b>10. </b>(1) Subject to section 35, the Minister may refuse to renew or may revoke a driving instructor licence if, </p> <p class=\"clause-e\">  (a)  the licensee made a false or inaccurate statement on his or her application for the licence under this Regulation, on his or her application for a licence under the old regulation or on his or her application for renewal of a licence that was issued or deemed to be issued under this Regulation;</p> <p class=\"clause-e\">  (b)  the licensee did not satisfy a requirement of subsection 4 (1) at the time the application for the licence was made or the licence was issued;</p> <p class=\"clause-e\">  (c)  if the licensee holds a licence deemed to be issued under section 9, the licensee did not satisfy a requirement of section 3 of the old regulation at the time the application for a driving instructor’s licence was made or the licence was issued under the old regulation or at the time the licence was deemed to be issued under section 9 of this Regulation;</p> <p class=\"clause-e\"><b> </b>(d)  at any time while licensed as a driving instructor,</p> <p class=\"subclause-e\">  (i)  under this Regulation, </p> <p class=\"subsubclause-e\">  (A)  the licensee ceases to meet the requirements of subsection 5 (2) of O. Reg. 340/94 to be an accompanying driver, other than by virtue of being licensed as a driving instructor in Ontario, </p> <p class=\"subsubclause-e\">  (B)  the licensee has more than three accumulated demerit points on his or her driving record, </p> <p class=\"subsubclause-e\">  (C)  the licensee is convicted or found guilty of an offence under the <i>Criminal Code</i> (Canada) or of a comparable offence in another jurisdiction, </p> <p class=\"subsubclause-e\">  (D)  the licensee is convicted or found guilty of an offence under the <i>Controlled Drugs and Substances Act</i> (Canada) or the <i>Narcotic Control Act</i> (Canada) or of a comparable offence in another jurisdiction,\r\n</p> <p class=\"subsubclause-e\">  (E)  the licensee is subject to a court order, conditions of parole or an undertaking to a peace officer, prohibiting him or her from possessing a weapon, or </p> <p class=\"subsubclause-e\">  (F)  the licensee is subject to a court order, conditions of parole or an undertaking to a peace officer, prohibiting him or her from being alone with, in the presence of or in proximity to persons under any age that may be specified in the order, conditions or undertaking, or </p> <p class=\"subclause-e\">  (ii)  under the old regulation, grounds existed for the suspension or revocation of the licence under section 9 of that regulation; </p> <p class=\"clause-e\">  (e)  at any time while licensed as a driving instructor under this Regulation or, in the case of subclauses (i) and (ii), while licensed as a driving instructor under the old regulation, </p> <p class=\"subclause-e\">  (i)  the licensee does not or did not operate motor vehicles safely, </p> <p class=\"subclause-e\">  (ii)  the licensee does not or did not provide adequate instruction to his or her students or treats his or her students in an inappropriate manner, </p> <p class=\"subclause-e\">  (iii)  the licensee contravenes or fails to comply with section 58, 58.0.1, 58.1 or 58.2 of the Act or any provision of this Regulation or breaches a condition of his or her licence, or </p> <p class=\"subclause-e\">  (iv)  the licensee is not a fit and proper person to be a driving instructor, having regard to his or her character, integrity and past conduct; or</p> <p class=\"clause-e\">  (f)  on or after December 1, 1997, whether while licensed as a driving instructor under this Regulation or the old regulation or while not so licensed, the licensee is or was convicted or found guilty of an offence under section 151, 152, 153, 153.1, 155, 160, 162, 163, 163.1, 167, 168, 170, 171, 172, 172.1, 173, 212, 271, 272 or 273 of the <i>Criminal Code</i> (Canada) or a comparable offence in another jurisdiction; or</p> <p class=\"clause-e\">  (g)  on or after December 1, 1997, whether while licensed as a driving instructor under this Regulation or the old regulation or while not so licensed, the licensee is or was convicted or found guilty of an offence under section 5, 6 or 7 of the <i>Controlled Drugs and Substances Act</i> (Canada), section 4 or 5 of the <i>Narcotic Control Act</i> (Canada) or a comparable offence in another jurisdiction. O. Reg. 473/07, s. 10 (1); O. Reg. 347/08, s. 3 (1); O. Reg. 688/20, s. 2; O. Reg. 138/23, s. 4.</p> <p class=\"subsection-e\">  (2) Despite sub-subclause (1) (d) (i) (B), the Minister shall not revoke or refuse to renew a driving instructor licence of a licensee who was licensed as a driving instructor under the old regulation on November 30, 2007 and who had more than three accumulated demerit points on his or her driving record on November 30, 2007, unless,</p> <p class=\"clause-e\">  (a)  the licensee acquires any demerit points on or after December 1, 2007<b> </b>as a result of an offence that was committed on or after that day;</p> <p class=\"clause-e\">  (b)  having had his or her accumulated demerit points reduced on or after December 1, 2007<b> </b>to three or fewer, he or she has more than three accumulated demerit points on his or her driving record at any time after that day; or</p> <p class=\"clause-e\">  (c)  the licensee has more than eight accumulated demerit points on his or her driving record at any time on or after December 1, 2007. O. Reg. 473/07, s. 10 (2).</p> <p class=\"subsection-e\">  (3), (4) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 347/08, s. 3 (2).</p> <p class=\"subsection-e\">  (5) Despite sub-subclause (1) (d) (i) (E), the Minister shall not revoke or refuse to renew a driving instructor licence of a licensee who was licensed as a driving instructor under the old regulation on November 30, 2007 and who was subject to an order, condition or undertaking described in that sub-subclause made on or before that date. O. Reg. 473/07, s. 10 (5).</p> <p class=\"subsection-e\">  (6) Nothing in subsection (2) or (5) prevents the Minister from revoking or refusing to renew a driving instructor licence for any other reason under subsection (1). O. Reg. 473/07, s. 10 (6); O. Reg. 347/08, s. 3 (3).</p> <p class=\"subsection-e\">  (7) The Minister shall serve written notice of a refusal to renew or a revocation of a license on the licensee. O. Reg. 473/07, s. 10 (7).</p> <p class=\"subsection-e\">  (8) A licence revocation shall be effective on the date set out in the notice. O. Reg. 473/07, s. 10 (8).</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>Obligations of Licensees</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "Obligations of Licensees",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Obligations of Licensees",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "11.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Licence to be displayed",
+            "content": " 11. Every licensed driving instructor shall display his or her driving instructor licence in the motor vehicle in which he or she is providing driving instruction so that the licence is plainly visible to a person sitting in the driver’s seat. O. Reg. 473/07, s. 11.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK18\"></a><b>11. </b>Every licensed driving instructor shall display his or her driving instructor licence in the motor vehicle in which he or she is providing driving instruction so that the licence is plainly visible to a person sitting in the driver’s seat. O. Reg. 473/07, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "12.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Instruction must be for licensed driving school",
+            "content": " 12. (1) A licensed driving instructor shall not provide instruction to the holder of a Class G1 driver’s licence except pursuant to a written contract between the instructor and a licensed driving school for the employment or services of the instructor to provide driving instruction. O. Reg. 473/07, s. 12 (1). (2) Revoked:  O. Reg. 473/07, s. 37.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK19\"></a><b>12. </b>(1) A licensed driving instructor shall not provide instruction to the holder of a Class G1 driver’s licence except pursuant to a written contract between the instructor and a licensed driving school for the employment or services of the instructor to provide driving instruction. O. Reg. 473/07, s. 12 (1).</p> <p class=\"subsection-e\">  (2) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 473/07, s. 37.</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "12.1",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Consent to Ministry",
+            "content": " 12.1 Every licensed driving instructor shall give each licensed driving school with which he or she is under contract to provide driving instruction a written consent to the Ministry to notify the school if the instructor’s licence is or may be revoked.  O. Reg. 347/08, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK20\"></a><b>12.1 </b>Every licensed driving instructor shall give each licensed driving school with which he or she is under contract to provide driving instruction a written consent to the Ministry to notify the school if the instructor’s licence is or may be revoked.  O. Reg. 347/08, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "13.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Information to Ministry",
+            "content": " 13. Every licensed driving instructor shall respond forthwith to any inquiries from the Ministry for information relating to his or her qualifications to hold a driving instructor licence.  O. Reg. 473/07, s. 13.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK21\"></a><b>13. </b>Every licensed driving instructor shall respond forthwith to any inquiries from the Ministry for information relating to his or her qualifications to hold a driving instructor licence.  O. Reg. 473/07, s. 13.</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "14.",
+            "part_id": "PART II  ",
+            "part_type": "PART II DRIVING INSTRUCTOR LICENCES",
+            "section": "Students’ licences not to be retained",
+            "content": " 14. If a licensed driving instructor asks to see a student’s driver’s licence, the instructor may retain the student’s driver’s licence only for as long as is necessary to make a copy of it and must ensure that the licence is returned to the student immediately after it is copied.  O. Reg. 347/08, s. 5. part iii   driving school licences Classes of Instruction",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK22\"></a><b>14. </b>If a licensed driving instructor asks to see a student’s driver’s licence, the instructor may retain the student’s driver’s licence only for as long as is necessary to make a copy of it and must ensure that the licence is returned to the student immediately after it is copied.  O. Reg. 347/08, s. 5.</p> <p class=\"partnum-e\"><a name=\"BK23\"></a>part iii <br/>  driving school licences</p> <p class=\"heading1-e\"><a name=\"BK24\"></a>Classes of Instruction</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "PART III  ",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section": "PART III DRIVING SCHOOL LICENCES",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "Classes of Instruction",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Classes of Instruction",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "15.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Prescribed classes of driving instruction",
+            "content": " 15. The following are prescribed as classes of driving instruction that a person must be authorized to provide for the purpose of subsection 58.1 (2) of the Act: 1.  In-vehicle driving instruction in the operation of a Class G motor vehicle provided to a holder of a Class G1, G2 or G driver’s licence in a driver education course approved by the Ministry. 2.  Classroom driving instruction in the operation of a Class G motor vehicle provided to a person who does not hold a driver’s licence or who holds a Class G1 or G2 driver’s licence in a driver education course approved by the Ministry. 3.  Digital driving instruction in the operation of a Class G motor vehicle provided to a person who does not hold a driver’s licence or who holds a Class G1 or G2 driver’s licence in a driver education course approved by the Ministry.  O. Reg. 473/07, s. 15; O. Reg. 116/19, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK25\"></a><b>15. </b>The following are prescribed as classes of driving instruction that a person must be authorized to provide for the purpose of subsection 58.1 (2) of the Act:</p> <p class=\"paragraph-e\">  1.  In-vehicle driving instruction in the operation of a Class G motor vehicle provided to a holder of a Class G1, G2 or G driver’s licence in a driver education course approved by the Ministry. </p> <p class=\"paragraph-e\">  2.  Classroom driving instruction in the operation of a Class G motor vehicle provided to a person who does not hold a driver’s licence or who holds a Class G1 or G2 driver’s licence in a driver education course approved by the Ministry.</p> <p class=\"paragraph-e\">  3.  Digital driving instruction in the operation of a Class G motor vehicle provided to a person who does not hold a driver’s licence or who holds a Class G1 or G2 driver’s licence in a driver education course approved by the Ministry.  O. Reg. 473/07, s. 15; O. Reg. 116/19, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "16.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Authorization to operate driving school",
+            "content": " 16. The holder of a driving school licence is authorized to operate a driving school that provides instruction in the classes of driving instruction prescribed by section 15 for which it has received approval from the Ministry. O. Reg. 116/19, s. 3. Issuance and Renewal of Licences",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK26\"></a><b>16.</b> The holder of a driving school licence is authorized to operate a driving school that provides instruction in the classes of driving instruction prescribed by section 15 for which it has received approval from the Ministry. O. Reg. 116/19, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK27\"></a>Issuance and Renewal of Licences</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "Issuance and Renewal of Licences",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Issuance and Renewal of Licences",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "17.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Licence specific to school",
+            "content": " 17. A driving school licence is valid only in respect of the premises specified in the driving school licence.  O. Reg. 473/07, s. 17.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK28\"></a><b>17. </b>A driving school licence is valid only in respect of the premises specified in the driving school licence.  O. Reg. 473/07, s. 17.</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "18.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Requirements for driving school licence",
+            "content": " 18. (1) An applicant must satisfy the following requirements for the issue of a driving school licence: 1.  The applicant is competent to operate a driving school. 2.  The applicant satisfies the Minister that it holds all other applicable licenses that are required for the applicant to engage in a business and to operate a driving school. 3.  The applicant owns or leases premises for the driving school’s office. 4.  The applicant satisfies the Minister that the driving school’s office is in compliance with all applicable zoning restrictions. 5.  Revoked: O. Reg. 116/19, s. 4 (1). 5.1  The motor vehicles to be used to provide driving instruction comply with section 27. 6.  The curriculum for the driving school’s proposed driver education course is satisfactory to the Ministry. 6.1  For any portion of the curriculum referred to in paragraph 6 that involves classroom driving instruction, the driving school has a properly equipped and maintained classroom that complies with applicable zoning restrictions. 6.2  For any portion of the curriculum referred to in paragraph 6 that involves digital driving instruction, the driving school owns or licences any required digital software, equipment, applications or content. 7.  The applicant maintains general liability insurance in the amount of at least $2,000,000 with respect to any one incident that occurs in a classroom. 8.  The applicant has entered into a written contract for the employment or services of one or more licensed driving instructors to provide driving instruction. 9.  If the applicant is an individual, the applicant is a fit and proper person to operate a driving school, having regard to his or her character, integrity and past conduct. 10.  If the applicant is a partnership or corporation, the partners of the partnership or officers and directors of the corporation are fit and proper persons to operate a driving school, having regard to their character, integrity and past conduct. 11.  Any person related to the applicant satisfies the requirements of paragraph 9 or 10, as the case may be.  O. Reg. 473/07, s. 18 (1); O. Reg. 347/08, s. 6; O. Reg. 116/19, s. 4. (2) For the purpose of paragraph 11 of subsection (1), a person is related to an applicant in any of the following circumstances: 1.  The applicant and the person are individuals connected by blood relationship, marriage, common-law partnership, within the meaning of the Income Tax Act (Canada), or adoption. 2.  The applicant is a partnership and the person is or was a partner of the partnership, or the person is a partnership and the applicant is or was a partner of the partnership. 3.  The applicant and the person are or were partners of the same partnership. 4.  Both the applicant and the person are corporations and, i.  the applicant controls, directly or indirectly, or manages the person, ii.  the applicant controlled, directly or indirectly, or managed the person, iii.  the person controls, directly or indirectly, or manages the applicant, or iv.  the person controlled, directly or indirectly, or managed the applicant. 5.  Both the applicant and the person are corporations and they are or were controlled, directly or indirectly, or managed by the same person. 6.  Both the applicant and the person are corporations and they have or have had common officers or directors.  O. Reg. 473/07, s. 18 (2). (3) Subject to section 35, the Minister shall refuse to issue a driving school licence to an applicant that does not satisfy the requirements of paragraphs 1 to 11 of subsection (1), and shall serve written notice of the refusal on the person.  O. Reg. 473/07, s. 18 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK29\"></a><b>18. </b>(1) An applicant must satisfy the following requirements for the issue of a driving school licence:</p> <p class=\"paragraph-e\">  1.  The applicant is competent to operate a driving school. </p> <p class=\"paragraph-e\">  2.  The applicant satisfies the Minister that it holds all other applicable licenses that are required for the applicant to engage in a business and to operate a driving school. </p> <p class=\"paragraph-e\">  3.  The applicant owns or leases premises for the driving school’s office.</p> <p class=\"paragraph-e\">  4.  The applicant satisfies the Minister that the driving school’s office is in compliance with all applicable zoning restrictions.</p> <p class=\"paragraph-e\">  5.  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 116/19, s. 4 (1).</p> <p class=\"paragraph-e\">  5.1  The motor vehicles to be used to provide driving instruction comply with section 27.</p> <p class=\"paragraph-e\">  6.  The curriculum for the driving school’s proposed driver education course is satisfactory to the Ministry. </p> <p class=\"paragraph-e\">  6.1  For any portion of the curriculum referred to in paragraph 6 that involves classroom driving instruction, the driving school has a properly equipped and maintained classroom that complies with applicable zoning restrictions.</p> <p class=\"paragraph-e\">  6.2  For any portion of the curriculum referred to in paragraph 6 that involves digital driving instruction, the driving school owns or licences any required digital software, equipment, applications or content.</p> <p class=\"paragraph-e\">  7.  The applicant maintains general liability insurance in the amount of at least $2,000,000 with respect to any one incident that occurs in a classroom. </p> <p class=\"paragraph-e\">  8.  The applicant has entered into a written contract for the employment or services of one or more licensed driving instructors to provide driving instruction.  </p> <p class=\"paragraph-e\">  9.  If the applicant is an individual, the applicant is a fit and proper person to operate a driving school, having regard to his or her character, integrity and past conduct. </p> <p class=\"paragraph-e\">  10.  If the applicant is a partnership or corporation, the partners of the partnership or officers and directors of the corporation are fit and proper persons to operate a driving school, having regard to their character, integrity and past conduct. </p> <p class=\"paragraph-e\">  11.  Any person related to the applicant satisfies the requirements of paragraph 9 or 10, as the case may be.  O. Reg. 473/07, s. 18 (1); O. Reg. 347/08, s. 6; O. Reg. 116/19, s. 4.</p> <p class=\"subsection-e\">  (2) For the purpose of paragraph 11 of subsection (1), a person is related to an applicant in any of the following circumstances:</p> <p class=\"paragraph-e\">  1.  The applicant and the person are individuals connected by blood relationship, marriage, common-law partnership, within the meaning of the <i>Income Tax Act</i> (Canada), or adoption.</p> <p class=\"paragraph-e\">  2.  The applicant is a partnership and the person is or was a partner of the partnership, or the person is a partnership and the applicant is or was a partner of the partnership. </p> <p class=\"paragraph-e\">  3.  The applicant and the person are or were partners of the same partnership. </p> <p class=\"paragraph-e\">  4.  Both the applicant and the person are corporations and,</p> <p class=\"subpara-e\">  i.  the applicant controls, directly or indirectly, or manages the person,</p> <p class=\"subpara-e\">  ii.  the applicant controlled, directly or indirectly, or managed the person, </p> <p class=\"subpara-e\">  iii.  the person controls, directly or indirectly, or manages the applicant, or</p> <p class=\"subpara-e\">  iv.  the person controlled, directly or indirectly, or managed the applicant.</p> <p class=\"paragraph-e\">  5.  Both the applicant and the person are corporations and they are or were<b> </b>controlled, directly or indirectly, or managed by the same person. </p> <p class=\"paragraph-e\">  6.  Both the applicant and the person are corporations and they have or have had common officers or directors.  O. Reg. 473/07, s. 18 (2).</p> <p class=\"subsection-e\">  (3) Subject to section 35, the Minister shall refuse to issue a driving school licence to an applicant that does not satisfy the requirements of paragraphs 1 to 11 of subsection (1), and shall serve written notice of the refusal on the person.  O. Reg. 473/07, s. 18 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "19.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Term of initial driving school licence",
+            "content": " 19. The term of a driving school licence issued to an applicant for the first time under this Regulation shall be at least one year and shall expire on the date set out in the licence.  O. Reg. 473/07, s. 19.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK30\"></a><b>19. </b>The term of a driving school licence issued to an applicant for the first time under this Regulation shall be at least one year and shall expire on the date set out in the licence.  O. Reg. 473/07, s. 19.</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "20.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Renewal of driving school licence",
+            "content": " 20. (1) Every renewal of a driving school licence shall be for a term of three years and shall expire on the date that is the third anniversary of the date of the renewal.  O. Reg. 473/07, s. 20 (1). (2) A driving school licence that is not renewed within six months after its expiry is not renewable and must be applied for again.  O. Reg. 473/07, s. 20 (2). (3) Section 18 applies with necessary modifications to a driving school licence that is applied for again as required by subsection (2).  O. Reg. 473/07, s. 20 (3). Refusal to Renew and Revocation of a Licence",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK31\"></a><b>20. </b>(1) Every renewal of a driving school licence shall be for a term of three years and shall expire on the date that is the third anniversary of the date of the renewal.  O. Reg. 473/07, s. 20 (1).</p> <p class=\"subsection-e\">  (2) A driving school licence that is not renewed within six months after its expiry is not renewable and must be applied for again.  O. Reg. 473/07, s. 20 (2).</p> <p class=\"subsection-e\">  (3) Section 18 applies with necessary modifications to a driving school licence that is applied for again as required by subsection (2).  O. Reg. 473/07, s. 20 (3).</p> <p class=\"heading1-e\"><a name=\"BK32\"></a>Refusal to Renew and Revocation of a Licence</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "Refusal to Renew and Revocation of a Licence",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Refusal to Renew and Revocation of a Licence",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "21.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Refusal to renew or revocation of driving school licence",
+            "content": " 21. (1) Subject to section 35, the Minister may refuse to renew or may revoke a driving school licence if,  (a)  the licensee made a false or inaccurate statement on the application for the licence or on the application for renewal of the licence; (b)  the licensee did not satisfy a requirement of section 18 at the time the application for the licence was made or the licence was issued; (c)  the licensee ceases to satisfy a requirement of section 18 at any time after the licence is issued; (d)  the driving school does not provide adequate instruction to its students or treats its students, or permits its driving instructors to treat its students, in an inappropriate manner; (e)  the licensee, or a partner, officer or director of the licensee, contravenes or fails to comply with section 58, 58.1 or 58.2 of the Act or any provision of this Regulation or breaches a condition of its licence; (f)  the licensee, or a partner, officer or director of the licensee, is not a fit and proper person to operate a driving school, having regard to his or her character, integrity and past conduct; or (g)  the driving school is not in operation and has not been in operation for a period of one year.  O. Reg. 473/07, s. 21 (1). (2) The Minister shall serve written notice of a refusal to renew or a revocation of a license on the licensee.  O. Reg. 473/07, s. 21 (2). (3) A licence revocation shall be effective on the date set out in the notice.  O. Reg. 473/07, s. 21 (3). Obligations of Licensees",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK33\"></a><b>21. </b>(1) Subject to section 35, the Minister may refuse to renew or may revoke a driving school licence if, </p> <p class=\"clause-e\">  (a)  the licensee made a false or inaccurate statement on the application for the licence or on the application for renewal of the licence; </p> <p class=\"clause-e\">  (b)  the licensee did not satisfy a requirement of section 18 at the time the application for the licence was made or the licence was issued;</p> <p class=\"clause-e\">  (c)  the licensee ceases to satisfy a requirement of section 18 at any time after the licence is issued; </p> <p class=\"clause-e\">  (d)  the driving school does not provide adequate instruction to its students or treats its students, or permits its driving instructors to treat its students,<b> </b>in an inappropriate manner; </p> <p class=\"clause-e\">  (e)  the licensee, or a partner, officer or director of the licensee, contravenes or fails to comply with section 58, 58.1 or 58.2 of the Act or<b> </b>any provision of this Regulation or breaches a condition of its licence; </p> <p class=\"clause-e\">  (f)  the licensee, or a partner, officer or director of the licensee, is not a fit and proper person to operate a driving school, having regard to his or her character, integrity and past conduct; or</p> <p class=\"clause-e\">  (g)  the driving school is not in operation and has not been in operation for a period of one year.  O. Reg. 473/07, s. 21 (1).</p> <p class=\"subsection-e\">  (2) The Minister shall serve written notice of a refusal to renew or a revocation of a license on the licensee.  O. Reg. 473/07, s. 21 (2).</p> <p class=\"subsection-e\">  (3) A licence revocation shall be effective on the date set out in the notice.  O. Reg. 473/07, s. 21 (3).</p> <p class=\"heading1-e\"><a name=\"BK34\"></a>Obligations of Licensees</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "Obligations of Licensees",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Obligations of Licensees",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "22.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Licence to be displayed",
+            "content": " 22. Every licensee that operates a licensed driving school shall display a copy of the driving school licence in every classroom used to provide driving instruction so that it is plainly visible to the students in the classroom.  O. Reg. 473/07, s. 22.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK35\"></a><b>22. </b>Every licensee that operates a licensed driving school shall display a copy of the driving school licence in every classroom used to provide driving instruction so that it is plainly visible to the students in the classroom.  O. Reg. 473/07, s. 22.</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "23.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Approval for premises",
+            "content": " 23. A licensed driving school shall obtain the Ministry’s prior approval for the premises it proposes to use for its office and classrooms.  O. Reg. 473/07, s. 23.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK36\"></a><b>23. </b>A licensed driving school shall obtain the Ministry’s prior approval for the premises it proposes to use for its office and classrooms.  O. Reg. 473/07, s. 23.</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "24.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Driving instructors",
+            "content": " 24. (1) A licensee that operates a licensed driving school shall not permit any person to provide instruction in the prescribed class of in-vehicle driving instruction unless,  (a)  the person holds a driving instructor licence issued or deemed to be issued under this Regulation; (b)  the person is under written contract with the school for his or her employment or services to provide driving instruction; and (c)  the person has given the school a written consent to the Ministry to notify the school if his or her instructor’s licence expires or is or may be revoked and the school has given the consent to the Ministry, in the form and manner specified by the Ministry.  O. Reg. 347/08, s. 7; O. Reg. 116/19, s. 5 (1). (2) The holder of a valid driving instructor licence who satisfies the requirements of subsection (1) is authorized to provide instruction in the prescribed class of in-vehicle driving instruction. O. Reg. 116/19, s. 5 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK37\"></a><b>24. </b>(1) A licensee that operates a licensed driving school shall not permit any person to provide instruction in the prescribed class of in-vehicle driving instruction unless, </p> <p class=\"clause-e\">  (a)  the person holds a driving instructor licence issued or deemed to be issued under this Regulation;</p> <p class=\"clause-e\">  (b)  the person is under written contract with the school for his or her employment or services to provide driving instruction; and</p> <p class=\"clause-e\">  (c)  the person has given the school a written consent to the Ministry to notify the school if his or her instructor’s licence expires or is or may be revoked and the school has given the consent to the Ministry, in the form and manner specified by the Ministry.  O. Reg. 347/08, s. 7; O. Reg. 116/19, s. 5 (1).</p> <p class=\"subsection-e\">  (2) The holder of a valid driving instructor licence who satisfies the requirements of subsection (1) is authorized to provide instruction in the prescribed class of in-vehicle driving instruction. O. Reg. 116/19, s. 5 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "25.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Requirements re classroom driving instruction",
+            "content": " 25. (1) A licensee that operates a licensed driving school shall not permit any person to provide the prescribed class of classroom driving instruction unless, (a)  the person and the school satisfy the requirements of section 24; and (b)  the person, (i)  has successfully completed a course in classroom driving instruction approved by the Ministry, or (ii)  in the case of a person who has the qualifications required under the Ontario College of Teachers Act, 1996 to provide classroom driving instruction, has successfully completed before September 29, 2008 a course in classroom driving instruction approved by a school board. O. Reg. 347/08, s. 8; O. Reg. 138/23, s. 5. (2) The holder of a valid driving instructor licence who satisfies the requirements of subsection (1) is authorized to provide instruction in the prescribed class of classroom driving instruction. O. Reg. 116/19, s. 6.",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK38\"></a>25. </b>(1) A licensee that operates a licensed driving school shall not permit any person to provide the prescribed class of classroom driving instruction unless,</p> <p class=\"clause-e\">  (a)  the person and the school satisfy the requirements of section 24; and </p> <p class=\"clause-e\">  (b)  the person, </p> <p class=\"subclause-e\">  (i)  has successfully completed a course in classroom driving instruction approved by the Ministry, or</p> <p class=\"subclause-e\">  (ii)  in the case of a person who has the qualifications required under the <i>Ontario College of Teachers Act, 1996</i> to provide classroom driving instruction, has successfully completed before September 29, 2008 a course in classroom driving instruction approved by a school board. O. Reg. 347/08, s. 8; O. Reg. 138/23, s. 5.</p> <p class=\"subsection-e\">  (2) The holder of a valid driving instructor licence who satisfies the requirements of subsection (1) is authorized to provide instruction in the prescribed class of classroom driving instruction. O. Reg. 116/19, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "25.1",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Requirements re digital driving instruction",
+            "content": " 25.1 (1) A licensee that operates a licensed driving school shall not permit any person to provide the prescribed class of digital driving instruction unless, (a)  the person and the school satisfy the requirements of section 24; and (b)  the person has successfully completed a course in digital instruction approved by the Ministry. O. Reg. 116/19, s. 7. (2) The holder of a valid driving instructor licence who satisfies the requirements of subsection (1) is authorized to provide instruction in the prescribed class of digital driving instruction. O. Reg. 116/19, s. 7. (3) The provision of instruction in a prescribed class of digital driving instruction includes supervising or acting as a resource person to a student that is engaged in digital driver education. O. Reg. 116/19, s. 7.",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK39\"></a>25.1 </b>(1) A licensee that operates a licensed driving school shall not permit any person to provide the prescribed class of digital driving instruction unless,</p> <p class=\"clause-e\">  (a)  the person and the school satisfy the requirements of section 24; and</p> <p class=\"clause-e\">  (b)  the person has successfully completed a course in digital instruction approved by the Ministry. O. Reg. 116/19, s. 7.</p> <p class=\"subsection-e\">  (2) The holder of a valid driving instructor licence who satisfies the requirements of subsection (1) is authorized to provide instruction in the prescribed class of digital driving instruction. O. Reg. 116/19, s. 7.</p> <p class=\"subsection-e\">  (3) The provision of instruction in a prescribed class of digital driving instruction includes supervising or acting as a resource person to a student that is engaged in digital driver education. O. Reg. 116/19, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "26.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Requirements re driver education course",
+            "content": " 26. (1) Every licensed driving school shall provide instruction in a prescribed class of driving instruction in accordance with the curriculum of the driver education course that is satisfactory to the Ministry as required by paragraph 6 of subsection 18 (1). O. Reg. 473/07, s. 26 (1). (2) A driver education course must be completed in one year. O. Reg. 473/07, s. 26 (2). (3) Revoked: O. Reg. 625/21, s. 3 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK40\"></a><b>26. </b>(1) Every licensed driving school shall provide instruction in a prescribed class of driving instruction in accordance with the curriculum of the driver education course that is satisfactory to the Ministry as required by paragraph 6 of subsection 18 (1). O. Reg. 473/07, s. 26 (1).</p> <p class=\"subsection-e\">  (2) A driver education course must be completed in one year. O. Reg. 473/07, s. 26 (2).</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 625/21, s. 3 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "27.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Vehicles",
+            "content": " 27. Every licensee that operates a licensed driving school shall ensure that each motor vehicle used by the driving school to provide driving instruction satisfies the following requirements: 1.  It has a currently validated vehicle permit. 2.  It has number plates displayed in accordance with the Act. 3.  It is equipped with a properly functioning service brake actuator that may be operated by the driving instructor. 4.  A safety standards certificate has been issued in respect of the motor vehicle within the previous year. 5.  It is insured by a policy of automobile insurance, as defined in subsection 1 (1) of the Compulsory Automobile Insurance Act, with a limit for personal injury or damage to property of not less than $2,000,000 exclusive of interest and costs in respect of any one accident, and the policy contains a driving training school endorsement in a form approved by the Chief Executive Officer appointed under subsection 10 (2) of the Financial Services Regulatory Authority of Ontario Act, 2016.  O. Reg. 473/07, s. 27; O. Reg. 115/19, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK41\"></a><b>27. </b>Every licensee that operates a licensed driving school shall ensure that each motor vehicle used by the driving school to provide driving instruction satisfies the following requirements:</p> <p class=\"paragraph-e\">  1.  It has a currently validated vehicle permit.</p> <p class=\"paragraph-e\">  2.  It has number plates displayed in accordance with the Act.</p> <p class=\"paragraph-e\">  3.  It is equipped with a properly functioning service brake actuator that may be operated by the driving instructor.\r\n</p> <p class=\"paragraph-e\">  4.  A safety standards certificate has been issued in respect of the motor vehicle within the previous year. </p> <p class=\"paragraph-e\">  5.  It is insured by a policy of automobile insurance, as defined in subsection 1 (1) of the <i>Compulsory Automobile Insurance Act</i>, with a limit for personal injury or damage to property of not less than $2,000,000 exclusive of interest and costs in respect of any one accident, and the policy contains a driving training school endorsement in a form approved by the Chief Executive Officer appointed under subsection 10 (2) of the <i>Financial Services Regulatory Authority of Ontario Act, 2016</i>.  O. Reg. 473/07, s. 27; O. Reg. 115/19, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "28.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Students’ licences not to be retained",
+            "content": " 28. If a licensed driving school asks to see a student’s driver’s licence, the school may retain the student’s driver’s licence only for as long as is necessary to make a copy of it and must return the licence to the student immediately after copying it.  O. Reg. 473/07, s. 28.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK42\"></a><b>28. </b>If a licensed driving school asks to see a student’s driver’s licence, the school may retain the student’s driver’s licence only for as long as is necessary to make a copy of it and must return the licence to the student immediately after copying it.  O. Reg. 473/07, s. 28.</p>"
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "29.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Driver education certificates",
+            "content": " 29. (1) Every driver education certificate is prescribed for the purposes of subsection 58.1 (6) of the Act. O. Reg. 116/19, s. 8. (2) A licensed driving school shall not issue a driver education certificate to a student until the student has successfully completed the whole of the driver education course approved for the school. O. Reg. 116/19, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK43\"></a><b>29. </b>(1) Every driver education certificate is prescribed for the purposes of subsection 58.1 (6) of the Act. O. Reg. 116/19, s. 8.</p> <p class=\"subsection-e\">  (2) A licensed driving school shall not issue a driver education certificate to a student until the student has successfully completed the whole of the driver education course approved for the school. O. Reg. 116/19, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "29.1",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Issuance of electronic driver education certificates",
+            "content": " 29.1 (1) A licensed driving school issues a driver education certificate to a student upon the successful completion of the school’s driver education course by notifying the Ministry electronically, in the form and manner specified by the Ministry, that the student has successfully completed the school’s driver education course and by paying to the Ministry the fee prescribed under subsection 30 (2).  O. Reg. 347/08, s. 9; O. Reg. 116/19, s. 9 (1). (2) A driver education certificate is not considered issued under subsection (1) until the Ministry acknowledges to the driving school receipt of the notification and of the fee required under section 30.  O. Reg. 347/08, s. 9; O. Reg. 116/19, s. 9 (1). (3) A licensed driving school that has issued a driver education certificate to a student in error may, with the consent of the Ministry, cancel the certificate electronically, in the form and manner specified by the Ministry, and the Ministry shall acknowledge the cancellation to the driving school.  O. Reg. 347/08, s. 9; O. Reg. 116/19, s. 9 (1). (4) The Registrar shall include on the driver records that he or she maintains for every person who holds a driver’s licence the fact that the person was issued a driver education certificate. O. Reg. 116/19, s. 9 (2). 29.2 Revoked: O. Reg. 116/19, s. 10.",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK44\"></a>29.1 </b>(1) A licensed driving school issues a driver education certificate to a student upon the successful completion of the school’s driver education course by notifying the Ministry electronically, in the form and manner specified by the Ministry, that the student has successfully completed the school’s driver education course and by paying to the Ministry the fee prescribed under subsection 30 (2).  O. Reg. 347/08, s. 9; O. Reg. 116/19, s. 9 (1).</p> <p class=\"subsection-e\">  (2) A driver education certificate is not considered issued under subsection (1) until the Ministry acknowledges to the driving school receipt of the notification and of the fee required under section 30.  O. Reg. 347/08, s. 9; O. Reg. 116/19, s. 9 (1).</p> <p class=\"subsection-e\">  (3) A licensed driving school that has issued a driver education certificate to a student in error may, with the consent of the Ministry, cancel the certificate electronically, in the form and manner specified by the Ministry, and the Ministry shall acknowledge the cancellation to the driving school.  O. Reg. 347/08, s. 9; O. Reg. 116/19, s. 9 (1).</p> <p class=\"subsection-e\">  (4) The Registrar shall include on the driver records that he or she maintains for every person who holds a driver’s licence the fact that the person was issued a driver education certificate. O. Reg. 116/19, s. 9 (2).</p> <p class=\"section-e\"> <b>29.2 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 116/19, s. 10.</p>"
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "30.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Fees for driver education certificates",
+            "content": " 30. (1) Revoked: O. Reg. 116/19, s. 11 (1). (2) Every licensee that operates a licensed driving school shall pay $15 to the Ministry for each driver education certificate issued by the licensee. O. Reg. 116/19, s. 11 (2). (3) The Ministry shall refund a licensee $2.25 for each driver education certificate that the licensee notifies the Ministry is cancelled. O. Reg. 116/19, s. 11 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK45\"></a><b>30. </b>(1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 116/19, s. 11 (1).</p> <p class=\"subsection-e\">  (2) Every licensee that operates a licensed driving school shall pay $15 to the Ministry for each driver education certificate issued by the licensee. O. Reg. 116/19, s. 11 (2).</p> <p class=\"subsection-e\">  (3) The Ministry shall refund a licensee $2.25 for each driver education certificate that the licensee notifies the Ministry is cancelled. O. Reg. 116/19, s. 11 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "31.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Information to Ministry",
+            "content": " 31. (1) Every licensee that operates a licensed driving school shall notify the Ministry within 15 days after any change in the information provided by it to the Ministry with its licence application or thereafter, and shall provide the Ministry with supporting documents relevant to such change.  O. Reg. 473/07, s. 31 (1). (1.1) Every licensee that operates a licensed driving school shall notify the Ministry immediately, in the form and manner specified by the Ministry, (a)  upon entering into a written contract with a licensed driving instructor for his or her employment or services to provide driving instruction; and (b)  upon such instructor’s ceasing to provide driving instruction for the school for any reason.  O. Reg. 347/08, s. 11 (1). (2) Despite subsection (1), a licensee shall obtain prior approval from the Ministry for any new premises it proposes to use for its office or for a classroom.  O. Reg. 473/07, s. 31 (2). (3) On the day a driver education course provided by a licensed driving school starts, the licensee that operates the school shall submit to the Ministry the following information in the form and manner required by the Ministry: 1.  The name of the licensed driving school. 2.  The licence number issued to the school by the Ministry. 3.  The start date of the course. 3.1  The list of licensed driving instructors who will provide each prescribed class of instruction in the course. 3.2  Revoked: O. Reg. 116/19, s. 12 (1). 4.  The list of students enrolled in the course, including each student’s name, gender, date of birth, address and telephone number. 5.  For each student who holds a driver’s licence before the start of the course, the number of the licence.  O. Reg. 473/07, s. 31 (3); O. Reg. 347/08, s. 11 (2); O. Reg. 116/19, s. 12 (1). (4) At the end of a driver education course provided by a licensed driving school, the licensee that operates the school shall submit to the Ministry the list of students who successfully completed the course and, (a)  for each successful student, his or her driver’s licence number; and (b)  the list of licensed driving instructors who provided each prescribed class of instruction in the course. (c), (d)  Revoked: O. Reg. 116/19, s. 12 (2). O. Reg. 347/08, s. 11 (3); O. Reg. 116/19, s. 12 (2). (5) Every licensee that operates a licensed driving school shall respond forthwith to any inquiries from the Ministry for information relating to its qualifications to hold a driving school licence.  O. Reg. 473/07, s. 31 (5).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK46\"></a><b>31. </b>(1) Every licensee that operates a licensed driving school shall notify the Ministry within 15 days after any change in the information provided by it to the Ministry with its licence application or thereafter, and shall provide the Ministry with supporting documents relevant to such change.  O. Reg. 473/07, s. 31 (1).</p> <p class=\"subsection-e\">  (1.1) Every licensee that operates a licensed driving school shall notify the Ministry immediately, in the form and manner specified by the Ministry,</p> <p class=\"clause-e\">  (a)  upon entering into a written contract with a licensed driving instructor for his or her employment or services to provide driving instruction; and </p> <p class=\"clause-e\">  (b)  upon such instructor’s ceasing to provide driving instruction for the school for any reason.  O. Reg. 347/08, s. 11 (1).</p> <p class=\"subsection-e\">  (2) Despite subsection (1), a licensee shall obtain prior approval from the Ministry for any new premises it proposes to use for its office or for a classroom.  O. Reg. 473/07, s. 31 (2).</p> <p class=\"subsection-e\">  (3) On the day a driver education course provided by a licensed driving school starts, the licensee that operates the school shall submit to the Ministry the following information in the form and manner required by the Ministry: </p> <p class=\"paragraph-e\">  1.  The name of the licensed driving school.</p> <p class=\"paragraph-e\">  2.  The licence number issued to the school by the Ministry.</p> <p class=\"paragraph-e\">  3.  The start date of the course.</p> <p class=\"paragraph-e\">  3.1  The list of licensed driving instructors who will provide each prescribed class of instruction in the course.</p> <p class=\"paragraph-e\">  3.2  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 116/19, s. 12 (1).</p> <p class=\"paragraph-e\">  4.  The list of students enrolled in the course, including each student’s name, gender, date of birth, address and telephone number. </p> <p class=\"paragraph-e\">  5.  For each student who holds a driver’s licence before the start of the course, the number of the licence.  O. Reg. 473/07, s. 31 (3); O. Reg. 347/08, s. 11 (2); O. Reg. 116/19, s. 12 (1).</p> <p class=\"subsection-e\">  (4) At the end of a driver education<b> </b>course provided by a licensed driving school, the licensee that operates the school shall submit to the Ministry the list of students who successfully completed the course and,</p> <p class=\"clause-e\">  (a)  for each successful student, his or her driver’s licence number; and</p> <p class=\"clause-e\">  (b)  the list of licensed driving instructors who provided each prescribed class of instruction in the course. </p> <p class=\"clause-e\"> (c), (d)  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 116/19, s. 12 (2).</p> <p class=\"footnote-e\">O. Reg. 347/08, s. 11 (3); O. Reg. 116/19, s. 12 (2).</p> <p class=\"subsection-e\">  (5) Every licensee that operates a licensed driving school shall respond forthwith to any inquiries from the Ministry for information relating to its qualifications to hold a driving school licence.  O. Reg. 473/07, s. 31 (5).</p>"
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "32.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Recordkeeping",
+            "content": " 32. (1) Every licensee that operates a licensed driving school shall keep and retain the following records at its office:  1.  The original driving school licence for the school. 2.  The list of students enrolled in each driver education course provided by the school, as described in paragraph 4 of subsection 31 (3). 3.  For each student who holds a driver’s licence before the start of the course, the number of the licence. 4.  The name of each licensed driving instructor under contract with the school for his or her employment or services who provided classroom digital or in-vehicle instruction for each course provided by the school, the number and expiry date of his or her driver’s licence and the number and expiry date of his or her driving instructor licence issued or deemed to be issued under this Regulation. 5.  A classroom training record sheet for each student that received classroom driving instruction in a driver education course provided by the school, which must contain, i.  the student’s name, ii.  the dates, times and duration of each classroom training session attended by the student, iii.  the student’s classroom test results, iv.  the signature of the student, and v.  the name and signature of the licensed driving instructor who provided the classroom instruction. 5.1  A digital training record sheet for each student that received digital driving instruction in a driver education course provided by the school, which must contain, i.  the student’s name, ii.  the dates and times of each digital training session that the student attended or participated in, and the duration of each session, if the approved curriculum stipulates the duration of a session, iii.  the student’s results on any digital tests, iv.  the signature of the student, v.  the name and signature of the licensed driving instructor who provided instruction, unless the approved curriculum states that the name and signature will not be included on the digital training record sheet, vi.  verification that all quality assurance measures contained in the curriculum approved by the Ministry have been performed. 6.  An in-vehicle training record sheet for each student enrolled in a driver education course provided by the school, which must contain, i.  the student’s name, ii.  the dates and times of each in-vehicle training session attended by the student and the duration of the student’s actual driving time during each session, iii.  the student’s in-vehicle test results, iv.  the signature of the student, and v.  the name and signature of the licensed driving instructor who provided the in-vehicle instruction. 6.1  A record of each driver education certificate issued by the school to a student on successful completion of a driver education course provided by the school, including a record of the Ministry’s acknowledgment that it was notified of such issuance, and a record of the cancellation of any such driver education certificate that was issued in error and of the Ministry’s acknowledgment of the cancellation. 7.  Revoked: O. Reg. 116/19, s. 13 (5). 8.  Revoked:  O. Reg. 347/08, s. 12 (3). 9.  A list of the licensed driving instructors who enter into a written contract with the school for their employment or services, including a record of the days and hours worked by each such instructor and a record of his or her earnings. 10.  Copies of each written contract for employment or services entered into by a licensed driving instructor and the school.  O. Reg. 473/07, s. 32 (1); O. Reg. 347/08, s. 12; O. Reg. 116/19, s. 13 (1-5). (2) The records described in paragraphs 2 to 8 of subsection (1) shall be kept for three years from the date they are created.  O. Reg. 473/07, s. 32 (2). (3) The list of instructors described in paragraph 9 of subsection (1) shall be kept for three years from the date it ceases to be current.  O. Reg. 473/07, s. 32 (3). (4) A contract described in paragraph 10 of subsection (1) shall be kept for three years from the date the instructor ceases to be under contract with the school for his or her employment or services.  O. Reg. 473/07, s. 32 (4). (5) No student or instructor shall sign a training record sheet under paragraph 5, 5.1 or 6 of subsection (1) until after the student has successfully completed that portion of the driver education course.  O. Reg. 473/07, s. 32 (5); O. Reg. 116/19, s. 13 (6). (6) Revoked:  O. Reg. 473/07, s. 37.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK47\"></a><b>32. </b>(1) Every licensee that operates a licensed driving school shall keep and retain the following records at its office: </p> <p class=\"paragraph-e\">  1.  The original driving school licence for the school. </p> <p class=\"paragraph-e\">  2.  The list of students enrolled in each driver education course provided by the school, as described in paragraph 4 of subsection 31 (3).</p> <p class=\"paragraph-e\">  3.  For each student who holds a driver’s licence before the start of the course, the number of the licence. </p> <p class=\"paragraph-e\">  4.  The name of each licensed driving instructor under contract with the school for his or her employment or services who provided classroom digital or in-vehicle instruction for each course provided by the school, the number and expiry date of his or her driver’s licence and the number and expiry date of his or her driving instructor licence issued or deemed to be issued under this Regulation. </p> <p class=\"paragraph-e\">  5.  A classroom training record sheet for each student that received classroom driving instruction in a driver education course provided by the school, which must contain,</p> <p class=\"subpara-e\">  i.  the student’s name, </p> <p class=\"subpara-e\">  ii.  the dates, times and duration of each classroom training session attended by the student, </p> <p class=\"subpara-e\">  iii.  the student’s classroom test results, </p> <p class=\"subpara-e\">  iv.  the signature of the student, and </p> <p class=\"subpara-e\">  v.  the name and signature of the licensed driving instructor who provided the classroom instruction. </p> <p class=\"paragraph-e\">  5.1  A digital training record sheet for each student that received digital driving instruction in a driver education course provided by the school, which must contain,</p> <p class=\"subpara-e\">  i.  the student’s name,</p> <p class=\"subpara-e\">  ii.  the dates and times of each digital training session that the student attended or participated in, and the duration of each session, if the approved curriculum stipulates the duration of a session,</p> <p class=\"subpara-e\">  iii.  the student’s results on any digital tests,</p> <p class=\"subpara-e\">  iv.  the signature of the student,</p> <p class=\"subpara-e\">  v.  the name and signature of the licensed driving instructor who provided instruction, unless the approved curriculum states that the name and signature will not be included on the digital training record sheet,</p> <p class=\"subpara-e\">  vi.  verification that all quality assurance measures contained in the curriculum approved by the Ministry have been performed.</p> <p class=\"paragraph-e\">  6.  An in-vehicle training record sheet for each student enrolled in a driver education course provided by the school, which must contain,</p> <p class=\"subpara-e\">  i.  the student’s name, </p> <p class=\"subpara-e\">  ii.  the dates and times of each in-vehicle training session attended by the student and the duration of the student’s actual driving time during each session, </p> <p class=\"subpara-e\">  iii.  the student’s in-vehicle test results, </p> <p class=\"subpara-e\">  iv.  the signature of the student, and </p> <p class=\"subpara-e\">  v.  the name and signature of the licensed driving instructor who provided the in-vehicle instruction.</p> <p class=\"paragraph-e\">  6.1  A record of each driver education certificate issued by the school to a student on successful completion of a driver education course<b> </b>provided by the school, including a record of the Ministry’s acknowledgment that it was notified of such issuance, and a record of the cancellation of any such driver education certificate that was issued in error and of the Ministry’s acknowledgment of the cancellation.</p> <p class=\"paragraph-e\">  7.  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 116/19, s. 13 (5).</p> <p class=\"paragraph-e\">  8.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 347/08, s. 12 (3).</p> <p class=\"paragraph-e\">  9.  A list of the licensed driving instructors who enter into a written contract with the school for their employment or services, including a record of the days and hours worked by each such instructor and a record of his or her earnings. </p> <p class=\"paragraph-e\">  10.  Copies of each written contract for employment or services entered into by a licensed driving instructor and the school.  O. Reg. 473/07, s. 32 (1); O. Reg. 347/08, s. 12; O. Reg. 116/19, s. 13 (1-5).</p> <p class=\"subsection-e\">  (2) The records described in paragraphs 2 to 8 of subsection (1) shall be kept for three years from the date they are created.  O. Reg. 473/07, s. 32 (2).</p> <p class=\"subsection-e\">  (3) The list of instructors described in paragraph 9 of subsection (1) shall be kept for three years from the date it ceases to be current.  O. Reg. 473/07, s. 32 (3).</p> <p class=\"subsection-e\">  (4) A contract described in paragraph 10 of subsection (1) shall be kept for three years from the date the instructor ceases to be under contract with the school for his or her employment or services.  O. Reg. 473/07, s. 32 (4).</p> <p class=\"subsection-e\">  (5) No student or instructor shall sign a training record sheet under paragraph 5, 5.1 or 6 of subsection (1) until after the student has successfully completed that portion of the driver education course.  O. Reg. 473/07, s. 32 (5); O. Reg. 116/19, s. 13 (6).</p> <p class=\"subsection-e\">  (6) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 473/07, s. 37.</p>"
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "33.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Electronic records",
+            "content": " 33. (1) Any record required to be kept or retained by section 32 may be kept or retained in electronic form if, (a)  it contains all the information required by section 32; and (b)  upon the demand of an inspector appointed under section 58.2 of the Act or a person retained to act on behalf of the Ministry, (i)  the record can be viewed electronically; and (ii)  a paper copy can be produced for inspection and copying.  O. Reg. 473/07, s. 33 (1); O. Reg. 116/19, s. 14 (1). (2) For the purposes of clause (1) (a), the requirement that a record be signed is satisfied by an electronic signature if, (a)  the electronic signature is reliable for the purpose of identifying the person; and (b)  the association of the electronic signature with the electronic document is reliable.  O. Reg. 473/07, s. 33 (2). (2.1) Despite subclause (1) (b) (ii), an electronic copy of a record may be produced instead of a paper copy if, (a)  the document relates to digital driver instruction; or (b)  the driving school has received prior approval from the Ministry under subsection (3). O. Reg. 116/19, s. 14 (2). (3) A licensee that operates a licensed driving school may submit any document to the Ministry in electronic form only with the prior approval of the Ministry and in the form and manner specified by the Ministry.  O. Reg. 473/07, s. 33 (3).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK48\"></a><b>33. </b>(1) Any record required to be kept or retained by section 32 may be kept or retained in electronic form if,</p> <p class=\"clause-e\">  (a)  it contains all the information required by section 32; and</p> <p class=\"clause-e\">  (b)  upon the demand of an inspector appointed under section 58.2 of the Act or a person retained to act on behalf of the Ministry,</p> <p class=\"subclause-e\">  (i)  the record can be viewed electronically; and</p> <p class=\"subclause-e\">  (ii)  a paper copy can be produced for inspection and copying.  O. Reg. 473/07, s. 33 (1); O. Reg. 116/19, s. 14 (1).</p> <p class=\"subsection-e\">  (2) For the purposes of clause (1) (a), the requirement that a record be signed is satisfied by an electronic signature if, </p> <p class=\"clause-e\">  (a)  the electronic signature is reliable for the purpose of identifying the person; and </p> <p class=\"clause-e\">  (b)  the association of the electronic signature with the electronic document is reliable.  O. Reg. 473/07, s. 33 (2).</p> <p class=\"subsection-e\">  (2.1) Despite subclause (1) (b) (ii), an electronic copy of a record may be produced instead of a paper copy if,</p> <p class=\"clause-e\">  (a)  the document relates to digital driver instruction; or</p> <p class=\"clause-e\">  (b)  the driving school has received prior approval from the Ministry under subsection (3). O. Reg. 116/19, s. 14 (2).</p> <p class=\"subsection-e\">  (3) A licensee that operates a licensed driving school may submit any document to the Ministry in electronic form only with the prior approval of the Ministry and in the form and manner specified by the Ministry.  O. Reg. 473/07, s. 33 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "34.",
+            "part_id": "PART III  ",
+            "part_type": "PART III DRIVING SCHOOL LICENCES",
+            "section": "Return of records, etc., on ceasing to be licensed",
+            "content": " 34. A licensee that is notified that the Minister is revoking or refusing to renew its driving school licence shall, forthwith upon notification,  (a)  return its original licence to the Ministry; (b)  provide the Ministry with all records in the licensee’s possession that the Ministry may require regarding students currently enrolled in the school’s driver education courses; and (c)  provide to the Ministry any records listed under subsection 32 (1) that it possesses at the close of business on the last day that it is licensed.  O. Reg. 473/07, s. 34; O. Reg. 347/08, s. 13; O. Reg. 116/19, s. 15. part iv   Right to be Heard",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK49\"></a><b>34. </b>A licensee that is notified that the Minister is revoking or refusing to renew its driving school licence shall, forthwith upon notification, </p> <p class=\"clause-e\">  (a)  return its original licence to the Ministry;</p> <p class=\"clause-e\">  (b)  provide the Ministry with all records in the licensee’s possession that the Ministry may require regarding students currently enrolled in the school’s driver education courses; and </p> <p class=\"clause-e\">  (c)  provide to the Ministry any records listed under subsection 32 (1) that it possesses at the close of business on the last day that it is licensed.  O. Reg. 473/07, s. 34; O. Reg. 347/08, s. 13; O. Reg. 116/19, s. 15.</p> <p class=\"partnum-e\"><a name=\"BK50\"></a>part iv <br/>  Right to be Heard </p>"
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "PART IV  ",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section": "PART IV RIGHT TO BE HEARD",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "35.",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV RIGHT TO BE HEARD",
+            "section": "Right to be heard — circumstances",
+            "content": " 35. (1) An applicant for a driving instructor licence or person who holds a driving instructor licence, including a licence deemed to have been issued under section 9, has no right to be heard before the Minister makes a decision to refuse to issue the licence or to revoke or refuse to renew the licence except in the following circumstances: 1.  Where the Minister proposes to refuse to issue a licence because the applicant fails to satisfy a requirement under paragraph 1 or 15 of subsection 4 (1). 2.  Where the Minister proposes to revoke a licence or refuse to renew a licence under clause 10 (1) (b) because the licensee did not satisfy a requirement set out in paragraph 1 or 15 of subsection 4 (1). 3.  Where the Minister proposes to revoke a licence or refuse to renew a licence under clause 10 (1) (c) because the licensee did not satisfy a requirement set out in clause 3 (1) (a) or (h) of the old regulation. 4.  Where the Minister proposes to revoke a licence or refuse to renew a licence under subclause 10 (1) (d) (ii) because the licensee did not satisfy a requirement set out in clause 3 (1) (a) or (h) of the old regulation. 5.  Where the Minister proposes to revoke a licence or refuse to renew a licence under subclause 10 (1) (e) (i), (ii) or (iv).  O. Reg. 473/07, s. 35 (1). (2) An applicant for a driving school licence or person who holds a driving school licence has no right to be heard before the Minister makes a decision to refuse to issue the licence or to revoke or refuse to renew the licence except in the following circumstances: 1.  Where the Minister proposes to refuse to issue a licence because the applicant fails to satisfy a requirement under paragraph 1, 9, 10 or 11 of subsection 18 (1). 2.  Where the Minister proposes to revoke or to refuse to renew a licence under clause 21 (1) (b) because the licensee failed to satisfy a requirement set out in paragraph 1, 9, 10 or 11 of subsection 18 (1). 3.  Where the Minister proposes to revoke or to refuse to renew a licence under clause 21 (1) (c) because the applicant fails to satisfy a requirement set out in paragraph 1, 9, 10 or 11 of subsection 18 (1). 4.  Where the Minister proposes to revoke or to refuse to renew a licence under clause 21 (1) (d) or (f).  O. Reg. 473/07, s. 35 (2). (3) Prior to making a decision described in paragraph 1, 2, 3, 4 or 5 of subsection (1) or paragraph 1, 2, 3 or 4 of subsection (2), the Minister shall serve a notice of his or her proposed decision on the applicant or licensee, together with a summary of the reasons for such proposed decision.  O. Reg. 473/07, s. 35 (3). (4) An applicant or licensee may, within 30 days after being served with a notice under subsection (3), submit in writing to the Minister any information that the applicant or licensee considers relevant to the Minister’s proposed decision.  O. Reg. 473/07, s. 35 (4). (5) The Minister shall review and consider any information submitted under subsection (4) before making a decision described in paragraph 1, 2, 3, 4 or 5 of subsection (1) or paragraph 1, 2, 3 or 4 of subsection (2).  O. Reg. 473/07, s. 35 (5). (6) There is no right to appeal a decision of the Minister made under section 58 or 58.1 of the Act or under this Regulation, but nothing in this Regulation prevents the taking of a proceeding in court to review such a decision.  O. Reg. 473/07, s. 35 (6). part v   General",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK51\"></a><b>35. </b>(1) An applicant for a driving instructor licence or person who holds a driving instructor licence, including a licence deemed to have been issued under section 9, has no right to be heard before the Minister makes a decision to refuse to issue the licence or to revoke or refuse to renew the licence except in the following circumstances:</p> <p class=\"paragraph-e\">  1.  Where the Minister proposes to refuse to issue a licence because the applicant fails to satisfy a requirement under paragraph 1 or 15 of subsection 4 (1).</p> <p class=\"paragraph-e\">  2.  Where the Minister proposes to revoke a licence or refuse to renew a licence under clause 10 (1) (b) because the licensee did not satisfy a requirement set out in paragraph 1 or 15 of subsection 4 (1).  </p> <p class=\"paragraph-e\">  3.  Where the Minister proposes to revoke a licence or refuse to renew a licence under clause 10 (1) (c) because the licensee did not satisfy a requirement set out in clause 3 (1) (a) or (h) of the old regulation. </p> <p class=\"paragraph-e\">  4.  Where the Minister proposes to revoke a licence or refuse to renew a licence under subclause 10 (1) (d) (ii) because the licensee did not satisfy a requirement set out in clause 3 (1) (a) or (h) of the old regulation.</p> <p class=\"paragraph-e\">  5.  Where the Minister proposes to revoke a licence or refuse to renew a licence under subclause 10 (1) (e) (i), (ii) or (iv).  O. Reg. 473/07, s. 35 (1).</p> <p class=\"subsection-e\">  (2) An applicant for a driving school licence or person who holds a driving school licence has no right to be heard before the Minister makes a decision to refuse to issue the licence or to revoke or refuse to renew the licence except in the following circumstances:</p> <p class=\"paragraph-e\">  1.  Where the Minister proposes to refuse to issue a licence because the applicant fails to satisfy a requirement under paragraph 1, 9, 10 or 11 of subsection 18 (1).</p> <p class=\"paragraph-e\">  2.  Where the Minister proposes to revoke or to refuse to renew a licence under clause 21 (1) (b) because the licensee failed to satisfy a requirement set out in paragraph 1, 9, 10 or 11 of subsection 18 (1).</p> <p class=\"paragraph-e\">  3.  Where the Minister proposes to revoke or to refuse to renew a licence under clause 21 (1) (c) because the applicant fails to satisfy a requirement set out in paragraph 1, 9, 10 or 11 of subsection 18 (1).</p> <p class=\"paragraph-e\">  4.  Where the Minister proposes to revoke or to refuse to renew a licence under clause 21 (1) (d) or (f).  O. Reg. 473/07, s. 35 (2).</p> <p class=\"subsection-e\">  (3) Prior to making a decision described in paragraph 1, 2, 3, 4 or 5 of subsection (1) or paragraph 1, 2, 3 or 4 of subsection (2), the Minister shall serve a notice of his or her proposed decision on the applicant or licensee, together with a summary of the reasons for such proposed decision.  O. Reg. 473/07, s. 35 (3).</p> <p class=\"subsection-e\">  (4) An applicant or licensee may, within 30 days after being served with a notice under subsection (3), submit in writing to the Minister any information that the applicant or licensee considers relevant to the Minister’s proposed decision.  O. Reg. 473/07, s. 35 (4).</p> <p class=\"subsection-e\">  (5) The Minister shall review and consider any information submitted under subsection (4) before making a decision described in paragraph 1, 2, 3, 4 or 5 of subsection (1) or paragraph 1, 2, 3 or 4 of subsection (2).  O. Reg. 473/07, s. 35 (5).</p> <p class=\"subsection-e\">  (6) There is no right to appeal a decision of the Minister made under section 58 or 58.1 of the Act or under this Regulation, but nothing in this Regulation prevents the taking of a proceeding in court to review such a decision.  O. Reg. 473/07, s. 35 (6).</p> <p class=\"partnum-e\"><a name=\"BK52\"></a>part v <br/>  General</p>"
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "PART V  ",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section": "PART V GENERAL",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "36.",
+            "part_id": "PART V  ",
+            "part_type": "PART V GENERAL",
+            "section": "Service",
+            "content": " 36. (1) Any notice required to be served under this Regulation is sufficiently served if, (a)  delivered personally; (b)  sent by mail addressed to the person upon whom service is to be made at the last address for service appearing on the records of the Ministry; or (c)  sent by email to the latest email address appearing on the records of the Ministry. O. Reg. 116/19, s. 16. Same (2) Service is deemed to be made, (a)  on the seventh day after the day of mailing; or (b)  on the second day after the day of emailing. O. Reg. 116/19, s. 16 . 37. Omitted (provides for amendments to this Regulation).  O. Reg. 473/07, s. 37. 38. Omitted (revokes other Regulations).  O. Reg. 473/07, s. 38. 39. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 473/07, s. 39.   Français  ",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK53\"></a><b>36. </b>(1) Any notice required to be served under this Regulation is sufficiently served if,</p> <p class=\"clause-e\">  (a)  delivered personally;</p> <p class=\"clause-e\">  (b)  sent by mail addressed to the person upon whom service is to be made at the last address for service appearing on the records of the Ministry; or</p> <p class=\"clause-e\">  (c)  sent by email to the latest email address appearing on the records of the Ministry. O. Reg. 116/19, s. 16.</p> <p class=\"headnote-e\">Same</p> <p class=\"subsection-e\">  (2) Service is deemed to be made,</p> <p class=\"clause-e\">  (a)  on the seventh day after the day of mailing; or</p> <p class=\"clause-e\">  (b)  on the second day after the day of emailing. O. Reg. 116/19, s. 16 .</p> <p class=\"section-e\"> <b>37.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for amendments to this Regulation</span>).  O. Reg. 473/07, s. 37.</p> <p class=\"section-e\"> <b>38.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">revokes other Regulations</span>).  O. Reg. 473/07, s. 38.</p> <p class=\"section-e\"> <b>39.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).  O. Reg. 473/07, s. 39.</p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/070473\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

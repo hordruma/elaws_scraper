@@ -1,0 +1,100 @@
+{
+    "act_info": {
+        "full_title": "Plant Diseases Act, R.S.O. 1990, c. P.14",
+        "act_name_text": "Plant Diseases Act",
+        "citation": "R.S.O. 1990, c. P.14",
+        "url": "https://www.ontario.ca/laws/statute/90p14",
+        "date_scraped": "2023-12-19 07:14:32"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "December 15, 2009",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/90p14/v1",
+            "valid_from": "March  1, 1997",
+            "valid_to": "December 14, 2009"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/900924",
+            "Citation": "R.R.O. 1990, Reg. 924",
+            "title": "GENERAL"
+        }
+    ],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1",
+            "section": "Definitions",
+            "content": "1 In this Act, “Director” means the Director appointed under this Act; (“directeur”) “inspector” means an inspector appointed under this Act; (“inspecteur”) “Minister” means the Minister of Agriculture, Food and Rural Affairs; (“ministre”) “plant” means any tree, shrub, vine, tuber, bulb, corm, rhizome or root, or the fruit of any other part of any of them; (“plante”) “plant disease” means any disease or injury of a plant that is caused by an insect, virus, fungus, bacterium or other organism and that is designated a plant disease in the regulations; (“maladie des plantes”) “Provincial Entomologist” means the Provincial Entomologist appointed under this Act; (“entomologiste provincial”) “regulations” means the regulations made under this Act; (“règlements”) R.S.O. 1990, c. P.14, s. 1; 1994, c. 27, s. 34 (1, 2); 1996, c. 17, Sched. I, s. 1; 2009, c. 33, Sched. 1, s. 24. Section Amendments with date in force (d/m/y) 1994, c. 27, s. 34 (1) - 09/12/1994; 1996, c. 17, Sched. I, s. 1 (1-3) - 01/03/1997 2009, c. 33, Sched. 1, s. 24 - 15/12/2009",
+            "raw_html": "<p class=\"section\"><b>1 </b>In this Act,</p> <p class=\"definition\">“Director” means the Director appointed under this Act; (“directeur”)</p> <p class=\"definition\">“inspector” means an inspector appointed under this Act; (“inspecteur”)</p> <p class=\"definition\">“Minister” means the Minister of Agriculture, Food and Rural Affairs; (“ministre”)</p> <p class=\"definition\">“plant” means any tree, shrub, vine, tuber, bulb, corm, rhizome or root, or the fruit of any other part of any of them; (“plante”)</p> <p class=\"definition\">“plant disease” means any disease or injury of a plant that is caused by an insect, virus, fungus, bacterium or other organism and that is designated a plant disease in the regulations; (“maladie des plantes”)</p> <p class=\"definition\">“Provincial Entomologist” means the Provincial Entomologist appointed under this Act; (“entomologiste provincial”)</p> <p class=\"definition\">“regulations” means the regulations made under this Act; (“règlements”) R.S.O. 1990, c. P.14, s. 1; 1994, c. 27, s. 34 (1, 2); 1996, c. 17, Sched. I, s. 1; 2009, c. 33, Sched. 1, s. 24.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1994, c. 27, s. 34 (1) - 09/12/1994; 1996, c. 17, Sched. I, s. 1 (1-3) - 01/03/1997</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched1s24\">2009, c. 33, Sched. 1, s. 24</a></span> - 15/12/2009</p>"
+        },
+        {
+            "id": "2",
+            "section": "No dealing with diseased plants",
+            "content": "2 No person shall transport, ship, sell, offer for sale or have in the person’s possession for sale any plant having a plant disease. 1996, c. 17, Sched. I, s. 2. Section Amendments with date in force (d/m/y) 1996, c. 17, Sched. I, s. 2 - 01/03/1997 3 Repealed: 1996, c. 17, Sched. I, s. 2. Section Amendments with date in force (d/m/y) 1996, c. 17, Sched. I, s. 2 - 01/03/1997",
+            "raw_html": "<p class=\"section\"><b>2 </b>No person shall transport, ship, sell, offer for sale or have in the person’s possession for sale any plant having a plant disease. 1996, c. 17, Sched. I, s. 2.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 17, Sched. I, s. 2 - 01/03/1997</p> <p class=\"section\"><b>3 </b><span>Repealed</span>: 1996, c. 17, Sched. I, s. 2.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 17, Sched. I, s. 2 - 01/03/1997</p>"
+        },
+        {
+            "id": "3",
+            "section": "No dealing with diseased plants",
+            "content": "3 Repealed: 1996, c. 17, Sched. I, s. 2. Section Amendments with date in force (d/m/y) 1996, c. 17, Sched. I, s. 2 - 01/03/1997",
+            "raw_html": "<p class=\"section\"><b>3 </b><span>Repealed</span>: 1996, c. 17, Sched. I, s. 2.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 17, Sched. I, s. 2 - 01/03/1997</p>"
+        },
+        {
+            "id": "4",
+            "section": "Director, Provincial Entomologist and inspectors",
+            "content": "4 The Minister may appoint a Director to administer and enforce this Act and may appoint a Provincial Entomologist and one or more inspectors who shall carry out such duties as are assigned by this Act or by the regulations or the Director. R.S.O. 1990, c. P.14, s. 4; 1994, c. 27, s. 34 (3). Section Amendments with date in force (d/m/y) 1994, c. 27, s. 34 (3) - 09/12/1994 5.-8 Repealed: 1996, c. 17, Sched, I, s. 3 Section Amendments with date in force (d/m/y) 1996, c. 17, Sched. I, s. 3 - 01/03/1997 9.-12 Repealed: 1996, c. 17, Sched. I, s. 4. Section Amendments with date in force (d/m/y) 1996, c. 17, Sched. I, s. 4 - 01/03/1997",
+            "raw_html": "<p class=\"section\"><b>4 </b>The Minister may appoint a Director to administer and enforce this Act and may appoint a Provincial Entomologist and one or more inspectors who shall carry out such duties as are assigned by this Act or by the regulations or the Director. R.S.O. 1990, c. P.14, s. 4; 1994, c. 27, s. 34 (3).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1994, c. 27, s. 34 (3) - 09/12/1994</p> <p class=\"section\"><b>5.-8 </b><span>Repealed</span>: 1996, c. 17, Sched, I, s. 3 </p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 17, Sched. I, s. 3 - 01/03/1997</p> <p class=\"section\"><b>9.-12 </b><span>Repealed</span>: 1996, c. 17, Sched. I, s. 4.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 17, Sched. I, s. 4 - 01/03/1997</p>"
+        },
+        {
+            "id": "5.-8",
+            "section": "Director, Provincial Entomologist and inspectors",
+            "content": "5.-8 Repealed: 1996, c. 17, Sched, I, s. 3  Section Amendments with date in force (d/m/y) 1996, c. 17, Sched. I, s. 3 - 01/03/1997 9.-12 Repealed: 1996, c. 17, Sched. I, s. 4. Section Amendments with date in force (d/m/y) 1996, c. 17, Sched. I, s. 4 - 01/03/1997",
+            "raw_html": "<p class=\"section\"><b>5.-8 </b><span>Repealed</span>: 1996, c. 17, Sched, I, s. 3 </p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 17, Sched. I, s. 3 - 01/03/1997</p> <p class=\"section\"><b>9.-12 </b><span>Repealed</span>: 1996, c. 17, Sched. I, s. 4.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 17, Sched. I, s. 4 - 01/03/1997</p>"
+        },
+        {
+            "id": "9.-12",
+            "section": "Director, Provincial Entomologist and inspectors",
+            "content": "9.-12 Repealed: 1996, c. 17, Sched. I, s. 4. Section Amendments with date in force (d/m/y) 1996, c. 17, Sched. I, s. 4 - 01/03/1997",
+            "raw_html": "<p class=\"section\"><b>9.-12 </b><span>Repealed</span>: 1996, c. 17, Sched. I, s. 4.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 17, Sched. I, s. 4 - 01/03/1997</p>"
+        },
+        {
+            "id": "13",
+            "section": "Power of entry",
+            "content": "13 (1) Subject to subsection (2), an inspector may, between sunrise and sunset, for the purpose of inspecting for plant diseases, (a) enter any land, premises, vehicle or vessel in or on which the inspector has reason to believe there are plants or anything relating to plants; (b) inspect the land, premises, vehicle, vessel or any plants located in or on them; or (c) inspect any containers, implements, machinery, books or records relating to plants located in or on them. 1996, c. 17, Sched. I, s. 5. Power to enter dwelling (2) Except under the authority of a warrant under section 158 of the Provincial Offences Act, an inspector shall not enter any part of a dwelling without the consent of the occupant. Obstruction of inspector (3) No person shall hinder or obstruct an inspector in the course of his or her duties or furnish him or her with false information or refuse to furnish him or her with information. R.S.O. 1990, c. P.14, s. 13 (2, 3). Section Amendments with date in force (d/m/y) 1996, c. 17, Sched. I, s. 5 - 01/03/1997",
+            "raw_html": "<p class=\"section\"><b>13 </b>(1) Subject to subsection (2), an inspector may, between sunrise and sunset, for the purpose of inspecting for plant diseases,</p> <p class=\"paragraph\">  (a) enter any land, premises, vehicle or vessel in or on which the inspector has reason to believe there are plants or anything relating to plants;</p> <p class=\"paragraph\">  (b) inspect the land, premises, vehicle, vessel or any plants located in or on them; or</p> <p class=\"paragraph\">  (c) inspect any containers, implements, machinery, books or records relating to plants located in or on them. 1996, c. 17, Sched. I, s. 5.</p> <p class=\"headnote\">Power to enter dwelling</p> <p class=\"subsection\">(2) Except under the authority of a warrant under section 158 of the <i>Provincial Offences Act</i>, an inspector shall not enter any part of a dwelling without the consent of the occupant.</p> <p class=\"headnote\">Obstruction of inspector</p> <p class=\"subsection\">(3) No person shall hinder or obstruct an inspector in the course of his or her duties or furnish him or her with false information or refuse to furnish him or her with information. R.S.O. 1990, c. P.14, s. 13 (2, 3).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 17, Sched. I, s. 5 - 01/03/1997</p>"
+        },
+        {
+            "id": "14",
+            "section": "Disinfection of diseased plants, etc.",
+            "content": "14 (1) Where an inspector finds a plant disease or any causal organisms of a plant disease in or on any premises or vehicle, he or she may order the owner, occupier or person in charge of the premises or vehicle, (a) to disinfect any plants, land, building, vehicle or container; or (b) to treat or destroy any plants, in such manner and within such period of time as the order requires. Prohibition to grow certain plants (2) Where an inspector finds any causal organisms of a plant disease in the soil of any premises, he or she may order that the owner or occupier of the premises shall not grow for such period of time as the order requires such species of plants as may become infected by such causal organisms. Order (3) Every order under this section shall be in writing and delivered to the owner, occupier or person in charge of the premises or vehicle by an inspector or sent by prepaid mail to the owner’s, occupier’s or person’s last or usual place of residence. R.S.O. 1990, c. P.14, s. 14.",
+            "raw_html": "<p class=\"section\"><b>14 </b>(1) Where an inspector finds a plant disease or any causal organisms of a plant disease in or on any premises or vehicle, he or she may order the owner, occupier or person in charge of the premises or vehicle,</p> <p class=\"paragraph\">  (a) to disinfect any plants, land, building, vehicle or container; or</p> <p class=\"paragraph\">  (b) to treat or destroy any plants,</p> <p class=\"subsection\">in such manner and within such period of time as the order requires.</p> <p class=\"headnote\">Prohibition to grow certain plants</p> <p class=\"subsection\">(2) Where an inspector finds any causal organisms of a plant disease in the soil of any premises, he or she may order that the owner or occupier of the premises shall not grow for such period of time as the order requires such species of plants as may become infected by such causal organisms.</p> <p class=\"headnote\">Order</p> <p class=\"subsection\">(3) Every order under this section shall be in writing and delivered to the owner, occupier or person in charge of the premises or vehicle by an inspector or sent by prepaid mail to the owner’s, occupier’s or person’s last or usual place of residence. R.S.O. 1990, c. P.14, s. 14.</p>"
+        },
+        {
+            "id": "15",
+            "section": "Appeal",
+            "content": "15 (1) Where the owner, occupier or person in charge of any premises or vehicle deems themself aggrieved by an order of an inspector, the owner, occupier or person may within five days of the receipt of the order appeal against the order by notice to the Provincial Entomologist. R.S.O. 1990, c. P.14, s. 15 (1); 1993, c. 27, Sched. Powers of Provincial Entomologist on appeal (2) Upon receipt of a notice of appeal, the Provincial Entomologist shall, after a hearing, confirm, revoke or modify the order appealed against and may make such order as the inspector might have made and the appellant shall carry out such order as is given by the Provincial Entomologist. Parties (3) The appellant, the inspector who made the decision and such other persons as the Provincial Entomologist may specify are parties to proceedings before the Provincial Entomologist under subsection (2). How appeal made (4) An appeal under this section may be made in writing or orally or by telephone to the Provincial Entomologist, but the Provincial Entomologist may require the grounds for appeal to be specified in writing before the hearing. R.S.O. 1990, c. P.14, s. 15 (2-4). Section Amendments with date in force (d/m/y) 1993, c. 27, Sched. - 31/12/1991",
+            "raw_html": "<p class=\"section\"><b>15 </b>(1) Where the owner, occupier or person in charge of any premises or vehicle deems themself aggrieved by an order of an inspector, the owner, occupier or person may within five days of the receipt of the order appeal against the order by notice to the Provincial Entomologist. R.S.O. 1990, c. P.14, s. 15 (1); 1993, c. 27, Sched.</p> <p class=\"headnote\">Powers of Provincial Entomologist on appeal</p> <p class=\"subsection\">(2) Upon receipt of a notice of appeal, the Provincial Entomologist shall, after a hearing, confirm, revoke or modify the order appealed against and may make such order as the inspector might have made and the appellant shall carry out such order as is given by the Provincial Entomologist.</p> <p class=\"headnote\">Parties</p> <p class=\"subsection\">(3) The appellant, the inspector who made the decision and such other persons as the Provincial Entomologist may specify are parties to proceedings before the Provincial Entomologist under subsection (2).</p> <p class=\"headnote\">How appeal made</p> <p class=\"subsection\">(4) An appeal under this section may be made in writing or orally or by telephone to the Provincial Entomologist, but the Provincial Entomologist may require the grounds for appeal to be specified in writing before the hearing. R.S.O. 1990, c. P.14, s. 15 (2-4).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1993, c. 27, Sched. - 31/12/1991</p>"
+        },
+        {
+            "id": "16",
+            "section": "Offences",
+            "content": "16 Every person who contravenes any provision of this Act or the regulations or any order of an inspector or the Provincial Entomologist is guilty of an offence. 1996, c. 17, Sched. I, s. 6. Section Amendments with date in force (d/m/y) 1996, c. 17, Sched. I, s. 6 - 01/03/1997",
+            "raw_html": "<p class=\"section\"><b>16 </b>Every person who contravenes any provision of this Act or the regulations or any order of an inspector or the Provincial Entomologist is guilty of an offence. 1996, c. 17, Sched. I, s. 6.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 17, Sched. I, s. 6 - 01/03/1997</p>"
+        },
+        {
+            "id": "17",
+            "section": "Regulations",
+            "content": "17 The Minister may make regulations, (a) designating plant diseases for the purpose of this Act; (b) providing for the establishment of plant disease control areas; (c) providing for the control or eradication of any plant disease in any plant disease control area or in any other area; (d) specifying the duties and obligations of persons owning or occupying land or premises in any area mentioned in clause (c). 1996, c. 17, Sched. I, s. 6. Section Amendments with date in force (d/m/y) 1996, c. 17, Sched. I, s. 6 - 01/03/1997 ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>17 </b>The Minister may make regulations,</p> <p class=\"paragraph\">  (a) designating plant diseases for the purpose of this Act;</p> <p class=\"paragraph\">  (b) providing for the establishment of plant disease control areas;</p> <p class=\"paragraph\">  (c) providing for the control or eradication of any plant disease in any plant disease control area or in any other area;</p> <p class=\"paragraph\">  (d) specifying the duties and obligations of persons owning or occupying land or premises in any area mentioned in clause (c). 1996, c. 17, Sched. I, s. 6.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\">1996, c. 17, Sched. I, s. 6 - 01/03/1997</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/90p14\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 666/21: DISSOLUTION",
+        "reg_name_text": "DISSOLUTION",
+        "citation": "O. Reg. 666/21: ",
+        "act_under": "Compensation for Victims of Crime Act",
+        "url": "https://www.ontario.ca/laws/regulation/210666",
+        "date_scraped": "2023-12-18 13:02:51"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/210666/v2",
+            "valid_from": "December 31, 2021",
+            "valid_to": "December 31, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/210666/v1",
+            "valid_from": "September 24, 2021",
+            "valid_to": "December 30, 2021"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Dissolution",
+            "content": "  1. The Criminal Injuries Compensation Board is dissolved.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>The Criminal Injuries Compensation Board is dissolved.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Dissolution",
+            "content": " 2. Omitted\r\n(provides for amendments to this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b><span class=\"ovsmallcap\">Omitted</span>\r\n(<span class=\"ovsmallcap\">provides for amendments to this Regulation</span>).</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Dissolution",
+            "content": " 3. Omitted\r\n(provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b><span class=\"ovsmallcap\">Omitted</span>\r\n(<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Dissolution",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/210666\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

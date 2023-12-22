@@ -1,0 +1,204 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 608/06: DEVELOPMENT PERMITS",
+        "reg_name_text": "development permits",
+        "citation": "O. Reg. 608/06: DEVELOPMENT PERMITS",
+        "act_under": "Planning Act",
+        "url": "https://www.ontario.ca/laws/regulation/060608",
+        "date_scraped": "2023-12-19 03:24:58"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/060608/v4",
+            "valid_from": "June  8, 2016",
+            "valid_to": "June 30, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/060608/v3",
+            "valid_from": "August  3, 2007",
+            "valid_to": "June  7, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/060608/v2",
+            "valid_from": "January  1, 2007",
+            "valid_to": "August  2, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/060608/v1",
+            "valid_from": "December 27, 2006",
+            "valid_to": "December 31, 2006"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "1.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Definition",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "2.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Development permit system",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "3.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Conditions re official plan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "4.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Development permit by-law",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "5.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Agreement between municipality and owner",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "6.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Pre-existing agreements under s. 41 of Act or s. 114 of City of Toronto Act, 2006",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "7.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Notice of proposed by-law",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "8.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Non-application of certain provisions of Act and City of Toronto Act, 2006",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "9.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Commencement of by-law",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "10.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Application for development permit",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "11.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Motion for directions re fulfillment of condition",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "12.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Appeal to O.M.B.",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "13.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Duties of clerk",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "14.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Decision of O.M.B.",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "15.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Delegation by council",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "16.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemption",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "17.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Transition",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "Schedule 1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Information and material to be provided in an application for approval of a development permit",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

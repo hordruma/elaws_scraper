@@ -1,0 +1,420 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 275/11: SCOPE OF PRACTICE - TRADES IN THE CONSTRUCTION SECTOR",
+        "reg_name_text": "Scope of Practice — Trades in the Construction Sector",
+        "citation": "O. Reg. 275/11: SCOPE OF PRACTICE - TRADES IN THE CONSTRUCTION SECTOR",
+        "act_under": "Ontario College of Trades and Apprenticeship Act, 2009",
+        "url": "https://www.ontario.ca/laws/regulation/110275",
+        "date_scraped": "2023-12-21 14:48:45"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/110275/v4",
+            "valid_from": "December 22, 2021",
+            "valid_to": "December 31, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/110275/v3",
+            "valid_from": "September 22, 2016",
+            "valid_to": "December 21, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/110275/v2",
+            "valid_from": "March  1, 2013",
+            "valid_to": "September 21, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/110275/v1",
+            "valid_from": "June 16, 2011",
+            "valid_to": "February 28, 2013"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": 1.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Architectural glass and metal technician",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 2.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Brick and stone mason",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 3.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Cement (concrete) finisher",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 5.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Concrete pump operator",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 6.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Construction boilermaker",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 7.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Construction craft worker",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 8.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Construction millwright",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 9.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Drywall, acoustic and lathing applicator",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 10.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Drywall finisher and plasterer",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 11.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Electrician — construction and maintenance",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 12.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Electrician — domestic and rural",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 13.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Exterior insulated finish systems mechanic",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 14.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Floor covering installer",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 15.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "General carpenter",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 16.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Hazardous materials worker",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 17.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Heat and frost insulator",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 18.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Heavy equipment operator — dozer",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 19.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Heavy equipment operator — excavator",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 20.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Heavy equipment operator — tractor loader backhoe",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 21.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Hoisting engineer — mobile crane operator 1",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 22.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Hoisting engineer — mobile crane operator 2",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 23.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Hoisting engineer — tower crane operator",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 24.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Ironworker — generalist",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 25.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Ironworker — structural and ornamental",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 26.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Native residential construction worker",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 27.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Painter and decorator — commercial and residential",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 28.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Painter and decorator — industrial",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 29.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Plumber",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 30.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Powerline technician",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 31.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Precast concrete erector",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 32.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Precast concrete finisher",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 33.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Refractory mason",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 34.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Refrigeration and air conditioning systems mechanic",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 35.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Reinforcing rodworker",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 36.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Residential air conditioning systems mechanic",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 37.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Residential (low rise) sheet metal installer",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 38.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Restoration mason",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 39.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Roofer",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 40.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Sheet metal worker",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 41.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Sprinkler and fire protection installer",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 42.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Steamfitter",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": 43.0,
+            "part_id": null,
+            "part_type": null,
+            "section": "Terrazzo, tile and marble setter",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 169/14: E-LAWS WEBSITE ADDRESS",
+        "reg_name_text": "E-LAWS WEBSITE ADDRESS",
+        "citation": "O. Reg. 169/14: ",
+        "act_under": "Legislation Act, 2006",
+        "url": "https://www.ontario.ca/laws/regulation/140169",
+        "date_scraped": "2023-12-19 04:17:53"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "August 18, 2014",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Website address",
+            "content": "  1. For the purpose of the definition of “e-Laws website” in subsection 1 (1) of the Act, www.ontario.ca/laws and www.ontario.ca/fr/lois are prescribed.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>For the purpose of the definition of “e-Laws website” in subsection 1 (1) of the Act, www.ontario.ca/laws and www.ontario.ca/fr/lois are prescribed.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Application",
+            "content": " 2. Section 1 applies only after the website of the Government of Ontario for statutes, regulations and related materials ceases to be available at www.e-laws.gov.on.ca.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>Section 1 applies only after the website of the Government of Ontario for statutes, regulations and related materials ceases to be available at www.e-laws.gov.on.ca.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Application",
+            "content": " 3. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>3.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Application",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/140169\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

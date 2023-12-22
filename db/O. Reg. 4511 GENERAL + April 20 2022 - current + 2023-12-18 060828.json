@@ -1,0 +1,313 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 45/11: GENERAL",
+        "reg_name_text": "General",
+        "citation": "O. Reg. 45/11: GENERAL",
+        "act_under": "Mining Act",
+        "url": "https://www.ontario.ca/laws/regulation/110045",
+        "date_scraped": "2023-12-18 06:08:29"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "April 20, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v14",
+            "valid_from": "April  1, 2022",
+            "valid_to": "April 19, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v13",
+            "valid_from": "March 21, 2022",
+            "valid_to": "March 31, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v12",
+            "valid_from": "February  1, 2022",
+            "valid_to": "March 20, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v11",
+            "valid_from": "December 13, 2021",
+            "valid_to": "January 31, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v10",
+            "valid_from": "April 10, 2018",
+            "valid_to": "December 12, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v9",
+            "valid_from": "April  1, 2018",
+            "valid_to": "April  9, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v8",
+            "valid_from": "January  9, 2018",
+            "valid_to": "March 31, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v7",
+            "valid_from": "December 11, 2017",
+            "valid_to": "January  8, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v6",
+            "valid_from": "November 28, 2017",
+            "valid_to": "December 10, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v5",
+            "valid_from": "November  1, 2012",
+            "valid_to": "November 27, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v4",
+            "valid_from": "October  2, 2012",
+            "valid_to": "October 31, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v3",
+            "valid_from": "July  1, 2011",
+            "valid_to": "October  1, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v2",
+            "valid_from": "April  4, 2011",
+            "valid_to": "June 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/110045/v1",
+            "valid_from": "March  4, 2011",
+            "valid_to": "April  3, 2011"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Provincial grid",
+            "content": " 1. (1) For the purposes of the definition of “provincial grid” in subsection 1 (1) of the Act, the prescribed digital representation of the province of Ontario is the digital representation of the Province, created in accordance with subsection (2), that appears on the mining lands administration system at any point in time and that, (a)  shows every part of the Province covered by a grid of unique cells made of lines that are a distance of 15 seconds apart in latitude and 22.5 seconds apart in longitude; and (b)  has as one of the grid’s intersection points the point situated at 52° latitude and 88° longitude. O. Reg. 456/17, s. 1. (2) The digital representation of the Province referred to in subsection (1) is created based on the horizontal geodetic reference system known as the North American Datum 1983, Canadian Spatial Reference System realization, Epoch 2010.0, (NAD83—CSRS) that is itself based upon the reference ellipsoid using the Geodetic Reference System 1980 (GRS 80). O. Reg. 456/17, s. 1. (3) For greater certainty, any area beyond the boundaries of the province of Ontario that appears within a unique cell shown on the digital representation referred to in subsection (1) is not part of the provincial grid. O. Reg. 456/17, s. 1. Annual Rents",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) For the purposes of the definition of “provincial grid” in subsection 1 (1) of the Act, the prescribed digital representation of the province of Ontario is the digital representation of the Province, created in accordance with subsection (2), that appears on the mining lands administration system at any point in time and that,</p> <p class=\"clause-e\">  (a)  shows every part of the Province covered by a grid of unique cells made of lines that are a distance of 15 seconds apart in latitude and 22.5 seconds apart in longitude; and </p> <p class=\"clause-e\">  (b)  has as one of the grid’s intersection points the point situated at 52° latitude and 88° longitude. O. Reg. 456/17, s. 1.</p> <p class=\"subsection-e\">  (2) The digital representation of the Province referred to in subsection (1) is created based on the horizontal geodetic reference system known as the North American Datum 1983, Canadian Spatial Reference System realization, Epoch 2010.0, (NAD83—CSRS) that is itself based upon the reference ellipsoid using the Geodetic Reference System 1980 (GRS 80). O. Reg. 456/17, s. 1.</p> <p class=\"subsection-e\">  (3) For greater certainty, any area beyond the boundaries of the province of Ontario that appears within a unique cell shown on the digital representation referred to in subsection (1) is not part of the provincial grid. O. Reg. 456/17, s. 1.</p> <p class=\"heading1-e\">Annual Rents</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Annual rent, s. 41 of Act",
+            "content": " 2. The annual rental for a licence of occupation under section 41 of the Act is $5 per hectare.  O. Reg. 45/11, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>The annual rental for a licence of occupation under section 41 of the Act is $5 per hectare.  O. Reg. 45/11, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Annual rent, ss. 81, 82 and 83 of Act",
+            "content": " 3. The annual rental for a lease or renewal lease under sections 81, 82 and 83 of the Act is $3 per hectare whether the lease is of both mining rights and surface rights or of mining rights only.  O. Reg. 45/11, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>The annual rental for a lease or renewal lease under sections 81, 82 and 83 of the Act is $3 per hectare whether the lease is of both mining rights and surface rights or of mining rights only.  O. Reg. 45/11, s. 3.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Annual rent, s. 84 of Act",
+            "content": " 4. The annual rental for a lease or renewal lease of surface rights under section 84 of the Act is $3 per hectare.  O. Reg. 45/11, s. 4. Rate of Interest and Tax",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>The annual rental for a lease or renewal lease of surface rights under section 84 of the Act is $3 per hectare.  O. Reg. 45/11, s. 4.</p> <p class=\"heading1-e\">Rate of Interest and Tax</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Rate of interest",
+            "content": " 5. Where the Act provides for interest to be charged on rentals, taxes or on amounts that the Tribunal has ordered to be paid pursuant to subsections 181 (2) and 196 (1) of the Act, the rate of interest for each calendar year is the rate of interest on January 1 of that calendar year, calculated in accordance with Ontario Regulation 310/97 (Rates of Interest) made under the Land Transfer Tax Act for amounts payable by a person under that Act.  O. Reg. 45/11, s. 5; O. Reg. 467/17, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>Where the Act provides for interest to be charged on rentals, taxes or on amounts that the Tribunal has ordered to be paid pursuant to subsections 181 (2) and 196 (1) of the Act, the rate of interest for each calendar year is the rate of interest on January 1 of that calendar year, calculated in accordance with Ontario Regulation 310/97 (Rates of Interest) made under the<i> Land Transfer Tax Act</i> for amounts payable by a person under that Act.  O. Reg. 45/11, s. 5; O. Reg. 467/17, s. 1.</p>"
+        },
+        {
+            "id": "6.",
+            "section": "Mining land tax re s. 187 of Act",
+            "content": " 6. The mining land tax payable under section 187 of the Act is $4 per hectare per year.  O. Reg. 45/11, s. 6. Registries",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>The mining land tax payable under section 187 of the Act is $4 per hectare per year.  O. Reg. 45/11, s. 6.</p> <p class=\"heading1-e\">Registries</p>"
+        },
+        {
+            "id": "7.",
+            "section": "Information about claim holders, licence holders",
+            "content": " 7. (1) For the purposes of clause 7 (1) (c) of the Act, the mining claims registry shall include the following information about each claim holder: 1.  Name. 2.  Mailing address. 3.  Other contact information provided for business purposes, including the following: i.  Email address. ii.  Telephone number. 4.  Client number issued by the Ministry. O. Reg. 851/21, s. 1. (2) For the purposes of clause 7.1 (1) (c) of the Act, the licence of occupation registry shall include the following information about each licence holder: 1.  Name. 2.  Mailing address. 3.  Other contact information provided for business purposes, including the following: i.  Email address. ii.  Telephone number. 4.  Client number issued by the Ministry. O. Reg. 851/21, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>(1) For the purposes of clause 7 (1) (c) of the Act, the mining claims registry shall include the following information about each claim holder:</p> <p class=\"paragraph-e\">  1.  Name.</p> <p class=\"paragraph-e\">  2.  Mailing address.</p> <p class=\"paragraph-e\">  3.  Other contact information provided for business purposes, including the following:</p> <p class=\"subpara-e\">  i.  Email address.</p> <p class=\"subpara-e\">  ii.  Telephone number.</p> <p class=\"paragraph-e\">  4.  Client number issued by the Ministry. O. Reg. 851/21, s. 1.</p> <p class=\"subsection-e\"><b> </b>(2) For the purposes of clause 7.1 (1) (c) of the Act, the licence of occupation registry shall include the following information about each licence holder:</p> <p class=\"paragraph-e\">  1.  Name.</p> <p class=\"paragraph-e\">  2.  Mailing address.</p> <p class=\"paragraph-e\">  3.  Other contact information provided for business purposes, including the following:</p> <p class=\"subpara-e\">  i.  Email address.</p> <p class=\"subpara-e\">  ii.  Telephone number.</p> <p class=\"paragraph-e\">  4.  Client number issued by the Ministry. O. Reg. 851/21, s. 1.</p>"
+        },
+        {
+            "id": "8.",
+            "section": "Access to non-electronic documents",
+            "content": " 8. (1) For the purposes of subsection 7.2 (5) of the Act, if the Minister has directed under subsection 7.2 (2) of the Act that certain instruments or documents be maintained as part of a registry in a non-electronic form, those instruments or documents shall be made available to the public at the Provincial Recording Office during normal business hours. O. Reg. 851/21, s. 1. (2) Public access to a document or instrument mentioned in subsection (1) may be limited by the Provincial Recording Office to the extent that is necessary in order to protect the document or instrument due to its condition or format, including requiring the document or instrument to be handled in a particular manner, permitting access to copies instead of originals or requiring that a request be made in advance to allow for preparation of the document or instrument. O. Reg. 851/21, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>(1) For the purposes of subsection 7.2 (5) of the Act, if the Minister has directed under subsection 7.2 (2) of the Act that certain instruments or documents be maintained as part of a registry in a non-electronic form, those instruments or documents shall be made available to the public at the Provincial Recording Office during normal business hours. O. Reg. 851/21, s. 1.</p> <p class=\"subsection-e\">  (2) Public access to a document or instrument mentioned in subsection (1) may be limited by the Provincial Recording Office to the extent that is necessary in order to protect the document or instrument due to its condition or format, including requiring the document or instrument to be handled in a particular manner, permitting access to copies instead of originals or requiring that a request be made in advance to allow for preparation of the document or instrument. O. Reg. 851/21, s. 1.</p>"
+        },
+        {
+            "id": "9.",
+            "section": "Deletion, correction and amendment of registry",
+            "content": " 9. (1) For the purposes of clause 8 (1) (a) of the Act, a recorder may delete, correct or amend entries in a registry, including entries on abstracts for mining claims and licences of occupation, if the recorder has discovered or has been provided with documents or information, which in the recorder’s opinion indicate that the registry is not accurate or up to date. O. Reg. 851/21, s. 1. (2) The extent of the deletion, correction or amendment shall not exceed what is necessary to make the registry accurate and up to date and may include correcting typographical, data entry and administrative errors and deleting entries that are obsolete. O. Reg. 851/21, s. 1. Permission to Extract, Test Mineral Content and Dispose of Minerals",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) For the purposes of clause 8 (1) (a) of the Act, a recorder may delete, correct or amend entries in a registry, including entries on abstracts for mining claims and licences of occupation, if the recorder has discovered or has been provided with documents or information, which in the recorder’s opinion indicate that the registry is not accurate or up to date. O. Reg. 851/21, s. 1.</p> <p class=\"subsection-e\">  (2) The extent of the deletion, correction or amendment shall not exceed what is necessary to make the registry accurate and up to date and may include correcting typographical, data entry and administrative errors and deleting entries that are obsolete. O. Reg. 851/21, s. 1.</p> <p class=\"heading1-e\">Permission to Extract, Test Mineral Content and Dispose of Minerals</p>"
+        },
+        {
+            "id": "9.1",
+            "section": "Interpretation",
+            "content": " 9.1 In sections 9.2 to 9.8, “applicant” means the recorded holder of a mining claim who has applied for bulk sample permission or disposition permission under section 52 of the Act and includes, (a)  directors, officers, employees and authorized agents of the applicant, (b)  partners, subsidiaries or affiliates of the applicant, (c)  contractors or subcontractors of the applicant, and (d)  successors and assigns of the applicant; (“demandeur”) “bulk sample” means a quantity of mineral bearing substance extracted from an unpatented mining claim that exceeds the thresholds set out in section 9.2; (“échantillon en vrac”) “bulk sample permission” means the Minister’s written permission to mine, mill or refine mineral bearing substance from an unpatented mining claim for the purpose of testing mineral content, pursuant to subsection 52 (1) of the Act; (“autorisation de prélever un échantillon en vrac”) “disposition permission” means the Minister’s written permission to sell or dispose of the end product of mining, milling and refining of mineral bearing substance, pursuant to subsection 52 (4) of the Act; (“autorisation d’aliéner”) “extraction” means the removal of material from the ground by any method, except if the removal is by the use of a drill which creates a hole not greater than 15 centimetres in diameter; (“extraction”) “material” has the same meaning as in subsection 3 (2) of Ontario Regulation 240/00 (Mine Development and Closure Under Part VII of the Act) made under the Act; (“matières”) “mineral bearing substance” means that part of the extracted material that is to be subjected to testing; (“substance contenant des minéraux”) “permission holder” means an applicant to whom a bulk sample permission has been granted. (“titulaire d’autorisation”) O. Reg. 306/12, s. 1; O. Reg. 851/21, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>9.1 </b>In sections 9.2 to 9.8,</p> <p class=\"firstdef-e\">“applicant” means the recorded holder of a mining claim who has applied for bulk sample permission or disposition permission under section 52 of the Act and includes,</p> <p class=\"defclause-e\">  (a)  directors, officers, employees and authorized agents of the applicant,</p> <p class=\"defclause-e\">  (b)  partners, subsidiaries or affiliates of the applicant,</p> <p class=\"defclause-e\">  (c)  contractors or subcontractors of the applicant, and</p> <p class=\"defclause-e\">  (d)  successors and assigns of the applicant; (“demandeur”)</p> <p class=\"definition-e\">“bulk sample” means a quantity of mineral bearing substance extracted from an unpatented mining claim that exceeds the thresholds set out in section 9.2; (“échantillon en vrac”)</p> <p class=\"definition-e\">“bulk sample permission” means the Minister’s written permission to mine, mill or refine mineral bearing substance from an unpatented mining claim for the purpose of testing mineral content, pursuant to subsection 52 (1) of the Act; (“autorisation de prélever un échantillon en vrac”)</p> <p class=\"definition-e\">“disposition permission” means the Minister’s written permission to sell or dispose of the end product of mining, milling and refining of mineral bearing substance, pursuant to subsection 52 (4) of the Act; (“autorisation d’aliéner”)</p> <p class=\"definition-e\">“extraction” means the removal of material from the ground by any method, except if the removal is by the use of a drill which creates a hole not greater than 15 centimetres in diameter; (“extraction”)</p> <p class=\"definition-e\">“material” has the same meaning as in subsection 3 (2) of Ontario Regulation 240/00 (Mine Development and Closure Under Part VII of the Act) made under the Act; (“matières”)</p> <p class=\"definition-e\">“mineral bearing substance” means that part of the extracted material that is to be subjected to testing; (“substance contenant des minéraux”)</p> <p class=\"definition-e\">“permission holder” means an applicant to whom a bulk sample permission has been granted. (“titulaire d’autorisation”) O. Reg. 306/12, s. 1; O. Reg. 851/21, s. 2.</p>"
+        },
+        {
+            "id": "9.2",
+            "section": "Thresholds",
+            "content": " 9.2 (1) Subject to subsection (2), extraction is a bulk sample subject to section 52 of the Act where the amount of mineral bearing substance extracted exceeds 100 tonnes. O. Reg. 306/12, s. 1. (2) Where the mineral bearing substance is being extracted to test for lapidary stones, semi-precious stones or precious stones, other than diamonds, the extraction is a bulk sample subject to section 52 of the Act where the amount of mineral bearing substance extracted exceeds 100 kilograms. O. Reg. 306/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>9.2 </b>(1) Subject to subsection (2), extraction is a bulk sample subject to section 52 of the Act where the amount of mineral bearing substance extracted exceeds 100 tonnes. O. Reg. 306/12, s. 1.</p> <p class=\"subsection-e\">  (2) Where the mineral bearing substance is being extracted to test for lapidary stones, semi-precious stones or precious stones, other than diamonds, the extraction is a bulk sample subject to section 52 of the Act where the amount of mineral bearing substance extracted exceeds 100 kilograms. O. Reg. 306/12, s. 1.</p>"
+        },
+        {
+            "id": "9.3",
+            "section": "Application for permission",
+            "content": " 9.3 (1) An applicant shall make an application for a bulk sample permission in the approved form. O. Reg. 306/12, s. 1. (2) If the applicant proposes to sell or dispose of the end product of the mining, milling or refining of the bulk sample, the applicant shall include with the request for a bulk sample permission, a request for a disposition permission. O. Reg. 306/12, s. 1; O. Reg. 851/21, s. 3 (1). (3) Subsection (2) does not apply with respect to sale or disposition in accordance with section 9.3.1. O. Reg. 851/21, s. 3 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>9.3 </b>(1) An applicant shall make an application for a bulk sample permission in the approved form. O. Reg. 306/12, s. 1.</p> <p class=\"subsection-e\">  (2) If the applicant proposes to sell or dispose of the end product of the mining, milling or refining of the bulk sample, the applicant shall include with the request for a bulk sample permission, a request for a disposition permission. O. Reg. 306/12, s. 1; O. Reg. 851/21, s. 3 (1).</p> <p class=\"subsection-e\">  (3) Subsection (2) does not apply with respect to sale or disposition in accordance with section 9.3.1. O. Reg. 851/21, s. 3 (2).</p>"
+        },
+        {
+            "id": "9.3.1",
+            "section": "Disposition not requiring permission",
+            "content": " 9.3.1 (1) For the purposes of subsection 52 (5) of the Act, the end product of mining, milling and refining of a mineral bearing substance permitted under a bulk sample permission may be sold or disposed of in accordance with this section if, (a)  an applicant indicates in the application for the bulk sample permission that the applicant intends to sell or dispose of the end product in accordance with this section; or (b)  a permission holder gives notice to the Minister in the approved form that the permission holder intends to sell or dispose of the end product in accordance with this section. O. Reg. 851/21, s. 4. (2) Clause (1) (b) does not apply to a permission holder who also holds a disposition permission. O. Reg. 851/21, s. 4. (3) The permission holder shall pay to the Crown any proceeds of the sale or disposition that exceed the sum of the costs incurred by the permission holder for the following: 1.  Any consultation with Aboriginal communities related to the carrying out of activities under the bulk sample permission. 2.  Excavating, processing, transporting, testing and evaluating the bulk sample. 3.  Any required rehabilitation resulting from the activities referred to in paragraph 2. O. Reg. 385/22, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>9.3.1 </b>(1) For the purposes of subsection 52 (5) of the Act, the end product of mining, milling and refining of a mineral bearing substance permitted under a bulk sample permission may be sold or disposed of in accordance with this section if,</p> <p class=\"clause-e\">  (a)  an applicant indicates in the application for the bulk sample permission that the applicant intends to sell or dispose of the end product in accordance with this section; or</p> <p class=\"clause-e\">  (b)  a permission holder gives notice to the Minister in the approved form that the permission holder intends to sell or dispose of the end product in accordance with this section. O. Reg. 851/21, s. 4.</p> <p class=\"subsection-e\">  (2) Clause (1) (b) does not apply to a permission holder who also holds a disposition permission. O. Reg. 851/21, s. 4.</p> <p class=\"subsection-e\">  (3) The permission holder shall pay to the Crown any proceeds of the sale or disposition that exceed the sum of the costs incurred by the permission holder for the following:</p> <p class=\"paragraph-e\">  1.  Any consultation with Aboriginal communities related to the carrying out of activities under the bulk sample permission.</p> <p class=\"paragraph-e\">  2.  Excavating, processing, transporting, testing and evaluating the bulk sample.</p> <p class=\"paragraph-e\">  3.  Any required rehabilitation resulting from the activities referred to in paragraph 2. O. Reg. 385/22, s. 1.</p>"
+        },
+        {
+            "id": "9.4",
+            "section": "Conditions",
+            "content": " 9.4 (1) A bulk sample permission is subject to the following conditions: 1.  The quantity of mineral bearing substance extracted must not exceed the quantity set out in the bulk sample permission. 2.  The permission holder must comply with all requirements of the Act and its regulations and the conditions imposed by the Minister under subsection 52 (2) of the Act, including any deadlines for completion of the sampling project or for providing reports to the Minister. 3.  The permission holder must comply with any applicable requirements for exploration plans and exploration permits under the Act with respect to the activity of extracting the bulk sample, including rehabilitation requirements. 4.  The permission holder must comply with the requirements of Part VII of the Act, including the requirements for an advanced exploration closure plan pursuant to section 140 of the Act, if the extraction meets the threshold for advanced exploration. O. Reg. 306/12, s. 1; O. Reg. 456/17, s. 3. (2) Where the bulk sample permission is with respect to the extraction of mineral bearing substance to test for diamonds and the amount of material being extracted does not exceed 1,000 tonnes, the permission may exempt the operator, as defined in subsection 154 (1) of the Act, from the requirements of subsection 14 (1) of Ontario Regulation 323/07 (Royalty on Diamonds) made under the Act, subject to the condition that the certified report required under section 9.6 includes the additional information specified in subsection 9.6 (2). O. Reg. 306/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>9.4 </b>(1) A bulk sample permission is subject to the following conditions:</p> <p class=\"paragraph-e\">  1.  The quantity of mineral bearing substance extracted must not exceed the quantity set out in the bulk sample permission.</p> <p class=\"paragraph-e\">  2.  The permission holder must comply with all requirements of the Act and its regulations and the conditions imposed by the Minister under subsection 52 (2) of the Act, including any deadlines for completion of the sampling project or for providing reports to the Minister.</p> <p class=\"paragraph-e\">  3.  The permission holder must comply with any applicable requirements for exploration plans and exploration permits under the Act with respect to the activity of extracting the bulk sample, including rehabilitation requirements.</p> <p class=\"paragraph-e\">  4.  The permission holder must comply with the requirements of Part VII of the Act, including the requirements for an advanced exploration closure plan pursuant to section 140 of the Act, if the extraction meets the threshold for advanced exploration. O. Reg. 306/12, s. 1; O. Reg. 456/17, s. 3.</p> <p class=\"subsection-e\">  (2) Where the bulk sample permission is with respect to the extraction of mineral bearing substance to test for diamonds and the amount of material being extracted does not exceed 1,000 tonnes, the permission may exempt the operator, as defined in subsection 154 (1) of the Act, from the requirements of subsection 14 (1) of Ontario Regulation 323/07 (Royalty on Diamonds) made under the Act, subject to the condition that the certified report required under section 9.6 includes the additional information specified in subsection 9.6 (2). O. Reg. 306/12, s. 1.</p>"
+        },
+        {
+            "id": "9.5",
+            "section": "Disposition permission",
+            "content": " 9.5 Where a bulk sample permission includes a disposition permission, the permission holder shall comply with any terms and conditions that the Minister requires as part of the disposition permission, in addition to any terms and conditions that apply to the bulk sample permission. O. Reg. 306/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>9.5 </b>Where a bulk sample permission includes a disposition permission, the permission holder shall comply with any terms and conditions that the Minister requires as part of the disposition permission, in addition to any terms and conditions that apply to the bulk sample permission. O. Reg. 306/12, s. 1.</p>"
+        },
+        {
+            "id": "9.6",
+            "section": "Certified report",
+            "content": " 9.6 (1) The permission holder shall, by the date specified in the bulk sample permission, submit a certified report in the approved form to the Minister. O. Reg. 306/12, s. 1. (2) If the bulk sample permission is with respect to diamonds, the certified report shall include the following additional information: 1.  The date the bulk sample was shipped to the laboratory or other processing facility and the full name and address of the laboratory or facility. 2.  The total number of diamonds recovered from the bulk sample. 3.  The total weight in carats and the number of diamonds for each sieve size. 4.  A description of the characteristics of each individual diamond, including, i.  stone dimensions, ii.  weight, colour and clarity, iii.  percentage preservation, and iv.  morphology. O. Reg. 306/12, s. 1. (3) Where the bulk sample permission includes a disposition permission, the permission holder shall provide the following additional information in the certified report: 1.  The amount of the proceeds from the sale of the product or mineral that is produced from the extracted mineral bearing substance. 2.  The total cost of the bulk sampling project, including the costs of excavating, processing, transporting, testing and evaluating the bulk sample and of any required rehabilitation resulting from any of these activities. 3.  Any other information that may be required as a term of the disposition permission. O. Reg. 306/12, s. 1; O. Reg. 851/21, s. 5 (1). (4) A permission holder to whom subsection 9.3.1 (3) applies shall include the following additional information and documents in the certified report: 1.  The information specified in paragraphs 1 and 2 of subsection (3) of this section. 2.  A copy of every receipt and invoice documenting the costs incurred and paid by the permission holder for excavating, processing, transporting, testing and evaluating the bulk sample or for any required rehabilitation resulting from any of these activities. 3.  A summary of the receipts and invoices referred to in paragraph 2 that details, in table format, the specific amount of each cost being reported. O. Reg. 851/21, s. 5 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>9.6 </b>(1) The permission holder shall, by the date specified in the bulk sample permission, submit a certified report in the approved form to the Minister. O. Reg. 306/12, s. 1.</p> <p class=\"subsection-e\">  (2) If the bulk sample permission is with respect to diamonds, the certified report shall include the following additional information:</p> <p class=\"paragraph-e\">  1.  The date the bulk sample was shipped to the laboratory or other processing facility and the full name and address of the laboratory or facility.</p> <p class=\"paragraph-e\">  2.  The total number of diamonds recovered from the bulk sample.</p> <p class=\"paragraph-e\">  3.  The total weight in carats and the number of diamonds for each sieve size.</p> <p class=\"paragraph-e\">  4.  A description of the characteristics of each individual diamond, including,</p> <p class=\"subpara-e\">  i.  stone dimensions,</p> <p class=\"subpara-e\">  ii.  weight, colour and clarity,</p> <p class=\"subpara-e\">  iii.  percentage preservation, and</p> <p class=\"subpara-e\">  iv.  morphology. O. Reg. 306/12, s. 1.</p> <p class=\"subsection-e\">  (3) Where the bulk sample permission includes a disposition permission, the permission holder shall provide the following additional information in the certified report:</p> <p class=\"paragraph-e\">  1.  The amount of the proceeds from the sale of the product or mineral that is produced from the extracted mineral bearing substance.</p> <p class=\"paragraph-e\">  2.  The total cost of the bulk sampling project, including the costs of excavating, processing, transporting, testing and evaluating the bulk sample and of any required rehabilitation resulting from any of these activities.</p> <p class=\"paragraph-e\">  3.  Any other information that may be required as a term of the disposition permission. O. Reg. 306/12, s. 1; O. Reg. 851/21, s. 5 (1).</p> <p class=\"subsection-e\">  (4) A permission holder to whom subsection 9.3.1 (3) applies shall include the following additional information and documents in the certified report:</p> <p class=\"paragraph-e\">  1.  The information specified in paragraphs 1 and 2 of subsection (3) of this section.</p> <p class=\"paragraph-e\">  2.  A copy of every receipt and invoice documenting the costs incurred and paid by the permission holder for excavating, processing, transporting, testing and evaluating the bulk sample or for any required rehabilitation resulting from any of these activities.</p> <p class=\"paragraph-e\">  3.  A summary of the receipts and invoices referred to in paragraph 2 that details, in table format, the specific amount of each cost being reported. O. Reg. 851/21, s. 5 (2).</p>"
+        },
+        {
+            "id": "9.7",
+            "section": "Extensions",
+            "content": " 9.7 (1) A permission holder may make a request to extend a bulk sample permission or the deadline for submitting the required certified report in writing to the Minister at least 10 days before the expiry of the permission or the deadline for submitting the certified report. O. Reg. 306/12, s. 1. (2) The Minister may grant an extension on such conditions as the Minister determines are reasonable in the circumstances. O. Reg. 306/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>9.7 </b>(1) A permission holder may make a request to extend a bulk sample permission or the deadline for submitting the required certified report in writing to the Minister at least 10 days before the expiry of the permission or the deadline for submitting the certified report. O. Reg. 306/12, s. 1.</p> <p class=\"subsection-e\">  (2) The Minister may grant an extension on such conditions as the Minister determines are reasonable in the circumstances. O. Reg. 306/12, s. 1.</p>"
+        },
+        {
+            "id": "9.8",
+            "section": "Transition, applications",
+            "content": " 9.8 (1) Revoked: O. Reg. 851/21, s. 6. (2) Applications for a bulk sample permission that are received on and after the day section 1 of Ontario Regulation 306/12 comes into force shall comply with sections 9.1 to 9.7 and the extraction of the bulk sample shall be done in compliance with Ontario Regulation 308/12 (Exploration Plans and Exploration Permits) made under the Act. O. Reg. 306/12, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>9.8</b> (1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 851/21, s. 6.</p> <p class=\"subsection-e\">  (2) Applications for a bulk sample permission that are received on and after the day section 1 of Ontario Regulation 306/12 comes into force shall comply with sections 9.1 to 9.7 and the extraction of the bulk sample shall be done in compliance with Ontario Regulation 308/12 (Exploration Plans and Exploration Permits) made under the Act. O. Reg. 306/12, s. 1.</p>"
+        },
+        {
+            "id": "9.9",
+            "section": "Transition, applications",
+            "content": " 9.9 Revoked: O. Reg. 851/21, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>9.9 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 851/21, s. 7.</p>"
+        },
+        {
+            "id": "9.10",
+            "section": "Sites of Aboriginal cultural significance",
+            "content": " 9.10 (1) Land, with a surface area of 25 hectares or less, may be considered as a site of Aboriginal cultural significance for the purposes of the Act if the following criteria are met: 1.  It is strongly associated with an Aboriginal community for social, cultural, sacred or ceremonial reasons, including because of its traditional use by that community, according to Aboriginal traditions, observances, customs or beliefs. 2.  It is in a fixed location, subject to clear geographic description or delineation on a map. 3.  Its identification is supported by the community, as evidenced by appropriate documentation. O. Reg. 306/12, s. 2. (2) In determining whether a site of Aboriginal cultural significance should be the subject of a withdrawal order or an order to restrict the right to the use of portions of the surface rights of a mining claim, the Minister may consider whether other mechanisms are available and appropriate to protect the site. O. Reg. 306/12, s. 2. Mining Act Awareness Program",
+            "raw_html": "<p class=\"section-e\"> <b>9.10 </b>(1) Land, with a surface area of 25 hectares or less, may be considered as a site of Aboriginal cultural significance for the purposes of the Act if the following criteria are met:</p> <p class=\"paragraph-e\">  1.  It is strongly associated with an Aboriginal community for social, cultural, sacred or ceremonial reasons, including because of its traditional use by that community, according to Aboriginal traditions, observances, customs or beliefs.</p> <p class=\"paragraph-e\">  2.  It is in a fixed location, subject to clear geographic description or delineation on a map.</p> <p class=\"paragraph-e\">  3.  Its identification is supported by the community, as evidenced by appropriate documentation. O. Reg. 306/12, s. 2.</p> <p class=\"subsection-e\">  (2) In determining whether a site of Aboriginal cultural significance should be the subject of a withdrawal order or an order to restrict the right to the use of portions of the surface rights of a mining claim, the Minister may consider whether other mechanisms are available and appropriate to protect the site. O. Reg. 306/12, s. 2.</p> <p class=\"heading1-e\">Mining Act Awareness Program</p>"
+        },
+        {
+            "id": "10.",
+            "section": "Prescribed program",
+            "content": " 10. For the purposes of sections 19 and 21 of the Act, the prescribed Mining Act awareness program is the Ministry’s online educational program referred to as the Mining Act Awareness Program, as it appears on the mining lands administration system at any point in time. O. Reg. 456/17, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>For the purposes of sections 19 and 21 of the Act, the prescribed <i>Mining Act </i>awareness program is the Ministry’s online educational program referred to as the <i>Mining Act</i><i> </i>Awareness Program, as it appears on the mining lands administration system at any point in time. O. Reg. 456/17, s. 4.</p>"
+        },
+        {
+            "id": "11.",
+            "section": "Prescribed program",
+            "content": " 11. Revoked: O. Reg. 456/17, s. 4. Mining Rights - Section 35.1 of the Act",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 456/17, s. 4.</p> <p class=\"heading1-e\">Mining Rights - Section 35.1 of the Act</p>"
+        },
+        {
+            "id": "12.",
+            "section": "Criteria re s. 35.1 (9) of Act",
+            "content": " 12. The following are the additional criteria for consideration by the Minister under subsection 35.1 (9) of the Act: 1.  The size of the land. 2.  The existing and proposed use of the surface rights.  O. Reg. 45/11, s. 12.",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>The following are the additional criteria for consideration by the Minister under subsection 35.1 (9) of the Act:</p> <p class=\"paragraph-e\">  1.  The size of the land.</p> <p class=\"paragraph-e\">  2.  The existing and proposed use of the surface rights.  O. Reg. 45/11, s. 12.</p>"
+        },
+        {
+            "id": "13.",
+            "section": "Land open for mining claim registration",
+            "content": " 13. If the Minister has issued an order opening the mining rights for mining claim registration under subsection 35.1 (5) or (11) of the Act, the mining rights shall be opened as follows: 1.  The Minister shall notify the applicant when the order has been issued. 2.  The order shall be posted in the mining lands administration system in a prominent, publicly accessible location. 3.  The lands described in the order shall be open for prospecting, mining claim registration, sale and lease as of the day on which the order is posted in the mining lands administration system. O. Reg. 456/17, s. 6. Survey of Mining Claims",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>If the Minister has issued an order opening the mining rights for mining claim registration under subsection 35.1 (5) or (11) of the Act, the mining rights shall be opened as follows:</p> <p class=\"paragraph-f\">  1.  The Minister shall notify the applicant when the order has been issued.</p> <p class=\"paragraph-f\">  2.  The order shall be posted in the mining lands administration system in a prominent, publicly accessible location.</p> <p class=\"paragraph-f\">  3.  The lands described in the order shall be open for prospecting, mining claim registration, sale and lease as of the day on which the order is posted in the mining lands administration system. O. Reg. 456/17, s. 6.</p> <p class=\"heading1-e\">Survey of Mining Claims</p>"
+        },
+        {
+            "id": "13.1",
+            "section": "Mining claim surveys",
+            "content": " 13.1 The prescribed methods and procedures to be followed in the surveying of mining claims for the purposes of subsection 95 (2) of the Act are the methods and procedures for the surveying of Crown lands set out in the document prepared by the Office of the Surveyor General, entitled “Instructions Governing Ontario Crown Land Surveys and Plans” and available on the Government of Ontario website, as that document may be amended from time to time. O. Reg. 456/17, s. 6. application for determination under section 139.0.1 of the act",
+            "raw_html": "<p class=\"section-e\"> <b>13.1</b> The prescribed methods and procedures to be followed in the surveying of mining claims for the purposes of subsection 95 (2) of the Act are the methods and procedures for the surveying of Crown lands set out in the document prepared by the Office of the Surveyor General, entitled “Instructions Governing Ontario Crown Land Surveys and Plans” and available on the Government of Ontario website, as that document may be amended from time to time. O. Reg. 456/17, s. 6.</p> <p class=\"heading1-e\">application for determination under section 139.0.1 of the act</p>"
+        },
+        {
+            "id": "13.1.1",
+            "section": "Application for determination",
+            "content": " 13.1.1 (1) For the purposes of subsection 139.0.1 (3) of the Act, a proponent may apply for a determination by the Director by submitting an application in the approved form. O. Reg. 222/22, s. 1. (2) In an application for a determination submitted under subsection (1), the proponent shall provide the following information about the proposed activity: 1.  Whether the proponent is applying for a determination under subsection 139.0.1 (1) or (2) of the Act. 2.  The mineral or mineral-bearing substance to be extracted as well as how and where it is to be processed. 3.  Details regarding any surface stripping, pitting or trenching to be carried out including the surface area to be stripped and the total volume of any pits or trenches. 4.  The location of the proposed activity. 5.  A description of all testing proposed to be conducted. 6.  A schedule for the activity, including the estimated date of completion. O. Reg. 222/22, s. 1. (3) In addition to providing the information described in subsection (2), the application shall be accompanied by a map, of appropriate scale, that identifies the lands on which the activity is proposed to occur as well as the tenure of the lands, including whether the surface and mining rights for the lands are leased, owned in fee simple or subject to a license of occupation. O. Reg. 222/22, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>13.1.1 </b>(1) For the purposes of subsection 139.0.1 (3) of the Act, a proponent may apply for a determination by the Director by submitting an application in the approved form. O. Reg. 222/22, s. 1.</p> <p class=\"subsection-e\">  (2) In an application for a determination submitted under subsection (1), the proponent shall provide the following information about the proposed activity:</p> <p class=\"paragraph-e\">  1.  Whether the proponent is applying for a determination under subsection 139.0.1 (1) or (2) of the Act.</p> <p class=\"paragraph-e\">  2.  The mineral or mineral-bearing substance to be extracted as well as how and where it is to be processed.</p> <p class=\"paragraph-e\">  3.  Details regarding any surface stripping, pitting or trenching to be carried out including the surface area to be stripped and the total volume of any pits or trenches.</p> <p class=\"paragraph-e\">  4.  The location of the proposed activity.</p> <p class=\"paragraph-e\">  5.  A description of all<b> </b>testing proposed to be conducted.</p> <p class=\"paragraph-e\">  6.  A schedule for the activity, including the estimated date of completion. O. Reg. 222/22, s. 1.</p> <p class=\"subsection-e\">  (3) In addition to providing the information described in subsection (2), the application shall be accompanied by a map, of appropriate scale, that identifies the lands on which the activity is proposed to occur as well as the tenure of the lands, including whether the surface and mining rights for the lands are leased, owned in fee simple or subject to a license of occupation. O. Reg. 222/22, s. 1.</p>"
+        },
+        {
+            "id": "13.1.2",
+            "section": "Aboriginal consultation",
+            "content": " 13.1.2 (1) The Director shall provide written direction with respect to consultation with Aboriginal communities after the Director receives an application from a proponent under section 13.1.1 and the direction shall identify the Aboriginal communities that are to be notified and may do any one or more of the following: 1.  Require that the proponent prepare a proposed plan for consultation with Aboriginal communities for review by the Director. 2.  Establish a schedule for making interim reports to the Director. 3.  Direct that the proponent do such other things by way of consultation with Aboriginal communities as the Director considers, in his or her sole discretion, appropriate in the circumstances. O. Reg. 222/22, s. 1. (2) A proponent shall consult with Aboriginal communities in accordance with, (a)  a proposed plan for consultation, where one has been required, that has been reviewed by the Director; and (b)  any direction provided by the Director with respect to consultation with Aboriginal communities. O. Reg. 222/22, s. 1. (3) Proponents may before submitting an application under section 13.1.1 consult with Aboriginal communities and, where they do so, they shall first request that the Director identify Aboriginal communities to be notified of their proposed activity. O. Reg. 222/22, s. 1. (4) Proponents who have consulted with Aboriginal communities before submitting their application shall include with the application submitted to the Director a consultation report in the approved form detailing how comments from Aboriginal communities, if any, have been considered. O. Reg. 222/22, s. 1. (5) Where a proponent is required to provide interim reports to the Director, the proponent shall provide the reports in the approved form, unless directed otherwise by the Director. O. Reg. 222/22, s. 1. (6) The Director may at any time, including after reviewing any interim reports, provide such further direction with respect to consultation with Aboriginal communities or with respect to a proponent’s proposed plan for consultation as the Director, in his or her sole discretion, considers appropriate in the circumstances. O. Reg. 222/22, s. 1. (7) Where a proponent has conducted consultation, the Director may require that the proponent submit a consultation report in the approved form at any time before approving the application. O. Reg. 222/22, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>13.1.2 </b>(1) The Director shall provide written direction with respect to consultation with Aboriginal communities after the Director receives an application from a proponent under section 13.1.1 and the direction shall identify the Aboriginal communities that are to be notified and may do any one or more of the following:</p> <p class=\"paragraph-e\">  1.  Require that the proponent prepare a proposed plan for consultation with Aboriginal communities for review by the Director.</p> <p class=\"paragraph-e\">  2.  Establish a schedule for making interim reports to the Director.</p> <p class=\"paragraph-e\">  3.  Direct that the proponent do such other things by way of consultation with Aboriginal communities as the Director considers, in his or her sole discretion, appropriate in the circumstances. O. Reg. 222/22, s. 1.</p> <p class=\"subsection-e\">  (2) A proponent shall consult with Aboriginal communities in accordance with,</p> <p class=\"clause-e\">  (a)  a proposed plan for consultation, where one has been required, that has been reviewed by the Director; and</p> <p class=\"clause-e\">  (b)  any direction provided by the Director with respect to consultation with Aboriginal communities. O. Reg. 222/22, s. 1.</p> <p class=\"subsection-e\">  (3) Proponents may before submitting an application under section 13.1.1 consult with Aboriginal communities and, where they do so, they shall first request that the Director identify Aboriginal communities to be notified of their proposed activity. O. Reg. 222/22, s. 1.</p> <p class=\"subsection-e\">  (4) Proponents who have consulted with Aboriginal communities before submitting their application shall include with the application submitted to the Director a consultation report in the approved form detailing how comments from Aboriginal communities, if any, have been considered. O. Reg. 222/22, s. 1.</p> <p class=\"subsection-e\">  (5) Where a proponent is required to provide interim reports to the Director, the proponent shall provide the reports in the approved form, unless directed otherwise by the Director. O. Reg. 222/22, s. 1.</p> <p class=\"subsection-e\">  (6) The Director may at any time, including after reviewing any interim reports, provide such further direction with respect to consultation with Aboriginal communities or with respect to a proponent’s proposed plan for consultation as the Director, in his or her sole discretion, considers appropriate in the circumstances. O. Reg. 222/22, s. 1.</p> <p class=\"subsection-e\">  (7) Where a proponent has conducted consultation, the Director may require that the proponent submit a consultation report in the approved form at any time before approving the application. O. Reg. 222/22, s. 1.</p>"
+        },
+        {
+            "id": "13.1.3",
+            "section": "Information report",
+            "content": " 13.1.3 For the purposes of clause 139.0.1 (6) (b) of the Act, a proponent in respect of whom a deeming under subsection 139.0.1 (1) or (2) of the Act applies shall, by the date specified by the Director, submit a report to the Director, in the approved form, containing the following information: 1.  The amount of the proceeds from the sale of the extracted mineral or mineral-bearing substance, together with receipts. 2.  The total cost of the activity, including all related costs to the proponent referred to in clause 139.0.1 (6) (a) of the Act, together with receipts. O. Reg. 222/22, s. 1. Notices and Forms",
+            "raw_html": "<p class=\"section-e\"> <b>13.1.3 </b>For the purposes of clause 139.0.1 (6) (b) of the Act, a proponent in respect of whom a deeming under subsection 139.0.1 (1) or (2) of the Act applies shall, by the date specified by the Director, submit a report to the Director, in the approved form, containing the following information:</p> <p class=\"paragraph-e\">  1.  The amount of the proceeds from the sale of the extracted mineral or mineral-bearing substance, together with receipts.</p> <p class=\"paragraph-e\">  2.  The total cost of the activity, including all related costs to the proponent referred to in clause 139.0.1 (6) (a) of the Act, together with receipts. O. Reg. 222/22, s. 1.</p> <p class=\"heading1-e\">Notices and Forms</p>"
+        },
+        {
+            "id": "13.2",
+            "section": "Manner of giving notice",
+            "content": " 13.2 (1) Except if otherwise provided for in the Act or the regulations, any notice required to be given to a person under the Act or the regulations shall be given in the following manner:  1.  If the person to whom the notice is to be given is a registered user of the mining lands administration system, by posting written notice to the area of the system designated for posting information to the attention of the registered user. 2.  If the person to whom the notice is to be given is not a registered user of the mining lands administration system, by sending written notice, i.  to the person’s email address by electronic transmission, if such an address has been provided to the Ministry, or ii.  to the person’s address for service or mailing address by regular mail, if such an address has been provided to the Ministry. 3.  If neither paragraph 1 nor 2 applies, by sending written notice, i.  to the last known email address or mailing address for the person as indicated in the mining lands administration system, either by electronic transmission or regular mail, as the case may be, or ii.  to an email address or mailing address that has been used by the person in communications with the Ministry, either by electronic transmission or regular mail, as the case may be. O. Reg. 456/17, s. 6. (2) A notice given under the Act in accordance with subsection (1) is deemed to have been received as follows: 1.  If the notice is posted on the mining lands administration system, at the time it is posted. 2.  If the notice is sent by electronic transmission, on the next business day after it was sent. 3.  If the notice is sent by regular mail, on the fifth day after the day of mailing. O. Reg. 456/17, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>13.2 </b>(1) Except if otherwise provided for in the Act or the regulations, any notice required to be given to a person under the Act or the regulations shall be given in the following manner: </p> <p class=\"paragraph-e\">  1.  If the person to whom the notice is to be given is a registered user of the mining lands administration system, by posting written notice to the area of the system designated for posting information to the attention of the registered user.</p> <p class=\"paragraph-e\">  2.  If the person to whom the notice is to be given is not a registered user of the mining lands administration system, by sending written notice,</p> <p class=\"subpara-e\">  i.  to the person’s email address by electronic transmission, if such an address has been provided to the Ministry, or</p> <p class=\"subpara-e\">  ii.  to the person’s address for service or mailing address by regular mail, if such an address has been provided to the Ministry.</p> <p class=\"paragraph-e\">  3.  If neither paragraph 1 nor 2 applies, by sending written notice,</p> <p class=\"subpara-e\">  i.  to the last known email address or mailing address for the person as indicated in the mining lands administration system, either by electronic transmission or regular mail, as the case may be, or</p> <p class=\"subpara-e\">  ii.  to an email address or mailing address that has been used by the person in communications with the Ministry, either by electronic transmission or regular mail, as the case may be. O. Reg. 456/17, s. 6.</p> <p class=\"subsection-e\">  (2) A notice given under the Act in accordance with subsection (1) is deemed to have been received as follows:</p> <p class=\"paragraph-e\">  1.  If the notice is posted on the mining lands administration system, at the time it is posted.</p> <p class=\"paragraph-e\">  2.  If the notice is sent by electronic transmission, on the next business day after it was sent.</p> <p class=\"paragraph-e\">  3.  If the notice is sent by regular mail, on the fifth day after the day of mailing. O. Reg. 456/17, s. 6.</p>"
+        },
+        {
+            "id": "14",
+            "section": "Notification required under s. 189 (1.2) of Act",
+            "content": " 14. A notification by a land owner as required under subsection 189 (1.2) of the Act shall be made in writing and submitted not less than 30 days before the date of the intended change of use.  O. Reg. 45/11, s. 14.",
+            "raw_html": "<p class=\"section-e\"> <b>14</b>. A notification by a land owner as required under subsection 189 (1.2) of the Act shall be made in writing and submitted not less than 30 days before the date of the intended change of use.  O. Reg. 45/11, s. 14.</p>"
+        },
+        {
+            "id": "14.1",
+            "section": "Publishing of defaulters’ list",
+            "content": " 14.1 For the purposes of subsection 197 (2) of the Act, the Deputy Minister shall cause the second notice of default in the payment of mining land tax to be published in one issue of The Ontario Gazette and posted in the mining lands administration system in a prominent, publicly accessible location. O. Reg. 456/17, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>14.1 </b>For the purposes of subsection 197 (2) of the Act, the Deputy Minister shall cause the second notice of default in the payment of mining land tax to be published in one issue of <i>The Ontario Gazette</i> and posted in the mining lands administration system in a prominent, publicly accessible location. O. Reg. 456/17, s. 7.</p>"
+        },
+        {
+            "id": "14.2",
+            "section": "Notice requiring hearing",
+            "content": " 14.2 For the purposes of subsection 152 (2) of the Act, the prescribed notice is the notice served using Form 5, Notice to Require Hearing, that is available on the Government of Ontario website, as that form may be amended from time to time. O. Reg. 456/17, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>14.2 </b>For the purposes of subsection 152 (2) of the Act, the prescribed notice is the notice served using Form 5, Notice to Require Hearing, that is available on the Government of Ontario website, as that form may be amended from time to time. O. Reg. 456/17, s. 7.</p>"
+        },
+        {
+            "id": "14.3",
+            "section": "Notice requiring hearing",
+            "content": " 14.3 Revoked: O. Reg. 456/17, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>14.3 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 456/17, s. 7.</p>"
+        },
+        {
+            "id": "15.",
+            "section": "Notice requiring hearing",
+            "content": " 15. Omitted (revokes other Regulations).  O. Reg. 45/11, s. 15.",
+            "raw_html": "<p class=\"section-e\"> <b>15.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">revokes other Regulations</span>).  O. Reg. 45/11, s. 15.</p>"
+        },
+        {
+            "id": "16.",
+            "section": "Notice requiring hearing",
+            "content": " 16. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 45/11, s. 16.",
+            "raw_html": "<p class=\"section-e\"> <b>16.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).  O. Reg. 45/11, s. 16.</p>"
+        },
+        {
+            "id": null,
+            "section": "Notice requiring hearing",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/110045\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

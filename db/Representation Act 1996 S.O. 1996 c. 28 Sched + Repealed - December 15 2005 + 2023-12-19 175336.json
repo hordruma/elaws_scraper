@@ -1,0 +1,53 @@
+{
+    "act_info": {
+        "full_title": "Representation Act, 1996, S.O. 1996, c. 28, Sched",
+        "act_name_text": "Not Found",
+        "citation": "Representation Act, 1996, S.O. 1996, c. 28, Sched",
+        "url": "https://www.ontario.ca/laws/statute/96r28",
+        "date_scraped": "2023-12-19 17:53:36"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/statute/96r28/v1",
+            "valid_from": "May  5, 1999",
+            "valid_to": "December 14, 2005"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definitions",
+            "content": "1. In this Act, “federal Act” means the Electoral Boundaries Readjustment Act (Canada); (“Loi fédérale”) “federal electoral district” means an electoral district established under the federal Act; (“circonscription électorale fédérale”) “federal readjustment” means any establishment of federal electoral districts under the federal Act that occurs after this Act comes into force. (“révision fédérale”) 1996, c. 28, Sched., s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1.</b> In this Act,</p> <p class=\"firstdef-e\">“federal Act” means the <i>Electoral Boundaries Readjustment Act</i> (Canada); (“Loi fédérale”)</p> <p class=\"definition-e\">“federal electoral district” means an electoral district established under the federal Act; (“circonscription électorale fédérale”)</p> <p class=\"definition-e\">“federal readjustment” means any establishment of federal electoral districts under the federal Act that occurs after this Act comes into force. (“révision fédérale”) 1996, c. 28, Sched., s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Provincial electoral districts",
+            "content": "2. (1) For the purpose of representation in the Legislative Assembly, Ontario is divided into electoral districts whose number, names and boundaries are identical to those of its federal electoral districts. One member per district (2) One member shall be returned to the Assembly for each electoral district. 1996, c. 28, Sched., s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> (1) For the purpose of representation in the Legislative Assembly, Ontario is divided into electoral districts whose number, names and boundaries are identical to those of its federal electoral districts.</p> <p class=\"headnote-e\"><b>One member per district</b></p> <p class=\"subsection-e\">(2) One member shall be returned to the Assembly for each electoral district. 1996, c. 28, Sched., s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Effect of federal readjustment",
+            "content": "3. When there is a federal readjustment, new provincial electoral districts are deemed to be established in accordance with subsection 2 (1), in place of the existing provincial electoral districts that are affected, immediately after the first dissolution of the Legislature that follows the first anniversary of the proclamation date of the draft representation order under the federal Act. 1996, c. 28, Sched., s. 3.",
+            "raw_html": "<p class=\"section-e\"><b>3.</b> When there is a federal readjustment, new provincial electoral districts are deemed to be established in accordance with subsection 2 (1), in place of the existing provincial electoral districts that are affected, immediately after the first dissolution of the Legislature that follows the first anniversary of the proclamation date of the draft representation order under the federal Act. 1996, c. 28, Sched., s. 3.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Effect of federal change of name",
+            "content": "4. (1) If only the name of a federal electoral district is changed, the name of the corresponding provincial electoral district undergoes the same change at the same time. Exception (2) However, if the federal change of name takes place after a writ for an election is issued in the corresponding provincial electoral district, the provincial change of name does not take place until the day after polling day. 1996, c. 28, Sched., s. 4.",
+            "raw_html": "<p class=\"section-e\"><b>4.</b> (1) If only the name of a federal electoral district is changed, the name of the corresponding provincial electoral district undergoes the same change at the same time.</p> <p class=\"headnote-e\"><b>Exception</b></p> <p class=\"subsection-e\">(2) However, if the federal change of name takes place after a writ for an election is issued in the corresponding provincial electoral district, the provincial change of name does not take place until the day after polling day. 1996, c. 28, Sched., s. 4.</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Publication of notice",
+            "content": "5. The Chief Election Officer shall publish in The Ontario Gazette notice of federal readjustments and of name changes described in section 4. 1996, c. 28, Sched., s. 5. ______________ Français ",
+            "raw_html": "<p class=\"section-e\"><b>5.</b> The Chief Election Officer shall publish in <i>The Ontario Gazette </i>notice of federal readjustments and of name changes described in section 4. 1996, c. 28, Sched., s. 5.</p> <p class=\"line-e\">______________</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_96r28_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_96r28_f.htm\" target=\"_top\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

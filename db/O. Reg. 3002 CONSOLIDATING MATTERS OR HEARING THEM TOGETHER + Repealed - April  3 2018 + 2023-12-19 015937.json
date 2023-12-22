@@ -1,0 +1,51 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 30/02: CONSOLIDATING MATTERS OR HEARING THEM TOGETHER",
+        "reg_name_text": "CONSOLIDATIng matters OR HEARING them TOGETHER",
+        "citation": "O. Reg. 30/02: CONSOLIDATING MATTERS OR HEARING THEM TOGETHER",
+        "act_under": "Ontario Municipal Board Act   Loi sur la Commission des affaires municipales de l’Ontario",
+        "url": "https://www.ontario.ca/laws/regulation/020030",
+        "date_scraped": "2023-12-19 01:59:37"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/020030/v2",
+            "valid_from": "December 12, 2017",
+            "valid_to": "April  2, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/020030/v1",
+            "valid_from": "January 29, 2002",
+            "valid_to": "December 11, 2017"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Order",
+            "content": " 1. If the Board considers that two or more matters are related to each other by common facts, issues, questions of law or for any other reason, it may, (a) order the matters be consolidated, heard at the same time or heard one immediately after the other; or (b) stay or adjourn any matter until the determination of any other matter.  O. Reg. 30/02, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1.</b><b> </b>If the Board considers that two or more matters are related to each other by common facts, issues, questions of law or for any other reason, it may,</p> <p class=\"clause-e\">  (a) order the matters be consolidated, heard at the same time or heard one immediately after the other; or</p> <p class=\"clause-e\">  (b) stay or adjourn any matter until the determination of any other matter.  O. Reg. 30/02, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Discretion of panel",
+            "content": " 2. An order that proceedings be heard at the same time or one immediately after the other does not affect the discretion of the Board panel at the hearing to order otherwise.  O. Reg. 30/02, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b><b> </b>An order that proceedings be heard at the same time or one immediately after the other does not affect the discretion of the Board panel at the hearing to order otherwise.  O. Reg. 30/02, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Discretion of panel",
+            "content": " 3. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 30/02, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).  O. Reg. 30/02, s. 3.</p>"
+        },
+        {
+            "id": null,
+            "section": "Discretion of panel",
+            "content": "    ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

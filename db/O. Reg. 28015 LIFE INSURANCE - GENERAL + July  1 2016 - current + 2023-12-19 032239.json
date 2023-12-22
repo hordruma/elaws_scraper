@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 280/15: LIFE INSURANCE - GENERAL",
+        "reg_name_text": "LIFE INSURANCE - GENERAL",
+        "citation": "O. Reg. 280/15: ",
+        "act_under": "Insurance Act   Loi sur les assurances ",
+        "url": "https://www.ontario.ca/laws/regulation/150280",
+        "date_scraped": "2023-12-19 03:22:39"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July  1, 2016",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/150280/v1",
+            "valid_from": "September 18, 2015",
+            "valid_to": "June 30, 2016"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Access to group insurance documents: prescribed information",
+            "content": "  1. The following information in a policy of group insurance or a policy of creditor’s group insurance is prescribed for the purposes of clause 174 (8) (b) of the Act: 1. Information in the policy that, if disclosed, would reveal confidential commercial information that a reasonable person would think could harm the competitive position of the insurer or the insured. 2. Information in the policy that, if disclosed, would reveal plan design and benefits information relating to a different class of group life insured or debtor insured than the group life insured or debtor insured to whom or in respect of whom the disclosure is being made.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>The following information in a policy of group insurance or a policy of creditor’s group insurance is prescribed for the purposes of clause 174 (8) (b) of the Act:</p> <p class=\"paragraph-e\">  1. Information in the policy that, if disclosed, would reveal confidential commercial information that a reasonable person would think could harm the competitive position of the insurer or the insured.</p> <p class=\"paragraph-e\">  2. Information in the policy that, if disclosed, would reveal plan design and benefits information relating to a different class of group life insured or debtor insured than the group life insured or debtor insured to whom or in respect of whom the disclosure is being made.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Access to group insurance documents: prescribed information",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation). ",
+            "raw_html": "<p class=\"section-e\"> <b>2<b>.</b></b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>). </p>"
+        },
+        {
+            "id": null,
+            "section": "Access to group insurance documents: prescribed information",
+            "content": "    ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

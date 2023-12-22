@@ -1,0 +1,115 @@
+{
+    "act_info": {
+        "full_title": "Ontario Medical Association Dues Act, 1991, S.O. 1991, c. 51",
+        "act_name_text": "Ontario Medical Association Dues Act, 1991",
+        "citation": "S.O. 1991, c. 51",
+        "url": "https://www.ontario.ca/laws/statute/91o51",
+        "date_scraped": "2023-12-18 03:44:35"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July 24, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/91o51/v3",
+            "valid_from": "May 18, 2023",
+            "valid_to": "July 23, 2023"
+        },
+        {
+            "a_href": "/laws/statute/91o51/v2",
+            "valid_from": "December 15, 2009",
+            "valid_to": "May 17, 2023"
+        },
+        {
+            "a_href": "/laws/statute/91o51/v1",
+            "valid_from": "December 19, 1991",
+            "valid_to": "December 14, 2009"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/230212",
+            "Citation": "O. Reg. 212/23",
+            "title": "PRESCRIBED PERSONS"
+        }
+    ],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "BK0",
+            "section": "Application",
+            "content": "1 (1) This Act applies to, (a) physicians who are legally qualified medical practitioners and who are engaged in the practice of medicine in Ontario or who conduct health research in Ontario; and (b) persons prescribed by the regulations made under this Act who are engaged in the practice of medicine in Ontario. 2023, c. 4, Sched. 2, s. 10 (1). Idem (2) This Act does not apply to interns or residents who are engaged in the practice of medicine in Ontario or who conduct health research in Ontario only as employees of a public hospital under the Public Hospitals Act.  1991, c. 51, s. 1 (2). Section Amendments with date in force (d/m/y) 2023, c. 4, Sched. 2, s. 10 (1) - 24/07/2023",
+            "raw_html": "<p class=\"section\"><a name=\"BK0\"></a><b>1 </b>(1) This Act applies to,</p> <p class=\"paragraph\">  (a) physicians who are legally qualified medical practitioners and who are engaged in the practice of medicine in Ontario or who conduct health research in Ontario; and</p> <p class=\"paragraph\">  (b) persons prescribed by the regulations made under this Act who are engaged in the practice of medicine in Ontario. 2023, c. 4, Sched. 2, s. 10 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) This Act does not apply to interns or residents who are engaged in the practice of medicine in Ontario or who conduct health research in Ontario only as employees of a public hospital under the <i>Public Hospitals Act</i>.  1991, c. 51, s. 1 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23004#sched2s10s1\">2023, c. 4, Sched. 2, s. 10 (1)</a></span> - 24/07/2023</p>"
+        },
+        {
+            "id": "BK1",
+            "section": "Member dues",
+            "content": "2 Every physician who is a member of the Ontario Medical Association shall pay the Association’s dues and assessments.  1991, c. 51, s. 2.",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>2 </b>Every physician who is a member of the Ontario Medical Association shall pay the Association’s dues and assessments.  1991, c. 51, s. 2.</p>"
+        },
+        {
+            "id": "BK2",
+            "section": "Non-member payments",
+            "content": "3 (1) Every physician who is not a member of the Ontario Medical Association shall pay the Association amounts equal to the dues and assessments that the Association would charge if the physician were a member.  1991, c. 51, s. 3 (1). Idem (2) The amounts required under subsection (1) include any amount for membership fees for the Canadian Medical Association but do not include amounts for insurance, pensions or other benefits that are available only to members of the Ontario Medical Association.  1991, c. 51, s. 3 (2). When due (3) The amounts required under subsection (1) are due at the same time as the dues and assessments to which they are equal would be due.  1991, c. 51, s. 3 (3). Physician not made member (4) The payment by a physician of amounts required under subsection (1) does not make the physician a member of the Ontario Medical Association or the Canadian Medical Association.  1991, c. 51, s. 3 (4).",
+            "raw_html": "<p class=\"section\"><a name=\"BK2\"></a><b>3 </b>(1) Every physician who is not a member of the Ontario Medical Association shall pay the Association amounts equal to the dues and assessments that the Association would charge if the physician were a member.  1991, c. 51, s. 3 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) The amounts required under subsection (1) include any amount for membership fees for the Canadian Medical Association but do not include amounts for insurance, pensions or other benefits that are available only to members of the Ontario Medical Association.  1991, c. 51, s. 3 (2).</p> <p class=\"headnote\">When due</p> <p class=\"subsection\">(3) The amounts required under subsection (1) are due at the same time as the dues and assessments to which they are equal would be due.  1991, c. 51, s. 3 (3).</p> <p class=\"headnote\">Physician not made member</p> <p class=\"subsection\">(4) The payment by a physician of amounts required under subsection (1) does not make the physician a member of the Ontario Medical Association or the Canadian Medical Association.  1991, c. 51, s. 3 (4).</p>"
+        },
+        {
+            "id": "BK3",
+            "section": "Waiver of dues, etc.",
+            "content": "4 The board of directors of the Ontario Medical Association may waive any amount a physician is required to pay under this Act if the payment would result in undue financial hardship to the physician.  1991, c. 51, s. 4.",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>4 </b>The board of directors of the Ontario Medical Association may waive any amount a physician is required to pay under this Act if the payment would result in undue financial hardship to the physician.  1991, c. 51, s. 4.</p>"
+        },
+        {
+            "id": "BK4",
+            "section": "O.H.I.P. deduction of dues",
+            "content": "5 (1) If a physician’s accounts are submitted to the Ontario Health Insurance Plan under section 15 of the Health Insurance Act, the general manager of the Plan shall deduct from the amounts payable for the accounts any amount that the physician is required to pay under this Act and shall, on the physician’s behalf, pay the deducted amount forthwith to the Ontario Medical Association.  1991, c. 51, s. 5 (1). Alternate arrangements (2) The general manager is not required to deduct or pay any amount if the general manager has notice from the Ontario Medical Association that the amount has already been paid or that other payment arrangements have been made.  1991, c. 51, s. 5 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK4\"></a><b>5 </b>(1) If a physician’s accounts are submitted to the Ontario Health Insurance Plan under section 15 of the <i>Health Insurance Act</i>, the general manager of the Plan shall deduct from the amounts payable for the accounts any amount that the physician is required to pay under this Act and shall, on the physician’s behalf, pay the deducted amount forthwith to the Ontario Medical Association.  1991, c. 51, s. 5 (1).</p> <p class=\"headnote\">Alternate arrangements</p> <p class=\"subsection\">(2) The general manager is not required to deduct or pay any amount if the general manager has notice from the Ontario Medical Association that the amount has already been paid or that other payment arrangements have been made.  1991, c. 51, s. 5 (2).</p>"
+        },
+        {
+            "id": "BK5",
+            "section": "O.M.A. negotiated agreements",
+            "content": "6 (1) This section applies to any agreement relating to the compensation of physicians made after this section comes into force between the Ontario Medical Association or its designate and the Province of Ontario or an organization, corporation or institution that is funded, in whole or in part, directly or indirectly, by the Province.  1991, c. 51, s. 6 (1). Deduction of dues (2) An agreement described in subsection (1) shall be deemed to provide that the Province, organization, corporation or institution is required to deduct from the compensation owed to the physicians covered by the agreement any amounts that the physicians are required to pay under this Act and, on the physicians’ behalf, pay the deducted amounts forthwith to the Ontario Medical Association.  1991, c. 51, s. 6 (2). Alternate arrangements (3) The agreement shall also be deemed to provide that the Province, organization, corporation or institution is not required to deduct or pay any amount if the Province, organization, corporation or institution has notice from the Ontario Medical Association that the amount has already been paid or that other payment arrangements have been made.  1991, c. 51, s. 6 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>6 </b>(1) This section applies to any agreement relating to the compensation of physicians made after this section comes into force between the Ontario Medical Association or its designate and the Province of Ontario or an organization, corporation or institution that is funded, in whole or in part, directly or indirectly, by the Province.  1991, c. 51, s. 6 (1).</p> <p class=\"headnote\">Deduction of dues</p> <p class=\"subsection\">(2) An agreement described in subsection (1) shall be deemed to provide that the Province, organization, corporation or institution is required to deduct from the compensation owed to the physicians covered by the agreement any amounts that the physicians are required to pay under this Act and, on the physicians’ behalf, pay the deducted amounts forthwith to the Ontario Medical Association.  1991, c. 51, s. 6 (2).</p> <p class=\"headnote\">Alternate arrangements</p> <p class=\"subsection\">(3) The agreement shall also be deemed to provide that the Province, organization, corporation or institution is not required to deduct or pay any amount if the Province, organization, corporation or institution has notice from the Ontario Medical Association that the amount has already been paid or that other payment arrangements have been made.  1991, c. 51, s. 6 (3).</p>"
+        },
+        {
+            "id": "BK6",
+            "section": "Overpayment of dues",
+            "content": "7 The Ontario Medical Association shall pay a physician any overpayment that was made by the physician or on his or her behalf under this Act.  1991, c. 51, s. 7.",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>7 </b>The Ontario Medical Association shall pay a physician any overpayment that was made by the physician or on his or her behalf under this Act.  1991, c. 51, s. 7.</p>"
+        },
+        {
+            "id": "BK7",
+            "section": "Amounts are debts",
+            "content": "8 An amount that is required to be paid under section 2, 3 or 7 is a debt that may be recovered in a civil proceeding. \r\n1991, c. 51, s. 8.",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>8 </b>An amount that is required to be paid under section 2, 3 or 7 is a debt that may be recovered in a civil proceeding. \r\n<a name=\"OLE_LINK1\">1991, c. 51, s. </a>8.</p>"
+        },
+        {
+            "id": "9",
+            "section": "Regulations",
+            "content": "9 The Lieutenant Governor in Council may make regulations respecting any matter that this Act describes as being prescribed or provided for in the regulations. 2023, c. 4, Sched. 2, s. 10 (2). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 18, s. 22 - 15/12/2009 2023, c. 4, Sched. 2, s. 10 (2) - 24/07/2023 10 Omitted (provides for coming into force of provisions of this Act).  1991, c. 51, s. 10. 11 Omitted (enacts short title of this Act).  1991, c. 51, s. 11. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>9 </b>The Lieutenant Governor in Council may make regulations respecting any matter that this Act describes as being prescribed or provided for in the regulations. 2023, c. 4, Sched. 2, s. 10 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched18s22\">2009, c. 33, Sched. 18, s. 22</a></span> - 15/12/2009</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23004#sched2s10s2\">2023, c. 4, Sched. 2, s. 10 (2)</a></span> - 24/07/2023</p> <p class=\"section\"><b>10 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 51, s. 10.</p> <p class=\"section\"><b>11 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 51, s. 11.</p> <p class=\"line\">______________</p> <p class=\"line\"><u><span> </span></u></p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91o51\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "10",
+            "section": "Regulations",
+            "content": "10 Omitted (provides for coming into force of provisions of this Act).  1991, c. 51, s. 10. 11 Omitted (enacts short title of this Act).  1991, c. 51, s. 11. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>10 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 51, s. 10.</p> <p class=\"section\"><b>11 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 51, s. 11.</p> <p class=\"line\">______________</p> <p class=\"line\"><u><span> </span></u></p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91o51\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "11",
+            "section": "Regulations",
+            "content": "11 Omitted (enacts short title of this Act).  1991, c. 51, s. 11. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>11 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 51, s. 11.</p> <p class=\"line\">______________</p> <p class=\"line\"><u><span> </span></u></p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91o51\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

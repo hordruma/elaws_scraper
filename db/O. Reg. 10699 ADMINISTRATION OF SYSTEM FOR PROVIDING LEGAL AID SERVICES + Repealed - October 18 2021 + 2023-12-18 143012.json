@@ -1,0 +1,741 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 106/99: ADMINISTRATION OF SYSTEM FOR PROVIDING LEGAL AID SERVICES",
+        "reg_name_text": "ADMINISTRATION OF SYSTEM FOR PROVIDING LEGAL AID SERVICES",
+        "citation": "O. Reg. 106/99: ",
+        "act_under": "Legal Aid Services Act, 1998",
+        "url": "https://www.ontario.ca/laws/regulation/990106",
+        "date_scraped": "2023-12-18 14:30:16"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/990106/v3",
+            "valid_from": "July  8, 2020",
+            "valid_to": "October 17, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/990106/v2",
+            "valid_from": "June 25, 2004",
+            "valid_to": "July  7, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/990106/v1",
+            "valid_from": "May 19, 1999",
+            "valid_to": "June 24, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation",
+            "Section2": "1-5",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Applications",
+            "Section2": "6-7",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Certificates",
+            "Section2": "8-16",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Appeals under Subsections 30 (1) and (2) of Act",
+            "Section2": "17-18",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Recovery of Costs for Legal Aid Services",
+            "Section2": "19-23",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Functions of Duty Counsel",
+            "Section2": "24-25",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Student Legal Aid Services Societies",
+            "Section2": "26",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Panels",
+            "Section2": "27-37",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Accounts",
+            "Section2": "38-48",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Service and Delivery of Documents",
+            "Section2": "49",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Transition",
+            "Section2": "50-52",
+            "part_id": null,
+            "part_type": null,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. (1) In this Regulation, “board” means the Corporation’s board of directors; (“conseil”) “legal accounts officer” means the Corporation employee with that title; (“liquidateur des comptes juridiques”) “president” means the president of the Corporation; (“président”) “regulations” means this Regulation and Ontario Regulation 107/99. (“règlements”)  O. Reg. 106/99, s. 1 (1). (2) In this Regulation, a reference to a panel includes a subpanel established in accordance with subsection 23 (2) of the Act.  O. Reg. 106/99, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) In this Regulation,</p> <p class=\"firstdef-e\">“board” means the Corporation’s board of directors; (“conseil”)</p> <p class=\"definition-e\">“legal accounts officer” means the Corporation employee with that title; (“liquidateur des comptes juridiques”)</p> <p class=\"definition-e\">“president” means the president of the Corporation; (“président”)</p> <p class=\"definition-e\">“regulations” means this Regulation and Ontario Regulation 107/99. (“règlements”)  O. Reg. 106/99, s. 1 (1).</p> <p class=\"subsection-e\">  (2) In this Regulation, a reference to a panel includes a subpanel established in accordance with subsection 23 (2) of the Act.  O. Reg. 106/99, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. This Regulation, except sections 6, 7, 24 and 25, does not apply in respect of legal aid services provided by clinics or by clinic law duty counsel.  O. Reg. 106/99, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>This Regulation, except sections 6, 7, 24 and 25, does not apply in respect of legal aid services provided by clinics or by clinic law duty counsel.  O. Reg. 106/99, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. A power or duty that this Regulation confers on an area director may also be exercised or performed by a member of the area director’s staff.  O. Reg. 106/99, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>A power or duty that this Regulation confers on an area director may also be exercised or performed by a member of the area director’s staff.  O. Reg. 106/99, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. A power or duty that this Regulation confers on the legal accounts officer may also be exercised or performed by a member of the legal accounts officer’s staff.  O. Reg. 106/99, s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>A power or duty that this Regulation confers on the legal accounts officer may also be exercised or performed by a member of the legal accounts officer’s staff.  O. Reg. 106/99, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. A power or duty that this Regulation confers on the president may also be exercised or performed by an employee of the Corporation whom the president designates for the purpose.  O. Reg. 106/99, s. 5. Applications",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>A power or duty that this Regulation confers on the president may also be exercised or performed by an employee of the Corporation whom the president designates for the purpose.  O. Reg. 106/99, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK1\"></a>Applications</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. (1) An application for a certificate shall be made in accordance with section 24 of the Act and dealt with in accordance with, (a) sections 25 to 29 of the Act; and (b) the policies and priorities established by the Corporation under section 12 of the Act.  O. Reg. 106/99, s. 6 (1). (2) The following procedures are prescribed for applications for certificates by individuals who are not ordinarily resident in Ontario: 1. The area director who receives an application under subsection 24 (2) of the Act shall make appropriate inquiries, prepare a report on the inquiries and forward the application and report to the president. 2. The president shall consider the application and report, in accordance with the policies and priorities established by the Corporation under section 12 of the Act, and may, in his or her discretion, direct the area director to issue a certificate. 3. The president may attach such terms and conditions as he or she considers appropriate upon the issuance of a certificate. 4. The president may at any time amend or cancel a certificate issued under this subsection. 5. If the president decides not to direct the area director to issue a certificate, the president shall send the applicant a notice of the decision. 6. A decision made by the president under this subsection is final.  O. Reg. 106/99, s. 6 (2). (3) An application for legal aid services to be provided by duty counsel shall be made to the duty counsel, or to another person designated by the board, and assessed in accordance with, (a) the financial eligibility requirements prescribed by Ontario Regulation 107/99; and (b) the policies and priorities established by the Corporation under section 12 of the Act.  O. Reg. 106/99, s. 6 (3). (4) An application for legal aid services to be provided by a clinic shall be made to the clinic, or to a person designated by the board, and assessed in accordance with, (a) the financial eligibility requirements prescribed by Ontario Regulation 107/99; (b) the policies and priorities established by the Corporation under section 12 of the Act; (c) any terms and conditions imposed on the clinic’s funding under subsection 34 (5) of the Act; and (d) the clinic’s case selection criteria.  O. Reg. 106/99, s. 6 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) An application for a certificate shall be made in accordance with section 24 of the Act and dealt with in accordance with,</p> <p class=\"clause-e\">  (a) sections 25 to 29 of the Act; and</p> <p class=\"clause-e\">  (b) the policies and priorities established by the Corporation under section 12 of the Act.  O. Reg. 106/99, s. 6 (1).</p> <p class=\"subsection-e\">  (2) The following procedures are prescribed for applications for certificates by individuals who are not ordinarily resident in Ontario:</p> <p class=\"paragraph-e\">  1. The area director who receives an application under subsection 24 (2) of the Act shall make appropriate inquiries, prepare a report on the inquiries and forward the application and report to the president.</p> <p class=\"paragraph-e\">  2. The president shall consider the application and report, in accordance with the policies and priorities established by the Corporation under section 12 of the Act, and may, in his or her discretion, direct the area director to issue a certificate.</p> <p class=\"paragraph-e\">  3. The president may attach such terms and conditions as he or she considers appropriate upon the issuance of a certificate.</p> <p class=\"paragraph-e\">  4. The president may at any time amend or cancel a certificate issued under this subsection.</p> <p class=\"paragraph-e\">  5. If the president decides not to direct the area director to issue a certificate, the president shall send the applicant a notice of the decision.</p> <p class=\"paragraph-e\">  6. A decision made by the president under this subsection is final.  O. Reg. 106/99, s. 6 (2).</p> <p class=\"subsection-e\">  (3) An application for legal aid services to be provided by duty counsel shall be made to the duty counsel, or to another person designated by the board, and assessed in accordance with,</p> <p class=\"clause-e\">  (a) the financial eligibility requirements prescribed by Ontario Regulation 107/99; and</p> <p class=\"clause-e\">  (b) the policies and priorities established by the Corporation under section 12 of the Act.  O. Reg. 106/99, s. 6 (3).</p> <p class=\"subsection-e\">  (4) An application for legal aid services to be provided by a clinic shall be made to the clinic, or to a person designated by the board, and assessed in accordance with,</p> <p class=\"clause-e\">  (a) the financial eligibility requirements prescribed by Ontario Regulation 107/99;</p> <p class=\"clause-e\">  (b) the policies and priorities established by the Corporation under section 12 of the Act;</p> <p class=\"clause-e\">  (c) any terms and conditions imposed on the clinic’s funding under subsection 34 (5) of the Act; and</p> <p class=\"clause-e\">  (d) the clinic’s case selection criteria.  O. Reg. 106/99, s. 6 (4).</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) An application for legal aid services for a minor may be made, (a) by the minor; or (b) by a parent or guardian on the minor’s behalf.  O. Reg. 106/99, s. 7 (1). (2) An application for legal aid services for a mentally incapable person may be made on his or her behalf, (a) by the person’s guardian of property or guardian of the person; (b) if there is no guardian, by the person’s attorney under a continuing power of attorney or a power of attorney for personal care; (c) if there is no attorney, by a friend or relative; or (d) if there is no friend or relative, by the Public Guardian and Trustee.  O. Reg. 106/99, s. 7 (2). (3) Despite subsection (2), an application for legal aid services to be provided in connection with an application under the Substitute Decisions Act, 1992, the Mental Health Act or the Health Care Consent Act, 1996 may be made, (a) by the person; or (b) by a friend or relative on the person’s behalf.  O. Reg. 106/99, s. 7 (3). (4) An application for legal aid services for a person who is unable by reason of physical disability to make the application in person may be made by a friend or relative on his or her behalf.  O. Reg. 106/99, s. 7 (4). Certificates",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>(1) An application for legal aid services for a minor may be made,</p> <p class=\"clause-e\">  (a) by the minor; or</p> <p class=\"clause-e\">  (b) by a parent or guardian on the minor’s behalf.  O. Reg. 106/99, s. 7 (1).</p> <p class=\"subsection-e\">  (2) An application for legal aid services for a mentally incapable person may be made on his or her behalf,</p> <p class=\"clause-e\">  (a) by the person’s guardian of property or guardian of the person;</p> <p class=\"clause-e\">  (b) if there is no guardian, by the person’s attorney under a continuing power of attorney or a power of attorney for personal care;</p> <p class=\"clause-e\">  (c) if there is no attorney, by a friend or relative; or</p> <p class=\"clause-e\">  (d) if there is no friend or relative, by the Public Guardian and Trustee.  O. Reg. 106/99, s. 7 (2).</p> <p class=\"subsection-e\">  (3) Despite subsection (2), an application for legal aid services to be provided in connection with an application under the <i>Substitute Decisions Act, 1992</i>, the<i> Mental Health Act </i>or the <i>Health Care Consent Act, 1996 </i>may be made,</p> <p class=\"clause-e\">  (a) by the person; or</p> <p class=\"clause-e\">  (b) by a friend or relative on the person’s behalf.  O. Reg. 106/99, s. 7 (3).</p> <p class=\"subsection-e\">  (4) An application for legal aid services for a person who is unable by reason of physical disability to make the application in person may be made by a friend or relative on his or her behalf.  O. Reg. 106/99, s. 7 (4).</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Certificates</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. A certificate shall, (a) specify the date of its issue and its effective date; (b) set out the nature and extent of the services to be provided to the applicant, including the type of panel to which the certificate applies; (c) state whether the applicant or the person responsible for the applicant is required to contribute under Part IV of the Act; and (d) set out any terms and conditions imposed by the area director under subsection 29 (1) of the Act.  O. Reg. 106/99, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>A certificate shall,</p> <p class=\"clause-e\">  (a) specify the date of its issue and its effective date;</p> <p class=\"clause-e\">  (b) set out the nature and extent of the services to be provided to the applicant, including the type of panel to which the certificate applies;</p> <p class=\"clause-e\">  (c) state whether the applicant or the person responsible for the applicant is required to contribute under Part IV of the Act; and</p> <p class=\"clause-e\">  (d) set out any terms and conditions imposed by the area director under subsection 29 (1) of the Act.  O. Reg. 106/99, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) The area director shall send the certificate to the applicant or to a member of the appropriate panel.  O. Reg. 106/99, s. 9 (1). (2) A lawyer who receives a certificate shall, (a) if able and willing to act, promptly complete and sign the acceptance and undertaking on the certificate and return a copy to the area director; or (b) if unable or unwilling to act for any reason, promptly return the certificate to the applicant or to the area director, as the circumstances require.  O. Reg. 106/99, s. 9 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) The area director shall send the certificate to the applicant or to a member of the appropriate panel.  O. Reg. 106/99, s. 9 (1).</p> <p class=\"subsection-e\">  (2) A lawyer who receives a certificate shall,</p> <p class=\"clause-e\">  (a) if able and willing to act, promptly complete and sign the acceptance and undertaking on the certificate and return a copy to the area director; or </p> <p class=\"clause-e\">  (b) if unable or unwilling to act for any reason, promptly return the certificate to the applicant or to the area director, as the circumstances require.  O. Reg. 106/99, s. 9 (2).</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. (1) If a certificate is issued but no lawyer complies with clause 9 (2) (a) within the 90-day period following its date of issue, (a) the certificate is deemed to expire at the end of that period; and (b) the Corporation shall promptly send to the applicant, at the last address shown in the area director’s records, a notice that the certificate has expired.  O. Reg. 106/99, s. 10 (1). (2) On the application of a lawyer who has received a certificate within the 90-day period following its date of issue but failed to comply with clause 9 (2) (a) within that period, the area director may reactivate the expired certificate retroactive to a date that is not earlier than its original effective date.  O. Reg. 106/99, s. 10 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>(1) If a certificate is issued but no lawyer complies with clause 9 (2) (a) within the 90-day period following its date of issue,</p> <p class=\"clause-e\">  (a) the certificate is deemed to expire at the end of that period; and</p> <p class=\"clause-e\">  (b) the Corporation shall promptly send to the applicant, at the last address shown in the area director’s records, a notice that the certificate has expired.  O. Reg. 106/99, s. 10 (1).</p> <p class=\"subsection-e\">  (2) On the application of a lawyer who has received a certificate within the 90-day period following its date of issue but failed to comply with clause 9 (2) (a) within that period, the area director may reactivate the expired certificate retroactive to a date that is not earlier than its original effective date.  O. Reg. 106/99, s. 10 (2).</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. If no certificate is issued, the area director shall promptly send the applicant a notice of the refusal, (a) with the area committee’s reasons for refusal, if section 28 of the Act applies; (b) with the area director’s reasons, in any other case.  O. Reg. 106/99, s. 11.",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>If no certificate is issued, the area director shall promptly send the applicant a notice of the refusal,</p> <p class=\"clause-e\">  (a) with the area committee’s reasons for refusal, if section 28 of the Act applies;</p> <p class=\"clause-e\">  (b) with the area director’s reasons, in any other case.  O. Reg. 106/99, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  12. An area director may issue a certificate with retroactive effect to a person to whom a lawyer has already provided legal or other services, if the area director is satisfied that, (a) the services were provided in an emergency situation, and notice that they were provided is given to the area director within a reasonable time; (b) the applicant would have qualified for legal aid services at the time the services were provided; (c) no previous application for the same services has been refused; and (d) the lawyer has not accepted a private retainer for the services.  O. Reg. 106/99, s. 12.",
+            "raw_html": "<p class=\"section-e\"><b>  12. </b>An area director may issue a certificate with retroactive effect to a person to whom a lawyer has already provided legal or other services, if the area director is satisfied that,</p> <p class=\"clause-e\">  (a) the services were provided in an emergency situation, and notice that they were provided is given to the area director within a reasonable time;</p> <p class=\"clause-e\">  (b) the applicant would have qualified for legal aid services at the time the services were provided;</p> <p class=\"clause-e\">  (c) no previous application for the same services has been refused; and </p> <p class=\"clause-e\">  (d) the lawyer has not accepted a private retainer for the services.  O. Reg. 106/99, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. (1) The services authorized by a certificate are deemed to be complete when the earliest of the following events takes place: 1. The area director cancels the certificate. 2. The claim, proceeding or charge is fully disposed of by judgment or settlement. 3. The lawyer is unable to obtain the applicant’s instructions to proceed. 4. Three years, or the longer period the area director specifies under subsection (2), have passed since the certificate was issued. 5. The lawyer is removed from the record.  O. Reg. 106/99, s. 13 (1). (2) On the application of the lawyer, the area director may specify a longer period than three years for the purpose of paragraph 4 of subsection (1).  O. Reg. 106/99, s. 13 (2). (3) When a lawyer ceases to act for an applicant or the services authorized by the certificate are deemed to be complete as provided in subsection (1), the lawyer shall promptly, (a) report the fact to the area director, and provide any related information that the area director requires; (b) submit a final account in accordance with section 40; and (c) subject to subsection (4), send to the applicant, or to another person as the applicant directs, (i) a copy of the report required by clause (a), and (ii) in return for a receipt, all documents and other property of the applicant that are in the lawyer’s possession.  O. Reg. 106/99, s. 13 (3). (4) The area director may direct the lawyer not to provide the materials if, in the area director’s opinion, doing so could cause the applicant prejudice or embarrassment.  O. Reg. 106/99, s. 13 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>(1) The services authorized by a certificate are deemed to be complete when the earliest of the following events takes place:</p> <p class=\"paragraph-e\">  1. The area director cancels the certificate.</p> <p class=\"paragraph-e\">  2. The claim, proceeding or charge is fully disposed of by judgment or settlement.</p> <p class=\"paragraph-e\">  3. The lawyer is unable to obtain the applicant’s instructions to proceed.</p> <p class=\"paragraph-e\">  4. Three years, or the longer period the area director specifies under subsection (2), have passed since the certificate was issued.</p> <p class=\"paragraph-e\">  5. The lawyer is removed from the record.  O. Reg. 106/99, s. 13 (1).</p> <p class=\"subsection-e\">  (2) On the application of the lawyer, the area director may specify a longer period than three years for the purpose of paragraph 4 of subsection (1).  O. Reg. 106/99, s. 13 (2).</p> <p class=\"subsection-e\">  (3) When a lawyer ceases to act for an applicant or the services authorized by the certificate are deemed to be complete as provided in subsection (1), the lawyer shall promptly,</p> <p class=\"clause-e\">  (a) report the fact to the area director, and provide any related information that the area director requires;</p> <p class=\"clause-e\">  (b) submit a final account in accordance with section 40; and </p> <p class=\"clause-e\">  (c) subject to subsection (4), send to the applicant, or to another person as the applicant directs,</p> <p class=\"subclause-e\">  (i) a copy of the report required by clause (a), and</p> <p class=\"subclause-e\">  (ii) in return for a receipt, all documents and other property of the applicant that are in the lawyer’s possession.  O. Reg. 106/99, s. 13 (3).</p> <p class=\"subsection-e\">  (4) The area director may direct the lawyer not to provide the materials if, in the area director’s opinion, doing so could cause the applicant prejudice or embarrassment.  O. Reg. 106/99, s. 13 (4).</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. (1) An area director who proposes to cancel a certificate under subsection 29 (2) of the Act shall send the applicant and the applicant’s lawyer a notice of intention to cancel.  O. Reg. 106/99, s. 14 (1). (1.1) After the notice has been delivered to the lawyer, no further services shall be provided under the certificate, except as the area director specifically authorizes in writing.  O. Reg. 181/04, s. 1 (1). (2) The notice shall, (a) state the reasons for the proposed cancellation; and (b) specify a date, not less than 7 days after the notice is delivered, by which the applicant or lawyer may show cause why the certificate should not be cancelled.  O. Reg. 106/99, s. 14 (2). (3) If the applicant or lawyer shows cause why the certificate should not be cancelled, the area director shall promptly reconsider the matter and make a decision.  O. Reg. 106/99, s. 14 (3). (4) If the applicant or lawyer does not show cause, or if the area director reconsiders the matter under subsection (3) and decides to proceed with the cancellation, the area director shall send the applicant and the applicant’s lawyer a notice of cancellation.  O. Reg. 106/99, s. 14 (4). (5) The notice of cancellation shall, (a) state the reasons for the cancellation; (b) specify that the cancellation becomes effective immediately; and (c) contain a statement of the right to appeal under subsection (7).  O. Reg. 106/99, s. 14 (5); O. Reg. 181/04, s. 1 (2). (6) Revoked:  O. Reg. 181/04, s. 1 (3). (7) The applicant may appeal the cancellation to the area committee by serving a notice of appeal on the area director within 7 days after the notice of cancellation is delivered.  O. Reg. 106/99, s. 14 (7). (8) When a notice of appeal is served, the area committee shall hear the matter and may, (a) direct that the matter be adjourned pending the submission of any further material it considers relevant to the decision; (b) direct that the matter be referred to the area director to be reconsidered and decided in light of new or further evidence, (i) that has been submitted to the area committee, or (ii) that the area committee directs the area director to ascertain; (c) confirm the area director’s cancellation of the certificate; or (d) reverse the area director’s decision and direct that the certificate be reinstated, subject to any terms and conditions that the area committee considers appropriate and that the area director could have imposed.  O. Reg. 106/99, s. 14 (8). (9) Subsection (6) ceases to apply if the certificate is reinstated.  O. Reg. 106/99, s. 14 (9).",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b>(1) An area director who proposes to cancel a certificate under subsection 29 (2) of the Act shall send the applicant and the applicant’s lawyer a notice of intention to cancel.  O. Reg. 106/99, s. 14 (1).</p> <p class=\"subsection-e\">  (1.1) After the notice has been delivered to the lawyer, no further services shall be provided under the certificate, except as the area director specifically authorizes in writing.  O. Reg. 181/04, s. 1 (1).</p> <p class=\"subsection-e\">  (2) The notice shall,</p> <p class=\"clause-e\">  (a) state the reasons for the proposed cancellation; and</p> <p class=\"clause-e\">  (b) specify a date, not less than 7 days after the notice is delivered, by which the applicant or lawyer may show cause why the certificate should not be cancelled.  O. Reg. 106/99, s. 14 (2).</p> <p class=\"subsection-e\">  (3) If the applicant or lawyer shows cause why the certificate should not be cancelled, the area director shall promptly reconsider the matter and make a decision.  O. Reg. 106/99, s. 14 (3).</p> <p class=\"subsection-e\">  (4) If the applicant or lawyer does not show cause, or if the area director reconsiders the matter under subsection (3) and decides to proceed with the cancellation, the area director shall send the applicant and the applicant’s lawyer a notice of cancellation.  O. Reg. 106/99, s. 14 (4).</p> <p class=\"subsection-e\">  (5) The notice of cancellation shall,</p> <p class=\"clause-e\">  (a) state the reasons for the cancellation;</p> <p class=\"clause-e\">  (b) specify that the cancellation becomes effective immediately; and</p> <p class=\"clause-e\">  (c) contain a statement of the right to appeal under subsection (7).  O. Reg. 106/99, s. 14 (5); O. Reg. 181/04, s. 1 (2).</p> <p class=\"subsection-e\">  (6) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 181/04, s. 1 (3).</p> <p class=\"subsection-e\">  (7) The applicant may appeal the cancellation to the area committee by serving a notice of appeal on the area director within 7 days after the notice of cancellation is delivered.  O. Reg. 106/99, s. 14 (7).</p> <p class=\"subsection-e\">  (8) When a notice of appeal is served, the area committee shall hear the matter and may,</p> <p class=\"clause-e\">  (a) direct that the matter be adjourned pending the submission of any further material it considers relevant to the decision;</p> <p class=\"clause-e\">  (b) direct that the matter be referred to the area director to be reconsidered and decided in light of new or further evidence,</p> <p class=\"subclause-e\">  (i) that has been submitted to the area committee, or</p> <p class=\"subclause-e\">  (ii) that the area committee directs the area director to ascertain;</p> <p class=\"clause-e\">  (c) confirm the area director’s cancellation of the certificate; or</p> <p class=\"clause-e\">  (d) reverse the area director’s decision and direct that the certificate be reinstated, subject to any terms and conditions that the area committee considers appropriate and that the area director could have imposed.  O. Reg. 106/99, s. 14 (8).</p> <p class=\"subsection-e\">  (9) Subsection (6) ceases to apply if the certificate is reinstated.  O. Reg. 106/99, s. 14 (9).</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. If the applicant requests that the certificate be cancelled,  (a) section 14 does not apply, but the area director shall send the applicant and the applicant’s lawyer a notice of the cancellation; and (b) the area director may make the cancellation retroactive to a date no earlier than the date the certificate was issued.  O. Reg. 106/99, s. 15.",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>If the applicant requests that the certificate be cancelled, </p> <p class=\"clause-e\">  (a) section 14 does not apply, but the area director shall send the applicant and the applicant’s lawyer a notice of the cancellation; and</p> <p class=\"clause-e\">  (b) the area director may make the cancellation retroactive to a date no earlier than the date the certificate was issued.  O. Reg. 106/99, s. 15.</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. The area director may reinstate a certificate within 90 days after cancellation if, (a) he or she is satisfied that the reasons for the cancellation are no longer applicable; or (b) the applicant or the lawyer has satisfied any requirements for a certificate that were previously unsatisfied.  O. Reg. 106/99, s. 16. Appeals under Subsections 30 (1) and (2) of Act",
+            "raw_html": "<p class=\"section-e\"> <b>16. </b>The area director may reinstate a certificate within 90 days after cancellation if,</p> <p class=\"clause-e\">  (a) he or she is satisfied that the reasons for the cancellation are no longer applicable; or</p> <p class=\"clause-e\">  (b) the applicant or the lawyer has satisfied any requirements for a certificate that were previously unsatisfied.  O. Reg. 106/99, s. 16.</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Appeals under Subsections 30 (1) and (2) of Act</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. (1) An appeal to the area committee under subsection 30 (1) of the Act shall be commenced by serving on the area director, within seven days after the decision appealed from is delivered, a notice of appeal identifying that decision and stating the grounds of appeal.  O. Reg. 106/99, s. 17 (1). (2) The area committee may, (a) direct that the appeal be adjourned pending the submission of any further material it considers relevant to the decision; (b) direct that the matter be referred to the area director to be reconsidered and decided in light of new or further evidence, (i) that has been submitted to the area committee, or (ii) that the area committee directs the area director to ascertain; (c) allow the appeal in whole or in part and direct the issue or continuation of a certificate for the purpose applied for, or for another purpose that the area committee considers appropriate, subject to any terms and conditions that it considers appropriate and that the area director could have imposed; or (d) dismiss the appeal.  O. Reg. 106/99, s. 17 (2). (3) The applicant has the same right of appeal from a decision of the area director made under a direction mentioned in clause (2) (b) as from the area director’s original decision.  O. Reg. 106/99, s. 17 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b>(1) An appeal to the area committee under subsection 30 (1) of the Act shall be commenced by serving on the area director, within seven days after the decision appealed from is delivered, a notice of appeal identifying that decision and stating the grounds of appeal.  O. Reg. 106/99, s. 17 (1).</p> <p class=\"subsection-e\">  (2) The area committee may,</p> <p class=\"clause-e\">  (a) direct that the appeal be adjourned pending the submission of any further material it considers relevant to the decision;</p> <p class=\"clause-e\">  (b) direct that the matter be referred to the area director to be reconsidered and decided in light of new or further evidence,</p> <p class=\"subclause-e\">  (i) that has been submitted to the area committee, or</p> <p class=\"subclause-e\">  (ii) that the area committee directs the area director to ascertain;</p> <p class=\"clause-e\">  (c) allow the appeal in whole or in part and direct the issue or continuation of a certificate for the purpose applied for, or for another purpose that the area committee considers appropriate, subject to any terms and conditions that it considers appropriate and that the area director could have imposed; or</p> <p class=\"clause-e\">  (d) dismiss the appeal.  O. Reg. 106/99, s. 17 (2).</p> <p class=\"subsection-e\">  (3) The applicant has the same right of appeal from a decision of the area director made under a direction mentioned in clause (2) (b) as from the area director’s original decision.  O. Reg. 106/99, s. 17 (3).</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. (1) An appeal under subsection 30 (2) of the Act shall be commenced by serving on the person designated under that subsection, within seven days after the notice of the decision appealed from is delivered, a notice of appeal identifying that decision and stating the grounds of appeal.  O. Reg. 106/99, s. 18 (1). (2) The designated person may, (a) direct that the appeal be adjourned pending the submission of any further material he or she considers relevant to the decision; (b) direct that the matter be referred to the area director or to the area committee to be reconsidered and decided in light of new or further evidence, (i) that has been submitted to the designated person, or (ii) that he or she directs the area director to ascertain; (c) allow the appeal in whole or in part and direct the issue or continuation of a certificate for the purpose applied for, or for another purpose that the designated person considers appropriate, subject to any terms and conditions that he or she considers appropriate and that the area director could have imposed; or (d) dismiss the appeal.  O. Reg. 106/99, s. 18 (2). Recovery of Costs for Legal Aid Services",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>(1) An appeal under subsection 30 (2) of the Act shall be commenced by serving on the person designated under that subsection, within seven days after the notice of the decision appealed from is delivered, a notice of appeal identifying that decision and stating the grounds of appeal.  O. Reg. 106/99, s. 18 (1).</p> <p class=\"subsection-e\">  (2) The designated person may,</p> <p class=\"clause-e\">  (a) direct that the appeal be adjourned pending the submission of any further material he or she considers relevant to the decision;</p> <p class=\"clause-e\">  (b) direct that the matter be referred to the area director or to the area committee to be reconsidered and decided in light of new or further evidence,</p> <p class=\"subclause-e\">  (i) that has been submitted to the designated person, or</p> <p class=\"subclause-e\">  (ii) that he or she directs the area director to ascertain;</p> <p class=\"clause-e\">  (c) allow the appeal in whole or in part and direct the issue or continuation of a certificate for the purpose applied for, or for another purpose that the designated person considers appropriate, subject to any terms and conditions that he or she considers appropriate and that the area director could have imposed; or</p> <p class=\"clause-e\">  (d) dismiss the appeal.  O. Reg. 106/99, s. 18 (2).</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Recovery of Costs for Legal Aid Services</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. For the purposes of clause 97 (1) (n) of the Act, the prescribed interest rate is, for each fiscal year, the postjudgment interest rate for the last quarter of the previous fiscal year, as published under clause 127 (2) (b) of the Courts of Justice Act.  O. Reg. 106/99, s. 19.",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>For the purposes of clause 97 (1) (n) of the Act, the prescribed interest rate is, for each fiscal year, the postjudgment interest rate for the last quarter of the previous fiscal year, as published under clause 127 (2) (b) of the <i>Courts of Justice Act</i>.  O. Reg. 106/99, s. 19.</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. The Corporation may exercise its discretion under section 49 of the Act if the Corporation is of the opinion that, (a) failure to exercise the discretion would cause the applicant or the person responsible hardship; (b) all or part of the amount due to the Corporation is uncollectible; (c) the exercise of the discretion would reduce the overall amount ultimately payable by the Corporation; or (d) the exercise of the discretion would promote the timely settlement of the proceeding.  O. Reg. 181/04, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>The Corporation may exercise its discretion under section 49 of the Act if the Corporation is of the opinion that,</p> <p class=\"clause-e\">  (a) failure to exercise the discretion would cause the applicant or the person responsible hardship;</p> <p class=\"clause-e\">  (b) all or part of the amount due to the Corporation is uncollectible;</p> <p class=\"clause-e\">  (c) the exercise of the discretion would reduce the overall amount ultimately payable by the Corporation; or</p> <p class=\"clause-e\">  (d) the exercise of the discretion would promote the timely settlement of the proceeding.  O. Reg. 181/04, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. A lawyer who effects a settlement entitling the applicant to recover money or other property shall promptly inform the Corporation of the terms of the settlement, and shall provide a copy of the settlement documents at its request.  O. Reg. 106/99, s. 21.",
+            "raw_html": "<p class=\"section-e\"> <b>21. </b>A lawyer who effects a settlement entitling the applicant to recover money or other property shall promptly inform the Corporation of the terms of the settlement, and shall provide a copy of the settlement documents at its request.  O. Reg. 106/99, s. 21.</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22. (1) The following rules apply if an applicant becomes entitled to money or other property under a judgment, order or settlement: 1. The party and party costs in favour of the applicant, if not determined on an assessment under a judgment or order, may be agreed on by the parties with the legal accounts officer’s approval, obtained in advance.  If there is no agreement or no approval, the legal accounts officer shall determine the costs for the purpose of ascertaining the amount for costs to be paid to the Corporation.  The applicant’s lawyer shall pay all the costs recovered to the Corporation. 2. The amount of fees and disbursements for the services provided by the lawyer shall then, by agreement of the applicant and the lawyer with the legal accounts officer’s approval, obtained in advance, be determined as between a client and his or her lawyer. If there is no agreement or no approval, the legal accounts officer may determine the amount of fees and disbursements. The amount by which the fees and disbursements exceed the party and party costs shall also be paid to the Corporation, unless the legal accounts officer decides that under the circumstances no such payment need be made. 3. If legal services were provided to the applicant in connection with the same matter but not under the certificate, the legal accounts officer may determine the amount of the costs referable to those services and the amount payable out of those costs to the applicant and to the Corporation. 4. The applicant shall pay the amount of the lawyer’s account, as settled under this Regulation, and a proportionate share of the Corporation’s overhead as determined by the president.  O. Reg. 106/99, s. 22 (1). (2) If the applicant or a person responsible for the applicant agreed to contribute under Part IV of the Act, the applicant or person responsible shall pay the lesser of, (a) the amount fixed in the contribution agreement; or (b) the total of, (i) the amount of the lawyer’s account, as settled under this Regulation, (ii) a proportionate share of the Corporation’s overhead as determined by the president, and (iii) interest on any overdue contributions.  O. Reg. 106/99, s. 22 (2). (3) Subsection (2) applies whether money or other property is recovered or not.  O. Reg. 106/99, s. 22 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>22. </b>(1) The following rules apply if an applicant becomes entitled to money or other property under a judgment, order or settlement:</p> <p class=\"paragraph-e\">  1. The party and party costs in favour of the applicant, if not determined on an assessment under a judgment or order, may be agreed on by the parties with the legal accounts officer’s approval, obtained in advance.  If there is no agreement or no approval, the legal accounts officer shall determine the costs for the purpose of ascertaining the amount for costs to be paid to the Corporation.  The applicant’s lawyer shall pay all the costs recovered to the Corporation.</p> <p class=\"paragraph-e\">  2. The amount of fees and disbursements for the services provided by the lawyer shall then, by agreement of the applicant and the lawyer with the legal accounts officer’s approval, obtained in advance, be determined as between a client and his or her lawyer. If there is no agreement or no approval, the legal accounts officer may determine the amount of fees and disbursements. The amount by which the fees and disbursements exceed the party and party costs shall also be paid to the Corporation, unless the legal accounts officer decides that under the circumstances no such payment need be made.</p> <p class=\"paragraph-e\">  3. If legal services were provided to the applicant in connection with the same matter but not under the certificate, the legal accounts officer may determine the amount of the costs referable to those services and the amount payable out of those costs to the applicant and to the Corporation.</p> <p class=\"paragraph-e\">  4. The applicant shall pay the amount of the lawyer’s account, as settled under this Regulation, and a proportionate share of the Corporation’s overhead as determined by the president.  O. Reg. 106/99, s. 22 (1).</p> <p class=\"subsection-e\">  (2) If the applicant or a person responsible for the applicant agreed to contribute under Part IV of the Act, the applicant or person responsible shall pay the lesser of,</p> <p class=\"clause-e\">  (a) the amount fixed in the contribution agreement; or</p> <p class=\"clause-e\">  (b) the total of,</p> <p class=\"subclause-e\">  (i) the amount of the lawyer’s account, as settled under this Regulation,</p> <p class=\"subclause-e\">  (ii) a proportionate share of the Corporation’s overhead as determined by the president, and</p> <p class=\"subclause-e\">  (iii) interest on any overdue contributions.  O. Reg. 106/99, s. 22 (2).</p> <p class=\"subsection-e\">  (3) Subsection (2) applies whether money or other property is recovered or not.  O. Reg. 106/99, s. 22 (3).</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23. When an applicant becomes entitled to the payment of costs or to recover money or other property under a judgment, award or settlement, the following rules apply to the lawyer who acts under the certificate in the matter: 1. If the matter is a claim before an administrative board, tribunal or expropriating authority, the lawyer shall, unless the Corporation directs otherwise, deposit a notice with the body after it has made its decision.  The notice shall state that, i. the applicant is the recipient of legal aid services, ii. the Corporation has a statutory claim for the costs payable under the Act, and iii. any costs awarded to the applicant are the Corporation’s property. 2. In any matter in which costs are awarded to the applicant, the lawyer shall, i. except to the extent that the Corporation directs otherwise, assess the costs, obtain the applicant’s assignment of the costs to the Corporation, and file a writ of seizure and sale and the assignment with the appropriate officials, and ii. take any further steps to collect the costs that the Corporation authorizes. 3. If the applicant is entitled to recover money or other property, the lawyer shall send the person from whom the money or property is recoverable, that person’s lawyer, if any, and any official with whom the writ of seizure and sale or order for payment has been filed, a notice stating that, i. any costs payable to the applicant are the Corporation’s property under the Act, ii. the Corporation has a charge against the money or other property under section 47 of the Act, and iii. until the charge has been released, no money shall be paid or property released or transferred to the applicant. 4. On receiving any costs payable to the applicant, the lawyer shall pay them to the Corporation. 5. On receiving any sum in payment of the judgment, award or settlement, other than for costs, the lawyer shall pay to the Corporation any outstanding amount payable to it under the Act. 6. Before delivering to the applicant any recovered property or title papers relating to the property, the lawyer shall, i. have the applicant sign an appropriate document to secure the Corporation’s charge, ii. have the document registered under the Land Titles Act, the Registry Act or the Personal Property Security Act, as the case may be, and iii. send the president a certified copy of the registered document.  O. Reg. 106/99, s. 23. Functions of Duty Counsel",
+            "raw_html": "<p class=\"section-e\"> <b>23. </b>When an applicant becomes entitled to the payment of costs or to recover money or other property under a judgment, award or settlement, the following rules apply to the lawyer who acts under the certificate in the matter:</p> <p class=\"paragraph-e\">  1. If the matter is a claim before an administrative board, tribunal or expropriating authority, the lawyer shall, unless the Corporation directs otherwise, deposit a notice with the body after it has made its decision.  The notice shall state that,</p> <p class=\"subpara-e\">  i. the applicant is the recipient of legal aid services,</p> <p class=\"subpara-e\">  ii. the Corporation has a statutory claim for the costs payable under the Act, and</p> <p class=\"subpara-e\">  iii. any costs awarded to the applicant are the Corporation’s property.</p> <p class=\"paragraph-e\">  2. In any matter in which costs are awarded to the applicant, the lawyer shall, </p> <p class=\"subpara-e\">  i. except to the extent that the Corporation directs otherwise, assess the costs, obtain the applicant’s assignment of the costs to the Corporation, and file a writ of seizure and sale and the assignment with the appropriate officials, and </p> <p class=\"subpara-e\">  ii. take any further steps to collect the costs that the Corporation authorizes.</p> <p class=\"paragraph-e\">  3. If the applicant is entitled to recover money or other property, the lawyer shall send the person from whom the money or property is recoverable, that person’s lawyer, if any, and any official with whom the writ of seizure and sale or order for payment has been filed, a notice stating that,</p> <p class=\"subpara-e\">  i. any costs payable to the applicant are the Corporation’s property under the Act,</p> <p class=\"subpara-e\">  ii. the Corporation has a charge against the money or other property under section 47 of the Act, and</p> <p class=\"subpara-e\">  iii. until the charge has been released, no money shall be paid or property released or transferred to the applicant.</p> <p class=\"paragraph-e\">  4. On receiving any costs payable to the applicant, the lawyer shall pay them to the Corporation.</p> <p class=\"paragraph-e\">  5. On receiving any sum in payment of the judgment, award or settlement, other than for costs, the lawyer shall pay to the Corporation any outstanding amount payable to it under the Act.</p> <p class=\"paragraph-e\">  6. Before delivering to the applicant any recovered property or title papers relating to the property, the lawyer shall,</p> <p class=\"subpara-e\">  i. have the applicant sign an appropriate document to secure the Corporation’s charge,</p> <p class=\"subpara-e\">  ii. have the document registered under the <i>Land Titles Act</i>, the <i>Registry Act</i> or the <i>Personal Property Security Act</i>, as the case may be, and</p> <p class=\"subpara-e\">  iii. send the president a certified copy of the registered document.  O. Reg. 106/99, s. 23.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Functions of Duty Counsel</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  24. (1) The classes of duty counsel are: 1. Family and civil law duty counsel. 2. Criminal law duty counsel. 3. Mental health law duty counsel. 4. Clinic law duty counsel. 5. Special duty counsel. 6. Advice lawyers.  O. Reg. 106/99, s. 24 (1). (2) Family and civil law duty counsel shall: 1. Attend the Family Court of the Ontario Superior Court of Justice and the Ontario Court of Justice as scheduled. 2. In Family Court and the Ontario Court of Justice, i.  advise persons about their rights and take any steps necessary to protect those rights, ii.  advise persons about court procedures, iii.  prepare or review documents to be filed with the court, iv.  obtain adjournments, v.  represent otherwise unrepresented persons at motions, in interim hearings concerning custody, access, child protection or support and in pre-trial hearings and show cause hearings, and vi.  assist persons in the negotiation of settlements and consent orders and in mediation.  O. Reg. 106/99, s. 24 (2). (3) Criminal law duty counsel shall: 1. Perform duties in connection with criminal appeals as may be appropriate, including, i. helping an appellant to complete a notice to the court that an application has been made for legal aid services in relation to the appeal, ii. helping an appellant who is represented by a lawyer to complete a notice of withdrawal of a prisoner appeal, iii. representing an appellant on an application for judicial interim release. 2. Attend the Ontario Court of Justice as scheduled. 3. In the Ontario Court of Justice, assist persons who have been taken into custody or summoned and charged with offences, by advising them of their rights and by taking any steps that may be appropriate to protect those rights, including, i. representing a person on an application for remand, adjournment or judicial interim release, on a pre-trial that relates to disposition, or on entering a guilty plea, ii.  applying for diversion, iii.  making representations with respect to sentence if a guilty plea is entered.  O. Reg. 106/99, s. 24 (3). (4) Mental health law duty counsel shall, as may be appropriate: 1. Attend at psychiatric facilities designated under the Mental Health Act. 2. At those facilities, i. advise persons about their rights and take any steps that may be appropriate to protect those rights, and ii. take applications for certificates.  O. Reg. 106/99, s. 24 (4). (5) Clinic law duty counsel shall, as scheduled: 1. Attend at administrative tribunals. 2. At those tribunals, i. advise persons about their rights and take any steps that may be appropriate to protect those rights, ii. advise persons about tribunal procedures and assist them with those procedures, iii. prepare, review or assist persons to prepare documents, iv. obtain documents for persons or assist them in doing so, v. obtain adjournments, vi. represent persons in any proceeding, and vii. assist persons in the negotiation of settlements and consent orders and in mediation.  O. Reg. 106/99, s. 24 (5). (6) Special duty counsel shall: 1. Advise and assist persons as the circumstances require. 2. Take applications for certificates at the area director’s office or elsewhere in the area, as scheduled.  O. Reg. 106/99, s. 24 (6). (7) Advice lawyers shall: 1. Attend where and as scheduled. 2. Advise persons about their rights. 3. Prepare or review documents.  O. Reg. 106/99, s. 24 (7). (8) All classes of duty counsel shall: 1. Make reports to the Corporation as and when it requests. 2. Provide public legal education information. 3. Make appropriate referrals to other sources of information, advice, assistance and representation.  O. Reg. 106/99, s. 24 (8).",
+            "raw_html": "<p class=\"section-e\"><b>  24. </b>(1) The classes of duty counsel are:</p> <p class=\"paragraph-e\">  1. Family and civil law duty counsel.</p> <p class=\"paragraph-e\">  2. Criminal law duty counsel.</p> <p class=\"paragraph-e\">  3. Mental health law duty counsel.</p> <p class=\"paragraph-e\">  4. Clinic law duty counsel.</p> <p class=\"paragraph-e\">  5. Special duty counsel.</p> <p class=\"paragraph-e\">  6. Advice lawyers.  O. Reg. 106/99, s. 24 (1).</p> <p class=\"subsection-e\">  (2) Family and civil law duty counsel shall:</p> <p class=\"paragraph-e\">  1. Attend the Family Court of the Ontario Superior Court of Justice and the Ontario Court of Justice as scheduled.</p> <p class=\"paragraph-e\">  2. In Family Court and the Ontario Court of Justice,</p> <p class=\"subpara-e\">  i.  advise persons about their rights and take any steps necessary to protect those rights,</p> <p class=\"subpara-e\">  ii.  advise persons about court procedures,</p> <p class=\"subpara-e\">  iii.  prepare or review documents to be filed with the court,</p> <p class=\"subpara-e\">  iv.  obtain adjournments,</p> <p class=\"subpara-e\">  v.  represent otherwise unrepresented persons at motions, in interim hearings concerning custody, access, child protection or support and in pre-trial hearings and show cause hearings, and</p> <p class=\"subpara-e\">  vi.  assist persons in the negotiation of settlements and consent orders and in mediation.  O. Reg. 106/99, s. 24 (2).</p> <p class=\"subsection-e\">  (3) Criminal law duty counsel shall:</p> <p class=\"paragraph-e\">  1. Perform duties in connection with criminal appeals as may be appropriate, including,</p> <p class=\"subpara-e\">  i. helping an appellant to complete a notice to the court that an application has been made for legal aid services in relation to the appeal,</p> <p class=\"subpara-e\">  ii. helping an appellant who is represented by a lawyer to complete a notice of withdrawal of a prisoner appeal,</p> <p class=\"subpara-e\">  iii. representing an appellant on an application for judicial interim release.</p> <p class=\"paragraph-e\">  2. Attend the Ontario Court of Justice as scheduled.</p> <p class=\"paragraph-e\">  3. In the Ontario Court of Justice, assist persons who have been taken into custody or summoned and charged with offences, by advising them of their rights and by taking any steps that may be appropriate to protect those rights, including,</p> <p class=\"subpara-e\">  i. representing a person on an application for remand, adjournment or judicial interim release, on a pre-trial that relates to disposition, or on entering a guilty plea,</p> <p class=\"subpara-e\">  ii.  applying for diversion,</p> <p class=\"subpara-e\">  iii.  making representations with respect to sentence if a guilty plea is entered.  O. Reg. 106/99, s. 24 (3).</p> <p class=\"subsection-e\">  (4) Mental health law duty counsel shall, as may be appropriate:</p> <p class=\"paragraph-e\">  1. Attend at psychiatric facilities designated under the <i>Mental Health Act</i>.</p> <p class=\"paragraph-e\">  2. At those facilities,</p> <p class=\"subpara-e\">  i. advise persons about their rights and take any steps that may be appropriate to protect those rights, and</p> <p class=\"subpara-e\">  ii. take applications for certificates.  O. Reg. 106/99, s. 24 (4).</p> <p class=\"subsection-e\">  (5) Clinic law duty counsel shall, as scheduled:</p> <p class=\"paragraph-e\">  1. Attend at administrative tribunals.</p> <p class=\"paragraph-e\">  2. At those tribunals,</p> <p class=\"subpara-e\">  i. advise persons about their rights and take any steps that may be appropriate to protect those rights,</p> <p class=\"subpara-e\">  ii. advise persons about tribunal procedures and assist them with those procedures,</p> <p class=\"subpara-e\">  iii. prepare, review or assist persons to prepare documents,</p> <p class=\"subpara-e\">  iv. obtain documents for persons or assist them in doing so,</p> <p class=\"subpara-e\">  v. obtain adjournments,</p> <p class=\"subpara-e\">  vi. represent persons in any proceeding, and</p> <p class=\"subpara-e\">  vii. assist persons in the negotiation of settlements and consent orders and in mediation.  O. Reg. 106/99, s. 24 (5).</p> <p class=\"subsection-e\">  (6) Special duty counsel shall:</p> <p class=\"paragraph-e\">  1. Advise and assist persons as the circumstances require.</p> <p class=\"paragraph-e\">  2. Take applications for certificates at the area director’s office or elsewhere in the area, as scheduled.  O. Reg. 106/99, s. 24 (6).</p> <p class=\"subsection-e\">  (7) Advice lawyers shall:</p> <p class=\"paragraph-e\">  1. Attend where and as scheduled.</p> <p class=\"paragraph-e\">  2. Advise persons about their rights.</p> <p class=\"paragraph-e\">  3. Prepare or review documents.  O. Reg. 106/99, s. 24 (7).</p> <p class=\"subsection-e\">  (8) All classes of duty counsel shall:</p> <p class=\"paragraph-e\">  1. Make reports to the Corporation as and when it requests.</p> <p class=\"paragraph-e\">  2. Provide public legal education information.</p> <p class=\"paragraph-e\">  3. Make appropriate referrals to other sources of information, advice, assistance and representation.  O. Reg. 106/99, s. 24 (8).</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. (1) When a lawyer has represented or advised an applicant as duty counsel, neither the lawyer nor any of his or her associates in the practice of law shall knowingly act for the applicant in the same matter, otherwise than as duty counsel.  O. Reg. 106/99, s. 25 (1). (2) Subsection (1) does not apply if, (a) the lawyer or associate acts for the applicant in the same matter with the area director’s approval, obtained in advance; (b) the lawyer certifies in writing to the area director that an earlier lawyer-client relationship existed between the applicant and the lawyer or associate; or (c) the lawyer or associate is employed by the Corporation or by a clinic.  O. Reg. 106/99, s. 25 (2). Student Legal Aid Services Societies",
+            "raw_html": "<p class=\"section-e\"> <b>25. </b>(1) When a lawyer has represented or advised an applicant as duty counsel, neither the lawyer nor any of his or her associates in the practice of law shall knowingly act for the applicant in the same matter, otherwise than as duty counsel.  O. Reg. 106/99, s. 25 (1).</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply if,</p> <p class=\"clause-e\">  (a) the lawyer or associate acts for the applicant in the same matter with the area director’s approval, obtained in advance;</p> <p class=\"clause-e\">  (b) the lawyer certifies in writing to the area director that an earlier lawyer-client relationship existed between the applicant and the lawyer or associate; or</p> <p class=\"clause-e\">  (c) the lawyer or associate is employed by the Corporation or by a clinic.  O. Reg. 106/99, s. 25 (2).</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Student Legal Aid Services Societies</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. (1) The dean of the law school that operates a student legal aid services society has control and supervision of the society and of its members.  O. Reg. 106/99, s. 26 (1). (2) Without limiting the generality of subsection (1), the dean has discretion to, (a) restrict the functions of the society and its members; (b) terminate the society’s operations, either temporarily or permanently; (c) specify the minimum qualifications of a student for membership in the society; and (d) remove a student from membership in the society, either temporarily or permanently, and reinstate him or her.  O. Reg. 106/99, s. 26 (2). Panels",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b>(1) The dean of the law school that operates a student legal aid services society has control and supervision of the society and of its members.  O. Reg. 106/99, s. 26 (1).</p> <p class=\"subsection-e\">  (2) Without limiting the generality of subsection (1), the dean has discretion to,</p> <p class=\"clause-e\">  (a) restrict the functions of the society and its members;</p> <p class=\"clause-e\">  (b) terminate the society’s operations, either temporarily or permanently; </p> <p class=\"clause-e\">  (c) specify the minimum qualifications of a student for membership in the society; and </p> <p class=\"clause-e\">  (d) remove a student from membership in the society, either temporarily or permanently, and reinstate him or her.  O. Reg. 106/99, s. 26 (2).</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Panels</p>"
+        },
+        {
+            "ahref_id": "#27.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27. (1) The area director shall maintain a complete record of the names on each panel for the area.  O. Reg. 106/99, s. 27 (1). (2) At any person’s request, the area director shall furnish the names and addresses of the lawyers who are on a panel for the area.  O. Reg. 106/99, s. 27 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>27. </b>(1) The area director shall maintain a complete record of the names on each panel for the area.  O. Reg. 106/99, s. 27 (1).</p> <p class=\"subsection-e\">  (2) At any person’s request, the area director shall furnish the names and addresses of the lawyers who are on a panel for the area.  O. Reg. 106/99, s. 27 (2).</p>"
+        },
+        {
+            "ahref_id": "#28.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 28. (1) A lawyer may apply to the area director to have his or her name entered on a panel.  O. Reg. 106/99, s. 28 (1). (2) In the application, the lawyer shall provide the information concerning his or her practice, qualifications and experience and the status of his or her Law Society membership that the area director requires.  O. Reg. 106/99, s. 28 (2). (3) The area director shall enter the name on the appropriate panel unless, (a) the lawyer fails, in the area director’s opinion, to meet applicable standards, including standards under the Corporation’s quality assurance program; (b) the president has prohibited entry of the name under section 29; (c) the lawyer has been found guilty of a criminal offence; or (d) the lawyer has been found guilty of professional misconduct or conduct unbecoming.  O. Reg. 181/04, s. 3. (4) If clause (3) (a), (b), (c) or (d) applies, the area director shall send the lawyer a notice that includes, (a) the reasons for the refusal to enter the name; and (b) a statement of the right of review under subsection (5).  O. Reg. 181/04, s. 3. (5) The lawyer is entitled to a review by the president or another person designated by the board if, within seven days after the notice under subsection (4) is delivered, he or she serves on the president and the area director a notice requesting a review.  O. Reg. 106/99, s. 28 (5).",
+            "raw_html": "<p class=\"section-e\"> <b>28. </b>(1) A lawyer may apply to the area director to have his or her name entered on a panel.  O. Reg. 106/99, s. 28 (1).</p> <p class=\"subsection-e\">  (2) In the application, the lawyer shall provide the information concerning his or her practice, qualifications and experience and the status of his or her Law Society membership that the area director requires.  O. Reg. 106/99, s. 28 (2).</p> <p class=\"subsection-e\">  (3) The area director shall enter the name on the appropriate panel unless,</p> <p class=\"clause-e\">  (a) the lawyer fails, in the area director’s opinion, to meet applicable standards, including standards under the Corporation’s quality assurance program;</p> <p class=\"clause-e\">  (b) the president has prohibited entry of the name under section 29;</p> <p class=\"clause-e\">  (c) the lawyer has been found guilty of a criminal offence; or</p> <p class=\"clause-e\">  (d) the lawyer has been found guilty of professional misconduct or conduct unbecoming.  O. Reg. 181/04, s. 3.</p> <p class=\"subsection-e\">  (4) If clause (3) (a), (b), (c) or (d) applies, the area director shall send the lawyer a notice that includes,</p> <p class=\"clause-e\">  (a) the reasons for the refusal to enter the name; and</p> <p class=\"clause-e\">  (b) a statement of the right of review under subsection (5).  O. Reg. 181/04, s. 3.</p> <p class=\"subsection-e\">  (5) The lawyer is entitled to a review by the president or another person designated by the board if, within seven days after the notice under subsection (4) is delivered, he or she serves on the president and the area director a notice requesting a review.  O. Reg. 106/99, s. 28 (5).</p>"
+        },
+        {
+            "ahref_id": "#29.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 29. (1) If the president has reasonable cause to prohibit the entry of a lawyer’s name on a panel, he or she may take the steps set out in this section.  O. Reg. 106/99, s. 29 (1). (2) The president shall send the lawyer notice of the proposal and afford him or her an opportunity for a hearing.  O. Reg. 106/99, s. 29 (2). (3) A request for a hearing shall be served on the Corporation and the area director within seven days after the notice under subsection (2) is delivered.  O. Reg. 106/99, s. 29 (3). (4) The president shall notify the area director and the lawyer of the decision in the matter, (a) if a hearing is requested, after it has been held; (b) if no hearing is requested, after the seven-day period has passed.  O. Reg. 106/99, s. 29 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>29. </b>(1) If the president has reasonable cause to prohibit the entry of a lawyer’s name on a panel, he or she may take the steps set out in this section.  O. Reg. 106/99, s. 29 (1).</p> <p class=\"subsection-e\">  (2) The president shall send the lawyer notice of the proposal and afford him or her an opportunity for a hearing.  O. Reg. 106/99, s. 29 (2).</p> <p class=\"subsection-e\">  (3) A request for a hearing shall be served on the Corporation and the area director within seven days after the notice under subsection (2) is delivered.  O. Reg. 106/99, s. 29 (3).</p> <p class=\"subsection-e\">  (4) The president shall notify the area director and the lawyer of the decision in the matter,</p> <p class=\"clause-e\">  (a) if a hearing is requested, after it has been held;</p> <p class=\"clause-e\">  (b) if no hearing is requested, after the seven-day period has passed.  O. Reg. 106/99, s. 29 (4).</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. (1) The area director shall remove a lawyer’s name from a panel if the lawyer requests the removal and the president consents.  O. Reg. 106/99, s. 30 (1). (2) The area director may require a lawyer to whom subsection (1) applies to complete work under specified certificates that the lawyer has already accepted.  O. Reg. 106/99, s. 30 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>30. </b>(1) The area director shall remove a lawyer’s name from a panel if the lawyer requests the removal and the president consents.  O. Reg. 106/99, s. 30 (1).</p> <p class=\"subsection-e\">  (2) The area director may require a lawyer to whom subsection (1) applies to complete work under specified certificates that the lawyer has already accepted.  O. Reg. 106/99, s. 30 (2).</p>"
+        },
+        {
+            "ahref_id": "#31.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31. (1) If a lawyer fails, in the area director’s opinion, to meet or to continue to meet applicable standards, including standards under the Corporation’s quality assurance program, the area director may take the steps set out in this section.  O. Reg. 106/99, s. 31 (1). (2) The area director shall send the lawyer notice of a proposal to remove his or her name from a panel and afford him or her an opportunity for a hearing.  O. Reg. 106/99, s. 31 (2). (3) A request for a hearing shall be served on the area director within seven days after the notice under subsection (2) is delivered.  O. Reg. 106/99, s. 31 (3). (4) The president shall conduct the hearing.  O. Reg. 106/99, s. 31 (4). (5) The area director may remove the name from the panel, (a) if the proposal is confirmed after a hearing, as soon as he or she is advised of the decision; (b) if no hearing is requested, after the seven-day period has passed.  O. Reg. 106/99, s. 31 (5). (6) If a hearing is held, the area director shall send the lawyer notice of the decision, whether the proposal is confirmed or not.  O. Reg. 106/99, s. 31 (6).",
+            "raw_html": "<p class=\"section-e\"> <b>31. </b>(1) If a lawyer fails, in the area director’s opinion, to meet or to continue to meet applicable standards, including standards under the Corporation’s quality assurance program, the area director may take the steps set out in this section.  O. Reg. 106/99, s. 31 (1).</p> <p class=\"subsection-e\">  (2) The area director shall send the lawyer notice of a proposal to remove his or her name from a panel and afford him or her an opportunity for a hearing.  O. Reg. 106/99, s. 31 (2).</p> <p class=\"subsection-e\">  (3) A request for a hearing shall be served on the area director within seven days after the notice under subsection (2) is delivered.  O. Reg. 106/99, s. 31 (3).</p> <p class=\"subsection-e\">  (4) The president shall conduct the hearing.  O. Reg. 106/99, s. 31 (4).</p> <p class=\"subsection-e\">  (5) The area director may remove the name from the panel,</p> <p class=\"clause-e\">  (a) if the proposal is confirmed after a hearing, as soon as he or she is advised of the decision;</p> <p class=\"clause-e\">  (b) if no hearing is requested, after the seven-day period has passed.  O. Reg. 106/99, s. 31 (5).</p> <p class=\"subsection-e\">  (6) If a hearing is held, the area director shall send the lawyer notice of the decision, whether the proposal is confirmed or not.  O. Reg. 106/99, s. 31 (6).</p>"
+        },
+        {
+            "ahref_id": "#32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32. (1) Subject to subsection (3), the president may remove a lawyer’s name from a panel in any of the following circumstances: 1. The president has reasonable cause for doing so. 2. The lawyer is found guilty of professional misconduct or conduct unbecoming. 3. The lawyer is found guilty of a criminal offence.  O. Reg. 106/99, s. 32 (1); O. Reg. 181/04, s. 4 (1). (2) Subject to subsection (3), the president may temporarily remove the name of a lawyer from all panels in either of the following circumstances: 1. The Law Society serves a conduct application under subsection 34 (1) of the Law Society Act on the lawyer. 2. A criminal charge is laid against the lawyer.  O. Reg. 106/99, s. 32 (2); O. Reg. 181/04, s. 4 (2). (3) Before removing the name of a lawyer from a panel under subsection (1) or (2), the president shall, (a) send the lawyer notice of the proposal to remove his or her name; and (b) afford the lawyer an opportunity for a hearing.  O. Reg. 106/99, s. 32 (3). (4) The president may restore a name that was temporarily removed under subsection (2) if the complaint or charge is disposed of by a finding of not guilty.  O. Reg. 106/99, s. 32 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>32. </b>(1) Subject to subsection (3), the president may remove a lawyer’s name from a panel in any of the following circumstances:</p> <p class=\"paragraph-e\">  1. The president has reasonable cause for doing so.</p> <p class=\"paragraph-e\">  2. The lawyer is found guilty of professional misconduct or conduct unbecoming.</p> <p class=\"paragraph-e\">  3. The lawyer is found guilty of a criminal offence.  O. Reg. 106/99, s. 32 (1); O. Reg. 181/04, s. 4 (1).</p> <p class=\"subsection-e\">  (2) Subject to subsection (3), the president may temporarily remove the name of a lawyer from all panels in either of the following circumstances:</p> <p class=\"paragraph-e\">  1. The Law Society serves a conduct application under subsection 34 (1) of the <i>Law Society Act</i> on the lawyer.</p> <p class=\"paragraph-e\">  2. A criminal charge is laid against the lawyer.  O. Reg. 106/99, s. 32 (2); O. Reg. 181/04, s. 4 (2).</p> <p class=\"subsection-e\">  (3) Before removing the name of a lawyer from a panel under subsection (1) or (2), the president shall,</p> <p class=\"clause-e\">  (a) send the lawyer notice of the proposal to remove his or her name; and</p> <p class=\"clause-e\">  (b) afford the lawyer an opportunity for a hearing.  O. Reg. 106/99, s. 32 (3).</p> <p class=\"subsection-e\">  (4) The president may restore a name that was temporarily removed under subsection (2) if the complaint or charge is disposed of by a finding of not guilty.  O. Reg. 106/99, s. 32 (4).</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. (1) A lawyer whose name has been removed from a panel under section 31 or 32 shall, in relation to that panel, (a) report to the area director on the state of all uncompleted work; (b) submit his or her accounts for fees and disbursements in accordance with the regulations; and (c) subject to subsection (3), deliver every legal aid file in his or her possession to the area director, or to another lawyer as the applicant directs.  O. Reg. 106/99, s. 33 (1); O. Reg. 181/04, s. 5. (2) The lawyer shall not, unless his or her name has been restored to the panel under section 34, (a) accept any further certificate in relation to the panel; or (b) provide any services under a certificate in relation to the panel that is accepted by another lawyer.  O. Reg. 106/99, s. 33 (2). (3) The area director may allow a lawyer to whom clause (1) (c) applies to complete work under specified certificates that the lawyer has already accepted.  O. Reg. 106/99, s. 33 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>33. </b>(1) A lawyer whose name has been removed from a panel under section 31 or 32 shall, in relation to that panel,</p> <p class=\"clause-e\">  (a) report to the area director on the state of all uncompleted work; </p> <p class=\"clause-e\">  (b) submit his or her accounts for fees and disbursements in accordance with the regulations; and</p> <p class=\"clause-e\">  (c) subject to subsection (3), deliver every legal aid file in his or her possession to the area director, or to another lawyer as the applicant directs.  O. Reg. 106/99, s. 33 (1); O. Reg. 181/04, s. 5.</p> <p class=\"subsection-e\">  (2) The lawyer shall not, unless his or her name has been restored to the panel under section 34,</p> <p class=\"clause-e\">  (a) accept any further certificate in relation to the panel; or</p> <p class=\"clause-e\">  (b) provide any services under a certificate in relation to the panel that is accepted by another lawyer.  O. Reg. 106/99, s. 33 (2).</p> <p class=\"subsection-e\">  (3) The area director may allow a lawyer to whom clause (1) (c) applies to complete work under specified certificates that the lawyer has already accepted.  O. Reg. 106/99, s. 33 (3).</p>"
+        },
+        {
+            "ahref_id": "#34.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34. (1) A lawyer whose name is removed from a panel under section 31 or 32 may make an application to the area director to have his or her name restored to the panel.  O. Reg. 106/99, s. 34 (1). (2) The area director shall refer the application, accompanied by his or her own recommendation, to the president.  O. Reg. 106/99, s. 34 (2). (3) The president shall promptly decide whether to approve the application, may conduct an enquiry as he or she considers necessary for the purpose, and shall advise the area director and the lawyer of the decision as soon as possible.  O. Reg. 106/99, s. 34 (3). (4) On being advised of a decision to approve the application, the area director shall restore the name to the panel as soon as possible.  O. Reg. 106/99, s. 34 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>34. </b>(1) A lawyer whose name is removed from a panel under section 31 or 32 may make an application to the area director to have his or her name restored to the panel.  O. Reg. 106/99, s. 34 (1).</p> <p class=\"subsection-e\">  (2) The area director shall refer the application, accompanied by his or her own recommendation, to the president.  O. Reg. 106/99, s. 34 (2).</p> <p class=\"subsection-e\">  (3) The president shall promptly decide whether to approve the application, may conduct an enquiry as he or she considers necessary for the purpose, and shall advise the area director and the lawyer of the decision as soon as possible.  O. Reg. 106/99, s. 34 (3).</p> <p class=\"subsection-e\">  (4) On being advised of a decision to approve the application, the area director shall restore the name to the panel as soon as possible.  O. Reg. 106/99, s. 34 (4).</p>"
+        },
+        {
+            "ahref_id": "#35.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 35. Nothing in this Regulation discharges any lawyer whose name has been removed from a panel from any obligations to clients or to the Corporation.  O. Reg. 106/99, s. 35.",
+            "raw_html": "<p class=\"section-e\"> <b>35. </b>Nothing in this Regulation discharges any lawyer whose name has been removed from a panel from any obligations to clients or to the Corporation.  O. Reg. 106/99, s. 35.</p>"
+        },
+        {
+            "ahref_id": "#36.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 36. Nothing in this Regulation interferes with the right to refuse a request for professional services.  O. Reg. 106/99, s. 36.",
+            "raw_html": "<p class=\"section-e\"> <b>36. </b>Nothing in this Regulation interferes with the right to refuse a request for professional services.  O. Reg. 106/99, s. 36.</p>"
+        },
+        {
+            "ahref_id": "#37.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 37.  (1) Every person named on a panel shall, (a) make reports, provide information and submit accounts in accordance with this Regulation; and (b) on request, provide any additional information relating to a certificate or an application for a certificate that the president or area director may require.  O. Reg. 181/04, s. 6. (2) Subsection (1) also applies to lawyers mentioned in subsection 4 (2) of Ontario Regulation 107/99.  O. Reg. 106/99, s. 37 (2). Accounts",
+            "raw_html": "<p class=\"section-e\"> <b>37. </b> (1) Every person named on a panel shall,</p> <p class=\"clause-e\">  (a) make reports, provide information and submit accounts in accordance with this Regulation; and</p> <p class=\"clause-e\">  (b) on request, provide any additional information relating to a certificate or an application for a certificate that the president or area director may require.  O. Reg. 181/04, s. 6.</p> <p class=\"subsection-e\">  (2) Subsection (1) also applies to lawyers mentioned in subsection 4 (2) of Ontario Regulation 107/99.  O. Reg. 106/99, s. 37 (2).</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Accounts</p>"
+        },
+        {
+            "ahref_id": "#38.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 38. (1) A lawyer who provides legal aid services under a certificate shall maintain records in accordance with subsection (2) and shall retain the records for at least six years after the end of the year in which the final account is submitted.  O. Reg. 181/04, s. 7. (2) The records shall contain full details with respect to the legal aid services provided under the certificate, including, (a) an itemized list of the services rendered, in chronological order; (b) a detailed description of the services; (c) the dates and duration for all services, as well as the time of day for all services of a half an hour or more; (d) an itemized list of disbursements incurred, and copies of the disbursement invoices of agents and other service providers; (e) a copy of any court order that relates to the services and purports to affect the Corporation; (f) the account and related records of any lawyer or agent engaged under the certificate, certified by the lawyer or agent who was engaged; and (g) proof and justification of all the items included in the lawyer’s accounts.  O. Reg. 181/04, s. 7. (3) The lawyer shall provide the records to the Corporation on request, in support of the account, at any time during the period that begins when the lawyer acknowledges the certificate under clause 9 (2) (a) and ends at the end of the six-year period mentioned in subsection (1).  O. Reg. 181/04, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>38. </b>(1) A lawyer who provides legal aid services under a certificate shall maintain records in accordance with subsection (2) and shall retain the records for at least six years after the end of the year in which the final account is submitted.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (2) The records shall contain full details with respect to the legal aid services provided under the certificate, including,</p> <p class=\"clause-e\">  (a) an itemized list of the services rendered, in chronological order;</p> <p class=\"clause-e\">  (b) a detailed description of the services;</p> <p class=\"clause-e\">  (c) the dates and duration for all services, as well as the time of day for all services of a half an hour or more;</p> <p class=\"clause-e\">  (d) an itemized list of disbursements incurred, and copies of the disbursement invoices of agents and other service providers;</p> <p class=\"clause-e\">  (e) a copy of any court order that relates to the services and purports to affect the Corporation;</p> <p class=\"clause-e\">  (f) the account and related records of any lawyer or agent engaged under the certificate, certified by the lawyer or agent who was engaged; and</p> <p class=\"clause-e\">  (g) proof and justification of all the items included in the lawyer’s accounts.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (3) The lawyer shall provide the records to the Corporation on request, in support of the account, at any time during the period that begins when the lawyer acknowledges the certificate under clause 9 (2) (a) and ends at the end of the six-year period mentioned in subsection (1).  O. Reg. 181/04, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#39.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 39. (1) A lawyer who provides legal aid services under a certificate shall submit accounts to the Corporation, in the form established by the Corporation, at least as frequently as the following requires: 1. No later than six months after the first anniversary of the date the certificate was issued, an account shall be submitted for all services provided and disbursements incurred during the 12-month period after the date the certificate was issued. 2. No later than six months after each subsequent anniversary, an account shall be submitted for all services provided and disbursements incurred during the corresponding 12-month period.  O. Reg. 181/04, s. 7. (2) If the lawyer was employed by the applicant to provide any services with respect to the same matter before the certificate was issued, the lawyer shall provide, together with the first account, (a) a detailed statement of those services, if available; (b) a statement of any disbursements made before the certificate was issued; and (c) a statement of any payment made by the applicant to the lawyer for those services and disbursements.  O. Reg. 181/04, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>39. </b>(1) A lawyer who provides legal aid services under a certificate shall submit accounts to the Corporation, in the form established by the Corporation, at least as frequently as the following requires:</p> <p class=\"paragraph-e\">  1. No later than six months after the first anniversary of the date the certificate was issued, an account shall be submitted for all services provided and disbursements incurred during the 12-month period after the date the certificate was issued.</p> <p class=\"paragraph-e\">  2. No later than six months after each subsequent anniversary, an account shall be submitted for all services provided and disbursements incurred during the corresponding 12-month period.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (2) If the lawyer was employed by the applicant to provide any services with respect to the same matter before the certificate was issued, the lawyer shall provide, together with the first account,</p> <p class=\"clause-e\">  (a) a detailed statement of those services, if available;</p> <p class=\"clause-e\">  (b) a statement of any disbursements made before the certificate was issued; and</p> <p class=\"clause-e\">  (c) a statement of any payment made by the applicant to the lawyer for those services and disbursements.  O. Reg. 181/04, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#40.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 40. (1) Within seven days after submitting an account to the Corporation, a lawyer who provides legal aid services under a certificate shall also send an account, in the form established by the Corporation, to the applicant and to any person who signed an agreement to contribute to the cost of the legal aid services provided under the certificate.  O. Reg. 181/04, s. 7. (2) The area director may direct the lawyer not to provide the account to the applicant or to any person who signed an agreement as described in subsection (1) if, in the area director’s opinion, doing so could cause the applicant or other person prejudice or embarrassment.  O. Reg. 181/04, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>40. </b>(1) Within seven days after submitting an account to the Corporation, a lawyer who provides legal aid services under a certificate shall also send an account, in the form established by the Corporation, to the applicant and to any person who signed an agreement to contribute to the cost of the legal aid services provided under the certificate.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (2) The area director may direct the lawyer not to provide the account to the applicant or to any person who signed an agreement as described in subsection (1) if, in the area director’s opinion, doing so could cause the applicant or other person prejudice or embarrassment.  O. Reg. 181/04, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#41.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 41. An applicant or another person who signed an agreement as described in subsection 40 (1) may apply to the Corporation for processing of the account within 30 days after the Corporation receives the account.  O. Reg. 181/04, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>41. </b>An applicant or another person who signed an agreement as described in subsection 40 (1) may apply to the Corporation for processing of the account within 30 days after the Corporation receives the account.  O. Reg. 181/04, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#42.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 42. A lawyer who acts as duty counsel shall as soon as possible, but in any event no later than 60 days after performing his or her duties, submit to the Corporation, (a) an account, in the form established by the Corporation; and (b) a list of any disbursements approved by the Corporation.  O. Reg. 181/04, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>42. </b>A lawyer who acts as duty counsel shall as soon as possible, but in any event no later than 60 days after performing his or her duties, submit to the Corporation,</p> <p class=\"clause-e\">  (a) an account, in the form established by the Corporation; and</p> <p class=\"clause-e\">  (b) a list of any disbursements approved by the Corporation.  O. Reg. 181/04, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#43.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 43. (1) An account that is submitted after the six-month deadline under section 39 or the 60-day deadline under section 42, as the case may be, shall be accompanied by a written request for an extension, addressed to the president and explaining why the extension is appropriate.  O. Reg. 181/04, s. 7. (2) When a request is made under subsection (1), the president has discretion to extend the time during which the account may be submitted.  O. Reg. 181/04, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>43. </b>(1) An account that is submitted after the six-month deadline under section 39 or the 60-day deadline under section 42, as the case may be, shall be accompanied by a written request for an extension, addressed to the president and explaining why the extension is appropriate.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (2) When a request is made under subsection (1), the president has discretion to extend the time during which the account may be submitted.  O. Reg. 181/04, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#44.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 44. (1) On receiving an account submitted under section 39 or 42, the Corporation shall, in accordance with the Act and the regulations, (a) determine the amount to be paid; (b) pay the account, in whole or in part; and (c) inform the lawyer of the amount paid.  O. Reg. 181/04, s. 7. (2) The Corporation is not required to pay an account or part of an account that does not comply with the Act and the regulations, but in that case shall return the account or part to the lawyer with written reasons for refusing payment.  O. Reg. 181/04, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>44. </b>(1) On receiving an account submitted under section 39 or 42, the Corporation shall, in accordance with the Act and the regulations,</p> <p class=\"clause-e\">  (a) determine the amount to be paid;</p> <p class=\"clause-e\">  (b) pay the account, in whole or in part; and</p> <p class=\"clause-e\">  (c) inform the lawyer of the amount paid.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (2) The Corporation is not required to pay an account or part of an account that does not comply with the Act and the regulations, but in that case shall return the account or part to the lawyer with written reasons for refusing payment.  O. Reg. 181/04, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#45.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 45. Fees otherwise payable under the Act and the regulations may be disallowed in whole or in part if they relate to, (a) a proceeding that was, (i) unreasonably taken or prolonged, (ii) not likely to advance the applicant’s interests, or (iii) incurred through negligence; (b) the preparation of a document that was improper, unnecessary or unreasonably long; or (c) other preparation that was unreasonable in its nature or scope or in the time spent.  O. Reg. 181/04, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>45. </b>Fees otherwise payable under the Act and the regulations may be disallowed in whole or in part if they relate to,</p> <p class=\"clause-e\">  (a) a proceeding that was,</p> <p class=\"subclause-e\">  (i) unreasonably taken or prolonged,</p> <p class=\"subclause-e\">  (ii) not likely to advance the applicant’s interests, or</p> <p class=\"subclause-e\">  (iii) incurred through negligence;</p> <p class=\"clause-e\">  (b) the preparation of a document that was improper, unnecessary or unreasonably long; or</p> <p class=\"clause-e\">  (c) other preparation that was unreasonable in its nature or scope or in the time spent.  O. Reg. 181/04, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#46.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 46. (1) A lawyer who is dissatisfied with the amount paid for an account submitted to the Corporation may request, in accordance with subsection (2), that the Corporation review the account.  O. Reg. 181/04, s. 7. (2) The request for review, (a) shall be made within 60 days after the amount is paid for the account; and (b) shall set out the items in the written reasons to which the lawyer objects and the grounds for objecting.  O. Reg. 181/04, s. 7. (3) The Corporation shall review the account, may amend or confirm the amount paid, and shall notify the lawyer of its decision, in writing.  O. Reg. 181/04, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>46. </b>(1) A lawyer who is dissatisfied with the amount paid for an account submitted to the Corporation may request, in accordance with subsection (2), that the Corporation review the account.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (2) The request for review,</p> <p class=\"clause-e\">  (a) shall be made within 60 days after the amount is paid for the account; and </p> <p class=\"clause-e\">  (b) shall set out the items in the written reasons to which the lawyer objects and the grounds for objecting.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (3) The Corporation shall review the account, may amend or confirm the amount paid, and shall notify the lawyer of its decision, in writing.  O. Reg. 181/04, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#47.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 47. (1) A lawyer whose account was reviewed under section 46 and who is dissatisfied with the Corporation’s decision may appeal to an assessment officer appointed under section 90 of the Courts of Justice Act with respect to, (a) the interpretation or application of the regulations; or (b) if the Corporation exercised its discretion, the principles on which it did so.  O. Reg. 181/04, s. 7. (2) The appeal shall be commenced by serving on the Corporation, within 60 days after the Corporation’s decision is issued, a notice of appeal that identifies the decision appealed from and states the grounds of appeal.  O. Reg. 181/04, s. 7. (3) After serving the notice of appeal, the appellant shall, (a) obtain an appointment from the assessment officer for the hearing of the appeal; and (b) give the Corporation at least 60 days notice of the hearing.  O. Reg. 181/04, s. 7. (4) The Corporation and the lawyer may appear at the hearing in person or by counsel.  O. Reg. 181/04, s. 7. (5) The assessment officer’s decision shall be given in the form of a certificate issued to the parties, and is final.  O. Reg. 181/04, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>47. </b>(1) A lawyer whose account was reviewed under section 46 and who is dissatisfied with the Corporation’s decision may appeal to an assessment officer appointed under section 90 of the <i>Courts of Justice Act</i> with respect to,</p> <p class=\"clause-e\">  (a) the interpretation or application of the regulations; or</p> <p class=\"clause-e\">  (b) if the Corporation exercised its discretion, the principles on which it did so.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (2) The appeal shall be commenced by serving on the Corporation, within 60 days after the Corporation’s decision is issued, a notice of appeal that identifies the decision appealed from and states the grounds of appeal.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (3) After serving the notice of appeal, the appellant shall,</p> <p class=\"clause-e\">  (a) obtain an appointment from the assessment officer for the hearing of the appeal; and </p> <p class=\"clause-e\">  (b) give the Corporation at least 60 days notice of the hearing.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (4) The Corporation and the lawyer may appear at the hearing in person or by counsel.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (5) The assessment officer’s decision shall be given in the form of a certificate issued to the parties, and is final.  O. Reg. 181/04, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#48.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 48. (1) The Corporation has discretion to examine an account in detail or to investigate an account, (a) in the case of an account submitted under section 39, at any time before the sixth anniversary of the end of the year in which the final account in relation to the services provided under the certificate was submitted; (b) in the case of an account submitted under section 42, at any time before the sixth anniversary of the end of the year in which the account was submitted.  O. Reg. 181/04, s. 7. (2) If, as a result of an examination in detail or an investigation, the Corporation believes that the account or part of it was not properly payable under the Act or the regulations, the Corporation may take either or both of the following steps: 1. Deduct the amount improperly paid from any future payment. 2. Take any other action required to secure re-payment of the amount improperly paid.  O. Reg. 181/04, s. 7. Service and Delivery of Documents",
+            "raw_html": "<p class=\"section-e\"> <b>48. </b>(1) The Corporation has discretion to examine an account in detail or to investigate an account,</p> <p class=\"clause-e\">  (a) in the case of an account submitted under section 39, at any time before the sixth anniversary of the end of the year in which the final account in relation to the services provided under the certificate was submitted;</p> <p class=\"clause-e\">  (b) in the case of an account submitted under section 42, at any time before the sixth anniversary of the end of the year in which the account was submitted.  O. Reg. 181/04, s. 7.</p> <p class=\"subsection-e\">  (2) If, as a result of an examination in detail or an investigation, the Corporation believes that the account or part of it was not properly payable under the Act or the regulations, the Corporation may take either or both of the following steps:</p> <p class=\"paragraph-e\">  1. Deduct the amount improperly paid from any future payment.</p> <p class=\"paragraph-e\">  2. Take any other action required to secure re-payment of the amount improperly paid.  O. Reg. 181/04, s. 7.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Service and Delivery of Documents</p>"
+        },
+        {
+            "ahref_id": "#49.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 49. (1) When this Regulation requires that a document be served, service may be made, (a) by personal service or by an alternative to personal service in accordance with the Rules of Civil Procedure; (b) in the case of the president or an area director, by prepaid mail addressed to the person at his or her office; (c) in the case of an applicant, by prepaid mail addressed to his or her last known address; (d) in the case of a lawyer, by prepaid mail addressed to his or her office.  O. Reg. 106/99, s. 49 (1). (2) When this Regulation requires that a document be sent, this may be done, (a) by service in accordance with subsection (1); (b) in the case of an applicant, by prepaid mail addressed to the lawyer, if any, acting for the applicant.  O. Reg. 106/99, s. 49 (2). (3) When a document is sent by prepaid mail, it is deemed to be delivered on the seventh day after mailing.  O. Reg. 106/99, s. 49 (3). Transition",
+            "raw_html": "<p class=\"section-e\"> <b>49. </b>(1) When this Regulation requires that a document be served, service may be made,</p> <p class=\"clause-e\">  (a) by personal service or by an alternative to personal service in accordance with the Rules of Civil Procedure;</p> <p class=\"clause-e\">  (b) in the case of the president or an area director, by prepaid mail addressed to the person at his or her office;</p> <p class=\"clause-e\">  (c) in the case of an applicant, by prepaid mail addressed to his or her last known address;</p> <p class=\"clause-e\">  (d) in the case of a lawyer, by prepaid mail addressed to his or her office.  O. Reg. 106/99, s. 49 (1).</p> <p class=\"subsection-e\">  (2) When this Regulation requires that a document be sent, this may be done,</p> <p class=\"clause-e\">  (a) by service in accordance with subsection (1);</p> <p class=\"clause-e\">  (b) in the case of an applicant, by prepaid mail addressed to the lawyer, if any, acting for the applicant.  O. Reg. 106/99, s. 49 (2).</p> <p class=\"subsection-e\">  (3) When a document is sent by prepaid mail, it is deemed to be delivered on the seventh day after mailing.  O. Reg. 106/99, s. 49 (3).</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Transition</p>"
+        },
+        {
+            "ahref_id": "#50.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 50. With respect to the period before April 19, 1999, (a) references in this Regulation to the Family Court of the Superior Court of Justice are deemed to be references to the Family Court of the Ontario Court (General Division); and (b) references in this Regulation to the Ontario Court of Justice are deemed to be references to the Ontario Court (Provincial Division).  O. Reg. 106/99, s. 50.",
+            "raw_html": "<p class=\"section-e\"> <b>50.</b> With respect to the period before April 19, 1999,</p> <p class=\"clause-e\">  (a) references in this Regulation to the Family Court of the Superior Court of Justice are deemed to be references to the Family Court of the Ontario Court (General Division); and</p> <p class=\"clause-e\">  (b) references in this Regulation to the Ontario Court of Justice are deemed to be references to the Ontario Court (Provincial Division).  O. Reg. 106/99, s. 50.</p>"
+        },
+        {
+            "ahref_id": "#51.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 51. Omitted (revokes other Regulations and see note).  O. Reg. 106/99, s. 51.",
+            "raw_html": "<p class=\"section-e\"> <b>51.</b> <span class=\"ovsmallcap\">Omitted (revokes other Regulations and see note)</span>.  O. Reg. 106/99, s. 51.</p>"
+        },
+        {
+            "ahref_id": "#52.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 52. Omitted (provides for coming into force of provisions of the English version of this Regulation).  O. Reg. 106/99, s. 52. Note:  Despite its revocation by section 51 of Ontario Regulation 106/99, section 98 of Regulation 710 of the Revised Regulations of Ontario, 1990 (six-month rule for accounts) continues to apply in respect of certificates issued before April 1, 1999.  See:  O. Reg. 106/99, s. 51.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>52.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of the English version of this Regulation</span>).  O. Reg. 106/99, s. 52.</p> <p class=\"Pnote-e\">Note:  Despite its revocation by section 51 of Ontario Regulation 106/99, section 98 of Regulation 710 of the Revised Regulations of Ontario, 1990 (six-month rule for accounts) continues to apply in respect of certificates issued before April 1, 1999.  See:  O. Reg. 106/99, s. 51.</p> <p class=\"Pnote-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/990106\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

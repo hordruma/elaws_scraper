@@ -1,0 +1,359 @@
+{
+    "act_info": {
+        "full_title": "Regulatory Modernization Act, 2007, S.O. 2007, c. 4 ",
+        "act_name_text": "Regulatory Modernization Act, 2007",
+        "citation": "S.O. 2007, c. 4 ",
+        "url": "https://www.ontario.ca/laws/statute/07r04",
+        "date_scraped": "2023-12-18 22:51:03"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July  1, 2019",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/07r04/v3",
+            "valid_from": "May 29, 2019",
+            "valid_to": "June 30, 2019"
+        },
+        {
+            "a_href": "/laws/statute/07r04/v2",
+            "valid_from": "January 17, 2008",
+            "valid_to": "May 28, 2019"
+        },
+        {
+            "a_href": "/laws/statute/07r04/v1",
+            "valid_from": "May 17, 2007",
+            "valid_to": "January 16, 2008"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/080075",
+            "Citation": "O. Reg. 75/08",
+            "title": "DESIGNATIONS"
+        }
+    ],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I  ",
+            "section_x": "PART I INTERPRETATION AND APPLICATION",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Interpretation",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION AND APPLICATION",
+            "section_y": "Interpretation",
+            "content": "1 (1) In this Act, “designated legislation” means legislation that is designated for the purposes of section 7, 10 or 14, as the context requires; (“texte législatif désigné”) “information” includes personal information; (“renseignements”) “legislation” means an Act or a regulation; (“texte législatif”) “personal information” means personal information within the meaning of the Freedom of Information and Protection of Privacy Act; (“renseignements personnels”) “prescribed” means prescribed in the regulations. (“prescrit”)  2007, c. 4, s. 1 (1). Meaning of “organization” (2) In this Act, a reference to an “organization” means an entity to which designated legislation applies and in respect of which some or all of the types of information set out in section 4 are collected under the authority of or for the purposes of the designated legislation.  2007, c. 4, s. 1 (2). Some individuals are “organizations” (3) An individual shall be considered to be an entity for the purposes of subsection (2) only if, (a) the individual is a sole proprietor and the designated legislation applies to him or her in that capacity; or (b) the individual is a partner in a partnership and the designated legislation applies to him or her in that capacity.  2007, c. 4, s. 1 (3). Meaning of “Minister responsible” (4) In this Act, a reference to a “Minister responsible” for an Act or for a regulation means, (a) in the case of an Act or part of an Act, the Minister responsible for the administration of the Act or part of the Act, as the case may be; (b) in the case of a regulation, the Minister responsible for the administration of the provision of the Act under which the regulation is made.  2007, c. 4, s. 1 (4).",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>1 </b>(1) In this Act,</p> <p class=\"definition\">“designated legislation” means legislation that is designated for the purposes of section 7, 10 or 14, as the context requires; (“texte législatif désigné”)</p> <p class=\"definition\">“information” includes personal information; (“renseignements”)</p> <p class=\"definition\">“legislation” means an Act or a regulation; (“texte législatif”)</p> <p class=\"definition\">“personal information” means personal information within the meaning of the <i>Freedom of Information and Protection of Privacy Act</i>; (“renseignements personnels”)</p> <p class=\"definition\">“prescribed” means prescribed in the regulations. (“prescrit”)  2007, c. 4, s. 1 (1).</p> <p class=\"headnote\">Meaning of “organization”</p> <p class=\"subsection\">(2) In this Act, a reference to an “organization” means an entity to which designated legislation applies and in respect of which some or all of the types of information set out in section 4 are collected under the authority of or for the purposes of the designated legislation.  2007, c. 4, s. 1 (2).</p> <p class=\"headnote\">Some individuals are “organizations”</p> <p class=\"subsection\">(3) An individual shall be considered to be an entity for the purposes of subsection (2) only if,</p> <p class=\"paragraph\">  (a) the individual is a sole proprietor and the designated legislation applies to him or her in that capacity; or</p> <p class=\"paragraph\">  (b) the individual is a partner in a partnership and the designated legislation applies to him or her in that capacity.  2007, c. 4, s. 1 (3).</p> <p class=\"headnote\">Meaning of “Minister responsible”</p> <p class=\"subsection\">(4) In this Act, a reference to a “Minister responsible” for an Act or for a regulation means,</p> <p class=\"paragraph\">  (a) in the case of an Act or part of an Act, the Minister responsible for the administration of the Act or part of the Act, as the case may be;</p> <p class=\"paragraph\">  (b) in the case of a regulation, the Minister responsible for the administration of the provision of the Act under which the regulation is made.  2007, c. 4, s. 1 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "2.",
+            "section_x": "Scope of Act",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION AND APPLICATION",
+            "section_y": "Scope of Act",
+            "content": "2 Nothing in this Act shall be interpreted to, (a) limit the collection, use or disclosure of information if the collection, use or disclosure is authorized or required by law; (b) authorize or require the collection, use or disclosure of information if the collection, use or disclosure is prohibited by law; (c) limit or interfere with any power or duty that a person may have, including but not limited to, the power or duty of a head of an institution, within the meaning of the Freedom of Information and Protection of Privacy Act, to refuse to disclose information in accordance with that Act.  2007, c. 4, s. 2.",
+            "raw_html": "<p class=\"section\"><a name=\"BK2\"></a><b>2 </b>Nothing in this Act shall be interpreted to,</p> <p class=\"paragraph\">  (a) limit the collection, use or disclosure of information if the collection, use or disclosure is authorized or required by law;</p> <p class=\"paragraph\">  (b) authorize or require the collection, use or disclosure of information if the collection, use or disclosure is prohibited by law;</p> <p class=\"paragraph\">  (c) limit or interfere with any power or duty that a person may have, including but not limited to, the power or duty of a head of an institution, within the meaning of the <i>Freedom of Information and Protection of Privacy Act</i>, to refuse to disclose information in accordance with that Act.  2007, c. 4, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "3.",
+            "section_x": "Crown bound",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION AND APPLICATION",
+            "section_y": "Crown bound",
+            "content": "3 This Act binds the Crown.  2007, c. 4, s. 3. Types of Information and Purposes for which it may be Collected, etc.",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>3 </b>This Act binds the Crown.  2007, c. 4, s. 3.</p> <p class=\"heading1\"><a name=\"BK4\"></a>Types of Information and Purposes for which it may be Collected, etc.</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "Types of Information and Purposes for which it may be Collected, etc.",
+            "section_x": "Types of Information and Purposes for which it may be Collected, etc.",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION AND APPLICATION",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "4.",
+            "section_x": "Types of information",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION AND APPLICATION",
+            "section_y": "Types of information ",
+            "content": "4 The following types of information may be collected, used and disclosed in accordance with an authorization made under section 7 or 14: 1. The legal name of an organization. 2. The name under which an organization operates, if it is not the legal name. 3. The address, telephone number, fax number and e-mail address of a facility, principal place, head office or other place where the organization operates. 4. Any identifying number, symbol or other identifier assigned to an organization under designated legislation. 5. Statistical information about an organization and the sector or industry in which the organization operates. 6. With respect to a licence, permit, certificate or other similar approval that an organization may or is required to obtain under designated legislation, information about its issuance or renewal, a refusal to issue or renew it or its suspension, revocation or cancellation. 7. Information about complaints filed in respect of an organization where the complaint is regarding conduct that may be in contravention of designated legislation. 8. Information compiled in connection with an examination, test, audit, inspection, investigation or other inquiry with respect to an organization under designated legislation, including but not limited to, information regarding forms, notes or reports generated by the inquiry. 9. Information related to an organization’s compliance with designated legislation, including but not limited to, information about convictions and penalties imposed on conviction and information regarding orders or notices issued under the designated legislation. 10. With respect to an organization, any other type of information that is prescribed. 11. With respect to an owner, officer or director of an organization, i. his or her name, home address and home telephone number, and ii. the types of information described in paragraphs 8 and 9 where they pertain to the owner, officer or director in that capacity.  2007, c. 4, s. 4.",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>4 </b>The following types of information may be collected, used and disclosed in accordance with an authorization made under section 7 or 14:</p> <p class=\"paragraph\">  1. The legal name of an organization.</p> <p class=\"paragraph\">  2. The name under which an organization operates, if it is not the legal name.</p> <p class=\"paragraph\">  3. The address, telephone number, fax number and e-mail address of a facility, principal place, head office or other place where the organization operates.</p> <p class=\"paragraph\">  4. Any identifying number, symbol or other identifier assigned to an organization under designated legislation.</p> <p class=\"paragraph\">  5. Statistical information about an organization and the sector or industry in which the organization operates.</p> <p class=\"paragraph\">  6. With respect to a licence, permit, certificate or other similar approval that an organization may or is required to obtain under designated legislation, information about its issuance or renewal, a refusal to issue or renew it or its suspension, revocation or cancellation.</p> <p class=\"paragraph\">  7. Information about complaints filed in respect of an organization where the complaint is regarding conduct that may be in contravention of designated legislation. </p> <p class=\"paragraph\">  8. Information compiled in connection with an examination, test, audit, inspection, investigation or other inquiry with respect to an organization under designated legislation, including but not limited to, information regarding forms, notes or reports generated by the inquiry.</p> <p class=\"paragraph\">  9. Information related to an organization’s compliance with designated legislation, including but not limited to, information about convictions and penalties imposed on conviction and information regarding orders or notices issued under the designated legislation.</p> <p class=\"paragraph\">  10. With respect to an organization, any other type of information that is prescribed.</p> <p class=\"paragraph\">  11. With respect to an owner, officer or director of an organization,</p> <p class=\"subpara\">  i. his or her name, home address and home telephone number, and</p> <p class=\"subpara\">  ii. the types of information described in paragraphs 8 and 9 where they pertain to the owner, officer or director in that capacity.  2007, c. 4, s. 4.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "5.",
+            "section_x": "Purposes",
+            "part_id": "PART I  ",
+            "part_type": "PART I INTERPRETATION AND APPLICATION",
+            "section_y": "Purposes",
+            "content": "5 The following are purposes for which information may be collected, used and disclosed in accordance with an authorization made under section 7 or 14: 1. To conduct statistical and risk analysis. 2. To update or verify the accuracy of records. 3. To assist with determinations regarding an organization’s entitlement or eligibility for a licence, permit, certificate or other approval under designated legislation. 4. To assist in the planning and conduct of an examination, test, audit, inspection or other inquiry under designated legislation. 5. To assist with an appeal, review or other similar administrative proceeding under designated legislation. 6. To assist with a sentencing proceeding. 7. To compile information about an organization’s compliance with designated legislation. 8. To make the following available to the public: i. the types of information described in paragraphs 5 to 10 of section 4, and ii. information about convictions and penalties imposed on conviction in the case of an individual who is not an organization. 9. Any other prescribed purpose related to the administration and enforcement of designated legislation.  2007, c. 4, s. 5. Part II   information sharing Authorizations to Collect, Use and Disclose Information",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>5 </b>The following are purposes for which information may be collected, used and disclosed in accordance with an authorization made under section 7 or 14:</p> <p class=\"paragraph\">  1. To conduct statistical and risk analysis.</p> <p class=\"paragraph\">  2. To update or verify the accuracy of records.</p> <p class=\"paragraph\">  3. To assist with determinations regarding an organization’s entitlement or eligibility for a licence, permit, certificate or other approval under designated legislation.</p> <p class=\"paragraph\">  4. To assist in the planning and conduct of an examination, test, audit, inspection or other inquiry under designated legislation.</p> <p class=\"paragraph\">  5. To assist with an appeal, review or other similar administrative proceeding under designated legislation.</p> <p class=\"paragraph\">  6. To assist with a sentencing proceeding.</p> <p class=\"paragraph\">  7. To compile information about an organization’s compliance with designated legislation.</p> <p class=\"paragraph\">  8. To make the following available to the public:</p> <p class=\"subpara\">  i. the types of information described in paragraphs 5 to 10 of section 4, and</p> <p class=\"subpara\">  ii. information about convictions and penalties imposed on conviction in the case of an individual who is not an organization.</p> <p class=\"paragraph\">  9. Any other prescribed purpose related to the administration and enforcement of designated legislation.  2007, c. 4, s. 5.</p> <p class=\"partnum\"><a name=\"BK7\"></a>Part II <br/>  information sharing</p> <p class=\"heading1\"><a name=\"BK8\"></a>Authorizations to Collect, Use and Disclose Information</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "PART II  ",
+            "section_x": "PART II INFORMATION SHARING",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "Authorizations to Collect, Use and Disclose Information",
+            "section_x": "Authorizations to Collect, Use and Disclose Information",
+            "part_id": "PART II  ",
+            "part_type": "PART II INFORMATION SHARING",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "6.",
+            "section_x": "Designating legislation – information sharing",
+            "part_id": "PART II  ",
+            "part_type": "PART II INFORMATION SHARING",
+            "section_y": "Designating legislation – information sharing",
+            "content": "6 (1) The Lieutenant Governor in Council may make regulations designating legislation for the purposes of section 7.  2007, c. 4, s. 6 (1). Same (2) A regulation made under this section may, (a) designate an Act or regulation in whole or in part; (b) specify that a designation is limited and only applies for such purposes as are set out in the regulation.  2007, c. 4, s. 6 (2). Regulations designated by default (3) Where all or part of an Act is designated under this section, all regulations made under that Act are also designated, unless the regulations designating that Act provide otherwise.  2007, c. 4, s. 6 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>6 </b>(1) The Lieutenant Governor in Council may make regulations designating legislation for the purposes of section 7.  2007, c. 4, s. 6 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) A regulation made under this section may,</p> <p class=\"paragraph\">  (a) designate an Act or regulation in whole or in part;</p> <p class=\"paragraph\">  (b) specify that a designation is limited and only applies for such purposes as are set out in the regulation.  2007, c. 4, s. 6 (2).</p> <p class=\"headnote\">Regulations designated by default</p> <p class=\"subsection\">(3) Where all or part of an Act is designated under this section, all regulations made under that Act are also designated, unless the regulations designating that Act provide otherwise.  2007, c. 4, s. 6 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "7.",
+            "section_x": "Authorization to collect and use information",
+            "part_id": "PART II  ",
+            "part_type": "PART II INFORMATION SHARING",
+            "section_y": "Authorization to collect and use information",
+            "content": "7 (1) A Minister responsible for an Act or regulation designated for the purposes of this section may authorize any person or class of persons to collect and use information that was originally collected under the authority of or for the purposes of any other legislation designated for the purposes of this section.  2007, c. 4, s. 7 (1). Authorization to disclose information (2) A Minister responsible for an Act or regulation designated for the purposes of this section may authorize any person or class of persons to disclose information that was originally collected under the authority of or for the purposes of that Act or regulation.  2007, c. 4, s. 7 (2). Limitation on collection, etc. (3) No person shall, (a) in exercising an authorization under subsection (1), collect information other than from a person who is authorized to disclose that information under subsection (2); and (b) in exercising an authorization under subsection (2), disclose information other than to a person who is authorized to collect that information under subsection (1).  2007, c. 4, s. 7 (3). Requirements for authorizations (4) An authorization under this section shall, (a) be in writing; (b) specify the type or types of information, from those described in section 4, for which it applies; (c) specify the purpose or purposes, from those described in section 5, for which it applies; and (d) specify the time period for which it is valid.  2007, c. 4, s. 7 (4). Minister’s powers (5) A Minister may, on issuing an authorization under this section, or at any other time, attach such conditions to the authorization as he or she considers appropriate.  2007, c. 4, s. 7 (5). Same (6) A Minister may delegate any of his or her powers under this section.  2007, c. 4, s. 7 (6). Authorizations re existing information (7) For greater certainty, an authorization under this section may be made in respect of information that was originally collected under the authority of or for the purposes of legislation designated for the purposes of this section, (a) before the day on which the legislation was so designated; (b) before the day on which this Act came into force.  2007, c. 4, s. 7 (7).",
+            "raw_html": "<p class=\"section\"><a name=\"BK10\"></a><b>7 </b>(1) A Minister responsible for an Act or regulation designated for the purposes of this section may authorize any person or class of persons to collect and use information that was originally collected under the authority of or for the purposes of any other legislation designated for the purposes of this section.  2007, c. 4, s. 7 (1).</p> <p class=\"headnote\">Authorization to disclose information</p> <p class=\"subsection\">(2) A Minister responsible for an Act or regulation designated for the purposes of this section may authorize any person or class of persons to disclose information that was originally collected under the authority of or for the purposes of that Act or regulation.  2007, c. 4, s. 7 (2).</p> <p class=\"headnote\">Limitation on collection, etc.</p> <p class=\"subsection\">(3) No person shall,</p> <p class=\"paragraph\">  (a) in exercising an authorization under subsection (1), collect information other than from a person who is authorized to disclose that information under subsection (2); and</p> <p class=\"paragraph\">  (b) in exercising an authorization under subsection (2), disclose information other than to a person who is authorized to collect that information under subsection (1).  2007, c. 4, s. 7 (3).</p> <p class=\"headnote\">Requirements for authorizations</p> <p class=\"subsection\">(4) An authorization under this section shall,</p> <p class=\"paragraph\">  (a) be in writing;</p> <p class=\"paragraph\">  (b) specify the type or types of information, from those described in section 4, for which it applies;</p> <p class=\"paragraph\">  (c) specify the purpose or purposes, from those described in section 5, for which it applies; and</p> <p class=\"paragraph\">  (d) specify the time period for which it is valid.  2007, c. 4, s. 7 (4).</p> <p class=\"headnote\">Minister’s powers</p> <p class=\"subsection\">(5) A Minister may, on issuing an authorization under this section, or at any other time, attach such conditions to the authorization as he or she considers appropriate.  2007, c. 4, s. 7 (5).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(6) A Minister may delegate any of his or her powers under this section.  2007, c. 4, s. 7 (6).</p> <p class=\"headnote\">Authorizations re existing information</p> <p class=\"subsection\">(7) For greater certainty, an authorization under this section may be made in respect of information that was originally collected under the authority of or for the purposes of legislation designated for the purposes of this section,</p> <p class=\"paragraph\">  (a) before the day on which the legislation was so designated;</p> <p class=\"paragraph\">  (b) before the day on which this Act came into force.  2007, c. 4, s. 7 (7).</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "8.",
+            "section_x": "FIPPA",
+            "part_id": "PART II  ",
+            "part_type": "PART II INFORMATION SHARING",
+            "section_y": "FIPPA",
+            "content": "8 Any disclosure of personal information that is authorized under section 7 shall be deemed to be in compliance with clause 42 (1) (e) of the Freedom of Information and Protection of Privacy Act.  2007, c. 4, s. 8. Observations Made While Exercising Functions under Legislation",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>8 </b>Any disclosure of personal information that is authorized under section 7 shall be deemed to be in compliance with clause 42 (1) (e) of the<i> Freedom of Information and Protection of Privacy Act</i>. <i> </i>2007, c. 4, s. 8.</p> <p class=\"heading1\"><a name=\"BK12\"></a>Observations Made While Exercising Functions under Legislation</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "Observations Made While Exercising Functions under Legislation",
+            "section_x": "Observations Made While Exercising Functions under Legislation",
+            "part_id": "PART II  ",
+            "part_type": "PART II INFORMATION SHARING",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "9.",
+            "section_x": "Observing and disclosing",
+            "part_id": "PART II  ",
+            "part_type": "PART II INFORMATION SHARING",
+            "section_y": "Observing and disclosing",
+            "content": "9 (1) A person who is lawfully present in a place in the exercise of powers or performance of duties under an Act or regulation and who makes an observation, visual or otherwise, that is likely to be relevant to the administration or enforcement of another Act or regulation may record the observation and disclose it to a person who administers or enforces the other Act or regulation.  2007, c. 4, s. 9 (1). FIPPA (2) For the purposes of clauses 41 (1) (b) and 42 (1) (c) of the Freedom of Information and Protection and Privacy Act, any personal information recorded under subsection (1) shall be deemed to have been collected for the purpose of the other Act or regulation.  2007, c. 4, s. 9 (2). Publication of Specified Information",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>9 </b>(1) A person who is lawfully present in a place in the exercise of powers or performance of duties under an Act or regulation and who makes an observation, visual or otherwise, that is likely to be relevant to the administration or enforcement of another Act or regulation may record the observation and disclose it to a person who administers or enforces the other Act or regulation.  2007, c. 4, s. 9 (1).</p> <p class=\"headnote\">FIPPA</p> <p class=\"subsection\">(2) For the purposes of clauses 41 (1) (b) and 42 (1) (c) of the <i>Freedom of Information and Protection and Privacy Act</i>, any personal information recorded under subsection (1) shall be deemed to have been collected for the purpose of the other Act or regulation.  2007, c. 4, s. 9 (2).</p> <p class=\"heading1\"><a name=\"BK14\"></a>Publication of Specified Information</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "Publication of Specified Information",
+            "section_x": "Publication of Specified Information",
+            "part_id": "PART II  ",
+            "part_type": "PART II INFORMATION SHARING",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "10.",
+            "section_x": "Designating legislation – publication",
+            "part_id": "PART II  ",
+            "part_type": "PART II INFORMATION SHARING",
+            "section_y": "Designating legislation – publication",
+            "content": "10 (1) The Lieutenant Governor in Council may make regulations designating legislation for the purposes of this section.  2007, c. 4, s. 10 (1). Same (2) A regulation made under this section may, (a) designate an Act or regulation in whole or in part; (b) specify that a designation is limited and only applies for such purposes as are set out in the regulation.  2007, c. 4, s. 10 (2). Regulations designated by default (3) Where all or part of an Act is designated under this section, all regulations made under that Act are also designated, unless the regulations designating that Act provide otherwise.  2007, c. 4, s. 10 (3). Publication of information (4) The Minister responsible for legislation designated under this section may publish or otherwise make available to the public the following information: 1. Statistical information about an organization and the sector or industry in which the organization operates. 2. With respect to a licence, permit, certificate or other similar approval that an organization may or is required to obtain under the designated legislation, information about its issuance or renewal, a refusal to issue or renew it or its suspension, revocation or cancellation. 3. Information about complaints filed in respect of an organization where the complaint is regarding conduct that may be in contravention of the designated legislation. 4. Information compiled in connection with an examination, test, audit, inspection, investigation or other inquiry with respect to an organization under the designated legislation, including but not limited to, information regarding forms, notes or reports generated by the inquiry. 5. Information related to an organization’s compliance with the designated legislation, including but not limited to, information about convictions and penalties imposed on conviction and information regarding orders or notices issued under the designated legislation. 6. Information about convictions and penalties imposed on conviction under the designated legislation, in the case of an individual who is not an organization.  2007, c. 4, s. 10 (4). Minister may delegate (5) A Minister may delegate any of his or her powers under this section.  2007, c. 4, s. 10 (5). Clarification of authority (6) For greater certainty, authority to publish under this section includes authority to, (a) publish on the Internet; (b) publish information that was originally collected under legislation before the day on which the legislation was designated for the purposes of this section; (c) publish information that was originally collected before the day this Act came into force or relates to circumstances that occurred before that day.  2007, c. 4, s. 10 (6).",
+            "raw_html": "<p class=\"section\"><a name=\"BK15\"></a><b>10 </b>(1) The Lieutenant Governor in Council may make regulations designating legislation for the purposes of this section.  2007, c. 4, s. 10 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) A regulation made under this section may,</p> <p class=\"paragraph\">  (a) designate an Act or regulation in whole or in part;</p> <p class=\"paragraph\">  (b) specify that a designation is limited and only applies for such purposes as are set out in the regulation.  2007, c. 4, s. 10 (2).</p> <p class=\"headnote\">Regulations designated by default</p> <p class=\"subsection\">(3) Where all or part of an Act is designated under this section, all regulations made under that Act are also designated, unless the regulations designating that Act provide otherwise.  2007, c. 4, s. 10 (3).</p> <p class=\"headnote\">Publication of information</p> <p class=\"subsection\">(4) The Minister responsible for legislation designated under this section may publish or otherwise make available to the public the following information:</p> <p class=\"paragraph\">  1. Statistical information about an organization and the sector or industry in which the organization operates.</p> <p class=\"paragraph\">  2. With respect to a licence, permit, certificate or other similar approval that an organization may or is required to obtain under the designated legislation, information about its issuance or renewal, a refusal to issue or renew it or its suspension, revocation or cancellation.</p> <p class=\"paragraph\">  3. Information about complaints filed in respect of an organization where the complaint is regarding conduct that may be in contravention of the designated legislation.</p> <p class=\"paragraph\">  4. Information compiled in connection with an examination, test, audit, inspection, investigation or other inquiry with respect to an organization under the designated legislation, including but not limited to, information regarding forms, notes or reports generated by the inquiry.</p> <p class=\"paragraph\">  5. Information related to an organization’s compliance with the designated legislation, including but not limited to, information about convictions and penalties imposed on conviction and information regarding orders or notices issued under the designated legislation.</p> <p class=\"paragraph\">  6. Information about convictions and penalties imposed on conviction under the designated legislation, in the case of an individual who is not an organization.  2007, c. 4, s. 10 (4).</p> <p class=\"headnote\">Minister may delegate</p> <p class=\"subsection\">(5) A Minister may delegate any of his or her powers under this section.  2007, c. 4, s. 10 (5).</p> <p class=\"headnote\">Clarification of authority</p> <p class=\"subsection\">(6) For greater certainty, authority to publish under this section includes authority to,</p> <p class=\"paragraph\">  (a) publish on the Internet;</p> <p class=\"paragraph\">  (b) publish information that was originally collected under legislation before the day on which the legislation was designated for the purposes of this section; </p> <p class=\"paragraph\">  (c) publish information that was originally collected before the day this Act came into force or relates to circumstances that occurred before that day.  2007, c. 4, s. 10 (6).</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "11.",
+            "section_x": "FIPPA",
+            "part_id": "PART II  ",
+            "part_type": "PART II INFORMATION SHARING",
+            "section_y": "FIPPA",
+            "content": "11 Any disclosure of personal information that is authorized under section 10 shall be deemed to be in compliance with clause 42 (1) (e) of the Freedom of Information and Protection of Privacy Act.  2007, c. 4, s. 11. Legislation no Longer in Force",
+            "raw_html": "<p class=\"section\"><a name=\"BK16\"></a><b>11 </b>Any disclosure of personal information that is authorized under section 10 shall be deemed to be in compliance with clause 42 (1) (e) of the<i> Freedom of Information and Protection of Privacy Act</i>.  2007, c. 4, s. 11.</p> <p class=\"heading1\"><a name=\"BK17\"></a>Legislation no Longer in Force</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "Legislation no Longer in Force",
+            "section_x": "Legislation no Longer in Force",
+            "part_id": "PART II  ",
+            "part_type": "PART II INFORMATION SHARING",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "12.",
+            "section_x": "Designating repealed legislation",
+            "part_id": "PART II  ",
+            "part_type": "PART II INFORMATION SHARING",
+            "section_y": "Designating repealed legislation",
+            "content": "12 (1) The Lieutenant Governor in Council may make regulations designating a repealed Act or a revoked regulation for the purposes of section 7 or section 10.  2007, c. 4, s. 12 (1). Same (2) A regulation made under this section may, (a) designate a repealed Act or revoked regulation in whole or in part; (b) specify that a designation is limited and only applies for such purposes as are set out in the regulation.  2007, c. 4, s. 12 (2). Regulations designated by default (3) Where all or part of a repealed Act is designated under this section, all regulations made under that repealed Act are also designated, unless the regulations designating that repealed Act provide otherwise.  2007, c. 4, s. 12 (3). Other provisions apply (4) Sections 7 and 8 apply with necessary modifications with respect to a repealed Act or revoked regulation designated for the purposes of section 7.  2007, c. 4, s. 12 (4). Same (5) Subsections 10 (4) to (6) and section 11 apply with necessary modifications with respect to a repealed Act or revoked regulation designated for the purposes of section 10.  2007, c. 4, s. 12 (5). Minister responsible (6) The Lieutenant Governor in Council shall, in making regulations under this section, specify which Minister shall be the “Minister responsible” for the purposes of, (a) exercising the powers set out in subsection 7 (2), with respect to a repealed Act or revoked regulation designated for the purposes of section 7; (b) publishing information under subsection 10 (4), with respect to a repealed Act or revoked regulation designated for the purposes of section 10.  2007, c. 4, s. 12 (6). Part III   Authorizations to Exercise Functions under Multiple Acts or regulations",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>12 </b>(1) The Lieutenant Governor in Council may make regulations designating a repealed Act or a revoked regulation for the purposes of section 7 or section 10.  2007, c. 4, s. 12 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) A regulation made under this section may,</p> <p class=\"paragraph\">  (a) designate a repealed Act or revoked regulation in whole or in part;</p> <p class=\"paragraph\">  (b) specify that a designation is limited and only applies for such purposes as are set out in the regulation.  2007, c. 4, s. 12 (2).</p> <p class=\"headnote\">Regulations designated by default</p> <p class=\"subsection\">(3) Where all or part of a repealed Act is designated under this section, all regulations made under that repealed Act are also designated, unless the regulations designating that repealed Act provide otherwise.  2007, c. 4, s. 12 (3).</p> <p class=\"headnote\">Other provisions apply</p> <p class=\"subsection\">(4) Sections 7 and 8 apply with necessary modifications with respect to a repealed Act or revoked regulation designated for the purposes of section 7.  2007, c. 4, s. 12 (4).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(5) Subsections 10 (4) to (6) and section 11 apply with necessary modifications with respect to a repealed Act or revoked regulation designated for the purposes of section 10.  2007, c. 4, s. 12 (5).</p> <p class=\"headnote\">Minister responsible</p> <p class=\"subsection\">(6) The Lieutenant Governor in Council shall, in making regulations under this section, specify which Minister shall be the “Minister responsible” for the purposes of,</p> <p class=\"paragraph\">  (a) exercising the powers set out in subsection 7 (2), with respect to a repealed Act or revoked regulation designated for the purposes of section 7;</p> <p class=\"paragraph\">  (b) publishing information under subsection 10 (4), with respect to a repealed Act or revoked regulation designated for the purposes of section 10.  2007, c. 4, s. 12 (6).</p> <p class=\"partnum\"><a name=\"BK19\"></a>Part III <br/>  Authorizations to Exercise Functions under Multiple Acts or regulations</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "PART III  ",
+            "section_x": "PART III AUTHORIZATIONS TO EXERCISE FUNCTIONS UNDER MULTIPLE ACTS OR REGULATIONS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "13.",
+            "section_x": "Designating legislation – multiple authorizations",
+            "part_id": "PART III  ",
+            "part_type": "PART III AUTHORIZATIONS TO EXERCISE FUNCTIONS UNDER MULTIPLE ACTS OR REGULATIONS",
+            "section_y": "Designating legislation – multiple authorizations",
+            "content": "13 (1) The Lieutenant Governor in Council may make regulations designating legislation for the purposes of section 14.  2007, c. 4, s. 13 (1). Same (2) A regulation made under this section may, (a) designate an Act or regulation in whole or in part; (b) specify that a designation is limited and only applies for such purposes as are set out in the regulation.  2007, c. 4, s. 13 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>13 </b>(1) The Lieutenant Governor in Council may make regulations designating legislation for the purposes of section 14.  2007, c. 4, s. 13 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) A regulation made under this section may,</p> <p class=\"paragraph\">  (a) designate an Act or regulation in whole or in part;</p> <p class=\"paragraph\">  (b) specify that a designation is limited and only applies for such purposes as are set out in the regulation.  2007, c. 4, s. 13 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "14.",
+            "section_x": "Multiple authorizations – one Minister",
+            "part_id": "PART III  ",
+            "part_type": "PART III AUTHORIZATIONS TO EXERCISE FUNCTIONS UNDER MULTIPLE ACTS OR REGULATIONS",
+            "section_y": "Multiple authorizations – one Minister",
+            "content": "14 (1) A Minister responsible for two or more Acts or regulations designated for the purposes of this section may authorize any person or class of persons to exercise any power or perform any duty that someone could be authorized to exercise or perform under each of those Acts or regulations.  2007, c. 4, s. 14 (1). Multiple authorizations – two or more Ministers (2) Two or more Ministers who are the Ministers responsible for two or more Acts or regulations designated for the purposes of this section may authorize any person or class of persons to exercise any power or perform any duty that someone could be authorized to exercise or perform under each of those Acts or regulations.  2007, c. 4, s. 14 (2). Limitation on collection, etc. (3) No person who is authorized under this section shall, in exercising a power or performing a duty, collect, use or disclose information other than, (a) information of a type described in section 4; and (b) for a purpose described in section 5.  2007, c. 4, s. 14 (3). Requirements for authorizations (4) An authorization under this section shall, (a) be in writing; (b) specify, with respect to each designated Act or regulation, the powers or duties for which the authorization applies; (c) specify the type or types of information, from those described in section 4, in respect of which a collection, use or disclosure under the authorization may occur; (d) specify the purpose or purposes, from those described in section 5, for which a collection, use or disclosure under the authorization may occur; and (e) specify the time period for which it is valid.  2007, c. 4, s. 14 (4). Same (5) In the case of an authorization by multiple Ministers under subsection (2), the requirements set out in subsection (4) must be satisfied by every participating Minister with respect to every relevant Act or regulation for which he or she is the Minister responsible.  2007, c. 4, s. 14 (5). Minister’s powers (6) A Minister may, on issuing an authorization under this section, or at any other time, attach such conditions to the authorization as he or she considers appropriate.  2007, c. 4, s. 14 (6). FIPPA (7) For the purposes of clauses 41 (1) (b) and 42 (1) (c) of the Freedom of Information and Protection and Privacy Act, any personal information collected by a person authorized under this section shall be deemed to have been collected for the purpose of the administration or enforcement of each Act in respect of which the person has been authorized.  2007, c. 4, s. 14 (7). PART IV   General Sentencing Considerations",
+            "raw_html": "<p class=\"section\"><a name=\"BK21\"></a><b>14 </b>(1) A Minister responsible for two or more Acts or regulations designated for the purposes of this section may authorize any person or class of persons to exercise any power or perform any duty that someone could be authorized to exercise or perform under each of those Acts or regulations.  2007, c. 4, s. 14 (1).</p> <p class=\"headnote\">Multiple authorizations – two or more Ministers</p> <p class=\"subsection\">(2) Two or more Ministers who are the Ministers responsible for two or more Acts or regulations designated for the purposes of this section may authorize any person or class of persons to exercise any power or perform any duty that someone could be authorized to exercise or perform under each of those Acts or regulations.  2007, c. 4, s. 14 (2).</p> <p class=\"headnote\">Limitation on collection, etc.</p> <p class=\"subsection\">(3) No person who is authorized under this section shall, in exercising a power or performing a duty, collect, use or disclose information other than,</p> <p class=\"paragraph\">  (a) information of a type described in section 4; and</p> <p class=\"paragraph\">  (b) for a purpose described in section 5.  2007, c. 4, s. 14 (3).</p> <p class=\"headnote\">Requirements for authorizations</p> <p class=\"subsection\">(4) An authorization under this section shall,</p> <p class=\"paragraph\">  (a) be in writing;</p> <p class=\"paragraph\">  (b) specify, with respect to each designated Act or regulation, the powers or duties for which the authorization applies;</p> <p class=\"paragraph\">  (c) specify the type or types of information, from those described in section 4, in respect of which a collection, use or disclosure under the authorization may occur;</p> <p class=\"paragraph\">  (d) specify the purpose or purposes, from those described in section 5, for which a collection, use or disclosure under the authorization may occur; and</p> <p class=\"paragraph\">  (e) specify the time period for which it is valid.  2007, c. 4, s. 14 (4).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(5) In the case of an authorization by multiple Ministers under subsection (2), the requirements set out in subsection (4) must be satisfied by every participating Minister with respect to every relevant Act or regulation for which he or she is the Minister responsible.  2007, c. 4, s. 14 (5).</p> <p class=\"headnote\">Minister’s powers</p> <p class=\"subsection\">(6) A Minister may, on issuing an authorization under this section, or at any other time, attach such conditions to the authorization as he or she considers appropriate.  2007, c. 4, s. 14 (6).</p> <p class=\"headnote\">FIPPA</p> <p class=\"subsection\">(7) For the purposes of clauses 41 (1) (b) and 42 (1) (c) of the <i>Freedom of Information and Protection and Privacy Act</i>, any personal information collected by a person authorized under this section shall be deemed to have been collected for the purpose of the administration or enforcement of each Act in respect of which the person has been authorized.  2007, c. 4, s. 14 (7).</p> <p class=\"partnum\"><a name=\"BK22\"></a>PART IV <br/>  General</p> <p class=\"heading1\"><a name=\"BK23\"></a>Sentencing Considerations</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "PART IV  ",
+            "section_x": "PART IV GENERAL",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "Sentencing Considerations",
+            "section_x": "Sentencing Considerations",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "15.",
+            "section_x": "Previous conviction",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": "Previous conviction",
+            "content": "15 (1) This section applies when a person who is convicted of an offence has previously been convicted of an offence under the same or another Act.  2007, c. 4, s. 15 (1). Same (2) The previous conviction may have occurred at any time, including before the day this Act came into force.  2007, c. 4, s. 15 (2). Severity of penalty (3) Where the prosecutor is of the opinion that the previous conviction is relevant to the determination of the appropriate penalty for the current conviction, he or she may request that the court consider the previous conviction to be an aggravating factor.  2007, c. 4, s. 15 (3). Response of court (4) Where a court receives a request under subsection (3), the court shall, on imposing the penalty, (a) indicate whether it is imposing a more severe penalty having regard to the previous conviction; and (b) if the court decides that the previous conviction does not justify a more severe penalty, give reasons for that decision.  2007, c. 4, s. 15 (4). Other factors still relevant (5) Nothing in this section shall be interpreted as limiting any factor, submission or inquiry as to penalty the court is otherwise permitted or required to take into account or make, as the case may be.  2007, c. 4, s. 15 (5). Liability, Compellability in Civil Proceedings",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>15 </b>(1) This section applies when a person who is convicted of an offence has previously been convicted of an offence under the same or another Act.  2007, c. 4, s. 15 (1).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(2) The previous conviction may have occurred at any time, including before the day this Act came into force.  2007, c. 4, s. 15 (2).</p> <p class=\"headnote\">Severity of penalty</p> <p class=\"subsection\">(3) Where the prosecutor is of the opinion that the previous conviction is relevant to the determination of the appropriate penalty for the current conviction, he or she may request that the court consider the previous conviction to be an aggravating factor.  2007, c. 4, s. 15 (3).</p> <p class=\"headnote\">Response of court </p> <p class=\"subsection\">(4) Where a court receives a request under subsection (3), the court shall, on imposing the penalty,</p> <p class=\"paragraph\">  (a) indicate whether it is imposing a more severe penalty having regard to the previous conviction; and</p> <p class=\"paragraph\">  (b) if the court decides that the previous conviction does not justify a more severe penalty, give reasons for that decision.  2007, c. 4, s. 15 (4).</p> <p class=\"headnote\">Other factors still relevant</p> <p class=\"subsection\">(5) Nothing in this section shall be interpreted as limiting any factor, submission or inquiry as to penalty the court is otherwise permitted or required to take into account or make, as the case may be.  2007, c. 4, s. 15 (5).</p> <p class=\"heading1\"><a name=\"BK25\"></a>Liability, Compellability in Civil Proceedings</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "Liability, Compellability in Civil Proceedings",
+            "section_x": "Liability, Compellability in Civil Proceedings",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "16.",
+            "section_x": "Protection from personal liability",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": "Protection from personal liability",
+            "content": "16 (1) No action or other proceeding for damages shall be commenced against any person acting under this Act for any act done in good faith in the exercise or intended exercise of any power or in the performance or intended performance of any duty under this Act or any alleged neglect or default in the execution or performance in good faith of such power or duty.  2007, c. 4, s. 16 (1). Crown remains liable (2) Subsection (1) does not, by reason of subsection 8 (3) of the Crown Liability and Proceedings Act, 2019, relieve the Crown of liability in respect of a tort committed by a person mentioned in subsection (1) to which the Crown would otherwise be subject. 2019, c. 7, Sched. 17, s. 152. Other entities remain liable (3) Subsection (1) does not relieve an entity that is responsible under an Act for administering or enforcing all or part of the Act or its regulations of liability in respect of a tort committed by a person to which the entity would otherwise be subject.  2007, c. 4, s. 16 (3). Section Amendments with date in force (d/m/y) 2019, c. 7, Sched. 17, s. 152 - 01/07/2019",
+            "raw_html": "<p class=\"section\"><a name=\"BK26\"></a><b>16 </b>(1) No action or other proceeding for damages shall be commenced against any person acting under this Act for any act done in good faith in the exercise or intended exercise of any power or in the performance or intended performance of any duty under this Act or any alleged neglect or default in the execution or performance in good faith of such power or duty.  2007, c. 4, s. 16 (1).</p> <p class=\"headnote\">Crown remains liable</p> <p class=\"subsection\">(2) Subsection (1) does not, by reason of subsection 8 (3) of the <i>Crown Liability and Proceedings Act, 2019</i>, relieve the Crown of liability in respect of a tort committed by a person mentioned in subsection (1) to which the Crown would otherwise be subject. 2019, c. 7, Sched. 17, s. 152.</p> <p class=\"headnote\">Other entities remain liable</p> <p class=\"subsection\">(3) Subsection (1) does not relieve an entity that is responsible under an Act for administering or enforcing all or part of the Act or its regulations of liability in respect of a tort committed by a person to which the entity would otherwise be subject.  2007, c. 4, s. 16 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19007#sched17s152\">2019, c. 7, Sched. 17, s. 152</a></span> - 01/07/2019</p>"
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "17.",
+            "section_x": "Compellability, civil proceeding",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": "Compellability, civil proceeding",
+            "content": "17 A person acting under this Act is not a compellable witness in a civil proceeding before a court or tribunal respecting any information collected, used or disclosed under this Act.  2007, c. 4, s. 17.",
+            "raw_html": "<p class=\"section\"><a name=\"BK27\"></a><b>17 </b>A person acting under this Act is not a compellable witness in a civil proceeding before a court or tribunal respecting any information collected, used or disclosed under this Act.  2007, c. 4, s. 17.</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "18.",
+            "section_x": "Production, civil proceeding",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": "Production, civil proceeding",
+            "content": "18 A person acting under this Act is not required to produce, in a civil proceeding before a court or tribunal, information collected, used or disclosed under this Act.  2007, c. 4, s. 18. Regulations",
+            "raw_html": "<p class=\"section\"><a name=\"BK28\"></a><b>18 </b>A person acting under this Act is not required to produce, in a civil proceeding before a court or tribunal, information collected, used or disclosed under this Act.  2007, c. 4, s. 18.</p> <p class=\"heading1\"><a name=\"BK29\"></a>Regulations</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "Regulations",
+            "section_x": "Regulations",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "19.",
+            "section_x": "Regulations",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV GENERAL",
+            "section_y": "Regulations",
+            "content": "19 The Lieutenant Governor in Council may make regulations, (a) prescribing types of information mentioned in paragraph 10 of section 4; (b) specifying owners of organizations about whom information shall not be collected, used or disclosed under this Act despite paragraph 11 of section 4; (c) prescribing purposes mentioned in paragraph 9 of section 5.  2007, c. 4, s. 19. 20-44 Omitted (amends or repeals other Acts).  2007, c. 4, ss. 20-44. 45 Omitted (provides for coming into force of provisions of this Act).  2007, c. 4, s. 45. 46 Omitted (enacts short title of this Act).  2007, c. 4, s. 46. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK30\"></a><b>19 </b>The Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a) prescribing types of information mentioned in paragraph 10 of section 4;</p> <p class=\"paragraph\">  (b) specifying owners of organizations about whom information shall not be collected, used or disclosed under this Act despite paragraph 11 of section 4;</p> <p class=\"paragraph\">  (c) prescribing purposes mentioned in paragraph 9 of section 5.  2007, c. 4, s. 19.</p> <p class=\"section\"><b>20</b><b>-44 </b><span class=\"ovsmallcap\">Omitted (amends or repeals other Acts).</span>  2007, c. 4, ss. 20-44.</p> <p class=\"section\"><b>45</b><b> </b><span class=\"ovsmallcap\">Omitted (provides for coming into force of provisions of this Act).</span>  2007, c. 4, s. 45.</p> <p class=\"section\"><b>46</b><b> </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act).</span>  2007, c. 4, s. 46.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/07r04\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

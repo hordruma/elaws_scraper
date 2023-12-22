@@ -1,0 +1,41 @@
+{
+    "act_info": {
+        "full_title": "Consumer Protection Bureau Act, R.S.O. 1990, c. C.32",
+        "act_name_text": "Not Found",
+        "citation": "Consumer Protection Bureau Act, R.S.O. 1990, c. C.32",
+        "url": "https://www.ontario.ca/laws/statute/90c32",
+        "date_scraped": "2023-12-19 18:07:20"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/statute/90c32/v1",
+            "valid_from": "December 13, 2002",
+            "valid_to": "July 29, 2005"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Consumer Protection Bureau",
+            "content": "1. There shall be a branch of the Ministry of Consumer and Business Services, to be known in English as the Consumer Protection Bureau and in French as Office de protection du consommateur. R.S.O. 1990, c. C.32, s. 1; 2001, c. 9, Sched. D, s. 13.",
+            "raw_html": "<p class=\"section-e\"><b>1.</b> There shall be a branch of the Ministry of Consumer and Business Services, to be known in English as the Consumer Protection Bureau and in French as Office de protection du consommateur. R.S.O. 1990, c. C.32, s. 1; 2001, c. 9, Sched. D, s. 13.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Registrar",
+            "content": "2. The Consumer Protection Bureau shall consist of the Registrar of the Consumer Protection Bureau and such other persons as are considered necessary. R.S.O. 1990, c. C.32, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> The Consumer Protection Bureau shall consist of the Registrar of the Consumer Protection Bureau and such other persons as are considered necessary. R.S.O. 1990, c. C.32, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Duties of Consumer Protection Bureau",
+            "content": "3. The Consumer Protection Bureau shall, (a) disseminate information for the purpose of educating and advising consumers respecting consumer protection and lending and borrowing practices; (b) receive and investigate complaints of conduct in contravention of legislation for the protection of consumers; (c) enforce legislation for the protection of consumers; and (d) perform any other duties given to it by any Act. R.S.O. 1990, c. C.32, s. 3. ____________________ Français ",
+            "raw_html": "<p class=\"section-e\"><b>3.</b> The Consumer Protection Bureau shall,</p> <p class=\"clause-e\">(a) disseminate information for the purpose of educating and advising consumers respecting consumer protection and lending and borrowing practices;</p> <p class=\"clause-e\">(b) receive and investigate complaints of conduct in contravention of legislation for the protection of consumers;</p> <p class=\"clause-e\">(c) enforce legislation for the protection of consumers; and</p> <p class=\"clause-e\">(d) perform any other duties given to it by any Act. R.S.O. 1990, c. C.32, s. 3.</p> <p class=\"line-e\">____________________</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90c32_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90c32_f.htm\" target=\"_top\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

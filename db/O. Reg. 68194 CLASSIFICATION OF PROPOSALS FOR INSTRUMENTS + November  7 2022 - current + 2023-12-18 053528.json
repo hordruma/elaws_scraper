@@ -1,0 +1,1023 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 681/94: CLASSIFICATION OF PROPOSALS FOR INSTRUMENTS",
+        "reg_name_text": "CLASSIFICATION OF PROPOSALS FOR INSTRUMENTS",
+        "citation": "O. Reg. 681/94: ",
+        "act_under": "Environmental Bill of Rights, 1993",
+        "url": "https://www.ontario.ca/laws/regulation/940681",
+        "date_scraped": "2023-12-18 05:35:29"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "November  7, 2022",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v32",
+            "valid_from": "April  1, 2021",
+            "valid_to": "November  6, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v31",
+            "valid_from": "March 30, 2021",
+            "valid_to": "March 31, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v30",
+            "valid_from": "May  1, 2020",
+            "valid_to": "March 29, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v29",
+            "valid_from": "April  9, 2020",
+            "valid_to": "April 30, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v28",
+            "valid_from": "April  1, 2019",
+            "valid_to": "April  8, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v27",
+            "valid_from": "March 22, 2019",
+            "valid_to": "March 31, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v26",
+            "valid_from": "February  7, 2017",
+            "valid_to": "March 21, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v25",
+            "valid_from": "May  1, 2015",
+            "valid_to": "February  6, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v24",
+            "valid_from": "April 13, 2015",
+            "valid_to": "April 30, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v23",
+            "valid_from": "January  1, 2015",
+            "valid_to": "April 12, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v22",
+            "valid_from": "December 18, 2014",
+            "valid_to": "December 31, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v21",
+            "valid_from": "November 27, 2014",
+            "valid_to": "December 17, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v20",
+            "valid_from": "January  1, 2014",
+            "valid_to": "November 26, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v19",
+            "valid_from": "August 15, 2013",
+            "valid_to": "December 31, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v18",
+            "valid_from": "November  1, 2012",
+            "valid_to": "August 14, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v17",
+            "valid_from": "August  1, 2012",
+            "valid_to": "October 31, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v16",
+            "valid_from": "October 31, 2011",
+            "valid_to": "July 31, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v15",
+            "valid_from": "July  1, 2011",
+            "valid_to": "October 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v14",
+            "valid_from": "June 14, 2011",
+            "valid_to": "June 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v13",
+            "valid_from": "July  1, 2010",
+            "valid_to": "June 13, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v12",
+            "valid_from": "May  6, 2010",
+            "valid_to": "June 30, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v11",
+            "valid_from": "February  1, 2010",
+            "valid_to": "May  5, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v10",
+            "valid_from": "December 29, 2009",
+            "valid_to": "January 31, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v9",
+            "valid_from": "December 22, 2009",
+            "valid_to": "December 28, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v8",
+            "valid_from": "September 23, 2009",
+            "valid_to": "December 21, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v7",
+            "valid_from": "April 22, 2009",
+            "valid_to": "September 22, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v6",
+            "valid_from": "August 31, 2007",
+            "valid_to": "April 21, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v5",
+            "valid_from": "May 30, 2007",
+            "valid_to": "August 30, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v4",
+            "valid_from": "November 30, 2005",
+            "valid_to": "May 29, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v3",
+            "valid_from": "September 23, 2005",
+            "valid_to": "November 29, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v2",
+            "valid_from": "June 30, 2005",
+            "valid_to": "September 22, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/940681/v1",
+            "valid_from": "August 10, 2001",
+            "valid_to": "June 29, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "PART II",
+            "Section": "None",
+            "Section1": "MINISTRY OF PUBLIC AND BUSINESS SERVICE DELIVERY",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation",
+            "Section2": "0.1",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation",
+            "Section2": "1.1-1.2",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation",
+            "Section2": "10.1",
+            "part_id": "PART II.2",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation",
+            "Section2": "10.2.1",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Interpretation",
+            "Section2": "11-11.1",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Technical Standards and Safety Act, 2000",
+            "Section2": "1",
+            "part_id": "PART II",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "PART II.1",
+            "Section": "None",
+            "Section1": "MINISTRY OF THE ENVIRONMENT, CONSERVATION AND PARKS",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Endangered Species Act, 2007",
+            "Section2": "1.3",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Environmental Protection Act",
+            "Section2": "2",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Ontario Water Resources Act",
+            "Section2": "3",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Pesticides Act",
+            "Section2": "4",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Safe Drinking Water Act, 2002",
+            "Section2": "4.1",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Transition",
+            "Section2": "4.2",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class II Proposals — Environmental Protection Act",
+            "Section2": "5",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class II Proposals — Ontario Water Resources Act",
+            "Section2": "6",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class II Proposals — Pesticides Act",
+            "Section2": "7-8",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class III Proposals — Ontario Water Resources Act",
+            "Section2": "9",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Review of Classification",
+            "Section2": "10",
+            "part_id": "PART II.1",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "PART II.2",
+            "Section": "None",
+            "Section1": "MINISTRY OF MUNICIPAL AFFAIRS AND HOUSING",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Building Code Act, 1992",
+            "Section2": "10.1.1",
+            "part_id": "PART II.2",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Oak Ridges Moraine Conservation Act, 2001",
+            "Section2": "10.1.2",
+            "part_id": "PART II.2",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Planning Act",
+            "Section2": "10.2",
+            "part_id": "PART II.2",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "PART III",
+            "Section": "None",
+            "Section1": "MINISTRY OF NATURAL RESOURCES AND FORESTRY",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Aggregate Resources Act",
+            "Section2": "10.3",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Conservation Authorities Act",
+            "Section2": "10.4",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Crown Forest Sustainability Act, 1994",
+            "Section2": "10.4.1-10.5",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Far North Act, 2010",
+            "Section2": "10.5.1",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Fish and Wildlife Conservation Act, 1997",
+            "Section2": "10.6",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Niagara Escarpment Planning and Development Act",
+            "Section2": "10.7",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Public Lands Act",
+            "Section2": "10.8",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class II Proposals — Aggregate Resources Act",
+            "Section2": "10.9",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class II Proposals — Far North Act, 2010",
+            "Section2": "10.9.1",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class II Proposals — Lakes and Rivers Improvement Act",
+            "Section2": "10.10",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class II Proposals — Niagara Escarpment Planning and Development Act",
+            "Section2": "10.11",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class II Proposals — Oil, Gas and Salt Resources Act",
+            "Section2": "10.12",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "PART III",
+            "Section": "None",
+            "Section1": "MINISTRY OF MINES",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Class I Proposals — Mining Act",
+            "Section2": "12",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#0.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 0.1 In this Part, a proposal for an instrument includes a proposal to issue it, amend it or revoke it, whether the amendment or revocation is authorized by the same provision of an Act or regulation that authorizes the issuance of the instrument or by a different provision.  O. Reg. 180/98, s. 1. Class I Proposals — Technical Standards and Safety Act, 2000",
+            "raw_html": "<p class=\"section-e\"> <b>0.1 </b>In this Part, a proposal for an instrument includes a proposal to issue it, amend it or revoke it, whether the amendment or revocation is authorized by the same provision of an Act or regulation that authorizes the issuance of the instrument or by a different provision.  O. Reg. 180/98, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Class I Proposals — Technical Standards and Safety Act, 2000</p>"
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. The following is a Class I proposal for an instrument: 1.  A proposal, pursuant to clause 36 (3) (c) of the Technical Standards and Safety Act, 2000\r\nto allow a variance from section 9 of Ontario Regulation 217/01 (Liquid Fuels) made under the Technical Standards and Safety Act, 2000. 2.  A proposal, pursuant to clause 36 (3) (c) of the Technical Standards and Safety Act, 2000\r\nto allow a variance from any of the following clauses of the Liquid Fuels Handling Code adopted by reference, as amended from time to time, as part of Ontario Regulation 217/01 (Liquid Fuels) made under the Technical Standards and Safety Act, 2000 under section 7 of Ontario Regulation 223/01 (Codes and Standards Adopted by Reference) made under the Technical Standards and Safety Act, 2000: i.  Clause 2. ii.  Clauses 3.1 to 3.2.2.4 and 3.3 to 3.5.6. iii.  Clauses 4.1 to  4.2.1.7 and 4.2.2 to 4.6.16. iv.  Clauses 5.1.1 to 5.2.3, 5.3.1 to 5.3.6, 5.3.13, 5.4.1 to 5.4.3, 5.4.4, 5.4.6, 5.4.7, 5.4.9, 5.5.1 to 5.5.8, 5.6.1 to 5.6.1.8, 5.6.2.3, 5.6.2.8. 5.6.2.9, 5.7, 5.8.2 to 5.8.9 and 5.8.11. v.  Clauses 6.1.1.1, 6.1.1.2, 6.1.1.5, 6.1.1.6, 6.1.1.14 to 6.1.4.5, 6.1.5.2 to 6.1.6.2, 6.1.6.4, 6.1.7.1 to 6.1.7.5, 6.4.1 to 6.5.2 and 6.7.1 to 6.7.2. vi.  Clauses 7.1 to 7.6.6. vii.  Clauses 8.1.2 to 8.3.3. viii.  Clauses 9.3.4, 9.3.5, 9.3.6, 9.4.3, 9.4.9, 9.4.10, 9.4.11 and 9.4.12.  O. Reg. 180/98, s. 1; O. Reg. 160/10, s. 3; O. Reg. 49/19, s. 1. PART II   Ministry of the Environment, Conservation and Parks Interpretation",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The following is a Class I proposal for an instrument:</p> <p class=\"paragraph-e\">  1.  A proposal, pursuant to clause 36 (3) (c) of the <i>Technical Standards and Safety Act, 2000</i>\r\nto allow a variance from section 9 of Ontario Regulation 217/01 (Liquid Fuels) made under the <i>Technical Standards and Safety Act, 2000</i>.</p> <p class=\"paragraph-e\">  2.  A proposal, pursuant to clause 36 (3) (c) of the <i>Technical Standards and Safety Act, 2000</i>\r\nto allow a variance from any of the following clauses of the Liquid Fuels Handling Code adopted by reference, as amended from time to time, as part of Ontario Regulation 217/01 (Liquid Fuels) made under the <i>Technical Standards and Safety Act, 2000</i> under section 7 of Ontario Regulation 223/01 (Codes and Standards Adopted by Reference) made under the <i>Technical Standards and Safety Act, 2000</i>:</p> <p class=\"subpara-e\">  i.  Clause 2.</p> <p class=\"subpara-e\">  ii.  Clauses 3.1 to 3.2.2.4 and 3.3 to 3.5.6.</p> <p class=\"subpara-e\">  iii.  Clauses 4.1 to  4.2.1.7 and 4.2.2 to 4.6.16.</p> <p class=\"subpara-e\">  iv.  Clauses 5.1.1 to 5.2.3, 5.3.1 to 5.3.6, 5.3.13, 5.4.1 to 5.4.3, 5.4.4, 5.4.6, 5.4.7, 5.4.9, 5.5.1 to 5.5.8, 5.6.1 to 5.6.1.8, 5.6.2.3, 5.6.2.8. 5.6.2.9, 5.7, 5.8.2 to 5.8.9 and 5.8.11.</p> <p class=\"subpara-e\">  v.  Clauses 6.1.1.1, 6.1.1.2, 6.1.1.5, 6.1.1.6, 6.1.1.14 to 6.1.4.5, 6.1.5.2 to 6.1.6.2, 6.1.6.4, 6.1.7.1 to 6.1.7.5, 6.4.1 to 6.5.2 and 6.7.1 to 6.7.2.</p> <p class=\"subpara-e\">  vi.  Clauses 7.1 to 7.6.6.</p> <p class=\"subpara-e\">  vii.  Clauses 8.1.2 to 8.3.3.</p> <p class=\"subpara-e\">  viii.  Clauses 9.3.4, 9.3.5, 9.3.6, 9.4.3, 9.4.9, 9.4.10, 9.4.11 and 9.4.12.  O. Reg. 180/98, s. 1; O. Reg. 160/10, s. 3; O. Reg. 49/19, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK3\"></a>PART II <br/>  Ministry of the Environment, Conservation and Parks</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Interpretation</p>"
+        },
+        {
+            "ahref_id": "#1.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1.1 In this Part, a proposal for an instrument includes a proposal to issue it, amend it or revoke it, whether the amendment or revocation is authorized by the same provision of an Act or regulation that authorizes the issuance of the instrument or by a different provision.  O. Reg. 180/98, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>1.1 </b>In this Part, a proposal for an instrument includes a proposal to issue it, amend it or revoke it, whether the amendment or revocation is authorized by the same provision of an Act or regulation that authorizes the issuance of the instrument or by a different provision.  O. Reg. 180/98, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#1.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1.2 Revoked: O. Reg. 519/22, s. 2. Class I Proposals — Endangered Species Act, 2007",
+            "raw_html": "<p class=\"section-e\"> <b>1.2 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 519/22, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Class I Proposals — Endangered Species Act, 2007</p>"
+        },
+        {
+            "ahref_id": "#1.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  1.3 (1) A proposal to enter into an agreement under section 16 of the Endangered Species Act, 2007 is a Class I proposal for an instrument if all of the following criteria are satisfied: 1.  The agreement is for the purpose of assisting a party to the agreement to introduce or reintroduce, into any part of Ontario, members of a species that, under the Endangered Species Act, 2007, is listed on the Species at Risk in Ontario List as an extirpated, endangered or threatened species. 2.  The agreement would authorize a party to the agreement to engage in an activity specified in the agreement that would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the Endangered Species Act, 2007. 3.  The authorization referred to in paragraph 2 does not apply to an animal. 4.  The party to the agreement that would be authorized to engage in the activity referred to in paragraph 2 is not the Crown in right of Ontario, a municipality or a public body within the meaning of the Environmental Assessment Act. 5.  The authority to engage in the activity referred to in paragraph 2, i.  would not apply on Crown land, and ii.  would not apply in a provincial park. O. Reg. 49/19, s. 3. (2) If a proposal to enter into an agreement under section 16 of the Endangered Species Act, 2007 is a Class I proposal for an instrument, a proposal to amend that agreement is a Class I proposal for an instrument if the proposed amendment would authorize a party to, (a)  engage in an activity already specified in the agreement in respect of an additional species; or (b)  engage in an additional activity that would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the Endangered Species Act, 2007. O. Reg. 49/19, s. 3. (3) If a proposal to enter into an agreement under section 16 of the Endangered Species Act, 2007 is not a Class I proposal for an instrument, a proposal to amend that agreement is a Class I proposal for an instrument if the proposal to enter into the agreement in its amended form would be a Class I proposal for an instrument under subsection (1). O. Reg. 49/19, s. 3. (4) A proposal to issue a permit under clause 17 (2) (a) of the Endangered Species Act, 2007 is a Class I proposal for an instrument if all of the following criteria are satisfied: 1.  The permit would authorize a person to engage in an activity specified in the permit that, i.  in the opinion of the Minister, would be likely to jeopardize the survival of a species in Ontario that, under the Endangered Species Act, 2007, is listed on the Species at Risk in Ontario List as an endangered or threatened species, and ii.  would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the Endangered Species Act, 2007. 2.  The species referred to in paragraph 1 is not an animal. 3.  The person to whom the permit would be issued is not the Crown in right of Ontario, a municipality or a public body within the meaning of the Environmental Assessment Act. 4.  The authority to engage in the activity referred to in paragraph 1, i.  would not apply on Crown land, and ii.  would not apply in a provincial park. O. Reg. 49/19, s. 3. (5) A proposal to issue a permit under clause 17 (2) (b) of the Endangered Species Act, 2007 is a Class I proposal for an instrument if all of the following criteria are satisfied: 1.  The permit would be issued for the purpose of assisting a person to introduce or reintroduce, into any part of Ontario, members of a species that, under the Endangered Species Act, 2007, is listed on the Species at Risk in Ontario List as an extirpated, endangered or threatened species. 2.  The permit would authorize a person to engage in an activity specified in the permit that would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the Endangered Species Act, 2007. 3.  The species referred to in paragraph 1 is not an animal. 4.  The person to whom the permit would be issued is not the Crown in right of Ontario, a municipality or a public body within the meaning of the Environmental Assessment Act. 5.  The authority to engage in the activity referred to in paragraph 2, i.  would not apply on Crown land, and ii.  would not apply in a provincial park. O. Reg. 49/19, s. 3. (6) A proposal to issue a permit under clause 17 (2) (c) or (d) of the Endangered Species Act, 2007 is a Class I proposal for an instrument if all of the following criteria are satisfied: 1.  The permit would authorize a person to engage in an activity specified in the permit that would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the Endangered Species Act, 2007. 2.  The species that would be specified in the permit is not an animal. 3.  The person to whom the permit would be issued is not the Crown in right of Ontario, a municipality or a public body within the meaning of the Environmental Assessment Act. 4.  The authority to engage in the activity referred to in paragraph 1, i.  would not apply on Crown land, and ii.  would not apply in a provincial park. O. Reg. 49/19, s. 3. (7) If a proposal to issue a permit under clause 17 (2) (a), (b), (c) or (d) of the Endangered Species Act, 2007 is a Class I proposal for an instrument under subsection (4), (5) or (6), a proposal to amend the permit under subclause 17 (7) (a) (i) or (ii) or clause 17 (7) (b) of the Endangered Species Act, 2007 is a Class I proposal for an instrument if the proposal to amend the permit is for the purpose of authorizing a person to, (a)  engage in an activity already specified in the permit in respect of an additional species; or (b)  engage in an additional activity that would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the Endangered Species Act, 2007. O. Reg. 49/19, s. 3. (8) If a proposal to issue a permit under clause 17 (2) (a), (b), (c) or (d) of the Endangered Species Act, 2007 is not a Class I proposal for an instrument, a proposal to amend the permit under subclause 17 (7) (a) (i) or (ii) or clause 17 (7) (b) of that Act is a Class I proposal for an instrument if the proposal to issue the permit in its amended form would be a Class I proposal for an instrument under subsection (4), (5) or (6). O. Reg. 49/19, s. 3. (9) A proposal under subclause 17 (7) (a) (iii) or clause 17 (7) (b) of the Endangered Species Act, 2007 to revoke a permit is a Class I proposal for an instrument if a proposal to issue the permit would be a Class I proposal for an instrument under subsection (4), (5) or (6). O. Reg. 49/19, s. 3. Class I Proposals — Environmental Protection Act",
+            "raw_html": "<p class=\"section-e\"><b>  1.3 </b>(1) A proposal to enter into an agreement under section 16 of the <i>Endangered Species Act, 2007</i> is a Class I proposal for an instrument if all of the following criteria are satisfied:</p> <p class=\"paragraph-e\">  1.  The agreement is for the purpose of assisting a party to the agreement to introduce or reintroduce, into any part of Ontario, members of a species that, under the <i>Endangered Species Act, 2007</i>, is listed on the Species at Risk in Ontario List as an extirpated, endangered or threatened species.</p> <p class=\"paragraph-e\">  2.  The agreement would authorize a party to the agreement to engage in an activity specified in the agreement that would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the <i>Endangered Species Act, 2007</i>.</p> <p class=\"paragraph-e\">  3.  The authorization referred to in paragraph 2 does not apply to an animal.</p> <p class=\"paragraph-e\">  4.  The party to the agreement that would be authorized to engage in the activity referred to in paragraph 2 is not the Crown in right of Ontario, a municipality or a public body within the meaning of the <i>Environmental Assessment Act</i>.</p> <p class=\"paragraph-e\">  5.  The authority to engage in the activity referred to in paragraph 2,</p> <p class=\"subpara-e\">  i.  would not apply on Crown land, and</p> <p class=\"subpara-e\">  ii.  would not apply in a provincial park. O. Reg. 49/19, s. 3.</p> <p class=\"subsection-e\">  (2) If a proposal to enter into an agreement under section 16 of the <i>Endangered Species Act, 2007</i> is a Class I proposal for an instrument, a proposal to amend that agreement is a Class I proposal for an instrument if the proposed amendment would authorize a party to,</p> <p class=\"clause-e\">  (a)  engage in an activity already specified in the agreement in respect of an additional species; or</p> <p class=\"clause-e\">  (b)  engage in an additional activity that would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the <i>Endangered Species Act, 2007</i>. O. Reg. 49/19, s. 3.</p> <p class=\"subsection-e\">  (3) If a proposal to enter into an agreement under section 16 of the <i>Endangered Species Act, 2007</i> is not a Class I proposal for an instrument, a proposal to amend that agreement is a Class I proposal for an instrument if the proposal to enter into the agreement in its amended form would be a Class I proposal for an instrument under subsection (1). O. Reg. 49/19, s. 3.</p> <p class=\"subsection-e\">  (4) A proposal to issue a permit under clause 17 (2) (a) of the <i>Endangered Species Act, 2007</i> is a Class I proposal for an instrument if all of the following criteria are satisfied:</p> <p class=\"paragraph-e\">  1.  The permit would authorize a person to engage in an activity specified in the permit that,</p> <p class=\"subpara-e\">  i.  in the opinion of the Minister, would be likely to jeopardize the survival of a species in Ontario that, under the <i>Endangered Species Act, 2007</i>, is listed on the Species at Risk in Ontario List as an endangered or threatened species, and</p> <p class=\"subpara-e\">  ii.  would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the <i>Endangered Species Act, 2007</i>.</p> <p class=\"paragraph-e\">  2.  The species referred to in paragraph 1 is not an animal.</p> <p class=\"paragraph-e\">  3.  The person to whom the permit would be issued is not the Crown in right of Ontario, a municipality or a public body within the meaning of the <i>Environmental Assessment Act</i>.</p> <p class=\"paragraph-e\">  4.  The authority to engage in the activity referred to in paragraph 1,</p> <p class=\"subpara-e\">  i.  would not apply on Crown land, and</p> <p class=\"subpara-e\">  ii.  would not apply in a provincial park. O. Reg. 49/19, s. 3.</p> <p class=\"subsection-e\">  (5) A proposal to issue a permit under clause 17 (2) (b) of the <i>Endangered Species Act, 2007</i> is a Class I proposal for an instrument if all of the following criteria are satisfied:</p> <p class=\"paragraph-e\">  1.  The permit would be issued for the purpose of assisting a person to introduce or reintroduce, into any part of Ontario, members of a species that, under the <i>Endangered Species Act, 2007</i>, is listed on the Species at Risk in Ontario List as an extirpated, endangered or threatened species.</p> <p class=\"paragraph-e\">  2.  The permit would authorize a person to engage in an activity specified in the permit that would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the <i>Endangered Species Act, 2007</i>.</p> <p class=\"paragraph-e\">  3.  The species referred to in paragraph 1 is not an animal.</p> <p class=\"paragraph-e\">  4.  The person to whom the permit would be issued is not the Crown in right of Ontario, a municipality or a public body within the meaning of the <i>Environmental Assessment Act</i>.</p> <p class=\"paragraph-e\">  5.  The authority to engage in the activity referred to in paragraph 2,</p> <p class=\"subpara-e\">  i.  would not apply on Crown land, and</p> <p class=\"subpara-e\">  ii.  would not apply in a provincial park. O. Reg. 49/19, s. 3.</p> <p class=\"subsection-e\">  (6) A proposal to issue a permit under clause 17 (2) (c) or (d) of the <i>Endangered Species Act, 2007</i> is a Class I proposal for an instrument if all of the following criteria are satisfied:</p> <p class=\"paragraph-e\">  1.  The permit would authorize a person to engage in an activity specified in the permit that would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the <i>Endangered Species Act, 2007</i>.</p> <p class=\"paragraph-e\">  2.  The species that would be specified in the permit is not an animal.</p> <p class=\"paragraph-e\">  3.  The person to whom the permit would be issued is not the Crown in right of Ontario, a municipality or a public body within the meaning of the <i>Environmental Assessment Act</i>.</p> <p class=\"paragraph-e\">  4.  The authority to engage in the activity referred to in paragraph 1,</p> <p class=\"subpara-e\">  i.  would not apply on Crown land, and</p> <p class=\"subpara-e\">  ii.  would not apply in a provincial park. O. Reg. 49/19, s. 3.</p> <p class=\"subsection-e\">  (7) If a proposal to issue a permit under clause 17 (2) (a), (b), (c) or (d) of the <i>Endangered Species Act, 2007</i> is a Class I proposal for an instrument under subsection (4), (5) or (6), a proposal to amend the permit under subclause 17 (7) (a) (i) or (ii) or clause 17 (7) (b) of the <i>Endangered Species Act, 2007</i> is a Class I proposal for an instrument if the proposal to amend the permit is for the purpose of authorizing a person to,</p> <p class=\"clause-e\">  (a)  engage in an activity already specified in the permit in respect of an additional species; or</p> <p class=\"clause-e\">  (b)  engage in an additional activity that would otherwise be prohibited by clause 9 (1) (a) or (b) or section 10 of the <i>Endangered Species Act, 2007</i>. O. Reg. 49/19, s. 3.</p> <p class=\"subsection-e\">  (8) If a proposal to issue a permit under clause 17 (2) (a), (b), (c) or (d) of the <i>Endangered Species Act, 2007</i> is not a Class I proposal for an instrument, a proposal to amend the permit under subclause 17 (7) (a) (i) or (ii) or clause 17 (7) (b) of that Act is a Class I proposal for an instrument if the proposal to issue the permit in its amended form would be a Class I proposal for an instrument under subsection (4), (5) or (6). O. Reg. 49/19, s. 3.</p> <p class=\"subsection-e\">  (9) A proposal under subclause 17 (7) (a) (iii) or clause 17 (7) (b) of the <i>Endangered Species Act, 2007</i> to revoke a permit is a Class I proposal for an instrument if a proposal to issue the permit would be a Class I proposal for an instrument under subsection (4), (5) or (6). O. Reg. 49/19, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK6\"></a>Class I Proposals — Environmental Protection Act</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. (1) Revoked: O. Reg. 261/11, s. 1 (1).  (2) The following are Class I proposals for instruments: 1.  A proposal for an order under subsection 20.23 (2) of the Environmental Protection Act, if the order is on the grounds set out in clause 20.23 (1) (a) or (b) of that Act. 2.  A proposal for an approval under section 46 of the Environmental Protection Act.  O. Reg. 681/94, s. 2 (2); O. Reg. 261/11, s. 1 (2). Class I Proposals — Ontario Water Resources Act",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 261/11, s. 1 (1). </p> <p class=\"subsection-e\">  (2) The following are Class I proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal for an order under subsection 20.23 (2) of the <i>Environmental Protection Act</i>, if the order is on the grounds set out in clause 20.23 (1) (a) or (b) of that Act.</p> <p class=\"paragraph-e\">  2.  A proposal for an approval under section 46 of the <i>Environmental Protection Act</i>.  O. Reg. 681/94, s. 2 (2); O. Reg. 261/11, s. 1 (2).</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Class I Proposals — Ontario Water Resources Act </p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. (1) Subject to subsection (2), a proposal for a permit under the Ontario Water Resources Act that would authorize a new transfer or an increased transfer within the meaning of subsection 34.5 (1) of that Act or the taking of water is a Class 1 proposal for an instrument. O. Reg. 226/14, s. 1. (2) Subsection (1) does not apply to, (a)  a proposal for a permit only, (i)  for the purposes of irrigation of agricultural crops, (ii)  for the purposes of watering livestock or poultry, or (iii)  for both of the purposes described in subclauses (i) and (ii); (b)  a proposal to issue or amend a permit in response to a request made under section 34.8 of the Ontario Water Resources Act; or (c)  a proposal for a permit described in subsection (1) if the permit would authorize the taking or transfer of water for a period of less than 365 days from the date the taking or transfer begins. O. Reg. 226/14, s. 1. Class I Proposals — Pesticides Act",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>(1) Subject to subsection (2), a proposal for a permit under the <i>Ontario Water Resources Act</i> that would authorize a new transfer or an increased transfer within the meaning of subsection 34.5 (1) of that Act or the taking of water is a Class 1 proposal for an instrument. O. Reg. 226/14, s. 1.</p> <p class=\"subsection-e\">  (2) Subsection (1) does not apply to, </p> <p class=\"clause-e\">  (a)  a proposal for a permit only,</p> <p class=\"subclause-e\">  (i)  for the purposes of irrigation of agricultural crops, </p> <p class=\"subclause-e\">  (ii)  for the purposes of watering livestock or poultry, or</p> <p class=\"subclause-e\">  (iii)  for both of the purposes described in subclauses (i) and (ii);</p> <p class=\"clause-e\">  (b)  a proposal to issue or amend a permit in response to a request made under section 34.8 of the <i>Ontario Water Resources Act</i>; or</p> <p class=\"clause-e\">  (c)  a proposal for a permit described in subsection (1) if the permit would authorize the taking or transfer of water for a period of less than 365 days from the date the taking or transfer begins. O. Reg. 226/14, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK8\"></a>Class I Proposals — Pesticides Act</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. The following are Class I proposals for an instrument: 1.  A proposal by the Ministry of the Environment, Conservation and Parks or the Ministry of Natural Resources and Forestry to enter into an agreement mentioned in subclause 28 (1) (a) (ii) of Ontario Regulation 63/09 (General) made under the Pesticides Act if an unlisted pesticide within the meaning of that Regulation may be used for the purpose of the natural resources management project that is the subject of the agreement. 2.  A proposal to add or remove an active ingredient from the document prescribed for the purpose of paragraph 2 of subsection 7.1 (1) of the Pesticides Act. O. Reg. 135/20, s. 1. Class I Proposals — Safe Drinking Water Act, 2002",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>The following are Class I proposals for an instrument:</p> <p class=\"paragraph-e\">  1.  A proposal by the Ministry of the Environment, Conservation and Parks or the Ministry of Natural Resources and Forestry to enter into an agreement mentioned in subclause 28 (1) (a) (ii) of Ontario Regulation 63/09 (General) made under the <i>Pesticides Act</i> if an unlisted pesticide within the meaning of that Regulation may be used for the purpose of the natural resources management project that is the subject of the agreement.</p> <p class=\"paragraph-e\">  2.  A proposal to add or remove an active ingredient from the document prescribed for the purpose of paragraph 2 of subsection 7.1 (1) of the <i>Pesticides Act</i>. O. Reg. 135/20, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Class I Proposals — Safe Drinking Water Act, 2002</p>"
+        },
+        {
+            "ahref_id": "#4.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4.1 (1) Subject to subsection (2), the following are Class I proposals for instruments: 1.  A proposal for an approval under subsection 36 (1) of the Safe Drinking Water Act, 2002. 2.  A proposal for a drinking water works permit under subsection 40 (1) of the Safe Drinking Water Act, 2002. 3.  A proposal for a municipal drinking water licence under subsection 44 (1) of the Safe Drinking Water Act, 2002. 4.  A proposal for an order under section 108, 109 or subsection 111 (2) of the Safe Drinking Water Act, 2002 or a proposal for a notice under section 110 of the Safe Drinking Water Act, 2002, if the order or notice is with respect to a drinking water system that is subject to an approval, permit or licence to which this subsection applies.  O. Reg. 160/10, s. 4. (2) Subsection (1) applies only if the proposed instrument, (a)  subject to subsection (3), (i)  establishes or alters a drinking water system with emissions to the air, or (ii)  sets limits for the discharge of contaminants to air; or (b)  subject to subsection (4), (i)  establishes or alters a drinking water system that addresses the management of residue from the treatment process, or (ii)  sets limits on the discharge of specific contaminants from a discharge point to surface water.  O. Reg. 160/10, s. 4. (3) Subsection (1) does not apply in respect of a proposal for an instrument described in subclause (2) (a) (i) or (ii) if it would only permit one or more of the following: 1.  The discharge of a contaminant from any one discharge point for a total of less than 10 hours in any seven-day period. 2.  The discharge of a contaminant resulting from operating combustion equipment, if the equipment is not fired with fuel derived from waste, other than wood waste, and is not operated for the purpose of generating heat or electricity for sale. 3.  The discharge of a contaminant from a storage tank or vessel. 4.  The discharge of a contaminant from a discharge point that is less than or equal to the discharge already approved under an approval, a drinking water works permit issued under subsection 40 (1) of the Safe Drinking Water Act, 2002 or a municipal drinking water licence issued under subsection 44 (1) of the Safe Drinking Water Act, 2002 for that contaminant and that discharge point.  O. Reg. 160/10, s. 4. (4) Subsection (1) does not apply in respect of a proposal for an instrument described in subclause (2) (b) (i) or (ii) if an instrument already exists relating to the discharge point to which the proposal relates and the proposal would not create an increase in the discharge of any of the specific contaminants from the discharge point.  O. Reg. 160/10, s. 4. Class I Proposals — Transition",
+            "raw_html": "<p class=\"section-e\"> <b>4.1</b> (1) Subject to subsection (2), the following are Class I proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal for an approval under subsection 36 (1) of the <i>Safe Drinking Water Act, 2002</i>.</p> <p class=\"paragraph-e\">  2.  A proposal for a drinking water works permit under subsection 40 (1) of the <i>Safe Drinking Water Act, 2002</i>.</p> <p class=\"paragraph-e\">  3.  A proposal for a municipal drinking water licence under subsection 44 (1) of the <i>Safe Drinking Water Act, 2002</i>.</p> <p class=\"paragraph-e\">  4.  A proposal for an order under section 108, 109 or subsection 111 (2) of the <i>Safe Drinking Water Act, 2002</i> or a proposal for a notice under section 110 of the <i>Safe Drinking Water Act, 2002</i>, if the order or notice is with respect to a drinking water system that is subject to an approval, permit or licence to which this subsection applies.  O. Reg. 160/10, s. 4.</p> <p class=\"subsection-e\">  (2) Subsection (1) applies only if the proposed instrument,</p> <p class=\"clause-e\">  (a)  subject to subsection (3),</p> <p class=\"subclause-e\">  (i)  establishes or alters a drinking water system with emissions to the air, or</p> <p class=\"subclause-e\">  (ii)  sets limits for the discharge of contaminants to air; or</p> <p class=\"clause-e\">  (b)  subject to subsection (4),</p> <p class=\"subclause-e\">  (i)  establishes or alters a drinking water system that addresses the management of residue from the treatment process, or</p> <p class=\"subclause-e\">  (ii)  sets limits on the discharge of specific contaminants from a discharge point to surface water.  O. Reg. 160/10, s. 4.</p> <p class=\"subsection-e\">  (3) Subsection (1) does not apply in respect of a proposal for an instrument described in subclause (2) (a) (i) or (ii) if it would only permit one or more of the following:</p> <p class=\"paragraph-e\">  1.  The discharge of a contaminant from any one discharge point for a total of less than 10 hours in any seven-day period.</p> <p class=\"paragraph-e\">  2.  The discharge of a contaminant resulting from operating combustion equipment, if the equipment is not fired with fuel derived from waste, other than wood waste, and is not operated for the purpose of generating heat or electricity for sale.</p> <p class=\"paragraph-e\">  3.  The discharge of a contaminant from a storage tank or vessel.</p> <p class=\"paragraph-e\">  4.  The discharge of a contaminant from a discharge point that is less than or equal to the discharge already approved under an approval, a drinking water works permit issued under subsection 40 (1) of the <i>Safe Drinking Water Act, 2002</i> or a municipal drinking water licence issued under subsection 44 (1) of the <i>Safe Drinking Water Act, 2002</i> for that contaminant and that discharge point.  O. Reg. 160/10, s. 4.</p> <p class=\"subsection-e\">  (4) Subsection (1) does not apply in respect of a proposal for an instrument described in subclause (2) (b) (i) or (ii) if an instrument already exists relating to the discharge point to which the proposal relates<b> </b>and the proposal would not create an increase in the discharge of any of the specific contaminants from the discharge point.  O. Reg. 160/10, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK10\"></a>Class I Proposals — Transition</p>"
+        },
+        {
+            "ahref_id": "#4.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4.2 If an application for an instrument was submitted before Ontario Regulation 261/11 came into force and a proposal for that instrument was a Class I proposal under section 2, as it read immediately before that regulation came into force, the proposal shall remain a Class I proposal.  O. Reg. 261/11, s. 2. Class II Proposals — Environmental Protection Act",
+            "raw_html": "<p class=\"section-e\"> <b>4.2 </b>If an application for an instrument was submitted before Ontario Regulation 261/11 came into force and a proposal for that instrument was a Class I proposal under section 2, as it read immediately before that regulation came into force, the proposal shall remain a Class I proposal.  O. Reg. 261/11, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Class II Proposals — Environmental Protection Act</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) In this section, “alternative low-carbon fuel”, “alternative low-carbon fuel site” and “demonstration project” have the same meaning as in Ontario Regulation 79/15 (Alternative Low-Carbon Fuels) made under the Environmental Protection Act. (“combustible de remplacement à faible teneur en carbone”, “lieu d’utilisation de combustible de remplacement à faible teneur en carbone”, “projet de démonstration”) “contaminant”, “discharge”, “waste” and “waste disposal site” have the same meanings as in the Environmental Protection Act. (“contaminant”, “rejet”, “déchets”, “lieu d’élimination des déchets”)  O. Reg. 261/11, s. 3 (1); O. Reg. 80/15, s. 1 (1). (2) The following are Class II proposals for instruments: 1.  A proposal for an order under section 7 of the Environmental Protection Act. 2.  A proposal for an order under section 8 of the Environmental Protection Act. 3.  A proposal for an approval under section 10 of the Environmental Protection Act. 4.  A proposal for an order under section 17 of the Environmental Protection Act. 5.  A proposal for an order under section 18 of the Environmental Protection Act. 6.  A proposal for an environmental compliance approval under section 20.3 or 20.5 of the Environmental Protection Act in respect of an activity mentioned in subsection 27 (1) of that Act that relates to a waste disposal site, or in respect of an activity mentioned in subsection 9 (1) of that Act or subsection 53 (1) of the Ontario Water Resources Act, except a proposal for an environmental compliance approval that would only permit engaging in one or more of the following activities: i.  An activity mentioned in subsection 9 (1) of the Environmental Protection Act\r\nthat would permit the discharge of a contaminant from any one discharge point for a total of less than 10 hours in any seven-day period. ii.  An activity mentioned in subsection 9 (1) of the Environmental Protection Act\r\nthat would permit the discharge of a contaminant resulting from the preparation of food at a site for the purpose of selling the food at the site at retail or distributing it at the site free of charge. iii.  An activity mentioned in subsection 9 (1) of the Environmental Protection Act\r\nthat would permit the discharge of a contaminant as a result of operating combustion equipment, if the equipment is not fired with fuel derived from waste, other than wood waste, and is not operated for the purpose of generating heat or electricity for sale. iv.  An activity mentioned in subsection 9 (1) of the Environmental Protection Act\r\nthat would permit the discharge of a contaminant from a storage tank or vessel. iv.1  An activity mentioned in subsection 9 (1) of the Environmental Protection Act\r\nthat would permit the discharge of a contaminant if, A.  the activity is related to the combustion of alternative low-carbon fuel at an alternative low-carbon fuel site, and B.  the proposal is in respect of a demonstration project at the site. v.  An activity mentioned in subsection 27 (1) of the Environmental Protection Act\r\nin respect of mobile waste processing equipment. vi.  An activity mentioned in subsection 27 (1) of the Environmental Protection Act\r\nin respect of a waste disposal site if the proposal relates to an organic soil conditioning site within the meaning of Regulation 347 of the Revised Regulations of Ontario, 1990 (General — Waste Management) made under the Environmental Protection Act. vii.  An activity mentioned in subsection 27 (1) of the Environmental Protection Act\r\nin respect of a waste disposal site if the proposal relates to operating a waste disposal site for household hazardous waste for a period of not more than 12 days per year. vii.1  An activity mentioned in subsection 53 (1) of the Ontario Water Resources Act\r\nin respect of a demonstration project at an alternative low-carbon fuel site. viii.  An activity that would permit the discharge of specific contaminants from a discharge point if, A.  the discharge point is already subject to an environmental compliance approval within the meaning of the Environmental Protection Act, and B.  the proposed approval would not permit an increase in the discharge of any of the specific contaminants from the discharge point. 7.  Revoked:  O. Reg. 261/11, s. 3 (3). 8.  A proposal for an order under section 43 of the Environmental Protection Act. 9.  A proposal for an order under section 44 of the Environmental Protection Act. 9.1  A proposal for a renewable energy approval under Part V.0.1 of the Environmental Protection Act. 10.  A proposal for directions under section 94 of the Environmental Protection Act. 11.  A proposal for an order under section 97 of the Environmental Protection Act. 12.  A proposal for an order under section 136 of the Environmental Protection Act. 13.  A proposal for an order under subsection 20 (5) of Ontario Regulation 419/05 (Air Pollution — Local Air Quality) made under the Environmental Protection Act. 13.1  A proposal for an approval under subsection 35 (1) of Ontario Regulation 419/05 (Air Pollution — Local Air Quality) made under the Environmental Protection Act. 13.1.1 A proposal for an order under subsection 35 (14) of Ontario Regulation 419/05. 13.1.2 A proposal for an approval under subsection 39 (3) or (4) of Ontario Regulation 419/05. 13.2  A proposal for an order or requirement under subsection 51 (3), (4) or (5) of Ontario Regulation 419/05. 14.  A proposal for a declaration under subsection 2 (1) or (2) of Regulation 350 of the Revised Regulations of Ontario, 1990. 15.  A proposal for a certificate of property use under section 168.6 of the Environmental Protection Act, if the proposal relates to a risk assessment that is submitted to the Ministry of the Environment and Climate Change on or after October 1, 2005, but does not include a proposal for a certificate of property use in respect of a modified generic risk assessment that has been accepted under clause 168.5 (1) (a) of the Environmental Protection Act.  O. Reg. 681/94, s. 5 (2); O. Reg. 180/98, s. 4; O. Reg. 420/05, s. 1; O. Reg. 505/05, s. 1; O. Reg. 517/07, s. 1; O. Reg. 362/09, s. 1; O. Reg. 508/09, s. 1; O. Reg. 512/09, s. 1; O. Reg. 261/11, s. 3 (2, 3); O. Reg. 234/13, s. 1; O. Reg. 306/14, s. 4; O. Reg. 80/15, s. 1 (2). Class II Proposals — Ontario Water Resources Act",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) In this section,</p> <p class=\"firstdef-e\">“alternative low-carbon fuel”, “alternative low-carbon fuel site” and “demonstration project” have the same meaning as in Ontario Regulation 79/15 (Alternative Low-Carbon Fuels) made under the <i>Environmental Protection Act</i><i>.</i> (“combustible de remplacement à faible teneur en carbone”, “lieu d’utilisation de combustible de remplacement à faible teneur en carbone”, “projet de démonstration”)</p> <p class=\"definition-e\">“contaminant”, “discharge”, “waste” and “waste disposal site” have the same meanings as in the <i>Environmental Protection Act</i>. (“contaminant”, “rejet”, “déchets”, “lieu d’élimination des déchets”)  O. Reg. 261/11, s. 3 (1); O. Reg. 80/15, s. 1 (1).</p> <p class=\"subsection-e\">  (2) The following are Class II proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal for an order under section 7 of the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\">  2.  A proposal for an order under section 8 of the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\">  3.  A proposal for an approval under section 10 of the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\">  4.  A proposal for an order under section 17 of the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\">  5.  A proposal for an order under section 18 of the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\">  6.  A proposal for an environmental compliance approval under section 20.3 or 20.5 of the <i>Environmental Protection Act</i> in respect of an activity mentioned in subsection 27 (1) of that Act that relates to a waste disposal site, or in respect of an activity mentioned in subsection 9 (1) of that Act or subsection 53 (1) of the <i>Ontario Water Resources Act</i>, except a proposal for an environmental compliance approval that would only permit engaging in one or more of the following activities: </p> <p class=\"subpara-e\">  i.  An activity mentioned in subsection 9 (1) of the <i>Environmental Protection Act</i>\r\nthat would permit the discharge of a contaminant from any one discharge point for a total of less than 10 hours in any seven-day period.</p> <p class=\"subpara-e\">  ii.  An activity mentioned in subsection 9 (1) of the <i>Environmental Protection Act</i>\r\nthat would permit the discharge of a contaminant resulting from the preparation of food at a site for the purpose of selling the food at the site at retail or distributing it at the site free of charge.</p> <p class=\"subpara-e\">  iii.  An activity mentioned in subsection 9 (1) of the <i>Environmental Protection Act</i>\r\nthat would permit the discharge of a contaminant as a result of operating combustion equipment, if the equipment is not fired with fuel derived from waste, other than wood waste, and is not operated for the purpose of generating heat or electricity for sale.</p> <p class=\"subpara-e\">  iv.  An activity mentioned in subsection 9 (1) of the <i>Environmental Protection Act</i>\r\nthat would permit the discharge of a contaminant from a storage tank or vessel.\r\n</p> <p class=\"subpara-e\">  iv.1  An activity mentioned in subsection 9 (1) of the <i>Environmental Protection Act</i>\r\nthat would permit the discharge of a contaminant if,</p> <p class=\"subsubpara-e\">  A.  the activity is related to the combustion of alternative low-carbon fuel at an alternative low-carbon fuel site, and</p> <p class=\"subsubpara-e\">  B.  the proposal is in respect of a demonstration project at the site.</p> <p class=\"subpara-e\">  v.  An activity mentioned in subsection 27 (1) of the <i>Environmental Protection Act</i>\r\nin respect of mobile waste processing equipment.</p> <p class=\"subpara-e\">  vi.  An activity mentioned in subsection 27 (1) of the <i>Environmental Protection Act</i>\r\nin respect of a waste disposal site if the proposal relates to an organic soil conditioning site within the meaning of Regulation 347 of the Revised Regulations of Ontario, 1990 (General — Waste Management) made under the <i>Environmental Protection Act</i>.</p> <p class=\"subpara-e\">  vii.  An activity mentioned in subsection 27 (1) of the <i>Environmental Protection Act</i>\r\nin respect of a waste disposal site if the proposal relates to operating a waste disposal site for household hazardous waste for a period of not more than 12 days per year.</p> <p class=\"subpara-e\">  vii.1  An activity mentioned in subsection 53 (1) of the <i>Ontario Water Resources Act</i>\r\nin respect of a demonstration project at an alternative low-carbon fuel site.</p> <p class=\"subpara-e\">  viii.  An activity that would permit the discharge of specific contaminants from a discharge point if, </p> <p class=\"subsubpara-e\">  A.  the discharge point is already subject to an environmental compliance approval within the meaning of the<i> Environmental Protection Act</i>, and</p> <p class=\"subsubpara-e\">  B.  the proposed approval would not permit an increase in the discharge of any of the specific contaminants from the discharge point.</p> <p class=\"paragraph-e\">  7.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 261/11, s. 3 (3).</p> <p class=\"paragraph-e\">  8.  A proposal for an order under section 43 of the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\">  9.  A proposal for an order under section 44 of the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\">  9.1  A proposal for a renewable energy approval under Part V.0.1 of the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\">  10.  A proposal for directions under section 94 of the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\">  11.  A proposal for an order under section 97 of the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\">  12.  A proposal for an order under section 136 of the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\">  13.  A proposal for an order under subsection 20 (5) of Ontario Regulation 419/05 (Air Pollution — Local Air Quality) made under the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\"> 13.1  A proposal for an approval under subsection 35 (1) of Ontario Regulation 419/05 (Air Pollution — Local Air Quality) made under the <i>Environmental Protection Act</i>.</p> <p class=\"paragraph-e\"> 13.1.1 A proposal for an order under subsection 35 (14) of Ontario Regulation 419/05.</p> <p class=\"paragraph-e\"> 13.1.2 A proposal for an approval under subsection 39 (3) or (4) of Ontario Regulation 419/05.</p> <p class=\"paragraph-e\"> 13.2  A proposal for an order or requirement under subsection 51 (3), (4) or (5) of Ontario Regulation 419/05.</p> <p class=\"paragraph-e\">  14.  A proposal for a declaration under subsection 2 (1) or (2) of Regulation 350 of the Revised Regulations of Ontario, 1990.</p> <p class=\"paragraph-e\">  15.  A proposal for a certificate of property use under section 168.6 of the <i>Environmental Protection Act</i>, if the proposal relates to a risk assessment that is submitted to the Ministry of the Environment and Climate Change on or after October 1, 2005, but does not include a proposal for a certificate of property use in respect of a modified generic risk assessment that has been accepted under clause 168.5 (1) (a) of the <i>Environmental Protection Act</i>.  O. Reg. 681/94, s. 5 (2); O. Reg. 180/98, s. 4; O. Reg. 420/05, s. 1; O. Reg. 505/05, s. 1; O. Reg. 517/07, s. 1; O. Reg. 362/09, s. 1; O. Reg. 508/09, s. 1; O. Reg. 512/09, s. 1; O. Reg. 261/11, s. 3 (2, 3); O. Reg. 234/13, s. 1; O. Reg. 306/14, s. 4; O. Reg. 80/15, s. 1 (2).</p> <p class=\"heading1-e\"><a name=\"BK12\"></a>Class II Proposals — Ontario Water Resources Act</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. (1) Revoked: O. Reg. 261/11, s. 4 (1). (2) The following are Class II proposals for instruments: 1.  A proposal for an order under section 31 of the Ontario Water Resources Act. 2.  A proposal for an order under section 32 of the Ontario Water Resources Act. 3.  A proposal for a notice under subsection 34 (7) of the Ontario Water Resources Act. 4., 5.  Revoked:  O. Reg. 160/10, s. 5. 6.  Revoked:  O. Reg. 261/11, s. 4 (2). 7.  A proposal for an order or for directions under subsection 53 (3) of the Ontario Water Resources Act. 8.  A proposal for directions under section 61 of the Ontario Water Resources Act. 9.  A proposal for a report under subsection 62 (1) of the Ontario Water Resources Act. 10.  A proposal for directions under section 91 of the Ontario Water Resources Act. 11.  A proposal for an order under section 92 of the Ontario Water Resources Act. 12.  Revoked: O. Reg. 519/22, s. 3. O. Reg. 681/94, s. 6 (2); O. Reg. 180/98, s. 5; O. Reg. 160/10, s. 5; O. Reg. 261/11, s. 4 (2); O. Reg. 519/22, s. 3. Class II Proposals — Pesticides Act",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 261/11, s. 4 (1).</p> <p class=\"subsection-e\">  (2) The following are Class II proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal for an order under section 31 of the <i>Ontario Water Resources Act</i>.</p> <p class=\"paragraph-e\">  2.  A proposal for an order under section 32 of the <i>Ontario Water Resources Act</i>.</p> <p class=\"paragraph-e\">  3.  A proposal for a notice under subsection 34 (7) of the <i>Ontario Water Resources Act</i>.</p> <p class=\"paragraph-e\"> 4., 5.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 160/10, s. 5.</p> <p class=\"paragraph-e\">  6.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 261/11, s. 4 (2).</p> <p class=\"paragraph-e\">  7.  A proposal for an order or for directions under subsection 53 (3) of the <i>Ontario Water Resources Act</i>.</p> <p class=\"paragraph-e\">  8.  A proposal for directions under section 61 of the <i>Ontario Water Resources Act</i>.</p> <p class=\"paragraph-e\">  9.  A proposal for a report under subsection 62 (1) of the <i>Ontario Water Resources Act</i>.</p> <p class=\"paragraph-e\">  10.  A proposal for directions under section 91 of the <i>Ontario Water Resources Act</i>.</p> <p class=\"paragraph-e\">  11.  A proposal for an order under section 92 of the <i>Ontario Water Resources Act</i>.</p> <p class=\"paragraph-e\">  12.  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 519/22, s. 3.</p> <p class=\"footnote-e\">O. Reg. 681/94, s. 6 (2); O. Reg. 180/98, s. 5; O. Reg. 160/10, s. 5; O. Reg. 261/11, s. 4 (2); O. Reg. 519/22, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK13\"></a>Class II Proposals — Pesticides Act</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. The following are Class II proposals for instruments: 1.  A proposal for a notice under subsection 13 (7) of the Pesticides Act. 2.  A proposal for an order under section 27 of the Pesticides Act. 3.  A proposal for an order under section 28 of the Pesticides Act. 4.  A proposal for an order under section 30 of the Pesticides Act.  O. Reg. 681/94, s. 7.",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>The following are Class II proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal for a notice under subsection 13 (7) of the <i>Pesticides Act</i>.</p> <p class=\"paragraph-e\">  2.  A proposal for an order under section 27 of the <i>Pesticides Act</i>.</p> <p class=\"paragraph-e\">  3.  A proposal for an order under section 28 of the <i>Pesticides Act</i>.</p> <p class=\"paragraph-e\">  4.  A proposal for an order under section 30 of the <i>Pesticides Act</i>.  O. Reg. 681/94, s. 7.</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. Revoked: O. Reg. 261/11, s. 5. Class III Proposals — Ontario Water Resources Act",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 261/11, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK14\"></a>Class III Proposals — Ontario Water Resources Act</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. The following is a Class III proposal for an instrument: 1.  A proposal for an order under subsection 74 (2) of the Ontario Water Resources Act.  O. Reg. 261/11, s. 6. Review of Classification",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>The following is a Class III proposal for an instrument:</p> <p class=\"paragraph-e\">  1.  A proposal for an order under subsection 74 (2) of the <i>Ontario Water Resources Act</i>.  O. Reg. 261/11, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Review of Classification</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. The Minister of the Environment shall review sections 2 to 9 of this Regulation within two years after the day on which this Regulation is filed and shall prepare proposals to amend the classification scheme that these sections set out as the Minister considers advisable.  O. Reg. 681/94, s. 10; O. Reg. 505/05, s. 2. PART II.1   Ministry of Municipal Affairs and Housing Interpretation",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b>The Minister of the Environment shall review sections 2 to 9 of this Regulation within two years after the day on which this Regulation is filed and shall prepare proposals to amend the classification scheme that these sections set out as the Minister considers advisable.  O. Reg. 681/94, s. 10; O. Reg. 505/05, s. 2.</p> <p class=\"partnum-e\"><a name=\"BK16\"></a>PART II.1 <br/>  Ministry of Municipal Affairs and Housing</p> <p class=\"heading1-e\"><a name=\"BK17\"></a>Interpretation</p>"
+        },
+        {
+            "ahref_id": "#10.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.1 In this Part, a proposal for an instrument includes a proposal to issue it, amend it or revoke it, whether the amendment or revocation is authorized by the same provision of an Act or regulation that authorizes the issuance of the instrument or by a different provision.  O. Reg. 324/99, s. 1. Class I Proposals — Building Code Act, 1992",
+            "raw_html": "<p class=\"section-e\"> <b>10.1 </b>In this Part, a proposal for an instrument includes a proposal to issue it, amend it or revoke it, whether the amendment or revocation is authorized by the same provision of an Act or regulation that authorizes the issuance of the instrument or by a different provision.  O. Reg. 324/99, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK18\"></a>Class I Proposals — Building Code Act, 1992</p>"
+        },
+        {
+            "ahref_id": "#10.1.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.1.1 The following is a Class I proposal for an instrument: 1.  A proposal for a ruling under clause 29 (1) (a) or (c) of the Building Code Act, 1992\r\nthat relates to the construction, demolition, maintenance or operation of sewage systems as defined in Ontario Regulation 332/12 (Building Code) made under that Act.  O. Reg. 130/01, s. 1; O. Reg. 226/12, s. 1; O. Reg. 234/13, s. 2. Class I Proposals — Oak Ridges Moraine Conservation Act, 2001",
+            "raw_html": "<p class=\"section-e\"> <b>10.1.1</b><b> </b>The following is a Class I proposal for an instrument:</p> <p class=\"paragraph-e\">  1.  A proposal for a ruling under clause 29 (1) (a) or (c) of the <i>Building Code Act, 1992</i>\r\nthat relates to the construction, demolition, maintenance or operation of sewage systems as defined in Ontario Regulation 332/12 (Building Code) made under that Act.  O. Reg. 130/01, s. 1; O. Reg. 226/12, s. 1; O. Reg. 234/13, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK19\"></a>Class I Proposals — Oak Ridges Moraine Conservation Act, 2001</p>"
+        },
+        {
+            "ahref_id": "#10.1.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.1.2 The following are Class I proposals for instruments: 1.  A proposal for an order made by the Minister under subsection 9 (8) of the Oak Ridges Moraine Conservation Act, 2001 to amend a municipality’s official plan to resolve a conflict between the official plan and the Oak Ridges Moraine Conservation Plan. 2.  A proposal for an order made by the Minister under subsection 9 (8) of the Oak Ridges Moraine Conservation Act, 2001 to amend a municipality’s zoning by-law to resolve a conflict between the zoning by-law and the Oak Ridges Moraine Conservation Plan. 3.  A proposal for an approval by the Minister under clause 10 (8) (a) of the Oak Ridges Moraine Conservation Act, 2001 of an official plan amendment prepared and adopted under subsection 9 (1) or (2) of that Act to implement the Oak Ridges Moraine Conservation Plan. 4.  A proposal for an approval by the Minister under clause 10 (8) (a) of the Oak Ridges Moraine Conservation Act, 2001 of a zoning by-law amendment prepared and passed under subsection 9 (5) of that Act to bring a municipality’s by-laws into conformity with the Oak Ridges Moraine Conservation Plan.  O. Reg. 216/07, s. 1. Class I Proposals — Planning Act",
+            "raw_html": "<p class=\"section-e\"> <b>10.1.2 </b>The following are Class I proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal for an order made by the Minister under subsection 9 (8) of the <i>Oak Ridges Moraine Conservation Act, 2001</i> to amend a municipality’s official plan to resolve a conflict between the official plan and the Oak Ridges Moraine Conservation Plan.</p> <p class=\"paragraph-e\">  2.  A proposal for an order made by the Minister under subsection 9 (8) of the <i>Oak Ridges Moraine Conservation Act, 2001</i> to amend a municipality’s zoning by-law to resolve a conflict between the zoning by-law and the Oak Ridges Moraine Conservation Plan.</p> <p class=\"paragraph-e\">  3.  A proposal for an approval by the Minister under clause 10 (8) (a) of the <i>Oak Ridges Moraine Conservation Act, 2001</i> of an official plan amendment prepared and adopted under subsection 9 (1) or (2) of that Act to implement the Oak Ridges Moraine Conservation Plan.</p> <p class=\"paragraph-e\">  4.  A proposal for an approval by the Minister under clause 10 (8) (a) of the <i>Oak Ridges Moraine Conservation Act, 2001</i> of a zoning by-law amendment prepared and passed under subsection 9 (5) of that Act to bring a municipality’s by-laws into conformity with the Oak Ridges Moraine Conservation Plan.  O. Reg. 216/07, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK20\"></a>Class I Proposals — Planning Act</p>"
+        },
+        {
+            "ahref_id": "#10.2",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.2 (1) In this section, “Minister” means the Minister of Municipal Affairs.  O. Reg. 324/99, s. 1; O. Reg. 22/17, s. 1. (2) The following are Class I proposals for instruments: 1.  A proposal for approval by the Minister of an official plan under section 17 of the Planning Act. 2.  A proposal for approval by the Minister of an amendment to an official plan under section 21 of the Planning Act. 3.  A proposal for approval by the Minister of a consent under section 53 of the Planning Act\r\nin an area where there is no official plan in place. 4.  A proposal for approval by the Minister of a plan of subdivision under section 51 of the Planning Act in an area where there is no official plan in place.  O. Reg. 324/99, s. 1. PART II.2   Ministry of Natural resources and forestry Interpretation",
+            "raw_html": "<p class=\"section-e\"> <b>10.2 </b>(1) In this section,</p> <p class=\"firstdef-e\">“Minister” means the Minister of Municipal Affairs.  O. Reg. 324/99, s. 1; O. Reg. 22/17, s. 1.</p> <p class=\"subsection-e\">  (2) The following are Class I proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal for approval by the Minister of an official plan under section 17 of the <i>Planning Act</i>.</p> <p class=\"paragraph-e\">  2.  A proposal for approval by the Minister of an amendment to an official plan under section 21 of the <i>Planning Act</i>.</p> <p class=\"paragraph-e\">  3.  A proposal for approval by the Minister of a consent under section 53 of the <i>Planning Act</i>\r\nin an area where there is no official plan in place.</p> <p class=\"paragraph-e\">  4.  A proposal for approval by the Minister of a plan of subdivision under section 51 of the <i>Planning Act</i> in an area where there is no official plan in place.  O. Reg. 324/99, s. 1.</p> <p class=\"partnum-e\"><a name=\"BK21\"></a>PART II.2 <br/>  Ministry of Natural resources and forestry</p> <p class=\"heading1-e\"><a name=\"BK22\"></a>Interpretation</p>"
+        },
+        {
+            "ahref_id": "#10.2.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.2.1 In this Part, a proposal for an instrument includes a proposal to issue it, amend it or revoke it, whether the amendment or revocation is authorized by the same provision of an Act or regulation that authorizes the issuance of the instrument or by a different provision. O. Reg. 519/22, s. 4. Class I Proposals — Aggregate Resources Act",
+            "raw_html": "<p class=\"section-e\"><b>  10.2.1 </b>In this Part, a proposal for an instrument includes a proposal to issue it, amend it or revoke it, whether the amendment or revocation is authorized by the same provision of an Act or regulation that authorizes the issuance of the instrument or by a different provision. O. Reg. 519/22, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK23\"></a>Class I Proposals — Aggregate Resources Act</p>"
+        },
+        {
+            "ahref_id": "#10.3",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.3 (1) The following are Class I proposals for instruments: 1.  A proposal to approve an amendment to a site plan under subsection 16 (2) of the\r\nAggregate Resources Act, if notice of the proposal is served under clause 16 (5) (b) of that Act. 2.  A proposal to approve an amendment to a site plan under subsection 16 (2) of the Aggregate Resources Act to permit, i.  an increase in the number of tonnes of aggregate that may be removed in a calendar year, ii.  a lowering of the final extraction elevation, or iii.  a reduction in the excavation setback area that will allow excavation at a location described in subsection (2). 3.  A proposal to revoke a licence under subsection 20 (1) of the Aggregate Resources Act, other than a proposal to revoke a licence for failure to pay an annual licence fee under subsection 14 (1) of that Act. 4.  A proposal to issue an aggregate permit under section 37 of the Aggregate Resources Act\r\nto allow the excavation of aggregate described in clause 34 (1) (d) of that Act. 5.  A proposal to grant relief under subsection 68 (1) of the Aggregate Resources Act, if notice of the proposal is served under subsection 68 (4) of that Act. 6.  A proposal to grant relief under subsection 68 (1) of the Aggregate Resources Act to permit a reduction in an excavation setback area that will allow excavation at a location described in subsection (2). 7.  A proposal to determine under subsection 72 (3) of the Aggregate Resources Act the natural edge of the Niagara Escarpment for the purposes of subsection 72 (1) or (2) of that Act.  O. Reg. 261/01, s. 1. (2) The following locations are described for the purposes of paragraphs 2 and 6 of subsection (1): 1.  Within 30 metres of a river and stream system or fish habitat, as defined in the Provincial Policy Statement issued under section 3 of the Planning Act and approved by the Lieutenant Governor in Council by Order in Council No. 229/2020. 2.  Within 50 metres of woodlands, as defined in the Forestry Act, if the area of the woodlands is at least one hectare. 3.  Within 50 metres of hazardous lands, hazardous sites or significant areas of natural and scientific interest under the Provincial Policy Statement described in paragraph 1. 4.  Within 50 metres of land identified as a significant wildlife habitat, i.  by the municipality in which the land is located, in its official plan, or ii.  by the Ministry of Natural Resources and Forestry on maps located in the Ministry’s District Office for the area in which the land is located. 5.  Within 50 metres of land that is habitat, within the meaning of the Endangered Species Act, 2007, of a species that is listed as an endangered or threatened species in Ontario Regulation 230/08 (Species at Risk in Ontario List) made under that Act. 6.  Within 100 metres of a mine hazard, as defined in the Provincial Policy Statement described in paragraph 1. 7.  Within 120 metres of significant wetlands, as defined in the Provincial Policy Statement described in paragraph 1.  O. Reg. 261/01, s. 1; O. Reg. 160/10, s. 6; O. Reg. 306/14, s. 6; O. Reg. 519/22, s. 5. Class I Proposals — Conservation Authorities Act",
+            "raw_html": "<p class=\"section-e\"><b>  10.3</b><b> </b>(1) The following are Class I proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal to approve an amendment to a site plan under subsection 16 (2) of the<i>\r\nAggregate Resources Act</i>, if notice of the proposal is served under clause 16 (5) (b) of that Act.</p> <p class=\"paragraph-e\">  2.  A proposal to approve an amendment to a site plan under subsection 16 (2) of the <i>Aggregate Resources Act</i> to permit,</p> <p class=\"subpara-e\">  i.  an increase in the number of tonnes of aggregate that may be removed in a calendar year,</p> <p class=\"subpara-e\">  ii.  a lowering of the final extraction elevation, or</p> <p class=\"subpara-e\">  iii.  a reduction in the excavation setback area that will allow excavation at a location described in subsection (2).</p> <p class=\"paragraph-e\">  3.  A proposal to revoke a licence under subsection 20 (1) of the <i>Aggregate Resources Act</i>, other than a proposal to revoke a licence for failure to pay an annual licence fee under subsection 14 (1) of that Act.</p> <p class=\"paragraph-e\">  4.  A proposal to issue an aggregate permit under section 37 of the <i>Aggregate Resources Act</i>\r\nto allow the excavation of aggregate described in clause 34 (1) (d) of that Act.</p> <p class=\"paragraph-e\">  5.  A proposal to grant relief under subsection 68 (1) of the <i>Aggregate Resources Act</i>, if notice of the proposal is served under subsection 68 (4) of that Act.</p> <p class=\"paragraph-e\">  6.  A proposal to grant relief under subsection 68 (1) of the <i>Aggregate Resources Act</i> to permit a reduction in an excavation setback area that will allow excavation at a location described in subsection (2).</p> <p class=\"paragraph-e\">  7.  A proposal to determine under subsection 72 (3) of the <i>Aggregate Resources Act</i> the natural edge of the Niagara Escarpment for the purposes of subsection 72 (1) or (2) of that Act.  O. Reg. 261/01, s. 1.</p> <p class=\"subsection-e\">  (2) The following locations are described for the purposes of paragraphs 2 and 6 of subsection (1):</p> <p class=\"paragraph-e\">  1.  Within 30 metres of a river and stream system or fish habitat, as defined in the Provincial Policy Statement issued under section 3 of the <i>Planning Act </i>and approved by the Lieutenant Governor in Council by Order in Council No. 229/2020.</p> <p class=\"paragraph-e\">  2.  Within 50 metres of woodlands, as defined in the <i>Forestry Act</i>, if the area of the woodlands is at least one hectare.</p> <p class=\"paragraph-e\">  3.  Within 50 metres of hazardous lands, hazardous sites or significant areas of natural and scientific interest under the Provincial Policy Statement described in paragraph 1.</p> <p class=\"paragraph-e\">  4.  Within 50 metres of land identified as a significant wildlife habitat,</p> <p class=\"subpara-e\">  i.  by the municipality in which the land is located, in its official plan, or</p> <p class=\"subpara-e\">  ii.  by the Ministry of Natural Resources and Forestry on maps located in the Ministry’s District Office for the area in which the land is located.</p> <p class=\"paragraph-e\">  5.  Within 50 metres of land that is habitat, within the meaning of the <i>Endangered Species Act, 2007</i>, of a species that is listed as an endangered or threatened species in Ontario Regulation 230/08 (Species at Risk in Ontario List) made under that Act.</p> <p class=\"paragraph-e\">  6.  Within 100 metres of a mine hazard, as defined in the Provincial Policy Statement described in paragraph 1.</p> <p class=\"paragraph-e\">  7.  Within 120 metres of significant wetlands, as defined in the Provincial Policy Statement described in paragraph 1.  O. Reg. 261/01, s. 1; O. Reg. 160/10, s. 6; O. Reg. 306/14, s. 6; O. Reg. 519/22, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK24\"></a>Class I Proposals — Conservation Authorities Act</p>"
+        },
+        {
+            "ahref_id": "#10.4",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.4 The following are Class I proposals for instruments: 1.  A proposal to approve under subsection 21 (2) of the Conservation Authorities Act\r\nthe sale, lease or other disposition of land other than, i.  a proposal for approval for which terms and conditions are imposed under subsection 21 (3) of that Act that prohibit a change in use of the land and prohibit altering the site, and ii.  a proposal to approve a sale, lease or other disposition of land to the previous owner if the land was taken from that owner under the Expropriations Act. 2.  A proposal to require an authority to carry out flood control operations under clause 23 (1) (a) of the Conservation Authorities Act. 3.  A proposal to require an authority to follow instructions under clause 23 (1) (b) of the Conservation Authorities Act. 4.  A proposal to take over the operation of a water control structure under clause 23 (1) (c) or (2) (c) of the\r\nConservation Authorities Act. 5.  A proposal to require the council of a municipality to carry out flood control operations under clause 23 (2) (a) of the Conservation Authorities Act. 6.  A proposal to require the council of a municipality to follow instructions under clause 23 (2) (b) of the\r\nConservation Authorities Act.  O. Reg. 261/01, s. 1; O. Reg. 49/19, s. 5; O. Reg. 519/22, s. 6. Class I Proposals — Crown Forest Sustainability Act, 1994",
+            "raw_html": "<p class=\"section-e\"><b>  10.4</b><b> </b>The following are Class I proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal to approve under subsection 21 (2) of the <i>Conservation Authorities Act</i>\r\nthe sale, lease or other disposition of land other than,</p> <p class=\"subpara-e\">  i.  a proposal for approval for which terms and conditions are imposed under subsection 21 (3) of that Act that prohibit a change in use of the land and prohibit altering the site, and</p> <p class=\"subpara-e\">  ii.  a proposal to approve a sale, lease or other disposition of land to the previous owner if the land was taken from that owner under the <i>Expropriations Act</i>.</p> <p class=\"paragraph-e\">  2.  A proposal to require an authority to carry out flood control operations under clause 23 (1) (a) of the <i>Conservation Authorities Act</i>.</p> <p class=\"paragraph-e\">  3.  A proposal to require an authority to follow instructions under clause 23 (1) (b) of the <i>Conservation Authorities Act</i>.</p> <p class=\"paragraph-e\">  4.  A proposal to take over the operation of a water control structure under clause 23 (1) (c) or (2) (c) of the\r\n<i>Conservation Authorities Act.</i></p> <p class=\"paragraph-e\">  5.  A proposal to require the council of a municipality to carry out flood control operations under clause 23 (2) (a) of the <i>Conservation Authorities Act</i>. </p> <p class=\"paragraph-e\">  6.  A proposal to require the council of a municipality to follow instructions under clause 23 (2) (b) of the\r\n<i>Conservation Authorities Act</i>.  O. Reg. 261/01, s. 1; O. Reg. 49/19, s. 5; O. Reg. 519/22, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK25\"></a>Class I Proposals — Crown Forest Sustainability Act, 1994</p>"
+        },
+        {
+            "ahref_id": "#10.4.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.4.1 The following is a Class I proposal for an instrument: 1.  A proposal to issue a forest resource processing facility licence under subsection 54 (1) of the Crown Forest Sustainability Act, 1994 to authorize construction of a new facility of a type described as A, C, D, E, F, H or K in Column 1 of Schedule 3 to Ontario Regulation 167/95 (General) made under that Act. O. Reg. 234/13, s. 3.",
+            "raw_html": "<p class=\"section-e\"><b>  10.4.1 </b>The following is a Class I proposal for an instrument:</p> <p class=\"paragraph-e\">  1.  A proposal to issue a forest resource processing facility licence under subsection 54 (1) of the <i>Crown Forest Sustainability Act, 1994</i> to authorize construction of a new facility of a type described as A, C, D, E, F, H or K in Column 1 of Schedule 3 to Ontario Regulation 167/95 (General) made under that Act. O. Reg. 234/13, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#10.5",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.5 Revoked: O. Reg. 49/19, s. 6. Class I Proposals — Far North Act, 2010",
+            "raw_html": "<p class=\"section-e\"><b>  10.5 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 49/19, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK26\"></a>Class I Proposals — Far North Act, 2010</p>"
+        },
+        {
+            "ahref_id": "#10.5.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.5.1 The following are Class I proposals for instruments: 1.  A proposal for an order under clause 9 (14) (a) of the Far North Act, 2010, if the order is with respect to approving, i.  the parts of a land use plan that subsection 9 (9) of the Far North Act, 2010\r\nrequires to be included in the plan, or ii.  an amendment to a community based land use plan, proposed in accordance with subsections 10 (1) and (2) of the Far North Act, 2010. 2.  A proposal for an order under subsection 10 (3) of the Far North Act, 2010 to amend the boundaries of a planning area for which there is a community based land use plan if, i.  the amendment would remove from the planning area all or part of a protected area designated in the plan or all or part of an area with a different designation in the plan that prohibits prospecting, mining claim staking or mineral exploration, and ii.  the effect of the amendment would be that prospecting, mining claim staking or mineral exploration in the removed area would no longer be prohibited under the Far North Act, 2010. O. Reg. 306/14, s. 7. Class I Proposals — Fish and Wildlife Conservation Act, 1997",
+            "raw_html": "<p class=\"section-e\"> <b>10.5.1 </b>The following are Class I proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal for an order under clause 9 (14) (a) of the <i>Far North Act, 2010</i>, if the order is with respect to approving,</p> <p class=\"subpara-e\">  i.  the parts of a land use plan that subsection 9 (9) of the <i>Far North Act, 2010</i>\r\nrequires to be included in the plan, or</p> <p class=\"subpara-e\">  ii.  an amendment to a community based land use plan, proposed in accordance with subsections 10 (1) and (2) of the <i>Far North Act, 2010</i>.</p> <p class=\"paragraph-e\">  2.  A proposal for an order under subsection 10 (3) of the <i>Far North Act, 2010</i> to amend the boundaries of a planning area for which there is a community based land use plan if, </p> <p class=\"subpara-e\">  i.  the amendment would remove from the planning area all or part of a protected area designated in the plan or all or part of an area with a different designation in the plan that prohibits prospecting, mining claim staking or mineral exploration, and</p> <p class=\"subpara-e\">  ii.  the effect of the amendment would be that prospecting, mining claim staking or mineral exploration in the removed area would no longer be prohibited under the <i>Far North Act, 2010</i>. O. Reg. 306/14, s. 7.</p> <p class=\"heading1-e\"><a name=\"BK27\"></a>Class I Proposals — Fish and Wildlife Conservation Act, 1997</p>"
+        },
+        {
+            "ahref_id": "#10.6",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.6 The following are Class I proposals for instruments: 1.  A proposal to issue an authorization under subsection 54 (1) of the Fish and Wildlife Conservation Act, 1997 to release wildlife or an invertebrate, other than an authorization to release, i.  an invertebrate imported into Ontario for release under a permit issued under the Plant Protection Act (Canada), ii.  a northern bobwhite, chukar partridge or ring-necked pheasant that is propagated or raised in captivity, if it is released into a licensed game bird hunting preserve, iii.  a northern bobwhite, chukar partridge or ring-necked pheasant that is propagated or raised in captivity, if it is released for the purposes of training dogs or conducting dog trials, or iv.  a ring-necked pheasant that is propagated or raised in captivity, if it is released for hunting under a licence issued under a municipal by-law passed under subsection 79 (1) of that Act. 2.  A proposal to issue a licence for the purposes of clause 47 (1) (b) of the Fish and Wildlife Conservation Act, 1997 to authorize a person to engage in aquaculture if, i.  the person is required by the Ministry of Natural Resources and Forestry to submit a detailed ecological risk analysis, or ii.  the licence authorizes the culture of fish in a cage in water covering Crown land or covering land described in letters patent issued under the Public Lands Act as a water lot or as part of the bed of a body of water.  O. Reg. 261/01, s. 1; O. Reg. 306/14, s. 8. Class I Proposals — Niagara Escarpment Planning and Development Act",
+            "raw_html": "<p class=\"section-e\"> <b>10.6</b><b> </b>The following are Class I proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal to issue an authorization under subsection 54 (1) of the <i>Fish and Wildlife Conservation Act, 1997 </i>to release wildlife or an invertebrate, other than an authorization to release,</p> <p class=\"subpara-e\">  i.  an invertebrate imported into Ontario for release under a permit issued under the <i>Plant Protection Act</i> (Canada),</p> <p class=\"subpara-e\">  ii.  a northern bobwhite, chukar partridge or ring-necked pheasant that is propagated or raised in captivity, if it is released into a licensed game bird hunting preserve, </p> <p class=\"subpara-e\">  iii.  a northern bobwhite, chukar partridge or ring-necked pheasant that is propagated or raised in captivity, if it is released for the purposes of training dogs or conducting dog trials, or</p> <p class=\"subpara-e\">  iv.  a ring-necked pheasant that is propagated or raised in captivity, if it is released for hunting under a licence issued under a municipal by-law passed under subsection 79 (1) of that Act.</p> <p class=\"paragraph-e\">  2.  A proposal to issue a licence for the purposes of clause 47 (1) (b) of the <i>Fish and Wildlife Conservation Act, 1997 </i>to authorize a person to engage in aquaculture if,</p> <p class=\"subpara-e\">  i.  the person is required by the Ministry of Natural Resources and Forestry to submit a detailed ecological risk analysis, or</p> <p class=\"subpara-e\">  ii.  the licence authorizes the culture of fish in a cage in water covering Crown land or covering land described in letters patent issued under the <i>Public Lands Act</i> as a water lot or as part of the bed of a body of water.  O. Reg. 261/01, s. 1; O. Reg. 306/14, s. 8.</p> <p class=\"heading1-e\"><a name=\"BK28\"></a>Class I Proposals — Niagara Escarpment Planning and Development Act</p>"
+        },
+        {
+            "ahref_id": "#10.7",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.7 The following are Class I proposals for instruments: 1.  A proposal to make a declaration under subsection 13 (2) of the Niagara Escarpment Planning and Development Act. 2.  A proposal to amend a local plan under subsection 15 (2) of the Niagara Escarpment Planning and Development Act..  O. Reg. 261/01, s. 1. Class I Proposals — Public Lands Act",
+            "raw_html": "<p class=\"section-e\"><b>  10.7</b><b> </b>The following are Class I proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal to make a declaration under subsection 13 (2) of the <i>Niagara Escarpment Planning and Development Act</i>.</p> <p class=\"paragraph-e\">  2.  A proposal to amend a local plan under subsection 15 (2) of the <i>Niagara</i><i> Escarpment Planning and Development Act</i>..  O. Reg. 261/01, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK29\"></a>Class I Proposals — Public Lands Act</p>"
+        },
+        {
+            "ahref_id": "#10.8",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.8 The following are Class I proposals for instruments: 1.  A proposal to designate an area as a planning unit under subsection 12 (1) of the Public Lands Act. 2.  A proposal to issue a permit under subsection 13 (1) of the Public Lands Act for the erection of a building or structure or the making of an improvement on private land if the building, structure or improvement will be located within 20 metres of the water’s edge of a body of water and if, i.  the permit will authorize development that is inconsistent with the Development Guidelines or Lake Management Plan issued by the Ministry of Natural Resources and Forestry for the area or will require a minor variance in accordance with the Guidelines or Plan, or ii.  the permit will authorize new commercial, industrial or institutional development.  O. Reg. 261/01, s. 1; O. Reg. 234/13, s. 4; O. Reg. 306/14, s. 9. Class II Proposals — Aggregate Resources Act",
+            "raw_html": "<p class=\"section-e\"><b>  10.8</b><b> </b>The following are Class I proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal to designate an area as a planning unit under subsection 12 (1) of the <i>Public Lands Act</i>.</p> <p class=\"paragraph-e\">  2.  A proposal to issue a permit under subsection 13 (1) of the <i>Public Lands Act</i> for the erection of a building or structure or the making of an improvement on private land if the building, structure or improvement will be located within 20 metres of the water’s edge of a body of water and if,</p> <p class=\"subpara-e\">  i.  the permit will authorize development that is inconsistent with the Development Guidelines or Lake Management Plan issued by the Ministry of Natural Resources and Forestry for the area or will require a minor variance in accordance with the Guidelines or Plan, or</p> <p class=\"subpara-e\">  ii.  the permit will authorize new commercial, industrial or institutional development.  O. Reg. 261/01, s. 1; O. Reg. 234/13, s. 4; O. Reg. 306/14, s. 9.</p> <p class=\"heading1-e\"><a name=\"BK30\"></a>Class II Proposals — Aggregate Resources Act</p>"
+        },
+        {
+            "ahref_id": "#10.9",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.9 The following are Class II proposals for instruments: 1.  A proposal to issue a Class A licence described in clause 7 (2) (a) of the Aggregate Resources Act, other than a licence referred to in subsection 71 (5) of that Act. 2.  A proposal to issue a Class B licence described in clause 7 (2) (b) of the Aggregate Resources Act, other than a licence referred to in subsection 71 (5) of that Act. 3.  A proposal to add a condition to a licence under subsection 13 (2) of the Aggregate Resources Act or to rescind or vary a condition of a licence under that subsection if notice of the proposal is served under clause 13 (3) (b) of that Act. 4.  A proposal to vary or eliminate a condition to a licence under subsection 13 (2) of the Aggregate Resources Act if the effect will be to authorize an increase in the number of tonnes of aggregate to be removed in a calendar year. 5.  A proposal to require a site plan amendment under subsection 16 (1) of the Aggregate Resources Act if notice of the proposal is served under clause 16 (5) (b) of that Act.  O. Reg. 261/01, s. 1. Class II Proposals — Far North Act, 2010",
+            "raw_html": "<p class=\"section-e\"> <b>10.9</b><b> </b>The following are Class II proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal to issue a Class A licence described in clause 7 (2) (a) of the <i>Aggregate Resources Act</i>, other than a licence referred to in subsection 71 (5) of that Act.</p> <p class=\"paragraph-e\">  2.  A proposal to issue a Class B licence described in clause 7 (2) (b) of the <i>Aggregate Resources Act</i>, other than a licence referred to in subsection 71 (5) of that Act.</p> <p class=\"paragraph-e\">  3.  A proposal to add a condition to a licence under subsection 13 (2) of the <i>Aggregate Resources Act</i> or to rescind or vary a condition of a licence under that subsection if notice of the proposal is served under clause 13 (3) (b) of that Act.</p> <p class=\"paragraph-e\">  4.  A proposal to vary or eliminate a condition to a licence under subsection 13 (2) of the <i>Aggregate Resources Act</i> if the effect will be to authorize an increase in the number of tonnes of aggregate to be removed in a calendar year.</p> <p class=\"paragraph-e\">  5.  A proposal to require a site plan amendment under subsection 16 (1) of the <i>Aggregate Resources Act</i> if notice of the proposal is served under clause 16 (5) (b) of that Act.  O. Reg. 261/01, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK31\"></a>Class II Proposals — Far North Act, 2010</p>"
+        },
+        {
+            "ahref_id": "#10.9.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.9.1 A proposal for an order under subsection 14 (4) of the Far North Act, 2010 is a Class II proposal for an instrument. O. Reg. 519/22, s. 7. Class II Proposals — Lakes and Rivers Improvement Act",
+            "raw_html": "<p class=\"section-e\"> <b>10.9.1 </b>A proposal for an order under subsection 14 (4) of the <i>Far North Act, 2010</i> is a Class II proposal for an instrument. O. Reg. 519/22, s. 7.</p> <p class=\"heading1-e\"><a name=\"BK32\"></a>Class II Proposals — Lakes and Rivers Improvement Act</p>"
+        },
+        {
+            "ahref_id": "#10.10",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.10 The following are Class II proposals for instruments: 1.  A proposal to make an order under any of the following provisions of the Lakes and Rivers Improvement Act, other than an immediate order under subsection 11 (5) of that Act: i.  Subsection 17 (2), (3) or (4). ii.  Revoked: O. Reg. 234/13, s. 5. iii.  Subsection 22 (2). iv.  Subsection 23 (1). v.  Subsection 36 (2). vi.  Revoked: O. Reg. 234/13, s. 5. 2.  A proposal to issue an order for repair or removal under subsection 17 (1) of the Lakes and Rivers Improvement Act, other than an immediate order under subsection 11 (5) of that Act.  O. Reg. 261/01, s. 1; Reg. 234/13, s. 5. Class II Proposals — Niagara Escarpment Planning and Development Act",
+            "raw_html": "<p class=\"section-e\"><b>  10.10</b><b> </b>The following are Class II proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal to make an order under any of the following provisions of the <i>Lakes and Rivers Improvement Act</i>, other than an immediate order under subsection 11 (5) of that Act:</p> <p class=\"subpara-e\">  i.  Subsection 17 (2), (3) or (4).</p> <p class=\"subpara-e\">  ii.  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 234/13, s. 5.</p> <p class=\"subpara-e\">  iii.  Subsection 22 (2).</p> <p class=\"subpara-e\">  iv.  Subsection 23 (1).</p> <p class=\"subpara-e\">  v.  Subsection 36 (2).</p> <p class=\"subpara-e\">  vi.  <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 234/13, s. 5.</p> <p class=\"paragraph-e\">  2.  A proposal to issue an order for repair or removal under subsection 17 (1) of the <i>Lakes and Rivers Improvement Act</i>, other than an immediate order under subsection 11 (5) of that Act.  O. Reg. 261/01, s. 1; Reg. 234/13, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK33\"></a>Class II Proposals — Niagara Escarpment Planning and Development Act</p>"
+        },
+        {
+            "ahref_id": "#10.11",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.11 The following is a Class II proposal for an instrument: 1.  A proposal to approve an amendment to the Niagara Escarpment Plan with or without modifications under subsection 10 (11) of the Niagara Escarpment Planning and Development Act.  O. Reg. 261/01, s. 1. Class II Proposals — Oil, Gas and Salt Resources Act",
+            "raw_html": "<p class=\"section-e\"><b>  10.11</b><b> </b>The following is a Class II proposal for an instrument:</p> <p class=\"paragraph-e\">  1.  A proposal to approve an amendment to the Niagara Escarpment Plan with or without modifications under subsection 10 (11) of the <i>Niagara Escarpment Planning and Development Act</i>.  O. Reg. 261/01, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK34\"></a>Class II Proposals — Oil, Gas and Salt Resources Act</p>"
+        },
+        {
+            "ahref_id": "#10.12",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": "  10.12 The following are Class II proposals for instruments: 1.  A proposal to grant a permit under subsection 13 (1) of the Oil, Gas and Salt Resources Act to inject a substance other than oil, gas or water into a geological formation in connection with a project for enhancing oil or gas recovery. 2.  A proposal to amend, suspend or revoke a term, condition, duty or liability imposed on the issue of a permit under subsection 13 (2) of the Oil, Gas and Salt Resources Act or to impose an additional term, condition, duty or liability if, i.  the proposed change to the permit would authorize the injection of a substance other than oil, gas or water into a geological formation in connection with a project for enhancing oil or gas recovery, or ii.  the permit already authorizes the injection of a substance other than oil, gas or water into a geological formation. 3.  A proposal to suspend or cancel a permit under section 14 of the Oil, Gas and Salt Resources Act if the Minister refers the matter to the Commissioner for a report and if the permit authorizes the injection of a substance other than oil, gas or water.  O. Reg. 261/01, s. 1; O. Reg. 234/13, s. 6. PART III   Ministry of Mines Interpretation",
+            "raw_html": "<p class=\"section-e\"><b>  10.12</b><b> </b>The following are Class II proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal to grant a permit under subsection 13 (1) of the <i>Oil, Gas and Salt Resources Act</i> to inject a substance other than oil, gas or water into a geological formation in connection with a project for enhancing oil or gas recovery.</p> <p class=\"paragraph-e\">  2.  A proposal to amend, suspend or revoke a term, condition, duty or liability imposed on the issue of a permit under subsection 13 (2) of the <i>Oil, Gas and Salt Resources Act</i> or to impose an additional term, condition, duty or liability if,</p> <p class=\"subpara-e\">  i.  the proposed change to the permit would authorize the injection of a substance other than oil, gas or water into a geological formation in connection with a project for enhancing oil or gas recovery, or</p> <p class=\"subpara-e\">  ii.  the permit already authorizes the injection of a substance other than oil, gas or water into a geological formation.</p> <p class=\"paragraph-e\">  3.  A proposal to suspend or cancel a permit under section 14 of the <i>Oil, Gas and Salt Resources Act</i> if the Minister refers the matter to the Commissioner for a report and if the permit authorizes the injection of a substance other than oil, gas or water.  O. Reg. 261/01, s. 1; O. Reg. 234/13, s. 6.</p> <p class=\"partnum-e\"><a name=\"BK35\"></a>PART III <br/>  Ministry of Mines</p> <p class=\"heading1-e\"><a name=\"BK36\"></a>Interpretation</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. In this Part, a proposal for an instrument includes a proposal to issue it, amend it or revoke it, whether the amendment or revocation is authorized by the same provision of an Act or regulation that authorizes the issuance of the instrument or by a different provision.  O. Reg. 180/98, s. 6.",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>In this Part, a proposal for an instrument includes a proposal to issue it, amend it or revoke it, whether the amendment or revocation is authorized by the same provision of an Act or regulation that authorizes the issuance of the instrument or by a different provision.  O. Reg. 180/98, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#11.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11.1 Revoked: O. Reg. 234/13, s. 7. Class I Proposals — Mining Act",
+            "raw_html": "<p class=\"section-e\"> <b>11.1</b> <span class=\"ovsmallcap\">Revoked</span>: O. Reg. 234/13, s. 7.</p> <p class=\"heading1-e\"><a name=\"BK37\"></a>Class I Proposals — Mining Act</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. The following are Class I proposals for instruments: 1.  A proposal for a consent under section 34 of the Mining Act. 2.  A proposal to award surface rights under subsection 39 (2) of the Mining Act. 3.  A proposal to reinstate a licence of occupation under subsection 41 (4) of the Mining Act, unless the reinstatement would not have a significant effect on the environment. 3.1  A proposal to grant permission to test mineral content under subsection 52 (1) of the Mining Act. 4.  A proposal to direct that buildings, structures, machinery, chattels, personal property, ore, mineral, slimes or tailings do not belong to the Crown under subsection 53 (1) of the Mining Act. 4.1  A proposal to issue an exploration permit under section 78.3 of the Mining Act. 5.  Revoked:  O. Reg. 226/12, s. 3 (3). 6.  A proposal to lease surface rights under subsection 84 (1) of the Mining Act. 7.  A proposal to direct the inclusion of reservations or provisions under subsection 86 (3) of the Mining Act, unless the inclusion would not have a significant effect on the environment. 8.  A proposal to grant permission to cut and use trees under subsection 92 (5) of the Mining Act. 8.1  A proposal to grant approval for the rehabilitation of a mine hazard under subsection 139.2 (4) of the Mining Act. 9.  A proposal to file a closure plan under clause 140 (2) (a) of the Mining Act and to give written confirmation of the filing of the closure plan. 10.  A proposal to file a closure plan under clause 141 (2) (a) of the Mining Act and to give written confirmation of the filing of the closure plan. 11.-13.  Revoked:  O. Reg. 226/12, s. 3 (7). 14.  A proposal for an order under subsection 143 (2) of the Mining Act. 15.  A proposal for an order under subsection 143 (3) of the Mining Act. 16.  A proposal for an order under subsection 145 (2) of the Mining Act. 17.  A proposal for an order under subsection 147 (1) of the Mining Act. 18.  A proposal to enter lands to rehabilitate a mine hazard under subsection 147 (2) of the Mining Act. 19.  A proposal for an order under subsection 148 (2) of the Mining Act. 20.  A proposal to issue a direction under subsection 148 (5) of the Mining Act. 21.  Revoked:  O. Reg. 226/12, s. 3 (7). 22.  A proposal to alter or revoke a decision of the Commissioner under subsection 152 (11) of the Mining Act. 23.  A proposal for an order under subsection 153.2 (3) of the Mining Act. 24.  A proposal to have the Crown or an agent of the Crown carry out rehabilitation measures under clause 153.2 (4) (b) of the Mining Act. 25.-27.  Revoked:  O. Reg. 226/12, s. 3 (7). 28.  A proposal to issue or validate an unpatented mining claim, licence of occupation, lease or patent under subsection 176 (3) of the Mining Act, unless the issuance or validation would not have a significant effect on the environment. 29.  Revoked:  O. Reg. 226/12, s. 3 (7). 30.  A proposal to accept the surrender of mining lands under subsection 183 (1) of the Mining Act, unless the acceptance would not have a significant effect on the environment.  O. Reg. 313/01, s. 2; O. Reg. 226/12, s. 3; O. Reg. 306/14, s. 11; O. Reg. 229/21, s. 1.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <b>12.</b> The following are Class I proposals for instruments:</p> <p class=\"paragraph-e\">  1.  A proposal for a consent under section 34 of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  2.  A proposal to award surface rights under subsection 39 (2) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  3.  A proposal to reinstate a licence of occupation under subsection 41 (4) of the <i>Mining Act</i>, unless the reinstatement would not have a significant effect on the environment.</p> <p class=\"paragraph-e\">  3.1  A proposal to grant permission to test mineral content under subsection 52 (1) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  4.  A proposal to direct that buildings, structures, machinery, chattels, personal property, ore, mineral, slimes or tailings do not belong to the Crown under subsection 53 (1) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  4.1  A proposal to issue an exploration permit under section 78.3 of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  5.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 226/12, s. 3 (3).</p> <p class=\"paragraph-e\">  6.  A proposal to lease surface rights under subsection 84 (1) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  7.  A proposal to direct the inclusion of reservations or provisions under subsection 86 (3) of the <i>Mining Act</i>, unless the inclusion would not have a significant effect on the environment.</p> <p class=\"paragraph-e\">  8.  A proposal to grant permission to cut and use trees under subsection 92 (5) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  8.1  A proposal to grant approval for the rehabilitation of a mine hazard under subsection 139.2 (4) of the <i>Mining Act</i><i>.</i></p> <p class=\"paragraph-e\">  9.  A proposal to file a closure plan under clause 140 (2) (a) of the <i>Mining Act</i> and to give written confirmation of the filing of the closure plan.</p> <p class=\"paragraph-e\">  10.  A proposal to file a closure plan under clause 141 (2) (a) of the <i>Mining Act</i> and to give written confirmation of the filing of the closure plan.</p> <p class=\"paragraph-e\">11.-13.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 226/12, s. 3 (7).</p> <p class=\"paragraph-e\">  14.  A proposal for an order under subsection 143 (2) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  15.  A proposal for an order under subsection 143 (3) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  16.  A proposal for an order under subsection 145 (2) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  17.  A proposal for an order under subsection 147 (1) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  18.  A proposal to enter lands to rehabilitate a mine hazard under subsection 147 (2) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  19.  A proposal for an order under subsection 148 (2) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  20.  A proposal to issue a direction under subsection 148 (5) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  21.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 226/12, s. 3 (7).</p> <p class=\"paragraph-e\">  22.  A proposal to alter or revoke a decision of the Commissioner under subsection 152 (11) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  23.  A proposal for an order under subsection 153.2 (3) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\">  24.  A proposal to have the Crown or an agent of the Crown carry out rehabilitation measures under clause 153.2 (4) (b) of the <i>Mining Act</i>.</p> <p class=\"paragraph-e\"> 25.-27.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 226/12, s. 3 (7).</p> <p class=\"paragraph-e\">  28.  A proposal to issue or validate an unpatented mining claim, licence of occupation, lease or patent under subsection 176 (3) of the <i>Mining Act</i>, unless the issuance or validation would not have a significant effect on the environment.</p> <p class=\"paragraph-e\">  29.  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 226/12, s. 3 (7).</p> <p class=\"paragraph-e\">  30.  A proposal to accept the surrender of mining lands under subsection 183 (1) of the <i>Mining Act</i>, unless the acceptance would not have a significant effect on the environment.  O. Reg. 313/01, s. 2; O. Reg. 226/12, s. 3; O. Reg. 306/14, s. 11; O. Reg. 229/21, s. 1.</p> <p class=\"paragraph-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/940681\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

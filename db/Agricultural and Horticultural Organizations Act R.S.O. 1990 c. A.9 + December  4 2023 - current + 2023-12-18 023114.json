@@ -1,0 +1,499 @@
+{
+    "act_info": {
+        "full_title": "Agricultural and Horticultural Organizations Act, R.S.O. 1990, c. A.9",
+        "act_name_text": "Agricultural and Horticultural Organizations Act",
+        "citation": "R.S.O. 1990, c. A.9",
+        "url": "https://www.ontario.ca/laws/statute/90a09",
+        "date_scraped": "2023-12-18 02:31:15"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "December  4, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/90a09/v7",
+            "valid_from": "December 10, 2019",
+            "valid_to": "December  3, 2023"
+        },
+        {
+            "a_href": "/laws/statute/90a09/v6",
+            "valid_from": "May 12, 2011",
+            "valid_to": "December  9, 2019"
+        },
+        {
+            "a_href": "/laws/statute/90a09/v5",
+            "valid_from": "December 15, 2009",
+            "valid_to": "May 11, 2011"
+        },
+        {
+            "a_href": "/laws/statute/90a09/v4",
+            "valid_from": "July 25, 2007",
+            "valid_to": "December 14, 2009"
+        },
+        {
+            "a_href": "/laws/statute/90a09/v3",
+            "valid_from": "October 19, 2006",
+            "valid_to": "July 24, 2007"
+        },
+        {
+            "a_href": "/laws/statute/90a09/v2",
+            "valid_from": "December 16, 2004",
+            "valid_to": "October 18, 2006"
+        },
+        {
+            "a_href": "/laws/statute/90a09/v1",
+            "valid_from": "January  1, 2003",
+            "valid_to": "December 15, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/070262",
+            "Citation": "O. Reg. 262/07",
+            "title": "FEES"
+        },
+        {
+            "a_href": "/laws/regulation/900017",
+            "Citation": "R.R.O. 1990, Reg. 17",
+            "title": "NAMES"
+        },
+        {
+            "a_href": "/laws/regulation/900016",
+            "Citation": "R.R.O. 1990, Reg. 16",
+            "title": "GENERAL"
+        }
+    ],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I  ",
+            "section_x": "PART I GENERAL",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Definitions",
+            "content": "1 In this Act, “board” means the board of directors of an organization; (“conseil”) “Director” means the person appointed as Director under section 4; (“directeur”) “Minister” means the Minister of Agriculture, Food and Rural Affairs; (“ministre”) “organization” means an agricultural association, agricultural society or horticultural society to which this Act applies. (“organisation”)  R.S.O. 1990, c. A.9, s. 1; 2009, c. 33, Sched. 1, s. 2 (1). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 1, s. 2 (1) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>1 </b>In this Act,</p> <p class=\"definition\">“board” means the board of directors of an organization; (“conseil”)</p> <p class=\"definition\">“Director” means the person appointed as Director under section 4; (“directeur”)</p> <p class=\"definition\">“Minister” means the Minister of Agriculture, Food and Rural Affairs; (“ministre”)</p> <p class=\"definition\">“organization” means an agricultural association, agricultural society or horticultural society to which this Act applies. (“organisation”)  R.S.O. 1990, c. A.9, s. 1; 2009, c. 33, Sched. 1, s. 2 (1).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched1s2s1\">2009, c. 33, Sched. 1, s. 2 (1)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "2.",
+            "section_x": "Application",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Application",
+            "content": "2 This Act applies to every agricultural association, agricultural society or horticultural society incorporated or continued under this Act.  R.S.O. 1990, c. A.9, s. 2.",
+            "raw_html": "<p class=\"section\"><a name=\"BK2\"></a><b>2 </b>This Act applies to every agricultural association, agricultural society or horticultural society incorporated or continued under this Act.  R.S.O. 1990, c. A.9, s. 2.</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "3.",
+            "section_x": "Body corporate",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Body corporate",
+            "content": "3 (1) Every organization is a corporation without share capital.  R.S.O. 1990, c. A.9, s. 3 (1). Information (2) The Corporations Information Act does not apply to an organization.  R.S.O. 1990, c. A.9, s. 3 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>3 </b>(1) Every organization is a corporation without share capital.  R.S.O. 1990, c. A.9, s. 3 (1).</p> <p class=\"headnote\">Information</p> <p class=\"subsection\">(2) The<i> Corporations Information Act</i> does not apply to an organization.  R.S.O. 1990, c. A.9, s. 3 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "4.",
+            "section_x": "Appointment of Director",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Appointment of Director",
+            "content": "4 The Minister shall appoint an officer of the Ministry of Agriculture, Food and Rural Affairs to be the Director for the purposes of this Act.  R.S.O. 1990, c. A.9, s. 4; 2009, c. 33, Sched. 1, s. 2 (2). Section Amendments with date in force (d/m/y) 2009, c. 33, Sched. 1, s. 2 (2) - 15/12/2009",
+            "raw_html": "<p class=\"section\"><a name=\"BK4\"></a><b>4 </b>The Minister shall appoint an officer of the Ministry of Agriculture, Food and Rural Affairs to be the Director for the purposes of this Act.  R.S.O. 1990, c. A.9, s. 4; 2009, c. 33, Sched. 1, s. 2 (2).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched1s2s2\">2009, c. 33, Sched. 1, s. 2 (2)</a></span> - 15/12/2009</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "5.",
+            "section_x": "Articles of incorporation",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Articles of incorporation",
+            "content": "5 An organization may be incorporated under this Act if each applicant signs the articles of incorporation and the articles of incorporation are forwarded to the Director.  R.S.O. 1990, c. A.9, s. 5.",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>5 </b>An organization may be incorporated under this Act if each applicant signs the articles of incorporation and the articles of incorporation are forwarded to the Director.  R.S.O. 1990, c. A.9, s. 5.</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "6.",
+            "section_x": "Contents of articles",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Contents of articles",
+            "content": "6 Articles of incorporation shall set out, (a) the name of the organization to be incorporated; (b) the type of organization; (c) the objects for which the organization is to be incorporated; (d) the place in Ontario where the registered office of the organization is to be located; (e) the names and addresses of one or more proposed first directors; (f) the names and addresses of the members of the organization; and (g) any other matter required by this Act or the regulations to be set out in the articles.  R.S.O. 1990, c. A.9, s. 6.",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>6 </b>Articles of incorporation shall set out,</p> <p class=\"paragraph\">  (a) the name of the organization to be incorporated;</p> <p class=\"paragraph\">  (b) the type of organization;</p> <p class=\"paragraph\">  (c) the objects for which the organization is to be incorporated;</p> <p class=\"paragraph\">  (d) the place in Ontario where the registered office of the organization is to be located;</p> <p class=\"paragraph\">  (e) the names and addresses of one or more proposed first directors;</p> <p class=\"paragraph\">  (f) the names and addresses of the members of the organization; and</p> <p class=\"paragraph\">  (g) any other matter required by this Act or the regulations to be set out in the articles.  R.S.O. 1990, c. A.9, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "7.",
+            "section_x": "Certificate of incorporation",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Certificate of incorporation",
+            "content": "7 (1) If the Minister is satisfied that the requirements of this Act have been met and it is in the public interest to do so, the Minister may issue a certificate of incorporation to which is attached a copy of the articles of incorporation.  R.S.O. 1990, c. A.9, s. 7 (1). Date of incorporation (2) An organization comes into existence on the date set out in its certificate of incorporation.  R.S.O. 1990, c. A.9, s. 7 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>7 </b>(1) If the Minister is satisfied that the requirements of this Act have been met and it is in the public interest to do so, the Minister may issue a certificate of incorporation to which is attached a copy of the articles of incorporation.  R.S.O. 1990, c. A.9, s. 7 (1).</p> <p class=\"headnote\">Date of incorporation</p> <p class=\"subsection\">(2) An organization comes into existence on the date set out in its certificate of incorporation.  R.S.O. 1990, c. A.9, s. 7 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "8.",
+            "section_x": "Name",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Name",
+            "content": "8 (1) An organization shall bear the name designated in the articles of incorporation.  R.S.O. 1990, c. A.9, s. 8 (1). Dispute over name (2) If there is a dispute as to the name of an organization or if, in the opinion of the Minister, the name of an organization prejudicially affects the interests of another organization or corporation, the Minister may issue a certificate of amendment to the articles of incorporation changing the name of the organization.  R.S.O. 1990, c. A.9, s. 8 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK8\"></a><b>8 </b>(1) An organization shall bear the name designated in the articles of incorporation.  R.S.O. 1990, c. A.9, s. 8 (1).</p> <p class=\"headnote\">Dispute over name</p> <p class=\"subsection\">(2) If there is a dispute as to the name of an organization or if, in the opinion of the Minister, the name of an organization prejudicially affects the interests of another organization or corporation, the Minister may issue a certificate of amendment to the articles of incorporation changing the name of the organization.  R.S.O. 1990, c. A.9, s. 8 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "9.",
+            "section_x": "Amendments to articles",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Amendments to articles",
+            "content": "9 (1) An organization may by by-law, with the approval of the Minister, amend its articles of incorporation to change any provision set out in its articles including its name.  R.S.O. 1990, c. A.9, s. 9. Legislation Act, 2006 (2) A by-law made under this section is not a regulation within the meaning of Part III (Regulations) of the Legislation Act, 2006.  2006, c. 21, Sched. F, s. 102. Section Amendments with date in force (d/m/y) 2006, c. 21, Sched. F, s. 102 - 25/07/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>9 </b>(1) An organization may by by-law, with the approval of the Minister, amend its articles of incorporation to change any provision set out in its articles including its name.  R.S.O. 1990, c. A.9, s. 9.</p> <p class=\"headnote\"><i>Legislation Act, 2006</i></p> <p class=\"subsection\">(2) A by-law made under this section is not a regulation within the meaning of Part III (Regulations) of the <i>Legislation Act, 2006</i>.  2006, c. 21, Sched. F, s. 102.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06021#schedfs102\">2006, c. 21, Sched. F, s. 102</a></span> - 25/07/2007</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "10.",
+            "section_x": "Annual meeting",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Annual meeting",
+            "content": "10 (1) Each organization shall hold an annual meeting of its members not later than six months after its incorporation and subsequently not more than fifteen months after the holding of the last preceding annual meeting or such other time as the Director may approve.  R.S.O. 1990, c. A.9, s. 10 (1). Idem (2) The time and place of the annual meeting shall be set out in a by-law of the organization.  R.S.O. 1990, c. A.9, s. 10 (2). Notice of annual meeting (3) At least two weeks notice of the annual meeting shall be given to each member of the organization. 2019, c. 14, Sched. 3, s. 1. Section Amendments with date in force (d/m/y) 2019, c. 14, Sched. 3, s. 1 - 10/12/2019",
+            "raw_html": "<p class=\"section\"><a name=\"BK10\"></a><b>10 </b>(1) Each organization shall hold an annual meeting of its members not later than six months after its incorporation and subsequently not more than fifteen months after the holding of the last preceding annual meeting or such other time as the Director may approve.  R.S.O. 1990, c. A.9, s. 10 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) The time and place of the annual meeting shall be set out in a by-law of the organization.  R.S.O. 1990, c. A.9, s. 10 (2).</p> <p class=\"headnote\">Notice of annual meeting</p> <p class=\"subsection\">(3) At least two weeks notice of the annual meeting shall be given to each member of the organization. 2019, c. 14, Sched. 3, s. 1.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19014#sched3s1\">2019, c. 14, Sched. 3, s. 1</a></span> - 10/12/2019</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "11.",
+            "section_x": "Board of directors",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Board of directors",
+            "content": "11 (1) The members of each organization, at the annual meeting, shall elect a board of directors.  R.S.O. 1990, c. A.9, s. 11 (1). Idem (2) The number of directors, their representation of certain districts or classes of members, and their method of selection shall be set out in the by-laws of the organization.  R.S.O. 1990, c. A.9, s. 11 (2). Treasurer and secretary-treasurer (3) The directors shall appoint a treasurer or secretary-treasurer.  R.S.O. 1990, c. A.9, s. 11 (3). Officers (4) Subject to subsection (3), the officers of the organization shall be appointed in the manner set out in the by-laws of the organization.  R.S.O. 1990, c. A.9, s. 11 (4). Annual report and financial statement (5) At each annual meeting, the retiring directors of the board shall present a report of the activities of the organization during the previous year and the audited financial statement for the previous year.  R.S.O. 1990, c. A.9, s. 11 (5). Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (5) of the Act is amended by striking out “the audited financial statement for the previous year” at the end and substituting “the financial information prescribed by regulation”. (See: 2023, c. 20, Sched. 1, s. 1) Section Amendments with date in force (d/m/y) 2023, c. 20, Sched. 1, s. 1 - not in force 12 Repealed: 2019, c. 14, Sched. 3, s. 2. Section Amendments with date in force (d/m/y) 2019, c. 14, Sched. 3, s. 2 - 10/12/2019",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>11 </b>(1) The members of each organization, at the annual meeting, shall elect a board of directors.  R.S.O. 1990, c. A.9, s. 11 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) The number of directors, their representation of certain districts or classes of members, and their method of selection shall be set out in the by-laws of the organization.  R.S.O. 1990, c. A.9, s. 11 (2).</p> <p class=\"headnote\">Treasurer and secretary-treasurer</p> <p class=\"subsection\">(3) The directors shall appoint a treasurer or secretary-treasurer.  R.S.O. 1990, c. A.9, s. 11 (3).</p> <p class=\"headnote\">Officers</p> <p class=\"subsection\">(4) Subject to subsection (3), the officers of the organization shall be appointed in the manner set out in the by-laws of the organization.  R.S.O. 1990, c. A.9, s. 11 (4).</p> <p class=\"headnote\">Annual report and financial statement</p> <p class=\"subsection\">(5) At each annual meeting, the retiring directors of the board shall present a report of the activities of the organization during the previous year and the audited financial statement for the previous year.  R.S.O. 1990, c. A.9, s. 11 (5).</p> <p class=\"Pnote\"><a name=\"BK12\"></a><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (5) of the Act is amended by striking out “the audited financial statement for the previous year” at the end and substituting “the financial information prescribed by regulation”. (See: 2023, c. 20, Sched. 1, s. 1)</span></p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23020#sched1s1\">2023, c. 20, Sched. 1, s. 1</a></span> - not in force</p> <p class=\"section\"><b>12 </b><span class=\"ovsmallcap\">Repealed</span>: 2019, c. 14, Sched. 3, s. 2.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19014#sched3s2\">2019, c. 14, Sched. 3, s. 2</a></span> - 10/12/2019</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "13.",
+            "section_x": "Compensation",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Compensation",
+            "content": "13 (1) No compensation shall be paid to a director, officer or member of an agricultural society or horticultural society for the performance of his or her duties, other than the treasurer, secretary-treasurer or secretary but reasonable expenses incurred by a director, officer or member in the performance of his or her duties may be paid. R.S.O. 1990, c. A.9, s. 13; 2023, c. 20, Sched. 1, s. 2 (1). (2) Subject to the by-laws of an agricultural society or horticultural society, a director, an officer or a member of the society may receive reasonable remuneration and expenses for any services to the society that he or she performs in any other capacity. 2023, c. 20, Sched. 1, s. 2 (2). Section Amendments with date in force (d/m/y) 2023, c. 20, Sched. 1, s. 2 (1, 2) - 04/12/2023",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>13 </b>(1) No compensation shall be paid to a director, officer or member of an agricultural society or horticultural society for the performance of his or her duties, other than the treasurer, secretary-treasurer or secretary but reasonable expenses incurred by a director, officer or member in the performance of his or her duties may be paid. R.S.O. 1990, c. A.9, s. 13; <span>2023, c. 20, Sched. 1, s. 2 (1)</span>.</p> <p class=\"subsection\">(2) Subject to the by-laws of an agricultural society or horticultural society, a director, an officer or a member of the society may receive reasonable remuneration and expenses for any services to the society that he or she performs in any other capacity. 2023, c. 20, Sched. 1, s. 2 (2).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23020#sched1s2s1\">2023, c. 20, Sched. 1, s. 2 (1, 2)</a></span> - 04/12/2023</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "14.",
+            "section_x": "Meetings of the board",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Meetings of the board",
+            "content": "14 A meeting of the board shall be called by the secretary upon the direction of the president or of any three members of the board by sending notice thereof to all the members of the board at least seven days before the time fixed for the meeting.  R.S.O. 1990, c. A.9, s. 14.",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>14 </b>A meeting of the board shall be called by the secretary upon the direction of the president or of any three members of the board by sending notice thereof to all the members of the board at least seven days before the time fixed for the meeting.  R.S.O. 1990, c. A.9, s. 14.</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "15.",
+            "section_x": "Annual reports",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Annual reports",
+            "content": "15 (1) Every organization shall, within ninety days of the annual meeting of the organization, submit to the Director, (a) a copy of the audited financial statement; Note: On a day to be named by proclamation of the Lieutenant Governor, clause 15 (1) (a) of the Act is repealed and the following substituted: (See: 2023, c. 20, Sched. 1, s. 3) (a) the financial information prescribed by regulation; (b) a statement of the number of current members; (c) a list of the directors and officers of the organization and their addresses; and (d) a copy of the annual report submitted at the annual meeting. R.S.O. 1990, c. A.9, s. 15 (1). Information to be public (2) The information filed under subsection (1) shall be open to examination by the public upon request to the Director.  R.S.O. 1990, c. A.9, s. 15 (2). Director may require information (3) The Director may require an organization or an officer of the organization to furnish such information regarding the organization that the Director considers necessary or advisable.  R.S.O. 1990, c. A.9, s. 15 (3). Affidavits as to accuracy (4) The Director may require that any information submitted under subsection (3) be accompanied by an affidavit of all or any of the officers of the organization deposing as to its accuracy.  R.S.O. 1990, c. A.9, s. 15 (4). Section Amendments with date in force (d/m/y) 2023, c. 20, Sched. 1, s. 3 - not in force",
+            "raw_html": "<p class=\"section\"><a name=\"BK15\"></a><b>15 </b>(1) Every organization shall, within ninety days of the annual meeting of the organization, submit to the Director,</p> <p class=\"paragraph\">  (a) a copy of the audited financial statement;</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, clause 15 (1) (a) of the Act is repealed and the following substituted: (See: 2023, c. 20, Sched. 1, s. 3)</span></p> <p class=\"Yparagraph\"><span>  (a) the financial information prescribed by regulation;</span></p> <p class=\"paragraph\">  (b) a statement of the number of current members;</p> <p class=\"paragraph\">  (c) a list of the directors and officers of the organization and their addresses; and</p> <p class=\"paragraph\">  (d) a copy of the annual report submitted at the annual meeting. R.S.O. 1990, c. A.9, s. 15 (1).</p> <p class=\"headnote\">Information to be public</p> <p class=\"subsection\">(2) The information filed under subsection (1) shall be open to examination by the public upon request to the Director.  R.S.O. 1990, c. A.9, s. 15 (2).</p> <p class=\"headnote\">Director may require information</p> <p class=\"subsection\">(3) The Director may require an organization or an officer of the organization to furnish such information regarding the organization that the Director considers necessary or advisable.  R.S.O. 1990, c. A.9, s. 15 (3).</p> <p class=\"headnote\">Affidavits as to accuracy</p> <p class=\"subsection\">(4) The Director may require that any information submitted under subsection (3) be accompanied by an affidavit of all or any of the officers of the organization deposing as to its accuracy.  R.S.O. 1990, c. A.9, s. 15 (4).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23020#sched1s3\">2023, c. 20, Sched. 1, s. 3</a></span> - not in force</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "16.",
+            "section_x": "Offence",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Offence",
+            "content": "16 Any officer, director or auditor of an organization who makes a false statement in any report or information required under this Act is guilty of an offence and on conviction is liable to a fine of not more than $2,000. R.S.O. 1990, c. A.9, s. 16. Note: On a day to be named by proclamation of the Lieutenant Governor, section 16 of the Act is amended by striking out “officer, director or auditor” and substituting “officer or director”. (See: 2023, c. 20, Sched. 1, s. 4) Section Amendments with date in force (d/m/y) 2023, c. 20, Sched. 1, s. 4 - not in force",
+            "raw_html": "<p class=\"section\"><a name=\"BK16\"></a><b>16 </b>Any officer, director or auditor of an organization who makes a false statement in any report or information required under this Act is guilty of an offence and on conviction is liable to a fine of not more than $2,000. R.S.O. 1990, c. A.9, s. 16.</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, section 16 of the Act is amended by striking out “officer, director or auditor” and substituting “officer or director”. (See: 2023, c. 20, Sched. 1, s. 4)</span></p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23020#sched1s4\">2023, c. 20, Sched. 1, s. 4</a></span> - not in force</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "17.",
+            "section_x": "Legislative grant",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Legislative grant",
+            "content": "17 (1) The Minister may make grants in the amount and to the organizations prescribed by regulation.  R.S.O. 1990, c. A.9, s. 17 (1). Condition of grant (2) It is a condition of the payment of a grant that none of the funds of the organization, from whatever source derived, have been expended in a manner inconsistent with the objects of the organization.  R.S.O. 1990, c. A.9, s. 17 (2). Inspection (3) The Minister may appoint a person to inspect the books and accounts of any organization and the books and accounts of the organization shall be made available for that purpose.  R.S.O. 1990, c. A.9, s. 17 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>17 </b>(1) The Minister may make grants in the amount and to the organizations prescribed by regulation.  R.S.O. 1990, c. A.9, s. 17 (1).</p> <p class=\"headnote\">Condition of grant</p> <p class=\"subsection\">(2) It is a condition of the payment of a grant that none of the funds of the organization, from whatever source derived, have been expended in a manner inconsistent with the objects of the organization.  R.S.O. 1990, c. A.9, s. 17 (2).</p> <p class=\"headnote\">Inspection</p> <p class=\"subsection\">(3) The Minister may appoint a person to inspect the books and accounts of any organization and the books and accounts of the organization shall be made available for that purpose.  R.S.O. 1990, c. A.9, s. 17 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "18.",
+            "section_x": "Dissolution for cause",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Dissolution for cause",
+            "content": "18 (1) If an organization fails to comply with section 15, the Minister may cancel the certificate of incorporation of the organization and it is dissolved on the date specified by the Minister.  R.S.O. 1990, c. A.9, s. 18 (1). Notice of dissolution (2) No organization shall be dissolved under this section unless twelve months notice has been given to the board of the organization by the Minister of the intention to dissolve the organization and the board is given the opportunity to bring the organization into good standing within that time.  R.S.O. 1990, c. A.9, s. 18 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>18 </b>(1) If an organization fails to comply with section 15, the Minister may cancel the certificate of incorporation of the organization and it is dissolved on the date specified by the Minister.  R.S.O. 1990, c. A.9, s. 18 (1).</p> <p class=\"headnote\">Notice of dissolution</p> <p class=\"subsection\">(2) No organization shall be dissolved under this section unless twelve months notice has been given to the board of the organization by the Minister of the intention to dissolve the organization and the board is given the opportunity to bring the organization into good standing within that time.  R.S.O. 1990, c. A.9, s. 18 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "19.",
+            "section_x": "Dissolution upon request",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Dissolution upon request",
+            "content": "19 An organization may be dissolved by the Minister upon the authorization of a special resolution passed at a meeting of the members of the organization duly called for that purpose.  R.S.O. 1990, c. A.9, s. 19.",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>19 </b>An organization may be dissolved by the Minister upon the authorization of a special resolution passed at a meeting of the members of the organization duly called for that purpose.  R.S.O. 1990, c. A.9, s. 19.</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "20.",
+            "section_x": "Trustees",
+            "part_id": "PART I  ",
+            "part_type": "PART I GENERAL",
+            "section_y": "Trustees",
+            "content": "20 (1) If an organization is dissolved by the Minister, the persons comprising the board at the date of dissolution are the trustees of the assets of the organization and shall deliver to the Director a statement of the assets and liabilities of the organization.  R.S.O. 1990, c. A.9, s. 20 (1). Payment of debts on dissolution (2) The Director may direct the trustees to pay the debts of the organization and liquidate any of the assets for such purposes.  R.S.O. 1990, c. A.9, s. 20 (2). Disposition of assets (3) Subject to the approval of the Director, all money and assets remaining after the payment of debts shall be disposed of by the trustees in such manner as they may determine.  R.S.O. 1990, c. A.9, s. 20 (3). PART II   AGRICULTURAL ASSOCIATIONS",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>20 </b>(1) If an organization is dissolved by the Minister, the persons comprising the board at the date of dissolution are the trustees of the assets of the organization and shall deliver to the Director a statement of the assets and liabilities of the organization.  R.S.O. 1990, c. A.9, s. 20 (1).</p> <p class=\"headnote\">Payment of debts on dissolution</p> <p class=\"subsection\">(2) The Director may direct the trustees to pay the debts of the organization and liquidate any of the assets for such purposes.  R.S.O. 1990, c. A.9, s. 20 (2).</p> <p class=\"headnote\">Disposition of assets</p> <p class=\"subsection\">(3) Subject to the approval of the Director, all money and assets remaining after the payment of debts shall be disposed of by the trustees in such manner as they may determine.  R.S.O. 1990, c. A.9, s. 20 (3).</p> <p class=\"partnum\"><a name=\"BK21\"></a>PART II <br/>  AGRICULTURAL ASSOCIATIONS</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "PART II  ",
+            "section_x": "PART II AGRICULTURAL ASSOCIATIONS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "21.",
+            "section_x": "Application",
+            "part_id": "PART II  ",
+            "part_type": "PART II AGRICULTURAL ASSOCIATIONS",
+            "section_y": "Application",
+            "content": "21 (1) This Part applies to agricultural associations.  R.S.O. 1990, c. A.9, s. 21 (1). Associations continued (2) Every agricultural association incorporated under the Agricultural Associations Act, being chapter 8 of the Revised Statutes of Ontario, 1980, or a predecessor thereof, is continued as an agricultural association under this Act.  R.S.O. 1990, c. A.9, s. 21 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>21 </b>(1) This Part applies to agricultural associations.  R.S.O. 1990, c. A.9, s. 21 (1).</p> <p class=\"headnote\">Associations continued</p> <p class=\"subsection\">(2) Every agricultural association incorporated under the<i> Agricultural Associations Act</i>, being chapter 8 of the Revised Statutes of Ontario, 1980, or a predecessor thereof, is continued as an agricultural association under this Act.  R.S.O. 1990, c. A.9, s. 21 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "22.",
+            "section_x": "Eligibility for incorporation",
+            "part_id": "PART II  ",
+            "part_type": "PART II AGRICULTURAL ASSOCIATIONS",
+            "section_y": "Eligibility for incorporation",
+            "content": "22 An association or group of persons formed for the purpose of advancing agriculture may be incorporated under this Act as an agricultural association.  R.S.O. 1990, c. A.9, s. 22.",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>22 </b>An association or group of persons formed for the purpose of advancing agriculture may be incorporated under this Act as an agricultural association.  R.S.O. 1990, c. A.9, s. 22.</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "23.",
+            "section_x": "Objects",
+            "part_id": "PART II  ",
+            "part_type": "PART II AGRICULTURAL ASSOCIATIONS",
+            "section_y": "Objects",
+            "content": "23 The objects of an agricultural association are, (a) to promote the development, sale and export of agricultural products; and (b) to provide educational opportunities related to agriculture and rural life.  R.S.O. 1990, c. A.9, s. 23.",
+            "raw_html": "<p class=\"section\"><a name=\"BK24\"></a><b>23 </b>The objects of an agricultural association are,</p> <p class=\"paragraph\">  (a) to promote the development, sale and export of agricultural products; and</p> <p class=\"paragraph\">  (b) to provide educational opportunities related to agriculture and rural life.  R.S.O. 1990, c. A.9, s. 23.</p>"
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "24.",
+            "section_x": "Minimum membership",
+            "part_id": "PART II  ",
+            "part_type": "PART II AGRICULTURAL ASSOCIATIONS",
+            "section_y": "Minimum membership",
+            "content": "24 The Lieutenant Governor in Council may by regulation establish the minimum membership required for an agricultural association to be incorporated under this Act.  R.S.O. 1990, c. A.9, s. 24. PART III   AGRICULTURAL SOCIETIES",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>24 </b>The Lieutenant Governor in Council may by regulation establish the minimum membership required for an agricultural association to be incorporated under this Act.  R.S.O. 1990, c. A.9, s. 24.</p> <p class=\"partnum\"><a name=\"BK26\"></a>PART III <br/>  AGRICULTURAL SOCIETIES</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "PART III  ",
+            "section_x": "PART III AGRICULTURAL SOCIETIES",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "25.",
+            "section_x": "Application",
+            "part_id": "PART III  ",
+            "part_type": "PART III AGRICULTURAL SOCIETIES",
+            "section_y": "Application",
+            "content": "25 (1) This Part applies to agricultural societies.  R.S.O. 1990, c. A.9, s. 25 (1). Societies continued (2) Every agricultural society incorporated under the Agricultural Societies Act, being chapter 14 of the Revised Statutes of Ontario, 1980, or a predecessor thereof, is continued as an agricultural society under this Act.  R.S.O. 1990, c. A.9, s. 25 (2). Deemed societies (3) The Western Fair Association and Central Canada Exhibition are deemed to be agricultural societies incorporated under this Act.  R.S.O. 1990, c. A.9, s. 25 (3). (4) Repealed:  2011, c. 9, Sched. 1, s. 1. Section Amendments with date in force (d/m/y) 2004, c. 31, Sched. 2, s. 1 - 01/01/2004 2011, c. 9, Sched. 1, s. 1 - 12/05/2011",
+            "raw_html": "<p class=\"section\"><a name=\"BK27\"></a><b>25 </b>(1) This Part applies to agricultural societies.  R.S.O. 1990, c. A.9, s. 25 (1).</p> <p class=\"headnote\">Societies continued</p> <p class=\"subsection\">(2) Every agricultural society incorporated under the<i> Agricultural Societies Act</i>, being chapter 14 of the Revised Statutes of Ontario, 1980, or a predecessor thereof, is continued as an agricultural society under this Act.  R.S.O. 1990, c. A.9, s. 25 (2).</p> <p class=\"headnote\">Deemed societies</p> <p class=\"subsection\">(3) The Western Fair Association and Central Canada Exhibition are deemed to be agricultural societies incorporated under this Act.  R.S.O. 1990, c. A.9, s. 25 (3). </p> <p class=\"subsection\">(4) <span class=\"ovsmallcap\">Repealed</span>:  2011, c. 9, Sched. 1, s. 1.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S04031#sched2s1\">2004, c. 31, Sched. 2, s. 1</a></span> - 01/01/2004</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S11009#sched1s1\">2011, c. 9, Sched. 1, s. 1</a></span> - 12/05/2011</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "26.",
+            "section_x": "Criteria for incorporation",
+            "part_id": "PART III  ",
+            "part_type": "PART III AGRICULTURAL SOCIETIES",
+            "section_y": "Criteria for incorporation",
+            "content": "26 An agricultural society may be incorporated if, (a) the articles of incorporation are signed by at least sixty persons who reside within forty kilometres of the place designated as the headquarters of a society; and (b) at least twenty of the incorporators are engaged in an agricultural occupation.  R.S.O. 1990, c. A.9, s. 26.",
+            "raw_html": "<p class=\"section\"><a name=\"BK28\"></a><b>26 </b>An agricultural society may be incorporated if,</p> <p class=\"paragraph\">  (a) the articles of incorporation are signed by at least sixty persons who reside within forty kilometres of the place designated as the headquarters of a society; and</p> <p class=\"paragraph\">  (b) at least twenty of the incorporators are engaged in an agricultural occupation.  R.S.O. 1990, c. A.9, s. 26.</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "27.",
+            "section_x": "Refusal to incorporate society",
+            "part_id": "PART III  ",
+            "part_type": "PART III AGRICULTURAL SOCIETIES",
+            "section_y": "Refusal to incorporate society",
+            "content": "27 If the headquarters of a proposed agricultural society is within forty kilometres of the headquarters of an existing society, the Minister shall notify the existing society and if it objects to the proposed society, the Minister may refuse to incorporate the proposed society.  R.S.O. 1990, c. A.9, s. 27.",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>27 </b>If the headquarters of a proposed agricultural society is within forty kilometres of the headquarters of an existing society, the Minister shall notify the existing society and if it objects to the proposed society, the Minister may refuse to incorporate the proposed society.  R.S.O. 1990, c. A.9, s. 27.</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "28.",
+            "section_x": "Objects",
+            "part_id": "PART III  ",
+            "part_type": "PART III AGRICULTURAL SOCIETIES",
+            "section_y": "Objects",
+            "content": "28 The objects of an agricultural society are to encourage an awareness of agriculture and to promote improvements in the quality of life of persons living in an agricultural community by, (a) researching the needs of the agricultural community and developing programs to meet those needs; (b) holding agricultural exhibitions featuring competitions for which prizes may be awarded; (c) promoting the conservation of natural resources; (d) encouraging the beautification of the agricultural community; (e) supporting and providing facilities to encourage activities intended to enrich rural life; and (f) conducting or promoting horse races when authorized to do so by a by-law of the society.  R.S.O. 1990, c. A.9, s. 28.",
+            "raw_html": "<p class=\"section\"><a name=\"BK30\"></a><b>28 </b>The objects of an agricultural society are to encourage an awareness of agriculture and to promote improvements in the quality of life of persons living in an agricultural community by,</p> <p class=\"paragraph\">  (a) researching the needs of the agricultural community and developing programs to meet those needs;</p> <p class=\"paragraph\">  (b) holding agricultural exhibitions featuring competitions for which prizes may be awarded;</p> <p class=\"paragraph\">  (c) promoting the conservation of natural resources;</p> <p class=\"paragraph\">  (d) encouraging the beautification of the agricultural community;</p> <p class=\"paragraph\">  (e) supporting and providing facilities to encourage activities intended to enrich rural life; and</p> <p class=\"paragraph\">  (f) conducting or promoting horse races when authorized to do so by a by-law of the society.  R.S.O. 1990, c. A.9, s. 28.</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "29.",
+            "section_x": "Failure to hold annual meeting",
+            "part_id": "PART III  ",
+            "part_type": "PART III AGRICULTURAL SOCIETIES",
+            "section_y": "Failure to hold annual meeting",
+            "content": "29 If an agricultural society has not held an annual meeting in the time period prescribed under subsection 10 (1), the Director may appoint a time and place for the meeting to be held.  R.S.O. 1990, c. A.9, s. 29.",
+            "raw_html": "<p class=\"section\"><a name=\"BK31\"></a><b>29 </b>If an agricultural society has not held an annual meeting in the time period prescribed under subsection 10 (1), the Director may appoint a time and place for the meeting to be held.  R.S.O. 1990, c. A.9, s. 29.</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "30.",
+            "section_x": "Tax exemption",
+            "part_id": "PART III  ",
+            "part_type": "PART III AGRICULTURAL SOCIETIES",
+            "section_y": "Tax exemption",
+            "content": "30 The land, as defined in the\r\nAssessment Act, occupied by an agricultural society or a tenant of a society is exempt from taxes for municipal and school purposes, other than local improvement rates, so long as the land or the proceeds from the rental of the land is used solely for the purposes of the society.  R.S.O. 1990, c. A.9, s. 30. 31 Repealed: 2019, c. 14, Sched. 3, s. 2. Section Amendments with date in force (d/m/y) 2019, c. 14, Sched. 3, s. 2 - 10/12/2019",
+            "raw_html": "<p class=\"section\"><a name=\"BK32\"></a><b>30 </b>The land, as defined in the<i>\r\nAssessment Act</i>, occupied by an agricultural society or a tenant of a society is exempt from taxes for municipal and school purposes, other than local improvement rates, so long as the land or the proceeds from the rental of the land is used solely for the purposes of the society.  R.S.O. 1990, c. A.9, s. 30.</p> <p class=\"section\"><a name=\"BK33\"></a><b>31 </b><span class=\"ovsmallcap\">Repealed</span>: 2019, c. 14, Sched. 3, s. 2.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19014#sched3s2\">2019, c. 14, Sched. 3, s. 2</a></span> - 10/12/2019</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "32.",
+            "section_x": "Membership open",
+            "part_id": "PART III  ",
+            "part_type": "PART III AGRICULTURAL SOCIETIES",
+            "section_y": "Membership open",
+            "content": "32 Any person may join an agricultural society by paying the annual fee set out in a by-law of the society but no person under the age of eighteen years is eligible to vote at meetings of the society.  R.S.O. 1990, c. A.9, s. 32. PART IV   HORTICULTURAL SOCIETIES",
+            "raw_html": "<p class=\"section\"><a name=\"BK34\"></a><b>32 </b>Any person may join an agricultural society by paying the annual fee set out in a by-law of the society but no person under the age of eighteen years is eligible to vote at meetings of the society.  R.S.O. 1990, c. A.9, s. 32.</p> <p class=\"partnum\"><a name=\"BK35\"></a>PART IV <br/>  HORTICULTURAL SOCIETIES</p>"
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "PART IV  ",
+            "section_x": "PART IV HORTICULTURAL SOCIETIES",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "33.",
+            "section_x": "Application",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV HORTICULTURAL SOCIETIES",
+            "section_y": "Application",
+            "content": "33 (1) This Part applies to horticultural societies.  R.S.O. 1990, c. A.9, s. 33 (1). Societies continued (2) Every horticultural society incorporated under the Horticultural Societies Act, being chapter 204 of the Revised Statutes of Ontario, 1980, or a predecessor thereof, is continued as a horticultural society under this Act.  R.S.O. 1990, c. A.9, s. 33 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK36\"></a><b>33 </b>(1) This Part applies to horticultural societies.  R.S.O. 1990, c. A.9, s. 33 (1).</p> <p class=\"headnote\">Societies continued</p> <p class=\"subsection\">(2) Every horticultural society incorporated under the<i> Horticultural Societies Act</i>, being chapter 204 of the Revised Statutes of Ontario, 1980, or a predecessor thereof, is continued as a horticultural society under this Act.  R.S.O. 1990, c. A.9, s. 33 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "34.",
+            "section_x": "Society may be incorporated",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV HORTICULTURAL SOCIETIES",
+            "section_y": "Society may be incorporated",
+            "content": "34 (1) A horticultural society may be incorporated to carry out its objects in any local municipality having a population of not less than 200.  R.S.O. 1990, c. A.9, s. 34 (1); 2002, c. 17, Sched. F, Table. Additional societies (2) In a local municipality, having a population of not less than 25,000, there may be two horticultural societies and for each additional 25,000 of population, there may be an additional society.  R.S.O. 1990, c. A.9, s. 34 (2). Where municipal reorganization (3) A reorganization, amalgamation or boundary alteration of a municipality does not affect any horticultural society that has been incorporated prior thereto.  R.S.O. 1990, c. A.9, s. 34 (3). Section Amendments with date in force (d/m/y) 2002, c. 17, Sched. F, Table - 01/01/2003",
+            "raw_html": "<p class=\"section\"><a name=\"BK37\"></a><b>34 </b>(1) A horticultural society may be incorporated to carry out its objects in any local municipality having a population of not less than 200.  R.S.O. 1990, c. A.9, s. 34 (1); 2002, c. 17, Sched. F, Table.</p> <p class=\"headnote\">Additional societies</p> <p class=\"subsection\">(2) In a local municipality, having a population of not less than 25,000, there may be two horticultural societies and for each additional 25,000 of population, there may be an additional society.  R.S.O. 1990, c. A.9, s. 34 (2).</p> <p class=\"headnote\">Where municipal reorganization</p> <p class=\"subsection\">(3) A reorganization, amalgamation or boundary alteration of a municipality does not affect any horticultural society that has been incorporated prior thereto.  R.S.O. 1990, c. A.9, s. 34 (3).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S02017#schedfs2\">2002, c. 17, Sched. F, Table</a></span> - 01/01/2003</p>"
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "35.",
+            "section_x": "Criteria for incorporation",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV HORTICULTURAL SOCIETIES",
+            "section_y": "Criteria for incorporation",
+            "content": "35 A horticultural society may be incorporated if, (a) the articles of incorporation are signed by at least twenty-five persons in a territorial district or fifty persons elsewhere in Ontario; and (b) the incorporators are residents of the municipality or municipalities in which the society is to be incorporated.  R.S.O. 1990, c. A.9, s. 35.",
+            "raw_html": "<p class=\"section\"><a name=\"BK38\"></a><b>35 </b>A horticultural society may be incorporated if,</p> <p class=\"paragraph\">  (a) the articles of incorporation are signed by at least twenty-five persons in a territorial district or fifty persons elsewhere in Ontario; and</p> <p class=\"paragraph\">  (b) the incorporators are residents of the municipality or municipalities in which the society is to be incorporated.  R.S.O. 1990, c. A.9, s. 35.</p>"
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "36.",
+            "section_x": "Objects",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV HORTICULTURAL SOCIETIES",
+            "section_y": "Objects",
+            "content": "36 The objects of a horticultural society are to encourage interest and improvement in horticulture, (a) by holding meetings respecting the theory and practice of horticulture; (b) by encouraging the planting of trees, shrubs and flowers on public and private grounds; (c) by promoting balcony and community gardening and outdoor beautification; (d) by arranging field trips, contests, competitions and exhibitions related to horticulture and awarding prizes; (e) by distributing seeds, plants, bulbs, flowers, trees and shrubs; (f) by promoting the protection of the environment; (g) by promoting the circulation of horticultural information through any media; (h) by promoting the benefits of therapeutic horticulture; and (i) by stimulating an interest in the study of horticulture.  R.S.O. 1990, c. A.9, s. 36.",
+            "raw_html": "<p class=\"section\"><a name=\"BK39\"></a><b>36 </b>The objects of a horticultural society are to encourage interest and improvement in horticulture,</p> <p class=\"paragraph\">  (a) by holding meetings respecting the theory and practice of horticulture;</p> <p class=\"paragraph\">  (b) by encouraging the planting of trees, shrubs and flowers on public and private grounds;</p> <p class=\"paragraph\">  (c) by promoting balcony and community gardening and outdoor beautification;</p> <p class=\"paragraph\">  (d) by arranging field trips, contests, competitions and exhibitions related to horticulture and awarding prizes;</p> <p class=\"paragraph\">  (e) by distributing seeds, plants, bulbs, flowers, trees and shrubs;</p> <p class=\"paragraph\">  (f) by promoting the protection of the environment;</p> <p class=\"paragraph\">  (g) by promoting the circulation of horticultural information through any media;</p> <p class=\"paragraph\">  (h) by promoting the benefits of therapeutic horticulture; and</p> <p class=\"paragraph\">  (i) by stimulating an interest in the study of horticulture.  R.S.O. 1990, c. A.9, s. 36.</p>"
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "37.",
+            "section_x": "Expenditures restricted",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV HORTICULTURAL SOCIETIES",
+            "section_y": "Expenditures restricted",
+            "content": "37 A horticultural society shall not spend more than one-half of its total annual receipts, excluding grants or donations made for specific purposes, upon any one of the projects enumerated in section 36 except for the planting of trees, shrubs and plants on public grounds and the promotion of outdoor beautification.  R.S.O. 1990, c. A.9, s. 37.",
+            "raw_html": "<p class=\"section\"><a name=\"BK40\"></a><b>37 </b>A horticultural society shall not spend more than one-half of its total annual receipts, excluding grants or donations made for specific purposes, upon any one of the projects enumerated in section 36 except for the planting of trees, shrubs and plants on public grounds and the promotion of outdoor beautification.  R.S.O. 1990, c. A.9, s. 37.</p>"
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "38.",
+            "section_x": "Eligibility for membership",
+            "part_id": "PART IV  ",
+            "part_type": "PART IV HORTICULTURAL SOCIETIES",
+            "section_y": "Eligibility for membership",
+            "content": "38 (1) Any person may join a horticultural society by paying the annual fee set out in a by-law of the society but no person under the age of eighteen years is eligible to vote at meetings of the society.  R.S.O. 1990, c. A.9, s. 38 (1). Types of membership (2) Except as otherwise provided in the by-laws of a horticultural society, a partnership or corporation or an association directed towards horticultural interests may become a member of the society upon payment of the annual fee and shall designate one person to exercise the privilege of membership in the society.  R.S.O. 1990, c. A.9, s. 38 (2). 39, 40 Repealed: 2019, c. 14, Sched. 3, s. 2. Section Amendments with date in force (d/m/y) 2019, c. 14, Sched. 3, s. 2 - 10/12/2019 PART V   MISCELLANEOUS",
+            "raw_html": "<p class=\"section\"><a name=\"BK41\"></a><b>38 </b>(1) Any person may join a horticultural society by paying the annual fee set out in a by-law of the society but no person under the age of eighteen years is eligible to vote at meetings of the society.  R.S.O. 1990, c. A.9, s. 38 (1).</p> <p class=\"headnote\">Types of membership</p> <p class=\"subsection\">(2) Except as otherwise provided in the by-laws of a horticultural society, a partnership or corporation or an association directed towards horticultural interests may become a member of the society upon payment of the annual fee and shall designate one person to exercise the privilege of membership in the society.  R.S.O. 1990, c. A.9, s. 38 (2).</p> <p class=\"section\"><a name=\"BK42\"></a><b>39</b>, <b>40 </b><span class=\"ovsmallcap\">Repealed</span>: 2019, c. 14, Sched. 3, s. 2.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19014#sched3s2\">2019, c. 14, Sched. 3, s. 2</a></span> - 10/12/2019</p> <p class=\"partnum\"><a name=\"BK44\"></a>PART V <br/>  MISCELLANEOUS</p>"
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "PART V  ",
+            "section_x": "PART V MISCELLANEOUS",
+            "part_id": "nan",
+            "part_type": "nan",
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "41.",
+            "section_x": "Regulations",
+            "part_id": "PART V  ",
+            "part_type": "PART V MISCELLANEOUS",
+            "section_y": "Regulations",
+            "content": "41 The Lieutenant Governor in Council may make regulations, (a)  Repealed: 2019, c. 14, Sched. 3, s. 2. (b) prescribing those organizations that are eligible to receive grants and prescribing the conditions under which the grants may be paid; (c) establishing the amounts of any grants payable and the minimum or maximum amounts of such grants; (d) establishing a formula for determining the amount of any grant payable; (e) prescribing the powers and duties of the officers of any organization; (f) prescribing matters to be set out in the articles of incorporation; (g) prescribing criteria to be contained in the by-laws of a specific organization or of any class of organization; (h) respecting the expenditures of an organization and the filing of information related to such expenditures; (i) prescribing matters to be set out in the annual report; Note: On a day to be named by proclamation of the Lieutenant Governor, section 41 of the Act is amended by adding the following clause: (See: 2023, c. 20, Sched. 1, s. 5) (i.1) prescribing the financial information to be presented at annual meetings and submitted to the Director; (j) respecting the names of organizations and the filing of documents relating to the names and requiring the registration of the names in the manner set out in the regulations. R.S.O. 1990, c. A.9, s. 41; 2019, c. 14, Sched. 3, s. 2. Section Amendments with date in force (d/m/y) 2019, c. 14, Sched. 3, s. 2 - 10/12/2019 2023, c. 20, Sched. 1, s. 5 - not in force ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK45\"></a><b>41 </b>The Lieutenant Governor in Council may make regulations,</p> <p class=\"clause\">  (a)  <span class=\"ovsmallcap\">Repealed</span>: 2019, c. 14, Sched. 3, s. 2.</p> <p class=\"paragraph\">  (b) prescribing those organizations that are eligible to receive grants and prescribing the conditions under which the grants may be paid;</p> <p class=\"paragraph\">  (c) establishing the amounts of any grants payable and the minimum or maximum amounts of such grants;</p> <p class=\"paragraph\">  (d) establishing a formula for determining the amount of any grant payable;</p> <p class=\"paragraph\">  (e) prescribing the powers and duties of the officers of any organization;</p> <p class=\"paragraph\">  (f) prescribing matters to be set out in the articles of incorporation;</p> <p class=\"paragraph\">  (g) prescribing criteria to be contained in the by-laws of a specific organization or of any class of organization;</p> <p class=\"paragraph\">  (h) respecting the expenditures of an organization and the filing of information related to such expenditures;</p> <p class=\"paragraph\">  (i) prescribing matters to be set out in the annual report;</p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, section 41 of the Act is amended by adding the following clause: (See: 2023, c. 20, Sched. 1, s. 5)</span></p> <p class=\"Yparagraph\"><span> (i.1) prescribing the financial information to be presented at annual meetings and submitted to the Director;</span></p> <p class=\"paragraph\">  (j) respecting the names of organizations and the filing of documents relating to the names and requiring the registration of the names in the manner set out in the regulations. R.S.O. 1990, c. A.9, s. 41; 2019, c. 14, Sched. 3, s. 2.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19014#sched3s2\">2019, c. 14, Sched. 3, s. 2</a></span> - 10/12/2019</p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23020#sched1s5\">2023, c. 20, Sched. 1, s. 5 </a></span>- not in force</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/90a09\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

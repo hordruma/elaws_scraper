@@ -1,0 +1,29 @@
+{
+    "act_info": {
+        "full_title": "Bull Owners' Liability Act, R.S.O. 1990, c. B.15",
+        "act_name_text": "Not Found",
+        "citation": "Bull Owners' Liability Act, R.S.O. 1990, c. B.15",
+        "url": "https://www.ontario.ca/laws/statute/90b15",
+        "date_scraped": "2023-12-20 01:25:03"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Penalty for permitting bull to run at large",
+            "content": "1. The owner of any bull found off the owner’s premises, not confined or led by an attendant, is guilty of an offence and on conviction is liable to a penalty of $2,000. R.S.O. 1990, c.B.15, s.1.",
+            "raw_html": "<p class=\"section-e\"><b>1.</b> The owner of any bull found off the owner’s premises, not confined or led by an attendant, is guilty of an offence and on conviction is liable to a penalty of $2,000. R.S.O. 1990, c.B.15, s.1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Damages recoverable where cow got in calf",
+            "content": "2. Where a cow is got in calf by a bull running at large, the owner of the cow is entitled to recover the full amount of actual damage, or loss sustained, from the owner of the bull. R.S.O. 1990, c.B.15, s.2. ______________ Français ",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> Where a cow is got in calf by a bull running at large, the owner of the cow is entitled to recover the full amount of actual damage, or loss sustained, from the owner of the bull. R.S.O. 1990, c.B.15, s.2.</p> <p class=\"line-e\">______________</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90b15_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90b15_f.htm\" target=\"_top\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

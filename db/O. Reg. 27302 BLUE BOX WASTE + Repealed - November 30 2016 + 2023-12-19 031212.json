@@ -1,0 +1,60 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 273/02: BLUE BOX WASTE",
+        "reg_name_text": "Blue box waste",
+        "citation": "O. Reg. 273/02: BLUE BOX WASTE",
+        "act_under": "Waste Diversion Act, 2002   Loi de 2002 sur le réacheminement des déchets",
+        "url": "https://www.ontario.ca/laws/regulation/020273",
+        "date_scraped": "2023-12-19 03:12:13"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/020273/v4",
+            "valid_from": "November 24, 2016",
+            "valid_to": "November 29, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/020273/v3",
+            "valid_from": "February 21, 2008",
+            "valid_to": "November 23, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/020273/v2",
+            "valid_from": "June  9, 2006",
+            "valid_to": "February 20, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/020273/v1",
+            "valid_from": "December 22, 2003",
+            "valid_to": "June  8, 2006"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Blue box waste materials",
+            "content": " 1. Waste that consists of any of the following materials, or any combination of them, is prescribed as blue box waste for the purposes of the Act: 1. Glass. 2. Metal. 3. Paper. 4. Plastic. 5. Textiles.  O. Reg. 273/02, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1.</b><b> </b>Waste that consists of any of the following materials, or any combination of them, is prescribed as blue box waste for the purposes of the Act:</p> <p class=\"paragraph-e\">  1. Glass.</p> <p class=\"paragraph-e\">  2. Metal.</p> <p class=\"paragraph-e\">  3. Paper.</p> <p class=\"paragraph-e\">  4. Plastic.</p> <p class=\"paragraph-e\">  5. Textiles.  O. Reg. 273/02, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Industry funding organization",
+            "content": " 2. Stewardship Ontario is designated as the industry funding organization for the waste diversion program for blue box waste approved by the Minister under section 26 of the Act.  O. Reg. 34/08, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>Stewardship Ontario is designated as the industry funding organization for the waste diversion program for blue box waste approved by the Minister under section 26 of the Act.  O. Reg. 34/08, s. 1.</p>"
+        },
+        {
+            "id": null,
+            "section": "Industry funding organization",
+            "content": "    ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

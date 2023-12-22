@@ -1,0 +1,39 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 111/06: VARIATION OF TIME IN EFFECT",
+        "reg_name_text": "VARIATION OF TIME IN EFFECT",
+        "citation": "O. Reg. 111/06: ",
+        "act_under": "Time Act",
+        "url": "https://www.ontario.ca/laws/regulation/060111",
+        "date_scraped": "2023-12-19 06:49:56"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/060111/v2",
+            "valid_from": "January  1, 2007",
+            "valid_to": "March  1, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/060111/v1",
+            "valid_from": "April 12, 2006",
+            "valid_to": "December 31, 2006"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Time in effect",
+            "content": "1. The time in effect, as fixed by subsection 2 (4) of the Act, is varied so that, (a) daylight saving time shall be in effect during the period between 2 a.m. standard time on the second Sunday in March and 2 a.m. daylight saving time on the first Sunday in November; and (b) standard time shall be in effect during the rest of the year. O. Reg. 111/06, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>The time in effect, as fixed by subsection 2 (4) of the Act, is varied so that,</p> <p class=\"clause-e\">(a) daylight saving time shall be in effect during the period between 2 a.m. standard time on the second Sunday in March and 2 a.m. daylight saving time on the first Sunday in November; and</p> <p class=\"clause-e\">(b) standard time shall be in effect during the rest of the year. O. Reg. 111/06, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Time in effect",
+            "content": "2. Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 111/06, s. 2. Français ",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 111/06, s. 2.</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/revokedregs/french/elaws_rev_regs_060111_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/revokedregs/french/elaws_rev_regs_060111_f.htm\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

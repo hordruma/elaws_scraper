@@ -1,0 +1,45 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 62/09: EXEMPTIONS",
+        "reg_name_text": "exemptions",
+        "citation": "O. Reg. 62/09: EXEMPTIONS",
+        "act_under": "Ontario Society for the Prevention of Cruelty to Animals Act",
+        "url": "https://www.ontario.ca/laws/regulation/090062",
+        "date_scraped": "2023-12-18 22:13:44"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/090062/v2",
+            "valid_from": "December 17, 2019",
+            "valid_to": "December 31, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/090062/v1",
+            "valid_from": "March  3, 2009",
+            "valid_to": "December 16, 2019"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Exemptions",
+            "content": " 1. Subsections 11.2 (1) and (2) of the Act do not apply to, (a) persons who are hunting as permitted under the Fish and Wildlife Conservation Act, 1997, other than as described in clause 11.2 (6) (a) of the Act; or (b) persons who permit hunting as described in clause (a).  O. Reg. 62/09, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>Subsections 11.2 (1) and (2) of the Act do not apply to,</p> <p class=\"clause-e\">  (a) persons who are hunting as permitted under the <i>Fish and Wildlife Conservation Act, 1997</i>, other than as described in clause 11.2 (6) (a) of the Act; or </p> <p class=\"clause-e\">  (b) persons who permit hunting as described in clause (a).  O. Reg. 62/09, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Exemptions",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 62/09, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).  O. Reg. 62/09, s. 2.</p>"
+        },
+        {
+            "id": null,
+            "section": "Exemptions",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/090062\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

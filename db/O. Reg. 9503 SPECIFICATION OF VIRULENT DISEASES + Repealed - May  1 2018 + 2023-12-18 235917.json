@@ -1,0 +1,39 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 95/03: SPECIFICATION OF VIRULENT DISEASES",
+        "reg_name_text": "SPECIFICATION of virulent diseases",
+        "citation": "O. Reg. 95/03: SPECIFICATION OF VIRULENT DISEASES",
+        "act_under": "Health Protection and Promotion Act   Loi sur la protection et la promotion de la santé",
+        "url": "https://www.ontario.ca/laws/regulation/030095",
+        "date_scraped": "2023-12-18 23:59:18"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/030095/v2",
+            "valid_from": "March 29, 2018",
+            "valid_to": "April 30, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/030095/v1",
+            "valid_from": "March 25, 2003",
+            "valid_to": "March 28, 2018"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "SARS specified",
+            "content": " 1. Severe Acute Respiratory Syndrome (SARS) is specified as a virulent disease for the purposes of the Act.  O. Reg. 95/03, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>Severe Acute Respiratory Syndrome (SARS) is specified as a virulent disease for the purposes of the Act.  O. Reg. 95/03, s. 1.</p>"
+        },
+        {
+            "id": null,
+            "section": "SARS specified",
+            "content": "    ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

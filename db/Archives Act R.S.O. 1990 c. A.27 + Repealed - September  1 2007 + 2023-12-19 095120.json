@@ -1,0 +1,82 @@
+{
+    "act_info": {
+        "full_title": "Archives Act, R.S.O. 1990, c. A.27",
+        "act_name_text": "Not Found",
+        "citation": "Archives Act, R.S.O. 1990, c. A.27",
+        "url": "https://www.ontario.ca/laws/statute/90a27",
+        "date_scraped": "2023-12-19 09:51:20"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/statute/90a27/v2",
+            "valid_from": "December 20, 2006",
+            "valid_to": "August 31, 2007"
+        },
+        {
+            "a_href": "/laws/statute/90a27/v1",
+            "valid_from": "December 22, 1999",
+            "valid_to": "December 19, 2006"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Definitions",
+            "content": "1. In this Act, “Archives” means the Archives of Ontario; (“Archives publiques”) “Archivist” means the officer appointed to administer this Act. (“archiviste”) R.S.O. 1990, c. A.27, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1.</b> In this Act,</p> <p class=\"firstdef-e\">“Archives” means the Archives of Ontario; (“Archives publiques”)</p> <p class=\"definition-e\">“Archivist” means the officer appointed to administer this Act. (“archiviste”) R.S.O. 1990, c. A.27, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Archivist",
+            "content": "2. There shall be an Archivist who shall be appointed by the Lieutenant Governor in Council with the rank of a Deputy Minister and who shall be in charge of the administration of this Act under the direction of the member of the Executive Council to whom the administration of this Act is assigned. R.S.O. 1990, c. A.27, s. 2; 1999, c. 12, Sched. S, s. 1 (1).",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> There shall be an Archivist who shall be appointed by the Lieutenant Governor in Council with the rank of a Deputy Minister and who shall be in charge of the administration of this Act under the direction of the member of the Executive Council to whom the administration of this Act is assigned. R.S.O. 1990, c. A.27, s. 2; 1999, c. 12, Sched. S, s. 1 (1).</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Custody of original documents",
+            "content": "3. Subject to the regulations, all original documents, parchments, manuscripts, papers, records and other matters in the executive and administrative departments of the Government or of the Assembly, or of any commission, office or branch of the public service shall be delivered to the Archives for safekeeping and custody within twenty years from the date on which such matters cease to be in current use. R.S.O. 1990, c. A.27, s. 3.",
+            "raw_html": "<p class=\"section-e\"><b>3.</b> Subject to the regulations, all original documents, parchments, manuscripts, papers, records and other matters in the executive and administrative departments of the Government or of the Assembly, or of any commission, office or branch of the public service shall be delivered to the Archives for safekeeping and custody within twenty years from the date on which such matters cease to be in current use. R.S.O. 1990, c. A.27, s. 3.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Responsibility of Archives",
+            "content": "4. The Archivist is authorized and directed to receive and grant discharges for all such matters as are transferred to the Archives under this Act and the Archives is thereafter responsible for the safekeeping of the matters so transferred. R.S.O. 1990, c. A.27, s. 4.",
+            "raw_html": "<p class=\"section-e\"><b>4.</b> The Archivist is authorized and directed to receive and grant discharges for all such matters as are transferred to the Archives under this Act and the Archives is thereafter responsible for the safekeeping of the matters so transferred. R.S.O. 1990, c. A.27, s. 4.</p>"
+        },
+        {
+            "id": "5.",
+            "section": "Objects of Archives",
+            "content": "5. The objects of the Archives are, (a) the classification, safekeeping, indexing and cataloguing of all matters transferred to the Archives under section 3; (b) the discovery, collection and preservation of material having any bearing upon the history of Ontario; (c) the copying and printing of important public documents relating to the legislative or general history of Ontario; (d) the collecting of all documents having in any sense a bearing upon the political or social history of Ontario and upon its agricultural, industrial, commercial or financial development; (e) the collecting of municipal, school and church records; (f) the collection and preservation of pamphlets, maps, charts, manuscripts, papers, regimental muster rolls and other matters of general or local interest historically in Ontario; (g) the collection and preservation of information respecting the early settlers of Ontario, including pioneer experience, customs, mode of living, prices, wages, boundaries, areas cultivated, and home and social life; (h) the collection and preservation of the correspondence of settlers, documents in private hands relating to public and social affairs and reports of local events of historic interest in domestic and public life; (i) the conducting of research with a view to preserving the memory of pioneer settlers in Ontario and of their early exploits and the part taken by them in opening up and developing the Province. R.S.O. 1990, c. A.27, s. 5.",
+            "raw_html": "<p class=\"section-e\"><b>5.</b> The objects of the Archives are,</p> <p class=\"clause-e\">(a) the classification, safekeeping, indexing and cataloguing of all matters transferred to the Archives under section 3;</p> <p class=\"clause-e\">(b) the discovery, collection and preservation of material having any bearing upon the history of Ontario;</p> <p class=\"clause-e\">(c) the copying and printing of important public documents relating to the legislative or general history of Ontario;</p> <p class=\"clause-e\">(d) the collecting of all documents having in any sense a bearing upon the political or social history of Ontario and upon its agricultural, industrial, commercial or financial development;</p> <p class=\"clause-e\">(e) the collecting of municipal, school and church records;</p> <p class=\"clause-e\">(f) the collection and preservation of pamphlets, maps, charts, manuscripts, papers, regimental muster rolls and other matters of general or local interest historically in Ontario;</p> <p class=\"clause-e\">(g) the collection and preservation of information respecting the early settlers of Ontario, including pioneer experience, customs, mode of living, prices, wages, boundaries, areas cultivated, and home and social life;</p> <p class=\"clause-e\">(h) the collection and preservation of the correspondence of settlers, documents in private hands relating to public and social affairs and reports of local events of historic interest in domestic and public life;</p> <p class=\"clause-e\">(i) the conducting of research with a view to preserving the memory of pioneer settlers in Ontario and of their early exploits and the part taken by them in opening up and developing the Province. R.S.O. 1990, c. A.27, s. 5.</p>"
+        },
+        {
+            "id": "6.",
+            "section": "Preservation of official documents",
+            "content": "6. Subject to the regulations, no official document, paper, pamphlet or report in the possession of any ministry or branch of the public service or of the Assembly shall be destroyed or permanently removed without the knowledge and concurrence of the Archivist. R.S.O. 1990, c. A.27, s. 6.",
+            "raw_html": "<p class=\"section-e\"><b>6.</b> Subject to the regulations, no official document, paper, pamphlet or report in the possession of any ministry or branch of the public service or of the Assembly shall be destroyed or permanently removed without the knowledge and concurrence of the Archivist. R.S.O. 1990, c. A.27, s. 6.</p>"
+        },
+        {
+            "id": "7.",
+            "section": "Certified copies",
+            "content": "7. A copy of any original document in the custody of the Archivist, certified under the Archivist’s hand and seal to be a true copy, is proof, in the absence of evidence to the contrary, of the authenticity and correctness of such document. R.S.O. 1990, c. A.27, s. 7.",
+            "raw_html": "<p class=\"section-e\"><b>7.</b> A copy of any original document in the custody of the Archivist, certified under the Archivist’s hand and seal to be a true copy, is proof, in the absence of evidence to the contrary, of the authenticity and correctness of such document. R.S.O. 1990, c. A.27, s. 7.</p>"
+        },
+        {
+            "id": "8.",
+            "section": "Regulations",
+            "content": "8. The Lieutenant Governor in Council may make regulations, (a) respecting the administration of the Archives and the duties of the Archivist; (b) prescribing the matters that shall be transferred to the Archives under this Act and extending or reducing the period that shall elapse before any such matters are transferred to the Archives; (c) for the classification of archives and other matters in the Archives and the preparation of proper calendars, catalogues and indexes for the purpose of making such archives and other matters accessible for purposes of official, scientific and historical research; (d) directing the manner in which documents, papers, pamphlets or reports in the office of any member of the Executive Council or in any ministry or branch of the public service or the Assembly shall be disposed of from time to time and the class of documents, papers, pamphlets or reports that shall be deemed to be public archives. R.S.O. 1990, c. A.27, s. 8; 1999, c. 12, Sched. S, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"><b>8.</b> The Lieutenant Governor in Council may make regulations,</p> <p class=\"clause-e\">(a) respecting the administration of the Archives and the duties of the Archivist;</p> <p class=\"clause-e\">(b) prescribing the matters that shall be transferred to the Archives under this Act and extending or reducing the period that shall elapse before any such matters are transferred to the Archives;</p> <p class=\"clause-e\">(c) for the classification of archives and other matters in the Archives and the preparation of proper calendars, catalogues and indexes for the purpose of making such archives and other matters accessible for purposes of official, scientific and historical research;</p> <p class=\"clause-e\">(d) directing the manner in which documents, papers, pamphlets or reports in the office of any member of the Executive Council or in any ministry or branch of the public service or the Assembly shall be disposed of from time to time and the class of documents, papers, pamphlets or reports that shall be deemed to be public archives. R.S.O. 1990, c. A.27, s. 8; 1999, c. 12, Sched. S, s. 1 (2).</p>"
+        },
+        {
+            "id": "9.",
+            "section": "Effect of this Act",
+            "content": "9. Nothing in this Act shall be taken or deemed to authorize the destruction or other disposition of any official document, paper, map, plan, report, memorandum or other matter in contravention of any order of the Assembly or of any express provision in any general or special Act of the Legislature. R.S.O. 1990, c. A.27, s. 9. ______________ Français ",
+            "raw_html": "<p class=\"section-e\"><b>9.</b> Nothing in this Act shall be taken or deemed to authorize the destruction or other disposition of any official document, paper, map, plan, report, memorandum or other matter in contravention of any order of the Assembly or of any express provision in any general or special Act of the Legislature. R.S.O. 1990, c. A.27, s. 9.</p> <p class=\"line-e\">______________</p> <p class=\"Normal\"><!-- TRANSIT - HYPERLINK --><!-- .http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90a27_f.htm. --><a href=\"http://www.e-laws.gov.on.ca/html/repealedstatutes/french/elaws_rep_statutes_90a27_f.htm\">Français</a></p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

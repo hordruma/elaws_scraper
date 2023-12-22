@@ -1,0 +1,694 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 285/01: WHEN WORK DEEMED TO BE PERFORMED, EXEMPTIONS AND SPECIAL RULES",
+        "reg_name_text": "When Work deemed to be performed, Exemptions and special rules",
+        "citation": "O. Reg. 285/01: WHEN WORK DEEMED TO BE PERFORMED, EXEMPTIONS AND SPECIAL RULES",
+        "act_under": "Employment Standards Act, 2000",
+        "url": "https://www.ontario.ca/laws/regulation/010285",
+        "date_scraped": "2023-12-18 02:38:35"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "December  1, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v29",
+            "valid_from": "May  1, 2022",
+            "valid_to": "November 30, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v28",
+            "valid_from": "April 19, 2022",
+            "valid_to": "April 30, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v27",
+            "valid_from": "March 11, 2022",
+            "valid_to": "April 18, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v26",
+            "valid_from": "January  1, 2022",
+            "valid_to": "March 10, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v25",
+            "valid_from": "December 10, 2021",
+            "valid_to": "December 31, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v24",
+            "valid_from": "June  3, 2019",
+            "valid_to": "December  9, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v23",
+            "valid_from": "January  1, 2019",
+            "valid_to": "June  2, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v22",
+            "valid_from": "December 14, 2018",
+            "valid_to": "December 31, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v21",
+            "valid_from": "October 24, 2018",
+            "valid_to": "December 13, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v20",
+            "valid_from": "April  1, 2018",
+            "valid_to": "October 23, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v19",
+            "valid_from": "March  9, 2018",
+            "valid_to": "March 31, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v18",
+            "valid_from": "January  1, 2018",
+            "valid_to": "March  8, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v17",
+            "valid_from": "December 18, 2017",
+            "valid_to": "December 31, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v16",
+            "valid_from": "June  1, 2014",
+            "valid_to": "December 17, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v15",
+            "valid_from": "February 14, 2014",
+            "valid_to": "May 31, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v14",
+            "valid_from": "January  2, 2009",
+            "valid_to": "February 13, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v13",
+            "valid_from": "December 12, 2008",
+            "valid_to": "January  1, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v12",
+            "valid_from": "December 21, 2007",
+            "valid_to": "December 11, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v11",
+            "valid_from": "October 12, 2007",
+            "valid_to": "December 20, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v10",
+            "valid_from": "August  2, 2007",
+            "valid_to": "October 11, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v9",
+            "valid_from": "July  3, 2007",
+            "valid_to": "August  1, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v8",
+            "valid_from": "March 31, 2006",
+            "valid_to": "July  2, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v7",
+            "valid_from": "March 28, 2006",
+            "valid_to": "March 30, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v6",
+            "valid_from": "February  6, 2006",
+            "valid_to": "March 27, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v5",
+            "valid_from": "October 28, 2005",
+            "valid_to": "February  5, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v4",
+            "valid_from": "September 30, 2005",
+            "valid_to": "October 27, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v3",
+            "valid_from": "March  1, 2005",
+            "valid_to": "September 29, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v2",
+            "valid_from": "February 18, 2005",
+            "valid_to": "February 28, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/010285/v1",
+            "valid_from": "December  1, 2003",
+            "valid_to": "February 17, 2005"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "1.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Definitions",
+            "content": " 1. In this Regulation, “construction employee” means, (a)  an employee employed at the site in any of the activities described in the definition of “construction industry”, or (b)  an employee who is engaged in off-site work, in whole or in part, but is commonly associated in work or collective bargaining with an employee described in clause (a); (“employé de la construction”) “construction industry” means the businesses that are engaged in constructing, altering, decorating, repairing or demolishing buildings, structures, roads, sewers, water or gas mains, pipe lines, tunnels, bridges, canals or other works at the site; (“industrie de la construction”) “domestic worker” means a person who is employed by a householder to perform services in the household or to provide care, supervision or personal assistance to children, senior or disabled members of the household, but does not include a sitter who provides care, supervision or personal assistance to children on an occasional, short-term basis; (“travailleur domestique”) “election official” means, (a)  an employee appointed as a returning officer under the Election Act, (b)  an employee who is employed on a temporary basis to assist in the administration of a general election or by-election under the Election Act and who is managed or supervised, directly or indirectly, by a returning officer, and (c)  an employee of the Chief Electoral Officer who is assigned on a temporary basis to provide support to returning officers in the administration of a general election or by-election under the Election Act within a region made up of one or more, but not all, electoral districts as determined under the Representation Act, 2015; (“membre du personnel électoral”) “hotel, motel, tourist resort, restaurant and tavern” means an establishment that provides accommodation, lodging, meals or beverages for payment, and includes hotels, motels, motor hotels, tourist homes, tourist camps, tourist cabins and cottages, tourist inns, catering establishments and all other establishments of a similar nature; (“hôtel, motel, lieu de villégiature, restaurant et taverne”) “information technology professional” means an employee who is primarily engaged in the investigation, analysis, design, development, implementation, operation or management of information systems based on computer and related technologies through the objective application of specialized knowledge and professional judgment; (“professionnel en technologie de l’information”) “recorded visual and audio-visual entertainment production industry” means the industry of producing visual or audio-visual recorded entertainment that is intended to be replayed in cinemas or on the Internet, as part of a television broadcast, or on a VCR or DVD player or a similar device, but does not include the industry of producing commercials (other than trailers), video games or educational material; (“industrie de la production de divertissements visuels et audio-visuels enregistrés”) “residential care worker” means a person who is employed to supervise and care for children or developmentally handicapped persons in a family-type residential dwelling or cottage and who resides in the dwelling or cottage during work periods, but does not include a foster parent; (“préposé aux soins en établissement”) “road building” means the preparation, construction, reconstruction, repair, alteration, remodelling, renovation, demolition, finishing and maintenance of streets, highways or parking lots, including structures such as bridges, tunnels or retaining walls in connection with streets or highways, and all foundations, installation of equipment, appurtenances and work incidental thereto; (“construction de routes”) “seasonal employee” means an employee who works not more than 16 weeks in a calendar year for an employer; (“employé saisonnier”) “taxi cab” means a vehicle, with seating accommodation for not more than nine persons exclusive of the driver, used to carry persons for hire; (“taxi”) “wage rate” means, where an employee is paid for piecework, the rate paid per piece and if there is more than one piece rate, each of the piece rates, and the number of pieces paid at each rate; (“taux de salaire”) “wilderness guide” means a person who is employed to guide, teach or assist one or more persons while those persons are engaged in activities in a wilderness environment, including the following activities: (a)  back-country skiing and snowshoeing, (b)  canoeing, kayaking, and rafting, (c)  dogsledding, (d)  hiking, (e)  horseback riding, (f)  rock climbing, (g)  operating all-terrain vehicles or snowmobiles, (h)  wildlife viewing, (i)  survival training, but does not include, (j)  a hunting or fishing guide, or (k)  a student under 18 years of age who works 28 hours each week or less or who is employed during a school holiday. (“guide d’aventure”) O. Reg. 285/01, s. 1; O. Reg. 552/05, s. 1; O. Reg. 97/18, s. 1; O. Reg. 147/19, s. 1. When Work Deemed to be Performed",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK0\"></a><b>1.</b><b> </b>In this Regulation,</p> <p class=\"firstdef-e\">“construction employee” means,</p> <p class=\"defclause-e\">  (a)  an employee employed at the site in any of the activities described in the definition of “construction industry”, or</p> <p class=\"defclause-e\">  (b)  an employee who is engaged in off-site work, in whole or in part, but is commonly associated in work or collective bargaining with an employee described in clause (a); (“employé de la construction”)</p> <p class=\"definition-e\">“construction industry” means the businesses that are engaged in constructing, altering, decorating, repairing or demolishing buildings, structures, roads, sewers, water or gas mains, pipe lines, tunnels, bridges, canals or other works at the site; (“industrie de la construction”)</p> <p class=\"definition-e\">“domestic worker” means a person who is employed by a householder to perform services in the household or to provide care, supervision or personal assistance to children, senior or disabled members of the household, but does not include a sitter who provides care, supervision or personal assistance to children on an occasional, short-term basis; (“travailleur domestique”)</p> <p class=\"definition-e\">“election official” means,</p> <p class=\"defclause-e\">  (a)  an employee appointed as a returning officer under the <i>Election Act</i>,</p> <p class=\"defclause-e\">  (b)  an employee who is employed on a temporary basis to assist in the administration of a general election or by-election under the <i>Election Act</i> and who is managed or supervised, directly or indirectly, by a returning officer, and</p> <p class=\"defclause-e\">  (c)  an employee of the Chief Electoral Officer who is assigned on a temporary basis to provide support to returning officers in the administration of a general election or by-election under the <i>Election Act</i> within a region made up of one or more, but not all, electoral districts as determined under the <i>Representation Act, 2015</i>; (“membre du personnel électoral”)</p> <p class=\"definition-e\">“hotel, motel, tourist resort, restaurant and tavern” means an establishment that provides accommodation, lodging, meals or beverages for payment, and includes hotels, motels, motor hotels, tourist homes, tourist camps, tourist cabins and cottages, tourist inns, catering establishments and all other establishments of a similar nature; (“hôtel, motel, lieu de villégiature, restaurant et taverne”)</p> <p class=\"definition-e\">“information technology professional” means an employee who is primarily engaged in the investigation, analysis, design, development, implementation, operation or management of information systems based on computer and related technologies through the objective application of specialized knowledge and professional judgment; (“professionnel en technologie de l’information”)</p> <p class=\"definition-e\">“recorded visual and audio-visual entertainment production industry” means the industry of producing visual or audio-visual recorded entertainment that is intended to be replayed in cinemas or on the Internet, as part of a television broadcast, or on a VCR or DVD player or a similar device, but does not include the industry of producing commercials (other than trailers), video games or educational material; (“industrie de la production de divertissements visuels et audio-visuels enregistrés”)</p> <p class=\"definition-e\">“residential care worker” means a person who is employed to supervise and care for children or developmentally handicapped persons in a family-type residential dwelling or cottage and who resides in the dwelling or cottage during work periods, but does not include a foster parent; (“préposé aux soins en établissement”)</p> <p class=\"definition-e\">“road building” means the preparation, construction, reconstruction, repair, alteration, remodelling, renovation, demolition, finishing and maintenance of streets, highways or parking lots, including structures such as bridges, tunnels or retaining walls in connection with streets or highways, and all foundations, installation of equipment, appurtenances and work incidental thereto; (“construction de routes”)</p> <p class=\"definition-e\">“seasonal employee” means an employee who works not more than 16 weeks in a calendar year for an employer; (“employé saisonnier”)</p> <p class=\"definition-e\">“taxi cab” means a vehicle, with seating accommodation for not more than nine persons exclusive of the driver, used to carry persons for hire; (“taxi”)</p> <p class=\"definition-e\">“wage rate” means, where an employee is paid for piecework, the rate paid per piece and if there is more than one piece rate, each of the piece rates, and the number of pieces paid at each rate; (“taux de salaire”)</p> <p class=\"definition-e\">“wilderness guide” means a person who is employed to guide, teach or assist one or more persons while those persons are engaged in activities in a wilderness environment, including the following activities:</p> <p class=\"defclause-e\">  (a)  back-country skiing and snowshoeing,</p> <p class=\"defclause-e\">  (b)  canoeing, kayaking, and rafting,</p> <p class=\"defclause-e\">  (c)  dogsledding,</p> <p class=\"defclause-e\">  (d)  hiking,</p> <p class=\"defclause-e\">  (e)  horseback riding,</p> <p class=\"defclause-e\">  (f)  rock climbing,</p> <p class=\"defclause-e\">  (g)  operating all-terrain vehicles or snowmobiles,</p> <p class=\"defclause-e\">  (h)  wildlife viewing,</p> <p class=\"defclause-e\">  (i)  survival training,</p> <p class=\"Sdefinition-e\">but does not include,</p> <p class=\"defclause-e\">  (j)  a hunting or fishing guide, or</p> <p class=\"defclause-e\">  (k)  a student under 18 years of age who works 28 hours each week or less or who is employed during a school holiday. (“guide d’aventure”) O. Reg. 285/01, s. 1; O. Reg. 552/05, s. 1; O. Reg. 97/18, s. 1; O. Reg. 147/19, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK1\"></a>When Work Deemed to be Performed</p>"
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "When Work Deemed to be Performed",
+            "part_id": null,
+            "part_type": null,
+            "section": "When Work Deemed to be Performed",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "1.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "When work deemed to be performed",
+            "content": " 1.1 (1) Subject to subsection (2), work shall be deemed to be performed by an employee for the employer, (a)  where work is, (i)  permitted or suffered to be done by the employer, or (ii)  in fact performed by an employee although a term of the contract of employment expressly forbids or limits hours of work or requires the employer to authorize hours of work in advance; or (b)  where the employee is not performing work and is required to remain at the place of employment, (i)  waiting or holding himself or herself ready for call to work, or (ii)  on a rest or break-time other than an eating period. O. Reg. 526/17, s. 2. (2) Work shall not be deemed to be performed for an employer during the time the employee, (a)  is entitled to, (i)  take time off work for an eating period, (ii)  take at least six hours or such longer period as is established by contract, custom or practice for sleeping and the employer furnishes sleeping facilities, or (iii)  take time off work in order to engage in the employee’s own private affairs or pursuits as is established by contract, custom or practice; or (b)  is not at the place of employment and is waiting or holding himself or herself ready for call to work. O. Reg. 526/17, s. 2. Exemptions re Various Parts of Act",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK2\"></a>1.1 </b>(1) Subject to subsection (2), work shall be deemed to be performed by an employee for the employer,</p> <p class=\"clause-e\">  (a)  where work is,</p> <p class=\"subclause-e\">  (i)  permitted or suffered to be done by the employer, or</p> <p class=\"subclause-e\">  (ii)  in fact performed by an employee although a term of the contract of employment expressly forbids or limits hours of work or requires the employer to authorize hours of work in advance; or</p> <p class=\"clause-e\">  (b)  where the employee is not performing work and is required to remain at the place of employment,</p> <p class=\"subclause-e\">  (i)  waiting or holding himself or herself ready for call to work, or</p> <p class=\"subclause-e\">  (ii)  on a rest or break-time other than an eating period. O. Reg. 526/17, s. 2.</p> <p class=\"subsection-e\">  (2) Work shall not be deemed to be performed for an employer during the time the employee,</p> <p class=\"clause-e\">  (a)  is entitled to,</p> <p class=\"subclause-e\">  (i)  take time off work for an eating period,</p> <p class=\"subclause-e\">  (ii)  take at least six hours or such longer period as is established by contract, custom or practice for sleeping and the employer furnishes sleeping facilities, or</p> <p class=\"subclause-e\">  (iii)  take time off work in order to engage in the employee’s own private affairs or pursuits as is established by contract, custom or practice; or</p> <p class=\"clause-e\">  (b)  is not at the place of employment and is waiting or holding himself or herself ready for call to work. O. Reg. 526/17, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK3\"></a>Exemptions re Various Parts of Act</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Exemptions re Various Parts of Act",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions re Various Parts of Act",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "2.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions from Parts VII to XI of Act",
+            "content": " 2. (1) Parts VII, VII.1, VIII, IX, X and XI of the Act do not apply to a person employed, (a)  as a duly qualified practitioner of, (i)  architecture, (ii)  law, (iii)  professional engineering, (iv)  public accounting, (v)  surveying, or (vi)  veterinary science; (b)  as a duly registered practitioner of, (i)  chiropody, (ii)  chiropractic, (iii)  dentistry, (iv)  massage therapy, (v)  medicine, (vi)  optometry, (vii)  pharmacy, (viii)  physiotherapy, or (ix)  psychology; (c)  as a duly registered practitioner under the Naturopathy Act, 2007; (d)  as a teacher as defined in the Teaching Profession Act; (e)  as a student in training for an occupation mentioned in clause (a), (b), (c) or (d); (f)  in commercial fishing; (g)  as a salesperson or broker, as those terms are defined in the Trust in Real Estate Services Act, 2002; or (h)  as a salesperson, other than a route salesperson, who is entitled to receive all or any part of his or her remuneration as commissions in respect of offers to purchase or sales that, (i)  relate to goods or services, and (ii)  are normally made away from the employer’s place of business.  O. Reg. 285/01, s. 2 (1); O. Reg. 92/06, s. 1; O. Reg. 498/18, s. 1 (1); O. Reg. 361/22, s. 1. (2) Subject to sections 24, 25, 25.1, 26 and 27 of this Regulation, Parts VII, VII.1, VIII, IX, X and XI of the Act do not apply to a person employed on a farm whose employment is directly related to the primary production of eggs, milk, grain, seeds, fruit, vegetables, maple products, honey, tobacco, herbs, pigs, cattle, sheep, goats, poultry, deer, elk, ratites, bison, rabbits, game birds, wild boar and cultured fish.  O. Reg. 285/01, s. 2 (2); O. Reg. 498/18, s. 1 (2). Exemption for the Crown and Certain Public Bodies",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK4\"></a><b>2.</b><b> </b>(1) Parts VII, VII.1, VIII, IX, X and XI of the Act do not apply to a person employed,</p> <p class=\"clause-e\">  (a)  as a duly qualified practitioner of,</p> <p class=\"subclause-e\">  (i)  architecture,</p> <p class=\"subclause-e\">  (ii)  law,</p> <p class=\"subclause-e\">  (iii)  professional engineering,</p> <p class=\"subclause-e\">  (iv)  public accounting,</p> <p class=\"subclause-e\">  (v)  surveying, or</p> <p class=\"subclause-e\">  (vi)  veterinary science;</p> <p class=\"clause-e\">  (b)  as a duly registered practitioner of,</p> <p class=\"subclause-e\">  (i)  chiropody,</p> <p class=\"subclause-e\">  (ii)  chiropractic,</p> <p class=\"subclause-e\">  (iii)  dentistry,</p> <p class=\"subclause-e\">  (iv)  massage therapy,</p> <p class=\"subclause-e\">  (v)  medicine,</p> <p class=\"subclause-e\">  (vi)  optometry,</p> <p class=\"subclause-e\">  (vii)  pharmacy,</p> <p class=\"subclause-e\">  (viii)  physiotherapy, or</p> <p class=\"subclause-e\">  (ix)  psychology;</p> <p class=\"clause-e\">  (c)  as a duly registered practitioner under the <i>Naturopathy Act, 2007</i>;</p> <p class=\"clause-e\">  (d)  as a teacher as defined in the <i>Teaching Profession Act</i>;</p> <p class=\"clause-e\">  (e)  as a student in training for an occupation mentioned in clause (a), (b), (c) or (d);</p> <p class=\"clause-e\">  (f)  in commercial fishing;</p> <p class=\"clause-e\">  (g)  as a salesperson or broker, as those terms are defined in the <i>Trust in Real Estate Services Act, 2002</i>; or</p> <p class=\"clause-e\">  (h)  as a salesperson, other than a route salesperson, who is entitled to receive all or any part of his or her remuneration as commissions in respect of offers to purchase or sales that,</p> <p class=\"subclause-e\">  (i)  relate to goods or services, and</p> <p class=\"subclause-e\">  (ii)  are normally made away from the employer’s place of business.  O. Reg. 285/01, s. 2 (1); O. Reg. 92/06, s. 1; O. Reg. 498/18, s. 1 (1); O. Reg. 361/22, s. 1.</p> <p class=\"subsection-e\">  (2) Subject to sections 24, 25, 25.1, 26 and 27 of this Regulation, Parts VII, VII.1, VIII, IX, X and XI of the Act do not apply to a person employed on a farm whose employment is directly related to the primary production of eggs, milk, grain, seeds, fruit, vegetables, maple products, honey, tobacco, herbs, pigs, cattle, sheep, goats, poultry, deer, elk, ratites, bison, rabbits, game birds, wild boar and cultured fish.  O. Reg. 285/01, s. 2 (2); O. Reg. 498/18, s. 1 (2).</p> <p class=\"heading1-e\"><a name=\"BK5\"></a>Exemption for the Crown and Certain Public Bodies</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "Exemption for the Crown and Certain Public Bodies",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemption for the Crown and Certain Public Bodies",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "2.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Crown, etc., exemption",
+            "content": " 2.1 (1) The Crown, a Crown agency or an authority, board, commission or corporation all of whose members are appointed by the Crown, and any employees of such an employer, are exempt from every provision of the Act except for those listed in subsection (2). O. Reg. 498/18, s. 2. Provisions that apply (2) Only the following provisions of the Act apply with respect to an employer or employee described in subsection (1): 1.  Part I (Definitions). 2.  Part III (How This Act Applies), subject to the application of subsection 4 (4.1). 3.  Part IV (Continuity of Employment). 4.  Section 14. 5.  Part VI (Records). 6.  Part IX (Minimum Wage). 7.  Part XI (Vacation with Pay). 8.  Part XII (Equal Pay for Equal Work). 9.  Part XIII (Benefit Plans). 10.  Part XIV (Leaves of Absence). 11.  Part XV (Termination and Severance of Employment). 12.  Part XVI (Lie Detectors). 13.  Part XVIII (Reprisal), except for subclause 74 (1) (a) (vii) and clause 74 (1) (b). 14.  Part XIX (Building Services Providers). 15.  Part XXI (Who Enforces This Act and What They Can Do). 16.  Part XXII (Complaints and Enforcement). 17.  Part XXIII (Reviews by the Board). 18.  Part XXVI (Miscellaneous Evidentiary Provisions). 19.  Part XXVII (Regulations). 20.  Part XXVIII (Transition). O. Reg. 498/18, s. 2. Special Rules re Certain Leaves",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK6\"></a><b>2.1 </b>(1) The Crown, a Crown agency or an authority, board, commission or corporation all of whose members are appointed by the Crown, and any employees of such an employer, are exempt from every provision of the Act except for those listed in subsection (2). O. Reg. 498/18, s. 2.</p> <p class=\"headnote-e\">Provisions that apply</p> <p class=\"subsection-e\">  (2) Only the following provisions of the Act apply with respect to an employer or employee described in subsection (1):</p> <p class=\"paragraph-e\">  1.  Part I (Definitions).</p> <p class=\"paragraph-e\">  2.  Part III (How This Act Applies), subject to the application of subsection 4 (4.1).</p> <p class=\"paragraph-e\">  3.  Part IV (Continuity of Employment).</p> <p class=\"paragraph-e\">  4.  Section 14.</p> <p class=\"paragraph-e\">  5.  Part VI (Records).</p> <p class=\"paragraph-e\">  6.  Part IX (Minimum Wage).</p> <p class=\"paragraph-e\">  7.  Part XI (Vacation with Pay).</p> <p class=\"paragraph-e\">  8.  Part XII (Equal Pay for Equal Work).</p> <p class=\"paragraph-e\">  9.  Part XIII (Benefit Plans).</p> <p class=\"paragraph-e\">  10.  Part XIV (Leaves of Absence).</p> <p class=\"paragraph-e\">  11.  Part XV (Termination and Severance of Employment).</p> <p class=\"paragraph-e\">  12.  Part XVI (Lie Detectors).</p> <p class=\"paragraph-e\">  13.  Part XVIII (Reprisal), except for subclause 74 (1) (a) (vii) and clause 74 (1) (b).</p> <p class=\"paragraph-e\">  14.  Part XIX (Building Services Providers).</p> <p class=\"paragraph-e\">  15.  Part XXI (Who Enforces This Act and What They Can Do).</p> <p class=\"paragraph-e\">  16.  Part XXII (Complaints and Enforcement).</p> <p class=\"paragraph-e\">  17.  Part XXIII (Reviews by the Board).</p> <p class=\"paragraph-e\">  18.  Part XXVI (Miscellaneous Evidentiary Provisions).</p> <p class=\"paragraph-e\">  19.  Part XXVII (Regulations).</p> <p class=\"paragraph-e\">  20.  Part XXVIII (Transition). O. Reg. 498/18, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK7\"></a>Special Rules re Certain Leaves</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "Special Rules re Certain Leaves",
+            "part_id": null,
+            "part_type": null,
+            "section": "Special Rules re Certain Leaves",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "3.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Professional duty",
+            "content": " 3. Sections 50, 50.0.1 and 50.0.2 of the Act do not apply to any of the following persons in circumstances in which the exercise of the entitlement would constitute an act of professional misconduct or a dereliction of professional duty: 1.  A person described in clause 2 (1) (a), (c), (d) or (e). 2.  A person employed as a registered practitioner of a health profession set out in Schedule 1 to the Regulated Health Professions Act, 1991, including a person described in clause 2 (1) (b). O. Reg. 498/18, s. 3. 3.0.1 Revoked: O. Reg. 498/18, s. 4. Exemption re Certain Deductions, etc.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK8\"></a><b>3. </b>Sections 50, 50.0.1 and 50.0.2 of the Act do not apply to any of the following persons in circumstances in which the exercise of the entitlement would constitute an act of professional misconduct or a dereliction of professional duty:</p> <p class=\"paragraph-e\">  1.  A person described in clause 2 (1) (a), (c), (d) or (e).</p> <p class=\"paragraph-e\">  2.  A person employed as a registered practitioner of a health profession set out in Schedule 1 to the <i>Regulated Health Professions Act, 1991</i>, including a person described in clause 2 (1) (b). O. Reg. 498/18, s. 3.</p> <p class=\"section-e\"> <b>3.0.1 </b><span class=\"ovsmallcap\">Revoked:</span> O. Reg. 498/18, s. 4.</p> <p class=\"heading1-e\"><a name=\"BK9\"></a>Exemption re Certain Deductions, etc.</p>"
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "Exemption re Certain Deductions, etc.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemption re Certain Deductions, etc.",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "3.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Fees, s. 28 of Ontario Municipal Employees Retirement System Act, 2006",
+            "content": " 3.1 (1) An employer is exempted from the application of section 13 of the Act if the employer participates in an OMERS pension plan under the Ontario Municipal Employees Retirement System Act, 2006, but only with respect to fees that a by-law made under section 28 of that Act requires employees to pay.  O. Reg. 444/07, s. 1. (2) Subsection (1) applies only if the employer remits the fees in accordance with the by-law.  O. Reg. 444/07, s. 1. Exemptions re Hours of Work and Eating Periods",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK10\"></a><b>3</b><b>.1 </b>(1) An employer is exempted from the application of section 13 of the Act if the employer participates in an OMERS pension plan under the <i>Ontario Municipal Employees Retirement System Act, 2006</i>,<i> </i>but only with respect to fees that a by-law made under section 28 of that Act requires employees to pay.  O. Reg. 444/07, s. 1.</p> <p class=\"subsection-e\">  (2) Subsection (1) applies only if the employer remits the fees in accordance with the by-law.  O. Reg. 444/07, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK11\"></a>Exemptions re Hours of Work and Eating Periods</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "Exemptions re Hours of Work and Eating Periods",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions re Hours of Work and Eating Periods",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "4.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions from Part VII of Act",
+            "content": " 4. (1) Sections 17, 18 and 19 of the Act do not apply to,  (a)  a person employed as a firefighter as defined in section 1 of the Fire Protection and Prevention Act, 1997; (b)  a person whose work is supervisory or managerial in character and who may perform non-supervisory or non-managerial tasks on an irregular or exceptional basis; (c)  a person employed as a hunting or fishing guide or a wilderness guide; (d)  a construction employee; (e)  a person who is employed as the superintendent, janitor or caretaker of a residential building and resides in the building; (f)  a person employed as an embalmer or funeral director; or (g)  subject to subsection (1.1), an election official. O. Reg. 285/01, s. 4 (1); O. Reg. 97/18, s. 2 (1); O. Reg. 147/19, s. 2. (1.1) The exemption in clause (1) (g) only applies during a period that begins with the issue of a writ for a general election or by-election under the Election Act and ends on the day after polling day. O. Reg. 97/18, s. 2 (2). (2) Sections 17 and 19 of the Act do not apply to a person employed, (a)  as a landscape gardener; or (b)  to install and maintain swimming pools.  O. Reg. 285/01, s. 4 (2). (3) Part VII of the Act does not apply to, (a)  a person whose employment is directly related to, (i)  the growing of mushrooms, (ii)  the growing of flowers for the retail and wholesale trade, (iii)  the growing, transporting and laying of sod, (iv)  the growing of trees and shrubs for the wholesale and retail trade, (v)  the breeding and boarding of horses on a farm, or (vi)  the keeping of furbearing mammals, as defined in the Fish and Wildlife Conservation Act, 1997, for propagation or the production of pelts for commercial purposes; (a.1)  Revoked: O. Reg. 498/18, s. 5. (b)  an information technology professional; or (c)  a person employed in the recorded visual and audio-visual entertainment production industry.  O. Reg. 285/01, s. 4 (3); O. Reg. 552/05, s. 2; O. Reg. 448/18, s. 1; O. Reg. 498/18, s. 5. Exemptions re Three Hour Rule",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK12\"></a><b>4.</b><b> </b>(1) Sections 17, 18 and 19 of the Act do not apply to, </p> <p class=\"clause-e\">  (a)  a person employed as a firefighter as defined in section 1 of the <i>Fire Protection and Prevention Act, 1997</i>;</p> <p class=\"clause-e\">  (b)  a person whose work is supervisory or managerial in character and who may perform non-supervisory or non-managerial tasks on an irregular or exceptional basis;</p> <p class=\"clause-e\">  (c)  a person employed as a hunting or fishing guide or a wilderness guide;</p> <p class=\"clause-e\">  (d)  a construction employee;</p> <p class=\"clause-e\">  (e)  a person who is employed as the superintendent, janitor or caretaker of a residential building and resides in the building; </p> <p class=\"clause-e\">  (f)  a person employed as an embalmer or funeral director; or</p> <p class=\"clause-e\">  (g)  subject to subsection (1.1), an election official. O. Reg. 285/01, s. 4 (1); O. Reg. 97/18, s. 2 (1); O. Reg. 147/19, s. 2.</p> <p class=\"subsection-e\">  (1.1) The exemption in clause (1) (g) only applies during a period that begins with the issue of a writ for a general election or by-election under the <i>Election Act</i> and ends on the day after polling day. O. Reg. 97/18, s. 2 (2).</p> <p class=\"subsection-e\">  (2) Sections 17 and 19 of the Act do not apply to a person employed, </p> <p class=\"clause-e\">  (a)  as a landscape gardener; or</p> <p class=\"clause-e\">  (b)  to install and maintain swimming pools.  O. Reg. 285/01, s. 4 (2).</p> <p class=\"subsection-e\">  (3) Part VII of the Act does not apply to,</p> <p class=\"clause-e\">  (a)  a person whose employment is directly related to,</p> <p class=\"subclause-e\">  (i)  the growing of mushrooms,</p> <p class=\"subclause-e\">  (ii)  the growing of flowers for the retail and wholesale trade,</p> <p class=\"subclause-e\">  (iii)  the growing, transporting and laying of sod,</p> <p class=\"subclause-e\">  (iv)  the growing of trees and shrubs for the wholesale and retail trade,</p> <p class=\"subclause-e\">  (v)  the breeding and boarding of horses on a farm, or</p> <p class=\"subclause-e\">  (vi)  the keeping of furbearing mammals, as defined in the <i>Fish and Wildlife Conservation Act, 1997</i>, for propagation or the production of pelts for commercial purposes;</p> <p class=\"clause-e\"> (a.1)  <span class=\"ovsmallcap\">Revoked:</span> O. Reg. 498/18, s. 5.</p> <p class=\"clause-e\">  (b)  an information technology professional; or </p> <p class=\"clause-e\">  (c)  a person employed in the recorded visual and audio-visual entertainment production industry.  O. Reg. 285/01, s. 4 (3); O. Reg. 552/05, s. 2; O. Reg. 448/18, s. 1; O. Reg. 498/18, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK13\"></a>Exemptions re Three Hour Rule</p>"
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "Exemptions re Three Hour Rule",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions re Three Hour Rule",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "4.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions from Part VII.1 of Act",
+            "content": " 4.1 Section 21.2 of the Act does not apply to, (a)  a person who is employed as a student in a recreational program operated by a charitable organization registered under Part I of the Income Tax Act (Canada) and whose work or duties are directly connected with the recreational program unless the person is a wilderness guide; (b)  a person employed as a student to instruct or supervise children unless the person is a wilderness guide; (c)  a person employed as a student at a camp for children unless the person is a wilderness guide; or (d)  a person who is employed as the superintendent, janitor or caretaker of a residential building and resides in the building. O. Reg. 498/18, s. 6; O. Reg. 147/19, s. 3. Rules re Minimum Wage",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK14\"></a><b>4.1 </b>Section 21.2 of the Act does not apply to,</p> <p class=\"clause-e\">  (a)  a person who is employed as a student in a recreational program operated by a charitable organization registered under Part I of the <i>Income Tax Act</i> (Canada) and whose work or duties are directly connected with the recreational program unless the person is a wilderness guide;</p> <p class=\"clause-e\">  (b)  a person employed as a student to instruct or supervise children unless the person is a wilderness guide;</p> <p class=\"clause-e\">  (c)  a person employed as a student at a camp for children unless the person is a wilderness guide; or</p> <p class=\"clause-e\">  (d)  a person who is employed as the superintendent, janitor or caretaker of a residential building and resides in the building. O. Reg. 498/18, s. 6; O. Reg. 147/19, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK15\"></a>Rules re Minimum Wage</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "Rules re Minimum Wage",
+            "part_id": null,
+            "part_type": null,
+            "section": "Rules re Minimum Wage",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "5.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Room and board",
+            "content": " 5. (1) If an employer provides room or board to an employee, the following are the amounts that shall be deemed to have been paid as wages for the purposes of determining whether the minimum wage has been paid: 1.  For room, $31.70 a week if the room is private and $15.85 a week if the room is not private. 2.  For board, $2.55 a meal and not more than $53.55 a week. 3.  For both room and board, $85.25 a week if the room is private and $69.40 a week if the room is not private. O. Reg. 526/17, s. 7 (2). (2) The amount provided in subsection (1) in respect of a room shall be deemed to have been paid as wages only if the room is, (a)  reasonably furnished and reasonably fit for human habitation; (b)  supplied with clean bed linen and towels; and (c)  reasonably accessible to proper toilet and wash-basin facilities. O. Reg. 526/17, s. 7 (2). (3) Room or board shall not be deemed to have been paid by the employer to an employee as wages unless the employee has received the meals or occupied the room. O. Reg. 526/17, s. 7 (2). 5.1 Revoked: O. Reg. 526/17, s. 8.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK16\"></a><b>5. </b>(1) If an employer provides room or board to an employee, the following are the amounts that shall be deemed to have been paid as wages for the purposes of determining whether the minimum wage has been paid:</p> <p class=\"paragraph-e\">  1.  For room, $31.70 a week if the room is private and $15.85 a week if the room is not private.</p> <p class=\"paragraph-e\">  2.  For board, $2.55 a meal and not more than $53.55 a week.</p> <p class=\"paragraph-e\">  3.  For both room and board, $85.25 a week if the room is private and $69.40 a week if the room is not private. O. Reg. 526/17, s. 7 (2).</p> <p class=\"subsection-e\">  (2) The amount provided in subsection (1) in respect of a room shall be deemed to have been paid as wages only if the room is,</p> <p class=\"clause-e\">  (a)  reasonably furnished and reasonably fit for human habitation;</p> <p class=\"clause-e\">  (b)  supplied with clean bed linen and towels; and</p> <p class=\"clause-e\">  (c)  reasonably accessible to proper toilet and wash-basin facilities. O. Reg. 526/17, s. 7 (2).</p> <p class=\"subsection-e\">  (3) Room or board shall not be deemed to have been paid by the employer to an employee as wages unless the employee has received the meals or occupied the room. O. Reg. 526/17, s. 7 (2).</p> <p class=\"section-e\"> <b>5.1 </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 526/17, s. 8.</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "6.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Minimum wage for wilderness guides",
+            "content": " 6. (1) Wilderness guides are prescribed as a class of employees for the purposes of subsection 23.1 (2) of the Act. O. Reg. 147/19, s. 4. (2) The minimum wage prescribed for the services of a wilderness guide is the following: 1.  On or after January 1, 2022 but before October 1, 2022, $75.00 for less than five consecutive hours in a day and $150.05 for five or more hours in a day, whether or not the hours are consecutive. 2.  From October 1, 2022 onwards, the amount determined under subsection 23.1 (4) of the Act. O. Reg. 835/21, s. 1. Exemptions re Minimum Wage",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK17\"></a><b>6. </b>(1) Wilderness guides are prescribed as a class of employees for the purposes of subsection 23.1 (2) of the Act. O. Reg. 147/19, s. 4.</p> <p class=\"subsection-e\">  (2) The minimum wage prescribed for the services of a wilderness guide is the following:</p> <p class=\"paragraph-e\">  1.  On or after January 1, 2022 but before October 1, 2022, $75.00 for less than five consecutive hours in a day and $150.05 for five or more hours in a day, whether or not the hours are consecutive.</p> <p class=\"paragraph-e\">  2.  From October 1, 2022 onwards, the amount determined under subsection 23.1 (4) of the Act. O. Reg. 835/21, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK18\"></a>Exemptions re Minimum Wage</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "Exemptions re Minimum Wage",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions re Minimum Wage",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "7.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions from Part IX of Act",
+            "content": " 7. Part IX of the Act does not apply to, (a)  a person who is employed as a student in a recreational program operated by a charitable organization registered under Part I of the Income Tax Act (Canada) and whose work or duties are directly connected with the recreational program unless the person is a wilderness guide; (b)  a person employed as a student to instruct or supervise children unless the person is a wilderness guide; (c)  a person employed as a student at a camp for children unless the person is a wilderness guide; (d)  a person who is employed as the superintendent, janitor or caretaker of a residential building and resides in the building.  O. Reg. 285/01, s. 7; O. Reg. 147/19, s. 5. Exemptions re Overtime Pay",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK19\"></a><b>7.</b><b> </b>Part IX of the Act does not apply to,</p> <p class=\"clause-e\">  (a)  a person who is employed as a student in a recreational program operated by a charitable organization registered under Part I of the <i>Income Tax Act</i> (Canada) and whose work or duties are directly connected with the recreational program unless the person is a wilderness guide;</p> <p class=\"clause-e\">  (b)  a person employed as a student to instruct or supervise children unless the person is a wilderness guide;</p> <p class=\"clause-e\">  (c)  a person employed as a student at a camp for children unless the person is a wilderness guide;</p> <p class=\"clause-e\">  (d)  a person who is employed as the superintendent, janitor or caretaker of a residential building and resides in the building.  O. Reg. 285/01, s. 7; O. Reg. 147/19, s. 5.</p> <p class=\"heading1-e\"><a name=\"BK20\"></a>Exemptions re Overtime Pay</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "Exemptions re Overtime Pay",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions re Overtime Pay",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "8.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions from Part VIII of Act",
+            "content": " 8. Part VIII of the Act does not apply to, (a)  a person employed as a firefighter as defined in section 1 of the Fire Protection and Prevention Act, 1997; (b)  a person whose work is supervisory or managerial in character and who may perform non-supervisory or non-managerial tasks on an irregular or exceptional basis; (b.1)  Revoked: O. Reg. 498/18, s. 7. (c)  a person employed as a hunting or fishing guide or a wilderness guide; (d)  a person employed, (i)  as a landscape gardener, or (ii)  to install and maintain swimming pools; (e)  a person whose employment is directly related to, (i)  the growing of mushrooms, (ii)  the growing of flowers for the retail and wholesale trade, (iii)  the growing, transporting and laying of sod, (iv)  the growing of trees and shrubs for the retail and wholesale trade, (v)  the breeding and boarding of horses on a farm, or (vi)  the keeping of furbearing mammals, as defined in the Fish and Wildlife Conservation Act, 1997, for propagation or the production of pelts for commercial purposes; (f)  a person employed as a student to instruct or supervise children; (g)  a person employed as a student at a camp for children; (h)  a person who is employed as a student in a recreational program operated by a charitable organization registered under Part I of the Income Tax Act (Canada) and whose work or duties are directly connected with the recreational program; (i)  a person who is employed as the superintendent, janitor or caretaker of a residential building and resides in the building; (j)  a person employed as a taxi cab driver; (k)  a person employed as an ambulance driver, ambulance driver’s helper or first-aid attendant on an ambulance; or (l)  an information technology professional.  O. Reg. 285/01, s. 8; O. Reg. 448/18, s. 2; O. Reg. 498/18, s. 7; O. Reg. 147/19, s. 6. Exemptions re Public Holidays",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK21\"></a><b>8.</b><b> </b>Part VIII of the Act does not apply to,</p> <p class=\"clause-e\">  (a)  a person employed as a firefighter as defined in section 1 of the <i>Fire Protection and Prevention Act, 1997</i>;</p> <p class=\"clause-e\">  (b)  a person whose work is supervisory or managerial in character and who may perform non-supervisory or non-managerial tasks on an irregular or exceptional basis;</p> <p class=\"clause-e\"> (b.1)  <span class=\"ovsmallcap\">Revoked:</span> O. Reg. 498/18, s. 7.</p> <p class=\"clause-e\">  (c)  a person employed as a hunting or fishing guide or a wilderness guide;</p> <p class=\"clause-e\">  (d)  a person employed,</p> <p class=\"subclause-e\">  (i)  as a landscape gardener, or</p> <p class=\"subclause-e\">  (ii)  to install and maintain swimming pools;</p> <p class=\"clause-e\">  (e)  a person whose employment is directly related to,</p> <p class=\"subclause-e\">  (i)  the growing of mushrooms,</p> <p class=\"subclause-e\">  (ii)  the growing of flowers for the retail and wholesale trade,</p> <p class=\"subclause-e\">  (iii)  the growing, transporting and laying of sod,</p> <p class=\"subclause-e\">  (iv)  the growing of trees and shrubs for the retail and wholesale trade,</p> <p class=\"subclause-e\">  (v)  the breeding and boarding of horses on a farm, or</p> <p class=\"subclause-e\">  (vi)  the keeping of furbearing mammals, as defined in the <i>Fish and Wildlife Conservation Act, 1997</i>, for propagation or the production of pelts for commercial purposes;</p> <p class=\"clause-e\">  (f)  a person employed as a student to instruct or supervise children;</p> <p class=\"clause-e\">  (g)  a person employed as a student at a camp for children;</p> <p class=\"clause-e\">  (h)  a person who is employed as a student in a recreational program operated by a charitable organization registered under Part I of the <i>Income Tax Act</i> (Canada) and whose work or duties are directly connected with the recreational program;</p> <p class=\"clause-e\">  (i)  a person who is employed as the superintendent, janitor or caretaker of a residential building and resides in the building;</p> <p class=\"clause-e\">  (j)  a person employed as a taxi cab driver; </p> <p class=\"clause-e\">  (k)  a person employed as an ambulance driver, ambulance driver’s helper or first-aid attendant on an ambulance; or</p> <p class=\"clause-e\">  (l)  an information technology professional.  O. Reg. 285/01, s. 8; O. Reg. 448/18, s. 2; O. Reg. 498/18, s. 7; O. Reg. 147/19, s. 6.</p> <p class=\"heading1-e\"><a name=\"BK22\"></a>Exemptions re Public Holidays</p>"
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "Exemptions re Public Holidays",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions re Public Holidays",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "9.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions from Part X of Act",
+            "content": " 9. (1) Part X of the Act does not apply to, (a)  a person employed as a firefighter as defined in section 1 of the Fire Protection and Prevention Act, 1997; (b)  a person employed as a hunting or fishing guide or a wilderness guide; (c)  a person employed, (i)  as a landscape gardener, or (ii)  to install and maintain swimming pools; (d)  a person whose employment is directly related to, (i)  mushroom growing, (ii)  the growing of flowers for the retail and wholesale trade, (iii)  the growing, transporting and laying of sod, (iv)  the growing of trees and shrubs for the retail and wholesale trade, (v)  the breeding and boarding of horses on a farm, or (vi)  the keeping of furbearing mammals, as defined in the Fish and Wildlife Conservation Act, 1997, for propagation or the production of pelts for commercial purposes; (e)  a person employed as a student to instruct or supervise children; (f)  a person employed as a student at a camp for children; (g)  a person who is employed as a student in a recreational program operated by a charitable organization registered under Part I of the Income Tax Act (Canada) and whose work or duties are directly connected with the recreational program; (h)  a person who is employed as the superintendent, janitor or caretaker of a residential building and resides in the building; (i)  a person employed as a taxi cab driver; or (j)  a person who is employed as a seasonal employee in a hotel, motel, tourist resort, restaurant or tavern and provided with room and board. (k)  Revoked:  O. Reg. 443/08, s. 1. O. Reg. 285/01, s. 9 (1); O. Reg. 443/08, s. 1; O. Reg. 147/19, s. 7. (2) Part X of the Act does not apply to a construction employee who works in the construction industry if, (a)  the employee’s period of employment is less than five years and the employee receives 7.7 per cent or more of his or her hourly rate or wages for vacation pay or holiday pay; or (b)  the employee’s period of employment is five years or more and the employee receives 9.7 per cent or more of his or her hourly rate or wages for vacation pay or holiday pay. O. Reg. 526/17, s. 10. 9.1 Revoked: O. Reg. 498/18, s. 8. Exemption re Retail Business Establishments",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK23\"></a><b>9.</b><b> </b>(1) Part X of the Act does not apply to,</p> <p class=\"clause-e\">  (a)  a person employed as a firefighter as defined in section 1 of the <i>Fire Protection and Prevention Act, 1997</i>;</p> <p class=\"clause-e\">  (b)  a person employed as a hunting or fishing guide or a wilderness guide;</p> <p class=\"clause-e\">  (c)  a person employed,</p> <p class=\"subclause-e\">  (i)  as a landscape gardener, or</p> <p class=\"subclause-e\">  (ii)  to install and maintain swimming pools;</p> <p class=\"clause-e\">  (d)  a person whose employment is directly related to,</p> <p class=\"subclause-e\">  (i)  mushroom growing,</p> <p class=\"subclause-e\">  (ii)  the growing of flowers for the retail and wholesale trade,</p> <p class=\"subclause-e\">  (iii)  the growing, transporting and laying of sod,</p> <p class=\"subclause-e\">  (iv)  the growing of trees and shrubs for the retail and wholesale trade,</p> <p class=\"subclause-e\">  (v)  the breeding and boarding of horses on a farm, or</p> <p class=\"subclause-e\">  (vi)  the keeping of furbearing mammals, as defined in the <i>Fish and Wildlife Conservation Act, 1997</i>, for propagation or the production of pelts for commercial purposes;</p> <p class=\"clause-e\">  (e)  a person employed as a student to instruct or supervise children;</p> <p class=\"clause-e\">  (f)  a person employed as a student at a camp for children;</p> <p class=\"clause-e\">  (g)  a person who is employed as a student in a recreational program operated by a charitable organization registered under Part I of the <i>Income Tax Act</i> (Canada) and whose work or duties are directly connected with the recreational program;</p> <p class=\"clause-e\">  (h)  a person who is employed as the superintendent, janitor or caretaker of a residential building and resides in the building;</p> <p class=\"clause-e\">  (i)  a person employed as a taxi cab driver; or</p> <p class=\"clause-e\">  (j)  a person who is employed as a seasonal employee in a hotel, motel, tourist resort, restaurant or tavern and provided with room and board.</p> <p class=\"clause-e\">  (k)  <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 443/08, s. 1.</p> <p class=\"footnote-e\">O. Reg. 285/01, s. 9 (1); O. Reg. 443/08, s. 1; O. Reg. 147/19, s. 7.</p> <p class=\"subsection-e\">  (2) Part X of the Act does not apply to a construction employee who works in the construction industry if,</p> <p class=\"clause-e\">  (a)  the employee’s period of employment is less than five years and the employee receives 7.7 per cent or more of his or her hourly rate or wages for vacation pay or holiday pay; or</p> <p class=\"clause-e\">  (b)  the employee’s period of employment is five years or more and the employee receives 9.7 per cent or more of his or her hourly rate or wages for vacation pay or holiday pay. O. Reg. 526/17, s. 10.</p> <p class=\"section-e\"> <b>9.1 </b><span class=\"ovsmallcap\">Revoked:</span> O. Reg. 498/18, s. 8.</p> <p class=\"heading1-e\"><a name=\"BK24\"></a>Exemption re Retail Business Establishments</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "Exemption re Retail Business Establishments",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemption re Retail Business Establishments",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "10.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Application of s. 73 of Act",
+            "content": " 10. (1) Despite section 73 of the Act, an employee in a retail business establishment shall not refuse to work on a Sunday if he or she agreed, at the time of being hired, to work on Sundays.  O. Reg. 285/01, s. 10 (1). (2) Subsection (1) does not apply to an employee who declines to work on a Sunday for reasons of religious belief or religious observance.  O. Reg. 285/01, s. 10 (2). (3) The employer shall not make an employee’s agreement to work on Sundays a condition of being hired if the condition would be contrary to section 11 of the Human Rights Code.  O. Reg. 285/01, s. 10 (3). Exemptions re Temporary Help Agencies",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK25\"></a><b>10.</b><b> </b>(1) Despite section 73 of the Act, an employee in a retail business establishment shall not refuse to work on a Sunday if he or she agreed, at the time of being hired, to work on Sundays.  O. Reg. 285/01, s. 10 (1).</p> <p class=\"subsection-e\"><b> </b>(2) Subsection (1) does not apply to an employee who declines to work on a Sunday for reasons of religious belief or religious observance.  O. Reg. 285/01, s. 10 (2).</p> <p class=\"subsection-e\">  (3) The employer shall not make an employee’s agreement to work on Sundays a condition of being hired if the condition would be contrary to section 11 of the <i>Human Rights Code</i>.  O. Reg. 285/01, s. 10 (3).</p> <p class=\"heading1-e\"><a name=\"BK26\"></a>Exemptions re Temporary Help Agencies</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "Exemptions re Temporary Help Agencies",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions re Temporary Help Agencies",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "10.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions from Part XVIII.1 of Act",
+            "content": " 10.1 Part XVIII.1 of the Act does not apply in relation to an individual who is an assignment employee assigned to provide professional services, personal support services or homemaking services within the meaning of Ontario Regulation 187/22 (Home and Community Care Services) made under the Connecting Care Act, 2019 if the assignment is made under a contract between, (a)  the individual and a local health integration network within the meaning of the Local Health System Integration Act, 2006; or (b)  an employer of the individual and a local health integration network within the meaning of the Local Health System Integration Act, 2006. O. Reg. 196/22, s. 1. Special Rules re Homemakers",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK27\"></a><b>10.1 </b>Part XVIII.1 of the Act does not apply in relation to an individual who is an assignment employee assigned to provide professional services, personal support services or homemaking services within the meaning of Ontario Regulation 187/22 (Home and Community Care Services) made under the <i>Connecting Care Act, 2019</i> if the assignment is made under a contract between,</p> <p class=\"clause-e\">  (a)  the individual and a local health integration network within the meaning of the <i>Local Health System Integration Act, 2006</i>; or</p> <p class=\"clause-e\">  (b)  an employer of the individual and a local health integration network within the meaning of the <i>Local Health System Integration Act, 2006</i>. O. Reg. 196/22, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK28\"></a>Special Rules re Homemakers</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "Special Rules re Homemakers",
+            "part_id": null,
+            "part_type": null,
+            "section": "Special Rules re Homemakers",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "11.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Homemakers",
+            "content": " 11. (1) In this section,  “homemaker” means a person who is employed, (a)  to perform homemaking services for a householder or member of a household in the householder’s private residence, and (b)  by a person other than the householder.  O. Reg. 285/01, s. 11 (1). (2) Despite section 1.1, the hours of work in respect of which a homemaker is to be paid at least the minimum wage shall be not more than 12 hours in a day.  O. Reg. 285/01, s. 11 (2); O. Reg. 526/17, s. 12. (3) Parts VII (Hours of Work and Eating Periods) and VIII (Overtime Pay) and paragraph 4 of subsection 15 (1) (record of hours worked) of the Act do not apply to a homemaker who is paid in accordance with subsection (2).  O. Reg. 285/01, s. 11 (3). Special Rules re Homeworkers",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK29\"></a><b>11.</b><b> </b>(1) In this section, </p> <p class=\"firstdef-e\">“homemaker” means a person who is employed,</p> <p class=\"defclause-e\">  (a)  to perform homemaking services for a householder or member of a household in the householder’s private residence, and</p> <p class=\"defclause-e\">  (b)  by a person other than the householder.  O. Reg. 285/01, s. 11 (1).</p> <p class=\"subsection-e\">  (2) Despite section 1.1, the hours of work in respect of which a homemaker is to be paid at least the minimum wage shall be not more than 12 hours in a day.  O. Reg. 285/01, s. 11 (2); O. Reg. 526/17, s. 12.</p> <p class=\"subsection-e\">  (3) Parts VII (Hours of Work and Eating Periods) and VIII (Overtime Pay) and paragraph 4 of subsection 15 (1)<b> </b>(record of hours worked) of the Act do not apply to a homemaker who is paid in accordance with subsection (2).  O. Reg. 285/01, s. 11 (3).</p> <p class=\"heading1-e\"><a name=\"BK30\"></a>Special Rules re Homeworkers</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "Special Rules re Homeworkers",
+            "part_id": null,
+            "part_type": null,
+            "section": "Special Rules re Homeworkers",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "12.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Homeworkers",
+            "content": " 12. (1) The employer of a homeworker shall advise the homeworker in writing of the type of work that he or she is being employed to perform and, (a)  if the homeworker is to be paid according to the number of hours worked, of the amount to be paid for an hour of work in a regular work week; (b)  if the homeworker is to be paid according to the number of articles or things manufactured, of the amount to be paid for each article or thing manufactured in a regular work week; or (c)  if the homeworker is to be paid on some other basis, the basis on which he or she is to be paid.  O. Reg. 285/01, s. 12 (1). (2) If the employer of a homeworker who is paid according to the number of articles or things manufactured requires the manufacture of a certain number of articles or things to be completed by a certain date or time, the employer shall advise the homeworker of those requirements in writing.  O. Reg. 285/01, s. 12 (2). (3) In this section, “manufacture” includes preparation, improvement, repair, alteration, assembly or completion.  O. Reg. 285/01, s. 12 (3). Special Rules and Exemptions re Overtime Pay",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK31\"></a><b>12.</b><b> </b>(1) The employer of a homeworker shall advise the homeworker in writing of the type of work that he or she is being employed to perform and,</p> <p class=\"clause-e\">  (a)  if the homeworker is to be paid according to the number of hours worked, of the amount to be paid for an hour of work in a regular work week;</p> <p class=\"clause-e\">  (b)  if the homeworker is to be paid according to the number of articles or things manufactured, of the amount to be paid for each article or thing manufactured in a regular work week; or</p> <p class=\"clause-e\">  (c)  if the homeworker is to be paid on some other basis, the basis on which he or she is to be paid.  O. Reg. 285/01, s. 12 (1).</p> <p class=\"subsection-e\">  (2) If the employer of a homeworker who is paid according to the number of articles or things manufactured requires the manufacture of a certain number of articles or things to be completed by a certain date or time, the employer shall advise the homeworker of those requirements in writing.  O. Reg. 285/01, s. 12 (2).</p> <p class=\"subsection-e\">  (3) In this section, </p> <p class=\"firstdef-e\">“manufacture” includes preparation, improvement, repair, alteration, assembly or completion.  O. Reg. 285/01, s. 12 (3).</p> <p class=\"heading1-e\"><a name=\"BK32\"></a>Special Rules and Exemptions re Overtime Pay</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "Special Rules and Exemptions re Overtime Pay",
+            "part_id": null,
+            "part_type": null,
+            "section": "Special Rules and Exemptions re Overtime Pay",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "13.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Road building",
+            "content": " 13. (1) Despite Part VIII of the Act, in the case of an employee engaged at the site of road building in relation to streets, highways or parking lots,  (a)  subject to clause (b), the employer shall pay overtime pay for each hour worked in excess of 55 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate; and (b)  if the employee works less than 55 hours in a work week, the difference between 55 hours and the number of hours actually worked, up to an amount not exceeding 22 hours, may be added to the maximum set out in clause (a) for the purpose of determining the employee’s overtime pay for the next work week.  O. Reg. 285/01, s. 13 (1). (2) Despite Part VIII of the Act, in the case of an employee engaged at the site of road building in relation to structures such as bridges, tunnels or retaining walls in connection with streets or highways, (a)  subject to clause (b), the employer shall pay overtime pay for each hour worked in excess of 50 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate; and (b)  if the employee works less than 50 hours in a work week, the difference between 50 hours and the number of hours actually worked, up to an amount not exceeding 22 hours, may be added to the maximum set out in clause (a) for the purpose of determining the employee’s overtime pay for the next work week.  O. Reg. 285/01, s. 13 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK33\"></a><b>13.</b><b> </b>(1) Despite Part VIII of the Act, in the case of an employee engaged at the site of road building in relation to streets, highways or parking lots, </p> <p class=\"clause-e\">  (a)  subject to clause (b), the employer shall pay overtime pay for each hour worked in excess of 55 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate; and</p> <p class=\"clause-e\">  (b)  if the employee works less than 55 hours in a work week, the difference between 55 hours and the number of hours actually worked, up to an amount not exceeding 22 hours, may be added to the maximum set out in clause (a) for the purpose of determining the employee’s overtime pay for the next work week.  O. Reg. 285/01, s. 13 (1).</p> <p class=\"subsection-e\">  (2) Despite Part VIII of the Act, in the case of an employee engaged at the site of road building in relation to structures such as bridges, tunnels or retaining walls in connection with streets or highways,</p> <p class=\"clause-e\">  (a)  subject to clause (b), the employer shall pay overtime pay for each hour worked in excess of 50 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate; and</p> <p class=\"clause-e\">  (b)  if the employee works less than 50 hours in a work week, the difference between 50 hours and the number of hours actually worked, up to an amount not exceeding 22 hours, may be added to the maximum set out in clause (a) for the purpose of determining the employee’s overtime pay for the next work week.  O. Reg. 285/01, s. 13 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "14.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Hotels, motels, tourist resorts, restaurants and taverns",
+            "content": " 14. Despite Part VIII of the Act, the employer shall pay an employee who works for the owner or operator of a hotel, motel, tourist resort, restaurant or tavern for 24 weeks or less in a calendar year and who is provided with room and board overtime pay for each hour worked in excess of 50 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate.  O. Reg. 285/01, s. 14.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK34\"></a><b>14.</b><b> </b>Despite Part VIII of the Act, the employer shall pay an employee who works for the owner or operator of a hotel, motel, tourist resort, restaurant or tavern for 24 weeks or less in a calendar year and who is provided with room and board overtime pay for each hour worked in excess of 50 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate.  O. Reg. 285/01, s. 14.</p>"
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "15.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Fresh fruit and vegetable processing",
+            "content": " 15. Despite Part VIII of the Act, the employer shall pay a seasonal employee whose employment is directly related to the canning, processing and packing of fresh fruits or vegetables or their distribution by the canner, processor or packer overtime pay for each hour worked in excess of 50 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate.  O. Reg. 285/01, s. 15.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK35\"></a><b>15.</b><b> </b>Despite Part VIII of the Act, the employer shall pay a seasonal employee whose employment is directly related to the canning, processing and packing of fresh fruits or vegetables or their distribution by the canner, processor or packer overtime pay for each hour worked in excess of 50 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate.  O. Reg. 285/01, s. 15.</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "16.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Sewer and watermain construction",
+            "content": " 16. Despite Part VIII of the Act, the employer shall pay an employee who is employed in laying, altering, repairing or maintaining sewers and watermain and in work incidental thereto, or in guarding the site during the laying, altering, repairing or maintaining of sewers and watermain, overtime pay for each hour worked in excess of 50 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate.  O. Reg. 285/01, s. 16.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK36\"></a><b>16.</b><b> </b>Despite Part VIII of the Act, the employer shall pay an employee who is employed in laying, altering, repairing or maintaining sewers and watermain and in work incidental thereto, or in guarding the site during the laying, altering, repairing or maintaining of sewers and watermain, overtime pay for each hour worked in excess of 50 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate.  O. Reg. 285/01, s. 16.</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "17.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Local cartage",
+            "content": " 17. (1) Despite Part VIII of the Act, the employer shall pay an employee who is a driver of a vehicle or a driver’s helper overtime pay for each hour worked in excess of 50 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate.  O. Reg. 285/01, s. 17 (1). (2) Subsection (1) applies to employees who are, (a)  drivers of vehicles used in the business of carrying goods for hire within a municipality or to any point not more than five kilometres beyond the municipality’s limits; or (b)  drivers’ helpers on such vehicles.  O. Reg. 285/01, s. 17 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK37\"></a><b>17.</b><b> </b>(1) Despite Part VIII of the Act, the employer shall pay an employee who is a driver of a vehicle or a driver’s helper overtime pay for each hour worked in excess of 50 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate.  O. Reg. 285/01, s. 17 (1).</p> <p class=\"subsection-e\">  (2) Subsection (1) applies to employees who are,</p> <p class=\"clause-e\">  (a)  drivers of vehicles used in the business of carrying goods for hire within a municipality or to any point not more than five kilometres beyond the municipality’s limits; or</p> <p class=\"clause-e\">  (b)  drivers’ helpers on such vehicles.  O. Reg. 285/01, s. 17 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "18.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Highway transport",
+            "content": " 18. (1) Despite Part VIII of the Act, the employer shall pay an employee to whom this subsection applies overtime pay for each hour worked in excess of 60 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate.  O. Reg. 18/06, s. 1. (2) Subsection (1) applies to an employee who is the driver of any of the following: 1.  A truck whose operator held an operating licence under the former Act on December 31, 2005. 2.  A truck whose operator held a certificate of intercorporate exemption under the former Act on December 31, 2005, if after that date the truck is operated to carry, for compensation, goods of another person who is not an affiliated corporation under the former Act, such that the operator would be required to hold an operating licence under the former Act if it were still in force. 3.  A truck that is operated to carry goods of another person for compensation, if the operator, i.  did not hold an operating licence or a certificate of intercorporate exemption under the former Act on December 31, 2005, and ii.  would be required to hold an operating licence under the former Act if it were still in force.  O. Reg. 18/06, s. 1. (3) For the purposes of paragraph 2 of subsection (2), subsection 3 (6) of the former Act does not apply.  O. Reg. 18/06, s. 1. (4) For the purposes of subparagraph 3 ii of subsection (2), subsections 3 (5) and (6) of the former Act do not apply.  O. Reg. 18/06, s. 1. (5) Subsection (1) does not apply to an employee to whom section 17 applies.  O. Reg. 18/06, s. 1. (6) For the purposes of this section, in computing the number of hours worked by an employee in a week, only the hours during which he or she is directly responsible for the truck shall be included.  O. Reg. 18/06, s. 1. (7) In this section, “commercial motor vehicle” has the same meaning as in the former Act; (“véhicule automobile utilitaire”) “former Act” means the Truck Transportation Act; (“ancienne loi”) “operate” has the same meaning as in the former Act, and “operator” has a corresponding meaning; (“exploiter”, “exploitant”) “truck” means a commercial motor vehicle or the combination of a commercial motor vehicle and trailer or trailers drawn by it. (“camion”)  O. Reg. 18/06, s. 1. Special Rules re Domestic Workers",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK38\"></a><b>18. </b>(1) Despite Part VIII of the Act, the employer shall pay an employee to whom this subsection applies overtime pay for each hour worked in excess of 60 hours in a work week, at an amount not less than one and one-half times the employee’s regular rate.  O. Reg. 18/06, s. 1.</p> <p class=\"subsection-e\">  (2) Subsection (1) applies to an employee who is the driver of any of the following:</p> <p class=\"paragraph-e\">  1.  A truck whose operator held an operating licence under the former Act on December 31, 2005.</p> <p class=\"paragraph-e\">  2.  A truck whose operator held a certificate of intercorporate exemption under the former Act on December 31, 2005, if after that date the truck is operated to carry, for compensation, goods of another person who is not an affiliated corporation under the former Act, such that the operator would be required to hold an operating licence under the former Act if it were still in force.</p> <p class=\"paragraph-e\">  3.  A truck that is operated to carry goods of another person for compensation, if the operator,</p> <p class=\"subpara-e\">  i.  did not hold an operating licence or a certificate of intercorporate exemption under the former Act on December 31, 2005, and</p> <p class=\"subpara-e\">  ii.  would be required to hold an operating licence under the former Act<i> </i>if it were still in force.  O. Reg. 18/06, s. 1.</p> <p class=\"subsection-e\">  (3) For the purposes of paragraph 2 of subsection (2), subsection 3 (6) of the former Act does not apply.  O. Reg. 18/06, s. 1.</p> <p class=\"subsection-e\">  (4) For the purposes of subparagraph 3 ii of subsection (2), subsections 3 (5) and (6) of the former Act do not apply.  O. Reg. 18/06, s. 1.</p> <p class=\"subsection-e\">  (5) Subsection (1) does not apply to an employee to whom section 17 applies.  O. Reg. 18/06, s. 1.</p> <p class=\"subsection-e\">  (6) For the purposes of this section, in computing the number of hours worked by an employee in a week, only the hours during which he or she is directly responsible for the truck shall be included.  O. Reg. 18/06, s. 1.</p> <p class=\"subsection-e\">  (7) In this section,</p> <p class=\"firstdef-e\">“commercial motor vehicle” has the same meaning as in the former Act; (“véhicule automobile utilitaire”)</p> <p class=\"definition-e\">“former Act” means the <i>Truck Transportation Act</i>; (“ancienne loi”)</p> <p class=\"definition-e\">“operate” has the same meaning as in the former Act, and “operator” has a corresponding meaning; (“exploiter”, “exploitant”)</p> <p class=\"definition-e\">“truck” means a commercial motor vehicle or the combination of a commercial motor vehicle and trailer or trailers drawn by it. (“camion”)  O. Reg. 18/06, s. 1.</p> <p class=\"heading1-e\"><a name=\"BK39\"></a>Special Rules re Domestic Workers</p>"
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "Special Rules re Domestic Workers",
+            "part_id": null,
+            "part_type": null,
+            "section": "Special Rules re Domestic Workers",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "19.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Domestic workers",
+            "content": " 19. (1) A householder shall provide the domestic worker with written particulars of employment respecting, (a)  the regular hours of work, including the starting and finishing times; and (b)  the hourly rate of pay.  O. Reg. 285/01, s. 19 (1). (2) If the householder provides room or board to the domestic worker, the following are the amounts that shall be deemed to have been paid as wages for the purposes of determining whether the minimum wage has been paid: 1.  For a private room, $31.70 a week. 2.  For a non-private room, $0.00. 3.  For board, $2.55 a meal and not more than $53.55 a week. 4.  For both room and board, $85.25 a week if the room is private and $53.55 a week if the room is not private. O. Reg. 31/14, s. 3 (1); O. Reg. 526/17, s. 13. (3) The amount provided in subsection (2) in respect of a room shall be deemed to have been paid as wages only if the room is, (a)  reasonably furnished and reasonably fit for human habitation; (b)  supplied with clean bed linen and towels; and (c)  reasonably accessible to proper toilet and wash-basin facilities.  O. Reg. 285/01, s. 19 (3). (4) Room or board shall not be deemed to have been paid by the householder to the domestic worker as wages unless the employee has received the meals or occupied the room.  O. Reg. 285/01, s. 19 (4); O. Reg. 31/14, s. 3 (2). Special Rules re Residential Care Workers",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK40\"></a>19.</b><b> </b>(1) A householder shall provide the domestic worker with written particulars of employment respecting,</p> <p class=\"clause-e\">  (a)  the regular hours of work, including the starting and finishing times; and</p> <p class=\"clause-e\">  (b)  the hourly rate of pay.  O. Reg. 285/01, s. 19 (1).</p> <p class=\"subsection-e\">  (2) If the householder provides room or board to the domestic worker, the following are the amounts that shall be deemed to have been paid as wages for the purposes of determining whether the minimum wage has been paid:</p> <p class=\"paragraph-e\">  1.  For a private room, $31.70 a week.</p> <p class=\"paragraph-e\">  2.  For a non-private room, $0.00.</p> <p class=\"paragraph-e\">  3.  For board, $2.55 a meal and not more than $53.55 a week.</p> <p class=\"paragraph-e\">  4.  For both room and board, $85.25 a week if the room is private and $53.55 a week if the room is not private. O. Reg. 31/14, s. 3 (1); O. Reg. 526/17, s. 13.</p> <p class=\"subsection-e\">  (3) The amount provided in subsection (2) in respect of a room shall be deemed to have been paid as wages only if the room is,</p> <p class=\"clause-e\">  (a)  reasonably furnished and reasonably fit for human habitation;</p> <p class=\"clause-e\">  (b)  supplied with clean bed linen and towels; and</p> <p class=\"clause-e\">  (c)  reasonably accessible to proper toilet and wash-basin facilities.  O. Reg. 285/01, s. 19 (3).</p> <p class=\"subsection-e\">  (4) Room or board shall not be deemed to have been paid by the householder to the domestic worker as wages unless the employee has received the meals or occupied the room.  O. Reg. 285/01, s. 19 (4); O. Reg. 31/14, s. 3 (2).</p> <p class=\"heading1-e\"><a name=\"BK41\"></a>Special Rules re Residential Care Workers</p>"
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "Special Rules re Residential Care Workers",
+            "part_id": null,
+            "part_type": null,
+            "section": "Special Rules re Residential Care Workers",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "20.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Residential care workers",
+            "content": " 20. (1) In this section, “day” means the 24-hour period between 12:00 midnight on a day and 12:00 midnight on the next day.  O. Reg. 285/01, s. 20 (1). (2) Despite section 1.1 and subject to subsection (3), the employer shall pay to a residential care worker for each day of work wages in a minimum amount, not less than an amount calculated by multiplying 12 hours by the worker’s regular rate, which shall not be less than the minimum wage.  O. Reg. 285/01, s. 20 (2); O. Reg. 526/17, s. 14. (3) If a residential care worker, by arrangement with the employer, is free from the performance of normal and regular duties in a day and as a result works less than 12 hours, the worker shall be paid wages not less than an amount calculated by multiplying the number of hours actually worked by the worker’s regular rate as mentioned in subsection (2).  O. Reg. 285/01, s. 20 (3). (4) In addition to the wage payable under subsection (2), the employer shall pay to a residential care worker not less than the worker’s regular rate for not more than three additional hours worked in excess of 12 hours of work in a day, if the worker, (a)  makes and keeps an accurate daily record of the number of hours worked in the day; and (b)  provides the record to the employer on or before the first pay day after the pay day for the pay period in which the work is performed.  O. Reg. 285/01, s. 20 (4).",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK42\"></a>20.</b><b> </b>(1) In this section,</p> <p class=\"firstdef-e\">“day” means the 24-hour period between 12:00 midnight on a day and 12:00 midnight on the next day.  O. Reg. 285/01, s. 20 (1).</p> <p class=\"subsection-e\">  (2) Despite section 1.1 and subject to subsection (3), the employer shall pay to a residential care worker for each day of work wages in a minimum amount, not less than an amount calculated by multiplying 12 hours by the worker’s regular rate, which shall not be less than the minimum wage.  O. Reg. 285/01, s. 20 (2); O. Reg. 526/17, s. 14.</p> <p class=\"subsection-e\">  (3) If a residential care worker, by arrangement with the employer, is free from the performance of normal and regular duties in a day and as a result works less than 12 hours, the worker shall be paid wages not less than an amount calculated by multiplying the number of hours actually worked by the worker’s regular rate as mentioned in subsection (2).  O. Reg. 285/01, s. 20 (3).</p> <p class=\"subsection-e\">  (4) In addition to the wage payable under subsection (2), the employer shall pay to a residential care worker not less than the worker’s regular rate for not more than three additional hours worked in excess of 12 hours of work in a day, if the worker,</p> <p class=\"clause-e\">  (a)  makes and keeps an accurate daily record of the number of hours worked in the day; and </p> <p class=\"clause-e\">  (b)  provides the record to the employer on or before the first pay day after the pay day for the pay period in which the work is performed.  O. Reg. 285/01, s. 20 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "21.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Free time",
+            "content": " 21. (1) Despite section 18 of the Act, every employer shall give to a residential care worker not less than 36 hours in each work week, either consecutive or as may be arranged with the consent of the worker, free from the performance of any duties for the employer.  O. Reg. 285/01, s. 21 (1). (2) If the residential care worker consents, at the employer’s request, to do work during a free hour mentioned in subsection (1), (a)  that hour shall be added to one of the next eight 36-hour periods of free time; or (b)  the employer shall pay the residential care worker at least one and one-half times the worker’s regular rate for the time spent doing work during a free hour.  O. Reg. 285/01, s. 21 (2).",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK43\"></a><b>21.</b><b> </b>(1) Despite section 18 of the Act, every employer shall give to a residential care worker not less than 36 hours in each work week, either consecutive or as may be arranged with the consent of the worker, free from the performance of any duties for the employer.  O. Reg. 285/01, s. 21 (1).</p> <p class=\"subsection-e\">  (2) If the residential care worker consents, at the employer’s request, to do work during a free hour mentioned in subsection (1), </p> <p class=\"clause-e\">  (a)  that hour shall be added to one of the next eight 36-hour periods of free time; or</p> <p class=\"clause-e\">  (b)  the employer shall pay the residential care worker at least one and one-half times the worker’s regular rate for the time spent doing work during a free hour.  O. Reg. 285/01, s. 21 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "22.",
+            "part_id": null,
+            "part_type": null,
+            "section": "When work deemed not to be performed",
+            "content": " 22. Despite section 1.1, work shall be deemed not to be performed during any time that satisfies the following conditions: 1.  The residential care worker spends the time at the dwelling or cottage, i.  attending to private affairs or pursuits, or ii.  resting, sleeping or eating. 2.  The time is, by agreement with the employer, free from the performance of any duties.  O. Reg. 285/01, s. 22; O. Reg. 526/17, s. 15.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK44\"></a><b>22.</b><b> </b>Despite section 1.1, work shall be deemed not to be performed during any time that satisfies the following conditions:</p> <p class=\"paragraph-e\">  1.  The residential care worker spends the time at the dwelling or cottage,</p> <p class=\"subpara-e\">  i.  attending to private affairs or pursuits, or</p> <p class=\"subpara-e\">  ii.  resting, sleeping or eating.</p> <p class=\"paragraph-e\">  2.  The time is, by agreement with the employer, free from the performance of any duties.  O. Reg. 285/01, s. 22; O. Reg. 526/17, s. 15.</p>"
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "23.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemptions",
+            "content": " 23. Parts VII (Hours of Work and Eating Periods) and VIII (Overtime Pay) and paragraph 4 of subsection 15 (1) (record of hours worked) of the Act do not apply to or in respect of a residential care worker.  O. Reg. 285/01, s. 23. Special Rules re Fruit, Vegetable and Tobacco Harvesters",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK45\"></a><b>23.</b><b> </b>Parts VII (Hours of Work and Eating Periods) and VIII (Overtime Pay) and paragraph 4 of subsection 15 (1) (record of hours worked) of the Act do not apply to or in respect of a residential care worker.  O. Reg. 285/01, s. 23.</p> <p class=\"heading1-e\"><a name=\"BK46\"></a>Special Rules re Fruit, Vegetable and Tobacco Harvesters</p>"
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "Special Rules re Fruit, Vegetable and Tobacco Harvesters",
+            "part_id": null,
+            "part_type": null,
+            "section": "Special Rules re Fruit, Vegetable and Tobacco Harvesters",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "24.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Application",
+            "content": " 24. Sections 25, 25.1, 26 and 27 apply to an employee who is employed on a farm to harvest fruit, vegetables or tobacco for marketing or storage.  O. Reg. 285/01, s. 24; O. Reg. 498/18, s. 9.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK47\"></a><b>24.</b><b> </b>Sections 25, 25.1, 26 and 27 apply to an employee who is employed on a farm to harvest fruit, vegetables or tobacco for marketing or storage.  O. Reg. 285/01, s. 24; O. Reg. 498/18, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "25.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Minimum wage",
+            "content": " 25. (1) For each pay period, the employer shall pay to each employee an amount that is at least equal to the amount the employee would have earned at the minimum wage. O. Reg. 31/14, s. 4 (1). (2) The employer shall be deemed to comply with subsection (1) if employees are paid a piece work rate that is customarily and generally recognized in the area as having been set so that an employee exercising reasonable effort would, if paid such a rate, earn at least the minimum wage.  O. Reg. 285/01, s. 25 (2); O. Reg. 401/03, s. 4 (2); O. Reg. 294/07, s. 4 (2); O. Reg. 31/14, s. 4 (2). (3) Subsection (2) does not apply in respect of an employee described in subparagraph 1 i of subsection 23.1 (1) of the Act.  O. Reg. 285/01, s. 25 (3); O. Reg. 401/03, s. 4 (3); O. Reg. 294/07, s. 4 (3); O. Reg. 31/14, s. 4 (3); O. Reg. 526/17, s. 16 (1); O. Reg. 498/18, s. 10. (4) For the purposes of this section, “piece work rate” means a rate of pay calculated on the basis of a unit of work performed.  O. Reg. 285/01, s. 25 (4). (5) If an employer provides room or board to an employee, the following are the amounts which shall be deemed to have been paid by the employer to the employee as wages for the purposes of determining whether the minimum wage has been paid: 1.  For serviced housing accommodation, $99.35 a week. 2.  For housing accommodation, $73.30 a week. 3.  For room, $31.70 a week if the room is private and $15.85 a week if the room is not private. 4.  For board, $2.55 a meal and not more than $53.55 a week. 5.  For both room and board, $85.25 a week if the room is private and $69.40 a week if the room is not private. O. Reg. 31/14, s. 4 (4); O. Reg. 526/17, s. 16 (2). (6) The amount provided in subsection (5) in respect of housing accommodation shall be deemed to have been paid as wages only if the accommodation, (a)  is reasonably fit for human habitation; (b)  includes a kitchen with cooking facilities; (c)  includes at least two bedrooms or a bedroom and a living room; and (d)  has its own private toilet and washing facilities.  O. Reg. 285/01, s. 25 (6). (7) The amount provided in subsection (5) in respect of serviced housing accommodation shall be deemed to have been paid as wages only if, (a)  the accommodation complies with clauses (6) (a) to (d); and (b)  light, heat, fuel, water, gas or electricity are provided at the employer’s expense.  O. Reg. 285/01, s. 25 (7). (8) The amount provided in subsection (5) in respect of a room shall be deemed to have been paid as wages only if the room is, (a)  reasonably furnished and reasonably fit for human habitation; (b)  supplied with clean bed linen and towels; and (c)  reasonably accessible to proper toilet and wash-basin facilities.  O. Reg. 285/01, s. 25 (8). (9) Room or board shall not be deemed to have been paid by the employer to an employee as wages unless the employee has received the meals or occupied the room.  O. Reg. 285/01, s. 25 (9).",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK48\"></a>25.</b><b> </b>(1) For each pay period, the employer shall pay to each employee an amount that is at least equal to the amount the employee would have earned at the minimum wage. O. Reg. 31/14, s. 4 (1).</p> <p class=\"subsection-e\">  (2) The employer shall be deemed to comply with subsection (1) if employees are paid a piece work rate that is customarily and generally recognized in the area as having been set so that an employee exercising reasonable effort would, if paid such a rate, earn at least the minimum wage.  O. Reg. 285/01, s. 25 (2); O. Reg. 401/03, s. 4 (2); O. Reg. 294/07, s. 4 (2); O. Reg. 31/14, s. 4 (2).</p> <p class=\"subsection-e\">  (3) Subsection (2) does not apply in respect of an employee described in subparagraph 1 i of subsection 23.1 (1) of the Act.  O. Reg. 285/01, s. 25 (3); O. Reg. 401/03, s. 4 (3); O. Reg. 294/07, s. 4 (3); O. Reg. 31/14, s. 4 (3); O. Reg. 526/17, s. 16 (1); O. Reg. 498/18, s. 10.</p> <p class=\"subsection-e\">  (4) For the purposes of this section, </p> <p class=\"firstdef-e\">“piece work rate” means a rate of pay calculated on<i> </i>the basis of<i> </i>a unit of work performed.  O. Reg. 285/01, s. 25 (4).</p> <p class=\"subsection-e\">  (5) If an employer provides room or board to an employee, the following are the amounts which shall be deemed to have been paid by the employer to the employee as wages for the purposes of determining whether the minimum wage has been paid:</p> <p class=\"paragraph-e\">  1.  For serviced housing accommodation, $99.35 a week.</p> <p class=\"paragraph-e\">  2.  For housing accommodation, $73.30 a week.</p> <p class=\"paragraph-e\">  3.  For room, $31.70 a week if the room is private and $15.85 a week if the room is not private.</p> <p class=\"paragraph-e\">  4.  For board, $2.55 a meal and not more than $53.55 a week.</p> <p class=\"paragraph-e\">  5.  For both room and board, $85.25 a week if the room is private and $69.40 a week if the room is not private. O. Reg. 31/14, s. 4 (4); O. Reg. 526/17, s. 16 (2).</p> <p class=\"subsection-e\">  (6) The amount provided in subsection (5) in respect of housing accommodation shall be deemed to have been paid as wages only if the accommodation,</p> <p class=\"clause-e\">  (a)  is reasonably fit for human habitation;</p> <p class=\"clause-e\">  (b)  includes a kitchen with cooking facilities;</p> <p class=\"clause-e\">  (c)  includes at least two bedrooms or a bedroom and a living room; and</p> <p class=\"clause-e\">  (d)  has its own private toilet and washing facilities.  O. Reg. 285/01, s. 25 (6).</p> <p class=\"subsection-e\">  (7) The amount provided in subsection (5) in respect of serviced housing accommodation shall be deemed to have been paid as wages only if,</p> <p class=\"clause-e\">  (a)  the accommodation complies with clauses (6) (a) to (d); and</p> <p class=\"clause-e\">  (b)  light, heat, fuel, water, gas or electricity are provided at the employer’s expense.  O. Reg. 285/01, s. 25 (7).</p> <p class=\"subsection-e\">  (8) The amount provided in subsection (5) in respect of a room shall be deemed to have been paid as wages only if the room is,</p> <p class=\"clause-e\">  (a)  reasonably furnished and reasonably fit for human habitation;</p> <p class=\"clause-e\">  (b)  supplied with clean bed linen and towels; and</p> <p class=\"clause-e\">  (c)  reasonably accessible to proper toilet and wash-basin facilities.  O. Reg. 285/01, s. 25 (8).</p> <p class=\"subsection-e\">  (9) Room or board shall not be deemed to have been paid by the employer to an employee as wages unless the employee has received the meals or occupied the room.  O. Reg. 285/01, s. 25 (9).</p>"
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "25.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Three hour rule",
+            "content": " 25.1 Part VII.1 of the Act applies to an employee described in section 24 of this Regulation. O. Reg. 498/18, s. 11.",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK49\"></a><b>25.1 </b>Part VII.1 of the Act applies to an employee described in section 24 of this Regulation. O. Reg. 498/18, s. 11.</p>"
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "26.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Vacation or vacation pay",
+            "content": " 26. (1) If an employee has been employed by the employer for 13 weeks or more, the employer shall, in accordance with Part XI of the Act, (a)  give the employee a vacation with pay; or (b)  pay the employee vacation pay.  O. Reg. 285/01, s. 26 (1). (2) An employee entitled to vacation pay under subsection (1) earns vacation pay from the commencement of his or her employment.  O. Reg. 285/01, s. 26 (2). (3) Section 41 of the Act does not apply to the employee.  O. Reg. 285/01, s. 26 (3).",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK50\"></a>26.</b><b> </b>(1) If an employee has been employed by the employer for 13 weeks or more, the employer shall, in accordance with Part XI of the Act,</p> <p class=\"clause-e\">  (a)  give the employee a vacation with pay; or</p> <p class=\"clause-e\">  (b)  pay the employee vacation pay.  O. Reg. 285/01, s. 26 (1).</p> <p class=\"subsection-e\">  (2) An employee entitled to vacation pay under subsection (1) earns vacation pay from the commencement of his or her employment.  O. Reg. 285/01, s. 26 (2).</p> <p class=\"subsection-e\">  (3) Section 41 of the Act does not apply to the employee.  O. Reg. 285/01, s. 26 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "27.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Public holidays",
+            "content": " 27. (1) Part X of the Act applies to an employee who has been employed by an employer for a period of 13 weeks or more.  O. Reg. 285/01, s. 27 (1). (2) For the purposes of this section, an employee shall be deemed to be employed in a continuous operation.  O. Reg. 285/01, s. 27 (2). (3) Revoked:  O. Reg. 443/08, s. 2. Special Rules re Commission Automobile Sales Sector",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK51\"></a><b>27.</b><b> </b>(1) Part X of the Act applies to an employee who has been employed by an employer for a period of 13 weeks or more.  O. Reg. 285/01, s. 27 (1).</p> <p class=\"subsection-e\">  (2) For the purposes of this section, an employee shall be deemed to be employed in a continuous operation.  O. Reg. 285/01, s. 27 (2).</p> <p class=\"subsection-e\">  (3) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 443/08, s. 2.</p> <p class=\"heading1-e\"><a name=\"BK52\"></a>Special Rules re Commission Automobile Sales Sector</p>"
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "Special Rules re Commission Automobile Sales Sector",
+            "part_id": null,
+            "part_type": null,
+            "section": "Special Rules re Commission Automobile Sales Sector",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "28.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Commission automobile sales sector",
+            "content": " 28. (1) This section applies with respect to employees who sell automobiles partially or exclusively on a commission basis.  O. Reg. 285/01, s. 28 (1). (2) For each pay period, the employer shall pay to each employee an amount that is at least equal to the amount the employee would have earned at the minimum wage.  O. Reg. 285/01, s. 28 (2); O. Reg. 401/03, s. 5; O. Reg. 294/07, s. 5; O. Reg. 31/14, s. 5 (1). (3) A pay period shall not exceed one month.  O. Reg. 285/01, s. 28 (3). (4) Payments made to an employee shall be reconciled with wages earned by the employee for each reconciliation period.  O. Reg. 285/01, s. 28 (4). (5) No balance shall be carried forward past any reconciliation period.  O. Reg. 285/01, s. 28 (5). (6) The reconciliation of payments made to an employee and wages earned by an employee shall not result in any employee receiving less than the minimum wage for any pay period.  O. Reg. 285/01, s. 28 (6); O. Reg. 31/14, s. 5 (2). (7) For each year, the reconciliation periods shall be: 1.  January 1 - March 31. 2.  April 1 - June 30. 3.  July 1 - September 30. 4.  October 1 - December 31.  O. Reg. 285/01, s. 28 (7). (8) If an employee’s employment terminates before the end of a reconciliation period, payments made to the employee shall be reconciled with wages earned by him or her, and subsection (6) applies.  O. Reg. 285/01, s. 28 (8). 29. Revoked:  O. Reg. 443/08, s. 3. Director’s Approvals 30., 31. Revoked:  O. Reg. 50/05, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK53\"></a>28.</b><b> </b>(1) This section applies with respect to employees who sell automobiles partially or exclusively on a commission basis.  O. Reg. 285/01, s. 28 (1).</p> <p class=\"subsection-e\">  (2) For each pay period, the employer shall pay to each employee an amount that is at least equal to the amount the employee would have earned at the minimum wage.  O. Reg. 285/01, s. 28 (2); O. Reg. 401/03, s. 5; O. Reg. 294/07, s. 5; O. Reg. 31/14, s. 5 (1).</p> <p class=\"subsection-e\">  (3) A pay period shall not exceed one month.  O. Reg. 285/01, s. 28 (3).</p> <p class=\"subsection-e\">  (4) Payments made to an employee shall be reconciled with wages earned by the employee for each reconciliation period.  O. Reg. 285/01, s. 28 (4).</p> <p class=\"subsection-e\">  (5) No balance shall be carried forward past any reconciliation period.  O. Reg. 285/01, s. 28 (5).</p> <p class=\"subsection-e\">  (6) The reconciliation of payments made to an employee and wages earned by an employee shall not result in any employee receiving less than the minimum wage for any pay period.  O. Reg. 285/01, s. 28 (6); O. Reg. 31/14, s. 5 (2).</p> <p class=\"subsection-e\">  (7) For each year, the reconciliation periods shall be:</p> <p class=\"paragraph-e\">  1.  January 1 - March 31.</p> <p class=\"paragraph-e\">  2.  April 1 - June 30.</p> <p class=\"paragraph-e\">  3.  July 1 - September 30.</p> <p class=\"paragraph-e\">  4.  October 1 - December 31.  O. Reg. 285/01, s. 28 (7).</p> <p class=\"subsection-e\">  (8) If an employee’s employment terminates before the end of a reconciliation period, payments made to the employee shall be reconciled with wages earned by him or her, and subsection (6) applies.  O. Reg. 285/01, s. 28 (8).</p> <p class=\"section-e\"> <b>29. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 443/08, s. 3.</p> <p class=\"heading1-e\"><a name=\"BK54\"></a>Director’s Approvals</p> <p class=\"section-e\"><b>  30., 31. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 50/05, s. 1.</p>"
+        },
+        {
+            "ahref_id": "#BK54",
+            "TOCid": "Director’s Approvals",
+            "part_id": null,
+            "part_type": null,
+            "section": "Director’s Approvals",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK55",
+            "TOCid": "32.",
+            "part_id": null,
+            "part_type": null,
+            "section": "Certain approved agreements irrevocable",
+            "content": " 32. (1) Despite subsection 17 (6) of the Act, an agreement under subsection 17 (2) of the Act that was made at the time of the employee’s hiring and that has been approved by the Director is irrevocable unless both the employer and the employee agree to its revocation.  O. Reg. 285/01, s. 32 (1); O. Reg. 50/05, s. 2. (2) The Director may impose conditions in granting an approval.  O. Reg. 285/01, s. 32 (2). Exemption re Certain Existing Arrangements",
+            "raw_html": "<p class=\"section-e\"><b> <a name=\"BK55\"></a>32.</b><b> </b>(1) Despite subsection 17 (6) of the Act, an agreement under subsection 17 (2) of the Act that was made at the time of the employee’s hiring and that has been approved by the Director is irrevocable unless both the employer and the employee agree to its revocation.  O. Reg. 285/01, s. 32 (1); O. Reg. 50/05, s. 2.</p> <p class=\"subsection-e\">  (2) The Director may impose conditions in granting an approval.  O. Reg. 285/01, s. 32 (2).</p> <p class=\"heading1-e\"><a name=\"BK56\"></a>Exemption re Certain Existing Arrangements</p>"
+        },
+        {
+            "ahref_id": "#BK56",
+            "TOCid": "Exemption re Certain Existing Arrangements",
+            "part_id": null,
+            "part_type": null,
+            "section": "Exemption re Certain Existing Arrangements",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK57",
+            "TOCid": "32.1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Existing arrangements for long shifts",
+            "content": " 32.1 (1) Clause 17 (1) (a) of the Act does not apply with respect to the class of employees each of whom, (a)  has an arrangement described in subsection (2) with an employer to whom a permit was issued under section 18 of the Employment Standards Act; and (b)  is not required by the employer to work more than 10 hours a day.  O. Reg. 361/01, s. 1. (2) The arrangement, (a)  provides that the employee is willing to work, at the employer’s request, more hours per day than the number of hours in his or her regular work day; (b)  was made at or before the time of the employee’s hiring and before September 4, 2001; and (c)  has not been revoked by the mutual consent of the employer and employee.  O. Reg. 361/01, s. 1. (3) The terms of the arrangement need not be reduced to writing.  O. Reg. 361/01, s. 1. 33. Omitted (provides for coming into force of provisions of this Regulation).  O. Reg. 285/01, s. 33.  Français  ",
+            "raw_html": "<p class=\"section-e\"> <a name=\"BK57\"></a><b>32.1</b><b> </b>(1) Clause 17 (1) (a) of the Act does not apply with respect to the class of employees each of whom,</p> <p class=\"clause-e\">  (a)  has an arrangement described in subsection (2) with an employer to whom a permit was issued under section 18 of the <i>Employment Standards Act</i>; and</p> <p class=\"clause-e\">  (b)  is not required by the employer to work more than 10 hours a day.  O. Reg. 361/01, s. 1.</p> <p class=\"subsection-e\">  (2) The arrangement,</p> <p class=\"clause-e\">  (a)  provides that the employee is willing to work, at the employer’s request, more hours per day than the number of hours in his or her regular work day;</p> <p class=\"clause-e\">  (b)  was made at or before the time of the employee’s hiring and before September 4, 2001; and</p> <p class=\"clause-e\">  (c)  has not been revoked by the mutual consent of the employer and employee.  O. Reg. 361/01, s. 1.</p> <p class=\"subsection-e\">  (3) The terms of the arrangement need not be reduced to writing.  O. Reg. 361/01, s. 1.</p> <p class=\"section-e\"> <b>33.</b> <span class=\"ovsmallcap\">Omitted (provides for coming into force of provisions of this Regulation).</span>  O. Reg. 285/01, s. 33.</p> <p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/010285\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

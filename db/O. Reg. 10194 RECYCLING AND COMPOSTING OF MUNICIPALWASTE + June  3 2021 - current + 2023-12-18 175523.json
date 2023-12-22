@@ -1,0 +1,586 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 101/94: RECYCLING AND COMPOSTING OF MUNICIPAL WASTE",
+        "reg_name_text": "RECYCLING AND COMPOSTING OF MUNICIPAL WASTE",
+        "citation": "O. Reg. 101/94: RECYCLING AND COMPOSTING OF MUNICIPAL WASTE",
+        "act_under": "Environmental Protection Act   Loi sur la protection de l’environnement",
+        "url": "https://www.ontario.ca/laws/regulation/940101",
+        "date_scraped": "2023-12-18 17:55:27"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "June  3, 2021",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/940101/v4",
+            "valid_from": "October 31, 2011",
+            "valid_to": "June  2, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/940101/v3",
+            "valid_from": "June 14, 2011",
+            "valid_to": "October 30, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/940101/v2",
+            "valid_from": "March 23, 2007",
+            "valid_to": "June 13, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/940101/v1",
+            "valid_from": "March  3, 1994",
+            "valid_to": "March 22, 2007"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "PART I",
+            "Section": "None",
+            "Section1": "None",
+            "Section2": "Sections",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "PART II",
+            "Section": "None",
+            "Section1": "GENERAL",
+            "Section2": "1-6",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "PART III",
+            "Section": "None",
+            "Section1": "SYSTEMS REQUIRED IN MUNICIPALITIES",
+            "Section2": "None",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Blue Box Waste Management Systems",
+            "Section2": "7-10.1",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Leaf and Yard Waste Systems",
+            "Section2": "11-15",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "None",
+            "Section": "None",
+            "Section1": "Exemptions",
+            "Section2": "16",
+            "part_id": "PART III",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "PART IV",
+            "Section": "None",
+            "Section1": "MUNICIPAL WASTE RECYCLING DEPOTS",
+            "Section2": "17-20",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "PART V",
+            "Section": "None",
+            "Section1": "MUNICIPAL WASTE RECYCLING SITES",
+            "Section2": "21-28",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "PART V",
+            "Section": "None",
+            "Section1": "LEAF AND YARD WASTE COMPOSTING SITES",
+            "Section2": "29-35",
+            "part_id": "nan",
+            "part_type": "nan",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Table 1",
+            "Section": "None",
+            "Section1": "Table for determining how compost containing certain materials can be used",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule 1",
+            "Section": "None",
+            "Section1": "Blue box waste",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule 2",
+            "Section": "None",
+            "Section1": "Recyclable waste other than blue box waste",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "Schedule 3",
+            "Section": "None",
+            "Section1": "Recyclable waste other than blue box waste that cannot be commingled",
+            "Section2": "None",
+            "part_id": "PART V",
+            "part_type": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#1.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 1. (1) In this Regulation, “Blue Box Transition Schedule” has the same meaning as in Ontario Regulation 391/21 (Blue Box), made under the Resource Recovery and Circular Economy Act, 2016; Note: On January 1, 2026, the definition of “Blue Box Transition Schedule” in subsection 1 (1) of the Regulation is revoked. (See: O. Reg. 392/21, .s. 1 (2)) “blue box waste” means municipal waste that consists solely of waste in one or more of the categories set out in Schedule 1; “final disposal” means disposal by landfilling, by incineration, gasification, pyrolysis, plasma arc treatment or another method of thermal treatment, or by deposit at a dump that does not include the handling, storing, transferring, treating or processing of waste at the dump; “leaf and yard waste” includes waste consisting of natural Christmas trees and other plant materials but not tree limbs or other woody materials in excess of 7 centimetres in diameter; “Northern Ontario” means the territorial districts of Algoma, Cochrane, Kenora, Manitoulin, Nipissing, Parry Sound, Rainy River, Sudbury, Thunder Bay and Timiskaming and The Regional Municipality of Sudbury; “site” means one property and includes nearby properties owned or leased by the same person where passage from one property to another involves crossing, but not travelling along, a public highway; “Southern Ontario” means the parts of Ontario other than Northern Ontario.  O. Reg. 101/94, s. 1 (1); O. Reg. 107/07, s. 1; O. Reg. 392/21, .s. 1. (2) The definition of “municipal waste” in Regulation 347 of the Revised Regulations of Ontario, 1990 applies to this Regulation.  O. Reg. 101/94, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>(1) In this Regulation,</p> <p class=\"definition-e\">“Blue Box Transition Schedule” has the same meaning as in Ontario Regulation 391/21 (Blue Box), made under the <i>Resource Recovery and Circular Economy Act, 2016</i>;</p> <p class=\"Pnote-e\">Note: On January 1, 2026, the definition of “Blue Box Transition Schedule” in subsection 1 (1) of the Regulation is revoked. (See: O. Reg. 392/21, .s. 1 (2))</p> <p class=\"firstdef-e\">“blue box waste” means municipal waste that consists solely of waste in one or more of the categories set out in Schedule 1;</p> <p class=\"definition-e\">“final disposal” means disposal by landfilling, by incineration, gasification, pyrolysis, plasma arc treatment or another method of thermal treatment, or by deposit at a dump that does not include the handling, storing, transferring, treating or processing of waste at the dump;</p> <p class=\"definition-e\">“leaf and yard waste” includes waste consisting of natural Christmas trees and other plant materials but not tree limbs or other woody materials in excess of 7 centimetres in diameter;</p> <p class=\"definition-e\">“Northern Ontario” means the territorial districts of Algoma, Cochrane, Kenora, Manitoulin, Nipissing, Parry Sound, Rainy River, Sudbury, Thunder Bay and Timiskaming and The Regional Municipality of Sudbury;</p> <p class=\"definition-e\">“site” means one property and includes nearby properties owned or leased by the same person where passage from one property to another involves crossing, but not travelling along, a public highway;</p> <p class=\"definition-e\">“Southern Ontario” means the parts of Ontario other than Northern Ontario.  O. Reg. 101/94, s. 1 (1); O. Reg. 107/07, s. 1; O. Reg. 392/21, .s. 1.</p> <p class=\"subsection-e\">  (2) The definition of “municipal waste” in Regulation 347 of the Revised Regulations of Ontario, 1990 applies to this Regulation.  O. Reg. 101/94, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#2.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 2. (1) If a local municipality is within another municipality, that other municipality shall co-operate with the local municipality as necessary to enable the local municipality to fulfil any obligations it may have under this Regulation.  O. Reg. 101/94, s. 2 (1). (2) If a local municipality is within another municipality and the local municipality lacks the capacity to fulfil its obligations, or any part of its obligations, under this Regulation, that other municipality shall do whatever it has the capacity to do to enable the local municipality to fulfil its obligations.  O. Reg. 101/94, s. 2 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>(1) If a local municipality is within another municipality, that other municipality shall co-operate with the local municipality as necessary to enable the local municipality to fulfil any obligations it may have under this Regulation.  O. Reg. 101/94, s. 2 (1).</p> <p class=\"subsection-e\">  (2) If a local municipality is within another municipality and the local municipality lacks the capacity to fulfil its obligations, or any part of its obligations, under this Regulation, that other municipality shall do whatever it has the capacity to do to enable the local municipality to fulfil its obligations.  O. Reg. 101/94, s. 2 (2).</p>"
+        },
+        {
+            "ahref_id": "#3.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 3. A person who is required under this Regulation to submit a report to the Director shall prepare the report on a form provided by the Ministry or in the same format as such a form.  O. Reg. 101/94, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>A person who is required under this Regulation to submit a report to the Director shall prepare the report on a form provided by the Ministry or in the same format as such a form.  O. Reg. 101/94, s. 3.</p>"
+        },
+        {
+            "ahref_id": "#4.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 4. (1) The standards, procedures and requirements set out in this Regulation do not apply to the extent that terms and conditions set out in an environmental compliance approval impose different standards, procedures or requirements.  O. Reg. 101/94, s. 4 (1); O. Reg. 251/11, s. 1 (1). (2) Subsection (1) applies only with respect to, (a)  an environmental compliance approval issued on or after March 3, 1994; and (b)  terms and conditions of an environmental compliance approval added to the approval on or after March 3, 1994.  O. Reg. 251/11, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) The standards, procedures and requirements set out in this Regulation do not apply to the extent that terms and conditions set out in an environmental compliance approval impose different standards, procedures or requirements.  O. Reg. 101/94, s. 4 (1); O. Reg. 251/11, s. 1 (1).</p> <p class=\"subsection-e\">  (2) Subsection (1) applies only with respect to,</p> <p class=\"clause-e\">  (a)  an environmental compliance approval issued on or after March 3, 1994; and</p> <p class=\"clause-e\">  (b)  terms and conditions of an environmental compliance approval added to the approval on or after March 3, 1994.  O. Reg. 251/11, s. 1 (2).</p>"
+        },
+        {
+            "ahref_id": "#5.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 5. (1) The following waste disposal sites are exempt from sections 27, 40 and 41 of the Act and this Regulation other than subsection (2): 1.  A waste disposal site that, but for the exemption in this section, would be a municipal waste recycling site to which Part IV applies and that is located at a manufacturing establishment that uses all the output, other than residues, of the site. 2.  A waste disposal site owned or operated by or operated exclusively for a municipality or the Crown that, but for the exemption in this section, would be a municipal waste recycling depot to which Part III applies and that has a total waste storage capacity of less than 200 cubic metres.  O. Reg. 101/94, s. 5 (1). (2) Each operator and owner of a site referred to in paragraph 2 of subsection (1) shall ensure that all the waste at the site is removed at least every thirty days.  O. Reg. 101/94, s. 5 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>(1) The following waste disposal sites are exempt from sections 27, 40 and 41 of the Act and this Regulation other than subsection (2):</p> <p class=\"paragraph-e\">  1.  A waste disposal site that, but for the exemption in this section, would be a municipal waste recycling site to which Part IV applies and that is located at a manufacturing establishment that uses all the output, other than residues, of the site.</p> <p class=\"paragraph-e\">  2.  A waste disposal site owned or operated by or operated exclusively for a municipality or the Crown that, but for the exemption in this section, would be a municipal waste recycling depot to which Part III applies and that has a total waste storage capacity of less than 200 cubic metres.  O. Reg. 101/94, s. 5 (1).</p> <p class=\"subsection-e\">  (2) Each operator and owner of a site referred to in paragraph 2 of subsection (1) shall ensure that all the waste at the site is removed at least every thirty days.  O. Reg. 101/94, s. 5 (2).</p>"
+        },
+        {
+            "ahref_id": "#6.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 6. (1) A waste management system is exempt from sections 27 and 41 of the Act if the system’s only function is to collect or accept waste described in subsection (2) and transport it to a municipal waste recycling site as defined in Part IV.  O. Reg. 101/94, s. 6 (1). (2) The waste referred to in subsection (1) is waste that consists solely of waste from one or more of the categories set out in Schedule 1, 2 or 3 and that, (a)  in the case of waste from one or more of the categories set out in Schedule 1 or 2, has been separated from other kinds of waste; or (b)  in the case of waste from one of the categories set out in Schedule 3, has been separated from other kinds of waste and from each other category of waste in Schedule 3.  O. Reg. 101/94, s. 6 (2). PART II   SYSTEMS REQUIRED IN MUNICIPALITIES Blue Box Waste Management Systems",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b>(1) A waste management system is exempt from sections 27 and 41 of the Act if the system’s only function is to collect or accept waste described in subsection (2) and transport it to a municipal waste recycling site as defined in Part IV.  O. Reg. 101/94, s. 6 (1).</p> <p class=\"subsection-e\">  (2) The waste referred to in subsection (1) is waste that consists solely of waste from one or more of the categories set out in Schedule 1, 2 or 3 and that,</p> <p class=\"clause-e\">  (a)  in the case of waste from one or more of the categories set out in Schedule 1 or 2, has been separated from other kinds of waste; or</p> <p class=\"clause-e\">  (b)  in the case of waste from one of the categories set out in Schedule 3, has been separated from other kinds of waste and from each other category of waste in Schedule 3.  O. Reg. 101/94, s. 6 (2).</p> <p class=\"partnum-e\"><a name=\"BK1\"></a>PART II <br/>  SYSTEMS REQUIRED IN MUNICIPALITIES</p> <p class=\"heading1-e\">Blue Box Waste Management Systems</p>"
+        },
+        {
+            "ahref_id": "#7.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 7. (1) A local municipality that has a population of at least 5,000 shall establish, operate and maintain a blue box waste management system if the municipality is served by a waste management system owned by or operated by or for the municipality that collects municipal waste or accepts such waste from the public at a waste disposal site.  O. Reg. 101/94, s. 7 (1). (2) The blue box waste management system must include, (a)  if the waste management system that serves the municipality collects municipal waste directly from residential sources of waste, including buildings that house a number of residences, the collection, directly from those sources, of the source separated blue box waste described in subsection (3); (b)  the acceptance, wherever municipal waste is accepted from the public, of the source separated blue box waste described in subsection (3); (c)  measures to ensure that only blue box waste or waste set out in Schedule 2 is collected or accepted; (d)  the transportation of the waste that is collected or accepted to a municipal waste recycling site as defined in Part IV, to a user of the waste, to a distributor who distributes such waste to users, or to a waste disposal site; (e)  the provision of a municipal waste recycling site as defined in Part IV or the services of such a site to process all the categories of waste collected or accepted; (f)  reasonable efforts to ensure that the waste collected or accepted is processed and used; (g)  the provision of information to users and potential users of the blue box waste management system, (i)  describing the performance of the system, (ii)  encouraging effective source separation of blue box waste and full use of the blue box waste management system.  O. Reg. 101/94, s. 7 (2). (3) The source separated blue box waste referred to in clauses (2) (a) and (b) is blue box waste that has been source separated from other kinds of waste and that consists solely of waste from one or more of the following categories: 1.  The categories of basic blue box waste set out in Schedule 1. 2.  The categories of supplementary blue box waste set out in Schedule 1 that the blue box waste management system collects or accepts.  O. Reg. 101/94, s. 7 (3). (4) The blue box waste management system must collect or accept at least two categories of supplementary blue box waste set out in Schedule 1.  O. Reg. 101/94, s. 7 (4). (5) The frequency of the collection of source separated blue box waste required under clause (2) (a) must be at least half the frequency at which municipal waste is collected directly from the sources of the waste.  O. Reg. 101/94, s. 7 (5). (6) The blue box waste management system must be adequate to deal with the anticipated blue box waste and waste set out in Schedule 2.  O. Reg. 101/94, s. 7 (6). (7) The blue box waste management system must include the provision of adequate containers for the acceptance of source separated blue box waste required under clause (2) (b).  O. Reg. 101/94, s. 7 (7). (8) This section does not apply to a municipality after the date in the Blue Box Transition Schedule that sets out when that municipality will start to receive collection services in accordance with Part IV of Ontario Regulation 391/21 (Blue Box), made under the\r\nResource Recovery and Circular Economy Act, 2016. O. Reg. 392/21, .s. 2 (1). Note: On January 1, 2026, section 7 of the Regulation is revoked. (See: O. Reg. 392/21, .s. 2 (2))",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>(1) A local municipality that has a population of at least 5,000 shall establish, operate and maintain a blue box waste management system if the municipality is served by a waste management system owned by or operated by or for the municipality that collects municipal waste or accepts such waste from the public at a waste disposal site.  O. Reg. 101/94, s. 7 (1).</p> <p class=\"subsection-e\">  (2) The blue box waste management system must include,</p> <p class=\"clause-e\">  (a)  if the waste management system that serves the municipality collects municipal waste directly from residential sources of waste, including buildings that house a number of residences, the collection, directly from those sources, of the source separated blue box waste described in subsection (3);</p> <p class=\"clause-e\">  (b)  the acceptance, wherever municipal waste is accepted from the public, of the source separated blue box waste described in subsection (3);</p> <p class=\"clause-e\">  (c)  measures to ensure that only blue box waste or waste set out in Schedule 2 is collected or accepted;</p> <p class=\"clause-e\">  (d)  the transportation of the waste that is collected or accepted to a municipal waste recycling site as defined in Part IV, to a user of the waste, to a distributor who distributes such waste to users, or to a waste disposal site;</p> <p class=\"clause-e\">  (e)  the provision of a municipal waste recycling site as defined in Part IV or the services of such a site to process all the categories of waste collected or accepted;</p> <p class=\"clause-e\">  (f)  reasonable efforts to ensure that the waste collected or accepted is processed and used;</p> <p class=\"clause-e\">  (g)  the provision of information to users and potential users of the blue box waste management system,</p> <p class=\"subclause-e\">  (i)  describing the performance of the system,</p> <p class=\"subclause-e\">  (ii)  encouraging effective source separation of blue box waste and full use of the blue box waste management system.  O. Reg. 101/94, s. 7 (2).</p> <p class=\"subsection-e\">  (3) The source separated blue box waste referred to in clauses (2) (a) and (b) is blue box waste that has been source separated from other kinds of waste and that consists solely of waste from one or more of the following categories:</p> <p class=\"paragraph-e\">  1.  The categories of basic blue box waste set out in Schedule 1.</p> <p class=\"paragraph-e\">  2.  The categories of supplementary blue box waste set out in Schedule 1 that the blue box waste management system collects or accepts.  O. Reg. 101/94, s. 7 (3).</p> <p class=\"subsection-e\">  (4) The blue box waste management system must collect or accept at least two categories of supplementary blue box waste set out in Schedule 1.  O. Reg. 101/94, s. 7 (4).</p> <p class=\"subsection-e\">  (5) The frequency of the collection of source separated blue box waste required under clause (2) (a) must be at least half the frequency at which municipal waste is collected directly from the sources of the waste.  O. Reg. 101/94, s. 7 (5).</p> <p class=\"subsection-e\">  (6) The blue box waste management system must be adequate to deal with the anticipated blue box waste and waste set out in Schedule 2.  O. Reg. 101/94, s. 7 (6).</p> <p class=\"subsection-e\">  (7) The blue box waste management system must include the provision of adequate containers for the acceptance of source separated blue box waste required under clause (2) (b).  O. Reg. 101/94, s. 7 (7).</p> <p class=\"subsection-e\">  (8) This section does not apply to a municipality after the date in the Blue Box Transition Schedule that sets out when that municipality will start to receive collection services in accordance with Part IV of Ontario Regulation 391/21 (Blue Box), made under the\r\n<i>Resource Recovery and Circular Economy Act, 2016</i>. O. Reg. 392/21, .s. 2 (1).</p> <p class=\"Pnote-e\">Note: On January 1, 2026, section 7 of the Regulation is revoked. (See: O. Reg. 392/21, .s. 2 (2))</p>"
+        },
+        {
+            "ahref_id": "#8.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 8. (1) Clause 7 (2) (a) does not apply to a local municipality in Northern Ontario that has a population of less than 15,000 if the municipality’s blue box waste management system includes the collection or acceptance of the source separated blue box waste described in subsection 7 (3) in a manner that is reasonably convenient to the generators of such waste in the municipality.  O. Reg. 101/94, s. 8 (1). (2) This section does not apply to a municipality that had a population of at least 5,000 on July 1, 1995 unless the municipality has, continuously since that day, had a blue box waste management system, (a)  that included the collection or acceptance of the source separated blue box waste described in subsection 7 (3) in a manner that is reasonably convenient to the generators of such waste in the municipality; and (b)  that complied with the requirements in section 7 other than clause 7 (2) (a).  O. Reg. 101/94, s. 8 (2). Note: On January 1, 2026, section 8 of the Regulation is revoked. (See: O. Reg. 392/21, .s. 3)",
+            "raw_html": "<p class=\"section-e\"> <b>8. </b>(1) Clause 7 (2) (a) does not apply to a local municipality in Northern Ontario that has a population of less than 15,000 if the municipality’s blue box waste management system includes the collection or acceptance of the source separated blue box waste described in subsection 7 (3) in a manner that is reasonably convenient to the generators of such waste in the municipality.  O. Reg. 101/94, s. 8 (1).</p> <p class=\"subsection-e\">  (2) This section does not apply to a municipality that had a population of at least 5,000 on July 1, 1995 unless the municipality has, continuously since that day, had a blue box waste management system,</p> <p class=\"clause-e\">  (a)  that included the collection or acceptance of the source separated blue box waste described in subsection 7 (3) in a manner that is reasonably convenient to the generators of such waste in the municipality; and</p> <p class=\"clause-e\">  (b)  that complied with the requirements in section 7 other than clause 7 (2) (a).  O. Reg. 101/94, s. 8 (2).</p> <p class=\"Pnote-e\">Note: On January 1, 2026, section 8 of the Regulation is revoked. (See: O. Reg. 392/21, .s. 3)</p>"
+        },
+        {
+            "ahref_id": "#9.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 9. (1) A municipality that is required to establish a blue box waste management system shall do so forthwith subject to subsections (2) and (3).  O. Reg. 101/94, s. 9 (1). (2) A municipality in Southern Ontario is not required to establish a system before January 1, 1995.  O. Reg. 101/94, s. 9 (2). (3) A municipality in Northern Ontario is not required to establish a system before July 1, 1996.  O. Reg. 101/94, s. 9 (3). Note: On January 1, 2026, section 9 of the Regulation is revoked. (See: O. Reg. 392/21, .s. 3)",
+            "raw_html": "<p class=\"section-e\"> <b>9. </b>(1) A municipality that is required to establish a blue box waste management system shall do so forthwith subject to subsections (2) and (3).  O. Reg. 101/94, s. 9 (1).</p> <p class=\"subsection-e\">  (2) A municipality in Southern Ontario is not required to establish a system before January 1, 1995.  O. Reg. 101/94, s. 9 (2).</p> <p class=\"subsection-e\">  (3) A municipality in Northern Ontario is not required to establish a system before July 1, 1996.  O. Reg. 101/94, s. 9 (3).</p> <p class=\"Pnote-e\">Note: On January 1, 2026, section 9 of the Regulation is revoked. (See: O. Reg. 392/21, .s. 3)</p>"
+        },
+        {
+            "ahref_id": "#10.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10. Revoked: O. Reg. 392/21, .s. 4.",
+            "raw_html": "<p class=\"section-e\"> <b>10. </b><span class=\"ovsmallcap\">Revoked</span>: O. Reg. 392/21, .s. 4.</p>"
+        },
+        {
+            "ahref_id": "#10.1",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 10.1 A municipality that is included in the Blue Box Transition Schedule, that was not required to operate a system for the collection of blue box waste under section 7, and that provided a system for the collection of blue box waste as of August 15, 2019, shall continue to operate that collection system until the date in the Blue Box Transition Schedule that sets out when that municipality will start to receive collection services in accordance with Part IV of Ontario Regulation 391/21 (Blue Box), made under the Resource Recovery and Circular Economy Act, 2016. O. Reg. 392/21, .s. 5 (1). Note: On January 1, 2026, section 10.1 of the Regulation, as made by subsection (1), is revoked. (See: O. Reg. 392/21, .s. 5 (2)) Leaf and Yard Waste Systems",
+            "raw_html": "<p class=\"section-e\"> <b>10.1 </b>A municipality that is included in the Blue Box Transition Schedule, that was not required to operate a system for the collection of blue box waste under section 7, and that provided a system for the collection of blue box waste as of August 15, 2019, shall continue to operate that collection system until the date in the Blue Box Transition Schedule that sets out when that municipality will start to receive collection services in accordance with Part IV of Ontario Regulation 391/21 (Blue Box), made under the <i>Resource Recovery and Circular Economy Act, 2016</i>. O. Reg. 392/21, .s. 5 (1).</p> <p class=\"Pnote-e\">Note: On January 1, 2026, section 10.1 of the Regulation, as made by subsection (1), is revoked. (See: O. Reg. 392/21, .s. 5 (2))</p> <p class=\"heading1-e\"><a name=\"BK2\"></a>Leaf and Yard Waste Systems</p>"
+        },
+        {
+            "ahref_id": "#11.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 11. (1) A local municipality that has a population of at least 5,000 shall establish, operate and maintain a leaf and yard waste system.  O. Reg. 101/94, s. 11 (1). (2) The leaf and yard waste system must include, (a)  the provision of home composters to residents by the municipality at cost or less; (b)  the provision of information to residents, (i)  publicizing the availability of home composters, (ii)  explaining the proper installation and use of home composters and the use of compost, (iii)  encouraging home composting.  O. Reg. 101/94, s. 11 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>11. </b>(1) A local municipality that has a population of at least 5,000 shall establish, operate and maintain a leaf and yard waste system.  O. Reg. 101/94, s. 11 (1).</p> <p class=\"subsection-e\">  (2) The leaf and yard waste system must include,</p> <p class=\"clause-e\">  (a)  the provision of home composters to residents by the municipality at cost or less;</p> <p class=\"clause-e\">  (b)  the provision of information to residents,</p> <p class=\"subclause-e\">  (i)  publicizing the availability of home composters,</p> <p class=\"subclause-e\">  (ii)  explaining the proper installation and use of home composters and the use of compost,</p> <p class=\"subclause-e\">  (iii)  encouraging home composting.  O. Reg. 101/94, s. 11 (2).</p>"
+        },
+        {
+            "ahref_id": "#12.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 12. The leaf and yard waste system of a local municipality that has a population of at least 50,000 must include the collection or acceptance of leaf and yard waste in a manner that is reasonably convenient to the generators of leaf and yard waste in the municipality.  O. Reg. 101/94, s. 12.",
+            "raw_html": "<p class=\"section-e\"> <b>12. </b>The leaf and yard waste system of a local municipality that has a population of at least 50,000 must include the collection or acceptance of leaf and yard waste in a manner that is reasonably convenient to the generators of leaf and yard waste in the municipality.  O. Reg. 101/94, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#13.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 13. (1) This section applies to the leaf and yard waste system of a local municipality required under this Part if, (a)  the municipality has a population of at least 50,000; or (b)  the municipality is served by a waste management system owned by or operated by or for the municipality that collects source separated leaf and yard waste or accepts such waste from the public at a waste disposal site, where the activity goes beyond collection or acceptance of natural Christmas trees.  O. Reg. 101/94, s. 13 (1). (2) A leaf and yard waste system to which this section applies must also include, (a)  the transportation of collected or accepted leaf and yard waste not used in accordance with clause (4) (b) or (c) to a leaf and yard waste composting site as defined in Part V; (b)  the provision of a leaf and yard waste composting site as defined in Part V or the provision of the services of such a site; (c)  the provision of information to promote effective source separation of leaf and yard waste and to promote the full use of the composting system; (d)  reasonable efforts to ensure that the compost produced is used as a soil conditioner.  O. Reg. 101/94, s. 13 (2). (3) A leaf and yard waste system to which this section applies must be adequate to deal with the anticipated leaf and yard waste.  O. Reg. 101/94, s. 13 (3). (4) A leaf and yard waste system to which this section applies must include measures to ensure that the leaf and yard waste accepted by the system is either, (a)  composted at a leaf and yard waste composting site as defined in Part V or at another site where the waste can be legally composted; (b)  applied directly to land by the operator of the system; or (c)  transported to a person who will directly apply the waste to land.  O. Reg. 101/94, s. 13 (4).",
+            "raw_html": "<p class=\"section-e\"> <b>13. </b>(1) This section applies to the leaf and yard waste system of a local municipality required under this Part if,</p> <p class=\"clause-e\">  (a)  the municipality has a population of at least 50,000; or</p> <p class=\"clause-e\">  (b)  the municipality is served by a waste management system owned by or operated by or for the municipality that collects source separated leaf and yard waste or accepts such waste from the public at a waste disposal site, where the activity goes beyond collection or acceptance of natural Christmas trees.  O. Reg. 101/94, s. 13 (1).</p> <p class=\"subsection-e\">  (2) A leaf and yard waste system to which this section applies must also include,</p> <p class=\"clause-e\">  (a)  the transportation of collected or accepted leaf and yard waste not used in accordance with clause (4) (b) or (c) to a leaf and yard waste composting site as defined in Part V;</p> <p class=\"clause-e\">  (b)  the provision of a leaf and yard waste composting site as defined in Part V or the provision of the services of such a site;</p> <p class=\"clause-e\">  (c)  the provision of information to promote effective source separation of leaf and yard waste and to promote the full use of the composting system;</p> <p class=\"clause-e\">  (d)  reasonable efforts to ensure that the compost produced is used as a soil conditioner.  O. Reg. 101/94, s. 13 (2).</p> <p class=\"subsection-e\">  (3) A leaf and yard waste system to which this section applies must be adequate to deal with the anticipated leaf and yard waste.  O. Reg. 101/94, s. 13 (3).</p> <p class=\"subsection-e\">  (4) A leaf and yard waste system to which this section applies must include measures to ensure that the leaf and yard waste accepted by the system is either,</p> <p class=\"clause-e\">  (a)  composted at a leaf and yard waste composting site as defined in Part V or at another site where the waste can be legally composted;</p> <p class=\"clause-e\">  (b)  applied directly to land by the operator of the system; or</p> <p class=\"clause-e\">  (c)  transported to a person who will directly apply the waste to land.  O. Reg. 101/94, s. 13 (4).</p>"
+        },
+        {
+            "ahref_id": "#14.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 14. (1) A municipality that is required to establish a leaf and yard waste system shall do so forthwith subject to subsections (2) and (3).  O. Reg. 101/94, s. 14 (1). (2) A municipality in Southern Ontario is not required to establish a system before January 1, 1995.  O. Reg. 101/94, s. 14 (2). (3) A municipality in Northern Ontario is not required to establish a system before July 1, 1995.  O. Reg. 101/94, s. 14 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>14. </b>(1) A municipality that is required to establish a leaf and yard waste system shall do so forthwith subject to subsections (2) and (3).  O. Reg. 101/94, s. 14 (1).</p> <p class=\"subsection-e\">  (2) A municipality in Southern Ontario is not required to establish a system before January 1, 1995.  O. Reg. 101/94, s. 14 (2).</p> <p class=\"subsection-e\">  (3) A municipality in Northern Ontario is not required to establish a system before July 1, 1995.  O. Reg. 101/94, s. 14 (3).</p>"
+        },
+        {
+            "ahref_id": "#15.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 15. (1) A municipality that is required to establish a leaf and yard waste system shall submit an annual report on the operation of the system to the Director on or before June 1 in every year.  O. Reg. 101/94, s. 15 (1). (2) The annual report must set out the name of the municipality, its population and the name and telephone number of a person who can answer questions about the report.  O. Reg. 101/94, s. 15 (2). (3) The annual report must also set out the following information relating to the operation of the system in the previous calender year: 1.  Any rules the municipality followed in providing home composters to residents. 2.  The number of home composters provided to residents in accordance with clause 11 (2) (a). 3.  A description of the information provided to residents in accordance with clause 11 (2) (b).  O. Reg. 101/94, s. 15 (3). (4) If section 13 applies with respect to the leaf and yard waste system, the annual report must also set out the following information: 1.  The amount of leaf and yard waste that was accepted or collected. 2.  The amount of leaf and yard waste that was transported for composting. 3.  The amount of leaf and yard waste that was directly applied to land or that was transported for direct application to land. 4.  A description of the information provided in accordance with clause 13 (2) (c).  O. Reg. 101/94, s. 15 (4). Exemptions",
+            "raw_html": "<p class=\"section-e\"> <b>15. </b>(1) A municipality that is required to establish a leaf and yard waste system shall submit an annual report on the operation of the system to the Director on or before June 1 in every year.  O. Reg. 101/94, s. 15 (1).</p> <p class=\"subsection-e\">  (2) The annual report must set out the name of the municipality, its population and the name and telephone number of a person who can answer questions about the report.  O. Reg. 101/94, s. 15 (2).</p> <p class=\"subsection-e\">  (3) The annual report must also set out the following information relating to the operation of the system in the previous calender year:</p> <p class=\"paragraph-e\">  1.  Any rules the municipality followed in providing home composters to residents.</p> <p class=\"paragraph-e\">  2.  The number of home composters provided to residents in accordance with clause 11 (2) (a).</p> <p class=\"paragraph-e\">  3.  A description of the information provided to residents in accordance with clause 11 (2) (b).  O. Reg. 101/94, s. 15 (3).</p> <p class=\"subsection-e\">  (4) If section 13 applies with respect to the leaf and yard waste system, the annual report must also set out the following information:</p> <p class=\"paragraph-e\">  1.  The amount of leaf and yard waste that was accepted or collected.</p> <p class=\"paragraph-e\">  2.  The amount of leaf and yard waste that was transported for composting.</p> <p class=\"paragraph-e\">  3.  The amount of leaf and yard waste that was directly applied to land or that was transported for direct application to land.</p> <p class=\"paragraph-e\">  4.  A description of the information provided in accordance with clause 13 (2) (c).  O. Reg. 101/94, s. 15 (4).</p> <p class=\"heading1-e\"><a name=\"BK4\"></a>Exemptions</p>"
+        },
+        {
+            "ahref_id": "#16.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 16. (1) A system required under this Part is exempt from sections 27 and 41 of the Act.  O. Reg. 101/94, s. 16 (1). (2) The exemption in subsection (1) applies only to the parts of the system that are necessary to comply with this Regulation and any parts of the system that are ancillary to such parts.  O. Reg. 101/94, s. 16 (2). (3) A blue box waste management system that is established and operated by or for a municipality and that is not required by this Regulation is exempt from sections 27 and 41 of the Act if, (a)  the system meets the requirements of clauses 7 (2) (c) to (g); (b)  the system is set up to accept waste in all of the categories of basic blue box waste set out in Schedule 1; and (c)  the system meets the adequacy requirement set out in subsection 7 (6).  O. Reg. 101/94, s. 16 (3). (4) A leaf and yard waste system that is established and operated by or for a municipality and that is not required by this Regulation is exempt from sections 27 and 41 of the Act if the system meets the requirements of subsections 13 (2) to (4).  O. Reg. 101/94, s. 16 (4). (5) The exemptions specified in subsections (3) and (4) apply only to parts of a system that would be exempt under subsections 16 (1) and (2) if the system were a required system.  O. Reg. 101/94, s. 16 (5). PART III   MUNICIPAL WASTE RECYCLING DEPOTS",
+            "raw_html": "<p class=\"section-e\"> <b>16. </b>(1) A system required under this Part is exempt from sections 27 and 41 of the Act.  O. Reg. 101/94, s. 16 (1).</p> <p class=\"subsection-e\">  (2) The exemption in subsection (1) applies only to the parts of the system that are necessary to comply with this Regulation and any parts of the system that are ancillary to such parts.  O. Reg. 101/94, s. 16 (2).</p> <p class=\"subsection-e\">  (3) A blue box waste management system that is established and operated by or for a municipality and that is not required by this Regulation is exempt from sections 27 and 41 of the Act if,</p> <p class=\"clause-e\">  (a)  the system meets the requirements of clauses 7 (2) (c) to (g);</p> <p class=\"clause-e\">  (b)  the system is set up to accept waste in all of the categories of basic blue box waste set out in Schedule 1; and</p> <p class=\"clause-e\">  (c)  the system meets the adequacy requirement set out in subsection 7 (6).  O. Reg. 101/94, s. 16 (3).</p> <p class=\"subsection-e\">  (4) A leaf and yard waste system that is established and operated by or for a municipality and that is not required by this Regulation is exempt from sections 27 and 41 of the Act if the system meets the requirements of subsections 13 (2) to (4).  O. Reg. 101/94, s. 16 (4).</p> <p class=\"subsection-e\">  (5) The exemptions specified in subsections (3) and (4) apply only to parts of a system that would be exempt under subsections 16 (1) and (2) if the system were a required system.  O. Reg. 101/94, s. 16 (5).</p> <p class=\"partnum-e\"><a name=\"BK5\"></a>PART III <br/>  MUNICIPAL WASTE RECYCLING DEPOTS</p>"
+        },
+        {
+            "ahref_id": "#17.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 17. This Part applies to a waste disposal site whose only function is to be used to accept waste that consists solely of waste from one or more of the categories set out in Schedule 1, 2 or 3 and that has been source separated from other kinds of waste and to transfer the waste, without processing, for recycling.  O. Reg. 101/94, s. 17.",
+            "raw_html": "<p class=\"section-e\"> <b>17. </b>This Part applies to a waste disposal site whose only function is to be used to accept waste that consists solely of waste from one or more of the categories set out in Schedule 1, 2 or 3 and that has been source separated from other kinds of waste and to transfer the waste, without processing, for recycling.  O. Reg. 101/94, s. 17.</p>"
+        },
+        {
+            "ahref_id": "#18.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 18. In this Part,  “municipal waste recycling depot” means a waste disposal site to which this Part applies.  O. Reg. 101/94, s. 18.",
+            "raw_html": "<p class=\"section-e\"> <b>18. </b>In this Part, </p> <p class=\"firstdef-e\">“municipal waste recycling depot” means a waste disposal site to which this Part applies.  O. Reg. 101/94, s. 18.</p>"
+        },
+        {
+            "ahref_id": "#19.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 19. Each operator and owner of a municipal waste recycling depot shall ensure that the depot is operated in accordance with the following requirements: 1.  No waste may be accepted at the depot unless it is waste that consists solely of waste from one or more of the categories set out in Schedule 1, 2 or 3 and that, i.  in the case of waste from one or more of the categories set out in Schedule 1 or 2, has been separated from other kinds of waste at the source of the waste, or ii.  in the case of waste from one of the categories set out in Schedule 3, has been separated from other kinds of waste and from each other category of waste in Schedule 3 at the source of the waste. 2.  The depot shall have sufficient containers for the waste that can be reasonably anticipated. 3.  The waste accepted at the depot shall be placed in containers. 4.  Waste accepted at the depot may not be removed except for direct shipment to, i.  a user of the waste, ii.  a distributor who distributes the waste to users, iii.  a municipal waste recycling site as defined in Part IV, or iv.  a waste disposal site. 5.  Reasonable precautions shall be taken to ensure that waste is not removed from the depot except for transfer in accordance with paragraph 4. 6.  Signs shall be posted in prominent locations at the depot setting out the hours of operation of the depot, the name of the owner of the depot and the name and telephone number of a person to contact in an emergency. 7.  Signs shall be posted in prominent locations at the depot setting out the categories of waste that will be accepted at the depot and any rules that relate to the acceptance of such waste or the use of the depot. 8.  Only the categories of waste set out on the signs required under paragraph 7 may be accepted at the depot. 9.  Leaf and yard waste accepted at the depot shall be removed within four days not including any weekday that is observed as a public holiday in the municipality where the site is located. 10.  A schedule shall be prepared providing for the regular clean-up of litter at the depot and for the regular removal of waste received at the depot. The schedule shall provide for the clean-up of litter at least once a week. Litter shall be cleaned up and waste removed in accordance with the schedule. The schedule shall be adjusted from time to time as circumstances warrant. 11.  Reasonable care shall be taken to control the following and to control anything similar to them: dust, litter, odour, noise, rodents or other animals and insects.  O. Reg. 101/94, s. 19.",
+            "raw_html": "<p class=\"section-e\"> <b>19. </b>Each operator and owner of a municipal waste recycling depot shall ensure that the depot is operated in accordance with the following requirements:</p> <p class=\"paragraph-e\">  1.  No waste may be accepted at the depot unless it is waste that consists solely of waste from one or more of the categories set out in Schedule 1, 2 or 3 and that,</p> <p class=\"subpara-e\">  i.  in the case of waste from one or more of the categories set out in Schedule 1 or 2, has been separated from other kinds of waste at the source of the waste, or</p> <p class=\"subpara-e\">  ii.  in the case of waste from one of the categories set out in Schedule 3, has been separated from other kinds of waste and from each other category of waste in Schedule 3 at the source of the waste.</p> <p class=\"paragraph-e\">  2.  The depot shall have sufficient containers for the waste that can be reasonably anticipated.</p> <p class=\"paragraph-e\">  3.  The waste accepted at the depot shall be placed in containers.</p> <p class=\"paragraph-e\">  4.  Waste accepted at the depot may not be removed except for direct shipment to,</p> <p class=\"subpara-e\">  i.  a user of the waste,</p> <p class=\"subpara-e\">  ii.  a distributor who distributes the waste to users,</p> <p class=\"subpara-e\">  iii.  a municipal waste recycling site as defined in Part IV, or</p> <p class=\"subpara-e\">  iv.  a waste disposal site.</p> <p class=\"paragraph-e\">  5.  Reasonable precautions shall be taken to ensure that waste is not removed from the depot except for transfer in accordance with paragraph 4.</p> <p class=\"paragraph-e\">  6.  Signs shall be posted in prominent locations at the depot setting out the hours of operation of the depot, the name of the owner of the depot and the name and telephone number of a person to contact in an emergency.</p> <p class=\"paragraph-e\">  7.  Signs shall be posted in prominent locations at the depot setting out the categories of waste that will be accepted at the depot and any rules that relate to the acceptance of such waste or the use of the depot.</p> <p class=\"paragraph-e\">  8.  Only the categories of waste set out on the signs required under paragraph 7 may be accepted at the depot.</p> <p class=\"paragraph-e\">  9.  Leaf and yard waste accepted at the depot shall be removed within four days not including any weekday that is observed as a public holiday in the municipality where the site is located.</p> <p class=\"paragraph-e\">  10.  A schedule shall be prepared providing for the regular clean-up of litter at the depot and for the regular removal of waste received at the depot. The schedule shall provide for the clean-up of litter at least once a week. Litter shall be cleaned up and waste removed in accordance with the schedule. The schedule shall be adjusted from time to time as circumstances warrant.</p> <p class=\"paragraph-e\">  11.  Reasonable care shall be taken to control the following and to control anything similar to them: dust, litter, odour, noise, rodents or other animals and insects.  O. Reg. 101/94, s. 19.</p>"
+        },
+        {
+            "ahref_id": "#20.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 20. A municipal waste recycling depot owned or operated by or operated exclusively for a municipality or the Crown is exempt from sections 9, 27, 40 and 41 of the Act if all buildings and storage areas that are part of the depot are at least fifty metres from the boundaries of the parcel of land upon which the buildings and storage areas are located.  O. Reg. 101/94, s. 20. PART IV   MUNICIPAL WASTE RECYCLING SITES",
+            "raw_html": "<p class=\"section-e\"> <b>20. </b>A municipal waste recycling depot owned or operated by or operated exclusively for a municipality or the Crown is exempt from sections 9, 27, 40 and 41 of the Act if all buildings and storage areas that are part of the depot are at least fifty metres from the boundaries of the parcel of land upon which the buildings and storage areas are located.  O. Reg. 101/94, s. 20.</p> <p class=\"partnum-e\"><a name=\"BK6\"></a>PART IV <br/>  MUNICIPAL WASTE RECYCLING SITES</p>"
+        },
+        {
+            "ahref_id": "#21.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 21. (1) This Part applies to a waste disposal site whose only function is to be used to accept waste that consists solely of waste from one or more of the categories set out in Schedule 1, 2 or 3 and that has been separated from other kinds of waste and to transfer the waste, either after processing or without processing, for recycling.  O. Reg. 101/94, s. 21 (1). (2) This Part does not apply to a site where a process, other than any of the following, is used: sorting, grading, sizing, cleaning, drying, de-inking, size reduction, pulping, pelletizing, composting, baling or packaging.  O. Reg. 101/94, s. 21 (2). (3) This Part does not apply to a municipal waste recycling depot as defined in Part III.  O. Reg. 101/94, s. 21 (3).",
+            "raw_html": "<p class=\"section-e\"> <b>21. </b>(1) This Part applies to a waste disposal site whose only function is to be used to accept waste that consists solely of waste from one or more of the categories set out in Schedule 1, 2 or 3 and that has been separated from other kinds of waste and to transfer the waste, either after processing or without processing, for recycling.  O. Reg. 101/94, s. 21 (1).</p> <p class=\"subsection-e\">  (2) This Part does not apply to a site where a process, other than any of the following, is used: sorting, grading, sizing, cleaning, drying, de-inking, size reduction, pulping, pelletizing, composting, baling or packaging.  O. Reg. 101/94, s. 21 (2).</p> <p class=\"subsection-e\">  (3) This Part does not apply to a municipal waste recycling depot as defined in Part III.  O. Reg. 101/94, s. 21 (3).</p>"
+        },
+        {
+            "ahref_id": "#22.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 22. In this Part,  “municipal waste recycling site” means a waste disposal site to which this Part applies.  O. Reg. 101/94, s. 22.",
+            "raw_html": "<p class=\"section-e\"> <b>22. </b>In this Part, </p> <p class=\"firstdef-e\">“municipal waste recycling site” means a waste disposal site to which this Part applies.  O. Reg. 101/94, s. 22.</p>"
+        },
+        {
+            "ahref_id": "#23.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 23. Each operator and owner of a municipal waste recycling site shall ensure that the site is operated in accordance with the following requirements: 1.  No waste may be accepted at the site unless it is waste that consists solely of waste from one or more of the categories set out in Schedule 1, 2 or 3 and that, i.  in the case of waste from one or more of the categories set out in Schedule 1 or 2, has been separated from other kinds of waste, or ii.  in the case of waste from one of the categories set out in Schedule 3, has been separated from other kinds of waste and from each other category of waste in Schedule 3. 2.  If waste from one of the categories of waste set out in Schedule 3 has been separated from other kinds of waste and from each other category of waste in Schedule 3, no operation or activity at the site shall commingle such waste with any other waste. 3.  If waste is processed at the site, the total amount, at the site, of the waste that is awaiting processing, is being processed or has been processed and the waste that is awaiting transportation without processing must not exceed 2,000 cubic metres or three times the monthly process design capacity of the site, whichever is greater. 4.  If waste is not processed at the site, the total amount of waste at the site must not exceed 2,000 cubic metres. 5.  Despite paragraph 3, if waste has not been processed at the site during the preceding three months, the total amount of waste at the site must not exceed 2,000 cubic metres. 6.  The total amount of waste at the site awaiting processing must not exceed fifteen times the daily process design capacity. 7.  If waste is processed at the site, the waste must be processed so that over any six-month period the residues from the processing do not exceed 10 per cent of the weight of the waste that was processed. For the purposes of this paragraph, if the processing of waste at the site involves the addition of water, weight shall be determined on a dry weight basis. 8.  Residues from the processing of waste must be removed from the site promptly. 9.  Waste or materials that result from the processing of waste may not be removed from the site except for direct shipment to, i.  a user of the waste or materials, ii.  a distributor who distributes such waste or materials to users, iii.  another municipal waste recycling site, or iv.  a waste disposal site. 10.  Reasonable care shall be taken to control the following and to control anything similar to them: dust, litter, odour, noise, rodents or other animals and insects. 11.  Reasonable care shall be taken to ensure that unauthorized persons are kept out of any areas where waste is handled, processed or stored. 12.  Signs must be posted in prominent locations at the site setting out the hours of operation of the site, the name of the owner of the site and the name and telephone number of a person to contact in an emergency. 13.  Equipment at the site may not be operated by any employee who has not had training in the operation and maintenance of the equipment. 14.  Employees at the site must be trained in emergency procedures. 15.  All roads, parking areas, loading or unloading areas must be maintained in good condition. 16.  The site shall not begin accepting waste unless at least ninety days before the acceptance of the first waste a notice is given to each of the following, i.  the clerk of every municipality within which the site or any part of it is located, ii.  the owner of every parcel of land within 120 metres of the site, iii.  the Director, and iv.  the local District Office of the Ministry. 17.  The notice referred to in paragraph 16 must be on a form provided by the Ministry or in the same format as such a form and must set out, i.  the name, address and telephone number of the owner of the site and of the operator of the site if they are different, ii.  the location of the site, iii.  the earliest date on which the site will begin to accept waste, iv.  the type of wastes that the site will be accepting, v.  the capacity of the site, and vi.  a description of how waste will be dealt with including a description of the processes that will be used. 18.  No waste shall be accepted at the site before the date set out in the notice as the earliest date on which the site will begin to accept waste. 19.  No waste shall be accepted at the site unless the first waste accepted at the site is accepted within 180 days after the notice is given to the Director. 20.  None of the following may be changed at the site unless at least ninety days before the change a notice is given to each of the persons described in subparagraphs i, ii, iii and iv of paragraph 16, i.  the type of wastes that the site accepts, ii.  the capacity of the site, iii.  how waste is dealt with including the processes used. 21.  The notice referred to in paragraph 20 must be on a form provided by the Ministry or in the same format as such a form and must set out the information described in subparagraphs i, ii, iv, v and vi of paragraph 17. 22.  Maps of the vicinity and a site plan shall be kept at the site. The maps and site plan shall show, on the appropriate map or plan, services, buildings, processing units, roads, loading and unloading areas and storage areas. 23.  An operating plan shall be kept at the site. The plan shall include, i.  descriptions of the processes and equipment used including descriptions of how waste will be stored and handled, ii.  information about the maximum amounts of waste that can be processed at the site, iii.  information about the amounts of the residues that are expected after processing that cannot be recycled or reused, and iv.  descriptions of the training planned for personnel. 24.  Emergency response plans shall be kept at the site. There shall be emergency response plans addressing emergencies caused by fire, explosion, flood, spills, disruption of electrical service or anything else that might create an emergency situation at the site. Each plan shall include, i.  descriptions of the procedures to be used, ii.  information about the personnel who will be responsible, iii.  descriptions of the emergency equipment and emergency communications systems, and iv.  plans for notifying the appropriate governments and other persons and co-ordinating operations with them. 25.  Contingency plans shall be kept at the site. There shall be contingency plans addressing disruptions of the removal of waste or anything else from the site. 26.  A record shall be kept that includes information about, i.  the type, amount and sources of wastes accepted at the site, ii.  the processing that the wastes received, any significant problems that occurred during the processing and any actions that were taken in response to such problems, iii.  the types and amounts of residues, wastes and materials transferred from the site, the purposes for which they were transferred and the names of the persons to whom residues, wastes and materials, other than compost, were transferred. 27.  Information in the record required under paragraph 26 shall be retained in the record for at least two years after the event to which the information relates. 28.  The record required under paragraph 26 shall be kept at the site unless, i.  the record is kept at another place in a municipality within which the site, or part of the site, is located, and the place is owned or controlled by the owner or operator of the site, and ii.  the place the record is kept is set out on the signs required to be posted under paragraph 12.  O. Reg. 101/94, s. 23.",
+            "raw_html": "<p class=\"section-e\"> <b>23. </b>Each operator and owner of a municipal waste recycling site shall ensure that the site is operated in accordance with the following requirements:</p> <p class=\"paragraph-e\">  1.  No waste may be accepted at the site unless it is waste that consists solely of waste from one or more of the categories set out in Schedule 1, 2 or 3 and that,</p> <p class=\"subpara-e\">  i.  in the case of waste from one or more of the categories set out in Schedule 1 or 2, has been separated from other kinds of waste, or</p> <p class=\"subpara-e\">  ii.  in the case of waste from one of the categories set out in Schedule 3, has been separated from other kinds of waste and from each other category of waste in Schedule 3.</p> <p class=\"paragraph-e\">  2.  If waste from one of the categories of waste set out in Schedule 3 has been separated from other kinds of waste and from each other category of waste in Schedule 3, no operation or activity at the site shall commingle such waste with any other waste.</p> <p class=\"paragraph-e\">  3.  If waste is processed at the site, the total amount, at the site, of the waste that is awaiting processing, is being processed or has been processed and the waste that is awaiting transportation without processing must not exceed 2,000 cubic metres or three times the monthly process design capacity of the site, whichever is greater.</p> <p class=\"paragraph-e\">  4.  If waste is not processed at the site, the total amount of waste at the site must not exceed 2,000 cubic metres.</p> <p class=\"paragraph-e\">  5.  Despite paragraph 3, if waste has not been processed at the site during the preceding three months, the total amount of waste at the site must not exceed 2,000 cubic metres.</p> <p class=\"paragraph-e\">  6.  The total amount of waste at the site awaiting processing must not exceed fifteen times the daily process design capacity.</p> <p class=\"paragraph-e\">  7.  If waste is processed at the site, the waste must be processed so that over any six-month period the residues from the processing do not exceed 10 per cent of the weight of the waste that was processed. For the purposes of this paragraph, if the processing of waste at the site involves the addition of water, weight shall be determined on a dry weight basis.</p> <p class=\"paragraph-e\">  8.  Residues from the processing of waste must be removed from the site promptly.</p> <p class=\"paragraph-e\">  9.  Waste or materials that result from the processing of waste may not be removed from the site except for direct shipment to,</p> <p class=\"subpara-e\">  i.  a user of the waste or materials,</p> <p class=\"subpara-e\">  ii.  a distributor who distributes such waste or materials to users,</p> <p class=\"subpara-e\">  iii.  another municipal waste recycling site, or</p> <p class=\"subpara-e\">  iv.  a waste disposal site.</p> <p class=\"paragraph-e\">  10.  Reasonable care shall be taken to control the following and to control anything similar to them: dust, litter, odour, noise, rodents or other animals and insects.</p> <p class=\"paragraph-e\">  11.  Reasonable care shall be taken to ensure that unauthorized persons are kept out of any areas where waste is handled, processed or stored.</p> <p class=\"paragraph-e\">  12.  Signs must be posted in prominent locations at the site setting out the hours of operation of the site, the name of the owner of the site and the name and telephone number of a person to contact in an emergency.</p> <p class=\"paragraph-e\">  13.  Equipment at the site may not be operated by any employee who has not had training in the operation and maintenance of the equipment.</p> <p class=\"paragraph-e\">  14.  Employees at the site must be trained in emergency procedures.</p> <p class=\"paragraph-e\">  15.  All roads, parking areas, loading or unloading areas must be maintained in good condition.</p> <p class=\"paragraph-e\">  16.  The site shall not begin accepting waste unless at least ninety days before the acceptance of the first waste a notice is given to each of the following,</p> <p class=\"subpara-e\">  i.  the clerk of every municipality within which the site or any part of it is located,</p> <p class=\"subpara-e\">  ii.  the owner of every parcel of land within 120 metres of the site,</p> <p class=\"subpara-e\">  iii.  the Director, and</p> <p class=\"subpara-e\">  iv.  the local District Office of the Ministry.</p> <p class=\"paragraph-e\">  17.  The notice referred to in paragraph 16 must be on a form provided by the Ministry or in the same format as such a form and must set out,</p> <p class=\"subpara-e\">  i.  the name, address and telephone number of the owner of the site and of the operator of the site if they are different,</p> <p class=\"subpara-e\">  ii.  the location of the site,</p> <p class=\"subpara-e\">  iii.  the earliest date on which the site will begin to accept waste,</p> <p class=\"subpara-e\">  iv.  the type of wastes that the site will be accepting,</p> <p class=\"subpara-e\">  v.  the capacity of the site, and</p> <p class=\"subpara-e\">  vi.  a description of how waste will be dealt with including a description of the processes that will be used.</p> <p class=\"paragraph-e\">  18.  No waste shall be accepted at the site before the date set out in the notice as the earliest date on which the site will begin to accept waste.</p> <p class=\"paragraph-e\">  19.  No waste shall be accepted at the site unless the first waste accepted at the site is accepted within 180 days after the notice is given to the Director.</p> <p class=\"paragraph-e\">  20.  None of the following may be changed at the site unless at least ninety days before the change a notice is given to each of the persons described in subparagraphs i, ii, iii and iv of paragraph 16,</p> <p class=\"subpara-e\">  i.  the type of wastes that the site accepts,</p> <p class=\"subpara-e\">  ii.  the capacity of the site,</p> <p class=\"subpara-e\">  iii.  how waste is dealt with including the processes used.</p> <p class=\"paragraph-e\">  21.  The notice referred to in paragraph 20 must be on a form provided by the Ministry or in the same format as such a form and must set out the information described in subparagraphs i, ii, iv, v and vi of paragraph 17.</p> <p class=\"paragraph-e\">  22.  Maps of the vicinity and a site plan shall be kept at the site. The maps and site plan shall show, on the appropriate map or plan, services, buildings, processing units, roads, loading and unloading areas and storage areas.</p> <p class=\"paragraph-e\">  23.  An operating plan shall be kept at the site. The plan shall include,</p> <p class=\"subpara-e\">  i.  descriptions of the processes and equipment used including descriptions of how waste will be stored and handled,</p> <p class=\"subpara-e\">  ii.  information about the maximum amounts of waste that can be processed at the site,</p> <p class=\"subpara-e\">  iii.  information about the amounts of the residues that are expected after processing that cannot be recycled or reused, and</p> <p class=\"subpara-e\">  iv.  descriptions of the training planned for personnel.</p> <p class=\"paragraph-e\">  24.  Emergency response plans shall be kept at the site. There shall be emergency response plans addressing emergencies caused by fire, explosion, flood, spills, disruption of electrical service or anything else that might create an emergency situation at the site. Each plan shall include,</p> <p class=\"subpara-e\">  i.  descriptions of the procedures to be used,</p> <p class=\"subpara-e\">  ii.  information about the personnel who will be responsible,</p> <p class=\"subpara-e\">  iii.  descriptions of the emergency equipment and emergency communications systems, and</p> <p class=\"subpara-e\">  iv.  plans for notifying the appropriate governments and other persons and co-ordinating operations with them.</p> <p class=\"paragraph-e\">  25.  Contingency plans shall be kept at the site. There shall be contingency plans addressing disruptions of the removal of waste or anything else from the site.</p> <p class=\"paragraph-e\">  26.  A record shall be kept that includes information about,</p> <p class=\"subpara-e\">  i.  the type, amount and sources of wastes accepted at the site,</p> <p class=\"subpara-e\">  ii.  the processing that the wastes received, any significant problems that occurred during the processing and any actions that were taken in response to such problems,</p> <p class=\"subpara-e\">  iii.  the types and amounts of residues, wastes and materials transferred from the site, the purposes for which they were transferred and the names of the persons to whom residues, wastes and materials, other than compost, were transferred.</p> <p class=\"paragraph-e\">  27.  Information in the record required under paragraph 26 shall be retained in the record for at least two years after the event to which the information relates.</p> <p class=\"paragraph-e\">  28.  The record required under paragraph 26 shall be kept at the site unless,</p> <p class=\"subpara-e\">  i.  the record is kept at another place in a municipality within which the site, or part of the site, is located, and the place is owned or controlled by the owner or operator of the site, and</p> <p class=\"subpara-e\">  ii.  the place the record is kept is set out on the signs required to be posted under paragraph 12.  O. Reg. 101/94, s. 23.</p>"
+        },
+        {
+            "ahref_id": "#24.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 24. The following provisions do not apply with respect to leaf and yard waste composting sites as defined in Part V: 1.  Paragraphs 1, 3, 4, 6, 7 and 8 of section 23. 2.  Paragraphs 26 to 28 of section 23. 3.  Sections 25, 26, 27 and 28.  O. Reg. 101/94, s. 24.",
+            "raw_html": "<p class=\"section-e\"> <b>24. </b>The following provisions do not apply with respect to leaf and yard waste composting sites as defined in Part V:</p> <p class=\"paragraph-e\">  1.  Paragraphs 1, 3, 4, 6, 7 and 8 of section 23.</p> <p class=\"paragraph-e\">  2.  Paragraphs 26 to 28 of section 23.</p> <p class=\"paragraph-e\">  3.  Sections 25, 26, 27 and 28.  O. Reg. 101/94, s. 24.</p>"
+        },
+        {
+            "ahref_id": "#25.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 25. If a municipal waste recycling site is owned by or operated by or for a municipality, the municipality shall submit an annual report about the operation of the site to the Director on or before February 1 in every year.  O. Reg. 101/94, s. 25.",
+            "raw_html": "<p class=\"section-e\"> <b>25. </b>If a municipal waste recycling site is owned by or operated by or for a municipality, the municipality shall submit an annual report about the operation of the site to the Director on or before February 1 in every year.  O. Reg. 101/94, s. 25.</p>"
+        },
+        {
+            "ahref_id": "#26.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 26. The annual report required by section 25 must set out the name, address and telephone number of the operator of the site, the location of the site, the type and amount of wastes that were accepted in the previous calendar year, and the type and amount of wastes that were transferred in the previous calendar year.  O. Reg. 101/94, s. 26.",
+            "raw_html": "<p class=\"section-e\"> <b>26. </b>The annual report required by section 25 must set out the name, address and telephone number of the operator of the site, the location of the site, the type and amount of wastes that were accepted in the previous calendar year, and the type and amount of wastes that were transferred in the previous calendar year.  O. Reg. 101/94, s. 26.</p>"
+        },
+        {
+            "ahref_id": "#27.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 27. A municipal waste recycling site is exempt from sections 27, 40 and 41 of the Act if all buildings and processing or storage areas that are part of the site are at least fifty metres from the boundaries of the parcel of land upon which the buildings and processing or storage areas are located.  O. Reg. 101/94, s. 27.",
+            "raw_html": "<p class=\"section-e\"> <b>27. </b>A municipal waste recycling site is exempt from sections 27, 40 and 41 of the Act if all buildings and processing or storage areas that are part of the site are at least fifty metres from the boundaries of the parcel of land upon which the buildings and processing or storage areas are located.  O. Reg. 101/94, s. 27.</p>"
+        },
+        {
+            "ahref_id": "#28.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 28. (1) If section 27 applies to a municipal waste recycling site that was a waste disposal site operating under the authority of an environmental compliance approval for the acceptance, processing and transfer, but not the final disposal, of municipal waste and on application therefor, that site receives termination of its approval from the Director and commences operation as a municipal waste recycling site, paragraphs 16, 18 and 19 of section 23 do not apply.  O. Reg. 251/11, s. 2. (2) Despite subsection (1), the notice referred to in paragraph 16 of section 23 must be submitted to the Director and the local District Office of the Ministry before the site’s first acceptance of waste as a municipal waste recycling site.  O. Reg. 101/94, s. 28 (2). (3) In the event that no waste is accepted at the site operating as a municipal waste recycling site within 180 days after the notice is given to the Director, a new notice under paragraph 16 of section 23 is required and this section ceases to apply to the site.  O. Reg. 101/94, s. 28 (3). (4) Revoked:  O. Reg. 107/07, s. 2. PART V   LEAF AND YARD WASTE COMPOSTING SITES",
+            "raw_html": "<p class=\"section-e\"> <b>28. </b>(1) If section 27 applies to a municipal waste recycling site that was a waste disposal site operating under the authority of an environmental compliance approval for the acceptance, processing and transfer, but not the final disposal, of municipal waste and on application therefor, that site receives termination of its approval from the Director and commences operation as a municipal waste recycling site, paragraphs 16, 18 and 19 of section 23 do not apply.  O. Reg. 251/11, s. 2.</p> <p class=\"subsection-e\">  (2) Despite subsection (1), the notice referred to in paragraph 16 of section 23 must be submitted to the Director and the local District Office of the Ministry before the site’s first acceptance of waste as a municipal waste recycling site.  O. Reg. 101/94, s. 28 (2).</p> <p class=\"subsection-e\">  (3) In the event that no waste is accepted at the site operating as a municipal waste recycling site within 180 days after the notice is given to the Director, a new notice under paragraph 16 of section 23 is required and this section ceases to apply to the site.  O. Reg. 101/94, s. 28 (3).</p> <p class=\"subsection-e\">  (4) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 107/07, s. 2.</p> <p class=\"partnum-e\"><a name=\"BK7\"></a>PART V <br/>  LEAF AND YARD WASTE COMPOSTING SITES</p>"
+        },
+        {
+            "ahref_id": "#29.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 29. This Part applies to, (a)  a municipal waste recycling site whose only function is to be used to receive and compost leaf and yard waste; and (b)  that part or those parts of a municipal waste recycling site whose function is to be used to receive and compost leaf and yard waste.  O. Reg. 101/94, s. 29.",
+            "raw_html": "<p class=\"section-e\"> <b>29. </b>This Part applies to,</p> <p class=\"clause-e\">  (a)  a municipal waste recycling site whose only function is to be used to receive and compost leaf and yard waste; and</p> <p class=\"clause-e\">  (b)  that part or those parts of a municipal waste recycling site whose function is to be used to receive and compost leaf and yard waste.  O. Reg. 101/94, s. 29.</p>"
+        },
+        {
+            "ahref_id": "#30.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 30. In this Part, “leaf and yard waste composting site” means a waste disposal site to which this Part applies.  O. Reg. 101/94, s. 30.",
+            "raw_html": "<p class=\"section-e\"> <b>30. </b>In this Part,</p> <p class=\"firstdef-e\">“leaf and yard waste composting site” means a waste disposal site to which this Part applies.  O. Reg. 101/94, s. 30.</p>"
+        },
+        {
+            "ahref_id": "#31.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 31. Each operator and owner of a leaf and yard waste composting site shall ensure that the site is operated in accordance with the following requirements: 1.  Only leaf and yard waste and wood (not including painted or treated wood or laminated wood) may be accepted at the site. 2.  Leaf and yard waste may not be stored for more than four days before it is composted. 3.  The total amount of compost on the site that is in or has completed the curing stage shall not exceed eighteen times the monthly process design capacity of the site. 4.  The leaf and yard waste accepted at the site shall be composted so that the temperature inside the composting mass is at least 55 degrees Celsius, i.  on at least three different days if the waste is being composted in a vessel, ii.  on at least fifteen different days in any other case. 5.  If the waste is being composted using turned windrow composting, the windrow shall be turned at least five times at regular intervals after the temperature first reaches 55 degrees Celsius and the temperature must reach at least 55 degrees Celsius after the fifth turning. 6.  During composting, the composting mass shall be provided with ventilation adequate to ensure that aerobic conditions are maintained. 7.  After the requirements in paragraphs 4 and 5 have been satisfied, the compost shall be cured for a period of six months. 8.  During curing, a composting mass shall be turned at least once a month. 9.  The temperature of each composting mass shall be measured daily until the requirements in paragraphs 4 and 5 have been satisfied. During curing the temperature shall be measured weekly. 10.  Temperatures shall be measured at a point one metre within the composting mass. 11.  A record containing information about each composting mass shall be kept. The information shall include the temperatures of the mass and when they were measured, when the mass was turned, information about the curing process and details about any significant problems that occurred during the composting or curing. Information about a composting mass shall be retained in the record for at least three years after the mass was cured. 12.  A plan for dealing with odour problems shall be prepared before waste is first accepted at the site and shall be updated as circumstances warrant. The plan shall include procedures, which shall be followed, for dealing with complaints from the public and for investigating and remedying odour problems. 13.  A record of all complaints from members of the public about odours shall be kept together with a record of how each complaint was dealt with. 14.  Compost that has been cured shall be sampled and analyzed for the things listed in Column 1 of Table 1 in accordance with paragraphs 15 and 16. Compost may not be removed from the site unless it is part of accumulated compost that has been so sampled and analyzed. 15.  The first samples shall be taken before 10,000 cubic metres of compost has been accumulated, or before one year has passed, whichever first occurs after the first receipt of waste at the site. Thereafter samples shall be taken before an additional 10,000 cubic metres is accumulated, or before one year has passed, whichever occurs first after the most recent samples. However, if all the analyses in the two years preceding the most recent analysis are consistent with that analysis, samples need only be taken before 30,000 cubic metres is accumulated, or before one year has passed, whichever occurs first after the most recent samples. 16.  Samples shall be taken by taking ten grab samples from diverse points within the accumulated compost. Each grab sample must contain at least twenty litres of compost and must be taken from a point at least one metre inside the accumulated compost. The analysis shall be of a composite of those samples. 17.  A record shall be kept of the analyses of compost. Any laboratory reports received shall be kept as part of the record. A record of an analysis shall be kept for at least three years after the analysis is performed. 18.  Controlled compost, as defined in section 33, may not be removed from the site except for direct shipment to the intended user of the compost in accordance with paragraphs 19 and 20. 19.  A record shall be kept of the name, address and telephone number of each person to whom controlled compost is shipped. The record shall be kept for at least ten years after the shipment. 20.  The person to whom controlled compost is shipped shall be given a copy of a chemical analysis of the compost and a notice that states that the compost is controlled compost and that sets out the terms and conditions of the compost’s exemption from Part V of the Act. 21.  The notice referred to in paragraph 20 must be on a form provided by the Ministry or in the same format as such a form.  O. Reg. 101/94, s. 31.",
+            "raw_html": "<p class=\"section-e\"> <b>31. </b>Each operator and owner of a leaf and yard waste composting site shall ensure that the site is operated in accordance with the following requirements:</p> <p class=\"paragraph-e\">  1.  Only leaf and yard waste and wood (not including painted or treated wood or laminated wood) may be accepted at the site.</p> <p class=\"paragraph-e\">  2.  Leaf and yard waste may not be stored for more than four days before it is composted.</p> <p class=\"paragraph-e\">  3.  The total amount of compost on the site that is in or has completed the curing stage shall not exceed eighteen times the monthly process design capacity of the site.</p> <p class=\"paragraph-e\">  4.  The leaf and yard waste accepted at the site shall be composted so that the temperature inside the composting mass is at least 55 degrees Celsius,</p> <p class=\"subpara-e\">  i.  on at least three different days if the waste is being composted in a vessel,</p> <p class=\"subpara-e\">  ii.  on at least fifteen different days in any other case.</p> <p class=\"paragraph-e\">  5.  If the waste is being composted using turned windrow composting, the windrow shall be turned at least five times at regular intervals after the temperature first reaches 55 degrees Celsius and the temperature must reach at least 55 degrees Celsius after the fifth turning.</p> <p class=\"paragraph-e\">  6.  During composting, the composting mass shall be provided with ventilation adequate to ensure that aerobic conditions are maintained.</p> <p class=\"paragraph-e\">  7.  After the requirements in paragraphs 4 and 5 have been satisfied, the compost shall be cured for a period of six months.</p> <p class=\"paragraph-e\">  8.  During curing, a composting mass shall be turned at least once a month.</p> <p class=\"paragraph-e\">  9.  The temperature of each composting mass shall be measured daily until the requirements in paragraphs 4 and 5 have been satisfied. During curing the temperature shall be measured weekly.</p> <p class=\"paragraph-e\">  10.  Temperatures shall be measured at a point one metre within the composting mass.</p> <p class=\"paragraph-e\">  11.  A record containing information about each composting mass shall be kept. The information shall include the temperatures of the mass and when they were measured, when the mass was turned, information about the curing process and details about any significant problems that occurred during the composting or curing. Information about a composting mass shall be retained in the record for at least three years after the mass was cured.</p> <p class=\"paragraph-e\">  12.  A plan for dealing with odour problems shall be prepared before waste is first accepted at the site and shall be updated as circumstances warrant. The plan shall include procedures, which shall be followed, for dealing with complaints from the public and for investigating and remedying odour problems.</p> <p class=\"paragraph-e\">  13.  A record of all complaints from members of the public about odours shall be kept together with a record of how each complaint was dealt with.</p> <p class=\"paragraph-e\">  14.  Compost that has been cured shall be sampled and analyzed for the things listed in Column 1 of Table 1 in accordance with paragraphs 15 and 16. Compost may not be removed from the site unless it is part of accumulated compost that has been so sampled and analyzed.</p> <p class=\"paragraph-e\">  15.  The first samples shall be taken before 10,000 cubic metres of compost has been accumulated, or before one year has passed, whichever first occurs after the first receipt of waste at the site. Thereafter samples shall be taken before an additional 10,000 cubic metres is accumulated, or before one year has passed, whichever occurs first after the most recent samples. However, if all the analyses in the two years preceding the most recent analysis are consistent with that analysis, samples need only be taken before 30,000 cubic metres is accumulated, or before one year has passed, whichever occurs first after the most recent samples.</p> <p class=\"paragraph-e\">  16.  Samples shall be taken by taking ten grab samples from diverse points within the accumulated compost. Each grab sample must contain at least twenty litres of compost and must be taken from a point at least one metre inside the accumulated compost. The analysis shall be of a composite of those samples.</p> <p class=\"paragraph-e\">  17.  A record shall be kept of the analyses of compost. Any laboratory reports received shall be kept as part of the record. A record of an analysis shall be kept for at least three years after the analysis is performed.</p> <p class=\"paragraph-e\">  18.  Controlled compost, as defined in section 33, may not be removed from the site except for direct shipment to the intended user of the compost in accordance with paragraphs 19 and 20.</p> <p class=\"paragraph-e\">  19.  A record shall be kept of the name, address and telephone number of each person to whom controlled compost is shipped. The record shall be kept for at least ten years after the shipment.</p> <p class=\"paragraph-e\">  20.  The person to whom controlled compost is shipped shall be given a copy of a chemical analysis of the compost and a notice that states that the compost is controlled compost and that sets out the terms and conditions of the compost’s exemption from Part V of the Act.</p> <p class=\"paragraph-e\">  21.  The notice referred to in paragraph 20 must be on a form provided by the Ministry or in the same format as such a form.  O. Reg. 101/94, s. 31.</p>"
+        },
+        {
+            "ahref_id": "#32.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 32. Compost produced at a leaf and yard waste composting site that has been analyzed in accordance with paragraphs 14 to 16 of section 31, (a)  is designated as waste if, according to the analysis, the compost contains a substance in Column 1 of Table 1 in a concentration greater than the concentration opposite in Column 2; and (b)  is exempt from Part V of the Act and the regulations relating to Part V of the Act, in any other case.  O. Reg. 101/94, s. 32.",
+            "raw_html": "<p class=\"section-e\"> <b>32. </b>Compost produced at a leaf and yard waste composting site that has been analyzed in accordance with paragraphs 14 to 16 of section 31,</p> <p class=\"clause-e\">  (a)  is designated as waste if, according to the analysis, the compost contains a substance in Column 1 of Table 1 in a concentration greater than the concentration opposite in Column 2; and</p> <p class=\"clause-e\">  (b)  is exempt from Part V of the Act and the regulations relating to Part V of the Act, in any other case.  O. Reg. 101/94, s. 32.</p>"
+        },
+        {
+            "ahref_id": "#33.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 33. (1) In this section, “controlled compost” means compost that is designated as waste under clause 32 (a) and that, according to the analysis performed in accordance with paragraphs 14 to 16 of section 31, does not contain any substance in Column 1 of Table 1 in a concentration greater than the concentration opposite in Column 3.  O. Reg. 101/94, s. 33 (1). (2) Controlled compost is exempt from Part V of the Act and the regulations on the following terms and conditions: 1.  The controlled compost is not used except as allowed under paragraphs 2 and 3. 2.  The controlled compost may be used as compost in soil if, i.  the place where the compost is used is within 200 metres of any part of a municipal water system or a municipal sewage system, ii.  the use of the compost will not increase the concentration in the soil of any material in Column 1 of Table 1 above the concentration, if any, opposite in Column 4, and iii.  the person who uses the compost keeps a record, for at least ten years after using the compost, of the date the compost was used, the amount of compost used and the chemical analysis of the compost received from the producer of the compost. 3.  The controlled compost may be used as a cover material at a landfilling site.  O. Reg. 101/94, s. 33 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>33. </b>(1) In this section,</p> <p class=\"firstdef-e\">“controlled compost” means compost that is designated as waste under clause 32 (a) and that, according to the analysis performed in accordance with paragraphs 14 to 16 of section 31, does not contain any substance in Column 1 of Table 1 in a concentration greater than the concentration opposite in Column 3.  O. Reg. 101/94, s. 33 (1).</p> <p class=\"subsection-e\">  (2) Controlled compost is exempt from Part V of the Act and the regulations on the following terms and conditions:</p> <p class=\"paragraph-e\">  1.  The controlled compost is not used except as allowed under paragraphs 2 and 3.</p> <p class=\"paragraph-e\">  2.  The controlled compost may be used as compost in soil if,</p> <p class=\"subpara-e\">  i.  the place where the compost is used is within 200 metres of any part of a municipal water system or a municipal sewage system,</p> <p class=\"subpara-e\">  ii.  the use of the compost will not increase the concentration in the soil of any material in Column 1 of Table 1 above the concentration, if any, opposite in Column 4, and</p> <p class=\"subpara-e\">  iii.  the person who uses the compost keeps a record, for at least ten years after using the compost, of the date the compost was used, the amount of compost used and the chemical analysis of the compost received from the producer of the compost.</p> <p class=\"paragraph-e\">  3.  The controlled compost may be used as a cover material at a landfilling site.  O. Reg. 101/94, s. 33 (2).</p>"
+        },
+        {
+            "ahref_id": "#34.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 34. A leaf and yard waste composting site is exempt from sections 9, 27, 40 and 41 of the Act if all buildings and processing or storage areas that are part of the site are at least 100 metres from the boundaries of the parcel of land upon which the buildings and processing or storage areas are located and from any lake, river, pond, stream, reservoir, spring or well.  O. Reg. 101/94, s. 34.",
+            "raw_html": "<p class=\"section-e\"> <b>34. </b>A leaf and yard waste composting site is exempt from sections 9, 27, 40 and 41 of the Act if all buildings and processing or storage areas that are part of the site are at least 100 metres from the boundaries of the parcel of land upon which the buildings and processing or storage areas are located and from any lake, river, pond, stream, reservoir, spring or well.  O. Reg. 101/94, s. 34.</p>"
+        },
+        {
+            "ahref_id": "#35.",
+            "TOCid": NaN,
+            "Section": NaN,
+            "Section1": NaN,
+            "Section2": NaN,
+            "part_id": NaN,
+            "part_type": NaN,
+            "content": " 35. (1) If section 34 applies to a leaf and yard waste composting site that was a waste disposal site operating under the authority of an environmental compliance approval for the acceptance, processing and transfer, but not the final disposal, of leaf and yard waste and on application therefor, that site receives termination of its approval from the Director and commences operation as a leaf and yard waste composting site, paragraphs 16, 18 and 19 of section 23 do not apply.  O. Reg. 251/11, s. 3. (2) Despite subsection (1), the notice referred to in paragraph 16 of section 23 must be submitted to the Director and the local District Office of the Ministry before the site’s first acceptance of waste as a leaf and yard waste composting site.  O. Reg. 101/94, s. 35 (2). (3) In the event that no waste is accepted at the site operating as a leaf and yard waste composting site within 180 days after the notice is given to the Director, a new notice under paragraph 16 of section 23 is required and this section ceases to apply to the site.  O. Reg. 101/94, s. 35 (3). (4) Revoked:  O. Reg. 107/07, s. 3. table 1   TABLE FOR DETERMINING HOW COMPOST CONTAINING CERTAIN MATERIALS CAN BE USED Item   Column 1 Material   Column 2 Maximum concentration for regular compost (dry weight)   Column 3 Maximum concentration for controlled compost (dry weight)   Column 4 Maximum concentration in soil resulting from use of controlled compost (dry weight) \n\n  1.   Arsenic   10 ppm   20 ppm   14 ppm \n\n  2.   Cadmium   3 ppm   4 ppm   1.6 ppm \n\n  3.   Chromium   50 ppm   50 ppm   120 ppm \n\n  4.   Cobalt   25 ppm   25 ppm   20 ppm \n\n  5.   Copper   60 ppm   100 ppm   100 ppm \n\n  6.   Lead   150 ppm   500 ppm   60 ppm \n\n  7.   Mercury   0.15 ppm   0.5 ppm   0.5 ppm \n\n  8.   Molybdenum   2 ppm   3 ppm   4 ppm \n\n  9.   Nickel   60 ppm   60 ppm   32 ppm \n\n  10.   Selenium   2 ppm   2 ppm   1.6 ppm \n\n  11.   Zinc   500 ppm   500 ppm   220 ppm \n\n  12.   Plastic which will not fit through a size 8 mesh   1%   1%   not applicable \n\n  13.   Non-biodegradable material (other than plastic) that will not fit through a size 8 mesh   2%   2%   not applicable O. Reg. 101/94, Table 1. Schedule 1 \nBLUE BOX WASTE PART I BASIC BLUE BOX WASTE 1.  Aluminum food or beverage cans (including cans made primarily of aluminum). 2.  Glass bottles and jars for food or beverages. 3.  Newsprint. 4.  Polyethylene terephthalate bottles for food or beverages (including bottles made primarily of polyethylene terephthalate). 5.  Steel food or beverage cans (including cans made primarily of steel). PART II SUPPLEMENTARY BLUE BOX WASTE 1.  Aluminum foil (including items made from aluminum foil). 2.  Boxboard and paperboard. 3.  Cardboard (corrugated). 4.  Expanded polystyrene food or beverage containers and packing materials. 5.  Fine paper. 6.  Magazines. 7.  Paper cups and plates. 8.  Plastic film being, i.  linear low density or low density polyethylene grocery bags or bags used for food or beverages, and ii.  linear low density or low density polyethylene used for wrapping products. 9.  Rigid plastic containers being, i.  high density polyethylene bottles used for food, beverages, toiletries or household cleaners (including bottles made primarily of high density polyethylene), and ii.  polystyrene containers used for food or beverages (including containers made primarily of polystyrene). 10.  Telephone directories. 11.  Textiles (not including fibreglass or carpet). 12.  Polycoat paperboard containers, being containers made primarily of paperboard and coated with low density polyethylene or aluminum, and used for food or beverages. O. Reg. 101/94, Sched. 1. Schedule 2 \nRECYCLABLE WASTE OTHER THAN BLUE BOX WASTE 1.  Glass. 2.  Leather. 3.  Leaf and yard waste. 4.  Metal. 5.  Paper (including products made from paper). 6.  Plastic. 7.  Textiles. 8.  The following household appliances: refrigerators; freezers; stoves; ovens; clothes washers; clothes dryers and dishwashers. O. Reg. 101/94, Sched. 2. Schedule 3 \nRECYCLABLE WASTE OTHER THAN BLUE BOX WASTE THAT CANNOT BE COMMINGLED 1.  Brick and Portland cement concrete. 2.  Drywall (unpainted). 3.  Wood (not including painted or treated wood or laminated wood). O. Reg. 101/94, Sched. 3.    ",
+            "raw_html": "<p class=\"section-e\"> <b>35. </b>(1) If section 34 applies to a leaf and yard waste composting site that was a waste disposal site operating under the authority of an environmental compliance approval for the acceptance, processing and transfer, but not the final disposal, of leaf and yard waste and on application therefor, that site receives termination of its approval from the Director and commences operation as a leaf and yard waste composting site, paragraphs 16, 18 and 19 of section 23 do not apply.  O. Reg. 251/11, s. 3.</p> <p class=\"subsection-e\">  (2) Despite subsection (1), the notice referred to in paragraph 16 of section 23 must be submitted to the Director and the local District Office of the Ministry before the site’s first acceptance of waste as a leaf and yard waste composting site.  O. Reg. 101/94, s. 35 (2).</p> <p class=\"subsection-e\">  (3) In the event that no waste is accepted at the site operating as a leaf and yard waste composting site within 180 days after the notice is given to the Director, a new notice under paragraph 16 of section 23 is required and this section ceases to apply to the site.  O. Reg. 101/94, s. 35 (3).</p> <p class=\"subsection-e\">  (4) <span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 107/07, s. 3.</p> <p class=\"tableheading-e\"><a name=\"BK8\"></a>table 1 <br/>  TABLE FOR DETERMINING HOW COMPOST CONTAINING CERTAIN MATERIALS CAN BE USED</p> <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"672\">\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">Item</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Column 1</p> <p class=\"table-e\">Material</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">Column 2</p> <p class=\"table-e\">Maximum concentration for regular compost (dry weight)</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">Column 3</p> <p class=\"table-e\">Maximum concentration for controlled compost (dry weight)</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">Column 4</p> <p class=\"table-e\">Maximum concentration in soil resulting from use of controlled compost (dry weight)</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">1.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Arsenic</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">10 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">20 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">14 ppm</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">2.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Cadmium</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">3 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">4 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">1.6 ppm</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">3.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Chromium</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">50 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">50 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">120 ppm</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">4.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Cobalt</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">25 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">25 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">20 ppm</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">5.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Copper</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">60 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">100 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">100 ppm</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">6.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Lead</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">150 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">500 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">60 ppm</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">7.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Mercury</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">0.15 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">0.5 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">0.5 ppm</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">8.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Molybdenum</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">2 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">3 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">4 ppm</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">9.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Nickel</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">60 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">60 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">32 ppm</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">10.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Selenium</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">2 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">2 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">1.6 ppm</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">11.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Zinc</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">500 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">500 ppm</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">220 ppm</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">12.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Plastic which will not fit through a size 8 mesh</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">1%</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">1%</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">not applicable</p> </td>\n</tr>\n<tr> <td valign=\"top\" width=\"64\"> <p class=\"table-e\">13.</p> </td> <td valign=\"top\" width=\"176\"> <p class=\"table-e\">Non-biodegradable material (other than plastic) that will not fit through a size 8 mesh</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">2%</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">2%</p> </td> <td valign=\"top\" width=\"144\"> <p class=\"table-e\">not applicable</p> </td>\n</tr>\n</table> <p class=\"footnote-e\">O. Reg. 101/94, Table 1.</p> <p class=\"schedule-e\"><a name=\"BK9\"></a>Schedule 1<b> <br/>\n</b>BLUE BOX WASTE</p> <p class=\"headingx-e\"><b>PART I BASIC BLUE BOX WASTE</b></p> <p class=\"paragraph-e\">  1.  Aluminum food or beverage cans (including cans made primarily of aluminum).</p> <p class=\"paragraph-e\">  2.  Glass bottles and jars for food or beverages.</p> <p class=\"paragraph-e\">  3.  Newsprint.</p> <p class=\"paragraph-e\">  4.  Polyethylene terephthalate bottles for food or beverages (including bottles made primarily of polyethylene terephthalate).</p> <p class=\"paragraph-e\">  5.  Steel food or beverage cans (including cans made primarily of steel).</p> <p class=\"headingx-e\"><b>PART II SUPPLEMENTARY BLUE BOX WASTE</b></p> <p class=\"paragraph-e\">  1.  Aluminum foil (including items made from aluminum foil).</p> <p class=\"paragraph-e\">  2.  Boxboard and paperboard.</p> <p class=\"paragraph-e\">  3.  Cardboard (corrugated).</p> <p class=\"paragraph-e\">  4.  Expanded polystyrene food or beverage containers and packing materials.</p> <p class=\"paragraph-e\">  5.  Fine paper.</p> <p class=\"paragraph-e\">  6.  Magazines.</p> <p class=\"paragraph-e\">  7.  Paper cups and plates.</p> <p class=\"paragraph-e\">  8.  Plastic film being,</p> <p class=\"subpara-e\">  i.  linear low density or low density polyethylene grocery bags or bags used for food or beverages, and</p> <p class=\"subpara-e\">  ii.  linear low density or low density polyethylene used for wrapping products.</p> <p class=\"paragraph-e\">  9.  Rigid plastic containers being,</p> <p class=\"subpara-e\">  i.  high density polyethylene bottles used for food, beverages, toiletries or household cleaners (including bottles made primarily of high density polyethylene), and</p> <p class=\"subpara-e\">  ii.  polystyrene containers used for food or beverages (including containers made primarily of polystyrene).</p> <p class=\"paragraph-e\">  10.  Telephone directories.</p> <p class=\"paragraph-e\">  11.  Textiles (not including fibreglass or carpet).</p> <p class=\"paragraph-e\">  12.  Polycoat paperboard containers, being containers made primarily of paperboard and coated with low density polyethylene or aluminum, and used for food or beverages.</p> <p class=\"footnote-e\">O. Reg. 101/94, Sched. 1.</p> <p class=\"schedule-e\"><a name=\"BK10\"></a>Schedule 2<b> <br/>\n</b>RECYCLABLE WASTE OTHER THAN BLUE BOX WASTE</p> <p class=\"paragraph-e\">  1.  Glass.</p> <p class=\"paragraph-e\">  2.  Leather.</p> <p class=\"paragraph-e\">  3.  Leaf and yard waste.</p> <p class=\"paragraph-e\">  4.  Metal.</p> <p class=\"paragraph-e\">  5.  Paper (including products made from paper).</p> <p class=\"paragraph-e\">  6.  Plastic.</p> <p class=\"paragraph-e\">  7.  Textiles.</p> <p class=\"paragraph-e\">  8.  The following household appliances: refrigerators; freezers; stoves; ovens; clothes washers; clothes dryers and dishwashers.</p> <p class=\"footnote-e\">O. Reg. 101/94, Sched. 2.</p> <p class=\"schedule-e\"><a name=\"BK11\"></a>Schedule 3<b> <br/>\n</b>RECYCLABLE WASTE OTHER THAN BLUE BOX WASTE THAT CANNOT BE COMMINGLED</p> <p class=\"paragraph-e\">  1.  Brick and Portland cement concrete.</p> <p class=\"paragraph-e\">  2.  Drywall (unpainted).</p> <p class=\"paragraph-e\">  3.  Wood (not including painted or treated wood or laminated wood).</p> <p class=\"footnote-e\">O. Reg. 101/94, Sched. 3.</p> <p class=\"footnote-e\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

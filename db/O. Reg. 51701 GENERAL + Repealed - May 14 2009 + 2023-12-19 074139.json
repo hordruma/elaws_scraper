@@ -1,0 +1,46 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 517/01: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "O. Reg. 517/01: ",
+        "act_under": "GO Transit Act, 2001   Loi de 2001 sur le Réseau GO",
+        "url": "https://www.ontario.ca/laws/regulation/010517",
+        "date_scraped": "2023-12-19 07:41:39"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/010517/v1",
+            "valid_from": "January  1, 2002",
+            "valid_to": "May 13, 2009"
+        }
+    ],
+    "content": [
+        {
+            "id": "P11_208",
+            "section": "Regional transit area",
+            "content": "1. The regional transit area is comprised of the geographic area of jurisdiction of the cities of Toronto and Hamilton and the regional municipalities of Durham, Halton, Peel and York. O. Reg. 517/01, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b><a name=\"P11_208\"></a><a name=\"BK0\"></a>1. </b>The regional transit area is comprised of the geographic area of jurisdiction of the cities of Toronto and Hamilton and the regional municipalities of Durham, Halton, Peel and York. O. Reg. 517/01, s. 1.</p>"
+        },
+        {
+            "id": "P13_455",
+            "section": "Application of the Corporations Act",
+            "content": "2. Sections 279 (seal), 280 (contracts), 281 (power of attorney), 282 (authentication of documents), 292 (validity of acts of directors, etc.), 293 (annual meetings), 299 (minute books), 300 and 301 (documents and registers and their admissibility), 302 (books of account), 303 (untrue entries), 304 and 305 (keeping and inspecting records) and 325 (proof of matters) of the Corporations Act apply to GO Transit with necessary modifications. O. Reg. 517/01, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b><a name=\"P13_455\"></a><a name=\"BK1\"></a>2. </b>Sections 279 (seal), 280 (contracts), 281 (power of attorney), 282 (authentication of documents), 292 (validity of acts of directors, etc.), 293 (annual meetings), 299 (minute books), 300 and 301 (documents and registers and their admissibility), 302 (books of account), 303 (untrue entries), 304 and 305 (keeping and inspecting records) and 325 (proof of matters) of the <i>Corporations Act</i> apply to GO Transit with necessary modifications. O. Reg. 517/01, s. 2.</p>"
+        },
+        {
+            "id": "P15_962",
+            "section": "Reimbursement of directors’ expenses",
+            "content": "3. The board of directors of GO Transit may pass by-laws for the reimbursement of its members for expenses necessarily incurred by them in the discharge of their duties. O. Reg. 517/01, s. 3.",
+            "raw_html": "<p class=\"section-e\"><b><a name=\"P15_962\"></a><a name=\"BK2\"></a>3. </b>The board of directors of GO Transit may pass by-laws for the reimbursement of its members for expenses necessarily incurred by them in the discharge of their duties. O. Reg. 517/01, s. 3.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Reimbursement of directors’ expenses",
+            "content": "4. Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 517/01, s. 4. ",
+            "raw_html": "<p class=\"section-e\"><b>4.</b> Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 517/01, s. 4.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

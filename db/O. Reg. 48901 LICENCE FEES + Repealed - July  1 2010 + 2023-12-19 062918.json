@@ -1,0 +1,51 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 489/01: LICENCE FEES",
+        "reg_name_text": "LICENCE FEES",
+        "citation": "O. Reg. 489/01: ",
+        "act_under": "Public Accountancy Act   Loi sur la comptabilité publique",
+        "url": "https://www.ontario.ca/laws/regulation/010489",
+        "date_scraped": "2023-12-19 06:29:18"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/010489/v2",
+            "valid_from": "February 18, 2005",
+            "valid_to": "October 31, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/010489/v1",
+            "valid_from": "January  1, 2002",
+            "valid_to": "February 17, 2005"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Licence fees",
+            "content": "1. The following fees are payable for the grant or renewal of a licence:  1.\n\nFee for new licence \n\n$130\n\n\n2.\n\nFee for renewal of licence \n\n150\n\n\n3.\n\nFee for renewal of licence, if paid on or before April 30 in the fiscal year before the fiscal year to which renewal relates \n\n130 O. Reg. 489/01, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1.</b> The following fees are payable for the grant or renewal of a licence:</p> <p>\n</p> <center><table border=\"1\">\n<tr>\n<td valign=\"top\" width=\"31\"><p class=\"table-e\">1.</p>\n</td>\n<td valign=\"top\" width=\"233\"><p class=\"table-e\">Fee for new licence </p>\n</td>\n<td valign=\"top\" width=\"46\"><p align=\"right\" class=\"table-e\">$130</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"31\"><p class=\"table-e\">2.</p>\n</td>\n<td valign=\"top\" width=\"233\"><p class=\"table-e\">Fee for renewal of licence </p>\n</td>\n<td valign=\"top\" width=\"46\"><p align=\"right\" class=\"table-e\">150</p>\n</td></tr>\n<tr>\n<td valign=\"top\" width=\"31\"><p class=\"table-e\">3.</p>\n</td>\n<td valign=\"top\" width=\"233\"><p class=\"table-e\">Fee for renewal of licence, if paid on or before April 30 in the fiscal year before the fiscal year to which renewal relates </p>\n</td>\n<td valign=\"top\" width=\"46\"><p align=\"right\" class=\"table-e\">130</p>\n</td></tr></table></center> <p class=\"footnote-e\">O. Reg. 489/01, s. 1.</p>"
+        },
+        {
+            "id": "1.1",
+            "section": "Licence fee rebate",
+            "content": "1.1 A rebate in the amount of $75 shall be paid to all licensees holding valid licences as of September 10, 2004. O. Reg. 41/05, s. 1.",
+            "raw_html": "<p class=\"section-e\"><b>1.1</b> A rebate in the amount of $75 shall be paid to all licensees holding valid licences as of September 10, 2004. O. Reg. 41/05, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Licence fee rebate",
+            "content": "2. Omitted (revokes other Regulations). O. Reg. 489/01, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2.</b> Omitted (revokes other Regulations). O. Reg. 489/01, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Licence fee rebate",
+            "content": "3. Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 489/01, s. 3. ",
+            "raw_html": "<p class=\"section-e\"><b>3.</b> Omitted (provides for coming into force of provisions of this Regulation). O. Reg. 489/01, s. 3.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

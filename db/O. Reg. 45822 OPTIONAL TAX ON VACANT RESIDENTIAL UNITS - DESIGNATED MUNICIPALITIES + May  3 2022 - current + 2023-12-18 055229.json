@@ -1,0 +1,40 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 458/22: OPTIONAL TAX ON VACANT RESIDENTIAL UNITS - DESIGNATED MUNICIPALITIES",
+        "reg_name_text": "OPTIONAL TAX ON VACANT RESIDENTIAL UNITS - DESIGNATED MUNICIPALITIES",
+        "citation": "O. Reg. 458/22: ",
+        "act_under": "Municipal Act, 2001",
+        "url": "https://www.ontario.ca/laws/regulation/220458",
+        "date_scraped": "2023-12-18 05:52:30"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "May  3, 2022",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Designated municipalities",
+            "content": "  1. The following municipalities are designated for the purposes of Part IX.1 of the Act: 1. The City of Hamilton. 2. The City of Ottawa.",
+            "raw_html": "<p class=\"section-e\"><b>  1. </b>The following municipalities are designated for the purposes of Part IX.1 of the Act:</p> <p class=\"paragraph-e\">  1. The City of Hamilton.</p> <p class=\"paragraph-e\">  2. The City of Ottawa.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Designated municipalities",
+            "content": " 2. Omitted (provides for coming into force of provisions of this Regulation).",
+            "raw_html": "<p class=\"section-e\"> <b>2.</b> <span class=\"ovsmallcap\">Omitted</span> (<span class=\"ovsmallcap\">provides for coming into force of provisions of this Regulation</span>).</p>"
+        },
+        {
+            "id": null,
+            "section": "Designated municipalities",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/220458\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

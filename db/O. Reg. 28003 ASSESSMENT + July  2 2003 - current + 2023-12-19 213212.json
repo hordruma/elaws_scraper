@@ -1,0 +1,76 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 280/03: ASSESSMENT",
+        "reg_name_text": "ASSESSMENT",
+        "citation": "O. Reg. 280/03: ",
+        "act_under": "Motor Vehicle Accident Claims Act   Loi sur l’indemnisation des victimes d’accidents de véhicules automobiles",
+        "url": "https://www.ontario.ca/laws/regulation/030280",
+        "date_scraped": "2023-12-19 21:32:12"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "July  2, 2003",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Interpretation",
+            "content": "1. (1) In this Regulation, “assessment period” means the period of time with respect to which the Lieutenant Governor in Council makes an assessment; “FMGF member” means an insurer that is licensed under the Insurance Act for automobile insurance and that is a member of the Fire Mutuals Guarantee Fund; “PACICC member” means an insurer that is licensed under the Insurance Act for automobile insurance and that is a member of the Property and Casualty Insurance Compensation Corporation; “winding-up order” means a winding-up order being made in respect of an insurer under the Winding-up and Restructuring Act (Canada). O. Reg. 280/03, s. 1 (1). (2) For the purpose of this Regulation, an insurer’s direct premiums for automobile insurance in a year are the premiums paid to the insurer in the year other than premiums under agreements for reinsurance. O. Reg. 280/03, s. 1 (2).",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>(1) In this Regulation,</p> <p class=\"firstdef-e\">“assessment period” means the period of time with respect to which the Lieutenant Governor in Council makes an assessment;</p> <p class=\"definition-e\">“FMGF member” means an insurer that is licensed under the <i>Insurance Act</i> for automobile insurance and that is a member of the Fire Mutuals Guarantee Fund;</p> <p class=\"definition-e\">“PACICC member” means an insurer that is licensed under the <i>Insurance Act </i>for automobile insurance and that is a member of the Property and Casualty Insurance Compensation Corporation;</p> <p class=\"definition-e\">“winding-up order” means a winding-up order being made in respect of an insurer under the <i>Winding-up and Restructuring Act</i> (Canada). O. Reg. 280/03, s. 1 (1).</p> <p class=\"subsection-e\">(2) For the purpose of this Regulation, an insurer’s direct premiums for automobile insurance in a year are the premiums paid to the insurer in the year other than premiums under agreements for reinsurance. O. Reg. 280/03, s. 1 (2).</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Classes of insurer",
+            "content": "2. The following are classes of insurers for the purposes of assessment by the Lieutenant Governor in Council under subsection 2 (6) of the Act: 1. FMGF members. 2. PACICC members. O. Reg. 280/03, s. 2.",
+            "raw_html": "<p class=\"section-e\"><b>2. </b>The following are classes of insurers for the purposes of assessment by the Lieutenant Governor in Council under subsection 2 (6) of the Act:</p> <p class=\"paragraph-e\">1. FMGF members.</p> <p class=\"paragraph-e\">2. PACICC members. O. Reg. 280/03, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": "Formula, s. 2 (6) of Act",
+            "content": "3. For the purposes of an assessment under subsection 2 (6) of the Act, the amounts paid out and expenses and expenditures of the Fund shall be calculated for each assessment period in accordance with the following formula: (A + B + C) – D = E where, A = amounts paid out to persons under subsection 6.1 (3) of the Act, B = all allocated costs associated with any application submitted by a person under subsection 6.1 (1) of the Act, C = the unallocated costs incurred by the Fund as a result of a winding-up order and the Fund receiving applications for benefits under subsection 6.1 (1) of the Act, D = any amounts recovered by the Minister as a result of assignments by the persons who are paid benefits under subsection 6.1 (3) of the Act, E = the amount to be assessed under subsection 2 (6) of the Act. O. Reg. 280/03, s. 3.",
+            "raw_html": "<p class=\"section-e\"><b>3. </b>For the purposes of an assessment under subsection 2 (6) of the Act, the amounts paid out and expenses and expenditures of the Fund shall be calculated for each assessment period in accordance with the following formula:</p> <p class=\"equation-e\">(A + B + C) – D = E</p> <p class=\"Ssection-e\">where,</p> <p class=\"equationind1-e\">A = amounts paid out to persons under subsection 6.1 (3) of the Act,</p> <p class=\"equationind1-e\">B = all allocated costs associated with any application submitted by a person under subsection 6.1 (1) of the Act,</p> <p class=\"equationind1-e\">C = the unallocated costs incurred by the Fund as a result of a winding-up order and the Fund receiving applications for benefits under subsection 6.1 (1) of the Act,</p> <p class=\"equationind1-e\">D = any amounts recovered by the Minister as a result of assignments by the persons who are paid benefits under subsection 6.1 (3) of the Act,</p> <p class=\"equationind1-e\">E = the amount to be assessed under subsection 2 (6) of the Act.</p> <p class=\"footnote-e\">O. Reg. 280/03, s. 3.</p>"
+        },
+        {
+            "id": "4.",
+            "section": "Separate calculations ",
+            "content": "4. The calculation referred to in section 3 shall be made separately for each insurer in respect of which, in the assessment period, amounts are paid out or expenses and expenditures incurred. O. Reg. 280/03, s. 4.",
+            "raw_html": "<p class=\"section-e\"><b>4. </b>The calculation referred to in section 3 shall be made separately for each insurer in respect of which, in the assessment period, amounts are paid out or expenses and expenditures incurred. O. Reg. 280/03, s. 4.</p>"
+        },
+        {
+            "id": "5.",
+            "section": "PACICC member ",
+            "content": "5. If the winding-up order is made in respect of a PACICC member, the share recoverable from each insurer that was a PACICC member during the assessment period shall be calculated in accordance with the following formula: E = F × G/H where, E = the share recoverable from the PACICC member, F = the total amount of the assessment to be recovered as calculated under section 3, G = the PACICC member’s direct premiums for automobile insurance in Ontario in the calendar year immediately preceding the beginning of the assessment period, H = the total, for all PACICC members licensed for automobile insurance during the assessment period of all direct premiums for automobile insurance in the calendar year immediately preceding the beginning of the assessment period, excluding the direct premiums of any PACICC members in respect of which a winding-up order was made during or subsequent to that period. O. Reg. 280/03, s. 5.",
+            "raw_html": "<p class=\"section-e\"><b>5. </b>If the winding-up order is made in respect of a PACICC member, the share recoverable from each insurer that was a PACICC member during the assessment period shall be calculated in accordance with the following formula:</p> <p class=\"equation-e\">E = F × G/H</p> <p class=\"Ssection-e\">where,</p> <p class=\"equationind1-e\">E = the share recoverable from the PACICC member,</p> <p class=\"equationind1-e\">F = the total amount of the assessment to be recovered as calculated under section 3,</p> <p class=\"equationind1-e\">G = the PACICC member’s direct premiums for automobile insurance in Ontario in the calendar year immediately preceding the beginning of the assessment period,</p> <p class=\"equationind1-e\">H = the total, for all PACICC members licensed for automobile insurance during the assessment period of all direct premiums for automobile insurance in the calendar year immediately preceding the beginning of the assessment period, excluding the direct premiums of any PACICC members in respect of which a winding-up order was made during or subsequent to that period.</p> <p class=\"footnote-e\">O. Reg. 280/03, s. 5.</p>"
+        },
+        {
+            "id": "6.",
+            "section": "Same",
+            "content": "6. If the winding-up order is made in respect of a PACICC member, the share recoverable from each insurer that was an FMGF member during the assessment period shall be zero. O. Reg. 280/03, s. 6.",
+            "raw_html": "<p class=\"section-e\"><b>6. </b>If the winding-up order is made in respect of a PACICC member, the share recoverable from each insurer that was an FMGF member during the assessment period shall be zero. O. Reg. 280/03, s. 6.</p>"
+        },
+        {
+            "id": "7.",
+            "section": "FMGF member",
+            "content": "7. If the winding-up order is made in respect of an FMGF member, the share recoverable from each insurer that was an FMGF member during the assessment period shall be calculated in accordance with the following formula: I = J × K/L where, I = the share recoverable from the FMGF member, J = the total amount of the assessment to be recovered as calculated under section 3, K = the FMGF member’s direct premiums for automobile insurance in Ontario in the calendar year immediately preceding the beginning of the assessment period, L = the total, for all FMGF members licensed for automobile insurance during the assessment period of all direct premiums for automobile insurance in the calendar year immediately preceding the beginning of the assessment period, excluding the direct premiums of any FMGF members in respect of which a winding-up order was made during or subsequent to that period. O. Reg. 280/03, s. 7.",
+            "raw_html": "<p class=\"section-e\"><b>7. </b>If the winding-up order is made in respect of an FMGF member, the share recoverable from each insurer that was an FMGF member during the assessment period shall be calculated in accordance with the following formula:</p> <p class=\"equation-e\">I = J × K/L</p> <p class=\"Ssection-e\">where, </p> <p class=\"equationind1-e\">I = the share recoverable from the FMGF member,</p> <p class=\"equationind1-e\">J = the total amount of the assessment to be recovered as calculated under section 3,</p> <p class=\"equationind1-e\">K = the FMGF member’s direct premiums for automobile insurance in Ontario in the calendar year immediately preceding the beginning of the assessment period,</p> <p class=\"equationind1-e\">L = the total, for all FMGF members licensed for automobile insurance during the assessment period of all direct premiums for automobile insurance in the calendar year immediately preceding the beginning of the assessment period, excluding the direct premiums of any FMGF members in respect of which a winding-up order was made during or subsequent to that period.</p> <p class=\"footnote-e\">O. Reg. 280/03, s. 7.</p>"
+        },
+        {
+            "id": "8.",
+            "section": "Same",
+            "content": "8. If the winding-up order is made in respect of an FMGF member, the share recoverable from each insurer that was a PACICC member during the assessment period shall be zero. O. Reg. 280/03, s. 8.",
+            "raw_html": "<p class=\"section-e\"><b>8. </b>If the winding-up order is made in respect of an FMGF member, the share recoverable from each insurer that was a PACICC member during the assessment period shall be zero. O. Reg. 280/03, s. 8.</p>"
+        },
+        {
+            "id": "9.",
+            "section": "If subject of winding-up order",
+            "content": "9. If a PACICC member or FMGF member was the subject of a winding-up order during the assessment period, its share of any assessment is zero. O. Reg. 280/03, s. 9. ",
+            "raw_html": "<p class=\"section-e\"><b>9. </b>If a PACICC member or FMGF member was the subject of a winding-up order during the assessment period, its share of any assessment is zero. O. Reg. 280/03, s. 9.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

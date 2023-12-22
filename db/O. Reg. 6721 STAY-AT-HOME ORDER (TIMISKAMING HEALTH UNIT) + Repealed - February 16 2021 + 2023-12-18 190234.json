@@ -1,0 +1,46 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 67/21: STAY-AT-HOME ORDER (TIMISKAMING HEALTH UNIT)",
+        "reg_name_text": "STAY-AT-HOME ORDER (TIMISKAMING HEALTH UNIT)",
+        "citation": "O. Reg. 67/21: ",
+        "act_under": "Emergency Management and Civil Protection Act",
+        "url": "https://www.ontario.ca/laws/regulation/210067",
+        "date_scraped": "2023-12-18 19:02:35"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/210067/v1",
+            "valid_from": "February  8, 2021",
+            "valid_to": "February 15, 2021"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Terms of Order",
+            "content": " 1. The terms of this Order are set out in Schedule 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The terms of this Order are set out in Schedule 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": "Definition",
+            "content": " 2. In this Order, “health unit” means a health unit as defined in the Health Protection and Promotion Act. SCHEDULE 1",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>In this Order,</p> <p class=\"definition-e\">“health unit” means a health unit as defined in the <i>Health Protection and Promotion Act</i>.</p> <p class=\"schedule-e\">SCHEDULE 1</p>"
+        },
+        {
+            "id": "1.",
+            "section": "Stay-at-Home Order",
+            "content": " 1. Ontario Regulation 11/21 (Stay-at-Home Order) made under the Act applies to the Timiskaming Health Unit.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>Ontario Regulation 11/21 (Stay-at-Home Order) made under the Act applies to the Timiskaming Health Unit.</p>"
+        },
+        {
+            "id": null,
+            "section": "Stay-at-Home Order",
+            "content": "  Français  ",
+            "raw_html": "<p class=\"section-e\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/reglement/210067\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

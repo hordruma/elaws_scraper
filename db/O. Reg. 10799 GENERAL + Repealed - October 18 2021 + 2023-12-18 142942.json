@@ -1,0 +1,184 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 107/99: GENERAL",
+        "reg_name_text": "GENERAL",
+        "citation": "O. Reg. 107/99: ",
+        "act_under": "Legal Aid Services Act, 1998",
+        "url": "https://www.ontario.ca/laws/regulation/990107",
+        "date_scraped": "2023-12-18 14:29:51"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/990107/v18",
+            "valid_from": "March  1, 2021",
+            "valid_to": "October 17, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v17",
+            "valid_from": "January 29, 2021",
+            "valid_to": "February 28, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v16",
+            "valid_from": "July  8, 2020",
+            "valid_to": "January 28, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v15",
+            "valid_from": "June 26, 2019",
+            "valid_to": "July  7, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v14",
+            "valid_from": "June 12, 2019",
+            "valid_to": "June 25, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v13",
+            "valid_from": "April 30, 2018",
+            "valid_to": "June 11, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v12",
+            "valid_from": "April  3, 2018",
+            "valid_to": "April 29, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v11",
+            "valid_from": "October  6, 2016",
+            "valid_to": "April  2, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v10",
+            "valid_from": "November  1, 2014",
+            "valid_to": "October  5, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v9",
+            "valid_from": "October 30, 2014",
+            "valid_to": "October 31, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v8",
+            "valid_from": "May  1, 2014",
+            "valid_to": "October 29, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v7",
+            "valid_from": "March 31, 2014",
+            "valid_to": "April 30, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v6",
+            "valid_from": "April 29, 2010",
+            "valid_to": "March 30, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v5",
+            "valid_from": "January 27, 2009",
+            "valid_to": "April 28, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v4",
+            "valid_from": "July  3, 2007",
+            "valid_to": "January 26, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v3",
+            "valid_from": "June 13, 2005",
+            "valid_to": "July  2, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v2",
+            "valid_from": "June 25, 2004",
+            "valid_to": "June 12, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/990107/v1",
+            "valid_from": "May 22, 2003",
+            "valid_to": "June 24, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "None",
+            "TOCid": "None",
+            "part_id": null,
+            "part_type": null,
+            "section": "None",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "Schedule 1",
+            "part_id": null,
+            "part_type": null,
+            "section": "Fees in criminal matters",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "Schedule 2",
+            "part_id": null,
+            "part_type": null,
+            "section": "Fees in civil matters",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "Schedule 3",
+            "part_id": null,
+            "part_type": null,
+            "section": "Fees for lawyers providing services of law clerks, articled students and investigators",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "Schedule 4",
+            "part_id": null,
+            "part_type": null,
+            "section": "Fees for duty counsel",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "Schedule 5",
+            "part_id": null,
+            "part_type": null,
+            "section": "Fees of advice lawyers",
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "Schedule 6",
+            "part_id": null,
+            "part_type": null,
+            "section": "Disbursements",
+            "content": NaN,
+            "raw_html": NaN
+        }
+    ]
+}

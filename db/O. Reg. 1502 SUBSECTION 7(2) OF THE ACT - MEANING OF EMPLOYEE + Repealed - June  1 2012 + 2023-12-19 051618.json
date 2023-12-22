@@ -1,0 +1,33 @@
+{
+    "reg_info": {
+        "full_title": "O. Reg. 15/02: SUBSECTION 7(2) OF THE ACT - MEANING OF EMPLOYEE",
+        "reg_name_text": "SUBSECTION 7 (2) OF THE ACT — MEANING OF EMPLOYEE",
+        "citation": "O. Reg. 15/02: SUBSECTION 7(2) OF THE ACT - MEANING OF EMPLOYEE",
+        "act_under": "Ontario Lottery and Gaming Corporation Act, 1999   Loi de 1999 sur la Société des Loteries et des Jeux de l’Ontario",
+        "url": "https://www.ontario.ca/laws/regulation/020015",
+        "date_scraped": "2023-12-19 05:16:18"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/regulation/020015/v2",
+            "valid_from": "May 14, 2012",
+            "valid_to": "May 31, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/020015/v1",
+            "valid_from": "January 25, 2002",
+            "valid_to": "May 13, 2012"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": "Meaning of employee",
+            "content": "1. For the purposes of subsection 7 (2) of the Act, “employee” means an employee who is a permanent and full-time employee of the Corporation. O. Reg. 15/02, s. 1. ",
+            "raw_html": "<p class=\"section-e\"><b>1. </b>For the purposes of subsection 7 (2) of the Act,</p> <p class=\"firstdef-e\">“employee” means an employee who is a permanent and full-time employee of the Corporation. O. Reg. 15/02, s. 1.</p> <p class=\"Normal\"></p>"
+        }
+    ]
+}

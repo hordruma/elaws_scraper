@@ -1,0 +1,994 @@
+{
+    "reg_info": {
+        "full_title": "R.R.O. 1990, Reg. 619: SPEED LIMITS",
+        "reg_name_text": "SPEED LIMITS",
+        "citation": "R.R.O. 1990, Reg. 619: ",
+        "act_under": "Highway Traffic Act   Code de la route",
+        "url": "https://www.ontario.ca/laws/regulation/900619",
+        "date_scraped": "2023-12-18 04:45:32"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "March 31, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v185",
+            "valid_from": "March 24, 2023",
+            "valid_to": "March 30, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v184",
+            "valid_from": "January 30, 2023",
+            "valid_to": "March 23, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v183",
+            "valid_from": "December  7, 2022",
+            "valid_to": "January 29, 2023"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v182",
+            "valid_from": "September  7, 2022",
+            "valid_to": "December  6, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v181",
+            "valid_from": "April 22, 2022",
+            "valid_to": "September  6, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v180",
+            "valid_from": "April 21, 2022",
+            "valid_to": "April 21, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v179",
+            "valid_from": "February 25, 2022",
+            "valid_to": "April 20, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v178",
+            "valid_from": "December 15, 2021",
+            "valid_to": "February 24, 2022"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v177",
+            "valid_from": "December  8, 2021",
+            "valid_to": "December 14, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v176",
+            "valid_from": "October 12, 2021",
+            "valid_to": "December  7, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v175",
+            "valid_from": "September  3, 2021",
+            "valid_to": "October 11, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v174",
+            "valid_from": "August 30, 2021",
+            "valid_to": "September  2, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v173",
+            "valid_from": "July 28, 2021",
+            "valid_to": "August 29, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v172",
+            "valid_from": "June 21, 2021",
+            "valid_to": "July 27, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v171",
+            "valid_from": "February 10, 2021",
+            "valid_to": "June 20, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v170",
+            "valid_from": "October 13, 2020",
+            "valid_to": "February  9, 2021"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v169",
+            "valid_from": "September 23, 2020",
+            "valid_to": "October 12, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v168",
+            "valid_from": "September  2, 2020",
+            "valid_to": "September 22, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v167",
+            "valid_from": "July 15, 2020",
+            "valid_to": "September  1, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v166",
+            "valid_from": "July 14, 2020",
+            "valid_to": "July 14, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v165",
+            "valid_from": "June 29, 2020",
+            "valid_to": "July 13, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v164",
+            "valid_from": "June  5, 2020",
+            "valid_to": "June 28, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v163",
+            "valid_from": "June  3, 2020",
+            "valid_to": "June  4, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v162",
+            "valid_from": "June  1, 2020",
+            "valid_to": "June  2, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v161",
+            "valid_from": "May 29, 2020",
+            "valid_to": "May 31, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v160",
+            "valid_from": "April  2, 2020",
+            "valid_to": "May 28, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v159",
+            "valid_from": "March 31, 2020",
+            "valid_to": "April  1, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v158",
+            "valid_from": "November 22, 2019",
+            "valid_to": "March 30, 2020"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v157",
+            "valid_from": "October 25, 2019",
+            "valid_to": "November 21, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v156",
+            "valid_from": "October 18, 2019",
+            "valid_to": "October 24, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v155",
+            "valid_from": "September 26, 2019",
+            "valid_to": "October 17, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v154",
+            "valid_from": "September 12, 2019",
+            "valid_to": "September 25, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v153",
+            "valid_from": "September  6, 2019",
+            "valid_to": "September 11, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v152",
+            "valid_from": "August 28, 2019",
+            "valid_to": "September  5, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v151",
+            "valid_from": "August  6, 2019",
+            "valid_to": "August 27, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v150",
+            "valid_from": "May 14, 2019",
+            "valid_to": "August  5, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v149",
+            "valid_from": "May 10, 2019",
+            "valid_to": "May 13, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v148",
+            "valid_from": "February 15, 2019",
+            "valid_to": "May  9, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v147",
+            "valid_from": "December 21, 2018",
+            "valid_to": "February 14, 2019"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v146",
+            "valid_from": "November  2, 2018",
+            "valid_to": "December 20, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v145",
+            "valid_from": "October 11, 2018",
+            "valid_to": "November  1, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v144",
+            "valid_from": "September 12, 2018",
+            "valid_to": "October 10, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v143",
+            "valid_from": "April 30, 2018",
+            "valid_to": "September 11, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v142",
+            "valid_from": "April 13, 2018",
+            "valid_to": "April 29, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v141",
+            "valid_from": "March 29, 2018",
+            "valid_to": "April 12, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v140",
+            "valid_from": "January  1, 2018",
+            "valid_to": "March 28, 2018"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v139",
+            "valid_from": "December 13, 2017",
+            "valid_to": "December 31, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v138",
+            "valid_from": "November 24, 2017",
+            "valid_to": "December 12, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v137",
+            "valid_from": "November  6, 2017",
+            "valid_to": "November 23, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v136",
+            "valid_from": "October 23, 2017",
+            "valid_to": "November  5, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v135",
+            "valid_from": "October 11, 2017",
+            "valid_to": "October 22, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v134",
+            "valid_from": "July 18, 2017",
+            "valid_to": "October 10, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v133",
+            "valid_from": "July 14, 2017",
+            "valid_to": "July 17, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v132",
+            "valid_from": "July 12, 2017",
+            "valid_to": "July 13, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v131",
+            "valid_from": "July 10, 2017",
+            "valid_to": "July 11, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v130",
+            "valid_from": "June 29, 2017",
+            "valid_to": "July  9, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v129",
+            "valid_from": "June  8, 2017",
+            "valid_to": "June 28, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v128",
+            "valid_from": "February 22, 2017",
+            "valid_to": "June  7, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v127",
+            "valid_from": "January 20, 2017",
+            "valid_to": "February 21, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v126",
+            "valid_from": "November  4, 2016",
+            "valid_to": "January 19, 2017"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v125",
+            "valid_from": "August 15, 2016",
+            "valid_to": "November  3, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v124",
+            "valid_from": "August  4, 2016",
+            "valid_to": "August 14, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v123",
+            "valid_from": "July 11, 2016",
+            "valid_to": "August  3, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v122",
+            "valid_from": "June 16, 2016",
+            "valid_to": "July 10, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v121",
+            "valid_from": "June 14, 2016",
+            "valid_to": "June 15, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v120",
+            "valid_from": "June  6, 2016",
+            "valid_to": "June 13, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v119",
+            "valid_from": "March 24, 2016",
+            "valid_to": "June  5, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v118",
+            "valid_from": "February 12, 2016",
+            "valid_to": "March 23, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v117",
+            "valid_from": "December  9, 2015",
+            "valid_to": "February 11, 2016"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v116",
+            "valid_from": "December  4, 2015",
+            "valid_to": "December  8, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v115",
+            "valid_from": "October 15, 2015",
+            "valid_to": "December  3, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v114",
+            "valid_from": "August 27, 2015",
+            "valid_to": "October 14, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v113",
+            "valid_from": "August 26, 2015",
+            "valid_to": "August 26, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v112",
+            "valid_from": "August 13, 2015",
+            "valid_to": "August 25, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v111",
+            "valid_from": "August  6, 2015",
+            "valid_to": "August 12, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v110",
+            "valid_from": "June 30, 2015",
+            "valid_to": "August  5, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v109",
+            "valid_from": "June  1, 2015",
+            "valid_to": "June 29, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v108",
+            "valid_from": "May  1, 2015",
+            "valid_to": "May 31, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v107",
+            "valid_from": "February 24, 2015",
+            "valid_to": "April 30, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v106",
+            "valid_from": "November 19, 2014",
+            "valid_to": "February 23, 2015"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v105",
+            "valid_from": "July 29, 2014",
+            "valid_to": "November 18, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v104",
+            "valid_from": "December  9, 2013",
+            "valid_to": "July 28, 2014"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v103",
+            "valid_from": "December  6, 2013",
+            "valid_to": "December  8, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v102",
+            "valid_from": "August 29, 2013",
+            "valid_to": "December  5, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v101",
+            "valid_from": "July 25, 2013",
+            "valid_to": "August 28, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v100",
+            "valid_from": "June 28, 2013",
+            "valid_to": "July 24, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v99",
+            "valid_from": "June 21, 2013",
+            "valid_to": "June 27, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v98",
+            "valid_from": "March 28, 2013",
+            "valid_to": "June 20, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v97",
+            "valid_from": "January 25, 2013",
+            "valid_to": "March 27, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v96",
+            "valid_from": "December 11, 2012",
+            "valid_to": "January 24, 2013"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v95",
+            "valid_from": "December  4, 2012",
+            "valid_to": "December 10, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v94",
+            "valid_from": "November 13, 2012",
+            "valid_to": "December  3, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v93",
+            "valid_from": "November  6, 2012",
+            "valid_to": "November 12, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v92",
+            "valid_from": "November  5, 2012",
+            "valid_to": "November  5, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v91",
+            "valid_from": "October 29, 2012",
+            "valid_to": "November  4, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v90",
+            "valid_from": "October  1, 2012",
+            "valid_to": "October 28, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v89",
+            "valid_from": "September 27, 2012",
+            "valid_to": "September 30, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v88",
+            "valid_from": "August 28, 2012",
+            "valid_to": "September 26, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v87",
+            "valid_from": "August 21, 2012",
+            "valid_to": "August 27, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v86",
+            "valid_from": "August 20, 2012",
+            "valid_to": "August 20, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v85",
+            "valid_from": "August 16, 2012",
+            "valid_to": "August 19, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v84",
+            "valid_from": "July 19, 2012",
+            "valid_to": "August 15, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v83",
+            "valid_from": "June 29, 2012",
+            "valid_to": "July 18, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v82",
+            "valid_from": "June 18, 2012",
+            "valid_to": "June 28, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v81",
+            "valid_from": "June 15, 2012",
+            "valid_to": "June 17, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v80",
+            "valid_from": "May 31, 2012",
+            "valid_to": "June 14, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v79",
+            "valid_from": "May 30, 2012",
+            "valid_to": "May 30, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v78",
+            "valid_from": "April 10, 2012",
+            "valid_to": "May 29, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v77",
+            "valid_from": "March 26, 2012",
+            "valid_to": "April  9, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v76",
+            "valid_from": "March  7, 2012",
+            "valid_to": "March 25, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v75",
+            "valid_from": "January 19, 2012",
+            "valid_to": "March  6, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v74",
+            "valid_from": "September 14, 2011",
+            "valid_to": "January 18, 2012"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v73",
+            "valid_from": "September  7, 2011",
+            "valid_to": "September 13, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v72",
+            "valid_from": "August 29, 2011",
+            "valid_to": "September  6, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v71",
+            "valid_from": "June 20, 2011",
+            "valid_to": "August 28, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v70",
+            "valid_from": "March 29, 2011",
+            "valid_to": "June 19, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v69",
+            "valid_from": "March 22, 2011",
+            "valid_to": "March 28, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v68",
+            "valid_from": "December 15, 2010",
+            "valid_to": "March 21, 2011"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v67",
+            "valid_from": "December 10, 2010",
+            "valid_to": "December 14, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v66",
+            "valid_from": "December  6, 2010",
+            "valid_to": "December  9, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v65",
+            "valid_from": "November  5, 2010",
+            "valid_to": "December  5, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v64",
+            "valid_from": "August 18, 2010",
+            "valid_to": "November  4, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v63",
+            "valid_from": "July 28, 2010",
+            "valid_to": "August 17, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v62",
+            "valid_from": "April 30, 2010",
+            "valid_to": "July 27, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v61",
+            "valid_from": "April 19, 2010",
+            "valid_to": "April 29, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v60",
+            "valid_from": "March  8, 2010",
+            "valid_to": "April 18, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v59",
+            "valid_from": "November 17, 2009",
+            "valid_to": "March  7, 2010"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v58",
+            "valid_from": "November 16, 2009",
+            "valid_to": "November 16, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v57",
+            "valid_from": "November 13, 2009",
+            "valid_to": "November 15, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v56",
+            "valid_from": "October 29, 2009",
+            "valid_to": "November 12, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v55",
+            "valid_from": "September  3, 2009",
+            "valid_to": "October 28, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v54",
+            "valid_from": "August 31, 2009",
+            "valid_to": "September  2, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v53",
+            "valid_from": "July 22, 2009",
+            "valid_to": "August 30, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v52",
+            "valid_from": "June 26, 2009",
+            "valid_to": "July 21, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v51",
+            "valid_from": "May 27, 2009",
+            "valid_to": "June 25, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v50",
+            "valid_from": "April 30, 2009",
+            "valid_to": "May 26, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v49",
+            "valid_from": "April  7, 2009",
+            "valid_to": "April 29, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v48",
+            "valid_from": "April  6, 2009",
+            "valid_to": "April  6, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v47",
+            "valid_from": "March  5, 2009",
+            "valid_to": "April  5, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v46",
+            "valid_from": "February 13, 2009",
+            "valid_to": "March  4, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v45",
+            "valid_from": "January 29, 2009",
+            "valid_to": "February 12, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v44",
+            "valid_from": "January 22, 2009",
+            "valid_to": "January 28, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v43",
+            "valid_from": "December 19, 2008",
+            "valid_to": "January 21, 2009"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v42",
+            "valid_from": "November 14, 2008",
+            "valid_to": "December 18, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v41",
+            "valid_from": "November 10, 2008",
+            "valid_to": "November 13, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v40",
+            "valid_from": "November  3, 2008",
+            "valid_to": "November  9, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v39",
+            "valid_from": "October 22, 2008",
+            "valid_to": "November  2, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v38",
+            "valid_from": "July 30, 2008",
+            "valid_to": "October 21, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v37",
+            "valid_from": "July 22, 2008",
+            "valid_to": "July 29, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v36",
+            "valid_from": "June 20, 2008",
+            "valid_to": "July 21, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v35",
+            "valid_from": "June  4, 2008",
+            "valid_to": "June 19, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v34",
+            "valid_from": "April  8, 2008",
+            "valid_to": "June  3, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v33",
+            "valid_from": "March 13, 2008",
+            "valid_to": "April  7, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v32",
+            "valid_from": "March  7, 2008",
+            "valid_to": "March 12, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v31",
+            "valid_from": "February 28, 2008",
+            "valid_to": "March  6, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v30",
+            "valid_from": "November 21, 2007",
+            "valid_to": "February 27, 2008"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v29",
+            "valid_from": "November  2, 2007",
+            "valid_to": "November 20, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v28",
+            "valid_from": "September 13, 2007",
+            "valid_to": "November  1, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v27",
+            "valid_from": "August 31, 2007",
+            "valid_to": "September 12, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v26",
+            "valid_from": "August 16, 2007",
+            "valid_to": "August 30, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v25",
+            "valid_from": "July 27, 2007",
+            "valid_to": "August 15, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v24",
+            "valid_from": "May 16, 2007",
+            "valid_to": "July 26, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v23",
+            "valid_from": "April  2, 2007",
+            "valid_to": "May 15, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v22",
+            "valid_from": "February  5, 2007",
+            "valid_to": "April  1, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v21",
+            "valid_from": "January 26, 2007",
+            "valid_to": "February  4, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v20",
+            "valid_from": "September 20, 2006",
+            "valid_to": "January 25, 2007"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v19",
+            "valid_from": "September 15, 2006",
+            "valid_to": "September 19, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v18",
+            "valid_from": "August 17, 2006",
+            "valid_to": "September 14, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v17",
+            "valid_from": "May 25, 2006",
+            "valid_to": "August 16, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v16",
+            "valid_from": "May  4, 2006",
+            "valid_to": "May 24, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v15",
+            "valid_from": "April 19, 2006",
+            "valid_to": "May  3, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v14",
+            "valid_from": "April 11, 2006",
+            "valid_to": "April 18, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v13",
+            "valid_from": "December  6, 2005",
+            "valid_to": "April 10, 2006"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v12",
+            "valid_from": "September 21, 2005",
+            "valid_to": "December  5, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v11",
+            "valid_from": "August 23, 2005",
+            "valid_to": "September 20, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v10",
+            "valid_from": "July  8, 2005",
+            "valid_to": "August 22, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v9",
+            "valid_from": "May 11, 2005",
+            "valid_to": "July  7, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v8",
+            "valid_from": "April  5, 2005",
+            "valid_to": "May 10, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v7",
+            "valid_from": "March  8, 2005",
+            "valid_to": "April  4, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v6",
+            "valid_from": "December 21, 2004",
+            "valid_to": "March  7, 2005"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v5",
+            "valid_from": "August 26, 2004",
+            "valid_to": "December 20, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v4",
+            "valid_from": "June  1, 2004",
+            "valid_to": "August 25, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v3",
+            "valid_from": "May 31, 2004",
+            "valid_to": "May 31, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v2",
+            "valid_from": "March 15, 2004",
+            "valid_to": "May 30, 2004"
+        },
+        {
+            "a_href": "/laws/regulation/900619/v1",
+            "valid_from": "October  9, 2003",
+            "valid_to": "March 14, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "content": [
+        {
+            "id": "1.",
+            "section": null,
+            "content": " 1. The speed limit on those parts of the King’s Highway described in, (0.a)  Part 0.1 of each Schedule is prescribed as 110 kilometres per hour; (a)  Part 1 of each Schedule is prescribed as 100 kilometres per hour; (b)  Part 2 of each Schedule is prescribed as 90 kilometres per hour; (c)  Part 3 of each Schedule is prescribed as 80 kilometres per hour; (d)  Part 4 of each Schedule is prescribed as 70 kilometres per hour; (e)  Part 5 of each Schedule is prescribed as 60 kilometres per hour; (f)  Part 6 of each Schedule is prescribed as 50 kilometres per hour. R.R.O. 1990, Reg. 619, s. 1; O. Reg. 319/19, s. 1; O. Reg. 481/22, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>1. </b>The speed limit on those parts of the King’s Highway described in,</p> <p class=\"clause-e\"> (0.a)  Part 0.1 of each Schedule is prescribed as 110 kilometres per hour;</p> <p class=\"clause-e\">  (a)  Part 1 of each Schedule is prescribed as 100 kilometres per hour;</p> <p class=\"clause-e\">  (b)  Part 2 of each Schedule is prescribed as 90 kilometres per hour;</p> <p class=\"clause-e\">  (c)  Part 3 of each Schedule is prescribed as 80 kilometres per hour;</p> <p class=\"clause-e\">  (d)  Part 4 of each Schedule is prescribed as 70 kilometres per hour;</p> <p class=\"clause-e\">  (e)  Part 5 of each Schedule is prescribed as 60 kilometres per hour;</p> <p class=\"clause-e\">  (f)  Part 6 of each Schedule is prescribed as 50 kilometres per hour. R.R.O. 1990, Reg. 619, s. 1; O. Reg. 319/19, s. 1; O. Reg. 481/22, s. 1.</p>"
+        },
+        {
+            "id": "2.",
+            "section": null,
+            "content": " 2. Despite section 1, the speed limit on those parts of the King’s Highway that are within truck inspection stations established and maintained by the Ministry is prescribed as 40 kilometres per hour.  R.R.O. 1990, Reg. 619, s. 2.",
+            "raw_html": "<p class=\"section-e\"> <b>2. </b>Despite section 1, the speed limit on those parts of the King’s Highway that are within truck inspection stations established and maintained by the Ministry is prescribed as 40 kilometres per hour.  R.R.O. 1990, Reg. 619, s. 2.</p>"
+        },
+        {
+            "id": "3.",
+            "section": null,
+            "content": " 3. Where a highway is referred to in a Schedule by a number or name, the reference is to that part of the King’s Highway that is known thereby.  R.R.O. 1990, Reg. 619, s. 3.",
+            "raw_html": "<p class=\"section-e\"> <b>3. </b>Where a highway is referred to in a Schedule by a number or name, the reference is to that part of the King’s Highway that is known thereby.  R.R.O. 1990, Reg. 619, s. 3.</p>"
+        },
+        {
+            "id": "4.",
+            "section": null,
+            "content": " 4. (1) In a Schedule, “township”, when used with reference to a township in a territorial district, means a geographic township, except where otherwise provided.  R.R.O. 1990, Reg. 619, s. 4 (1). (2) Where a part of the King’s Highway is referred to in a Schedule as being in a municipality that, by reason of a municipal reorganization, has become another municipality or a part thereof, the reference shall be deemed to be a reference to that part of the King’s Highway in that other municipality or part thereof.  R.R.O. 1990, Reg. 619, s. 4 (2).",
+            "raw_html": "<p class=\"section-e\"> <b>4. </b>(1) In a Schedule,</p> <p class=\"firstdef-e\">“township”, when used with reference to a township in a territorial district, means a geographic township, except where otherwise provided.  R.R.O. 1990, Reg. 619, s. 4 (1).</p> <p class=\"subsection-e\">  (2) Where a part of the King’s Highway is referred to in a Schedule as being in a municipality that, by reason of a municipal reorganization, has become another municipality or a part thereof, the reference shall be deemed to be a reference to that part of the King’s Highway in that other municipality or part thereof.  R.R.O. 1990, Reg. 619, s. 4 (2).</p>"
+        },
+        {
+            "id": "5.",
+            "section": null,
+            "content": " 5. No person shall operate a commercial motor vehicle, except a bus, at a greater rate of speed than 50 kilometres per hour, northbound, on that part of the King’s Highway known as No. 20 in The Regional Municipality of Hamilton-Wentworth lying between a point situate at its intersection with the southerly limit of the roadway known as King Street in the City of Hamilton and a point situate 45 metres measured southerly from its intersection with the northerly limit of the roadway known as Green Mountain Road in the Town of Stoney Creek.  R.R.O. 1990, Reg. 619, s. 5.",
+            "raw_html": "<p class=\"section-e\"> <b>5. </b>No person shall operate a commercial motor vehicle, except a bus, at a greater rate of speed than 50 kilometres per hour, northbound, on that part of the King’s Highway known as No. 20 in The Regional Municipality of Hamilton-Wentworth lying between a point situate at its intersection with the southerly limit of the roadway known as King Street in the City of Hamilton and a point situate 45 metres measured southerly from its intersection with the northerly limit of the roadway known as Green Mountain Road in the Town of Stoney Creek.  R.R.O. 1990, Reg. 619, s. 5.</p>"
+        },
+        {
+            "id": "6.",
+            "section": null,
+            "content": " 6. Revoked:  O. Reg. 442/00, s. 1.",
+            "raw_html": "<p class=\"section-e\"> <b>6. </b><span class=\"ovsmallcap\">Revoked</span>:  O. Reg. 442/00, s. 1.</p>"
+        },
+        {
+            "id": "7.",
+            "section": null,
+            "content": " 7. (1) Despite paragraph 8 of Part 3 of Schedule 53, no person shall operate a motor vehicle at a greater rate of speed than 60 kilometres per hour on days during which school is regularly held between the hours of 7:15 a.m. to 8:15 a.m. and 2:15 p.m. to 3:15 p.m. on that part of the King’s Highway known as No. 48 in the Town of Georgina in The Regional Municipality of York beginning at a point situate 105 metres measured westerly from its intersection with the westerly limit of the roadway known as Weir’s Road and extending westerly for a distance of 750 metres.  O. Reg. 140/97, s. 1. (2) Despite paragraph 9 of Part 3 of Schedule 2, no person shall operate a motor vehicle at a greater rate of speed than 60 kilometres per hour on days during which school is regularly held between the hours of 8:00 a.m. to 9:00 a.m. and 3:00 p.m. to 4:00 p.m. on that part of the King’s Highway known as No. 3 in the Township of Malahide, in the County of Elgin, beginning at a point situate 100 metres measured easterly from its intersection with the centre line of the roadway known as County Road 40 (Springfield Road) and extending westerly for a distance of 750 metres.  O. Reg. 443/98, s. 1. (3) Despite paragraph 13 of Part 3 of Schedule 16, no person shall operate a motor vehicle at a greater rate of speed than 60 kilometres per hour on days during which school is regularly held between the hours of 8:00 a.m. to 9:00 a.m. and 2:45 p.m. to 3:45 p.m. on that part of the King’s Highway known as No. 12 in the Township of Brock in The Regional Municipality of Durham beginning at a point situate 199 metres measured northerly from its intersection with the centre line of the roadway known as Beaver Avenue and extending northerly for a distance of 750 metres. O. Reg. 393/17, s. 1. (4) Despite paragraph 10 of Part 3 of Schedule 10, no person shall operate a motor vehicle at a greater rate of speed than 60 kilometres per hour on days during which school is regularly held between the hours of 8:45 a.m. to 9:45 a.m. and 3:00 p.m. to 4:00 p.m. on that part of the King’s Highway known as No. 8 in Flamborough in the City of Hamilton beginning at a point situate 50 metres measured northerly from its intersection with the centre line of the roadway known as Concession 4 West and extending northerly for a distance of 750 metres. O. Reg. 546/22, s. 1. (5) Despite paragraph 1 of Part 4 of Schedule 120, no person shall operate a motor vehicle at a greater rate of speed than 60 kilometres per hour on days during which school is regularly held between the hours of 7:30 a.m. to 9:30 a.m. and 2:30 p.m. to 4:30 p.m. on that part of the King’s Highway known as No. 141 in the Village of Humphrey in the Township of Seguin in the Territorial District of Parry Sound beginning at a point situate 75 metres measured westerly from its intersection with the centre line of the roadway known as Sandy Plains Road and extending easterly for a distance of 410 metres.  O. Reg. 5/12, s. 1. Schedule 1 HIGHWAY NO. 2 Part 1 (Reserved) Part 2 (Reserved) Part 3",
+            "raw_html": "<p class=\"section-e\"> <b>7. </b>(1) Despite paragraph 8 of Part 3 of Schedule 53, no person shall operate a motor vehicle at a greater rate of speed than 60 kilometres per hour on days during which school is regularly held between the hours of 7:15 a.m. to 8:15 a.m. and 2:15 p.m. to 3:15 p.m. on that part of the King’s Highway known as No. 48 in the Town of Georgina in The Regional Municipality of York beginning at a point situate 105 metres measured westerly from its intersection with the westerly limit of the roadway known as Weir’s Road and extending westerly for a distance of 750 metres.  O. Reg. 140/97, s. 1.</p> <p class=\"subsection-e\">  (2) Despite paragraph 9 of Part 3 of Schedule 2, no person shall operate a motor vehicle at a greater rate of speed than 60 kilometres per hour on days during which school is regularly held between the hours of 8:00 a.m. to 9:00 a.m. and 3:00 p.m. to 4:00 p.m. on that part of the King’s Highway known as No. 3 in the Township of Malahide, in the County of Elgin, beginning at a point situate 100 metres measured easterly from its intersection with the centre line of the roadway known as County Road 40 (Springfield Road) and extending westerly for a distance of 750 metres.  O. Reg. 443/98, s. 1.</p> <p class=\"subsection-e\">  (3) Despite paragraph 13 of Part 3 of Schedule 16, no person shall operate a motor vehicle at a greater rate of speed than 60 kilometres per hour on days during which school is regularly held between the hours of 8:00 a.m. to 9:00 a.m. and 2:45 p.m. to 3:45 p.m. on that part of the King’s Highway known as No. 12 in the Township of Brock in The Regional Municipality of Durham beginning at a point situate 199 metres measured northerly from its intersection with the centre line of the roadway known as Beaver Avenue and extending northerly for a distance of 750 metres. O. Reg. 393/17, s. 1.</p> <p class=\"subsection-e\">  (4) Despite paragraph 10 of Part 3 of Schedule 10, no person shall operate a motor vehicle at a greater rate of speed than 60 kilometres per hour on days during which school is regularly held between the hours of 8:45 a.m. to 9:45 a.m. and 3:00 p.m. to 4:00 p.m. on that part of the King’s Highway known as No. 8 in Flamborough in the City of Hamilton beginning at a point situate 50 metres measured northerly from its intersection with the centre line of the roadway known as Concession 4 West and extending northerly for a distance of 750 metres. O. Reg. 546/22, s. 1.</p> <p class=\"subsection-e\">  (5) Despite paragraph 1 of Part 4 of Schedule 120, no person shall operate a motor vehicle at a greater rate of speed than 60 kilometres per hour on days during which school is regularly held between the hours of 7:30 a.m. to 9:30 a.m. and 2:30 p.m. to 4:30 p.m. on that part of the King’s Highway known as No. 141 in the Village of Humphrey in the Township of Seguin in the Territorial District of Parry Sound beginning at a point situate 75 metres measured westerly from its intersection with the centre line of the roadway known as Sandy Plains Road and extending easterly for a distance of 410 metres.  O. Reg. 5/12, s. 1.</p> <p class=\"schedule-e\">Schedule 1</p> <p class=\"Pheadingx-e\">HIGHWAY NO. 2</p> <p class=\"Pheading1-e\">Part<span> 1</span></p> <p class=\"heading3-e\">(Reserved)</p> <p class=\"Pheading1-e\">Part<span> 2</span></p> <p class=\"heading3-e\">(Reserved)</p> <p class=\"Pheading1-e\">Part<span> 3</span></p>"
+        }
+    ]
+}

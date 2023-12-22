@@ -1,0 +1,749 @@
+{
+    "act_info": {
+        "full_title": "Arbitration Act, 1991, S.O. 1991, c. 17",
+        "act_name_text": "Arbitration Act, 1991",
+        "citation": "S.O. 1991, c. 17",
+        "url": "https://www.ontario.ca/laws/statute/91a17",
+        "date_scraped": "2023-12-19 02:52:11"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "March 22, 2017",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/91a17/v5",
+            "valid_from": "December 15, 2009",
+            "valid_to": "March 21, 2017"
+        },
+        {
+            "a_href": "/laws/statute/91a17/v4",
+            "valid_from": "April 30, 2007",
+            "valid_to": "December 14, 2009"
+        },
+        {
+            "a_href": "/laws/statute/91a17/v3",
+            "valid_from": "June 22, 2006",
+            "valid_to": "April 29, 2007"
+        },
+        {
+            "a_href": "/laws/statute/91a17/v2",
+            "valid_from": "February 23, 2006",
+            "valid_to": "June 21, 2006"
+        },
+        {
+            "a_href": "/laws/statute/91a17/v1",
+            "valid_from": "January  1, 1992",
+            "valid_to": "February 22, 2006"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/070134",
+            "Citation": "O. Reg. 134/07",
+            "title": "FAMILY ARBITRATION"
+        }
+    ],
+    "revoked_regs": [],
+    "content": [
+        {
+            "ahref_id": "#BK0",
+            "TOCid": "Introductory Matters",
+            "section_x": "Introductory Matters",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK1",
+            "TOCid": "1.",
+            "section_x": "Definitions",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Definitions",
+            "content": "1 In this Act, “arbitration agreement” means an agreement by which two or more persons agree to submit to arbitration a dispute that has arisen or may arise between them; (“convention d’arbitrage”) “arbitrator” includes an umpire; (“arbitre”) “court”, except in sections 6 and 7, means the Family Court or the Superior Court of Justice; (“tribunal judiciaire”) “family arbitration” means an arbitration that, (a) deals with matters that could be dealt with in a marriage contract, separation agreement, cohabitation agreement or paternity agreement under Part IV of the Family Law Act, and (b) is conducted exclusively in accordance with the law of Ontario or of another Canadian jurisdiction; (“arbitrage familial”) “family arbitration agreement” and “family arbitration award” have meanings that correspond to the meaning of “family arbitration”. (“convention d’arbitrage familial”, “sentence d’arbitrage familial”)  1991, c. 17, s. 1; 2006, c. 1, s. 1 (1); 2006, c. 19, Sched. C, s. 1 (1); 2009, c. 33, Sched. 2, s. 5. Section Amendments with date in force (d/m/y) 2006, c. 1, s. 1 (1)\r\n- 30/04/2007; 2006, c. 19, Sched. C, s. 1 (1) - 22/06/2006 2009, c. 33, Sched. 2, s. 5 - 15/12/2009 Application of Act",
+            "raw_html": "<p class=\"section\"><a name=\"BK1\"></a><b>1 </b>In this Act,</p> <p class=\"definition\">“arbitration agreement” means an agreement by which two or more persons agree to submit to arbitration a dispute that has arisen or may arise between them; (“convention d’arbitrage”)</p> <p class=\"definition\">“arbitrator” includes an umpire; (“arbitre”)</p> <p class=\"definition\">“court”, except in sections 6 and 7, means the Family Court or the Superior Court of Justice; (“tribunal judiciaire”)</p> <p class=\"definition\">“family arbitration” means an arbitration that,</p> <p class=\"paragraph\">  (a) deals with matters that could be dealt with in a marriage contract, separation agreement, cohabitation agreement or paternity agreement under Part IV of the <i>Family Law Act</i>, and</p> <p class=\"paragraph\">  (b) is conducted exclusively in accordance with the law of Ontario or of another Canadian jurisdiction; (“arbitrage familial”)</p> <p class=\"definition\">“family arbitration agreement” and “family arbitration award” have meanings that correspond to the meaning of “family arbitration”. (“convention d’arbitrage familial”, “sentence d’arbitrage familial”)  1991, c. 17, s. 1; 2006, c. 1, s. 1 (1); 2006, c. 19, Sched. C, s. 1 (1); 2009, c. 33, Sched. 2, s. 5.</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06001#s1s1\">2006, c. 1, s. 1 (1)</a></span>\r\n- 30/04/2007; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06019#schedcs1s1\">2006, c. 19, Sched. C, s. 1 (1)</a></span> - 22/06/2006</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S09033#sched2s5\">2009, c. 33, Sched. 2, s. 5</a></span> - 15/12/2009</p> <p class=\"headnote\">Application of Act</p>"
+        },
+        {
+            "ahref_id": "#BK2",
+            "TOCid": "2.",
+            "section_x": "Application of Act",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Arbitrations conducted under agreements",
+            "content": "2 (1) This Act applies to an arbitration conducted under an arbitration agreement unless, (a) the application of this Act is excluded by law; or (b) the International Commercial Arbitration Act applies to the arbitration.  1991, c. 17, s. 2 (1). Transition, existing agreements (2) This Act applies to an arbitration conducted under an arbitration agreement made before the day this Act comes into force, if the arbitration is commenced after that day.  1991, c. 17, s. 2 (2). Arbitrations conducted under statutes (3) This Act applies, with necessary modifications, to an arbitration conducted in accordance with another Act, unless that Act provides otherwise; however, in the event of conflict between this Act and the other Act or regulations made under the other Act, the other Act or the regulations prevail.  1991, c. 17, s. 2 (3). Transition, arbitrations already commenced (4) Despite its repeal by section 58, the Arbitrations Act, as it read on the 31st day of December, 1991, continues to apply to arbitrations commenced on or before that day.  1991, c. 17, s. 2 (4).",
+            "raw_html": "<p class=\"section\"><a name=\"BK2\"></a><b>2 </b>(1) This Act applies to an arbitration conducted under an arbitration agreement unless,</p> <p class=\"paragraph\">  (a) the application of this Act is excluded by law; or</p> <p class=\"paragraph\">  (b) the <i>International Commercial Arbitration Act</i> applies to the arbitration.  1991, c. 17, s. 2 (1).</p> <p class=\"headnote\">Transition, existing agreements</p> <p class=\"subsection\">(2) This Act applies to an arbitration conducted under an arbitration agreement made before the day this Act comes into force, if the arbitration is commenced after that day.  1991, c. 17, s. 2 (2).</p> <p class=\"headnote\">Arbitrations conducted under statutes</p> <p class=\"subsection\">(3) This Act applies, with necessary modifications, to an arbitration conducted in accordance with another Act, unless that Act provides otherwise; however, in the event of conflict between this Act and the other Act or regulations made under the other Act, the other Act or the regulations prevail.  1991, c. 17, s. 2 (3).</p> <p class=\"headnote\">Transition, arbitrations already commenced</p> <p class=\"subsection\">(4) Despite its repeal by section 58, the <i>Arbitrations Act</i>, as it read on the 31st day of December, 1991, continues to apply to arbitrations commenced on or before that day.  1991, c. 17, s. 2 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK3",
+            "TOCid": "2.1",
+            "section_x": "Family arbitrations, agreements and awards",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Family arbitrations, agreements and awards",
+            "content": "2.1 (1) Family arbitrations, family arbitration agreements and family arbitration awards are governed by this Act and by the Family Law Act.  2006, c. 1, s. 1 (2). Conflict (2) In the event of conflict between this Act and the Family Law Act, the Family Law Act prevails.  2006, c. 1, s. 1 (2). Section Amendments with date in force (d/m/y) 2006, c. 1, s. 1 (2)\r\n- 30/04/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK3\"></a><b>2.1 </b>(1) Family arbitrations, family arbitration agreements and family arbitration awards are governed by this Act and by the <i>Family Law Act</i>.  2006, c. 1, s. 1 (2).</p> <p class=\"headnote\">Conflict</p> <p class=\"subsection\">(2) In the event of conflict between this Act and the <i>Family Law Act,</i> the <i>Family Law Act </i>prevails.  2006, c. 1, s. 1 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06001#s1s2\">2006, c. 1, s. 1 (2)</a></span>\r\n- 30/04/2007</p>"
+        },
+        {
+            "ahref_id": "#BK4",
+            "TOCid": "2.2",
+            "section_x": "Other third-party decision-making processes in family matters",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Other third-party decision-making processes in family matters",
+            "content": "2.2 (1) When a decision about a matter described in clause (a) of the definition of “family arbitration” in section 1 is made by a third person in a process that is not conducted exclusively in accordance with the law of Ontario or of another Canadian jurisdiction, (a) the process is not a family arbitration; and (b) the decision is not a family arbitration award and has no legal effect.  2006, c. 1, s. 1 (2). Advice (2) Nothing in this section restricts a person’s right to obtain advice from another person.  2006, c. 1, s. 1 (2). Section Amendments with date in force (d/m/y) 2006, c. 1, s. 1 (2)\r\n- 30/04/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK4\"></a><b>2.2 </b>(1) When a decision about a matter described in clause (a) of the definition of “family arbitration” in section 1 is made by a third person in a process that is not conducted exclusively in accordance with the law of Ontario or of another Canadian jurisdiction,</p> <p class=\"paragraph\">  (a) the process is not a family arbitration; and</p> <p class=\"paragraph\">  (b) the decision is not a family arbitration award and has no legal effect.  2006, c. 1, s. 1 (2).</p> <p class=\"headnote\">Advice</p> <p class=\"subsection\">(2) Nothing in this section restricts a person’s right to obtain advice from another person.  2006, c. 1, s. 1 (2).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06001#s1s2\">2006, c. 1, s. 1 (2)</a></span>\r\n- 30/04/2007</p>"
+        },
+        {
+            "ahref_id": "#BK5",
+            "TOCid": "3.",
+            "section_x": "Contracting out",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Contracting out",
+            "content": "3 The parties to an arbitration agreement may agree, expressly or by implication, to vary or exclude any provision of this Act except the following: 1. In the case of an arbitration agreement other than a family arbitration agreement, i. subsection 5 (4) (“Scott\r\nv. Avery” clauses), ii. section 19 (equality and fairness), iii. section 39 (extension of time limits), iv. section 46 (setting aside award), v. section 48 (declaration of invalidity of arbitration), vi. section 50 (enforcement of award). 2. In the case of a family arbitration agreement, i. the provisions listed in subparagraphs 1 i to vi, ii. subsection 4 (2) (no deemed waiver of right to object), iii. section 31 (application of law and equity), iv. subsections 32 (3) and (4) (substantive law of Ontario or other Canadian jurisdiction), and v. section 45 (appeals).  2006, c. 1, s. 1 (3). Section Amendments with date in force (d/m/y) 2006, c. 1, s. 1 (3)\r\n- 30/04/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK5\"></a><b>3 </b>The parties to an arbitration agreement may agree, expressly or by implication, to vary or exclude any provision of this Act except the following:</p> <p class=\"paragraph\">  1. In the case of an arbitration agreement other than a family arbitration agreement,</p> <p class=\"subpara\">  i. subsection 5 (4) (“<i>Scott</i>\r\nv. <i>Avery</i>” clauses),</p> <p class=\"subpara\">  ii. section 19 (equality and fairness),</p> <p class=\"subpara\">  iii. section 39 (extension of time limits),</p> <p class=\"subpara\">  iv. section 46 (setting aside award),</p> <p class=\"subpara\">  v. section 48 (declaration of invalidity of arbitration),</p> <p class=\"subpara\">  vi. section 50 (enforcement of award).</p> <p class=\"paragraph\">  2. In the case of a family arbitration agreement,</p> <p class=\"subpara\">  i. the provisions listed in subparagraphs 1 i to vi,</p> <p class=\"subpara\">  ii. subsection 4 (2) (no deemed waiver of right to object),</p> <p class=\"subpara\">  iii. section 31 (application of law and equity),</p> <p class=\"subpara\">  iv. subsections 32 (3) and (4) (substantive law of Ontario or other Canadian jurisdiction), and</p> <p class=\"subpara\">  v. section 45 (appeals).  2006, c. 1, s. 1 (3).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06001#s1s3\">2006, c. 1, s. 1 (3)</a></span>\r\n- 30/04/2007</p>"
+        },
+        {
+            "ahref_id": "#BK6",
+            "TOCid": "4.",
+            "section_x": "Waiver of right to object",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Waiver of right to object",
+            "content": "4 (1) A party who participates in an arbitration despite being aware of non-compliance with a provision of this Act, except one mentioned in section 3, or with the arbitration agreement, and does not object to the non-compliance within the time limit provided or, if none is provided, within a reasonable time, shall be deemed to have waived the right to object.  1991, c. 17, s. 4. Exception, family arbitrations (2) Subsection (1) does not apply to a family arbitration.  2006, c. 1, s. 1 (4). Section Amendments with date in force (d/m/y) 2006, c. 1, s. 1 (4)\r\n- 30/04/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK6\"></a><b>4 </b>(1) A party who participates in an arbitration despite being aware of non-compliance with a provision of this Act, except one mentioned in section 3, or with the arbitration agreement, and does not object to the non-compliance within the time limit provided or, if none is provided, within a reasonable time, shall be deemed to have waived the right to object.  1991, c. 17, s. 4.</p> <p class=\"headnote\">Exception, family arbitrations</p> <p class=\"subsection\">(2) Subsection (1) does not apply to a family arbitration.  2006, c. 1, s. 1 (4).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06001#s1s4\">2006, c. 1, s. 1 (4)</a></span>\r\n- 30/04/2007</p>"
+        },
+        {
+            "ahref_id": "#BK7",
+            "TOCid": "5.",
+            "section_x": "Arbitration agreements",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Arbitration agreements",
+            "content": "5 (1) An arbitration agreement may be an independent agreement or part of another agreement.  1991, c. 17, s. 5 (1). Further agreements (2) If the parties to an arbitration agreement make a further agreement in connection with the arbitration, it shall be deemed to form part of the arbitration agreement.  1991, c. 17, s. 5 (2). Oral agreements (3) An arbitration agreement need not be in writing.  1991, c. 17, s. 5 (3). “Scott v. Avery” clauses (4) An agreement requiring or having the effect of requiring that a matter be adjudicated by arbitration before it may be dealt with by a court has the same effect as an arbitration agreement.  1991, c. 17, s. 5 (4). Revocation (5) An arbitration agreement may be revoked only in accordance with the ordinary rules of contract law.  1991, c. 17, s. 5 (5). Court Intervention",
+            "raw_html": "<p class=\"section\"><a name=\"BK7\"></a><b>5 </b>(1) An arbitration agreement may be an independent agreement or part of another agreement.  1991, c. 17, s. 5 (1).</p> <p class=\"headnote\">Further agreements</p> <p class=\"subsection\">(2) If the parties to an arbitration agreement make a further agreement in connection with the arbitration, it shall be deemed to form part of the arbitration agreement.  1991, c. 17, s. 5 (2).</p> <p class=\"headnote\">Oral agreements</p> <p class=\"subsection\">(3) An arbitration agreement need not be in writing.  1991, c. 17, s. 5 (3).</p> <p class=\"headnote\">“<i>Scott</i> v. <i>Avery</i>” clauses</p> <p class=\"subsection\">(4) An agreement requiring or having the effect of requiring that a matter be adjudicated by arbitration before it may be dealt with by a court has the same effect as an arbitration agreement.  1991, c. 17, s. 5 (4).</p> <p class=\"headnote\">Revocation</p> <p class=\"subsection\">(5) An arbitration agreement may be revoked only in accordance with the ordinary rules of contract law.  1991, c. 17, s. 5 (5).</p> <p class=\"heading1\"><a name=\"BK8\"></a>Court Intervention</p>"
+        },
+        {
+            "ahref_id": "#BK8",
+            "TOCid": "Court Intervention",
+            "section_x": "Court Intervention",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK9",
+            "TOCid": "6.",
+            "section_x": "Court intervention limited",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Court intervention limited",
+            "content": "6 No court shall intervene in matters governed by this Act, except for the following purposes, in accordance with this Act: 1. To assist the conducting of arbitrations. 2. To ensure that arbitrations are conducted in accordance with arbitration agreements. 3. To prevent unequal or unfair treatment of parties to arbitration agreements. 4. To enforce awards.  1991, c. 17, s. 6.",
+            "raw_html": "<p class=\"section\"><a name=\"BK9\"></a><b>6 </b>No court shall intervene in matters governed by this Act, except for the following purposes, in accordance with this Act:</p> <p class=\"paragraph\">  1. To assist the conducting of arbitrations.</p> <p class=\"paragraph\">  2. To ensure that arbitrations are conducted in accordance with arbitration agreements.</p> <p class=\"paragraph\">  3. To prevent unequal or unfair treatment of parties to arbitration agreements.</p> <p class=\"paragraph\">  4. To enforce awards.  1991, c. 17, s. 6.</p>"
+        },
+        {
+            "ahref_id": "#BK10",
+            "TOCid": "7.",
+            "section_x": "Stay",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Stay",
+            "content": "7 (1) If a party to an arbitration agreement commences a proceeding in respect of a matter to be submitted to arbitration under the agreement, the court in which the proceeding is commenced shall, on the motion of another party to the arbitration agreement, stay the proceeding.  1991, c. 17, s. 7 (1). Exceptions (2) However, the court may refuse to stay the proceeding in any of the following cases: 1. A party entered into the arbitration agreement while under a legal incapacity. 2. The arbitration agreement is invalid. 3. The subject-matter of the dispute is not capable of being the subject of arbitration under Ontario law. 4. The motion was brought with undue delay. 5. The matter is a proper one for default or summary judgment.  1991, c. 17, s. 7 (2). Arbitration may continue (3) An arbitration of the dispute may be commenced and continued while the motion is before the court.  1991, c. 17, s. 7 (3). Effect of refusal to stay (4) If the court refuses to stay the proceeding, (a) no arbitration of the dispute shall be commenced; and (b) an arbitration that has been commenced shall not be continued, and anything done in connection with the arbitration before the court made its decision is without effect.  1991, c. 17, s. 7 (4). Agreement covering part of dispute (5) The court may stay the proceeding with respect to the matters dealt with in the arbitration agreement and allow it to continue with respect to other matters if it finds that, (a) the agreement deals with only some of the matters in respect of which the proceeding was commenced; and (b) it is reasonable to separate the matters dealt with in the agreement from the other matters.  1991, c. 17, s. 7 (5). No appeal (6) There is no appeal from the court’s decision.  1991, c. 17, s. 7 (6).",
+            "raw_html": "<p class=\"section\"><a name=\"BK10\"></a><b>7 </b>(1) If a party to an arbitration agreement commences a proceeding in respect of a matter to be submitted to arbitration under the agreement, the court in which the proceeding is commenced shall, on the motion of another party to the arbitration agreement, stay the proceeding.  1991, c. 17, s. 7 (1).</p> <p class=\"headnote\">Exceptions</p> <p class=\"subsection\">(2) However, the court may refuse to stay the proceeding in any of the following cases:</p> <p class=\"paragraph\">  1. A party entered into the arbitration agreement while under a legal incapacity.</p> <p class=\"paragraph\">  2. The arbitration agreement is invalid.</p> <p class=\"paragraph\">  3. The subject-matter of the dispute is not capable of being the subject of arbitration under Ontario law.</p> <p class=\"paragraph\">  4. The motion was brought with undue delay.</p> <p class=\"paragraph\">  5. The matter is a proper one for default or summary judgment.  1991, c. 17, s. 7 (2).</p> <p class=\"headnote\">Arbitration may continue</p> <p class=\"subsection\">(3) An arbitration of the dispute may be commenced and continued while the motion is before the court.  1991, c. 17, s. 7 (3).</p> <p class=\"headnote\">Effect of refusal to stay</p> <p class=\"subsection\">(4) If the court refuses to stay the proceeding,</p> <p class=\"paragraph\">  (a) no arbitration of the dispute shall be commenced; and</p> <p class=\"paragraph\">  (b) an arbitration that has been commenced shall not be continued, and anything done in connection with the arbitration before the court made its decision is without effect.  1991, c. 17, s. 7 (4).</p> <p class=\"headnote\">Agreement covering part of dispute</p> <p class=\"subsection\">(5) The court may stay the proceeding with respect to the matters dealt with in the arbitration agreement and allow it to continue with respect to other matters if it finds that,</p> <p class=\"paragraph\">  (a) the agreement deals with only some of the matters in respect of which the proceeding was commenced; and</p> <p class=\"paragraph\">  (b) it is reasonable to separate the matters dealt with in the agreement from the other matters.  1991, c. 17, s. 7 (5).</p> <p class=\"headnote\">No appeal</p> <p class=\"subsection\">(6) There is no appeal from the court’s decision.  1991, c. 17, s. 7 (6).</p>"
+        },
+        {
+            "ahref_id": "#BK11",
+            "TOCid": "8.",
+            "section_x": "Powers of court",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Powers of court",
+            "content": "8 (1) The court’s powers with respect to the detention, preservation and inspection of property, interim injunctions and the appointment of receivers are the same in arbitrations as in court actions.  1991, c. 17, s. 8 (1). Questions of law (2) The arbitral tribunal may determine any question of law that arises during the arbitration; the court may do so on the application of the arbitral tribunal, or on a party’s application if the other parties or the arbitral tribunal consent.  1991, c. 17, s. 8 (2). Appeal (3) The court’s determination of a question of law may be appealed to the Court of Appeal, with leave.  1991, c. 17, s. 8 (3). More than one arbitration (4) On the application of all the parties to more than one arbitration the court may order, on such terms as are just, (a) that the arbitrations be consolidated; (b) that the arbitrations be conducted simultaneously or consecutively; or (c) that any of the arbitrations be stayed until any of the others are completed.  1991, c. 17, s. 8 (4). Arbitral tribunal for consolidated arbitrations (5) When the court orders that arbitrations be consolidated, it may appoint an arbitral tribunal for the consolidated arbitration; if all the parties agree as to the choice of arbitral tribunal, the court shall appoint it.  1991, c. 17, s. 8 (5). Consolidation by agreement of parties (6) Subsection (4) does not prevent the parties to more than one arbitration from agreeing to consolidate the arbitrations and doing everything necessary to effect the consolidation.  1991, c. 17, s. 8 (6). Composition of Arbitral Tribunal",
+            "raw_html": "<p class=\"section\"><a name=\"BK11\"></a><b>8 </b>(1) The court’s powers with respect to the detention, preservation and inspection of property, interim injunctions and the appointment of receivers are the same in arbitrations as in court actions.  1991, c. 17, s. 8 (1).</p> <p class=\"headnote\">Questions of law</p> <p class=\"subsection\">(2) The arbitral tribunal may determine any question of law that arises during the arbitration; the court may do so on the application of the arbitral tribunal, or on a party’s application if the other parties or the arbitral tribunal consent.  1991, c. 17, s. 8 (2).</p> <p class=\"headnote\">Appeal</p> <p class=\"subsection\">(3) The court’s determination of a question of law may be appealed to the Court of Appeal, with leave.  1991, c. 17, s. 8 (3).</p> <p class=\"headnote\">More than one arbitration</p> <p class=\"subsection\">(4) On the application of all the parties to more than one arbitration the court may order, on such terms as are just,</p> <p class=\"paragraph\">  (a) that the arbitrations be consolidated;</p> <p class=\"paragraph\">  (b) that the arbitrations be conducted simultaneously or consecutively; or</p> <p class=\"paragraph\">  (c) that any of the arbitrations be stayed until any of the others are completed.  1991, c. 17, s. 8 (4).</p> <p class=\"headnote\">Arbitral tribunal for consolidated arbitrations</p> <p class=\"subsection\">(5) When the court orders that arbitrations be consolidated, it may appoint an arbitral tribunal for the consolidated arbitration; if all the parties agree as to the choice of arbitral tribunal, the court shall appoint it.  1991, c. 17, s. 8 (5).</p> <p class=\"headnote\">Consolidation by agreement of parties</p> <p class=\"subsection\">(6) Subsection (4) does not prevent the parties to more than one arbitration from agreeing to consolidate the arbitrations and doing everything necessary to effect the consolidation.  1991, c. 17, s. 8 (6).</p> <p class=\"heading1\"><a name=\"BK12\"></a>Composition of Arbitral Tribunal</p>"
+        },
+        {
+            "ahref_id": "#BK12",
+            "TOCid": "Composition of Arbitral Tribunal",
+            "section_x": "Composition of Arbitral Tribunal",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK13",
+            "TOCid": "9.",
+            "section_x": "Number of arbitrators",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Number of arbitrators",
+            "content": "9 If the arbitration agreement does not specify the number of arbitrators who are to form the arbitral tribunal, it shall be composed of one arbitrator.  1991, c. 17, s. 9.",
+            "raw_html": "<p class=\"section\"><a name=\"BK13\"></a><b>9 </b>If the arbitration agreement does not specify the number of arbitrators who are to form the arbitral tribunal, it shall be composed of one arbitrator.  1991, c. 17, s. 9.</p>"
+        },
+        {
+            "ahref_id": "#BK14",
+            "TOCid": "10.",
+            "section_x": "Appointment of arbitral tribunal",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Appointment of arbitral tribunal",
+            "content": "10 (1) The court may appoint the arbitral tribunal, on a party’s application, if, (a) the arbitration agreement provides no procedure for appointing the arbitral tribunal; or (b) a person with power to appoint the arbitral tribunal has not done so after a party has given the person seven days notice to do so.  1991, c. 17, s. 10 (1). No appeal (2) There is no appeal from the court’s appointment of the arbitral tribunal.  1991, c. 17, s. 10 (2). More than one arbitrator (3) Subsections (1) and (2) apply, with necessary modifications, to the appointment of individual members of arbitral tribunals that are composed of more than one arbitrator.  1991, c. 17, s. 10 (3). Chair (4) If the arbitral tribunal is composed of three or more arbitrators, they shall elect a chair from among themselves; if it is composed of two arbitrators, they may do so.  1991, c. 17, s. 10 (4).",
+            "raw_html": "<p class=\"section\"><a name=\"BK14\"></a><b>10 </b>(1) The court may appoint the arbitral tribunal, on a party’s application, if,</p> <p class=\"paragraph\">  (a) the arbitration agreement provides no procedure for appointing the arbitral tribunal; or</p> <p class=\"paragraph\">  (b) a person with power to appoint the arbitral tribunal has not done so after a party has given the person seven days notice to do so.  1991, c. 17, s. 10 (1).</p> <p class=\"headnote\">No appeal</p> <p class=\"subsection\">(2) There is no appeal from the court’s appointment of the arbitral tribunal.  1991, c. 17, s. 10 (2).</p> <p class=\"headnote\">More than one arbitrator</p> <p class=\"subsection\">(3) Subsections (1) and (2) apply, with necessary modifications, to the appointment of individual members of arbitral tribunals that are composed of more than one arbitrator.  1991, c. 17, s. 10 (3).</p> <p class=\"headnote\">Chair</p> <p class=\"subsection\">(4) If the arbitral tribunal is composed of three or more arbitrators, they shall elect a chair from among themselves; if it is composed of two arbitrators, they may do so.  1991, c. 17, s. 10 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK15",
+            "TOCid": "11.",
+            "section_x": "Duty of arbitrator",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Duty of arbitrator",
+            "content": "11 (1) An arbitrator shall be independent of the parties and shall act impartially.  1991, c. 17, s. 11 (1). Disclosure before accepting appointment (2) Before accepting an appointment as arbitrator, a person shall disclose to all parties to the arbitration any circumstances of which he or she is aware that may give rise to a reasonable apprehension of bias.  1991, c. 17, s. 11 (2). Disclosure during arbitration (3) An arbitrator who, during an arbitration, becomes aware of circumstances that may give rise to a reasonable apprehension of bias shall promptly disclose them to all the parties.  1991, c. 17, s. 11 (3).",
+            "raw_html": "<p class=\"section\"><a name=\"BK15\"></a><b>11 </b>(1) An arbitrator shall be independent of the parties and shall act impartially.  1991, c. 17, s. 11 (1).</p> <p class=\"headnote\">Disclosure before accepting appointment</p> <p class=\"subsection\">(2) Before accepting an appointment as arbitrator, a person shall disclose to all parties to the arbitration any circumstances of which he or she is aware that may give rise to a reasonable apprehension of bias.  1991, c. 17, s. 11 (2).</p> <p class=\"headnote\">Disclosure during arbitration</p> <p class=\"subsection\">(3) An arbitrator who, during an arbitration, becomes aware of circumstances that may give rise to a reasonable apprehension of bias shall promptly disclose them to all the parties.  1991, c. 17, s. 11 (3).</p>"
+        },
+        {
+            "ahref_id": "#BK16",
+            "TOCid": "12.",
+            "section_x": "No revocation",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "No revocation",
+            "content": "12 A party may not revoke the appointment of an arbitrator.  1991, c. 17, s. 12.",
+            "raw_html": "<p class=\"section\"><a name=\"BK16\"></a><b>12 </b>A party may not revoke the appointment of an arbitrator.  1991, c. 17, s. 12.</p>"
+        },
+        {
+            "ahref_id": "#BK17",
+            "TOCid": "13.",
+            "section_x": "Challenge",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Challenge",
+            "content": "13 (1) A party may challenge an arbitrator only on one of the following grounds: 1. Circumstances exist that may give rise to a reasonable apprehension of bias. 2. The arbitrator does not possess qualifications that the parties have agreed are necessary.  1991, c. 17, s. 13 (1). Idem, arbitrator appointed by party (2) A party who appointed an arbitrator or participated in his or her appointment may challenge the arbitrator only for grounds of which the party was unaware at the time of the appointment.  1991, c. 17, s. 13 (2). Procedure for challenge (3) A party who wishes to challenge an arbitrator shall send the arbitral tribunal a statement of the grounds for the challenge, within fifteen days of becoming aware of them.  1991, c. 17, s. 13 (3). Removal or resignation of challenged arbitrator (4) The other parties may agree to remove the challenged arbitrator, or the arbitrator may resign.  1991, c. 17, s. 13 (4). Decision of arbitral tribunal (5) If the challenged arbitrator is not removed by the parties and does not resign, the arbitral tribunal, including the challenged arbitrator, shall decide the issue and shall notify the parties of its decision.  1991, c. 17, s. 13 (5). Application to court (6) Within ten days of being notified of the arbitral tribunal’s decision, a party may make an application to the court to decide the issue and, in the case of the challenging party, to remove the arbitrator.  1991, c. 17, s. 13 (6). Arbitration may continue (7) While an application is pending, the arbitral tribunal, including the challenged arbitrator, may continue the arbitration and make an award, unless the court orders otherwise.  1991, c. 17, s. 13 (7).",
+            "raw_html": "<p class=\"section\"><a name=\"BK17\"></a><b>13 </b>(1) A party may challenge an arbitrator only on one of the following grounds:</p> <p class=\"paragraph\">  1. Circumstances exist that may give rise to a reasonable apprehension of bias.</p> <p class=\"paragraph\">  2. The arbitrator does not possess qualifications that the parties have agreed are necessary.  1991, c. 17, s. 13 (1).</p> <p class=\"headnote\">Idem, arbitrator appointed by party</p> <p class=\"subsection\">(2) A party who appointed an arbitrator or participated in his or her appointment may challenge the arbitrator only for grounds of which the party was unaware at the time of the appointment.  1991, c. 17, s. 13 (2).</p> <p class=\"headnote\">Procedure for challenge</p> <p class=\"subsection\">(3) A party who wishes to challenge an arbitrator shall send the arbitral tribunal a statement of the grounds for the challenge, within fifteen days of becoming aware of them.  1991, c. 17, s. 13 (3).</p> <p class=\"headnote\">Removal or resignation of challenged arbitrator</p> <p class=\"subsection\">(4) The other parties may agree to remove the challenged arbitrator, or the arbitrator may resign.  1991, c. 17, s. 13 (4).</p> <p class=\"headnote\">Decision of arbitral tribunal</p> <p class=\"subsection\">(5) If the challenged arbitrator is not removed by the parties and does not resign, the arbitral tribunal, including the challenged arbitrator, shall decide the issue and shall notify the parties of its decision.  1991, c. 17, s. 13 (5).</p> <p class=\"headnote\">Application to court</p> <p class=\"subsection\">(6) Within ten days of being notified of the arbitral tribunal’s decision, a party may make an application to the court to decide the issue and, in the case of the challenging party, to remove the arbitrator.  1991, c. 17, s. 13 (6).</p> <p class=\"headnote\">Arbitration may continue</p> <p class=\"subsection\">(7) While an application is pending, the arbitral tribunal, including the challenged arbitrator, may continue the arbitration and make an award, unless the court orders otherwise.  1991, c. 17, s. 13 (7).</p>"
+        },
+        {
+            "ahref_id": "#BK18",
+            "TOCid": "14.",
+            "section_x": "Termination of arbitrator’s mandate",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Termination of arbitrator’s mandate",
+            "content": "14 (1) An arbitrator’s mandate terminates when, (a) the arbitrator resigns or dies; (b) the parties agree to terminate it; (c) the arbitral tribunal upholds a challenge to the arbitrator, ten days elapse after all the parties are notified of the decision and no application is made to the court; or (d) the court removes the arbitrator under subsection 15 (1).  1991, c. 17, s. 14 (1). Significance of resignation or agreement to terminate (2) An arbitrator’s resignation or a party’s agreement to terminate an arbitrator’s mandate does not imply acceptance of the validity of any reason advanced for challenging or removing him or her.  1991, c. 17, s. 14 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK18\"></a><b>14 </b>(1) An arbitrator’s mandate terminates when,</p> <p class=\"paragraph\">  (a) the arbitrator resigns or dies;</p> <p class=\"paragraph\">  (b) the parties agree to terminate it;</p> <p class=\"paragraph\">  (c) the arbitral tribunal upholds a challenge to the arbitrator, ten days elapse after all the parties are notified of the decision and no application is made to the court; or</p> <p class=\"paragraph\">  (d) the court removes the arbitrator under subsection 15 (1).  1991, c. 17, s. 14 (1).</p> <p class=\"headnote\">Significance of resignation or agreement to terminate</p> <p class=\"subsection\">(2) An arbitrator’s resignation or a party’s agreement to terminate an arbitrator’s mandate does not imply acceptance of the validity of any reason advanced for challenging or removing him or her.  1991, c. 17, s. 14 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK19",
+            "TOCid": "15.",
+            "section_x": "Removal of arbitrator by court",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Removal of arbitrator by court",
+            "content": "15 (1) The court may remove an arbitrator on a party’s application under subsection 13 (6) (challenge), or may do so on a party’s application if the arbitrator becomes unable to perform his or her functions, commits a corrupt or fraudulent act, delays unduly in conducting the arbitration or does not conduct it in accordance with section 19 (equality and fairness).  1991, c. 17, s. 15 (1). Right of arbitrator (2) The arbitrator is entitled to be heard by the court if the application is based on an allegation that he or she committed a corrupt or fraudulent act or delayed unduly in conducting the arbitration.  1991, c. 17, s. 15 (2). Directions (3) When the court removes an arbitrator, it may give directions about the conduct of the arbitration.  1991, c. 17, s. 15 (3). Penalty (4) If the court removes an arbitrator for a corrupt or fraudulent act or for undue delay, it may order that the arbitrator receive no payment for his or her services and may order that he or she compensate the parties for all or part of the costs, as determined by the court, that they incurred in connection with the arbitration before his or her removal.  1991, c. 17, s. 15 (4). Appeal re penalty (5) The arbitrator or a party may, within thirty days after receiving the court’s decision, appeal an order made under subsection (4) or the refusal to make such an order to the Court of Appeal, with leave of that court.  1991, c. 17, s. 15 (5). No other appeal (6) Except as provided in subsection (5), there is no appeal from the court’s decision or from its directions.  1991, c. 17, s. 15 (6).",
+            "raw_html": "<p class=\"section\"><a name=\"BK19\"></a><b>15 </b>(1) The court may remove an arbitrator on a party’s application under subsection 13 (6) (challenge), or may do so on a party’s application if the arbitrator becomes unable to perform his or her functions, commits a corrupt or fraudulent act, delays unduly in conducting the arbitration or does not conduct it in accordance with section 19 (equality and fairness).  1991, c. 17, s. 15 (1).</p> <p class=\"headnote\">Right of arbitrator</p> <p class=\"subsection\">(2) The arbitrator is entitled to be heard by the court if the application is based on an allegation that he or she committed a corrupt or fraudulent act or delayed unduly in conducting the arbitration.  1991, c. 17, s. 15 (2).</p> <p class=\"headnote\">Directions</p> <p class=\"subsection\">(3) When the court removes an arbitrator, it may give directions about the conduct of the arbitration.  1991, c. 17, s. 15 (3).</p> <p class=\"headnote\">Penalty</p> <p class=\"subsection\">(4) If the court removes an arbitrator for a corrupt or fraudulent act or for undue delay, it may order that the arbitrator receive no payment for his or her services and may order that he or she compensate the parties for all or part of the costs, as determined by the court, that they incurred in connection with the arbitration before his or her removal.  1991, c. 17, s. 15 (4).</p> <p class=\"headnote\">Appeal re penalty</p> <p class=\"subsection\">(5) The arbitrator or a party may, within thirty days after receiving the court’s decision, appeal an order made under subsection (4) or the refusal to make such an order to the Court of Appeal, with leave of that court.  1991, c. 17, s. 15 (5).</p> <p class=\"headnote\">No other appeal</p> <p class=\"subsection\">(6) Except as provided in subsection (5), there is no appeal from the court’s decision or from its directions.  1991, c. 17, s. 15 (6).</p>"
+        },
+        {
+            "ahref_id": "#BK20",
+            "TOCid": "16.",
+            "section_x": "Appointment of substitute arbitrator",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Appointment of substitute arbitrator",
+            "content": "16 (1) When an arbitrator’s mandate terminates, a substitute arbitrator shall be appointed, following the procedure that was used in the appointment of the arbitrator being replaced.  1991, c. 17, s. 16 (1). Directions (2) When the arbitrator’s mandate terminates, the court may, on a party’s application, give directions about the conduct of the arbitration.  1991, c. 17, s. 16 (2). Court appointment (3) The court may appoint the substitute arbitrator, on a party’s application, if, (a) the arbitration agreement provides no procedure for appointing the substitute arbitrator; or (b) a person with power to appoint the substitute arbitrator has not done so after a party has given the person seven days notice to do so.  1991, c. 17, s. 16 (3). No appeal (4) There is no appeal from the court’s decision or from its directions.  1991, c. 17, s. 16 (4). Exception (5) This section does not apply if the arbitration agreement provides that the arbitration is to be conducted only by a named arbitrator.  1991, c. 17, s. 16 (5). Jurisdiction of Arbitral Tribunal Rulings and objections re jurisdiction",
+            "raw_html": "<p class=\"section\"><a name=\"BK20\"></a><b>16 </b>(1) When an arbitrator’s mandate terminates, a substitute arbitrator shall be appointed, following the procedure that was used in the appointment of the arbitrator being replaced.  1991, c. 17, s. 16 (1).</p> <p class=\"headnote\">Directions</p> <p class=\"subsection\">(2) When the arbitrator’s mandate terminates, the court may, on a party’s application, give directions about the conduct of the arbitration.  1991, c. 17, s. 16 (2).</p> <p class=\"headnote\">Court appointment</p> <p class=\"subsection\">(3) The court may appoint the substitute arbitrator, on a party’s application, if,</p> <p class=\"paragraph\">  (a) the arbitration agreement provides no procedure for appointing the substitute arbitrator; or</p> <p class=\"paragraph\">  (b) a person with power to appoint the substitute arbitrator has not done so after a party has given the person seven days notice to do so.  1991, c. 17, s. 16 (3).</p> <p class=\"headnote\">No appeal</p> <p class=\"subsection\">(4) There is no appeal from the court’s decision or from its directions.  1991, c. 17, s. 16 (4).</p> <p class=\"headnote\">Exception</p> <p class=\"subsection\">(5) This section does not apply if the arbitration agreement provides that the arbitration is to be conducted only by a named arbitrator.  1991, c. 17, s. 16 (5).</p> <p class=\"heading1\"><a name=\"BK21\"></a>Jurisdiction of Arbitral Tribunal</p> <p class=\"headnote\">Rulings and objections re jurisdiction</p>"
+        },
+        {
+            "ahref_id": "#BK21",
+            "TOCid": "Jurisdiction of Arbitral Tribunal",
+            "section_x": "Jurisdiction of Arbitral Tribunal",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK22",
+            "TOCid": "17.",
+            "section_x": "Rulings and objections re jurisdiction",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Arbitral tribunal may rule on own jurisdiction",
+            "content": "17 (1) An arbitral tribunal may rule on its own jurisdiction to conduct the arbitration and may in that connection rule on objections with respect to the existence or validity of the arbitration agreement.  1991, c. 17, s. 17 (1). Independent agreement (2) If the arbitration agreement forms part of another agreement, it shall, for the purposes of a ruling on jurisdiction, be treated as an independent agreement that may survive even if the main agreement is found to be invalid.  1991, c. 17, s. 17 (2). Time for objections to jurisdiction (3) A party who has an objection to the arbitral tribunal’s jurisdiction to conduct the arbitration shall make the objection no later than the beginning of the hearing or, if there is no hearing, no later than the first occasion on which the party submits a statement to the tribunal.  1991, c. 17, s. 17 (3). Party’s appointment of arbitrator no bar to objection (4) The fact that a party has appointed or participated in the appointment of an arbitrator does not prevent the party from making an objection to jurisdiction.  1991, c. 17, s. 17 (4). Time for objections, exceeding authority (5) A party who has an objection that the arbitral tribunal is exceeding its authority shall make the objection as soon as the matter alleged to be beyond the tribunal’s authority is raised during the arbitration.  1991, c. 17, s. 17 (5). Later objections (6) Despite section 4, if the arbitral tribunal considers the delay justified, a party may make an objection after the time limit referred to in subsection (3) or (5), as the case may be, has expired.  1991, c. 17, s. 17 (6). Ruling (7) The arbitral tribunal may rule on an objection as a preliminary question or may deal with it in an award.  1991, c. 17, s. 17 (7). Review by court (8) If the arbitral tribunal rules on an objection as a preliminary question, a party may, within thirty days after receiving notice of the ruling, make an application to the court to decide the matter.  1991, c. 17, s. 17 (8). No appeal (9) There is no appeal from the court’s decision.  1991, c. 17, s. 17 (9). Arbitration may continue (10) While an application is pending, the arbitral tribunal may continue the arbitration and make an award. 1991, c. 17, s. 17 (10). Section Amendments with date in force (d/m/y) CTS 13 JL 12 - 1",
+            "raw_html": "<p class=\"section\"><a name=\"BK22\"></a><b>17 </b>(1) An arbitral tribunal may rule on its own jurisdiction to conduct the arbitration and may in that connection rule on objections with respect to the existence or validity of the arbitration agreement.  1991, c. 17, s. 17 (1).</p> <p class=\"headnote\">Independent agreement</p> <p class=\"subsection\">(2) If the arbitration agreement forms part of another agreement, it shall, for the purposes of a ruling on jurisdiction, be treated as an independent agreement that may survive even if the main agreement is found to be invalid.  1991, c. 17, s. 17 (2).</p> <p class=\"headnote\">Time for objections to jurisdiction</p> <p class=\"subsection\">(3) A party who has an objection to the arbitral tribunal’s jurisdiction to conduct the arbitration shall make the objection no later than the beginning of the hearing or, if there is no hearing, no later than the first occasion on which the party submits a statement to the tribunal.  1991, c. 17, s. 17 (3).</p> <p class=\"headnote\">Party’s appointment of arbitrator no bar to objection</p> <p class=\"subsection\">(4) The fact that a party has appointed or participated in the appointment of an arbitrator does not prevent the party from making an objection to jurisdiction.  1991, c. 17, s. 17 (4).</p> <p class=\"headnote\">Time for objections, exceeding authority</p> <p class=\"subsection\">(5) A party who has an objection that the arbitral tribunal is exceeding its authority shall make the objection as soon as the matter alleged to be beyond the tribunal’s authority is raised during the arbitration.  1991, c. 17, s. 17 (5).</p> <p class=\"headnote\">Later objections</p> <p class=\"subsection\">(6) Despite section 4, if the arbitral tribunal considers the delay justified, a party may make an objection after the time limit referred to in subsection (3) or (5), as the case may be, has expired.  1991, c. 17, s. 17 (6).</p> <p class=\"headnote\">Ruling</p> <p class=\"subsection\">(7) The arbitral tribunal may rule on an objection as a preliminary question or may deal with it in an award.  1991, c. 17, s. 17 (7).</p> <p class=\"headnote\">Review by court</p> <p class=\"subsection\">(8) If the arbitral tribunal rules on an objection as a preliminary question, a party may, within thirty days after receiving notice of the ruling, make an application to the court to decide the matter.  1991, c. 17, s. 17 (8).</p> <p class=\"headnote\">No appeal</p> <p class=\"subsection\">(9) There is no appeal from the court’s decision.  1991, c. 17, s. 17 (9).</p> <p class=\"headnote\">Arbitration may continue</p> <p class=\"subsection\">(10) While an application is pending, the arbitral tribunal may continue the arbitration and make an award. 1991, c. 17, s. 17 (10).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><a href=\"https://www.ontario.ca/laws/consolidated-statutes-change-notices\">CTS 13 JL 12 - 1</a></p>"
+        },
+        {
+            "ahref_id": "#BK23",
+            "TOCid": "18.",
+            "section_x": "Detention, preservation and inspection of property and documents",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Detention, preservation and inspection of property and documents",
+            "content": "18 (1) On a party’s request, an arbitral tribunal may make an order for the detention, preservation or inspection of property and documents that are the subject of the arbitration or as to which a question may arise in the arbitration, and may order a party to provide security in that connection.  1991, c. 17, s. 18 (1). Enforcement by court (2) The court may enforce the direction of an arbitral tribunal as if it were a similar direction made by the court in an action.  1991, c. 17, s. 18 (2). Conduct of Arbitration",
+            "raw_html": "<p class=\"section\"><a name=\"BK23\"></a><b>18 </b>(1) On a party’s request, an arbitral tribunal may make an order for the detention, preservation or inspection of property and documents that are the subject of the arbitration or as to which a question may arise in the arbitration, and may order a party to provide security in that connection.  1991, c. 17, s. 18 (1).</p> <p class=\"headnote\">Enforcement by court</p> <p class=\"subsection\">(2) The court may enforce the direction of an arbitral tribunal as if it were a similar direction made by the court in an action.  1991, c. 17, s. 18 (2).</p> <p class=\"heading1\"><a name=\"BK24\"></a>Conduct of Arbitration</p>"
+        },
+        {
+            "ahref_id": "#BK24",
+            "TOCid": "Conduct of Arbitration",
+            "section_x": "Conduct of Arbitration",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK25",
+            "TOCid": "19.",
+            "section_x": "Equality and fairness",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Equality and fairness",
+            "content": "19 (1) In an arbitration, the parties shall be treated equally and fairly.  1991, c. 17, s. 19 (1). Idem (2) Each party shall be given an opportunity to present a case and to respond to the other parties’ cases.  1991, c. 17, s. 19 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK25\"></a><b>19 </b>(1) In an arbitration, the parties shall be treated equally and fairly.  1991, c. 17, s. 19 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) Each party shall be given an opportunity to present a case and to respond to the other parties’ cases.  1991, c. 17, s. 19 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK26",
+            "TOCid": "20.",
+            "section_x": "Procedure",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Procedure",
+            "content": "20 (1) The arbitral tribunal may determine the procedure to be followed in the arbitration, in accordance with this Act.  1991, c. 17, s. 20 (1). Idem (2) An arbitral tribunal that is composed of more than one arbitrator may delegate the determination of questions of procedure to the chair.  1991, c. 17, s. 20 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK26\"></a><b>20 </b>(1) The arbitral tribunal may determine the procedure to be followed in the arbitration, in accordance with this Act.  1991, c. 17, s. 20 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) An arbitral tribunal that is composed of more than one arbitrator may delegate the determination of questions of procedure to the chair.  1991, c. 17, s. 20 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK27",
+            "TOCid": "21.",
+            "section_x": "Evidence",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Evidence",
+            "content": "21 Sections 14, 15 and 16 (protection of witnesses, evidence at hearings, notice of facts and opinions) of the Statutory Powers Procedure Act\r\napply to the arbitration, with necessary modifications.  1991, c. 17, s. 21.",
+            "raw_html": "<p class=\"section\"><a name=\"BK27\"></a><b>21 </b>Sections 14, 15 and 16 (protection of witnesses, evidence at hearings, notice of facts and opinions) of the <i>Statutory Powers Procedure Act</i>\r\napply to the arbitration, with necessary modifications.  1991, c. 17, s. 21.</p>"
+        },
+        {
+            "ahref_id": "#BK28",
+            "TOCid": "22.",
+            "section_x": "Time and place of arbitration",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Time and place of arbitration",
+            "content": "22 (1) The arbitral tribunal shall determine the time, date and place of arbitration, taking into consideration the parties’ convenience and the other circumstances of the case.  1991, c. 17, s. 22 (1). Meetings for special purposes (2) The arbitral tribunal may meet at any place it considers appropriate for consultation among its members, for hearing witnesses, experts or parties, or for inspecting property or documents.  1991, c. 17, s. 22 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK28\"></a><b>22 </b>(1) The arbitral tribunal shall determine the time, date and place of arbitration, taking into consideration the parties’ convenience and the other circumstances of the case.  1991, c. 17, s. 22 (1).</p> <p class=\"headnote\">Meetings for special purposes</p> <p class=\"subsection\">(2) The arbitral tribunal may meet at any place it considers appropriate for consultation among its members, for hearing witnesses, experts or parties, or for inspecting property or documents.  1991, c. 17, s. 22 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK29",
+            "TOCid": "23.",
+            "section_x": "Commencement of arbitration",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Commencement of arbitration",
+            "content": "23 (1) An arbitration may be commenced in any way recognized by law, including the following: 1. A party to an arbitration agreement serves on the other parties notice to appoint or to participate in the appointment of an arbitrator under the agreement. 2. If the arbitration agreement gives a person who is not a party power to appoint an arbitrator, one party serves notice to exercise that power on the person and serves a copy of the notice on the other parties. 3. A party serves on the other parties a notice demanding arbitration under the agreement.  1991, c. 17, s. 23 (1). Exercise of arbitral tribunal’s powers (2) The arbitral tribunal may exercise its powers when every member has accepted appointment.  1991, c. 17, s. 23 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK29\"></a><b>23 </b>(1) An arbitration may be commenced in any way recognized by law, including the following:</p> <p class=\"paragraph\">  1. A party to an arbitration agreement serves on the other parties notice to appoint or to participate in the appointment of an arbitrator under the agreement.</p> <p class=\"paragraph\">  2. If the arbitration agreement gives a person who is not a party power to appoint an arbitrator, one party serves notice to exercise that power on the person and serves a copy of the notice on the other parties.</p> <p class=\"paragraph\">  3. A party serves on the other parties a notice demanding arbitration under the agreement.  1991, c. 17, s. 23 (1).</p> <p class=\"headnote\">Exercise of arbitral tribunal’s powers</p> <p class=\"subsection\">(2) The arbitral tribunal may exercise its powers when every member has accepted appointment.  1991, c. 17, s. 23 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK30",
+            "TOCid": "24.",
+            "section_x": "Matters referred to arbitration",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Matters referred to arbitration",
+            "content": "24 A notice that commences an arbitration without identifying the dispute shall be deemed to refer to arbitration all disputes that the arbitration agreement entitles the party giving the notice to refer.  1991, c. 17, s. 24.",
+            "raw_html": "<p class=\"section\"><a name=\"BK30\"></a><b>24 </b>A notice that commences an arbitration without identifying the dispute shall be deemed to refer to arbitration all disputes that the arbitration agreement entitles the party giving the notice to refer.  1991, c. 17, s. 24.</p>"
+        },
+        {
+            "ahref_id": "#BK31",
+            "TOCid": "25.",
+            "section_x": "Procedural directions",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Procedural directions",
+            "content": "25 (1) An arbitral tribunal may require that the parties submit their statements within a specified period of time. 1991, c. 17, s. 25 (1). Contents of statements (2) The parties’ statements shall indicate the facts supporting their positions, the points at issue and the relief sought.  1991, c. 17, s. 25 (2). Documents and other evidence (3) The parties may submit with their statements the documents they consider relevant, or may refer to the documents or other evidence they intend to submit.  1991, c. 17, s. 25 (3). Changes to statements (4) The parties may amend or supplement their statements during the arbitration; however, the arbitral tribunal may disallow a change that is unduly delayed.  1991, c. 17, s. 25 (4). Oral statements (5) With the arbitral tribunal’s permission, the parties may submit their statements orally.  1991, c. 17, s. 25 (5). Directions of arbitral tribunal (6) The parties and persons claiming through or under them shall, subject to any legal objection, comply with the arbitral tribunal’s directions, including directions to, (a) submit to examination on oath or affirmation with respect to the dispute; (b) produce records and documents that are in their possession or power.  1991, c. 17, s. 25 (6). Enforcement by court (7) The court may enforce the direction of an arbitral tribunal as if it were a similar direction made by the court in an action.  1991, c. 17, s. 25 (7).",
+            "raw_html": "<p class=\"section\"><a name=\"BK31\"></a><b>25 </b>(1) An arbitral tribunal may require that the parties submit their statements within a specified period of time. 1991, c. 17, s. 25 (1).</p> <p class=\"headnote\">Contents of statements</p> <p class=\"subsection\">(2) The parties’ statements shall indicate the facts supporting their positions, the points at issue and the relief sought.  1991, c. 17, s. 25 (2).</p> <p class=\"headnote\">Documents and other evidence</p> <p class=\"subsection\">(3) The parties may submit with their statements the documents they consider relevant, or may refer to the documents or other evidence they intend to submit.  1991, c. 17, s. 25 (3).</p> <p class=\"headnote\">Changes to statements</p> <p class=\"subsection\">(4) The parties may amend or supplement their statements during the arbitration; however, the arbitral tribunal may disallow a change that is unduly delayed.  1991, c. 17, s. 25 (4).</p> <p class=\"headnote\">Oral statements</p> <p class=\"subsection\">(5) With the arbitral tribunal’s permission, the parties may submit their statements orally.  1991, c. 17, s. 25 (5).</p> <p class=\"headnote\">Directions of arbitral tribunal</p> <p class=\"subsection\">(6) The parties and persons claiming through or under them shall, subject to any legal objection, comply with the arbitral tribunal’s directions, including directions to,</p> <p class=\"paragraph\">  (a) submit to examination on oath or affirmation with respect to the dispute;</p> <p class=\"paragraph\">  (b) produce records and documents that are in their possession or power.  1991, c. 17, s. 25 (6).</p> <p class=\"headnote\">Enforcement by court</p> <p class=\"subsection\">(7) The court may enforce the direction of an arbitral tribunal as if it were a similar direction made by the court in an action.  1991, c. 17, s. 25 (7).</p>"
+        },
+        {
+            "ahref_id": "#BK32",
+            "TOCid": "26.",
+            "section_x": "Hearings and written proceedings",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Hearings and written proceedings",
+            "content": "26 (1) The arbitral tribunal may conduct the arbitration on the basis of documents or may hold hearings for the presentation of evidence and for oral argument; however, the tribunal shall hold a hearing if a party requests it.  1991, c. 17, s. 26 (1). Notice (2) The arbitral tribunal shall give the parties sufficient notice of hearings and of meetings of the tribunal for the purpose of inspection of property or documents.  1991, c. 17, s. 26 (2). Communication to parties (3) A party who submits a statement to the arbitral tribunal or supplies the tribunal with any other information shall also communicate it to the other parties.  1991, c. 17, s. 26 (3). Idem (4) The arbitral tribunal shall communicate to the parties any expert reports or other documents on which it may rely in making a decision.  1991, c. 17, s. 26 (4). Party’s failure to act",
+            "raw_html": "<p class=\"section\"><a name=\"BK32\"></a><b>26 </b>(1) The arbitral tribunal may conduct the arbitration on the basis of documents or may hold hearings for the presentation of evidence and for oral argument; however, the tribunal shall hold a hearing if a party requests it.  1991, c. 17, s. 26 (1).</p> <p class=\"headnote\">Notice</p> <p class=\"subsection\">(2) The arbitral tribunal shall give the parties sufficient notice of hearings and of meetings of the tribunal for the purpose of inspection of property or documents.  1991, c. 17, s. 26 (2).</p> <p class=\"headnote\">Communication to parties</p> <p class=\"subsection\">(3) A party who submits a statement to the arbitral tribunal or supplies the tribunal with any other information shall also communicate it to the other parties.  1991, c. 17, s. 26 (3).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(4) The arbitral tribunal shall communicate to the parties any expert reports or other documents on which it may rely in making a decision.  1991, c. 17, s. 26 (4).</p> <p class=\"headnote\">Party’s failure to act</p>"
+        },
+        {
+            "ahref_id": "#BK33",
+            "TOCid": "27.",
+            "section_x": "Party’s failure to act",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Failure to submit statement",
+            "content": "27 (1) If the party who commenced the arbitration does not submit a statement within the period of time specified under subsection 25 (1), the arbitral tribunal may, unless the party offers a satisfactory explanation, make an award dismissing the claim.  1991, c. 17, s. 27 (1). Idem (2) If a party other than the one who commenced the arbitration does not submit a statement within the period of time specified under subsection 25 (1), the arbitral tribunal may, unless the party offers a satisfactory explanation, continue the arbitration, but shall not treat the failure to submit a statement as an admission of another party’s allegations.  1991, c. 17, s. 27 (2). Failure to appear or produce evidence (3) If a party fails to appear at a hearing or to produce documentary evidence, the arbitral tribunal may, unless the party offers a satisfactory explanation, continue the arbitration and make an award on the evidence before it.  1991, c. 17, s. 27 (3). Delay (4) In the case of delay by the party who commenced the arbitration, the arbitral tribunal may make an award dismissing the claim or give directions for the speedy determination of the arbitration, and may impose conditions on its decision.  1991, c. 17, s. 27 (4). Jointly commenced arbitration (5) If the arbitration was commenced jointly by all the parties, subsections (2) and (3) apply, with necessary modifications, but subsections (1) and (4) do not.  1991, c. 17, s. 27 (5). Counterclaim (6) This section applies in respect of a counterclaim as if the party making it were the party who commmenced the arbitration.  1991, c. 17, s. 27 (6).",
+            "raw_html": "<p class=\"section\"><a name=\"BK33\"></a><b>27 </b>(1) If the party who commenced the arbitration does not submit a statement within the period of time specified under subsection 25 (1), the arbitral tribunal may, unless the party offers a satisfactory explanation, make an award dismissing the claim.  1991, c. 17, s. 27 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) If a party other than the one who commenced the arbitration does not submit a statement within the period of time specified under subsection 25 (1), the arbitral tribunal may, unless the party offers a satisfactory explanation, continue the arbitration, but shall not treat the failure to submit a statement as an admission of another party’s allegations.  1991, c. 17, s. 27 (2).</p> <p class=\"headnote\">Failure to appear or produce evidence</p> <p class=\"subsection\">(3) If a party fails to appear at a hearing or to produce documentary evidence, the arbitral tribunal may, unless the party offers a satisfactory explanation, continue the arbitration and make an award on the evidence before it.  1991, c. 17, s. 27 (3).</p> <p class=\"headnote\">Delay</p> <p class=\"subsection\">(4) In the case of delay by the party who commenced the arbitration, the arbitral tribunal may make an award dismissing the claim or give directions for the speedy determination of the arbitration, and may impose conditions on its decision.  1991, c. 17, s. 27 (4).</p> <p class=\"headnote\">Jointly commenced arbitration</p> <p class=\"subsection\">(5) If the arbitration was commenced jointly by all the parties, subsections (2) and (3) apply, with necessary modifications, but subsections (1) and (4) do not.  1991, c. 17, s. 27 (5).</p> <p class=\"headnote\">Counterclaim</p> <p class=\"subsection\">(6) This section applies in respect of a counterclaim as if the party making it were the party who commmenced the arbitration.  1991, c. 17, s. 27 (6).</p>"
+        },
+        {
+            "ahref_id": "#BK34",
+            "TOCid": "28.",
+            "section_x": "Appointment of expert",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Appointment of expert",
+            "content": "28 (1) An arbitral tribunal may appoint an expert to report to it on specific issues.  1991, c. 17, s. 28 (1). Information and documents (2) The arbitral tribunal may require parties to give the expert any relevant information or to allow him or her to inspect property or documents.  1991, c. 17, s. 28 (2). Hearing (3) At the request of a party or of the arbitral tribunal, the expert shall, after making the report, participate in a hearing in which the parties may question the expert and present the testimony of another expert on the subject-matter of the report. 1991, c. 17, s. 28 (3). Witnesses and taking of evidence",
+            "raw_html": "<p class=\"section\"><a name=\"BK34\"></a><b>28 </b>(1) An arbitral tribunal may appoint an expert to report to it on specific issues.  1991, c. 17, s. 28 (1).</p> <p class=\"headnote\">Information and documents</p> <p class=\"subsection\">(2) The arbitral tribunal may require parties to give the expert any relevant information or to allow him or her to inspect property or documents.  1991, c. 17, s. 28 (2).</p> <p class=\"headnote\">Hearing</p> <p class=\"subsection\">(3) At the request of a party or of the arbitral tribunal, the expert shall, after making the report, participate in a hearing in which the parties may question the expert and present the testimony of another expert on the subject-matter of the report. 1991, c. 17, s. 28 (3).</p> <p class=\"headnote\">Witnesses and taking of evidence</p>"
+        },
+        {
+            "ahref_id": "#BK35",
+            "TOCid": "29.",
+            "section_x": "Witnesses and taking of evidence",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Notice to witness",
+            "content": "29 (1) A party may serve a person with a notice, issued by the arbitral tribunal, requiring the person to attend and give evidence at the arbitration at the time and place named in the notice.  1991, c. 17, s. 29 (1). Service of notice (2) The notice has the same effect as a notice in a court proceeding requiring a witness to attend at a hearing or produce documents, and shall be served in the same way.  1991, c. 17, s. 29 (2). Power of arbitral tribunal (3) An arbitral tribunal has power to administer an oath or affirmation and power to require a witness to testify under oath or affirmation.  1991, c. 17, s. 29 (3). Court orders and directions (4) On the application of a party or of the arbitral tribunal, the court may make orders and give directions with respect to the taking of evidence for an arbitration as if it were a court proceeding.  1991, c. 17, s. 29 (4).",
+            "raw_html": "<p class=\"section\"><a name=\"BK35\"></a><b>29 </b>(1) A party may serve a person with a notice, issued by the arbitral tribunal, requiring the person to attend and give evidence at the arbitration at the time and place named in the notice.  1991, c. 17, s. 29 (1).</p> <p class=\"headnote\">Service of notice</p> <p class=\"subsection\">(2) The notice has the same effect as a notice in a court proceeding requiring a witness to attend at a hearing or produce documents, and shall be served in the same way.  1991, c. 17, s. 29 (2).</p> <p class=\"headnote\">Power of arbitral tribunal</p> <p class=\"subsection\">(3) An arbitral tribunal has power to administer an oath or affirmation and power to require a witness to testify under oath or affirmation.  1991, c. 17, s. 29 (3).</p> <p class=\"headnote\">Court orders and directions</p> <p class=\"subsection\">(4) On the application of a party or of the arbitral tribunal, the court may make orders and give directions with respect to the taking of evidence for an arbitration as if it were a court proceeding.  1991, c. 17, s. 29 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK36",
+            "TOCid": "30.",
+            "section_x": "Restriction",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Restriction",
+            "content": "30 No person shall be compelled to produce information, property or documents or to give evidence in an arbitration that the person could not be compelled to produce or give in a court proceeding.  1991, c. 17, s. 30. Awards and Termination of Arbitration",
+            "raw_html": "<p class=\"section\"><a name=\"BK36\"></a><b>30 </b>No person shall be compelled to produce information, property or documents or to give evidence in an arbitration that the person could not be compelled to produce or give in a court proceeding.  1991, c. 17, s. 30.</p> <p class=\"heading1\"><a name=\"BK37\"></a>Awards and Termination of Arbitration</p>"
+        },
+        {
+            "ahref_id": "#BK37",
+            "TOCid": "Awards and Termination of Arbitration",
+            "section_x": "Awards and Termination of Arbitration",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK38",
+            "TOCid": "31.",
+            "section_x": "Application of law and equity",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Application of law and equity",
+            "content": "31 An arbitral tribunal shall decide a dispute in accordance with law, including equity, and may order specific performance, injunctions and other equitable remedies.  1991, c. 17, s. 31.",
+            "raw_html": "<p class=\"section\"><a name=\"BK38\"></a><b>31 </b>An arbitral tribunal shall decide a dispute in accordance with law, including equity, and may order specific performance, injunctions and other equitable remedies.  1991, c. 17, s. 31.</p>"
+        },
+        {
+            "ahref_id": "#BK39",
+            "TOCid": "32.",
+            "section_x": "Conflict of laws",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Conflict of laws",
+            "content": "32 (1) In deciding a dispute, an arbitral tribunal shall apply the rules of law designated by the parties or, if none are designated, the rules of law it considers appropriate in the circumstances.  1991, c. 17, s. 32 (1). Designation by parties (2) A designation by the parties of the law of a jurisdiction refers to the jurisdiction’s substantive law and not to its conflict of laws rules, unless the parties expressly indicate that the designation includes them.  1991, c. 17, s. 32 (2). Exception, family arbitration (3) Subsections (1) and (2) do not apply to a family arbitration.  2006, c. 1, s. 1 (5). Same (4) In a family arbitration, the arbitral tribunal shall apply the substantive law of Ontario, unless the parties expressly designate the substantive law of another Canadian jurisdiction, in which case that substantive law shall be applied.  2006, c. 1, s. 1 (5). Section Amendments with date in force (d/m/y) 2006, c. 1, s. 1 (5)\r\n- 30/04/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK39\"></a><b>32 </b>(1) In deciding a dispute, an arbitral tribunal shall apply the rules of law designated by the parties or, if none are designated, the rules of law it considers appropriate in the circumstances.  1991, c. 17, s. 32 (1).</p> <p class=\"headnote\">Designation by parties</p> <p class=\"subsection\">(2) A designation by the parties of the law of a jurisdiction refers to the jurisdiction’s substantive law and not to its conflict of laws rules, unless the parties expressly indicate that the designation includes them.  1991, c. 17, s. 32 (2).</p> <p class=\"headnote\">Exception, family arbitration</p> <p class=\"subsection\">(3) Subsections (1) and (2) do not apply to a family arbitration.  2006, c. 1, s. 1 (5).</p> <p class=\"headnote\">Same</p> <p class=\"subsection\">(4) In a family arbitration, the arbitral tribunal shall apply the substantive law of Ontario, unless the parties expressly designate the substantive law of another Canadian jurisdiction, in which case that substantive law shall be applied.  2006, c. 1, s. 1 (5).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06001#s1s5\">2006, c. 1, s. 1 (5)</a></span>\r\n- 30/04/2007</p>"
+        },
+        {
+            "ahref_id": "#BK40",
+            "TOCid": "33.",
+            "section_x": "Application of arbitration agreement, contract and usages of trade",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Application of arbitration agreement, contract and usages of trade",
+            "content": "33 The arbitral tribunal shall decide the dispute in accordance with the arbitration agreement and the contract, if any, under which the dispute arose, and may also take into account any applicable usages of trade.  1991, c. 17, s. 33.",
+            "raw_html": "<p class=\"section\"><a name=\"BK40\"></a><b>33 </b>The arbitral tribunal shall decide the dispute in accordance with the arbitration agreement and the contract, if any, under which the dispute arose, and may also take into account any applicable usages of trade.  1991, c. 17, s. 33.</p>"
+        },
+        {
+            "ahref_id": "#BK41",
+            "TOCid": "34.",
+            "section_x": "Decision of arbitral tribunal",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Decision of arbitral tribunal",
+            "content": "34 If an arbitral tribunal is composed of more than one member, a decision of a majority of the members is the arbitral tribunal’s decision; however, if there is no majority decision or unanimous decision, the chair’s decision governs.  1991, c. 17, s. 34.",
+            "raw_html": "<p class=\"section\"><a name=\"BK41\"></a><b>34 </b>If an arbitral tribunal is composed of more than one member, a decision of a majority of the members is the arbitral tribunal’s decision; however, if there is no majority decision or unanimous decision, the chair’s decision governs.  1991, c. 17, s. 34.</p>"
+        },
+        {
+            "ahref_id": "#BK42",
+            "TOCid": "35.",
+            "section_x": "Mediation and conciliation",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Mediation and conciliation",
+            "content": "35 The members of an arbitral tribunal shall not conduct any part of the arbitration as a mediation or conciliation process or other similar process that might compromise or appear to compromise the arbitral tribunal’s ability to decide the dispute impartially.  1991, c. 17, s. 35.",
+            "raw_html": "<p class=\"section\"><a name=\"BK42\"></a><b>35 </b>The members of an arbitral tribunal shall not conduct any part of the arbitration as a mediation or conciliation process or other similar process that might compromise or appear to compromise the arbitral tribunal’s ability to decide the dispute impartially.  1991, c. 17, s. 35.</p>"
+        },
+        {
+            "ahref_id": "#BK43",
+            "TOCid": "36.",
+            "section_x": "Settlement",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Settlement",
+            "content": "36 If the parties settle the dispute during arbitration, the arbitral tribunal shall terminate the arbitration and, if a party so requests, may record the settlement in the form of an award.  1991, c. 17, s. 36.",
+            "raw_html": "<p class=\"section\"><a name=\"BK43\"></a><b>36 </b>If the parties settle the dispute during arbitration, the arbitral tribunal shall terminate the arbitration and, if a party so requests, may record the settlement in the form of an award.  1991, c. 17, s. 36.</p>"
+        },
+        {
+            "ahref_id": "#BK44",
+            "TOCid": "37.",
+            "section_x": "Binding nature of award",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Binding nature of award",
+            "content": "37 An award binds the parties, unless it is set aside or varied under section 45 or 46 (appeal, setting aside award).  1991, c. 17, s. 37.",
+            "raw_html": "<p class=\"section\"><a name=\"BK44\"></a><b>37 </b>An award binds the parties, unless it is set aside or varied under section 45 or 46 (appeal, setting aside award).  1991, c. 17, s. 37.</p>"
+        },
+        {
+            "ahref_id": "#BK45",
+            "TOCid": "38.",
+            "section_x": "Form of award",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Form of award",
+            "content": "38 (1) An award shall be made in writing and, except in the case of an award made on consent, shall state the reasons on which it is based.  1991, c. 17, s. 38 (1). Idem (2) The award shall indicate the place where and the date on which it is made.  1991, c. 17, s. 38 (2). Formalities of execution (3) The award shall be dated and shall be signed by all the members of the arbitral tribunal, or by a majority of them if an explanation of the omission of the other signatures is included.  1991, c. 17, s. 38 (3). Copies (4) A copy of the award shall be delivered to each party.  1991, c. 17, s. 38 (4).",
+            "raw_html": "<p class=\"section\"><a name=\"BK45\"></a><b>38 </b>(1) An award shall be made in writing and, except in the case of an award made on consent, shall state the reasons on which it is based.  1991, c. 17, s. 38 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) The award shall indicate the place where and the date on which it is made.  1991, c. 17, s. 38 (2).</p> <p class=\"headnote\">Formalities of execution</p> <p class=\"subsection\">(3) The award shall be dated and shall be signed by all the members of the arbitral tribunal, or by a majority of them if an explanation of the omission of the other signatures is included.  1991, c. 17, s. 38 (3).</p> <p class=\"headnote\">Copies</p> <p class=\"subsection\">(4) A copy of the award shall be delivered to each party.  1991, c. 17, s. 38 (4).</p>"
+        },
+        {
+            "ahref_id": "#BK46",
+            "TOCid": "39.",
+            "section_x": "Extension of time limits",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Extension of time limits",
+            "content": "39 The court may extend the time within which the arbitral tribunal is required to make an award, even if the time has expired.  1991, c. 17, s. 39.",
+            "raw_html": "<p class=\"section\"><a name=\"BK46\"></a><b>39 </b>The court may extend the time within which the arbitral tribunal is required to make an award, even if the time has expired.  1991, c. 17, s. 39.</p>"
+        },
+        {
+            "ahref_id": "#BK47",
+            "TOCid": "40.",
+            "section_x": "Explanation",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Explanation",
+            "content": "40 (1) A party may, within thirty days after receiving an award, request that the arbitral tribunal explain any matter.  1991, c. 17, s. 40 (1). Court order (2) If the arbitral tribunal does not give an explanation within fifteen days after receiving the request, the court may, on the party’s application, order it to do so.  1991, c. 17, s. 40 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK47\"></a><b>40 </b>(1) A party may, within thirty days after receiving an award, request that the arbitral tribunal explain any matter.  1991, c. 17, s. 40 (1).</p> <p class=\"headnote\">Court order</p> <p class=\"subsection\">(2) If the arbitral tribunal does not give an explanation within fifteen days after receiving the request, the court may, on the party’s application, order it to do so.  1991, c. 17, s. 40 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK48",
+            "TOCid": "41.",
+            "section_x": "Interim awards",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Interim awards",
+            "content": "41 The arbitral tribunal may make one or more interim awards.  1991, c. 17, s. 41.",
+            "raw_html": "<p class=\"section\"><a name=\"BK48\"></a><b>41 </b>The arbitral tribunal may make one or more interim awards.  1991, c. 17, s. 41.</p>"
+        },
+        {
+            "ahref_id": "#BK49",
+            "TOCid": "42.",
+            "section_x": "More than one final award",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "More than one final award",
+            "content": "42 The arbitral tribunal may make more than one final award, disposing of one or more matters referred to arbitration in each award.  1991, c. 17, s. 42.",
+            "raw_html": "<p class=\"section\"><a name=\"BK49\"></a><b>42 </b>The arbitral tribunal may make more than one final award, disposing of one or more matters referred to arbitration in each award.  1991, c. 17, s. 42.</p>"
+        },
+        {
+            "ahref_id": "#BK50",
+            "TOCid": "43.",
+            "section_x": "Termination of arbitration",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Termination of arbitration",
+            "content": "43 (1) An arbitration is terminated when, (a) the arbitral tribunal makes a final award in accordance with this Act, disposing of all matters referred to arbitration; (b) the arbitral tribunal terminates the arbitration under subsection (2), (3), 27 (1) (claimant’s failure to submit statement) or 27 (4) (delay); or (c) an arbitrator’s mandate is terminated, if the arbitration agreement provides that the arbitration shall be conducted only by that arbitrator.  1991, c. 17, s. 43 (1). Order by arbitral tribunal (2) An arbitral tribunal shall make an order terminating the arbitration if the claimant withdraws the claim, unless the respondent objects to the termination and the arbitral tribunal agrees that the respondent is entitled to obtain a final settlement of the dispute.  1991, c. 17, s. 43 (2). Idem (3) An arbitral tribunal shall make an order terminating the arbitration if, (a) the parties agree that the arbitration should be terminated; or (b) the arbitral tribunal finds that continuation of the arbitration has become unnecessary or impossible.  1991, c. 17, s. 43 (3). Revival (4) The arbitration may be revived for the purposes of section 44 (corrections) or subsection 45 (5) (appeal), 46 (7), 46 (8) (setting aside award) or 54 (3) (costs).  1991, c. 17, s. 43 (4). Death (5) A party’s death terminates the arbitration only with respect to claims that are extinguished as a result of the death.  1991, c. 17, s. 43 (5). Corrections and additional awards",
+            "raw_html": "<p class=\"section\"><a name=\"BK50\"></a><b>43 </b>(1) An arbitration is terminated when,</p> <p class=\"paragraph\">  (a) the arbitral tribunal makes a final award in accordance with this Act, disposing of all matters referred to arbitration;</p> <p class=\"paragraph\">  (b) the arbitral tribunal terminates the arbitration under subsection (2), (3), 27 (1) (claimant’s failure to submit statement) or 27 (4) (delay); or</p> <p class=\"paragraph\">  (c) an arbitrator’s mandate is terminated, if the arbitration agreement provides that the arbitration shall be conducted only by that arbitrator.  1991, c. 17, s. 43 (1).</p> <p class=\"headnote\">Order by arbitral tribunal</p> <p class=\"subsection\">(2) An arbitral tribunal shall make an order terminating the arbitration if the claimant withdraws the claim, unless the respondent objects to the termination and the arbitral tribunal agrees that the respondent is entitled to obtain a final settlement of the dispute.  1991, c. 17, s. 43 (2).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(3) An arbitral tribunal shall make an order terminating the arbitration if,</p> <p class=\"paragraph\">  (a) the parties agree that the arbitration should be terminated; or</p> <p class=\"paragraph\">  (b) the arbitral tribunal finds that continuation of the arbitration has become unnecessary or impossible.  1991, c. 17, s. 43 (3).</p> <p class=\"headnote\">Revival</p> <p class=\"subsection\">(4) The arbitration may be revived for the purposes of section 44 (corrections) or subsection 45 (5) (appeal), 46 (7), 46 (8) (setting aside award) or 54 (3) (costs).  1991, c. 17, s. 43 (4).</p> <p class=\"headnote\">Death</p> <p class=\"subsection\">(5) A party’s death terminates the arbitration only with respect to claims that are extinguished as a result of the death.  1991, c. 17, s. 43 (5).</p> <p class=\"headnote\">Corrections and additional awards</p>"
+        },
+        {
+            "ahref_id": "#BK51",
+            "TOCid": "44.",
+            "section_x": "Corrections and additional awards",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Errors, injustices caused by oversights",
+            "content": "44 (1) An arbitral tribunal may, on its own initiative within thirty days after making an award or at a party’s request made within thirty days after receiving the award, (a) correct typographical errors, errors of calculation and similar errors in the award; or (b) amend the award so as to correct an injustice caused by an oversight on the part of the arbitral tribunal.  1991, c. 17, s. 44 (1). Additional awards (2) The arbitral tribunal may, on its own initiative at any time or at a party’s request made within thirty days after receiving the award, make an additional award to deal with a claim that was presented in the arbitration but omitted from the earlier award.  1991, c. 17, s. 44 (2). No hearing necessary (3) The arbitral tribunal need not hold a hearing or meeting before rejecting a request made under this section.  1991, c. 17, s. 44 (3). Remedies Appeals",
+            "raw_html": "<p class=\"section\"><a name=\"BK51\"></a><b>44 </b>(1) An arbitral tribunal may, on its own initiative within thirty days after making an award or at a party’s request made within thirty days after receiving the award,</p> <p class=\"paragraph\">  (a) correct typographical errors, errors of calculation and similar errors in the award; or</p> <p class=\"paragraph\">  (b) amend the award so as to correct an injustice caused by an oversight on the part of the arbitral tribunal.  1991, c. 17, s. 44 (1).</p> <p class=\"headnote\">Additional awards</p> <p class=\"subsection\">(2) The arbitral tribunal may, on its own initiative at any time or at a party’s request made within thirty days after receiving the award, make an additional award to deal with a claim that was presented in the arbitration but omitted from the earlier award.  1991, c. 17, s. 44 (2).</p> <p class=\"headnote\">No hearing necessary</p> <p class=\"subsection\">(3) The arbitral tribunal need not hold a hearing or meeting before rejecting a request made under this section.  1991, c. 17, s. 44 (3).</p> <p class=\"heading1\"><a name=\"BK52\"></a>Remedies</p> <p class=\"headnote\">Appeals</p>"
+        },
+        {
+            "ahref_id": "#BK52",
+            "TOCid": "Remedies",
+            "section_x": "Remedies",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK53",
+            "TOCid": "45.",
+            "section_x": "Appeals",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Appeal on question of law",
+            "content": "45 (1) If the arbitration agreement does not deal with appeals on questions of law, a party may appeal an award to the court on a question of law with leave, which the court shall grant only if it is satisfied that, (a) the importance to the parties of the matters at stake in the arbitration justifies an appeal; and (b) determination of the question of law at issue will significantly affect the rights of the parties.  1991, c. 17, s. 45 (1). Idem (2) If the arbitration agreement so provides, a party may appeal an award to the court on a question of law.  1991, c. 17, s. 45 (2). Appeal on question of fact or mixed fact and law (3) If the arbitration agreement so provides, a party may appeal an award to the court on a question of fact or on a question of mixed fact and law.  1991, c. 17, s. 45 (3). Powers of court (4) The court may require the arbitral tribunal to explain any matter.  1991, c. 17, s. 45 (4). Idem (5) The court may confirm, vary or set aside the award or may remit the award to the arbitral tribunal with the court’s opinion on the question of law, in the case of an appeal on a question of law, and give directions about the conduct of the arbitration.  1991, c. 17, s. 45 (5). Family arbitration award (6) Any appeal of a family arbitration award lies to, (a) the Family Court, in the areas where it has jurisdiction under subsection 21.1 (4) of the Courts of Justice Act; (b) the Superior Court of Justice, in the rest of Ontario.  2006, c. 1, s. 1 (6). Section Amendments with date in force (d/m/y) 2006, c. 1, s. 1 (6)\r\n- 30/04/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK53\"></a><b>45 </b>(1) If the arbitration agreement does not deal with appeals on questions of law, a party may appeal an award to the court on a question of law with leave, which the court shall grant only if it is satisfied that,</p> <p class=\"paragraph\">  (a) the importance to the parties of the matters at stake in the arbitration justifies an appeal; and</p> <p class=\"paragraph\">  (b) determination of the question of law at issue will significantly affect the rights of the parties.  1991, c. 17, s. 45 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) If the arbitration agreement so provides, a party may appeal an award to the court on a question of law.  1991, c. 17, s. 45 (2).</p> <p class=\"headnote\">Appeal on question of fact or mixed fact and law</p> <p class=\"subsection\">(3) If the arbitration agreement so provides, a party may appeal an award to the court on a question of fact or on a question of mixed fact and law.  1991, c. 17, s. 45 (3).</p> <p class=\"headnote\">Powers of court</p> <p class=\"subsection\">(4) The court may require the arbitral tribunal to explain any matter.  1991, c. 17, s. 45 (4).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(5) The court may confirm, vary or set aside the award or may remit the award to the arbitral tribunal with the court’s opinion on the question of law, in the case of an appeal on a question of law, and give directions about the conduct of the arbitration.  1991, c. 17, s. 45 (5).</p> <p class=\"headnote\">Family arbitration award</p> <p class=\"subsection\">(6) Any appeal of a family arbitration award lies to,</p> <p class=\"paragraph\">  (a) the Family Court, in the areas where it has jurisdiction under subsection 21.1 (4) of the <i>Courts of Justice Act</i>; </p> <p class=\"paragraph\">  (b) the Superior Court of Justice, in the rest of Ontario.  2006, c. 1, s. 1 (6).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06001#s1s6\">2006, c. 1, s. 1 (6)</a></span>\r\n- 30/04/2007</p>"
+        },
+        {
+            "ahref_id": "#BK54",
+            "TOCid": "46.",
+            "section_x": "Setting aside award",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Setting aside award",
+            "content": "46 (1) On a party’s application, the court may set aside an award on any of the following grounds: 1. A party entered into the arbitration agreement while under a legal incapacity. 2. The arbitration agreement is invalid or has ceased to exist. 3. The award deals with a dispute that the arbitration agreement does not cover or contains a decision on a matter that is beyond the scope of the agreement. 4. The composition of the arbitral tribunal was not in accordance with the arbitration agreement or, if the agreement did not deal with that matter, was not in accordance with this Act. 5. The subject-matter of the dispute is not capable of being the subject of arbitration under Ontario law. 6. The applicant was not treated equally and fairly, was not given an opportunity to present a case or to respond to another party’s case, or was not given proper notice of the arbitration or of the appointment of an arbitrator. 7. The procedures followed in the arbitration did not comply with this Act. 8. An arbitrator has committed a corrupt or fraudulent act or there is a reasonable apprehension of bias. 9. The award was obtained by fraud. 10. The award is a family arbitration award that is not enforceable under the Family Law Act.  1991, c. 17, s. 46 (1); 2006, c. 1, s. 1 (7). Severable parts of award (2) If paragraph 3 of subsection (1) applies and it is reasonable to separate the decisions on matters covered by the arbitration agreement from the impugned ones, the court shall set aside the impugned decisions and allow the others to stand.  1991, c. 17, s. 46 (2). Restriction (3) The court shall not set aside an award on grounds referred to in paragraph 3 of subsection (1) if the party has agreed to the inclusion of the dispute or matter, waived the right to object to its inclusion or agreed that the arbitral tribunal has power to decide what disputes have been referred to it.  1991, c. 17, s. 46 (3). Idem (4) The court shall not set aside an award on grounds referred to in paragraph 8 of subsection (1) if the party had an opportunity to challenge the arbitrator on those grounds under section 13 before the award was made and did not do so, or if those grounds were the subject of an unsuccessful challenge.  1991, c. 17, s. 46 (4). Deemed waiver (5) The court shall not set aside an award on a ground to which the applicant is deemed under section 4 to have waived the right to object.  1991, c. 17, s. 46 (5). Exception (6) If the ground alleged for setting aside the award could have been raised as an objection to the arbitral tribunal’s jurisdiction to conduct the arbitration or as an objection that the arbitral tribunal was exceeding its authority, the court may set the award aside on that ground if it considers the applicant’s failure to make an objection in accordance with section 17 justified.  1991, c. 17, s. 46 (6). Connected matters (7) When the court sets aside an award, it may remove the arbitral tribunal or an arbitrator and may give directions about the conduct of the arbitration.  1991, c. 17, s. 46 (7). Court may remit award to arbitral tribunal (8) Instead of setting aside an award, the court may remit it to the arbitral tribunal and give directions about the conduct of the arbitration.  1991, c. 17, s. 46 (8). Section Amendments with date in force (d/m/y) 2006, c. 1, s. 1 (7)\r\n- 30/04/2007 CTS 13 JL 12 - 2",
+            "raw_html": "<p class=\"section\"><a name=\"BK54\"></a><b>46 </b>(1) On a party’s application, the court may set aside an award on any of the following grounds:</p> <p class=\"paragraph\">  1. A party entered into the arbitration agreement while under a legal incapacity.</p> <p class=\"paragraph\">  2. The arbitration agreement is invalid or has ceased to exist.</p> <p class=\"paragraph\">  3. The award deals with a dispute that the arbitration agreement does not cover or contains a decision on a matter that is beyond the scope of the agreement.</p> <p class=\"paragraph\">  4. The composition of the arbitral tribunal was not in accordance with the arbitration agreement or, if the agreement did not deal with that matter, was not in accordance with this Act.</p> <p class=\"paragraph\">  5. The subject-matter of the dispute is not capable of being the subject of arbitration under Ontario law.</p> <p class=\"paragraph\">  6. The applicant was not treated equally and fairly, was not given an opportunity to present a case or to respond to another party’s case, or was not given proper notice of the arbitration or of the appointment of an arbitrator.</p> <p class=\"paragraph\">  7. The procedures followed in the arbitration did not comply with this Act.</p> <p class=\"paragraph\">  8. An arbitrator has committed a corrupt or fraudulent act or there is a reasonable apprehension of bias.</p> <p class=\"paragraph\">  9. The award was obtained by fraud.</p> <p class=\"paragraph\">  10. The award is a family arbitration award that is not enforceable under the <i>Family Law Act.  </i>1991, c. 17, s. 46 (1); 2006, c. 1, s. 1 (7).</p> <p class=\"headnote\">Severable parts of award</p> <p class=\"subsection\">(2) If paragraph 3 of subsection (1) applies and it is reasonable to separate the decisions on matters covered by the arbitration agreement from the impugned ones, the court shall set aside the impugned decisions and allow the others to stand.  1991, c. 17, s. 46 (2).</p> <p class=\"headnote\">Restriction</p> <p class=\"subsection\">(3) The court shall not set aside an award on grounds referred to in paragraph 3 of subsection (1) if the party has agreed to the inclusion of the dispute or matter, waived the right to object to its inclusion or agreed that the arbitral tribunal has power to decide what disputes have been referred to it.  1991, c. 17, s. 46 (3).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(4) The court shall not set aside an award on grounds referred to in paragraph 8 of subsection (1) if the party had an opportunity to challenge the arbitrator on those grounds under section 13 before the award was made and did not do so, or if those grounds were the subject of an unsuccessful challenge.  1991, c. 17, s. 46 (4).</p> <p class=\"headnote\">Deemed waiver</p> <p class=\"subsection\">(5) The court shall not set aside an award on a ground to which the applicant is deemed under section 4 to have waived the right to object.  1991, c. 17, s. 46 (5).</p> <p class=\"headnote\">Exception</p> <p class=\"subsection\">(6) If the ground alleged for setting aside the award could have been raised as an objection to the arbitral tribunal’s jurisdiction to conduct the arbitration or as an objection that the arbitral tribunal was exceeding its authority, the court may set the award aside on that ground if it considers the applicant’s failure to make an objection in accordance with section 17 justified.  1991, c. 17, s. 46 (6).</p> <p class=\"headnote\">Connected matters</p> <p class=\"subsection\">(7) When the court sets aside an award, it may remove the arbitral tribunal or an arbitrator and may give directions about the conduct of the arbitration.  1991, c. 17, s. 46 (7).</p> <p class=\"headnote\">Court may remit award to arbitral tribunal</p> <p class=\"subsection\">(8) Instead of setting aside an award, the court may remit it to the arbitral tribunal and give directions about the conduct of the arbitration.  1991, c. 17, s. 46 (8).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06001#s1s7\">2006, c. 1, s. 1 (7)</a></span>\r\n- 30/04/2007</p> <p class=\"footnoteLeft\"><a href=\"https://www.ontario.ca/laws/consolidated-statutes-change-notices\">CTS 13 JL 12 - 2</a></p>"
+        },
+        {
+            "ahref_id": "#BK55",
+            "TOCid": "47.",
+            "section_x": "Time limit",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Time limit",
+            "content": "47 (1) An appeal of an award or an application to set aside an award shall be commenced within thirty days after the appellant or applicant receives the award, correction, explanation, change or statement of reasons on which the appeal or application is based.  1991, c. 17, s. 47 (1). Exception (2) Subsection (1) does not apply if the appellant or applicant alleges corruption or fraud.  1991, c. 17, s. 47 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK55\"></a><b>47 </b>(1) An appeal of an award or an application to set aside an award shall be commenced within thirty days after the appellant or applicant receives the award, correction, explanation, change or statement of reasons on which the appeal or application is based.  1991, c. 17, s. 47 (1).</p> <p class=\"headnote\">Exception</p> <p class=\"subsection\">(2) Subsection (1) does not apply if the appellant or applicant alleges corruption or fraud.  1991, c. 17, s. 47 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK56",
+            "TOCid": "48.",
+            "section_x": "Declaration of invalidity of arbitration",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Declaration of invalidity of arbitration",
+            "content": "48 (1) At any stage during or after an arbitration, on the application of a party who has not participated in the arbitration, the court may grant a declaration that the arbitration is invalid because, (a) a party entered into the arbitration agreement while under a legal incapacity; (b) the arbitration agreement is invalid or has ceased to exist; (c) the subject-matter of the dispute is not capable of being the subject of arbitration under Ontario law; or (d) the arbitration agreement does not apply to the dispute.  1991, c. 17, s. 48 (1). Injunction (2) When the court grants the declaration, it may also grant an injunction against the commencement or continuation of the arbitration.  1991, c. 17, s. 48 (2).",
+            "raw_html": "<p class=\"section\"><a name=\"BK56\"></a><b>48 </b>(1) At any stage during or after an arbitration, on the application of a party who has not participated in the arbitration, the court may grant a declaration that the arbitration is invalid because,</p> <p class=\"paragraph\">  (a) a party entered into the arbitration agreement while under a legal incapacity;</p> <p class=\"paragraph\">  (b) the arbitration agreement is invalid or has ceased to exist;</p> <p class=\"paragraph\">  (c) the subject-matter of the dispute is not capable of being the subject of arbitration under Ontario law; or</p> <p class=\"paragraph\">  (d) the arbitration agreement does not apply to the dispute.  1991, c. 17, s. 48 (1).</p> <p class=\"headnote\">Injunction</p> <p class=\"subsection\">(2) When the court grants the declaration, it may also grant an injunction against the commencement or continuation of the arbitration.  1991, c. 17, s. 48 (2).</p>"
+        },
+        {
+            "ahref_id": "#BK57",
+            "TOCid": "49.",
+            "section_x": "Further appeal",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Further appeal",
+            "content": "49 An appeal from the court’s decision in an appeal of an award, an application to set aside an award or an application for a declaration of invalidity may be made to the Court of Appeal, with leave of that court.  1991, c. 17, s. 49. Enforcement of award",
+            "raw_html": "<p class=\"section\"><a name=\"BK57\"></a><b>49 </b>An appeal from the court’s decision in an appeal of an award, an application to set aside an award or an application for a declaration of invalidity may be made to the Court of Appeal, with leave of that court.  1991, c. 17, s. 49.</p> <p class=\"headnote\">Enforcement of award</p>"
+        },
+        {
+            "ahref_id": "#BK58",
+            "TOCid": "50.",
+            "section_x": "Enforcement of award",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Application",
+            "content": "50 (1) A person who is entitled to enforcement of an award made in Ontario or elsewhere in Canada may make an application to the court to that effect.  1991, c. 17, s. 50 (1). Formalities (2) The application shall be made on notice to the person against whom enforcement is sought, in accordance with the rules of court, and shall be supported by the original award or a certified copy.  1991, c. 17, s. 50 (2). Duty of court, award made in Ontario (3) The court shall give a judgment enforcing an award made in Ontario unless, (a) the thirty-day period for commencing an appeal or an application to set the award aside has not yet elapsed; (b) there is a pending appeal, application to set the award aside or application for a declaration of invalidity; (c) the award has been set aside or the arbitration is the subject of a declaration of invalidity; or (d) the award is a family arbitration award.  1991, c. 17, s. 50 (3); 2006, c. 1, s. 1 (8). Duty of court, award made elsewhere in Canada (4) The court shall give a judgment enforcing an award made elsewhere in Canada unless, (a) the period for commencing an appeal or an application to set the award aside provided by the laws of the province or territory where the award was made has not yet elapsed; (b) there is a pending appeal, application to set the award aside or application for a declaration of invalidity in the province or territory where the award was made; (c) the award has been set aside in the province or territory where it was made or the arbitration is the subject of a declaration of invalidity granted there; (d) the subject-matter of the award is not capable of being the subject of arbitration under Ontario law; or (e) the award is a family arbitration award.  1991, c. 17, s. 50 (4); 2006, c. 1, s. 1 (9). Pending proceeding (5) If the period for commencing an appeal, application to set the award aside or application for a declaration of invalidity has not yet elapsed, or if such a proceeding is pending, the court may, (a) enforce the award; or (b) order, on such conditions as are just, that enforcement of the award is stayed until the period has elapsed without such a proceeding being commenced, or until the pending proceeding is finally disposed of.  1991, c. 17, s. 50 (5). Speedy disposition of pending proceeding (6) If the court stays the enforcement of an award made in Ontario until a pending proceeding is finally disposed of, it may give directions for the speedy disposition of the proceeding.  1991, c. 17, s. 50 (6). Unusual remedies (7) If the award gives a remedy that the court does not have jurisdiction to grant or would not grant in a proceeding based on similar circumstances, the court may, (a) grant a different remedy requested by the applicant; or (b) in the case of an award made in Ontario, remit it to the arbitral tribunal with the court’s opinion, in which case the arbitral tribunal may award a different remedy.  1991, c. 17, s. 50 (7). Powers of court (8) The court has the same powers with respect to the enforcement of awards as with respect to the enforcement of its own judgments.  1991, c. 17, s. 50 (8). Section Amendments with date in force (d/m/y) 2006, c. 1, s. 1 (8, 9)\r\n- 30/04/2007",
+            "raw_html": "<p class=\"section\"><a name=\"BK58\"></a><b>50 </b>(1) A person who is entitled to enforcement of an award made in Ontario or elsewhere in Canada may make an application to the court to that effect.  1991, c. 17, s. 50 (1).</p> <p class=\"headnote\">Formalities</p> <p class=\"subsection\">(2) The application shall be made on notice to the person against whom enforcement is sought, in accordance with the rules of court, and shall be supported by the original award or a certified copy.  1991, c. 17, s. 50 (2).</p> <p class=\"headnote\">Duty of court, award made in Ontario</p> <p class=\"subsection\">(3) The court shall give a judgment enforcing an award made in Ontario unless,</p> <p class=\"paragraph\">  (a) the thirty-day period for commencing an appeal or an application to set the award aside has not yet elapsed;</p> <p class=\"paragraph\">  (b) there is a pending appeal, application to set the award aside or application for a declaration of invalidity;</p> <p class=\"paragraph\">  (c) the award has been set aside or the arbitration is the subject of a declaration of invalidity; or </p> <p class=\"paragraph\">  (d) the award is a family arbitration award.  1991, c. 17, s. 50 (3); 2006, c. 1, s. 1 (8).</p> <p class=\"headnote\">Duty of court, award made elsewhere in Canada</p> <p class=\"subsection\">(4) The court shall give a judgment enforcing an award made elsewhere in Canada unless,</p> <p class=\"paragraph\">  (a) the period for commencing an appeal or an application to set the award aside provided by the laws of the province or territory where the award was made has not yet elapsed;</p> <p class=\"paragraph\">  (b) there is a pending appeal, application to set the award aside or application for a declaration of invalidity in the province or territory where the award was made;</p> <p class=\"paragraph\">  (c) the award has been set aside in the province or territory where it was made or the arbitration is the subject of a declaration of invalidity granted there;</p> <p class=\"paragraph\">  (d) the subject-matter of the award is not capable of being the subject of arbitration under Ontario law; or</p> <p class=\"paragraph\">  (e) the award is a family arbitration award.  1991, c. 17, s. 50 (4); 2006, c. 1, s. 1 (9).</p> <p class=\"headnote\">Pending proceeding</p> <p class=\"subsection\">(5) If the period for commencing an appeal, application to set the award aside or application for a declaration of invalidity has not yet elapsed, or if such a proceeding is pending, the court may,</p> <p class=\"paragraph\">  (a) enforce the award; or</p> <p class=\"paragraph\">  (b) order, on such conditions as are just, that enforcement of the award is stayed until the period has elapsed without such a proceeding being commenced, or until the pending proceeding is finally disposed of.  1991, c. 17, s. 50 (5).</p> <p class=\"headnote\">Speedy disposition of pending proceeding</p> <p class=\"subsection\">(6) If the court stays the enforcement of an award made in Ontario until a pending proceeding is finally disposed of, it may give directions for the speedy disposition of the proceeding.  1991, c. 17, s. 50 (6).</p> <p class=\"headnote\">Unusual remedies</p> <p class=\"subsection\">(7) If the award gives a remedy that the court does not have jurisdiction to grant or would not grant in a proceeding based on similar circumstances, the court may,</p> <p class=\"paragraph\">  (a) grant a different remedy requested by the applicant; or</p> <p class=\"paragraph\">  (b) in the case of an award made in Ontario, remit it to the arbitral tribunal with the court’s opinion, in which case the arbitral tribunal may award a different remedy.  1991, c. 17, s. 50 (7).</p> <p class=\"headnote\">Powers of court</p> <p class=\"subsection\">(8) The court has the same powers with respect to the enforcement of awards as with respect to the enforcement of its own judgments.  1991, c. 17, s. 50 (8).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06001#s1s8\">2006, c. 1, s. 1 (8, 9)</a></span>\r\n- 30/04/2007</p>"
+        },
+        {
+            "ahref_id": "#BK59",
+            "TOCid": "50.1",
+            "section_x": "Family arbitration awards",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Family arbitration awards",
+            "content": "50.1 Family arbitration awards are enforceable only under the Family Law Act.  2006, c. 1, s. 1 (10). Section Amendments with date in force (d/m/y) 2006, c. 1, s. 1 (10)\r\n- 30/04/2007 General",
+            "raw_html": "<p class=\"section\"><a name=\"BK59\"></a><b>50.1 </b>Family arbitration awards are enforceable only under the <i>Family Law Act</i>.  2006, c. 1, s. 1 (10).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06001#s1s10\">2006, c. 1, s. 1 (10)</a></span>\r\n- 30/04/2007</p> <p class=\"heading1\"><a name=\"BK60\"></a>General</p>"
+        },
+        {
+            "ahref_id": "#BK60",
+            "TOCid": "General",
+            "section_x": "General",
+            "part_id": null,
+            "part_type": null,
+            "section_y": NaN,
+            "content": NaN,
+            "raw_html": NaN
+        },
+        {
+            "ahref_id": "#BK61",
+            "TOCid": "51.",
+            "section_x": "Crown bound",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Crown bound",
+            "content": "51 This Act binds the Crown.  1991, c. 17, s. 51.",
+            "raw_html": "<p class=\"section\"><a name=\"BK61\"></a><b>51 </b>This Act binds the Crown.  1991, c. 17, s. 51.</p>"
+        },
+        {
+            "ahref_id": "#BK62",
+            "TOCid": "52.",
+            "section_x": "Limitation periods",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Limitation periods",
+            "content": "52 (1) The law with respect to limitation periods applies to an arbitration as if the arbitration were an action and a claim made in the arbitration were a cause of action.  1991, c. 17, s. 52 (1). Preservation of rights (2) If the court sets aside an award, terminates an arbitration or declares an arbitration to be invalid, it may order that the period from the commencement of the arbitration to the date of the order shall be excluded from the computation of the time within which an action may be brought on a cause of action that was a claim in the arbitration.  1991, c. 17, s. 52 (2). Enforcement of award (3) An application to enforce an award shall not be commenced after the later of December 31, 2018 and the tenth anniversary of, (a) the day the award was received; or (b) if an application to set aside the award was commenced, the date on which the application was finally determined. 2017, c. 2, Sched. 5, s. 13. Service",
+            "raw_html": "<p class=\"section\"><a name=\"BK62\"></a><b>52 </b>(1) The law with respect to limitation periods applies to an arbitration as if the arbitration were an action and a claim made in the arbitration were a cause of action.  1991, c. 17, s. 52 (1).</p> <p class=\"headnote\">Preservation of rights</p> <p class=\"subsection\">(2) If the court sets aside an award, terminates an arbitration or declares an arbitration to be invalid, it may order that the period from the commencement of the arbitration to the date of the order shall be excluded from the computation of the time within which an action may be brought on a cause of action that was a claim in the arbitration.  1991, c. 17, s. 52 (2).</p> <p class=\"headnote\">Enforcement of award</p> <p class=\"subsection\">(3) An application to enforce an award shall not be commenced after the later of December 31, 2018 and the tenth anniversary of,</p> <p class=\"paragraph\">  (a) the day the award was received; or</p> <p class=\"paragraph\">  (b) if an application to set aside the award was commenced, the date on which the application was finally determined. 2017, c. 2, Sched. 5, s. 13.</p> <p class=\"headnote\">Service</p>"
+        },
+        {
+            "ahref_id": "#BK63",
+            "TOCid": "53.",
+            "section_x": "Service",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Personal service of notice or document on individual",
+            "content": "53 (1) A notice or other document may be served on an individual by leaving it with him or her.  1991, c. 17, s. 53 (1). Personal service on corporation (2) A notice or other document may be served on a corporation by leaving it with an officer, director or agent of the corporation, or at a place of business of the corporation with a person who appears to be in control or management of the place.  1991, c. 17, s. 53 (2). Service by telephone transmission of facsimile (3) A notice or other document may be served by sending it to the addressee by telephone transmission of a facsimile to the number that the addressee specified in the arbitration agreement or has furnished to the arbitral tribunal.  1991, c. 17, s. 53 (3). Service by mail (4) If a reasonable effort to serve a notice or other document under subsection (1) or (2) is not successful and it is not possible to serve it under subsection (3), it may be sent by prepaid registered mail to the mailing address that the addressee specified in the arbitration agreement or furnished to the arbitral tribunal or, if none was specified or furnished, to the addressee’s last-known place of business or residence.  1991, c. 17, s. 53 (4). Deemed time of receipt (5) Unless the addressee establishes that the addressee, acting in good faith, through absence, illness or other cause beyond the addressee’s control failed to receive the notice or other document until a later date, it shall be deemed to have been received, (a) on the day it is given or transmitted, in the case of service under subsection (1), (2) or (3); (b) on the fifth day after the day of mailing, in the case of service under subsection (4).  1991, c. 17, s. 53 (5). Order for substituted service or dispensing with service (6) The court may make an order for substituted service or an order dispensing with service, in the same manner as under the rules of court, if the court is satisfied that it is necessary to serve the notice or other document to commence an arbitration or proceed towards the appointment of an arbitral tribunal and that it is impractical for any reason to effect prompt service under subsection (1), (2), (3) or (4).  1991, c. 17, s. 53 (6). Non-application to court proceedings (7) This section does not apply to the service of documents in respect of court proceedings.  1991, c. 17, s. 53 (7). Costs",
+            "raw_html": "<p class=\"section\"><a name=\"BK63\"></a><b>53 </b>(1) A notice or other document may be served on an individual by leaving it with him or her.  1991, c. 17, s. 53 (1).</p> <p class=\"headnote\">Personal service on corporation</p> <p class=\"subsection\">(2) A notice or other document may be served on a corporation by leaving it with an officer, director or agent of the corporation, or at a place of business of the corporation with a person who appears to be in control or management of the place.  1991, c. 17, s. 53 (2).</p> <p class=\"headnote\">Service by telephone transmission of facsimile</p> <p class=\"subsection\">(3) A notice or other document may be served by sending it to the addressee by telephone transmission of a facsimile to the number that the addressee specified in the arbitration agreement or has furnished to the arbitral tribunal.  1991, c. 17, s. 53 (3).</p> <p class=\"headnote\">Service by mail</p> <p class=\"subsection\">(4) If a reasonable effort to serve a notice or other document under subsection (1) or (2) is not successful and it is not possible to serve it under subsection (3), it may be sent by prepaid registered mail to the mailing address that the addressee specified in the arbitration agreement or furnished to the arbitral tribunal or, if none was specified or furnished, to the addressee’s last-known place of business or residence.  1991, c. 17, s. 53 (4).</p> <p class=\"headnote\">Deemed time of receipt</p> <p class=\"subsection\">(5) Unless the addressee establishes that the addressee, acting in good faith, through absence, illness or other cause beyond the addressee’s control failed to receive the notice or other document until a later date, it shall be deemed to have been received,</p> <p class=\"paragraph\">  (a) on the day it is given or transmitted, in the case of service under subsection (1), (2) or (3);</p> <p class=\"paragraph\">  (b) on the fifth day after the day of mailing, in the case of service under subsection (4).  1991, c. 17, s. 53 (5).</p> <p class=\"headnote\">Order for substituted service or dispensing with service</p> <p class=\"subsection\">(6) The court may make an order for substituted service or an order dispensing with service, in the same manner as under the rules of court, if the court is satisfied that it is necessary to serve the notice or other document to commence an arbitration or proceed towards the appointment of an arbitral tribunal and that it is impractical for any reason to effect prompt service under subsection (1), (2), (3) or (4).  1991, c. 17, s. 53 (6).</p> <p class=\"headnote\">Non-application to court proceedings</p> <p class=\"subsection\">(7) This section does not apply to the service of documents in respect of court proceedings.  1991, c. 17, s. 53 (7).</p> <p class=\"headnote\">Costs</p>"
+        },
+        {
+            "ahref_id": "#BK64",
+            "TOCid": "54.",
+            "section_x": "Costs",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Power to award costs",
+            "content": "54 (1) An arbitral tribunal may award the costs of an arbitration.  1991, c. 17, s. 54 (1). What constitutes costs (2) The costs of an arbitration consist of the parties’ legal expenses, the fees and expenses of the arbitral tribunal and any other expenses related to the arbitration.  1991, c. 17, s. 54 (2). Request for award dealing with costs (3) If the arbitral tribunal does not deal with costs in an award, a party may, within thirty days of receiving the award, request that it make a further award dealing with costs.  1991, c. 17, s. 54 (3). Absence of award dealing with costs (4) In the absence of an award dealing with costs, each party is responsible for the party’s own legal expenses and for an equal share of the fees and expenses of the arbitral tribunal and of any other expenses related to the arbitration.  1991, c. 17, s. 54 (4). Costs consequences of failure to accept offer to settle (5) If a party makes an offer to another party to settle the dispute or part of the dispute, the offer is not accepted and the arbitral tribunal’s award is no more favourable to the second-named party than was the offer, the arbitral tribunal may take the fact into account in awarding costs in respect of the period from the making of the offer to the making of the award.  1991, c. 17, s. 54 (5). Disclosure of offer to arbitral tribunal (6) The fact that an offer to settle has been made shall not be communicated to the arbitral tribunal until it has made a final determination of all aspects of the dispute other than costs.  1991, c. 17, s. 54 (6).",
+            "raw_html": "<p class=\"section\"><a name=\"BK64\"></a><b>54 </b>(1) An arbitral tribunal may award the costs of an arbitration.  1991, c. 17, s. 54 (1).</p> <p class=\"headnote\">What constitutes costs</p> <p class=\"subsection\">(2) The costs of an arbitration consist of the parties’ legal expenses, the fees and expenses of the arbitral tribunal and any other expenses related to the arbitration.  1991, c. 17, s. 54 (2).</p> <p class=\"headnote\">Request for award dealing with costs</p> <p class=\"subsection\">(3) If the arbitral tribunal does not deal with costs in an award, a party may, within thirty days of receiving the award, request that it make a further award dealing with costs.  1991, c. 17, s. 54 (3).</p> <p class=\"headnote\">Absence of award dealing with costs</p> <p class=\"subsection\">(4) In the absence of an award dealing with costs, each party is responsible for the party’s own legal expenses and for an equal share of the fees and expenses of the arbitral tribunal and of any other expenses related to the arbitration.  1991, c. 17, s. 54 (4).</p> <p class=\"headnote\">Costs consequences of failure to accept offer to settle</p> <p class=\"subsection\">(5) If a party makes an offer to another party to settle the dispute or part of the dispute, the offer is not accepted and the arbitral tribunal’s award is no more favourable to the second-named party than was the offer, the arbitral tribunal may take the fact into account in awarding costs in respect of the period from the making of the offer to the making of the award.  1991, c. 17, s. 54 (5).</p> <p class=\"headnote\">Disclosure of offer to arbitral tribunal</p> <p class=\"subsection\">(6) The fact that an offer to settle has been made shall not be communicated to the arbitral tribunal until it has made a final determination of all aspects of the dispute other than costs.  1991, c. 17, s. 54 (6).</p>"
+        },
+        {
+            "ahref_id": "#BK65",
+            "TOCid": "55.",
+            "section_x": "Arbitrator’s fees and expenses",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Arbitrator’s fees and expenses",
+            "content": "55 The fees and expenses paid to an arbitrator shall not exceed the fair value of the services performed and the necessary and reasonable expenses actually incurred.  1991, c. 17, s. 55. Assessment",
+            "raw_html": "<p class=\"section\"><a name=\"BK65\"></a><b>55 </b>The fees and expenses paid to an arbitrator shall not exceed the fair value of the services performed and the necessary and reasonable expenses actually incurred.  1991, c. 17, s. 55.</p> <p class=\"headnote\">Assessment</p>"
+        },
+        {
+            "ahref_id": "#BK66",
+            "TOCid": "56.",
+            "section_x": "Assessment",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Fees and expenses",
+            "content": "56 (1) A party to an arbitration may have an arbitrator’s account for fees and expenses assessed by an assessment officer in the same manner as a solicitor’s bill under the Solicitors Act.  1991, c. 17, s. 56 (1). Costs (2) If an arbitral tribunal awards costs and directs that they be assessed, or awards costs without fixing the amount or indicating how it is to be ascertained, a party to the arbitration may have the costs assessed by an assessment officer in the same manner as costs under the rules of court.  1991, c. 17, s. 56 (2). Idem (3) In assessing the part of the costs represented by the fees and expenses of the arbitral tribunal, the assessment officer shall apply the same principles as in the assessment of an account under subsection (1).  1991, c. 17, s. 56 (3). Account already paid (4) Subsection (1) applies even if the account has been paid.  1991, c. 17, s. 56 (4). Review by court (5) On the application of a party to the arbitration, the court may review an assessment of costs or of an arbitrator’s account for fees and expenses and may confirm the assessment, vary it, set it aside or remit it to the assessment officer with directions.  1991, c. 17, s. 56 (5). Idem (6) On the application of an arbitrator, the court may review an assessment of his or her account for fees and expenses and may confirm the assessment, vary it, set it aside or remit it to the assessment officer with directions.  1991, c. 17, s. 56 (6). Time for application for review (7) The application for review may not be made after the period specified in the assessment officer’s certificate has elapsed or, if no period is specified, more than thirty days after the date of the certificate, unless the court orders otherwise.  1991, c. 17, s. 56 (7). Enforcement (8) When the time during which an application for review may be made has expired and no application has been made, or when the court has reviewed the assessment and made a final determination, the certificate may be filed with the court and enforced as if it were a judgment of the court.  1991, c. 17, s. 56 (8).",
+            "raw_html": "<p class=\"section\"><a name=\"BK66\"></a><b>56 </b>(1) A party to an arbitration may have an arbitrator’s account for fees and expenses assessed by an assessment officer in the same manner as a solicitor’s bill under the <i>Solicitors Act</i>.  1991, c. 17, s. 56 (1).</p> <p class=\"headnote\">Costs</p> <p class=\"subsection\">(2) If an arbitral tribunal awards costs and directs that they be assessed, or awards costs without fixing the amount or indicating how it is to be ascertained, a party to the arbitration may have the costs assessed by an assessment officer in the same manner as costs under the rules of court.  1991, c. 17, s. 56 (2).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(3) In assessing the part of the costs represented by the fees and expenses of the arbitral tribunal, the assessment officer shall apply the same principles as in the assessment of an account under subsection (1).  1991, c. 17, s. 56 (3).</p> <p class=\"headnote\">Account already paid</p> <p class=\"subsection\">(4) Subsection (1) applies even if the account has been paid.  1991, c. 17, s. 56 (4).</p> <p class=\"headnote\">Review by court</p> <p class=\"subsection\">(5) On the application of a party to the arbitration, the court may review an assessment of costs or of an arbitrator’s account for fees and expenses and may confirm the assessment, vary it, set it aside or remit it to the assessment officer with directions.  1991, c. 17, s. 56 (5).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(6) On the application of an arbitrator, the court may review an assessment of his or her account for fees and expenses and may confirm the assessment, vary it, set it aside or remit it to the assessment officer with directions.  1991, c. 17, s. 56 (6).</p> <p class=\"headnote\">Time for application for review</p> <p class=\"subsection\">(7) The application for review may not be made after the period specified in the assessment officer’s certificate has elapsed or, if no period is specified, more than thirty days after the date of the certificate, unless the court orders otherwise.  1991, c. 17, s. 56 (7).</p> <p class=\"headnote\">Enforcement</p> <p class=\"subsection\">(8) When the time during which an application for review may be made has expired and no application has been made, or when the court has reviewed the assessment and made a final determination, the certificate may be filed with the court and enforced as if it were a judgment of the court.  1991, c. 17, s. 56 (8).</p>"
+        },
+        {
+            "ahref_id": "#BK67",
+            "TOCid": "57.",
+            "section_x": "Interest",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Interest",
+            "content": "57 Sections 127 to 130 (prejudgment and postjudgment interest) of the Courts of Justice Act apply to an arbitration, with necessary modifications.  1991, c. 17, s. 57.",
+            "raw_html": "<p class=\"section\"><a name=\"BK67\"></a><b>57 </b>Sections 127 to 130 (prejudgment and postjudgment interest) of the <i>Courts of Justice Act</i> apply to an arbitration, with necessary modifications.  1991, c. 17, s. 57.</p>"
+        },
+        {
+            "ahref_id": "#BK68",
+            "TOCid": "58.",
+            "section_x": "Regulations",
+            "part_id": null,
+            "part_type": null,
+            "section_y": "Regulations",
+            "content": "58 The Lieutenant Governor in Council may make regulations, (a) requiring that every family arbitration agreement contain specified standard provisions; (b) requiring that every arbitrator who conducts a family arbitration be a member of a specified dispute resolution organization or of a specified class of members of the organization; (c) requiring every arbitrator who conducts a family arbitration to provide specified information about the award, not including the names of the parties or any other identifying information, to a specified person; (d) requiring any arbitrator who conducts a family arbitration to have received training, approved by the Attorney General, that includes training in screening parties for power imbalances and domestic violence; (e) requiring that every arbitrator who conducts a family arbitration shall, (i) ensure that the parties are separately screened for power imbalances and domestic violence, by someone other than the arbitrator, and (ii) review and consider the results of the screening before and during the family arbitration; (f) requiring every arbitrator who conducts a family arbitration to create a record of the arbitration containing the specified matters, to keep the record for the specified period and to protect the confidentiality of the record; (g) specifying standard provisions for the purpose of clause (a), dispute resolution organizations and classes for the purpose of clause (b), information for the purpose of clause (c), persons for the purpose of clause (c), matters for the purpose of clause (f) and a period for the purpose of clause (f).  2006, c. 1, s. 1 (11). Section Amendments with date in force (d/m/y) 2006, c. 1, s. 1 (11)\r\n- 30/04/2007 59 Omitted (provides for coming into force of provisions of this Act).  1991, c. 17, s. 59. 60 Omitted (enacts short title of this Act).  1991, c. 17, s. 60. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><a name=\"BK68\"></a><b>58 </b>The Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a) requiring that every family arbitration agreement contain specified standard provisions;</p> <p class=\"paragraph\">  (b) requiring that every arbitrator who conducts a family arbitration be a member of a specified dispute resolution organization or of a specified class of members of the organization;</p> <p class=\"paragraph\">  (c) requiring every arbitrator who conducts a family arbitration to provide specified information about the award, not including the names of the parties or any other identifying information, to a specified person;</p> <p class=\"paragraph\">  (d) requiring any arbitrator who conducts a family arbitration to have received training, approved by the Attorney General, that includes training in screening parties for power imbalances and domestic violence;</p> <p class=\"paragraph\">  (e) requiring that every arbitrator who conducts a family arbitration shall,</p> <p class=\"subpara\">  (i) ensure that the parties are separately screened for power imbalances and domestic violence, by someone other than the arbitrator, and</p> <p class=\"subpara\">  (ii) review and consider the results of the screening before and during the family arbitration;</p> <p class=\"paragraph\">  (f) requiring every arbitrator who conducts a family arbitration to create a record of the arbitration containing the specified matters, to keep the record for the specified period and to protect the confidentiality of the record;</p> <p class=\"paragraph\">  (g) specifying standard provisions for the purpose of clause (a), dispute resolution organizations and classes for the purpose of clause (b), information for the purpose of clause (c), persons for the purpose of clause (c), matters for the purpose of clause (f) and a period for the purpose of clause (f).  2006, c. 1, s. 1 (11).</p> <p class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06001#s1s11\">2006, c. 1, s. 1 (11)</a></span>\r\n- 30/04/2007</p> <p class=\"section\"><b>59 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 17, s. 59.</p> <p class=\"section\"><b>60 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 17, s. 60.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91a17\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

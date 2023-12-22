@@ -1,0 +1,83 @@
+{
+    "act_info": {
+        "full_title": "Electronic Registration Act (Ministry of Consumer and Business Services Statutes), 1991, S.O. 1991, c. 44",
+        "act_name_text": "Electronic Registration Act (Ministry of Consumer and Business Services Statutes), 1991",
+        "citation": "S.O. 1991, c. 44",
+        "url": "https://www.ontario.ca/laws/statute/91e44",
+        "date_scraped": "2023-12-19 22:44:20"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "June 29, 2001",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [
+        {
+            "a_href": "/laws/regulation/930759",
+            "Citation": "O. Reg. 759/93",
+            "title": "DESIGNATION OF ACTS"
+        }
+    ],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1",
+            "section": "Definition",
+            "content": "1 In this Act, “file” means to file, to register, to submit, to deposit, to make an application or to otherwise make available.  1991, c. 44, s. 1.",
+            "raw_html": "<p class=\"section\"><b>1 </b>In this Act,</p> <p class=\"definition\">“file” means to file, to register, to submit, to deposit, to make an application or to otherwise make available.  1991, c. 44, s. 1.</p>"
+        },
+        {
+            "id": "2",
+            "section": "Purpose",
+            "content": "2 The purpose of this Act is to permit persons who are required or permitted to file information under designated Acts administered by the Minister of Consumer and Business Services, (a) to file the information in such electronic formats as may be prescribed under the Act under which the information is filed; and (b) to transmit the information directly to an electronic database maintained for that purpose.  1991, c. 44, s. 2; 2001, c. 9, Sched. D, s. 13. Section Amendments with date in force (d/m/y) 2001, c. 9, Sched. D, s. 13 - 29/06/2001",
+            "raw_html": "<p class=\"section\"><b>2 </b>The purpose of this Act is to permit persons who are required or permitted to file information under designated Acts administered by the Minister of Consumer and Business Services,</p> <p class=\"paragraph\">  (a) to file the information in such electronic formats as may be prescribed under the Act under which the information is filed; and</p> <p class=\"paragraph\">  (b) to transmit the information directly to an electronic database maintained for that purpose.  1991, c. 44, s. 2; 2001, c. 9, Sched. D, s. 13.</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S01009#schedds13\">2001, c. 9, Sched. D, s. 13</a></span> - 29/06/2001</p>"
+        },
+        {
+            "id": "3",
+            "section": "Application",
+            "content": "3 In the event of a conflict between this Act and any designated Act, this Act prevails unless the provision in the designated Act states that it is to prevail.  1991, c. 44, s. 3.",
+            "raw_html": "<p class=\"section\"><b>3 </b>In the event of a conflict between this Act and any designated Act, this Act prevails unless the provision in the designated Act states that it is to prevail.  1991, c. 44, s. 3.</p>"
+        },
+        {
+            "id": "4",
+            "section": "Format of information",
+            "content": "4 (1) Information filed with the Ministry or with an agency, board or commission of the Ministry may be in such electronic format as may be prescribed by regulation made under a designated Act.  1991, c. 44, s. 4 (1). Records (2) Information may be filed in an electronic format if it is recorded on a system of electronic data storage that, in the opinion of the person who is responsible for the maintenance of the information filed, is capable of being read by the computer or other equipment used in the information filing system.  1991, c. 44, s. 4 (2). Time of filing (3) If information is filed in an electronic format, the time of filing shall be the time assigned in the manner prescribed under the designated Act.  1991, c. 44, s. 4 (3). Authorized user (4) Information that is filed in an electronic format may be filed only by a person who is or who is a member of a class of persons that is authorized to do so by a person who has the power to authorize such filings under a designated Act or, if no person is authorized under the designated Act, by the Minister.  1991, c. 44, s. 4 (4). Certified copies (5) If a provision in a designated Act provides that a certified copy of a document filed with the Ministry be made available and the information is filed in an electronic format, a document that is a certified copy of the information filed may be provided.  1991, c. 44, s. 4 (5). Idem (6) A document that is a certified copy of information filed in an electronic format has the same evidentiary value and may be used in like manner as a certified copy of a document made available under a designated Act.  1991, c. 44, s. 4 (6).",
+            "raw_html": "<p class=\"section\"><b>4 </b>(1) Information filed with the Ministry or with an agency, board or commission of the Ministry may be in such electronic format as may be prescribed by regulation made under a designated Act.  1991, c. 44, s. 4 (1).</p> <p class=\"headnote\">Records</p> <p class=\"subsection\">(2) Information may be filed in an electronic format if it is recorded on a system of electronic data storage that, in the opinion of the person who is responsible for the maintenance of the information filed, is capable of being read by the computer or other equipment used in the information filing system.  1991, c. 44, s. 4 (2).</p> <p class=\"headnote\">Time of filing</p> <p class=\"subsection\">(3) If information is filed in an electronic format, the time of filing shall be the time assigned in the manner prescribed under the designated Act.  1991, c. 44, s. 4 (3).</p> <p class=\"headnote\">Authorized user</p> <p class=\"subsection\">(4) Information that is filed in an electronic format may be filed only by a person who is or who is a member of a class of persons that is authorized to do so by a person who has the power to authorize such filings under a designated Act or, if no person is authorized under the designated Act, by the Minister.  1991, c. 44, s. 4 (4).</p> <p class=\"headnote\">Certified copies</p> <p class=\"subsection\">(5) If a provision in a designated Act provides that a certified copy of a document filed with the Ministry be made available and the information is filed in an electronic format, a document that is a certified copy of the information filed may be provided.  1991, c. 44, s. 4 (5).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(6) A document that is a certified copy of information filed in an electronic format has the same evidentiary value and may be used in like manner as a certified copy of a document made available under a designated Act.  1991, c. 44, s. 4 (6).</p>"
+        },
+        {
+            "id": "5",
+            "section": "Direct electronic transmission",
+            "content": "5 (1) Information in a prescribed electronic format may be filed by direct electronic transmission to a database of the Ministry.  1991, c. 44, s. 5 (1). Authorized user (2) Information that is filed by direct electronic transmission of data may be filed only by a person who is or who is a member of a class of persons that is authorized to do so by a person who has the power to authorize such filings under a designated Act or, if no person is authorized under the designated Act, by the Minister.  1991, c. 44, s. 5 (2). Time of filing (3) If information is filed by direct electronic transmission of data, the time of filing shall be the time assigned in the manner prescribed under the designated Act.  1991, c. 44, s. 5 (3).",
+            "raw_html": "<p class=\"section\"><b>5 </b>(1) Information in a prescribed electronic format may be filed by direct electronic transmission to a database of the Ministry.  1991, c. 44, s. 5 (1).</p> <p class=\"headnote\">Authorized user</p> <p class=\"subsection\">(2) Information that is filed by direct electronic transmission of data may be filed only by a person who is or who is a member of a class of persons that is authorized to do so by a person who has the power to authorize such filings under a designated Act or, if no person is authorized under the designated Act, by the Minister.  1991, c. 44, s. 5 (2).</p> <p class=\"headnote\">Time of filing</p> <p class=\"subsection\">(3) If information is filed by direct electronic transmission of data, the time of filing shall be the time assigned in the manner prescribed under the designated Act.  1991, c. 44, s. 5 (3).</p>"
+        },
+        {
+            "id": "6",
+            "section": "Regulations",
+            "content": "6 (1) The Lieutenant Governor in Council may by regulation designate the Acts to which this Act applies.  1991, c. 44, s. 6 (1). Idem (2) Under a designated Act, the Lieutenant Governor in Council may make regulations, (a) prescribing the electronic format or formats that may be used when information is filed with the Ministry or with an agency, board or commission of the Ministry; (b) governing the time of filing assigned when the information is filed in electronic format or by direct electronic transmission; (c) designating parts of Ontario where information may be filed in accordance with this Act; (d) governing the filing of information that is presented in a prescribed electronic format; (e) governing the filing of information by direct electronic transmission.  1991, c. 44, s. 6 (2). Idem (3) A regulation made under a designated Act may apply to some or all of the information or documents that may be filed under the Act.  1991, c. 44, s. 6 (3). 7 Omitted (amends or repeals other Acts).  1991, c. 44, s. 7. 8 Omitted (provides for coming into force of provisions of this Act).  1991, c. 44, s. 8. 9 Omitted (enacts short title of this Act).  1991, c. 44, s. 9. ____________________  Français  ",
+            "raw_html": "<p class=\"section\"><b>6 </b>(1) The Lieutenant Governor in Council may by regulation designate the Acts to which this Act applies.  1991, c. 44, s. 6 (1).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(2) Under a designated Act, the Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a) prescribing the electronic format or formats that may be used when information is filed with the Ministry or with an agency, board or commission of the Ministry;</p> <p class=\"paragraph\">  (b) governing the time of filing assigned when the information is filed in electronic format or by direct electronic transmission;</p> <p class=\"paragraph\">  (c) designating parts of Ontario where information may be filed in accordance with this Act;</p> <p class=\"paragraph\">  (d) governing the filing of information that is presented in a prescribed electronic format;</p> <p class=\"paragraph\">  (e) governing the filing of information by direct electronic transmission.  1991, c. 44, s. 6 (2).</p> <p class=\"headnote\">Idem</p> <p class=\"subsection\">(3) A regulation made under a designated Act may apply to some or all of the information or documents that may be filed under the Act.  1991, c. 44, s. 6 (3).</p> <p class=\"section\"><b>7 </b><span>Omitted (amends or repeals other Acts)</span>.  1991, c. 44, s. 7.</p> <p class=\"section\"><b>8 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 44, s. 8.</p> <p class=\"section\"><b>9 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 44, s. 9.</p> <p class=\"line\">____________________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91e44\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "7",
+            "section": "Idem",
+            "content": "7 Omitted (amends or repeals other Acts).  1991, c. 44, s. 7. 8 Omitted (provides for coming into force of provisions of this Act).  1991, c. 44, s. 8. 9 Omitted (enacts short title of this Act).  1991, c. 44, s. 9. ____________________  Français  ",
+            "raw_html": "<p class=\"section\"><b>7 </b><span>Omitted (amends or repeals other Acts)</span>.  1991, c. 44, s. 7.</p> <p class=\"section\"><b>8 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 44, s. 8.</p> <p class=\"section\"><b>9 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 44, s. 9.</p> <p class=\"line\">____________________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91e44\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "8",
+            "section": "Idem",
+            "content": "8 Omitted (provides for coming into force of provisions of this Act).  1991, c. 44, s. 8. 9 Omitted (enacts short title of this Act).  1991, c. 44, s. 9. ____________________  Français  ",
+            "raw_html": "<p class=\"section\"><b>8 </b><span>Omitted (provides for coming into force of provisions of this Act)</span>.  1991, c. 44, s. 8.</p> <p class=\"section\"><b>9 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 44, s. 9.</p> <p class=\"line\">____________________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91e44\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "9",
+            "section": "Idem",
+            "content": "9 Omitted (enacts short title of this Act).  1991, c. 44, s. 9. ____________________  Français  ",
+            "raw_html": "<p class=\"section\"><b>9 </b><span>Omitted (enacts short title of this Act)</span>.  1991, c. 44, s. 9.</p> <p class=\"line\">____________________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/91e44\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,0 +1,359 @@
+{
+    "act_info": {
+        "full_title": "Licence Appeal Tribunal Act, 1999, S.O. 1999, c. 12, Sched. G",
+        "act_name_text": "Licence Appeal Tribunal Act, 1999",
+        "citation": "S.O. 1999, c. 12, Sched. G",
+        "url": "https://www.ontario.ca/laws/statute/99l12",
+        "date_scraped": "2023-12-18 02:12:53"
+    },
+    "copyright": {
+        "Copyright": "© King's Printer for Ontario, 2023."
+    },
+    "versions": [
+        {
+            "a_href": "/laws/about-e-laws#ccl",
+            "valid_from": "December  6, 2023",
+            "valid_to": "current"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v47",
+            "valid_from": "December  1, 2023",
+            "valid_to": "December  5, 2023"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v46",
+            "valid_from": "July  1, 2023",
+            "valid_to": "November 30, 2023"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v45",
+            "valid_from": "June  8, 2023",
+            "valid_to": "June 30, 2023"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v44",
+            "valid_from": "March  3, 2022",
+            "valid_to": "June  7, 2023"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v43",
+            "valid_from": "November 29, 2021",
+            "valid_to": "March  2, 2022"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v42",
+            "valid_from": "June  8, 2021",
+            "valid_to": "November 28, 2021"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v41",
+            "valid_from": "February  1, 2021",
+            "valid_to": "June  7, 2021"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v40",
+            "valid_from": "December  8, 2020",
+            "valid_to": "January 31, 2021"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v39",
+            "valid_from": "March  4, 2020",
+            "valid_to": "December  7, 2020"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v38",
+            "valid_from": "December 10, 2019",
+            "valid_to": "March  3, 2020"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v37",
+            "valid_from": "May 29, 2019",
+            "valid_to": "December  9, 2019"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v36",
+            "valid_from": "November 16, 2018",
+            "valid_to": "May 28, 2019"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v35",
+            "valid_from": "October 17, 2018",
+            "valid_to": "November 15, 2018"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v34",
+            "valid_from": "July  1, 2018",
+            "valid_to": "October 16, 2018"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v33",
+            "valid_from": "December 14, 2017",
+            "valid_to": "June 30, 2018"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v32",
+            "valid_from": "November  1, 2017",
+            "valid_to": "December 13, 2017"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v31",
+            "valid_from": "April 13, 2017",
+            "valid_to": "October 31, 2017"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v30",
+            "valid_from": "April  1, 2016",
+            "valid_to": "April 12, 2017"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v29",
+            "valid_from": "February  1, 2016",
+            "valid_to": "March 31, 2016"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v28",
+            "valid_from": "December 10, 2015",
+            "valid_to": "January 31, 2016"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v27",
+            "valid_from": "December  3, 2015",
+            "valid_to": "December  9, 2015"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v26",
+            "valid_from": "January  1, 2015",
+            "valid_to": "December  2, 2015"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v25",
+            "valid_from": "November 20, 2014",
+            "valid_to": "December 31, 2014"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v24",
+            "valid_from": "December 12, 2013",
+            "valid_to": "November 19, 2014"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v23",
+            "valid_from": "July  1, 2012",
+            "valid_to": "December 11, 2013"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v22",
+            "valid_from": "July  1, 2011",
+            "valid_to": "June 30, 2012"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v21",
+            "valid_from": "March 30, 2011",
+            "valid_to": "June 30, 2011"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v20",
+            "valid_from": "January  1, 2010",
+            "valid_to": "March 29, 2011"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v19",
+            "valid_from": "April  1, 2009",
+            "valid_to": "December 31, 2009"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v18",
+            "valid_from": "July  1, 2008",
+            "valid_to": "March 31, 2009"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v17",
+            "valid_from": "June 18, 2008",
+            "valid_to": "June 30, 2008"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v16",
+            "valid_from": "August 23, 2007",
+            "valid_to": "June 17, 2008"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v15",
+            "valid_from": "July 25, 2007",
+            "valid_to": "August 22, 2007"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v14",
+            "valid_from": "May  1, 2007",
+            "valid_to": "July 24, 2007"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v13",
+            "valid_from": "December 20, 2006",
+            "valid_to": "April 30, 2007"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v12",
+            "valid_from": "October 19, 2006",
+            "valid_to": "December 19, 2006"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v11",
+            "valid_from": "September 18, 2006",
+            "valid_to": "October 18, 2006"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v10",
+            "valid_from": "March 31, 2006",
+            "valid_to": "September 17, 2006"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v9",
+            "valid_from": "December 15, 2005",
+            "valid_to": "March 30, 2006"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v8",
+            "valid_from": "December 12, 2005",
+            "valid_to": "December 14, 2005"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v7",
+            "valid_from": "August 31, 2005",
+            "valid_to": "December 11, 2005"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v6",
+            "valid_from": "July 30, 2005",
+            "valid_to": "August 30, 2005"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v5",
+            "valid_from": "July  1, 2005",
+            "valid_to": "July 29, 2005"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v4",
+            "valid_from": "June 30, 2005",
+            "valid_to": "June 30, 2005"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v3",
+            "valid_from": "June 13, 2005",
+            "valid_to": "June 29, 2005"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v2",
+            "valid_from": "November 30, 2004",
+            "valid_to": "June 12, 2005"
+        },
+        {
+            "a_href": "/laws/statute/99l12/v1",
+            "valid_from": "December 13, 2002",
+            "valid_to": "November 29, 2004"
+        },
+        {
+            "a_href": "#",
+            "valid_from": "N/A",
+            "valid_to": "current"
+        }
+    ],
+    "current_regs": [],
+    "revoked_regs": [],
+    "content": [
+        {
+            "id": "1",
+            "section": "Definition",
+            "content": "1 In this Act, “Tribunal” means the Licence Appeal Tribunal.  1999, c. 12, Sched. G, s. 1.",
+            "raw_html": "<p class=\"section\"><b>1 </b>In this Act,</p> <p class=\"definition\">“Tribunal” means the Licence Appeal Tribunal.  1999, c. 12, Sched. G, s. 1.</p>"
+        },
+        {
+            "id": "2",
+            "section": "Tribunal established",
+            "content": "2 (1) There is hereby established a tribunal to be known in English as the Licence Appeal Tribunal and in French as Tribunal d’appel en matière de permis.  1999, c. 12, Sched. G, s. 2 (1). Members (2) The Tribunal shall consist of not fewer than three members.  1999, c. 12, Sched. G, s. 2 (2). Appointment (3) The Lieutenant Governor in Council shall appoint the members and designate the term of their appointment.  1999, c. 12, Sched. G, s. 2 (3). Remuneration and expenses (4) Each member of the Tribunal, other than a full-time member, shall receive the remuneration that the Lieutenant Governor in Council determines and reimbursement for the member’s reasonable and necessary expenses incurred in attending meetings and in transacting the business of the Tribunal.  1999, c. 12, Sched. G, s. 2 (4).",
+            "raw_html": "<p class=\"section\"><b>2 </b>(1) There is hereby established a tribunal to be known in English as the Licence Appeal Tribunal and in French as Tribunal d’appel en matière de permis.  1999, c. 12, Sched. G, s. 2 (1).</p> <p class=\"headnote\">Members</p> <p class=\"subsection\">(2) The Tribunal shall consist of not fewer than three members.  1999, c. 12, Sched. G, s. 2 (2).</p> <p class=\"headnote\">Appointment</p> <p class=\"subsection\">(3) The Lieutenant Governor in Council shall appoint the members and designate the term of their appointment.  1999, c. 12, Sched. G, s. 2 (3).</p> <p class=\"headnote\">Remuneration and expenses</p> <p class=\"subsection\">(4) Each member of the Tribunal, other than a full-time member, shall receive the remuneration that the Lieutenant Governor in Council determines and reimbursement for the member’s reasonable and necessary expenses incurred in attending meetings and in transacting the business of the Tribunal.  1999, c. 12, Sched. G, s. 2 (4).</p>"
+        },
+        {
+            "id": "3",
+            "section": "Duties and powers",
+            "content": "3 (1) The Tribunal shall hold the hearings and perform the other duties that are assigned to it by or under any Act or regulation.  1999, c. 12, Sched. G, s. 3 (1). Powers (2) Except as limited by this Act, the Tribunal has all the powers that are necessary or expedient for carrying out its duties.  1999, c. 12, Sched. G, s. 3 (2).",
+            "raw_html": "<p class=\"section\"><b>3 </b>(1) The Tribunal shall hold the hearings and perform the other duties that are assigned to it by or under any Act or regulation.  1999, c. 12, Sched. G, s. 3 (1).</p> <p class=\"headnote\">Powers</p> <p class=\"subsection\">(2) Except as limited by this Act, the Tribunal has all the powers that are necessary or expedient for carrying out its duties.  1999, c. 12, Sched. G, s. 3 (2).</p>"
+        },
+        {
+            "id": "4",
+            "section": "Quorum",
+            "content": "4 (1) One member of the Tribunal constitutes a quorum and may exercise all the powers of the Tribunal.  1999, c. 12, Sched. G, s. 4 (1). Chair and vice-chair (2) The Lieutenant Governor in Council shall designate one of the members as chair and may designate one or more other members as vice-chairs of the Tribunal.  1999, c. 12, Sched. G, s. 4 (2). Duties of chair (3) The chair shall have general supervision and direction over the conduct of the affairs of the Tribunal and, subject to subsection (4), shall arrange the sittings of the Tribunal and assign members to panels to conduct hearings as circumstances require.  1999, c. 12, Sched. G, s. 4 (3); 2011, c. 1, Sched. 5, s. 5 (1). Composition of panel (4) The panel that conducts a hearing shall include a member of the Tribunal who is a legally qualified medical practitioner if the hearing involves, (a) an appeal of a suspension of a driver’s licence under section 50 of the Highway Traffic Act; and (b) the appeal involves the medical condition or fitness to drive of the holder of the licence.  1999, c. 12, Sched. G, s. 4 (4). Chair of panel (5) The chair shall appoint a chair for each panel from the members sitting on the panel.  1999, c. 12, Sched. G, s. 4 (5). Resolving deadlock (6) If a panel of the Tribunal consists of two members and they do not agree on a decision, the decision of the chair of the panel shall be the decision of the panel.  1999, c. 12, Sched. G, s. 4 (6). (7) Repealed:  2011, c. 1, Sched. 5, s. 5 (2). Section Amendments with date in force (d/m/y) 2011, c. 1, Sched. 5, s. 5 (1, 2) - 30/03/2011",
+            "raw_html": "<p class=\"section\"><b>4 </b>(1) One member of the Tribunal constitutes a quorum and may exercise all the powers of the Tribunal.  1999, c. 12, Sched. G, s. 4 (1).</p> <p class=\"headnote\">Chair and vice-chair</p> <p class=\"subsection\">(2) The Lieutenant Governor in Council shall designate one of the members as chair and may designate one or more other members as vice-chairs of the Tribunal.  1999, c. 12, Sched. G, s. 4 (2).</p> <p class=\"headnote\">Duties of chair</p> <p class=\"subsection\">(3) The chair shall have general supervision and direction over the conduct of the affairs of the Tribunal and, subject to subsection (4), shall arrange the sittings of the Tribunal and assign members to panels to conduct hearings as circumstances require.  1999, c. 12, Sched. G, s. 4 (3); 2011, c. 1, Sched. 5, s. 5 (1).</p> <p class=\"headnote\">Composition of panel</p> <p class=\"subsection\">(4) The panel that conducts a hearing shall include a member of the Tribunal who is a legally qualified medical practitioner if the hearing involves,</p> <p class=\"paragraph\">  (a) an appeal of a suspension of a driver’s licence under section 50 of the <i>Highway Traffic Act</i>; and</p> <p class=\"paragraph\">  (b) the appeal involves the medical condition or fitness to drive of the holder of the licence.  1999, c. 12, Sched. G, s. 4 (4).</p> <p class=\"headnote\">Chair of panel</p> <p class=\"subsection\">(5) The chair shall appoint a chair for each panel from the members sitting on the panel.  1999, c. 12, Sched. G, s. 4 (5).</p> <p class=\"headnote\">Resolving deadlock</p> <p class=\"subsection\">(6) If a panel of the Tribunal consists of two members and they do not agree on a decision, the decision of the chair of the panel shall be the decision of the panel.  1999, c. 12, Sched. G, s. 4 (6).</p> <p class=\"subsection\">(7) <span class=\"ovsmallcap\">Repealed</span>:  2011, c. 1, Sched. 5, s. 5 (2).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S11001#sched5s5s1\">2011, c. 1, Sched. 5, s. 5 (1, 2)</a></span> - 30/03/2011</p>"
+        },
+        {
+            "id": "5",
+            "section": "No personal liability",
+            "content": "5 No action or other proceeding for damages shall be instituted against any member of the Tribunal or anyone appointed to the service of the Tribunal for any act done in good faith in the execution or intended execution of the person’s duty or for any alleged neglect or default in the execution in good faith of the person’s duty.  1999, c. 12, Sched. G, s. 5.",
+            "raw_html": "<p class=\"section\"><b>5 </b>No action or other proceeding for damages shall be instituted against any member of the Tribunal or anyone appointed to the service of the Tribunal for any act done in good faith in the execution or intended execution of the person’s duty or for any alleged neglect or default in the execution in good faith of the person’s duty.  1999, c. 12, Sched. G, s. 5.</p>"
+        },
+        {
+            "id": "5.1",
+            "section": "Hearings re liquor, cannabis or gaming",
+            "content": "5.1 (1) This section applies to hearings held by the Tribunal under section 14 of the Alcohol and Gaming Commission of Ontario Act, 2019 or under the Cannabis Licence Act, 2018, the Gaming Control Act, 1992, the Horse Racing Licence Act, 2015, the Liquor Licence and Control Act, 2019 or the Vintners Quality Alliance Act, 1999. 2018, c. 12, Sched. 2, s. 54 (1); 2019, c. 15, Sched. 1, s. 23 (1); 2019, c. 15, Sched. 22, s. 97 (1). Parties (2) The Registrar under the Alcohol and Gaming Commission of Ontario Act, 2019, the person who required the hearing and the other persons that the Tribunal specifies are parties to the hearing. 2015, c. 38, Sched. 9, s. 46 (2); 2018, c. 12, Sched. 2, s. 54 (2); 2019, c. 15, Sched. 1, s. 23 (2). Notice (3) The Tribunal shall give notice of the hearing to the parties in the manner it considers appropriate. 2011, c. 1, Sched. 1, s. 5 (1). Jurisdiction (4) The Tribunal has jurisdiction to determine all questions of fact or law that arise in matters before it. 2011, c. 1, Sched. 1, s. 5 (1). Stay (5) An order of the Tribunal takes effect immediately unless the order provides otherwise but if section 11 allows for an appeal to the Divisional Court and such an appeal is made, that court may grant a stay of the order until the appeal has been disposed of. 2011, c. 1, Sched. 1, s. 5 (1). Section Amendments with date in force (d/m/y) 2011, c. 1, Sched. 1, s. 5 (1) - 1/07/2011 2015, c. 38, Sched. 9, s. 46 (1, 2) - 1/04/2016; 2015, c. 38, Sched. 13, s. 1 - 1/02/2016 2018, c. 12, Sched. 2, s. 54 (1, 2) - 16/11/2018 2019, c. 15, Sched. 1, s. 23 (1, 2) - 29/11/2021; 2019, c. 15, Sched. 22, s. 97 (1) - 29/11/2021",
+            "raw_html": "<p class=\"section\"><b>5.1 </b>(1) This section applies to hearings held by the Tribunal under section 14 of the <i>Alcohol and Gaming Commission of Ontario Act, 2019</i> or under the <i>Cannabis Licence Act, 2018</i>, the <i>Gaming Control Act, 1992</i>, the <i>Horse Racing Licence Act, 2015</i>, the <i>Liquor Licence and Control Act, 2019</i> or the <i>Vintners Quality Alliance Act, 1999</i>. 2018, c. 12, Sched. 2, s. 54 (1); 2019, c. 15, Sched. 1, s. 23 (1); 2019, c. 15, Sched. 22, s. 97 (1).</p> <p class=\"headnote\">Parties</p> <p class=\"subsection\">(2) The Registrar under the <i>Alcohol and Gaming Commission of Ontario Act, 2019</i>, the person who required the hearing and the other persons that the Tribunal specifies are parties to the hearing. 2015, c. 38, Sched. 9, s. 46 (2); 2018, c. 12, Sched. 2, s. 54 (2); 2019, c. 15, Sched. 1, s. 23 (2).</p> <p class=\"headnote\">Notice</p> <p class=\"subsection\">(3) The Tribunal shall give notice of the hearing to the parties in the manner it considers appropriate. 2011, c. 1, Sched. 1, s. 5 (1).</p> <p class=\"headnote\">Jurisdiction</p> <p class=\"subsection\">(4) The Tribunal has jurisdiction to determine all questions of fact or law that arise in matters before it. 2011, c. 1, Sched. 1, s. 5 (1).</p> <p class=\"headnote\">Stay</p> <p class=\"subsection\">(5) An order of the Tribunal takes effect immediately unless the order provides otherwise but if section 11 allows for an appeal to the Divisional Court and such an appeal is made, that court may grant a stay of the order until the appeal has been disposed of. 2011, c. 1, Sched. 1, s. 5 (1).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S11001#sched1s5s1\">2011, c. 1, Sched. 1, s. 5 (1)</a></span> - 1/07/2011</p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15038#sched9s46s1\">2015, c. 38, Sched. 9, s. 46 (1, 2)</a></span> - 1/04/2016; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15038#sched13s1\">2015, c. 38, Sched. 13, s. 1</a></span> - 1/02/2016</p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched2s54s1\">2018, c. 12, Sched. 2, s. 54 (1, 2)</a></span> - 16/11/2018</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19015#sched1s23s1\">2019, c. 15, Sched. 1, s. 23 (1, 2)</a></span> - 29/11/2021; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19015#sched22s97s1\">2019, c. 15, Sched. 22, s. 97 (1)</a></span> - 29/11/2021</p>"
+        },
+        {
+            "id": "6",
+            "section": "Rules of Tribunal",
+            "content": "6 (1) The Tribunal may make rules establishing procedures for hearings held by the Tribunal and the rights of parties to the hearings including, (a) rules requiring that, despite any other Act, parties shall submit disagreements to mechanisms of alternate dispute resolution that are set out in the rules before they are entitled to a hearing before the Tribunal on the subject matter of the disagreement; and (b) rules applicable if a member of the Tribunal conducting a hearing is unable to continue to conduct the hearing for any reason.  1999, c. 12, Sched. G, s. 6 (1); 2011, c. 1, Sched. 1, s. 5 (2). Continuation of hearing (2) A rule made under clause (1) (b) may provide for the continuation or termination of the hearing, with or without the consent of the parties, or the commencement of a fresh hearing by a panel differently composed if the initial hearing is terminated.  1999, c. 12, Sched. G, s. 6 (2). Recording of evidence (3) The Tribunal may make rules providing that the oral evidence given before the Tribunal at a hearing may be recorded if a party to the hearing so requests and pays the fee established by the Tribunal for that purpose.  1999, c. 12, Sched. G, s. 6 (3). Special application (4) A rule made under this section may be general or specific in its application and may apply differently to different hearings.  1999, c. 12, Sched. G, s. 6 (4). Not regulations (5) A rule made under this section shall not be deemed to be a regulation within the meaning of Part III (Regulations) of the Legislation Act, 2006.  1999, c. 12, Sched. G, s. 6 (5); 2006, c. 21, Sched. F, s. 136 (1). Conflict (6) A rule made under this section does not prevail over any provision of this or any other Act, or a regulation made under this or any other Act, that sets out requirements for procedures for hearings held by the Tribunal or rights of parties to the hearings.  1999, c. 12, Sched. G, s. 6 (6). Section Amendments with date in force (d/m/y) 2006, c. 21, Sched. F, s. 136 (1) - 25/07/2007 2011, c. 1, Sched. 1, s. 5 (2) - 30/03/2011",
+            "raw_html": "<p class=\"section\"><b>6 </b>(1) The Tribunal may make rules establishing procedures for hearings held by the Tribunal and the rights of parties to the hearings including,</p> <p class=\"paragraph\">  (a) rules requiring that, despite any other Act, parties shall submit disagreements to mechanisms of alternate dispute resolution that are set out in the rules before they are entitled to a hearing before the Tribunal on the subject matter of the disagreement; and</p> <p class=\"paragraph\">  (b) rules applicable if a member of the Tribunal conducting a hearing is unable to continue to conduct the hearing for any reason.  1999, c. 12, Sched. G, s. 6 (1); 2011, c. 1, Sched. 1, s. 5 (2).</p> <p class=\"headnote\">Continuation of hearing</p> <p class=\"subsection\">(2) A rule made under clause (1) (b) may provide for the continuation or termination of the hearing, with or without the consent of the parties, or the commencement of a fresh hearing by a panel differently composed if the initial hearing is terminated.  1999, c. 12, Sched. G, s. 6 (2).</p> <p class=\"headnote\">Recording of evidence</p> <p class=\"subsection\">(3) The Tribunal may make rules providing that the oral evidence given before the Tribunal at a hearing may be recorded if a party to the hearing so requests and pays the fee established by the Tribunal for that purpose.  1999, c. 12, Sched. G, s. 6 (3).</p> <p class=\"headnote\">Special application</p> <p class=\"subsection\">(4) A rule made under this section may be general or specific in its application and may apply differently to different hearings.  1999, c. 12, Sched. G, s. 6 (4).</p> <p class=\"headnote\">Not regulations</p> <p class=\"subsection\">(5) A rule made under this section shall not be deemed to be a regulation within the meaning of Part III (Regulations) of the <i>Legislation Act, 2006</i>.  1999, c. 12, Sched. G, s. 6 (5); 2006, c. 21, Sched. F, s. 136 (1).</p> <p class=\"headnote\">Conflict</p> <p class=\"subsection\">(6) A rule made under this section does not prevail over any provision of this or any other Act, or a regulation made under this or any other Act, that sets out requirements for procedures for hearings held by the Tribunal or rights of parties to the hearings.  1999, c. 12, Sched. G, s. 6 (6).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06021#schedfs136s1\">2006, c. 21, Sched. F, s. 136 (1)</a></span> - 25/07/2007</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S11001#sched1s5s2\">2011, c. 1, Sched. 1, s. 5 (2)</a></span> - 30/03/2011</p>"
+        },
+        {
+            "id": "7",
+            "section": "Extension of time",
+            "content": "7 Despite any limitation of time fixed by or under any Act for the giving of any notice requiring a hearing by the Tribunal or an appeal from a decision or order of the Tribunal under section 11 or any other Act, if the Tribunal is satisfied that there are reasonable grounds for applying for the extension and for granting relief, it may, (a) extend the time for giving the notice either before or after the expiration of the limitation of time so limited; and (b) give the directions that it considers proper as a result of extending the time.  1999, c. 12, Sched. G, s. 7.",
+            "raw_html": "<p class=\"section\"><b>7 </b>Despite any limitation of time fixed by or under any Act for the giving of any notice requiring a hearing by the Tribunal or an appeal from a decision or order of the Tribunal under section 11 or any other Act, if the Tribunal is satisfied that there are reasonable grounds for applying for the extension and for granting relief, it may,</p> <p class=\"paragraph\">  (a) extend the time for giving the notice either before or after the expiration of the limitation of time so limited; and</p> <p class=\"paragraph\">  (b) give the directions that it considers proper as a result of extending the time.  1999, c. 12, Sched. G, s. 7.</p>"
+        },
+        {
+            "id": "8",
+            "section": "Frivolous or vexatious application",
+            "content": "8 If, on the application of a party to a hearing before the Tribunal with notice to the other parties, the Tribunal is satisfied that the application for the hearing is frivolous or vexatious, the Tribunal may refuse to grant the hearing or may terminate the hearing at any time and make an order of costs as it considers appropriate in the circumstances.  1999, c. 12, Sched. G, s. 8.",
+            "raw_html": "<p class=\"section\"><b>8 </b>If, on the application of a party to a hearing before the Tribunal with notice to the other parties, the Tribunal is satisfied that the application for the hearing is frivolous or vexatious, the Tribunal may refuse to grant the hearing or may terminate the hearing at any time and make an order of costs as it considers appropriate in the circumstances.  1999, c. 12, Sched. G, s. 8.</p>"
+        },
+        {
+            "id": "9",
+            "section": "Fees and charges",
+            "content": "9 Subject to the approval of the Minister responsible for the administration of this Act, the Tribunal may establish fees or other charges to be paid by parties to hearings before the Tribunal.  1999, c. 12, Sched. G, s. 9.",
+            "raw_html": "<p class=\"section\"><b>9 </b>Subject to the approval of the Minister responsible for the administration of this Act, the Tribunal may establish fees or other charges to be paid by parties to hearings before the Tribunal.  1999, c. 12, Sched. G, s. 9.</p>"
+        },
+        {
+            "id": "10",
+            "section": "Service of decisions and orders",
+            "content": "10 The Tribunal shall send a copy of its final decision or order, including any reasons, to each party to a hearing, or to the person who represented the party.  2011, c. 1, Sched. 5, s. 5 (3). Section Amendments with date in force (d/m/y) 2006, c. 21, Sched. C, s. 116 - 1/05/2007 2011, c. 1, Sched. 5, s. 5 (3) - 30/03/2011",
+            "raw_html": "<p class=\"section\"><b>10 </b>The Tribunal shall send a copy of its final decision or order, including any reasons, to each party to a hearing, or to the person who represented the party.  2011, c. 1, Sched. 5, s. 5 (3).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06021#schedcs116\">2006, c. 21, Sched. C, s. 116</a></span> - 1/05/2007</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S11001#sched5s5s3\">2011, c. 1, Sched. 5, s. 5 (3)</a></span> - 30/03/2011</p>"
+        },
+        {
+            "id": "11",
+            "section": "Appeal",
+            "content": "11 (1) Subject to subsections (2) to (6), a party to a proceeding before the Tribunal relating to a matter under any of the following Acts may appeal from its decision or order to the Divisional Court in accordance with the rules of court: Bailiffs Act Board of Funeral Services Act Building Code Act, 1992 Cannabis Licence Act, 2018 Collection and Debt Settlement Services Act Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (1) of the Act is amended by adding the following: (See: 2019, c. 7, Sched. 9, s. 52) Combative Sports Act, 2019 Condominium Management Services Act, 2015 Consumer Protection Act, 2002 Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (1) of the Act is amended by striking out “Consumer Protection Act, 2002” and substituting “Consumer Protection Act, 2023”. (See: 2023, c. 23 Sched. 1, s. 114) Consumer Reporting Act Discriminatory Business Practices Act Funeral, Burial and Cremation Services Act, 2002 Gaming Control Act, 1992 Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (1) of the Act is amended by adding the following: (See: 2017, c. 5, Sched. 1, s. 79) Home Inspection Act, 2017 Horse Racing Licence Act, 2015 Insurance Act Liquor Licence and Control Act, 2019 Motor Vehicle Dealers Act, 2002 New Home Construction Licensing Act, 2017 Ontario New Home Warranties Plan Act Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (1) of the Act is amended by striking out “Ontario New Home Warranties Plan Act”. (See: 2017, c. 33, Sched. 2, s. 78 (2)) Payday Loans Act, 2008 Private Career Colleges Act, 2005 Note: On January 1, 2024, the day named by proclamation of the Lieutenant Governor, subsection 11 (1) of the Act is amended by striking out “Private Career Colleges Act, 2005” and substituting “Ontario Career Colleges Act, 2005”. (See: 2023, c. 9, Sched. 29, s. 12) Private Security and Investigative Services Act, 2005 Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (1) of the Act\r\nis amended by adding the following: (See: 2017, c. 33, Sched. 2, s. 78 (1)) Protection for Owners and Purchasers of New Homes Act, 2017 Trust in Real Estate Services Act, 2002 Ticket Sales Act, 2017 Towing and Storage Safety and Enforcement Act, 2021 Travel Industry Act, 2002 Upholstered and Stuffed Articles Act Vintners Quality Alliance Act, 1999 1999, c. 12, Sched. G, s. 11; 2002, c. 33, s. 143; 2004, c. 19, s. 14; 2005, c. 17, s. 49; 2005, c. 28, Sched. L, s. 59; 2005, c. 34, s. 55; 2006, c. 29, s. 63; 2008, c. 9, s. 80; 2011, c. 1, Sched. 1, s. 5 (3, 4); 2013, c. 13, Sched. 1, s. 15; 2014, c. 9, Sched. 5, s. 5 (1, 2); 2015, c. 38, Sched. 9, s. 46 (3); 2015, c. 38, Sched. 13, s. 2 (1); 2015, c. 28, Sched. 2, s. 81; 2017, c. 33, Sched. 1, s. 89; 2017, c. 33, Sched. 3, s. 38; 2018, c. 12, Sched. 2, s. 54 (3); 2019, c. 14, Sched. 10, s. 9; 2019, c. 15, Sched. 22, s. 97 (2); 2020, c. 1, s. 34; 2020, c. 36, Sched. 12, s. 21; 2022, c. 2, Sched. 8, s. 1. Certain appeals (2) Subsections (3) to (5) apply to appeals of decisions made in respect of proceedings under the Cannabis Licence Act, 2018, the Gaming Control Act, 1992, the Horse Racing Licence Act, 2015, the Liquor Licence and Control Act, 2019 or the Vintners Quality Alliance Act, 1999. 2018, c. 12, Sched. 2, s. 54 (4); 2019, c. 15, Sched. 22, s. 97 (3). Question of law only (3) An appeal may be made on a question of law only. 2011, c. 1, Sched. 1, s. 5 (5). Registrar a party (4) The Registrar under the Alcohol and Gaming Commission of Ontario Act, 2019 is a party to the appeal. 2018, c. 12, Sched. 2, s. 54 (4); 2019, c. 15, Sched. 1, s. 23 (3). Right to be heard (5) The Minister responsible for administration of the Act under which the decision that is the subject of the appeal was made is entitled to be heard, by counsel or otherwise, on the appeal. 2018, c. 12, Sched. 2, s. 54 (4). Insurance Act appeals — question of law only (6) An appeal from a decision of the Tribunal relating to a matter under the Insurance Act may be made on a question of law only. 2014, c. 9, Sched. 5, s. 5 (3). Section Amendments with date in force (d/m/y) 2002, c. 30, Sched. E, s. 8 - no effect - see 2004, c. 19, s. 8 (3)\r\n- 30/06/2005; 2002, c. 33, s. 143\r\n- 1/07/2012 2004, c. 19, s. 14 (1-4)\r\n- 30/07/2005; 2004, c. 19, s. 14 (5)\r\n- 1/01/2010; 2004, c. 19, s. 14 (6)\r\n- 31/06/2006; 2004, c. 19, s. 14 (7)\r\n- 1/07/2005 2005, c. 17, s. 49\r\n- 31/08/2005; 2005, c. 28, Sched. L, s. 59 - 18/09/2006; 2005, c. 34, s. 55\r\n- 23/08/2007 2006, c. 29, s. 63\r\n- 1/07/2008 2008, c. 9, s. 80\r\n- 1/04/2009 2011, c. 1, Sched. 1, s. 5 (3-5) - 1/07/2011 2013, c. 13, Sched. 1, s. 15 - 1/01/2015 2014, c. 9, Sched. 5, s. 5 (1-3) - 1/04/2016 2015, c. 28, Sched. 2, s. 81 - 01/11/2017; 2015, c. 38, Sched. 9, s. 46 (3-5) - 1/04/2016; 2015, c. 38, Sched. 13, s. 2 (1, 2) - 1/02/2016 2017, c. 5, Sched. 1, s. 79 - not in force; 2017, c. 33, Sched. 1, s. 89 - 01/02/2021; 2017, c. 33, Sched. 2, s. 78 - not in force; 2017, c. 33, Sched. 3, s. 38 - 01/07/2018 2018, c. 12, Sched. 2, s. 54 (3, 4) - 16/11/2018 2019, c. 7, Sched. 9, s. 52 - not in force; 2019, c. 14, Sched. 10, s. 9 - 10/12/2019; 2019, c. 15, Sched. 1, s. 23 (3) - 29/11/2021; 2019, c. 15, Sched. 22, s. 97 (2, 3) - 29/11/2021 2020, c. 1, s. 34\r\n- 01/12/2023; 2020, c. 36, Sched. 12, s. 21 - 08/06/2021 2022, c. 2, Sched. 8, s. 1 - 01/07/2023 2023, c. 9, Sched. 29, s. 12 - 01/01/2024; 2023, c. 23, Sched. 1, s. 114 - not in force",
+            "raw_html": "<p class=\"section\"><b>11 </b>(1) Subject to subsections (2) to (6), a party to a proceeding before the Tribunal relating to a matter under any of the following Acts may appeal from its decision or order to the Divisional Court in accordance with the rules of court:</p> <p class=\"parawindt\"><i>Bailiffs Act</i></p> <p class=\"parawindt\"><i>Board of Funeral Services Act</i></p> <p class=\"parawindt\"><i>Building Code Act, 1992</i></p> <p class=\"parawindt\"><i>Cannabis Licence Act, 2018</i></p> <p class=\"parawindt\"><i>Collection and Debt Settlement Services Act </i></p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (1) of the Act is amended by adding the following: (See: 2019, c. 7, Sched. 9, s. 52)</span></p> <p class=\"Yparawindt\"><i>Combative Sports Act, 2019</i></p> <p class=\"parawindt\"><i>Condominium Management Services Act, 2015</i></p> <p class=\"parawindt\"><i>Consumer Protection Act, 2002</i></p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (1) of the Act is amended by striking out “<i>Consumer Protection Act, 2002</i>” and substituting “<i>Consumer Protection Act, 2023</i>”. (See: 2023, c. 23 Sched. 1, s. 114)</span></p> <p class=\"parawindt\"><i>Consumer Reporting Act</i></p> <p class=\"parawindt\"><i>Discriminatory Business Practices Act</i></p> <p class=\"parawindt\"><i>Funeral, Burial and Cremation Services Act, 2002</i></p> <p class=\"parawindt\"><i>Gaming Control Act, 1992</i></p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (1) of the Act is amended by adding the following: (See: 2017, c. 5, Sched. 1, s. 79)</span></p> <p class=\"Yparawindt\"><i>Home Inspection Act, 2017</i></p> <p class=\"parawindt\"><i>Horse Racing Licence Act, 2015</i></p> <p class=\"parawindt\"><i>Insurance Act</i></p> <p class=\"parawindt\"><i>Liquor Licence and Control Act, 2019</i></p> <p class=\"parawindt\"><i>Motor Vehicle Dealers Act, 2002</i></p> <p class=\"parawindt\"><i>New Home Construction Licensing Act, 2017</i></p> <p class=\"parawindt\"><i>Ontario New Home Warranties Plan Act</i></p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (1) of the Act is amended by striking out “<i>Ontario New Home Warranties Plan Act</i>”. (See: 2017, c. 33, Sched. 2, s. 78 (2))</span></p> <p class=\"parawindt\"><i>Payday Loans Act, 2008</i></p> <p class=\"parawindt\"><i>Private Career Colleges Act, 2005</i></p> <p class=\"Pnote\"><span>Note: On <span>January 1, 2024, the day </span>named by proclamation of the Lieutenant Governor, subsection 11 (1) of the Act is amended </span><span>by striking out “</span><i>Private Career Colleges Act, 2005</i><span>” and substituting “</span><i>Ontario Career Colleges Act, 2005</i><span>”.</span><span> (See: 2023, c. 9, Sched. 29, s. 12)</span></p> <p class=\"parawindt\"><i>Private Security and Investigative Services Act, 2005</i></p> <p class=\"Pnote\"><span>Note: On a day to be named by proclamation of the Lieutenant Governor, subsection 11 (1) of the<i> </i><i>Act</i>\r\nis amended by adding the following: (See: 2017, c. 33, Sched. 2, s. 78 (1))</span></p> <p class=\"Yparawindt\"><i>Protection for Owners and Purchasers of New Homes Act, 2017</i></p> <p class=\"parawindt\"><i>Trust in Real Estate Services Act, 2002</i></p> <p class=\"parawindt\"><i>Ticket Sales Act, 2017</i></p> <p class=\"parawindt\"><i>Towing and Storage Safety and Enforcement Act, 2021</i></p> <p class=\"parawindt\"><i>Travel Industry Act, 2002</i></p> <p class=\"parawindt\"><i>Upholstered and Stuffed Articles Act</i></p> <p class=\"parawindt\"><i>Vintners Quality Alliance Act, 1999</i></p> <p class=\"footnote\">1999, c. 12, Sched. G, s. 11; 2002, c. 33, s. 143; 2004, c. 19, s. 14; 2005, c. 17, s. 49; 2005, c. 28, Sched. L, s. 59; 2005, c. 34, s. 55; 2006, c. 29, s. 63; 2008, c. 9, s. 80; 2011, c. 1, Sched. 1, s. 5 (3, 4); 2013, c. 13, Sched. 1, s. 15; 2014, c. 9, Sched. 5, s. 5 (1, 2); 2015, c. 38, Sched. 9, s. 46 (3); 2015, c. 38, Sched. 13, s. 2 (1); 2015, c. 28, Sched. 2, s. 81; 2017, c. 33, Sched. 1, s. 89; 2017, c. 33, Sched. 3, s. 38; 2018, c. 12, Sched. 2, s. 54 (3); 2019, c. 14, Sched. 10, s. 9; 2019, c. 15, Sched. 22, s. 97 (2); 2020, c. 1, s. 34; 2020, c. 36, Sched. 12, s. 21; 2022, c. 2, Sched. 8, s. 1.</p> <p class=\"headnote\">Certain appeals</p> <p class=\"subsection\">(2) Subsections (3) to (5) apply to appeals of decisions made in respect of proceedings under the <i>Cannabis Licence Act, 2018</i>, the <i>Gaming Control Act, 1992</i>, the <i>Horse Racing Licence Act, 2015</i>, the <i>Liquor Licence and Control Act, 2019</i> or the <i>Vintners Quality Alliance Act, 1999</i>. 2018, c. 12, Sched. 2, s. 54 (4); 2019, c. 15, Sched. 22, s. 97 (3).</p> <p class=\"headnote\">Question of law only</p> <p class=\"subsection\">(3) An appeal may be made on a question of law only. 2011, c. 1, Sched. 1, s. 5 (5).</p> <p class=\"headnote\">Registrar a party</p> <p class=\"subsection\">(4) The Registrar under the <i>Alcohol and Gaming Commission of Ontario Act, 2019</i> is a party to the appeal. 2018, c. 12, Sched. 2, s. 54 (4); 2019, c. 15, Sched. 1, s. 23 (3).</p> <p class=\"headnote\">Right to be heard</p> <p class=\"subsection\">(5) The Minister responsible for administration of the Act under which the decision that is the subject of the appeal was made is entitled to be heard, by counsel or otherwise, on the appeal. 2018, c. 12, Sched. 2, s. 54 (4).</p> <p class=\"headnote\"><i>Insurance Act</i> appeals — question of law only</p> <p class=\"subsection\">(6) An appeal from a decision of the Tribunal relating to a matter under the <i>Insurance Act</i> may be made on a question of law only. 2014, c. 9, Sched. 5, s. 5 (3).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S02030#schedes8\">2002, c. 30, Sched. E, s. 8</a></span> - no effect - see <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S04019#s8s3\">2004, c. 19, s. 8 (3)</a></span>\r\n- 30/06/2005; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S02033#s143\">2002, c. 33, s. 143</a></span>\r\n- 1/07/2012</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S04019#s14s1\">2004, c. 19, s. 14 (1-4)</a></span>\r\n- 30/07/2005; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S04019#s14s5\">2004, c. 19, s. 14 (5)</a></span>\r\n- 1/01/2010; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S04019#s14s6\">2004, c. 19, s. 14 (6)</a></span>\r\n- 31/06/2006; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S04019#s14s7\">2004, c. 19, s. 14 (7)</a></span>\r\n- 1/07/2005</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S05017#s49\">2005, c. 17, s. 49</a></span>\r\n- 31/08/2005; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S05028#schedls59\">2005, c. 28, Sched. L, s. 59</a></span> - 18/09/2006; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S05034#s55\">2005, c. 34, s. 55</a></span>\r\n- 23/08/2007</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S06029#s63\">2006, c. 29, s. 63</a></span>\r\n- 1/07/2008</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S08009#s80\">2008, c. 9, s. 80</a></span>\r\n- 1/04/2009</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S11001#sched1s5s3\">2011, c. 1, Sched. 1, s. 5 (3-5)</a></span> - 1/07/2011</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S13013#sched1s15\">2013, c. 13, Sched. 1, s. 15</a></span> - 1/01/2015</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S14009#sched5s5s1\">2014, c. 9, Sched. 5, s. 5 (1-3)</a></span> - 1/04/2016</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15028#sched2s81\">2015, c. 28, Sched. 2, s. 81</a></span> - 01/11/2017; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15038#sched9s46s3\">2015, c. 38, Sched. 9, s. 46 (3-5)</a></span> - 1/04/2016; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15038#sched13s2s1\">2015, c. 38, Sched. 13, s. 2 (1, 2)</a></span> - 1/02/2016</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17005#sched1s79\">2017, c. 5, Sched. 1, s. 79</a></span> - not in force; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17033#sched1s89\">2017, c. 33, Sched. 1, s. 89</a></span> - 01/02/2021; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17033#sched2s78s1\">2017, c. 33, Sched. 2, s. 78</a></span> - not in force; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S17033#sched3s38\">2017, c. 33, Sched. 3, s. 38</a></span> - 01/07/2018</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S18012#sched2s54s3\">2018, c. 12, Sched. 2, s. 54 (3, 4)</a></span> - 16/11/2018</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19007#sched9s52\">2019, c. 7, Sched. 9, s. 52</a></span> - not in force; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19014#sched10s9\">2019, c. 14, Sched. 10, s. 9</a></span> - 10/12/2019; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19015#sched1s23s3\">2019, c. 15, Sched. 1, s. 23 (3)</a></span> - 29/11/2021; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19015#sched22s97s2\">2019, c. 15, Sched. 22, s. 97 (2, 3)</a></span> - 29/11/2021</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20001#s34\">2020, c. 1, s. 34</a></span>\r\n- 01/12/2023; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S20036#sched12s21\">2020, c. 36, Sched. 12, s. 21</a></span> - 08/06/2021</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S22002#sched8s1\">2022, c. 2, Sched. 8, s. 1</a></span> - 01/07/2023</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23009#sched29s12\">2023, c. 9, Sched. 29, s. 12</a></span> <span>- 01/01/2024; </span><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S23023#sched1s114\">2023, c. 23, Sched. 1, s. 114</a></span> <span>- not in force</span></p>"
+        },
+        {
+            "id": "12",
+            "section": "Regulations",
+            "content": "12 (1) The Lieutenant Governor in Council may make regulations, (a) prescribing rules of practice and procedure for proceedings before the Tribunal with respect to appeals to the Tribunal under the Highway Traffic Act; (b) governing transitional matters relating to hearings of matters under the Racing Commission Act, 2000, as a result of the coming into force of the Horse Racing Licence Act, 2015; (c), (d) Repealed: 2015, c. 38, Sched. 9, s. 46 (6); (e) governing transitional matters relating to disputes in respect of statutory accident benefits as defined in subsection 224 (1) of the Insurance Act as a result of the coming into force of section 14 of Schedule 3 to the Fighting Fraud and Reducing Automobile Insurance Rates Act, 2014; (f)  Repealed: 2019, c. 15, Sched. 22, s. 97 (4). 2011, c. 1, Sched. 1, s. 5 (6); 2014, c. 9, Sched. 5, s. 6; 2015, c. 38, Sched. 9, s. 46 (6); 2015, c. 38, Sched. 13, s. 3; 2019, c. 15, Sched. 22, s. 97 (4). Scope of regulations (2) The prescribed rules may be of general or particular application. 1999, c. 12, Sched. G, s. 12 (2). Conflict (3) If the prescribed rules conflict with the Statutory Powers Procedure Act or any other Act or rules made under that Act or any other Act, the prescribed rules prevail. 1999, c. 12, Sched. G, s. 12 (3). Section Amendments with date in force (d/m/y) 2011, c. 1, Sched. 1, s. 5 (6) - 1/07/2011 2014, c. 9, Sched. 5, s. 6 - 1/04/2016 2015, c. 38, Sched. 9, s. 46 (6) - 1/04/2016; 2015, c. 38, Sched. 13, s. 3 - 1/02/2016 2019, c. 15, Sched. 22, s. 97 (4) - 29/11/2021 13-36 Omitted (amends or repeals other Acts).  1999, c. 12, Sched. G, ss. 13-36. 37 Omitted (provides for coming into force of provisions of this Act).  1999, c. 12, Sched. G, s. 37. 38 Omitted (enacts short title of this Act).  1999, c. 12, Sched. G, s. 38. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>12 </b>(1) The Lieutenant Governor in Council may make regulations,</p> <p class=\"paragraph\">  (a) prescribing rules of practice and procedure for proceedings before the Tribunal with respect to appeals to the Tribunal under the <i>Highway Traffic Act</i>;</p> <p class=\"paragraph\">  (b) governing transitional matters relating to hearings of matters under the <i>Racing Commission Act, 2000</i>, as a result of the coming into force of the <i>Horse Racing Licence Act, 2015</i>;</p> <p class=\"paragraph\"> (c), (d) <span class=\"ovsmallcap\">Repealed</span>: 2015, c. 38, Sched. 9, s. 46 (6);</p> <p class=\"paragraph\">  (e) governing transitional matters relating to disputes in respect of statutory accident benefits as defined in subsection 224 (1) of the <i>Insurance Act </i>as a result of the coming into force of section 14 of Schedule 3 to the <i>Fighting Fraud and Reducing Automobile Insurance Rates Act, 2014</i>;</p> <p class=\"paragraph\">  (f)  <span class=\"ovsmallcap\">Repealed</span>: 2019, c. 15, Sched. 22, s. 97 (4).</p> <p class=\"footnote\">2011, c. 1, Sched. 1, s. 5 (6); 2014, c. 9, Sched. 5, s. 6; 2015, c. 38, Sched. 9, s. 46 (6); 2015, c. 38, Sched. 13, s. 3; 2019, c. 15, Sched. 22, s. 97 (4).</p> <p class=\"headnote\">Scope of regulations</p> <p class=\"subsection\">(2) The prescribed rules may be of general or particular application. 1999, c. 12, Sched. G, s. 12 (2).</p> <p class=\"headnote\">Conflict</p> <p class=\"subsection\">(3) If the prescribed rules conflict with the <i>Statutory Powers Procedure Act</i> or any other Act or rules made under that Act or any other Act, the prescribed rules prevail. 1999, c. 12, Sched. G, s. 12 (3).</p> <p align=\"left\" class=\"footnoteLeft\"><b>Section Amendments with date in force (d/m/y)</b></p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S11001#sched1s5s6\">2011, c. 1, Sched. 1, s. 5 (6)</a></span> - 1/07/2011</p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S14009#sched5s6\">2014, c. 9, Sched. 5, s. 6</a></span> - 1/04/2016</p> <p align=\"left\" class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15038#sched9s46s6\">2015, c. 38, Sched. 9, s. 46 (6)</a></span> - 1/04/2016; <span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S15038#sched13s3\">2015, c. 38, Sched. 13, s. 3</a></span> - 1/02/2016</p> <p class=\"footnoteLeft\"><span class=\"MsoHyperlink\"><a href=\"http://www.ontario.ca/laws/statute/S19015#sched22s97s4\">2019, c. 15, Sched. 22, s. 97 (4)</a></span> - 29/11/2021</p> <p class=\"section\"><b>13-36 </b><span class=\"ovsmallcap\">Omitted (amends or repeals other Acts</span><span>)</span>.  1999, c. 12, Sched. G, ss. 13-36.</p> <p class=\"section\"><b>37 </b><span class=\"ovsmallcap\">Omitted (provides for coming into force of provisions of this Act</span><span>)</span>.  1999, c. 12, Sched. G, s. 37.</p> <p class=\"section\"><b>38 </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act</span><span>)</span>.  1999, c. 12, Sched. G, s. 38.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/99l12\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "13-36",
+            "section": "Conflict",
+            "content": "13-36 Omitted (amends or repeals other Acts).  1999, c. 12, Sched. G, ss. 13-36. 37 Omitted (provides for coming into force of provisions of this Act).  1999, c. 12, Sched. G, s. 37. 38 Omitted (enacts short title of this Act).  1999, c. 12, Sched. G, s. 38. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>13-36 </b><span class=\"ovsmallcap\">Omitted (amends or repeals other Acts</span><span>)</span>.  1999, c. 12, Sched. G, ss. 13-36.</p> <p class=\"section\"><b>37 </b><span class=\"ovsmallcap\">Omitted (provides for coming into force of provisions of this Act</span><span>)</span>.  1999, c. 12, Sched. G, s. 37.</p> <p class=\"section\"><b>38 </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act</span><span>)</span>.  1999, c. 12, Sched. G, s. 38.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/99l12\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "37",
+            "section": "Conflict",
+            "content": "37 Omitted (provides for coming into force of provisions of this Act).  1999, c. 12, Sched. G, s. 37. 38 Omitted (enacts short title of this Act).  1999, c. 12, Sched. G, s. 38. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>37 </b><span class=\"ovsmallcap\">Omitted (provides for coming into force of provisions of this Act</span><span>)</span>.  1999, c. 12, Sched. G, s. 37.</p> <p class=\"section\"><b>38 </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act</span><span>)</span>.  1999, c. 12, Sched. G, s. 38.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/99l12\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        },
+        {
+            "id": "38",
+            "section": "Conflict",
+            "content": "38 Omitted (enacts short title of this Act).  1999, c. 12, Sched. G, s. 38. ______________  Français  ",
+            "raw_html": "<p class=\"section\"><b>38 </b><span class=\"ovsmallcap\">Omitted (enacts short title of this Act</span><span>)</span>.  1999, c. 12, Sched. G, s. 38.</p> <p class=\"line\">______________</p> <p class=\"line\"> </p> <p class=\"MsoNormal\"><a href=\"http://www.ontario.ca/fr/lois/loi/99l12\">Français</a></p> <p class=\"MsoNormal\"> </p> <p class=\"MsoNormal\"></p>"
+        }
+    ]
+}

@@ -1,5 +1,12 @@
-pandas
-requests
-bs4
-selenium
-webdriver_manager
+# Core dependencies
+pandas>=2.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Web scraping with Selenium (optional - for dynamic content)
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# Type checking and development tools
+typing-extensions>=4.8.0
